@@ -1,0 +1,52 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}WaveSpeed{% endblock %}</title>
+    
+    {% load static %}
+
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#111111',
+                        secondary: '#1a1a1a',
+                        accent: '#1e293b',
+                        highlight: '#334155',
+                        border: '#333333',
+                        'primary-blue': '#3a86ff',
+                        'text-light': '#cccccc',
+                        'dark-bg': '#0f172a',
+                    },
+                    backgroundImage: {
+                        'gradient-dark': 'linear-gradient(135deg, #0f172a 0%, #1e293b 100%)',
+                        'gradient-blue': 'linear-gradient(135deg, #3b82f6, #1d4ed8)',
+                        'text-gradient': 'linear-gradient(to right, #fff, #93c5fd)',
+                    }
+                }
+            }
+        }
+    </script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js"></script>
+    
+    <link rel="stylesheet" href="{% static 'css/custom.css' %}">
+    
+    {% block extra_css %}{% endblock %}
+</head>
+
+<body class="bg-primary text-white font-sans">
+    {% block content %}
+    {% endblock %}
+    
+    <script src="{% static 'js/common.js' %}"></script>
+    
+    {% block extra_js %}{% endblock %}
+</body>
+</html>
