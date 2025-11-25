@@ -1,0 +1,169 @@
+{
+    "language": "en",
+    "title": "WaveSpeed AI - Remove Objects from Photos Instantly",
+    "nav": {
+        "features": "Features",
+        "howItWorks": "How It Works",
+        "examples": "Examples",
+        "tryNow": "Try Now"
+    },
+    "hero": {
+        "heading": "Remove Objects from Photos",
+        "description": "Enter your prompt to automatically remove unwanted objects from the image.",
+        "seeAction": {
+            "heading": "See It In Action",
+            "items": [
+                {
+                    "title": "Before",
+                    "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+                    "imageAlt": "Example photo before object removal"
+                },
+                {
+                    "title": "After",
+                    "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+                    "imageAlt": "Example photo after object removal"
+                }
+            ]
+        },
+        "removePhoto": {
+            "heading": "Remove Objects from Photos",
+            "prompt": {
+                "heading": " Prompt",
+                "placeholder": "E.g., Remove the person on the left, delete the watermark, erase the text overlay..."
+            },
+            "upload": {
+                "heading": " Select image or Input URL"
+            },
+            "processButton": "Remove Objects Now"
+        }
+    },
+    "trustIndicators": {
+        "items": [
+            {
+                "title": "10M+",
+                "description": "Images Processed"
+            },
+            {
+                "title": "99.8%",
+                "description": "Satisfaction Rate"
+            },
+            {
+                "title": "2.5s",
+                "description": "Average Processing Time"
+            },
+            {
+                "title": "4.9/5",
+                "description": "User Rating"
+            }
+        ]
+    },
+    "examples": {
+        "heading": "Before & After Examples",
+        "description": "See how WaveSpeed AI can transform your photos by removing unwanted elements with precision.",
+        "items": [
+            {
+                "title": "Remove Unwanted Objects",
+                "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+                "imageAlt": "Example showing removal of unwanted objects from a photo",
+                "description": "Easily remove distracting elements from your photos"
+            },
+            {
+                "title": "Remove Watermarks",
+                "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+                "imageAlt": "Example showing removal of watermarks from a photo",
+                "description": "Clean up images by removing text overlays and watermarks"
+            }
+        ]
+    },
+    "features": {
+        "heading": "Why Choose WaveSpeed AI?",
+        "description": "Our advanced AI technology delivers professional results with ease.",
+        "items": [
+            {
+                "icon": "bolt",
+                "title": "Lightning Fast",
+                "description": "Get results in seconds with our optimized AI algorithms. No waiting for uploads or processing queues."
+            },
+            {
+                "icon": "user-friends",
+                "title": "Easy to Use",
+                "description": "No technical skills required. Simply upload your photo and let our AI do the work for you."
+            },
+            {
+                "icon": "shield-alt",
+                "title": "Privacy Focused",
+                "description": "Your images are processed securely in your browser and never leave your device."
+            }
+        ]
+    },
+    "howItWorks": {
+        "heading": "How It Works",
+        "description": "Three simple steps to perfect photos",
+        "items": [
+            {
+                "serial": "1",
+                "title": "Upload Image",
+                "description": "Upload your photo by dragging and dropping or browsing files. Our system supports JPG, PNG, and WebP formats."
+            },
+            {
+                "serial": "2",
+                "title": "AI Processing",
+                "description": "Our advanced AI automatically detects and removes unwanted objects while preserving image quality."
+            },
+            {
+                "serial": "3",
+                "title": "Download Result",
+                "description": "Preview the result with our comparison slider and download your edited image in high quality."
+            }
+        ]
+    },
+    "testimonial": {
+        "heading": "What Our Users Say",
+        "description": "Join thousands of satisfied users who transform their photos with WaveSpeed AI",
+        "items": [
+            {
+                "name": "Sarah Johnson",
+                "stars": 5,
+                "comment": "I was amazed at how easily WaveSpeed removed photobombers from my vacation pictures. It saved me hours of editing!"
+            },
+            {
+                "name": "Michael Chen",
+                "stars": 5,
+                "comment": "As a real estate photographer, WaveSpeed has been a game-changer for removing distracting elements from property photos."
+            },
+            {
+                "name": "Sarah Johnson",
+                "stars": 5,
+                "comment": "The privacy aspect sold me on WaveSpeed. Knowing my photos never leave my device gives me peace of mind."
+            }
+        ]
+    },
+    "faq": {
+        "heading": "Frequently Asked Questions",
+        "description": "Find answers to common questions about WaveSpeed AI",
+        "items": [
+            {
+                "title": "What types of objects can WaveSpeed remove?",
+                "description": "WaveSpeed AI can remove a wide variety of unwanted elements including people, text, watermarks, logos, shadows, reflections, and various objects like trash cans, power lines, or photobombers. The AI is trained to recognize and intelligently replace these elements with appropriate background content."
+            },
+            {
+                "title": "Is WaveSpeed completely free to use?",
+                "description": "Yes! Each user receives 30 free credits daily, allowing you to create hundreds of images. You can also earn additional credits through user surveys or daily challenges on our Discord server. For professional users with higher volume needs, we offer affordable subscription plans with additional features."
+            },
+            {
+                "title": "Can I use my generated content for commercial purposes?",
+                "description": "Paid users with any subscription plan can use generated content for commercial purposes. Free-tier users can use generated content for personal projects but are restricted from commercial use. For specific licensing questions, please review our Terms of Service or contact our support team."
+            },
+            {
+                "title": "How does the privacy protection work?",
+                "description": "WaveSpeed processes all images directly in your browser using WebAssembly and JavaScript. Your photos are never uploaded to our servers or stored anywhere. This ensures complete privacy and security for your images. Once you close the browser tab, all processing data is cleared."
+            }
+        ]
+    },
+    "footer": {
+        "heading": "Ready to Transform Your Photos?",
+        "description": "Try WaveSpeed AI now and see the difference for yourself. No sign-up required.",
+        "ctaText": "Remove Objects Now",
+        "text": "© 2025 WaveSpeed AI. All rights reserved."
+    }
+}

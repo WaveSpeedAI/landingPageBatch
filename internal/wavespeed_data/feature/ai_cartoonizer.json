@@ -1,0 +1,169 @@
+{
+    "language": "en",
+    "title": "AI Cartoonizer - Turn Any Photo into Cartoon Art Instantly",
+    "nav": {
+        "features": "Features",
+        "howItWorks": "How It Works",
+        "examples": "Examples",
+        "tryNow": "Try Now"
+    },
+    "hero": {
+        "heading": "Convert Photos into Cartoon Art",
+        "description": "Upload your image and let our AI turn it into cartoon, anime, Pixar-style, or comic-style artwork instantly.",
+        "seeAction": {
+            "heading": "See It In Action",
+            "items": [
+                {
+                    "title": "Before",
+                    "imageUrl": "https://d1q70pf5vjeyhc.cloudfront.net/predictions/6b95ba19ca2e488ca9d1271405817155/1.png",
+                    "imageAlt": "Before cartoon transformation"
+                },
+                {
+                    "title": "After",
+                    "imageUrl": "https://d1q70pf5vjeyhc.cloudfront.net/predictions/17a0329533284ec8a431d8153fbf01d2/1.jpeg",
+                    "imageAlt": "After cartoon transformation"
+                }
+            ]
+        },
+        "removePhoto": {
+            "heading": "Turn Your Photo Into a Cartoon",
+            "prompt": {
+                "heading": "Prompt",
+                "placeholder": "E.g., Pixar style, anime portrait, comic book effect, 3D cartoon character..."
+            },
+            "upload": {
+                "heading": "Select Image or Input URL"
+            },
+            "processButton": "Cartoonize Now"
+        }
+    },
+    "trustIndicators": {
+        "items": [
+            {
+                "title": "10M+",
+                "description": "Images Cartoonized"
+            },
+            {
+                "title": "99.2%",
+                "description": "User Satisfaction"
+            },
+            {
+                "title": "2.4s",
+                "description": "Average Processing Time"
+            },
+            {
+                "title": "4.9/5",
+                "description": "User Rating"
+            }
+        ]
+    },
+    "examples": {
+        "heading": "Before & After Examples",
+        "description": "See how AI Cartoonizer transforms ordinary photos into stunning cartoon artwork.",
+        "items": [
+            {
+                "title": "Anime Style",
+                "imageUrl": "https://d1q70pf5vjeyhc.cloudfront.net/predictions/e0614e3f2286408eac99e17fbbb0ae50/1.jpeg",
+                "imageAlt": "AI-generated anime portrait example",
+                "description": "Turn your portrait into a vibrant anime character"
+            },
+            {
+                "title": "Pixar 3D Style",
+                "imageUrl": "https://d1q70pf5vjeyhc.cloudfront.net/predictions/9f33106a10f749e5b6daedf17ac54aa9/1.jpeg",
+                "imageAlt": "AI-generated Pixar-style portrait",
+                "description": "Transform your face into a cute 3D cartoon character"
+            }
+        ]
+    },
+    "features": {
+        "heading": "Why Choose AI Cartoonizer?",
+        "description": "Create high-quality cartoon art with just one click—no design skills needed.",
+        "items": [
+            {
+                "icon": "bolt",
+                "title": "Instant Results",
+                "description": "Our AI generates cartoon images in seconds. No waiting, no queues."
+            },
+            {
+                "icon": "user-friends",
+                "title": "Beginner Friendly",
+                "description": "Just upload a photo and choose your style. The AI handles everything automatically."
+            },
+            {
+                "icon": "shield-alt",
+                "title": "Privacy First",
+                "description": "Your images never leave your device—processing is done securely in your browser."
+            }
+        ]
+    },
+    "howItWorks": {
+        "heading": "How It Works",
+        "description": "Turn your photo into a cartoon in three simple steps",
+        "items": [
+            {
+                "serial": "1",
+                "title": "Upload Image",
+                "description": "Drag and drop, or upload from your device. Supports JPG, PNG, and WebP."
+            },
+            {
+                "serial": "2",
+                "title": "Choose a Cartoon Style",
+                "description": "Select from anime, comic, Pixar 3D, hand-drawn, or realistic cartoon styles."
+            },
+            {
+                "serial": "3",
+                "title": "Download Your Cartoon",
+                "description": "Preview side-by-side and download your cartoon image in high resolution."
+            }
+        ]
+    },
+    "testimonial": {
+        "heading": "What Our Users Say",
+        "description": "See what people are saying about AI Cartoonizer",
+        "items": [
+            {
+                "name": "Sarah Johnson",
+                "stars": 5,
+                "comment": "My friends love the Pixar-style portrait! This tool is super fun and unbelievably easy to use."
+            },
+            {
+                "name": "Michael Chen",
+                "stars": 5,
+                "comment": "As an illustrator, this saves me so much time creating cartoon concepts. The anime mode is amazing."
+            },
+            {
+                "name": "Emily Carter",
+                "stars": 5,
+                "comment": "Love the privacy—my photos never upload anywhere. The cartoon quality is incredible!"
+            }
+        ]
+    },
+    "faq": {
+        "heading": "Frequently Asked Questions",
+        "description": "Everything you need to know about AI Cartoonizer",
+        "items": [
+            {
+                "title": "What types of cartoon styles are supported?",
+                "description": "AI Cartoonizer supports anime style, Pixar-like 3D, comic book, watercolor cartoon, sketch cartoon, and semi-realistic cartoon transformations."
+            },
+            {
+                "title": "Is AI Cartoonizer free?",
+                "description": "Yes! You can generate cartoon images for free with daily credits. You can earn additional credits or upgrade for unlimited usage."
+            },
+            {
+                "title": "Can I use these cartoon images commercially?",
+                "description": "Users with any paid plan can use generated artwork for commercial projects. Free-plan users are limited to personal use only."
+            },
+            {
+                "title": "How is my privacy protected?",
+                "description": "All processing is done locally in your browser using WebAssembly. Images are never uploaded or stored on a server."
+            }
+        ]
+    },
+    "footer": {
+        "heading": "Ready to Cartoonize Your Photo?",
+        "description": "Try AI Cartoonizer now and turn your photos into stunning cartoon artwork.",
+        "ctaText": "Cartoonize Now",
+        "text": "© 2025 AI Cartoonizer. All rights reserved."
+    }
+}

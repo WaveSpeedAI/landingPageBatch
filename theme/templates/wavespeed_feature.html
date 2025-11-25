@@ -1,0 +1,294 @@
+{% extends 'base.html' %}
+
+{% load extras %}
+
+{% block title%} {{ title }} {% endblock %}
+
+{% block content %}
+<nav class="bg-primary/95 backdrop-blur-sm border-b border-border sticky top-0 z-50 py-4 transition-all duration-300"
+    id="navbar">
+    <div class="container mx-auto px-4">
+        <div class="flex items-center justify-between">
+            <a href="https://wavespeed.ai/" class="flex items-center" aria-label="WaveSpeed Home">
+                <img src="https://d1q70pf5vjeyhc.wavespeed.ai/media/images/1753687853790377214_jkvrokhe.png"
+                    alt="WaveSpeed AI Logo" class="wavespeed-logo">
+            </a>
+
+            <div class="hidden md:flex items-center space-x-8">
+                <a href="#features"
+                    class="text-text-light hover:text-white transition-colors font-medium hover:underline underline-offset-4">{{nav.features}}</a>
+                <a href="#how-it-works"
+                    class="text-text-light hover:text-white transition-colors font-medium hover:underline underline-offset-4">{{nav.howItWorks}}</a>
+                <a href="#examples"
+                    class="text-text-light hover:text-white transition-colors font-medium hover:underline underline-offset-4">{{nav.examples}}</a>
+            </div>
+
+            <!-- Mobile menu button -->
+            <button class="md:hidden p-2 text-text-light hover:text-white transition-colors" id="mobile-menu-button"
+                aria-label="Toggle mobile menu">
+                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16">
+                    </path>
+                </svg>
+            </button>
+        </div>
+
+        <!-- Mobile menu -->
+        <div class="md:hidden hidden mt-4 py-4 border-t border-highlight" id="mobile-menu">
+            <div class="flex flex-col space-y-4">
+                <a href="#features"
+                    class="text-text-light hover:text-white transition-colors font-medium py-2">{{nav.features}}</a>
+                <a href="#how-it-works"
+                    class="text-text-light hover:text-white transition-colors font-medium py-2">{{nav.howItWorks}}</a>
+                <a href="#examples"
+                    class="text-text-light hover:text-white transition-colors font-medium py-2">{{nav.examples}}</a>
+                <a href="#upload"
+                    class="bg-primary-gray hover:bg-gray-600 text-white px-6 py-2 rounded-lg font-medium transition-colors text-center">
+                    {{nav.tryNow}}
+                </a>
+            </div>
+        </div>
+    </div>
+</nav>
+
+<main id="main-content">
+    <!-- Hero Section -->
+    <section class="bg-hero-gradient py-20 lg:py-24 relative overflow-hidden">
+        <div class="absolute inset-0 bg-gradient-to-r from-transparent via-primary/20 to-transparent"></div>
+        <div class="container mx-auto px-4 relative z-10">
+            <div class="max-w-4xl mx-auto text-center mb-16 animate-fade-in">
+                <h1
+                    class="text-4xl lg:text-6xl font-bold mb-6 bg-text-gradient bg-clip-text text-transparent leading-tight">
+                    {{hero.heading}}
+                </h1>
+                <p class="text-xl text-text-light mb-10 max-w-2xl mx-auto">
+                    {{hero.description}}
+                </p>
+            </div>
+
+            <div class="flex flex-col lg:flex-row items-stretch justify-between gap-10 mt-10">
+                <!-- Example Section - Left -->
+                <div class="flex-1 min-w-0 animate-slide-up">
+                    <div class="bg-accent rounded-2xl p-6 border border-highlight shadow-2xl h-full">
+                        <h3 class="text-2xl font-bold mb-4 text-center">{{hero.seeAction.heading}}</h3>
+                        <div class="grid grid-cols-2 gap-4">
+
+                            {% for item in hero.seeAction.items %}
+                            <div class="text-center">
+                                <h4 class="text-lg font-semibold mb-2 text-text-light">
+                                    {{item.title}}</h4>
+                                <div class="aspect-square rounded-xl overflow-hidden border-2 border-highlight">
+                                    <img src="{{item.imageUrl}}" alt="{{item.imageAlt}}"
+                                        class="w-full h-full object-cover">
+                                </div>
+                            </div>
+                            {% endfor %}
+
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Upload Section - Right -->
+                <div class="flex-1 min-w-0 animate-slide-up" style="animation-delay: 0.2s">
+                    <div class="bg-accent rounded-2xl p-8 border border-highlight shadow-2xl h-full">
+                        <h2 class="text-3xl font-bold mb-6 text-center">{{hero.removePhoto.heading}}</h2>
+
+                        <!-- Prompt Input -->
+                        <div class="mb-6">
+                            <label for="promptInput" class="block text-lg font-semibold mb-3 text-text-light">
+                                <i class="fas fa-comment-dots mr-2 text-primary-gray"></i>
+                                {{hero.removePhoto.prompt.heading}}*
+                            </label>
+                            <textarea id="promptInput" placeholder="{{hero.removePhoto.prompt.placeholder}}"
+                                class="w-full bg-primary border border-highlight rounded-xl p-4 text-white placeholder-text-light focus:border-primary-gray focus:ring-2 focus:ring-primary-gray/20 transition-all resize-none"
+                                rows="3"></textarea>
+                        </div>
+
+                        <!-- Simple Upload Input -->
+                        <div class="mb-6">
+                            <label for="fileInput" class="block text-lg font-semibold mb-3 text-text-light">
+                                <i class="fas fa-image mr-2 text-primary-gray"></i>
+                                {{hero.removePhoto.upload.heading}}*
+                            </label>
+                            <input type="file" id="fileInput" accept="image/*"
+                                class="w-full bg-primary border border-highlight rounded-xl p-3 text-white file:mr-4 file:py-2 file:px-4 file:rounded-lg file:border-0 file:text-sm file:font-semibold file:bg-primary-gray file:text-white hover:file:bg-gray-600 transition-all">
+                        </div>
+
+                        <button id="processButton"
+                            class="w-full bg-primary-gray hover:bg-gray-600 text-white py-4 rounded-xl font-bold transition-all shadow-lg hover:shadow-xl flex items-center justify-center">
+                            <i class="fas fa-magic mr-2"></i> {{hero.removePhoto.processButton}}
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Trust Indicators -->
+    <section class="py-12 bg-secondary">
+        <div class="container mx-auto px-4">
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
+                {% for item in trustIndicators.items %}
+                <div>
+                    <div class="text-3xl font-bold text-custom-pink">{{item.title}}</div>
+                    <div class="text-text-light">{{item.description}}</div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </section>
+
+    <!-- Examples Section -->
+    <section id="examples" class="py-20 bg-primary">
+        <div class="container mx-auto px-4">
+            <div class="text-center mb-16">
+                <h2 class="text-4xl font-bold mb-4">
+                    {{examples.heading}}
+                </h2>
+                <p class="text-xl text-text-light max-w-2xl mx-auto">{{examples.description}}</p>
+            </div>
+            <div class="grid md:grid-cols-2 gap-12">
+                {% for item in examples.items %}
+                <div class="example-item">
+                    <div class="comparison-container">
+                        <img src="{{item.imageUrl}}" alt="{{item.imageAlt}}"
+                            class="w-full h-full object-cover rounded-xl">
+                    </div>
+                    <h4 class="text-xl font-semibold mt-4 text-center">{{item.title}}</h4>
+                    <p class="text-text-light text-center mt-2">{{item.description}}
+                    </p>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section id="features" class="py-20 bg-accent">
+        <div class="container mx-auto px-4">
+            <div class="text-center mb-16">
+                <h2 class="text-4xl font-bold mb-4">{{features.heading}}</h2>
+                <p class="text-xl text-text-light max-w-2xl mx-auto">{{features.description}}</p>
+            </div>
+            <div class="grid md:grid-cols-3 gap-8">
+
+                {% for item in features.items %}
+                <div
+                    class="bg-primary rounded-2xl p-8 border border-highlight hover:border-primary-gray transition-all hover:transform hover:-translate-y-2 shadow-lg">
+                    <div class="w-12 h-12 bg-gray-500/10 rounded-lg flex items-center justify-center mb-6">
+                        <!-- icon -->
+                        <i class="fas fa-{{item.icon}} text-2xl text-primary-gray"></i>
+                    </div>
+                    <h4 class="text-xl font-semibold mb-3">{{item.title}}</h4>
+                    <p class="text-text-light">{{item.description}}</p>
+                </div>
+                {% endfor %}
+
+            </div>
+        </div>
+    </section>
+
+    <!-- How It Works Section -->
+    <section id="how-it-works" class="py-20 bg-primary">
+        <div class="container mx-auto px-4">
+            <div class="text-center mb-16">
+                <h2 class="text-4xl font-bold mb-4">{{howItWorks.heading}}</h2>
+                <p class="text-xl text-text-light max-w-2xl mx-auto">{{howItWorks.description}}</p>
+            </div>
+            <div class="grid md:grid-cols-3 gap-8">
+
+                {% for item in howItWorks.items %}
+                <div
+                    class="bg-accent rounded-2xl p-8 text-center border border-highlight hover:transform hover:-translate-y-2 transition-all shadow-lg">
+                    <div
+                        class="bg-gradient-gray text-white w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-6 text-2xl font-bold shadow-lg">
+                        {{item.serial}}
+                    </div>
+                    <h4 class="text-xl font-semibold mb-3">{{item.title}}</h4>
+                    <p class="text-text-light">{{item.description}}</p>
+                </div>
+                {% endfor %}
+
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials Section -->
+    <section class="py-20 bg-secondary">
+        <div class="container mx-auto px-4">
+            <div class="text-center mb-16">
+                <h2 class="text-4xl font-bold mb-4">{{testimonial.heading}}</h2>
+                <p class="text-xl text-text-light max-w-2xl mx-auto">{{testimonial.description}}</p>
+            </div>
+            <div class="grid md:grid-cols-3 gap-8">
+                {% for item in testimonial.items %}
+                <div class="bg-primary rounded-2xl p-6 border border-highlight">
+                    <div class="flex items-center mb-4">
+                        <div class="w-12 h-12 bg-highlight rounded-full flex items-center justify-center mr-4">
+                            <i class="fas fa-user text-text-light"></i>
+                        </div>
+                        <div>
+                            <h4 class="font-semibold">{{item.name}} </h4>
+                            <div class="flex text-warning">
+
+                                {% for _ in item.stars|times %}
+                                <i class="fas fa-star"></i>
+                                {% endfor %}
+
+                            </div>
+                        </div>
+                    </div>
+                    <p class="text-text-light">"{{item.comment}}"</p>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="py-20 bg-accent">
+        <div class="container mx-auto px-4 max-w-4xl">
+            <div class="text-center mb-16">
+                <h2 class="text-4xl font-bold mb-4">{{faq.heading}}</h2>
+                <p class="text-xl text-text-light">{{faq.description}}</p>
+            </div>
+            <div class="space-y-4">
+
+                {% for item in faq.items %}
+                <div class="faq-item">
+                    <div class="faq-question">
+                        <h4 class="text-lg font-semibold">{{item.title}}</h4>
+                        <span class="faq-toggle">
+                            <i class="fas fa-plus"></i>
+                            <i class="fas fa-minus"></i>
+                        </span>
+                    </div>
+                    <div class="faq-answer">
+                        <p>{{item.description}}</p>
+                    </div>
+                </div>
+                {% endfor %}
+
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section id="upload" class="py-20 bg-gradient-gray">
+        <div class="container mx-auto px-4 text-center">
+            <h2 class="text-4xl font-bold mb-6">{{footer.heading}}</h2>
+            <p class="text-xl mb-10 max-w-2xl mx-auto">{{footer.description}}</p>
+            <a href="#main-content"
+                class="bg-white text-primary hover:bg-gray-100 px-8 py-4 rounded-lg font-bold transition-all shadow-lg hover:shadow-xl inline-flex items-center">
+                <i class="fas fa-magic mr-2"></i> {{footer.ctaText}}
+            </a>
+        </div>
+    </section>
+</main>
+<!-- Footer -->
+<footer class="bg-dark-bg py-8 border-t border-highlight">
+    <div class="container mx-auto px-4 text-center">
+        <p class="text-text-light text-sm">&copy; {{footer.text}}</p>
+    </div>
+</footer>
+{% endblock %}
