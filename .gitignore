@@ -1,1 +1,61 @@
-.venv
+# Python　
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtualenv　
+venv/
+.env/
+.venv/
+
+# Django　
+*.log
+*.pot
+*.pyc
+db.sqlite3
+media/
+staticfiles/
+static/
+assets/
+
+# Django migrations (可选，不建议忽略整个文件夹)
+# */migrations/*.py
+# !*/migrations/__init__.py
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# dotenv
+*.env
+.env.*
+
+# Byte-compiled / optimized / DLL files
+*.so
+
+# Build directories
+build/
+dist/
+
+# Node (如果有前端)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Coverage
+htmlcov/
+.tox/
+.coverage
+coverage.xml
+.cache
+
+# pip files
+pip-log.txt
+pip-delete-this-directory.txt
