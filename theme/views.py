@@ -28,7 +28,6 @@ def to_snake(text: str) -> str:
 def wavespeed_api_feature(request, keyword = 'remove_objects_from_photos'):
     keyword_map_data = get_keyword_map()
     target = keyword_map_data[keyword]
-    print(target)
     json_name = f'{to_snake(target.get("keyword"))}_{target.get("language")}'
     json_path = f'internal/feature_translate/{json_name}.json'
     logger.info(f"Loading wavespeed feature-{json_name}- data from: {json_path}")
