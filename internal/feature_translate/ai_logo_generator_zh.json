@@ -1,0 +1,229 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI 徽标生成器",
+  "meta": {
+    "description": "使用我们的 AI 徽标生成器轻松创建惊艳、专业的徽标。非常适合需要快速建立品牌形象的初创企业和企业。立即使用免费积分开始！",
+    "keywords": "AI 徽标生成器, 徽标设计 AI, 品牌工具, 商业徽标创建者, 徽标制作, 初创品牌, 图形设计 AI, 可定制徽标, 自动徽标创建, 电子商务徽标设计, 社交媒体徽标生成器"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI 工具",
+        "items": [
+          [
+            "AI 工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即尝试"
+  },
+  "hero": {
+    "heading": "轻松徽标生成",
+    "subHeading": "在短短几分钟内设计独特徽标",
+    "description": "利用 AI 的力量创建完美捕捉您品牌本质的定制徽标。无需设计技能！使用我们的直观工具，今天就开始生成您的徽标。",
+    "tryText": "立即创建我的徽标",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI 徽标生成器解决方案",
+    "left": {
+      "heading": "传统徽标设计挑战",
+      "items": [
+        "高昂的成本（每个项目 $500-2000）",
+        "耗时的设计迭代",
+        "需要专业设计软件",
+        "定制选项有限",
+        "非设计师难以操作"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI 解决方案",
+      "items": [
+        "在 5 分钟内生成独特徽标",
+        "无需设计经验 - 只需选择和定制",
+        "借助 AI 驱动的定制功能即时预览",
+        "无限徽标变体和风格",
+        "适合所有预算的实惠定价"
+      ],
+      "tryText": "创建我的徽标"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "从概念到徽标只需 4 个简单步骤",
+    "steps": [
+      {
+        "number": "1",
+        "title": "选择徽标风格",
+        "text": "选择您喜欢的设计风格（例如，现代、复古）",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "输入品牌名称",
+        "text": "输入您的公司名称和标语",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "定制设计",
+        "text": "调整颜色、字体和图标以符合您的愿景",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载徽标",
+        "text": "立即接收您的高分辨率徽标",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "生成您的第一个徽标 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无限品牌机会",
+    "description": "适合任何企业或活动",
+    "items": [
+      "需要快速品牌解决方案的初创企业",
+      "电子商务业务徽标",
+      "社交媒体品牌",
+      "活动或产品徽标",
+      "个人品牌身份",
+      "非营利组织徽标",
+      "博客和内容创作者徽标",
+      "移动应用程序和软件徽标"
+    ]
+  },
+  "successStories": {
+    "heading": "真实成功案例",
+    "description": "了解品牌如何利用 AI 构建其身份",
+    "items": [
+      {
+        "tag": "科技初创公司",
+        "heading": "创新应用程序发布",
+        "before": {
+          "label": "之前",
+          "text": "DIY 徽标"
+        },
+        "after": {
+          "label": "之后",
+          "text": "定制设计的徽标"
+        },
+        "value": "90%",
+        "key": "品牌认知度",
+        "description": "我们在几分钟内创建的新徽标显著改善了我们的品牌形象，吸引了更多用户。"
+      },
+      {
+        "tag": "电子商务",
+        "heading": "时尚商店发布",
+        "before": {
+          "label": "之前",
+          "text": "昂贵的设计公司"
+        },
+        "after": {
+          "label": "之后",
+          "text": "实惠的 AI 生成徽标"
+        },
+        "value": "85%",
+        "key": "成本节约",
+        "description": "我们节省了时间和金钱，同时获得了与我们品牌风格完美契合的惊人徽标。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "徽标设计选项比较",
+    "description": "选择适合您需求的设计",
+    "items": [
+      "可定制模板：各种样式和主题",
+      "AI 驱动设计：量身定制的独特徽标",
+      "矢量格式支持：高质量可扩展设计",
+      "即时预览：实时查看更改",
+      "商业权利：包括完全使用权"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关 AI 工具",
+    "description": "发现更多强大的 AI 品牌解决方案"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要了解的所有信息",
+    "items": [
+      {
+        "question": "我可以创建哪些类型的徽标？",
+        "answer": "您可以创建各种徽标，包括文字商标、符号、徽章等。AI 生成器会根据您的偏好进行调整，允许多样化的设计风格。"
+      },
+      {
+        "question": "生成后我可以定制我的徽标吗？",
+        "answer": "当然可以！您可以轻松修改颜色、字体和布局，以确保徽标与您的品牌愿景完美一致。"
+      },
+      {
+        "question": "可下载的格式有哪些？",
+        "answer": "徽标提供高分辨率的 PNG、JPEG 和 SVG 格式，以满足您的需求，确保适用于数字和印刷使用的质量。"
+      },
+      {
+        "question": "AI 如何理解我的品牌偏好？",
+        "answer": "AI 使用先进的算法评估您的选择，生成与当代品牌美学和行业标准相契合的设计。"
+      },
+      {
+        "question": "我可以创建多少徽标？",
+        "answer": "没有限制，您可以根据按需付费模型创建任意数量的徽标。无限制地尝试不同样式和创意。"
+      },
+      {
+        "question": "徽标生成的定价结构是什么？",
+        "answer": "我们遵循简单的按需付费方法，没有隐藏费用。您只需为每个生成的徽标付费，使其对所有预算都可及。"
+      },
+      {
+        "question": "我可以将徽标用于商业目的吗？",
+        "answer": "可以！所有创建的徽标都包含完全的商业使用权，允许您在各种平台上使用而无需额外费用。"
+      },
+      {
+        "question": "AI 如何确保徽标质量？",
+        "answer": "我们的 AI 生成器运用设计原则和当前趋势，确保您的徽标不仅独特，而且专业、吸引人。"
+      },
+      {
+        "question": "如果我需要帮助，有哪些支持选项？",
+        "answer": "我们提供丰富的文档、教程以及可以通过电子邮件和聊天获取的专门支持团队，处理任何查询或技术问题。"
+      },
+      {
+        "question": "我可以保存我的进度并稍后返回吗？",
+        "answer": "可以！您的设计会自动保存，您可以随时回来完成并下载您的徽标。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备创建您的惊艳徽标了吗？",
+    "description": "使用免费积分开始 - 释放您品牌的潜力",
+    "contactUsText": "联系我们",
+    "tryText": "立即创建我的徽标 →"
+  },
+  "footer": {
+    "heading": "准备设计您的品牌形象吗？",
+    "description": "立即尝试 WaveSpeed AI，亲身体验不同之处。无需注册。",
+    "ctaText": "立即创建徽标",
+    "text": "© 2025 WaveSpeed AI. 保留所有权利。"
+  }
+}

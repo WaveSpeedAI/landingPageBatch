@@ -1,0 +1,222 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI 视频稳定",
+  "meta": {
+    "description": "借助 AI 驱动的稳定技术轻松消除抖动的画面。非常适合内容创作者、电商和营销视频。使用 WaveSpeed AI 在几分钟内获得平滑、专业级的结果。",
+    "keywords": "视频稳定 AI, 平滑视频技术, 稳定抖动画面, 电影视频稳定, 电商视频工具, 营销视频稳定, 专业视频编辑, 视频增强, YouTube 视频质量, 社交媒体视频稳定性"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI 工具",
+        "items": [
+          [
+            "AI 工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即尝试"
+  },
+  "hero": {
+    "heading": "视频稳定",
+    "subHeading": "将抖动的视频转变为平滑的杰作",
+    "description": "借助我们的尖端稳定技术消除视频中的不必要抖动和颤动。只需几次点击即可快速获得专业质量的结果。今天就体验不同吧！",
+    "tryText": "立即尝试",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI 视频稳定解决方案",
+    "left": {
+      "heading": "传统挑战",
+      "items": [
+        "抖动的画面产生不专业的结果",
+        "耗时的手动稳定过程",
+        "需要昂贵的编辑软件",
+        "需要专业的视频编辑技能",
+        "实时稳定选项有限"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI 解决方案",
+      "items": [
+        "只需几分钟即可立即稳定视频",
+        "无需编辑软件或专业知识",
+        "AI 驱动的平滑画面结果",
+        "在所有设备上实现一致的质量",
+        "提供经济实惠的按需付费模式"
+      ],
+      "tryText": "尝试"
+    }
+  },
+  "howItWorks": {
+    "heading": "如何工作",
+    "description": "在 3 个简单步骤中稳定您的视频",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传视频",
+        "text": "上传您的抖动视频文件或素材",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "选择设置",
+        "text": "根据需要自定义稳定偏好",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "下载稳定视频",
+        "text": "在几分钟内收到您平滑、稳定的视频",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "稳定您的第一个视频 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无尽的可能",
+    "description": "适合任何视频应用",
+    "items": [
+      "具有专业质量的 YouTube 内容",
+      "没有抖动的社交媒体视频",
+      "商务演示和网络研讨会",
+      "活动录制和直播",
+      "房地产展示视频",
+      "过渡流畅的旅行博主视频",
+      "体育亮点和动作镜头",
+      "教程和使用视频"
+    ]
+  },
+  "successStories": {
+    "heading": "真实的成功故事",
+    "description": "看看用户如何通过 AI 增强他们的视频",
+    "items": [
+      {
+        "tag": "旅行博主",
+        "heading": "YouTube 频道改进",
+        "before": {
+          "label": "之前",
+          "text": "颤抖的画面"
+        },
+        "after": {
+          "label": "之后",
+          "text": "流畅且专业"
+        },
+        "value": "95%",
+        "key": "质量提升",
+        "description": "观众喜欢平滑的外观！互动率提高，导致订阅量提升 50%。"
+      },
+      {
+        "tag": "房地产",
+        "heading": "物业展示视频",
+        "before": {
+          "label": "之前",
+          "text": "抖动的摄像头显得不专业"
+        },
+        "after": {
+          "label": "之后",
+          "text": "光滑且吸引人"
+        },
+        "value": "98%",
+        "key": "客户印象改善",
+        "description": "客户对清晰且令人愉悦的展示表示赞赏，促进了更快的销售。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI 模型比较",
+    "description": "优化您的视频稳定体验",
+    "items": [
+      "标准稳定：对轻微抖动进行基本修正，快速处理",
+      "高级稳定：对极端抖动进行综合平滑，高质量输出",
+      "实时预览以快速反馈",
+      "支持多种视频格式",
+      "与所有视频编辑软件无缝集成"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关 AI 工具",
+    "description": "探索更多强大的 AI 工具，以提升视频质量"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要了解的一切",
+    "items": [
+      {
+        "question": "可以稳定哪些类型的视频？",
+        "answer": "您可以稳定任何视频，包括家庭视频、专业素材或为社交媒体创建的内容。我们的 AI 在多种格式和质量下都能高效工作。"
+      },
+      {
+        "question": "稳定视频有最长时长限制吗？",
+        "answer": "没有，您可以上传任何长度的视频。不过，较长的视频可能需要稍长的处理时间。我们建议使用较短的片段以快速稳定。"
+      },
+      {
+        "question": "AI 稳定与传统方法相比如何工作？",
+        "answer": "我们的 AI 分析您视频的每一帧以检测运动，并自动进行稳定，从而获得更平滑的画面，而无需手动编辑。"
+      },
+      {
+        "question": "在下载之前可以预览稳定视频吗？",
+        "answer": "可以！您可以实时预览稳定视频以查看改进情况，然后再确定下载。"
+      },
+      {
+        "question": "稳定后会有质量损失吗？",
+        "answer": "我们优先考虑保持您视频的质量。虽然可能会出现轻微的伪影，但我们的先进技术确保最小化原始清晰度的损失。"
+      },
+      {
+        "question": "稳定视频的费用是多少？",
+        "answer": "该服务按需付费，定价基于视频的时长和复杂程度。您只需为所需的稳定支付费用。"
+      },
+      {
+        "question": "我可以稳定带有背景音乐和配音的视频吗？",
+        "answer": "当然可以！在稳定过程中，您的音轨将保持不变，以确保完整的观看体验。"
+      },
+      {
+        "question": "在稳定之前是否需要先进行视频编辑？",
+        "answer": "不需要进行先前的编辑。您只需上传素材，我们的 AI 将为您处理其余工作。"
+      },
+      {
+        "question": "我可以上传哪些格式的视频进行稳定？",
+        "answer": "我们支持包括 MP4、AVI 和 MOV 在内的流行视频格式。大多数标准格式均可通过我们的技术进行处理。"
+      },
+      {
+        "question": "你们是否提供稳定视频的客户支持？",
+        "answer": "是的！我们的客服团队全天候 24 小时可用，以协助您解决任何关于视频稳定体验的问题。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备好稳定您的视频了吗？",
+    "description": "开始使用免费积分 - 亲自体验稳定性",
+    "contactUsText": "联系我们",
+    "tryText": "立即尝试 →"
+  },
+  "footer": {
+    "heading": "准备好稳定您的素材了吗？",
+    "description": "立即尝试 WaveSpeed AI，体验平滑视频转换。无需注册。",
+    "ctaText": "现在稳定视频",
+    "text": "© 2025 WaveSpeed AI. 版权所有。"
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Image Deblurring",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Restore Clarity to Your Photos",
+    "description": "Effortlessly sharpen your images and eliminate blur with our intelligent AI technology.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo before deblurring"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example photo after deblurring"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Deblur Your Images",
+      "prompt": {
+        "heading": " Prompt",
+        "placeholder": "E.g., Sharpen the blurred landscape, fix the fuzzy portrait, clear up the motion blur..."
+      },
+      "upload": {
+        "heading": " Select image or Input URL"
+      },
+      "processButton": "Deblur Images Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "10M+",
+        "description": "Images Processed"
+      },
+      {
+        "title": "99.8%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "2.5s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Witness how AI Image Deblurring can enhance your images, restoring lost detail and clarity.",
+    "items": [
+      {
+        "title": "Sharpen Blurry Photos",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing restoration of a blurry image",
+        "description": "Transform unclear images into crystal-clear photographs."
+      },
+      {
+        "title": "Enhance Portraits",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing enhanced portrait clarity",
+        "description": "Revitalize portraits by removing blur and enhancing facial features."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Our sophisticated AI delivers exceptional clarity and sharpness without complexity.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Instant Results",
+        "description": "Achieve remarkable deblurring in seconds with our streamlined AI technology. No lengthy processing times."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "No expertise needed. Just upload your image and let our AI enhance the clarity effortlessly."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Secure Processing",
+        "description": "Your images are processed locally, ensuring that your privacy is paramount."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three straightforward steps to restore your photos",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Image",
+        "description": "Drag and drop or browse to upload your image. Supported formats include JPG, PNG, and WebP."
+      },
+      {
+        "serial": "2",
+        "title": "AI Enhancement",
+        "description": "Our cutting-edge AI analyzes and removes blur, restoring sharpness while maintaining quality."
+      },
+      {
+        "serial": "3",
+        "title": "Download Your Clear Image",
+        "description": "Preview the enhanced image with our slider and download it in high resolution."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless satisfied users who have restored their photos with WaveSpeed AI",
+    "items": [
+      {
+        "name": "Emily Roberts",
+        "stars": 5,
+        "comment": "The deblurring feature worked wonders on my family photos. Details I thought were lost forever were brought back!"
+      },
+      {
+        "name": "Daniel Lee",
+        "stars": 5,
+        "comment": "As a photographer, I rely on precise clarity. WaveSpeed has revolutionized my editing workflow."
+      },
+      {
+        "name": "Nina Kim",
+        "stars": 5,
+        "comment": "I love how quickly it processes and the results. My images look professionally done!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your inquiries about AI Image Deblurring",
+    "items": [
+      {
+        "title": "What types of blur can be fixed?",
+        "description": "Our AI can effectively address motion blur, focus blur, and Gaussian blur, restoring clarity to a wide range of images."
+      },
+      {
+        "title": "Is there a cost associated with the service?",
+        "description": "Yes! We provide 30 free credits daily for users. You can gain more credits through our community challenges, and we offer subscription plans for users with higher demands."
+      },
+      {
+        "title": "Can the restored images be used commercially?",
+        "description": "Commercial use is available for users on a paid plan. Free-tier users may only use the images for personal projects."
+      },
+      {
+        "title": "How do you ensure my images are secure?",
+        "description": "All processing occurs in your browser, so your images never leave your device, ensuring maximum privacy."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Restore Your Photos?",
+    "description": "Try WaveSpeed AI today and see the transformation for yourself. No sign-up needed.",
+    "ctaText": "Deblur Images Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

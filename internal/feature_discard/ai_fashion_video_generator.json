@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Create Stunning Fashion Videos Effortlessly",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Generate Stunning Fashion Videos",
+    "description": "Input your fashion concept and watch our AI bring it to life with captivating visuals and seamless editing.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example fashion video before AI generation"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example fashion video after AI generation"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Create Fashion Videos Instantly",
+      "prompt": {
+        "heading": " Prompt",
+        "placeholder": "E.g., Generate a runway clip featuring summer outfits, create a vintage style montage..."
+      },
+      "upload": {
+        "heading": " Select video or Input URL"
+      },
+      "processButton": "Generate Fashion Video Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Videos Generated"
+      },
+      {
+        "title": "98%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "3.0s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Explore how our AI can revolutionize your fashion videos, making them professional and engaging effortlessly.",
+    "items": [
+      {
+        "title": "Fashion Lookbook",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example of a fashion lookbook video",
+        "description": "Transform your designs into a captivating lookbook video."
+      },
+      {
+        "title": "Runway Highlights",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example of runway highlights video",
+        "description": "Showcase your latest collection with stunning runway highlights."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Utilize cutting-edge AI technology to produce high-quality fashion videos effortlessly.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Rapid Production",
+        "description": "Create videos in mere seconds without delays or complicated setups."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "Design without the need for technical expertise. Just upload your concept and let the AI handle the rest."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Data Privacy Guaranteed",
+        "description": "Your creative ideas are processed securely within your browser, ensuring complete confidentiality."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Generate high-quality fashion videos in three straightforward steps",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Input Your Concept",
+        "description": "Describe your fashion video idea through natural language. The system understands and processes instructions seamlessly."
+      },
+      {
+        "serial": "2",
+        "title": "AI Video Creation",
+        "description": "Our advanced AI generates a polished video by synthesizing your input with thousands of fashion visuals and styles."
+      },
+      {
+        "serial": "3",
+        "title": "Preview and Download",
+        "description": "Review your video with our stunning preview feature and download your final product in high resolution."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join the community of satisfied users revolutionizing their fashion marketing with AI",
+    "items": [
+      {
+        "name": "Emily Roberts",
+        "stars": 5,
+        "comment": "The AI Fashion Video Generator turned my concepts into reality in no time! It was like magic!"
+      },
+      {
+        "name": "Jason Lee",
+        "stars": 5,
+        "comment": "Creating promotional videos has never been this easy. The quality is phenomenal, and the process is so quick."
+      },
+      {
+        "name": "Isabella Martinez",
+        "stars": 5,
+        "comment": "WaveSpeed has transformed my fashion brand's online presence. The privacy aspect reassured me that my ideas are safe."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to common questions about our AI Fashion Video Generator",
+    "items": [
+      {
+        "title": "What types of videos can I create?",
+        "description": "You can create a variety of fashion-related videos, including lookbooks, promotional clips, runway highlights, and brand showcases."
+      },
+      {
+        "title": "Is there a cost to use this feature?",
+        "description": "Yes! Depending on your subscription, you can access different levels of features and video exports. Check our pricing for details."
+      },
+      {
+        "title": "Can I use these videos for commercial projects?",
+        "description": "Absolutely! Users on paid plans can use generated videos for any commercial purposes, boosting your brand's visibility."
+      },
+      {
+        "title": "How secure is my data?",
+        "description": "All video creations happen in your browser. Your ideas are never stored or shared, ensuring maximum privacy and security."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Elevate Your Fashion Videos?",
+    "description": "Try WaveSpeed AI today and experience the future of fashion video creation. No sign-up required.",
+    "ctaText": "Generate Fashion Video Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

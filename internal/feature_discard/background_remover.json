@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Remove Backgrounds from Images Instantly",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Seamlessly Remove Backgrounds from Your Images",
+    "description": "Effortlessly transform your photos by removing backgrounds with a single click.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo before background removal"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example photo after background removal"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Remove Backgrounds from Images",
+      "prompt": {
+        "heading": " Prompt",
+        "placeholder": "E.g., Remove the background from this photo..."
+      },
+      "upload": {
+        "heading": " Select image or Input URL"
+      },
+      "processButton": "Remove Backgrounds Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "10M+",
+        "description": "Images Processed"
+      },
+      {
+        "title": "99.8%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "2.5s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Background Removal Examples",
+    "description": "Experience the powerful capabilities of our background remover with stunning before and after images.",
+    "items": [
+      {
+        "title": "Clear Backgrounds",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing background removal from a photo",
+        "description": "Transform complex images by eliminating distracting backgrounds easily."
+      },
+      {
+        "title": "Isolate Subjects",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing subject isolation from the background",
+        "description": "Highlight your subjects by removing irrelevant backgrounds."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI for Background Removal?",
+    "description": "Our cutting-edge AI technology eliminates backgrounds with exceptional accuracy and speed.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Rapid Results",
+        "description": "Achieve stunning results in seconds with our state-of-the-art AI algorithms."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "No need for technical expertise. Upload your image and let our AI handle the rest."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Privacy Protected",
+        "description": "Images are processed directly in your browser, ensuring your photos remain private."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Follow these three easy steps to effortlessly remove backgrounds",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Your Image",
+        "description": "Drag and drop your image or browse files. Supported formats include JPG, PNG, and WebP."
+      },
+      {
+        "serial": "2",
+        "title": "AI-Powered Processing",
+        "description": "Our intelligent AI identifies and removes backgrounds while enhancing the quality of your image."
+      },
+      {
+        "serial": "3",
+        "title": "Download Your New Image",
+        "description": "View the transformation and download your edited image in high resolution."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "Hear from Our Users",
+    "description": "Discover how our background remover has made a difference for users everywhere",
+    "items": [
+      {
+        "name": "Emily Davis",
+        "stars": 5,
+        "comment": "Removing backgrounds has never been easier! This tool saved me tons of time on my graphic designs."
+      },
+      {
+        "name": "James Smith",
+        "stars": 5,
+        "comment": "As a small business owner, I love how I can create professional images for marketing materials. It’s a game-changer."
+      },
+      {
+        "name": "Kate Brown",
+        "stars": 5,
+        "comment": "The ability to process images right in my browser without uploading them is a huge plus for me. Highly recommend!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your questions about our background removal feature",
+    "items": [
+      {
+        "title": "What types of backgrounds can WaveSpeed remove?",
+        "description": "Our AI can effectively remove a variety of backgrounds, including complex patterns, objects, and colors, allowing your subject to stand out effortlessly."
+      },
+      {
+        "title": "Is the background remover free to use?",
+        "description": "Yes! You can use our background removal tool with 30 free credits daily. Earn more through engagement or explore subscription plans for additional features."
+      },
+      {
+        "title": "Can I use images for commercial purposes?",
+        "description": "Users on subscription plans can freely use the edited images for commercial projects. Free users may use them for personal use only."
+      },
+      {
+        "title": "How is my privacy secured during processing?",
+        "description": "All processing happens in your browser without uploading your images to servers, ensuring high privacy and security. Data is cleared once you close the tab."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Remove Backgrounds from Your Images?",
+    "description": "Try our powerful background remover today and see the difference instantly. No sign-up necessary.",
+    "ctaText": "Remove Backgrounds Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

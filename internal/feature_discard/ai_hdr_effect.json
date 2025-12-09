@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Enhance Your Photos with Stunning HDR Effects",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Transform Photos with AI HDR Effect",
+    "description": "Elevate your images to new heights by enhancing dynamic range and color brilliance with just one click.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo before HDR effect applied"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example photo after HDR effect applied"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Enhance Your Photos",
+      "prompt": {
+        "heading": "Prompt",
+        "placeholder": "E.g., Apply HDR effect to enhance details and colors..."
+      },
+      "upload": {
+        "heading": "Select image or Input URL"
+      },
+      "processButton": "Enhance Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "10M+",
+        "description": "Photos Enhanced"
+      },
+      {
+        "title": "99.8%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "2.5s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Discover how our AI HDR Effect can significantly enhance your images, bringing vibrancy and depth into each shot.",
+    "items": [
+      {
+        "title": "Dramatic Landscape Enhancements",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing dramatic enhancements on a landscape photo",
+        "description": "Transform dull landscapes into vibrant scenes with greater detail."
+      },
+      {
+        "title": "Rich Colors in Portraits",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing rich colors and details in a portrait",
+        "description": "Make portraits pop with enhanced colors and highlights."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Utilize cutting-edge AI technology for stunning HDR effects that elevate your photography.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Instant Results",
+        "description": "Achieve breathtaking HDR effects in seconds with our advanced algorithms."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly",
+        "description": "No expertise needed. Simply upload your photo and let our AI enhance it effortlessly."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Privacy Guaranteed",
+        "description": "Images are processed securely in your browser, ensuring your privacy at all times."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Follow these simple steps to achieve remarkable HDR enhancements",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Image",
+        "description": "Upload your photo easily by dragging and dropping or browsing files. Our platform accepts JPG, PNG, and WebP formats."
+      },
+      {
+        "serial": "2",
+        "title": "AI Enhancement",
+        "description": "Our AI analyzes your image and applies sophisticated HDR techniques to enhance dynamic range and vibrancy."
+      },
+      {
+        "serial": "3",
+        "title": "Download Your Enhanced Photo",
+        "description": "Preview the enhanced image with our comparison slider and download in high quality."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless users who have transformed their photos with our AI HDR Effect",
+    "items": [
+      {
+        "name": "Emily Carter",
+        "stars": 5,
+        "comment": "The HDR effect brought my travel photos to life! The colors are so vivid now."
+      },
+      {
+        "name": "James Smith",
+        "stars": 5,
+        "comment": "As a photographer, I love how quickly I can enhance my images with this tool. It’s a real time-saver!"
+      },
+      {
+        "name": "Rachel Lee",
+        "stars": 5,
+        "comment": "I appreciate the privacy aspect. My images stay on my device while being processed!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your pressing questions regarding the AI HDR Effect",
+    "items": [
+      {
+        "title": "What types of images benefit from HDR effects?",
+        "description": "HDR effects work best on landscapes, portraits, and any image where you want to enhance colors and contrast. The AI optimizes brightness and details to create stunning images."
+      },
+      {
+        "title": "Is there a cost associated with using the HDR feature?",
+        "description": "Absolutely! Users receive 30 free credits daily to utilize HDR enhancements. For heavier use, affordable subscription options are available."
+      },
+      {
+        "title": "Can I use HDR-enhanced images for commercial projects?",
+        "description": "Yes! Subscription plan users can use these images commercially. Free-tier users may use them for personal projects only."
+      },
+      {
+        "title": "How is my privacy protected during processing?",
+        "description": "All enhancements occur in your browser, utilizing WebAssembly and JavaScript, ensuring your photos are never uploaded to external servers."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Enhance Your Photos?",
+    "description": "Try WaveSpeed AI now and witness the stunning results yourself. No sign-up necessary.",
+    "ctaText": "Enhance Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

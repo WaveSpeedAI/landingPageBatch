@@ -1,0 +1,222 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Gerador de Ruído de IA",
+  "meta": {
+    "description": "Gere paisagens sonoras e efeitos de áudio personalizados com nosso Gerador de Ruído de IA. Perfeito para melhorar vídeos, criar paisagens sonoras ambientes ou enriquecer conteúdo online. Experimente a integração perfeita com seus projetos.",
+    "keywords": "gerador de ruído IA, efeitos sonoros IA, criador de áudio ambiente, aprimoramento de som para vídeo, paisagens sonoras personalizáveis, automação de áudio, enriquecendo conteúdo de vídeo, ferramenta de áudio para e-commerce, efeitos sonoros Shopify, áudio de vídeo Amazon, aprimoramento de som em mídias sociais"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de IA",
+        "items": [
+          [
+            "Ferramentas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Demonstração",
+        "items": [
+          [
+            "Demonstração",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Geração de Ruído Facilitada",
+    "subHeading": "Crie Paisagens Sonoras Personalizadas Instantaneamente",
+    "description": "Transforme seus projetos de áudio com o poder da IA. Gere padrões de ruído únicos adaptados às suas necessidades em segundos. Perfeito para vídeos, jogos e ambientes ambientes. Comece a melhorar seu conteúdo hoje!",
+    "tryText": "Experimente Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução WaveSpeed AI de Gerador de Ruído de IA",
+    "left": {
+      "heading": "Desafios Tradicionais de Design de Som",
+      "items": [
+        "Altos custos para produção de áudio profissional",
+        "Requer ampla experiência em edição de áudio",
+        "Processo de criação de som demorado",
+        "Opções de personalização limitadas",
+        "Não acessível para pequenos criadores de conteúdo"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeed AI",
+      "items": [
+        "Gere perfis de ruído únicos em menos de um minuto",
+        "Nenhuma habilidade de engenharia de áudio necessária - Basta selecionar opções",
+        "Saídas de áudio instantâneas com tecnologia orientada por IA",
+        "Personalização ilimitada para necessidades especializadas",
+        "Preços acessíveis - Adequados para todos os criadores"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "Gere seu ruído perfeito em 4 etapas simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Escolha o Tipo de Som",
+        "text": "Selecione o tipo de ruído ou paisagem sonora que você deseja criar",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Personalize os Parâmetros",
+        "text": "Ajuste configurações como volume, tom e textura para se adequar ao seu projeto",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Pré-visualize sua Criação",
+        "text": "Ouça o som gerado antes de finalizá-lo",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Baixe ou Integre",
+        "text": "Salve seu arquivo de ruído ou use-o diretamente em seu projeto",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Gere Seu Primeiro Som →"
+  },
+  "endlessPossibilities": {
+    "heading": "Aplicações Infinitas",
+    "description": "Ideal para cada necessidade de áudio",
+    "items": [
+      "Música de fundo para vídeos",
+      "Efeitos sonoros de jogos",
+      "Sons de relaxamento e meditação",
+      "Aprimoramentos de áudio para podcasts",
+      "Paisagens sonoras ambientais",
+      "Camadas de áudio publicitário",
+      "Áudio de treinamento e instrucional",
+      "Projetos criativos que requerem sons únicos"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Saiba como criadores elevam seus projetos com IA",
+    "items": [
+      {
+        "tag": "Produção de Mídia",
+        "heading": "Aprimoramento de Canal no YouTube",
+        "before": {
+          "label": "Antes",
+          "text": "Clipes de áudio genéricos"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Ruído personalizado de IA"
+        },
+        "value": "85%",
+        "key": "Melhoria da Qualidade do Áudio",
+        "description": "Integrar paisagens sonoras personalizadas aumentou significativamente a retenção e o envolvimento da audiência."
+      },
+      {
+        "tag": "Indústria de Jogos",
+        "heading": "Design de Som para Jogos Independentes",
+        "before": {
+          "label": "Antes",
+          "text": "Sons de estoque"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Sons únicos gerados por IA"
+        },
+        "value": "90%",
+        "key": "Eficiência de Tempo",
+        "description": "Nosso processo de design de som foi acelerado, permitindo atualizações mais rápidas e uma identidade de áudio distinta."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Geração de Ruído de IA",
+    "description": "Encontre o modelo de som ideal para o seu projeto",
+    "items": [
+      "Ruído Ambiente: Som suave e contínuo ideal para fundo",
+      "Som Cinemático: Perfis de áudio épicos para efeitos dramáticos",
+      "Paisagens Sonoras Orgânicas: Sons inspirados na natureza para relaxamento",
+      "Ruído Industrial: Texturas únicas e ásperas para experiências urbanas",
+      "Efeitos Interativos: Ajustes de áudio em tempo real para experiências imersivas",
+      "Sobreposição de Som: Combine múltiplos ruídos para misturas personalizadas"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Descubra mais ferramentas de áudio de IA para seus projetos"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo que você precisa saber",
+    "items": [
+      {
+        "question": "Que tipos de sons posso gerar?",
+        "answer": "Você pode criar uma variedade de sons, incluindo ruídos ambientes, efeitos sonoros e perfis de áudio únicos adaptados às suas especificações. Seja um som de chuva suave ou uma atmosfera industrial, as opções são vastas."
+      },
+      {
+        "question": "Como posso personalizar os sons gerados?",
+        "answer": "Personalizar sons é simples. Depois de selecionar o tipo de som, você pode ajustar parâmetros como volume, tom e intensidade para se adequar às suas necessidades precisas, garantindo que a saída corresponda à sua visão."
+      },
+      {
+        "question": "Posso usar esses sons comercialmente?",
+        "answer": "Sim! Todos os sons gerados pelo WaveSpeed vêm com plenos direitos comerciais, permitindo que você os use em vídeos, jogos e outros projetos sem taxas adicionais."
+      },
+      {
+        "question": "Quais tipos de arquivos estão disponíveis para download?",
+        "answer": "Você pode baixar seus sons gerados em formatos populares como MP3, WAV ou AAC, facilitando sua integração em seus projetos."
+      },
+      {
+        "question": "Há um limite para quantos sons posso criar?",
+        "answer": "Não há limite! Você pode gerar quantos sons únicos desejar, tornando-se uma solução escalável para os usuários."
+      },
+      {
+        "question": "Quão rapidamente posso gerar sons?",
+        "answer": "A geração de som é normalmente concluída em segundos, permitindo que você produza e utilize áudio rapidamente durante seus projetos."
+      },
+      {
+        "question": "Que suporte está disponível se eu encontrar problemas?",
+        "answer": "Nossa equipe de suporte está aqui para ajudar! Entre em contato por e-mail ou chat para assistência. Além disso, fornecemos documentação e tutoriais em vídeo para melhorar sua experiência."
+      },
+      {
+        "question": "Posso fornecer feedback sobre os sons gerados?",
+        "answer": "Absolutamente! Seu feedback é valioso. Encorajamos os usuários a compartilhar suas experiências para nos ajudar a melhorar e inovar ainda mais nossas ofertas."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Gerar Seu Som Personalizado?",
+    "description": "Comece a explorar com créditos gratuitos hoje e transforme sua experiência de áudio!",
+    "contactUsText": "Entre em Contato",
+    "tryText": "Experimente Agora →"
+  },
+  "footer": {
+    "heading": "Pronto para Elevar Seu Som?",
+    "description": "Experimente o WaveSpeed AI agora e transforme seus projetos de áudio. Sem necessidade de cadastro.",
+    "ctaText": "Gere Ruído Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - KI Auto Tagging",
+  "meta": {
+    "description": "Taggen Sie Produkte in Ihren Bildern nahtlos mit KI-gesteuertem Auto Tagging. Optimieren Sie Ihren E-Commerce-Workflow mit Präzision und Geschwindigkeit. Perfekt für Online-Händler, die ihre Produktlisten optimieren und die Suchbarkeit verbessern möchten. Melden Sie sich an und erleben Sie die Effizienz!",
+    "keywords": "Auto Tagging, KI Tagging, Produkt Tagging, E-Commerce Automatisierung, KI Bildbeschriftung, Workflow-Optimierung, Shopify Tagging, Amazon Produktmanagement, digitales Asset Management"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI-Tools",
+        "items": [
+          [
+            "KI-Tools",
+            "#ai_tools"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "KI Auto Tagging",
+    "subHeading": "Taggen Sie Ihre Produkte mühelos mit Präzision",
+    "description": "Erzeugen Sie automatisch in Sekunden präzise Tags für Ihre Produktbilder. Beseitigen Sie manuelle Tagging-Bemühungen und verbessern Sie die Auffindbarkeit Ihrer Produkte. Revolutionieren Sie Ihre E-Commerce-Prozesse mit unserer hochmodernen Technologie.",
+    "tryText": "Jetzt Taggen",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI KI Auto Tagging Lösung",
+    "left": {
+      "heading": "Herausforderungen beim traditionellen Tagging",
+      "items": [
+        "Manuelles Tagging ist zeitaufwändig und arbeitsintensiv",
+        "Hohe Fehleranfälligkeit beim Taggen",
+        "Inkonsistentes Tagging bei verschiedenen Produkten",
+        "Schwierig, große Bestände effektiv zu verwalten",
+        "Begrenzte Skalierbarkeit für wachsende Unternehmen"
+      ]
+    },
+    "right": {
+      "heading": "Optimierte KI Auto Tagging Lösung",
+      "items": [
+        "Relevante Tags für Produktbilder sofort generieren",
+        "Manuelle Aufwände reduzieren und Fehler minimieren",
+        "Konsistentes und genaues Tagging in Ihrem Katalog",
+        "Umfangreiche Produktbestände leicht verwalten",
+        "Skalierbare Lösung, die mit Ihrem Unternehmen wächst"
+      ],
+      "tryText": "Jetzt ausprobieren"
+    }
+  },
+  "howItWorks": {
+    "heading": "So funktioniert es",
+    "description": "Erreichen Sie automatisiertes Tagging in 4 einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Bild hochladen",
+        "text": "Reichen Sie Ihr Produktbild für Tagging-Lösungen ein",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "KI-Verarbeitung",
+        "text": "Lassen Sie die KI das Bild analysieren und optimale Tags bestimmen",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Tags überprüfen",
+        "text": "Untersuchen und modifizieren Sie die vorgeschlagenen Tags auf Genauigkeit",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Tags anwenden",
+        "text": "Setzen Sie die Tags direkt in Ihre Produktlisten um",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Automatisiertes Tagging starten →"
+  },
+  "endlessPossibilities": {
+    "heading": "Unendliche Tagging-Möglichkeiten",
+    "description": "Perfekt für verschiedene E-Commerce-Anwendungen",
+    "items": [
+      "Produktbestandsmanagement",
+      "Verbesserung der Suchergebnisse in Online-Shops",
+      "Verbesserte Kundenerfahrung beim Stöbern",
+      "Schnellere Listungsaktualisierungen für saisonale Angebote",
+      "Vereinfachung der digitalen Asset-Organisation",
+      "Erleichterung von Multi-Plattform-Listen"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Sehen Sie, wie Unternehmen durch KI transformiert wurden",
+    "items": [
+      {
+        "tag": "Mode Einzelhandel",
+        "heading": "E-Commerce Bekleidungsstore",
+        "before": {
+          "label": "Vorher",
+          "text": "10 Stunden pro Woche"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "1 Stunde pro Woche"
+        },
+        "value": "90%",
+        "key": "Zeit gespart",
+        "description": "Durch automatisiertes Tagging haben wir unsere Produktaktualisierungszeit erheblich verkürzt, was zu einem schnelleren Markteintritt für neue Artikel führte."
+      },
+      {
+        "tag": "Haushaltswaren",
+        "heading": "Online Wohnaccessoires Store",
+        "before": {
+          "label": "Vorher",
+          "text": "Inkonsistente Tags"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Genaues Tagging"
+        },
+        "value": "99,7%",
+        "key": "Taggenauigkeit",
+        "description": "Die KI verbesserte unsere Tag-Konsistenz, was unsere Suchrankings und die Kundenzufriedenheit erhöht."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Vergleich der KI-Tagging-Modelle",
+    "description": "Wählen Sie die richtigen Tagging-Lösungen für Ihre Bedürfnisse",
+    "items": [
+      "Standard-Tagger: Allgemeine Qualitäts-Tags für mehrere Produkttypen",
+      "Premium-Tagger: Hochwertige, branchenspezifische Tags für bessere Genauigkeit",
+      "Integrierte semantische Analyse für kontextuales Tagging",
+      "Unterstützt die Integration mit beliebten E-Commerce-Plattformen",
+      "Schnelle Bearbeitungszeiten mit Echtzeit-Tagging-Updates"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Verwandte KI-Tools",
+    "description": "Entdecken Sie weitere leistungsstarke KI-Tools für E-Commerce"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Wie genau sind die automatisch generierten Tags?",
+        "answer": "Unsere KI bietet eine hohe Genauigkeit bei der Tag-Generierung. Kontinuierliche Verbesserungen durch maschinelles Lernen stellen die Relevanz für Ihren Produktkatalog sicher."
+      },
+      {
+        "question": "Kann ich die automatisch generierten Tags bearbeiten?",
+        "answer": "Ja! Nach der KI-Verarbeitung können Sie die Tags überprüfen und an Ihre spezifischen Bedürfnisse anpassen."
+      },
+      {
+        "question": "Welche Arten von Bildern sind am besten für das Tagging geeignet?",
+        "answer": "Klare, gut beleuchtete Produktbilder führen zu den besten Ergebnissen für genaues Tagging. Die KI kann auch mit verschiedenen Produkttypen arbeiten."
+      },
+      {
+        "question": "Gibt es eine Grenze für die Anzahl der Bilder, die ich hochladen kann?",
+        "answer": "Nein! Sie können so viele Bilder hochladen, wie Sie für das Tagging benötigen. Das System verarbeitet Batch-Uploads nahtlos."
+      },
+      {
+        "question": "Muss ich Beschreibungen oder Kontexte für das Tagging bereitstellen?",
+        "answer": "Nein, die KI analysiert das Bild unabhängig, um relevante Tags zu generieren, was den Prozess unglaublich effizient macht."
+      },
+      {
+        "question": "Was ist, wenn ich einen großen Bestand habe?",
+        "answer": "Unsere Lösung skaliert effektiv und ermöglicht ein effizientes Tagging für umfangreiche Produktlisten, ohne die Geschwindigkeit zu verringern."
+      },
+      {
+        "question": "Wie schnell kann ich erwarten, dass meine Bilder getaggt werden?",
+        "answer": "Das Tagging erfolgt normalerweise in Sekunden pro Bild, sodass Sie Ihre Listen in Echtzeit aktualisieren können."
+      },
+      {
+        "question": "Welche kommerziellen Rechte gibt es für automatisch generierte Tags?",
+        "answer": "Sie behalten alle Rechte zur Nutzung, Modifizierung und Anwendung der Tags in jeglicher Weise für Ihr Unternehmen."
+      },
+      {
+        "question": "Welche Unterstützungsressourcen sind verfügbar?",
+        "answer": "Wir stellen Dokumentationen, Tutorials und Kundenservice bereit, um Ihnen zu helfen, Ihre Tagging-Effizienz zu maximieren."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Ihr Produkt-Tagging zu optimieren?",
+    "description": "Beginnen Sie noch heute mit KI Auto Tagging - Melden Sie sich für kostenlose Credits an!",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Jetzt ausprobieren →"
+  },
+  "footer": {
+    "heading": "Bereit, Ihre E-Commerce-Listen zu verbessern?",
+    "description": "Erleben Sie die Macht des KI Auto Tagging noch heute. Keine Anmeldung erforderlich.",
+    "ctaText": "Jetzt Taggen",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

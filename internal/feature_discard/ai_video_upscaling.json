@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Enhance Your Videos Instantly",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Enhance Your Video Quality",
+    "description": "Elevate your videos to stunning 4K quality automatically, maximizing detail and clarity.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Standard Quality",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example video frame before upscaling"
+        },
+        {
+          "title": "Upscaled Quality",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example video frame after upscaling"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Enhance Your Videos",
+      "prompt": {
+        "heading": " Upload Your Video",
+        "placeholder": "E.g., Upload a 720p video to upscale to 4K."
+      },
+      "upload": {
+        "heading": " Select video file"
+      },
+      "processButton": "Upscale Video Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Videos Processed"
+      },
+      {
+        "title": "99.9%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "3.2s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Witness the transformation of your videos, bringing out rich details and vibrant colors with advanced upscaling technology.",
+    "items": [
+      {
+        "title": "Upscale Resolution",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing video resolution enhancement",
+        "description": "Turn low-resolution videos into crisp, high-quality visuals."
+      },
+      {
+        "title": "Restoration of Detail",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing restoration of details in a video",
+        "description": "Revive details and textures for a more engaging viewing experience."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Our cutting-edge AI seamlessly enhances video quality to deliver an immersive experience.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Rapid Processing",
+        "description": "Experience rapid enhancement with results ready in seconds, thanks to our powerful AI algorithms."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "No technical expertise needed. Just upload your video and let our AI optimize it effortlessly."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Data Privacy",
+        "description": "Your videos are processed securely in your browser without leaving your device, ensuring complete privacy."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three effortless steps to transform your videos",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Your Video",
+        "description": "Easily upload your video file, supporting popular formats like MP4, AVI, and MOV."
+      },
+      {
+        "serial": "2",
+        "title": "AI Enhancement",
+        "description": "Our advanced AI technology intelligently upscales your video while preserving quality and reducing noise."
+      },
+      {
+        "serial": "3",
+        "title": "Download Enhanced Video",
+        "description": "Review your enhanced video and download it in stunning 4K resolution."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless satisfied users who have transformed their videos with WaveSpeed AI",
+    "items": [
+      {
+        "name": "Emily Davis",
+        "stars": 5,
+        "comment": "The video upscaling is phenomenal! My old footage looks brand new and much clearer."
+      },
+      {
+        "name": "James Lee",
+        "stars": 5,
+        "comment": "As a filmmaker, this tool has saved me so much time in post-production. Highly recommended!"
+      },
+      {
+        "name": "Mia Gomez",
+        "stars": 5,
+        "comment": "I love how easy it is to enhance my travel videos. The quality is beyond impressive!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to common inquiries about AI Video Upscaling",
+    "items": [
+      {
+        "title": "What video resolutions can be upscaled?",
+        "description": "We support upscaling from various resolutions including 480p, 720p, and 1080p to stunning 4K quality."
+      },
+      {
+        "title": "Is there a limit on the file size of videos I can upload?",
+        "description": "Yes, users can upload videos up to 2GB per file for processing. New features will support larger sizes in future updates."
+      },
+      {
+        "title": "Can I use upscaled videos for commercial purposes?",
+        "description": "Yes! Any user can utilize the enhanced videos for both personal and commercial projects."
+      },
+      {
+        "title": "How does WaveSpeed ensure video quality during enhancement?",
+        "description": "Our AI utilizes deep learning models to analyze and enhance every frame, ensuring clarity, color accuracy, and detail preservation throughout the video."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Enhance Your Videos?",
+    "description": "Try WaveSpeed AI now and elevate your video quality effortlessly. No sign-up required.",
+    "ctaText": "Upscale Video Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

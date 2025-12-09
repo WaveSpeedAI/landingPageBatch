@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Convert Images to Text Instantly",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Transform Your Images into Editable Text",
+    "description": "Upload your image and effortlessly extract editable text with cutting-edge accuracy.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo with text before conversion"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example of extracted text after conversion"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Extract Text from Images",
+      "prompt": {
+        "heading": " Upload Image",
+        "placeholder": "E.g., Upload a photo with printed text or handwritten notes..."
+      },
+      "upload": {
+        "heading": " Select image or Input URL"
+      },
+      "processButton": "Convert Image to Text Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "10M+",
+        "description": "Images Processed"
+      },
+      {
+        "title": "99.8%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "2.5s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Discover how WaveSpeed AI accurately extracts text from various image types with precision.",
+    "items": [
+      {
+        "title": "Printed Text Extraction",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing printed text extraction from an image",
+        "description": "Convert photos of books, documents, and signs into editable text effortlessly."
+      },
+      {
+        "title": "Handwritten Notes",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing extraction of handwritten notes from a photo",
+        "description": "Easily digitize handwritten notes and messages for seamless editing."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Our intelligent technology ensures fast and accurate text extraction from images.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Instant Results",
+        "description": "Receive extracted text in seconds, streamlining your workflow."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "No technical expertise needed—simply upload your image and let our AI handle the rest."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Data Privacy Assured",
+        "description": "All image processing occurs locally, ensuring your data remains private and secure."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three simple steps to convert images to text",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Image",
+        "description": "Upload a clear image containing text, whether printed or handwritten. Supported formats include JPG, PNG, and WebP."
+      },
+      {
+        "serial": "2",
+        "title": "AI Text Extraction",
+        "description": "Our advanced AI analyzes the image and extracts the text while maintaining high accuracy."
+      },
+      {
+        "serial": "3",
+        "title": "Review & Copy",
+        "description": "Preview the extracted text, make any necessary edits, and copy it for your needs."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless users who have simplified their text extraction with WaveSpeed AI",
+    "items": [
+      {
+        "name": "Emily Carter",
+        "stars": 5,
+        "comment": "I love how quickly I can extract quotes and text from my notes. It's a huge time-saver!"
+      },
+      {
+        "name": "John Smith",
+        "stars": 5,
+        "comment": "As a researcher, being able to convert images of documents into editable text has been invaluable."
+      },
+      {
+        "name": "Linda Park",
+        "stars": 5,
+        "comment": "The accuracy of the text extraction is impressive. I've used it for both printed and handwritten materials!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to common queries about the image to text feature",
+    "items": [
+      {
+        "title": "What types of text can be extracted?",
+        "description": "Our technology can extract both printed and handwritten text from images, including documents, signs, and notes, ensuring high accuracy and readability."
+      },
+      {
+        "title": "Is there a limit on the number of images I can convert?",
+        "description": "Yes! Each user receives 30 free credits daily, allowing ample conversions. You can earn more credits through activities like surveys or challenges on our Discord."
+      },
+      {
+        "title": "Can I use the extracted text for commercial purposes?",
+        "description": "Yes! Paid users can utilize extracted text for commercial projects. Free-tier users are limited to personal use."
+      },
+      {
+        "title": "How is my privacy maintained during the extraction process?",
+        "description": "WaveSpeed ensures your photos are processed locally in your browser, meaning your images and data never leave your device."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Convert Your Images to Text?",
+    "description": "Try WaveSpeed AI now and experience seamless text extraction. No sign-up required.",
+    "ctaText": "Convert Image to Text Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

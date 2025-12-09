@@ -1,0 +1,230 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - KI Sprechkopf",
+  "meta": {
+    "description": "Erstellen Sie fesselnde, KI-generierte Sprechkopf-Videos aus Text oder Skripten mit WaveSpeed AI. Perfekt für Videoinhaltsersteller, Bildungseinrichtungen und Vermarkter, die Engagement steigern und die Produktion rationalisieren möchten. Erleben Sie die Zukunft der Videoproduktion.",
+    "keywords": "KI Sprechkopf, Text zu Video, Videoinhalt-Generator, Bildungswerkzeug für Videos, WaveSpeed AI, virtuelle Präsentatoren, Marketingvideos, Videoautomatisierung, Inhaltscreation-Tool, KI Video-Lösungen, E-Learning Video-Macher"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI-Tools",
+        "items": [
+          [
+            "KI-Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt Ausprobieren"
+  },
+  "hero": {
+    "heading": "Text zu Video mit KI Sprechkopf",
+    "subHeading": "Erwecken Sie Skripte mit realistischen Stimmen zum Leben",
+    "description": "Verwandeln Sie Ihre schriftlichen Inhalte mühelos in fesselnde Sprechkopf-Videos. Kein Filmen oder komplexe Software erforderlich. Nutzen Sie unsere fortschrittliche KI-Technologie, um Videos zu erstellen, die die Zuschauerinteraktion und das Verständnis verbessern. Beginnen Sie jetzt mit der Erstellung Ihres eigenen KI Sprechkopf-Videos!",
+    "tryText": "Jetzt Ausprobieren",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI KI Sprechkopf Lösung",
+    "left": {
+      "heading": "Traditionelle Herausforderungen",
+      "items": [
+        "Videoproduktion ist kostspielig und zeitaufwendig",
+        "Benötigt Schauspieler, Filmen und Produktionsteams",
+        "Bearbeitungs- und Postproduktionsverzögerungen (Tage bis Wochen)",
+        "Eingeschränkte Möglichkeiten zur Anpassung von Charakteren und Stimmen",
+        "Hohe Investitionsbarriere für kleine Kreatoren"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Lösung",
+      "items": [
+        "Erstellen Sie in Minuten ein Sprechkopf-Video aus Ihrem Skript",
+        "Kein Filmen, Equipment oder Schauspieler notwendig",
+        "Sofortige Videoerstellung mit anpassbaren Avataren",
+        "Wählen Sie aus verschiedenen Stimmen und Stilen",
+        "Flexible Preisgestaltung, die für jedes Budget geeignet ist"
+      ],
+      "tryText": "Ausprobieren"
+    }
+  },
+  "howItWorks": {
+    "heading": "Wie es funktioniert",
+    "description": "Verwandeln Sie Text in dynamisches Video in 4 einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Text eingeben",
+        "text": "Geben Sie Ihr Skript oder Ihren Dialog für den Sprechkopf ein",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Avatar auswählen",
+        "text": "Wählen Sie aus einer Vielzahl von anpassbaren Charakteravatare",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Stimme wählen",
+        "text": "Wählen Sie eine Stimme, die zum Ton und Stil Ihres Inhalts passt",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Video herunterladen",
+        "text": "Erhalten Sie Ihr Sprechkopf-Video in Minuten mit vollen Rechten",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Erstellen Sie Ihr erstes Video →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endlose Möglichkeiten",
+    "description": "Ideal für eine Vielzahl von Anwendungen",
+    "items": [
+      "Bildungsvideos für Lehrer und Online-Kurse",
+      "Produktdemonstrationen und Tutorials",
+      "Unternehmensschulungen und Einarbeitungsvideos",
+      "Fesselnde Marketinginhalte für soziale Medien",
+      "Personalisierte Videonachrichten für Kunden",
+      "Virtuelle Präsentationen und Webinare",
+      "Nachrichtenberichte oder Ankündigungen",
+      "Kreatives Geschichtenerzählen und Animationen"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Entdecken Sie, wie andere ihre Kommunikation mit KI transformieren",
+    "items": [
+      {
+        "tag": "Bildung",
+        "heading": "Online-Kursleiter",
+        "before": {
+          "label": "Vorher",
+          "text": "Statische Folien"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Dynamische Videos"
+        },
+        "value": "85%",
+        "key": "Engagement-Steigerung",
+        "description": "Der Übergang zu Sprechkopf-Videos hat das Engagement der Schüler erheblich erhöht und das Lernen interaktiver gestaltet."
+      },
+      {
+        "tag": "Marketing",
+        "heading": "E-Commerce-Marke",
+        "before": {
+          "label": "Vorher",
+          "text": "Niedrige Konversion"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Hohe Interaktion"
+        },
+        "value": "50%",
+        "key": "Umsatzsteigerung",
+        "description": "Die Nutzung von KI-Sprechköpfen für Produktpräsentationen hat unsere Online-Verkaufsquote erheblich gesteigert."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "KI-Modellvergleich",
+    "description": "Wählen Sie das richtige Modell für Ihre Bedürfnisse",
+    "items": [
+      "Standard-Avatar: Lebensechte Darstellung mit grundlegender Stimme, ideal für einfache Skripte und Präsentationen",
+      "Premium-Avatar: Verbesserte Realität mit anpassbaren Funktionen und professionellen Sprachoptionen",
+      "Text-zu-Sprache-Technologie sorgt für natürlichen Rhythmus und Betonung",
+      "Unterstützung mehrerer Sprachen für internationale Inhalte",
+      "Schnelle Generierungszeit für sofortige Ergebnisse",
+      "Vollständige kommerzielle Rechte für alle generierten Videos"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ähnliche KI-Tools",
+    "description": "Entdecken Sie weitere innovative KI-Lösungen für Ihre Inhaltsbedürfnisse"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welche Art von Inhalten funktioniert am besten?",
+        "answer": "Das KI-Modell eignet sich hervorragend für klare und präzise Skripte, die für verschiedene Themen geeignet sind, und sorgt dafür, dass Ihr Video mit Ihrem Zielpublikum in Resonanz steht."
+      },
+      {
+        "question": "Kann ich das Aussehen der Avatare anpassen?",
+        "answer": "Ja! Sie können Gesichtszüge, Kleidung und Accessoires ändern, um mit Ihrer Marke oder Ihrer Botschaft übereinzustimmen."
+      },
+      {
+        "question": "Wie stelle ich sicher, dass die Stimme natürlich klingt?",
+        "answer": "Wählen Sie aus unserer umfangreichen Bibliothek von Stimmen, die alle darauf ausgelegt sind, Emotionen und Klarheit zu vermitteln, so dass Ihre Botschaft ansprechend ist."
+      },
+      {
+        "question": "Welche Formate stehen für den Video-Download zur Verfügung?",
+        "answer": "Videos können in hochqualitativen Formaten exportiert werden, die mit den meisten Plattformen kompatibel sind, einschließlich MP4 für einfaches Teilen und Verbreiten."
+      },
+      {
+        "question": "Gibt es eine Begrenzung für die Länge des Skripts?",
+        "answer": "Skripte können so kurz oder lang sein, wie nötig; wir empfehlen jedoch, sie prägnant zu halten, um optimale Interaktion zu gewährleisten."
+      },
+      {
+        "question": "Gibt es versteckte Kosten oder Gebühren?",
+        "answer": "Keine versteckten Gebühren! Unser transparentes Preismodell berechnet nur für die erstellten Videos, ohne Abonnements."
+      },
+      {
+        "question": "Kann ich mehrere Videos gleichzeitig generieren?",
+        "answer": "Absolut! Sie können zahlreiche Sprechkopf-Videos parallel erstellen, was Ihnen Zeit spart und die Produktivität erhöht."
+      },
+      {
+        "question": "Behalte ich das Eigentum an den von mir erstellten Videos?",
+        "answer": "Ja, alle generierten Videos gehören Ihnen zur kommerziellen Nutzung ohne zusätzliche Lizenzgebühren."
+      },
+      {
+        "question": "Welche Art von Unterstützung ist verfügbar, wenn ich Hilfe benötige?",
+        "answer": "Wir bieten umfassende Unterstützung durch Dokumentation, Tutorials und ein reaktionsschnelles Kundenserviceteam, das per E-Mail und Chat verfügbar ist."
+      },
+      {
+        "question": "Wie lange dauert es, bis ich mein Video erhalte?",
+        "answer": "Die meisten Videos werden in wenigen Minuten erstellt und sind zum Download bereit, was eine schnelle Inhaltserstellung ermöglicht."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Ihr erstes KI Sprechkopf-Video zu erstellen?",
+    "description": "Beginnen Sie mit kostenlosen Credits und erleben Sie die Transformation",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Jetzt Ausprobieren →"
+  },
+  "footer": {
+    "heading": "Bereit, Ihre Inhalte zu verbessern?",
+    "description": "Probieren Sie WaveSpeed AI jetzt aus und erleben Sie selbst die Innovation. Keine Anmeldung erforderlich.",
+    "ctaText": "Erstellen Sie Ihr Video jetzt",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

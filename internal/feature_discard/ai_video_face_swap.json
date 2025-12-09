@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Transform Faces in Videos Instantly",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Transform Faces in Videos",
+    "description": "Effortlessly swap faces in your videos with our advanced AI technology, enhancing creativity and fun.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example video frame before face swap"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example video frame after face swap"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Transform Your Videos",
+      "prompt": {
+        "heading": "Prompt",
+        "placeholder": "E.g., Replace the actor's face, insert a celebrity face, swap faces in a funny scene..."
+      },
+      "upload": {
+        "heading": "Select video or Input URL"
+      },
+      "processButton": "Swap Faces Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Videos Processed"
+      },
+      {
+        "title": "98.9%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "3s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Explore how WaveSpeed AI can creatively transform your videos by swapping faces seamlessly.",
+    "items": [
+      {
+        "title": "Swap Faces in a Scene",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing face swap in a video scene",
+        "description": "Instantly create hilarious and engaging content by swapping faces."
+      },
+      {
+        "title": "Revamp Video Clips",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing video face swap",
+        "description": "Transform existing videos by placing different faces in iconic moments."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI for Face Swapping?",
+    "description": "Leverage cutting-edge AI technology for innovative and captivating video content.",
+    "items": [
+      {
+        "icon": "magic",
+        "title": "Seamless Integration",
+        "description": "Easily swap faces without complex editing software, allowing you to focus on your creativity."
+      },
+      {
+        "icon": "video",
+        "title": "High-Quality Output",
+        "description": "Preserve video quality while expertly integrating faces for realistic results."
+      },
+      {
+        "icon": "lock",
+        "title": "Secure Processing",
+        "description": "All transformations are performed securely in your browser, ensuring your data remains private."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three simple steps to swap faces in your videos",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Video",
+        "description": "Upload your video effortlessly by dragging and dropping or using a file browser. Supported formats include MP4, AVI, and MOV."
+      },
+      {
+        "serial": "2",
+        "title": "AI Face Swap",
+        "description": "Our advanced AI intelligently identifies faces and executes swaps, retaining high video quality."
+      },
+      {
+        "serial": "3",
+        "title": "Download Result",
+        "description": "Preview the changes before downloading your edited video, ready to be shared."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless creative users who are elevating their video content with our innovative face swap technology",
+    "items": [
+      {
+        "name": "Emma Wilson",
+        "stars": 5,
+        "comment": "This tool transformed my videos! Everyone loved the hilarious face swaps I created for our party clips."
+      },
+      {
+        "name": "David Lee",
+        "stars": 5,
+        "comment": "As a filmmaker, it's incredible how easily I can add unexpected twists to my projects with face swapping."
+      },
+      {
+        "name": "Olivia Martinez",
+        "stars": 5,
+        "comment": "The simplicity and quality of the results amazed me! It's a must-try for anyone looking to spice up their videos."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Discover answers to your queries about AI Video Face Swap",
+    "items": [
+      {
+        "title": "What types of videos can I use this feature on?",
+        "description": "You can use this feature on a variety of videos, including personal recordings, film clips, or social media content. The AI adapts to different scenarios and video qualities."
+      },
+      {
+        "title": "Is the service free to use?",
+        "description": "Yes! Each user gets 20 free credits daily to swap faces in videos. You can earn more credits through engagement in our community activities."
+      },
+      {
+        "title": "Can I use the swapped content commercially?",
+        "description": "All users on paid plans can utilize swapped content for commercial projects. Free-tier users can use it for personal enjoyment only."
+      },
+      {
+        "title": "How is my privacy protected?",
+        "description": "All processing occurs directly within your browser, using advanced encryption to ensure your data stays private. Once you close the tab, all processing data is cleared."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Transform Your Videos?",
+    "description": "Try WaveSpeed AI now and experience the magic of face swapping. No sign-up necessary.",
+    "ctaText": "Swap Faces Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

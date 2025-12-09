@@ -1,0 +1,226 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Desfoque de Imagem com IA",
+  "meta": {
+    "description": "Melhore suas fotos removendo o desfoque sem esforço com a tecnologia avançada de desfoque do WaveSpeed AI, perfeita para comércio eletrônico, impressão e imagens de alta qualidade. Experimente imagens cristalinas com apenas alguns cliques no WaveSpeed.",
+    "keywords": "desfoque de imagem com IA, ferramenta de melhoria de fotos, restauração de clareza, afiação de imagem, ferramenta de foto para comércio eletrônico, WaveSpeed AI, processamento de imagem de alta qualidade, melhoria de fotografia, software de clareza de imagem, desfoque automatizado"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de IA",
+        "items": [
+          [
+            "Ferramentas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Mostruário",
+        "items": [
+          [
+            "Mostruário",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Desfoque de Imagem",
+    "subHeading": "Restaure a Clareza de Suas Fotos Desfocadas",
+    "description": "Revitalize suas imagens removendo o desfoque com facilidade usando nossa tecnologia avançada de IA. Perfeito para listagens de produtos, redes sociais e uso profissional. Experimente clareza deslumbrante instantaneamente.",
+    "tryText": "Experimente Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução de Desfoque de Imagem com IA WaveSpeed AI",
+    "left": {
+      "heading": "Desafios Tradicionais",
+      "items": [
+        "Métodos de afiação manuais podem ser demorados",
+        "Altos custos para serviços profissionais de edição de imagem",
+        "Melhorias limitadas em imagens severamente desfocadas",
+        "Requer habilidades avançadas e conhecimento de software",
+        "Ineficácia no processamento de grandes volumes de fotos"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeed AI",
+      "items": [
+        "Remova instantaneamente o desfoque de qualquer imagem",
+        "Processo de upload simples - nenhuma habilidade de edição necessária",
+        "Restauração de alta qualidade mesmo para desfoque extremo",
+        "Processar imagens em massa de forma rápida e eficiente",
+        "Opções de preços acessíveis adaptadas para empresas"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "Alcance imagens cristalinas em 4 etapas fáceis",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Carregar Imagem",
+        "text": "Selecione e faça upload da imagem desfocada que deseja melhorar",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Selecionar Nível de Desfoque",
+        "text": "Escolha a intensidade do desfoque com base em suas necessidades",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Visualizar Ajuste",
+        "text": "Visualize sua imagem melhorada antes de finalizar a alteração",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Baixar Imagem Melhorada",
+        "text": "Recupere sua imagem nítida e clara em segundos",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Melhore Sua Primeira Imagem →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilidades Infinitas",
+    "description": "Ideal para uma variedade de aplicações",
+    "items": [
+      "Restaurando imagens de produtos para listagens online",
+      "Melhorando fotos para campanhas de marketing",
+      "Preparando imagens para materiais impressos",
+      "Melhorando fotos familiares e pessoais",
+      "Aprimorando imagens para postagens em redes sociais",
+      "Revitalizando imagens de arquivo para uso digital",
+      "Afiando fotografia profissional",
+      "Tornando visuais educacionais mais claros"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Descubra como os usuários estão transformando suas imagens com IA",
+    "items": [
+      {
+        "tag": "Comércio Eletrônico",
+        "heading": "Melhoria de Foto de Produto",
+        "before": {
+          "label": "Antes",
+          "text": "Inutilizável devido ao desfoque"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Imagem nítida e de alta qualidade"
+        },
+        "value": "90%",
+        "key": "Melhoria na Qualidade",
+        "description": "Transformamos nossas fotos de produtos, aumentando as vendas em 25% com a melhoria da clareza da imagem."
+      },
+      {
+        "tag": "Imóveis",
+        "heading": "Listagens de Propriedades",
+        "before": {
+          "label": "Antes",
+          "text": "Desfocada e pouco atraente"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Nitidez de nível profissional"
+        },
+        "value": "95%",
+        "key": "Melhoria na Clareza",
+        "description": "Imagens que antes afastavam clientes agora atraem mais visualizações e consultas."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação da Tecnologia de Desfoque",
+    "description": "Selecione o método de processamento ideal para suas necessidades",
+    "items": [
+      "Desfoque Padrão: Aumento rápido para imagens do dia a dia, adequado para desfoque leve",
+      "Desfoque Avançado: Processamento profundo para desfoque severo, focando na recuperação de detalhes",
+      "Processamento em Lote: Manipule várias imagens de uma vez para eficiência",
+      "Feedback em tempo real durante ajustes para melhores resultados",
+      "Interface amigável para fácil navegação e uso",
+      "Direitos de uso comercial incluídos"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Descubra mais ferramentas de IA inovadoras para aprimorar suas imagens"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo o que você precisa saber",
+    "items": [
+      {
+        "question": "Quais tipos de imagens podem ser desfocadas?",
+        "answer": "A maioria das imagens pode ser processada, incluindo formatos JPEG, PNG e TIFF. Candidatos ideais incluem fotos de produtos, retratos, paisagens e qualquer imagem que precise de afiação."
+      },
+      {
+        "question": "Quão eficaz é a tecnologia de desfoque?",
+        "answer": "Nossa tecnologia de IA é projetada para melhorar significativamente a clareza da imagem, restaurando detalhes que podem ser perdidos no desfoque. A eficácia pode variar com base na qualidade inicial e na extensão do desfoque."
+      },
+      {
+        "question": "Posso comparar imagens antes e depois?",
+        "answer": "Sim! Você pode visualizar as melhorias instantaneamente, permitindo que veja as melhorias na clareza antes de baixar a imagem final."
+      },
+      {
+        "question": "Há um limite para o número de imagens que posso desfocar?",
+        "answer": "Não, você pode desfocar quantas imagens desejar. Nosso processamento eficiente permite uploads em lote para projetos maiores."
+      },
+      {
+        "question": "Qual é o tempo de processamento para o desfoque?",
+        "answer": "Normalmente, o processamento leva apenas segundos. O tempo pode variar ligeiramente dependendo da complexidade do desfoque e do número de imagens processadas."
+      },
+      {
+        "question": "Há alguma taxa de assinatura?",
+        "answer": "Não, nosso serviço opera em modelo de pagamento conforme o uso, ou seja, você paga apenas pelas imagens que melhora."
+      },
+      {
+        "question": "Como posso garantir os melhores resultados?",
+        "answer": "Para melhores resultados, use imagens de alta resolução e tente fornecer o máximo de informações sobre o tipo de desfoque durante o processo de upload."
+      },
+      {
+        "question": "Eu mantenho a propriedade das imagens melhoradas?",
+        "answer": "Absolutamente! Você mantém todos os direitos sobre todas as imagens processadas através de nossa plataforma, permitindo que você as use livremente para qualquer projeto."
+      },
+      {
+        "question": "Que suporte está disponível se eu encontrar problemas?",
+        "answer": "Oferecemos suporte abrangente, incluindo recursos online, documentação e suporte ao cliente para ajudar com qualquer desafio que você possa enfrentar."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Reviver Suas Imagens Desfocadas?",
+    "description": "Comece a melhorar suas fotos hoje com nossa tecnologia avançada de IA.",
+    "contactUsText": "Entre em Contato Conosco",
+    "tryText": "Experimente Agora →"
+  },
+  "footer": {
+    "heading": "Pronto para Melhorar Suas Imagens?",
+    "description": "Experimente o poder do desfoque com IA agora. Nenhum cadastro necessário.",
+    "ctaText": "Remova o Desfoque Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

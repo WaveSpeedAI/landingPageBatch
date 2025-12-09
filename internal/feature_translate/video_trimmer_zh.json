@@ -1,0 +1,223 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI 视频修剪器",
+  "meta": {
+    "description": "使用我们基于 AI 的视频修剪器，轻松剪切、编辑和增强您的视频。非常适合希望简化视频制作的创作者、营销人员和企业。今天就体验视频编辑的便捷！",
+    "keywords": "视频修剪器, AI 视频编辑, 视频剪切, 视频增强工具, WaveSpeed AI, 视频解决方案, 电子商务视频编辑, 社交媒体视频修剪, 在线视频编辑器, 快速视频编辑"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI 工具",
+        "items": [
+          [
+            "AI 工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即尝试"
+  },
+  "hero": {
+    "heading": "修剪您的视频",
+    "subHeading": "使用 AI 精确编辑和增强",
+    "description": "即时修剪您的社交媒体、营销或个人项目的视频。体验无缝编辑，利用 WaveSpeed AI 的力量增强您的叙事。今天就开始吧！",
+    "tryText": "现在尝试",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI 视频修剪器解决方案",
+    "left": {
+      "heading": "传统挑战",
+      "items": [
+        "手动编辑耗时且复杂",
+        "需要昂贵的编辑软件",
+        "仅限于基本修剪功能",
+        "初学者学习曲线陡峭",
+        "输出质量不一致"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI 解决方案",
+      "items": [
+        "借助 AI 助力，几秒钟内修剪和剪切视频",
+        "无需技术技能或昂贵软件",
+        "适合所有技能水平的用户友好界面",
+        "每次都能提供一致的专业输出",
+        "无需隐形费用的实惠定价"
+      ],
+      "tryText": "尝试"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "通过 3 个简单步骤轻松修剪视频",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传视频",
+        "text": "选择您想修剪或编辑的视频",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "选择修剪点",
+        "text": "标记您编辑的开始和结束点",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "预览并保存",
+        "text": "预览您的修剪视频并在几秒钟内下载",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "修剪您的第一个视频 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无限可能",
+    "description": "适合各种视频项目",
+    "items": [
+      "用于 Instagram 和 TikTok 的社交媒体片段",
+      "在线商店的宣传视频",
+      "事件回顾的视频亮点",
+      "个性化的视频消息和问候",
+      "YouTube 内容编辑",
+      "教育和教程视频增强",
+      "营销活动调整",
+      "创意叙事片段"
+    ]
+  },
+  "successStories": {
+    "heading": "真实成功案例",
+    "description": "看看用户如何通过 AI 改变他们的视频编辑",
+    "items": [
+      {
+        "tag": "内容创作",
+        "heading": "社交媒体影响者",
+        "before": {
+          "label": "之前",
+          "text": "几小时的编辑"
+        },
+        "after": {
+          "label": "之后",
+          "text": "几分钟的调整"
+        },
+        "value": "95%",
+        "key": "节省时间",
+        "description": "我在不到一个小时的时间里修剪了一周的内容，使我的观众持续关注。"
+      },
+      {
+        "tag": "电子商务",
+        "heading": "产品推广",
+        "before": {
+          "label": "之前",
+          "text": "昂贵的编辑"
+        },
+        "after": {
+          "label": "之后",
+          "text": "实惠的解决方案"
+        },
+        "value": "98%",
+        "key": "成本减少",
+        "description": "利用视频修剪器，我们制作了清晰、吸引人的产品短片，使我们的参与率翻了一番。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI 修剪比较",
+    "description": "为您的视频需求选择最佳设置",
+    "items": [
+      "基于内容的自动修剪建议",
+      "带有微调选项的精确编辑",
+      "针对多个平台的快速导出选项",
+      "实时反馈以供调整",
+      "基于云的快速生成处理",
+      "包含商业使用权"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关 AI 工具",
+    "description": "发现更多创新的 AI 工具以满足您的视频需求"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要知道的一切",
+    "items": [
+      {
+        "question": "支持哪些视频格式进行修剪？",
+        "answer": "我们支持包括 MP4、MOV 和 AVI 在内的大多数流行视频格式。轻松上传您的视频并立即开始修剪。"
+      },
+      {
+        "question": "修剪后可以合并多个片段吗？",
+        "answer": "当然可以！我们的平台允许您修剪后无缝合并多个片段为一个视频，非常适合制作亮点。"
+      },
+      {
+        "question": "如果我在修剪时犯了错误怎么办？",
+        "answer": "不用担心！您可以轻松撤消更改并在保存编辑之前恢复到以前的版本。"
+      },
+      {
+        "question": "修剪视频的长度有限制吗？",
+        "answer": "我们的视频修剪器可以处理长度达 60 分钟的视频，为您提供编辑更长内容的灵活性。"
+      },
+      {
+        "question": "修剪后可以应用特效吗？",
+        "answer": "当然可以！修剪后，您可以添加特效、文本叠加和音乐，以增强最终编辑效果。"
+      },
+      {
+        "question": "使用视频修剪器的费用是多少？",
+        "answer": "我们采用按需付费模式。您只需为进行的修剪付费，确保在不需要订阅的情况下获得超值体验。"
+      },
+      {
+        "question": "我可以期待我的修剪视频多快？",
+        "answer": "您可以期待近乎即时的处理时间。大多数修剪在几分钟内完成，使其对于快速编辑非常高效。"
+      },
+      {
+        "question": "我需要特殊软件来使用视频修剪器吗？",
+        "answer": "不需要特殊软件！您只需一个浏览器即可访问我们的在线视频修剪工具。"
+      },
+      {
+        "question": "有没有教程可以帮助我入门？",
+        "answer": "是的！我们提供了丰富的教程和指南，帮助您充分发挥视频修剪器的潜力。"
+      },
+      {
+        "question": "我可以直接从平台分享我的修剪视频吗？",
+        "answer": "是的，一旦您的视频被修剪，您可以直接分享至各个社交媒体平台或下载到您的设备。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备好编辑您的第一个视频了吗？",
+    "description": "开始使用免费积分 - 发现 AI 修剪的轻松",
+    "contactUsText": "联系我们",
+    "tryText": "现在尝试 →"
+  },
+  "footer": {
+    "heading": "准备好修剪您的视频了吗？",
+    "description": "现在就试用 WaveSpeed AI，体验无缝编辑。无需注册。",
+    "ctaText": "立即修剪视频",
+    "text": "© 2025 WaveSpeed AI. 保留所有权利。"
+  }
+}

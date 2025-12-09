@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Create Stunning Backgrounds with Bokeh Effects",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Enhance Your Photos with Beautiful Bokeh Effects",
+    "description": "Transform ordinary images into extraordinary ones by adding stunning bokeh backgrounds effortlessly.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo before bokeh effect"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example photo after bokeh effect"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Generate Bokeh Effects",
+      "prompt": {
+        "heading": " Prompt",
+        "placeholder": "E.g., Create a soft bokeh background for this portrait, add colorful bokeh to my landscape..."
+      },
+      "upload": {
+        "heading": " Select image or Input URL"
+      },
+      "processButton": "Create Bokeh Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Images Enhanced"
+      },
+      {
+        "title": "98.7%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "2.3s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Witness the magic of the AI Bokeh Generator and how it can elevate your photos dramatically.",
+    "items": [
+      {
+        "title": "Portraits with Stunning Bokeh",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing portraits enhanced with bokeh",
+        "description": "Turn simple portraits into captivating images with soft backgrounds."
+      },
+      {
+        "title": "Landscapes Transformed",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing landscape with beautiful bokeh",
+        "description": "Enhance landscapes by adding vibrant bokeh for a dreamy effect."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Our cutting-edge technology provides stunning bokeh effects without the need for complex editing.",
+    "items": [
+      {
+        "icon": "camera-retro",
+        "title": "Artistic Effects",
+        "description": "Transform your images with customizable bokeh that matches your creative vision."
+      },
+      {
+        "icon": "user-friends",
+        "title": "No Editing Skills Required",
+        "description": "Simply upload your photo, and let our AI generate beautiful bokeh backgrounds instantly."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "100% Secure",
+        "description": "All processing is done locally in your browser, ensuring your images remain private."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three easy steps to enhance your images with bokeh effects",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Your Photo",
+        "description": "Easily upload your image by dragging and dropping or browsing files in JPG, PNG, or WebP format."
+      },
+      {
+        "serial": "2",
+        "title": "AI Magic",
+        "description": "Our AI intelligently adds beautiful bokeh effects while preserving the integrity of your photo."
+      },
+      {
+        "serial": "3",
+        "title": "Download and Shine",
+        "description": "Preview your enhanced image and download it in high quality to showcase your stunning new look."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless users transforming their images with our AI Bokeh Generator",
+    "items": [
+      {
+        "name": "Emma Robinson",
+        "stars": 5,
+        "comment": "The bokeh feature is a game changer! My portraits look so professional now."
+      },
+      {
+        "name": "David Lee",
+        "stars": 5,
+        "comment": "I love how easy it is to add beautiful backgrounds to my photos. Highly recommend!"
+      },
+      {
+        "name": "Olivia Smith",
+        "stars": 5,
+        "comment": "WaveSpeed has made my photo editing so much faster and more effective without compromising quality."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get insights into the AI Bokeh Generator",
+    "items": [
+      {
+        "title": "What type of effects can this generator create?",
+        "description": "The AI Bokeh Generator can create various levels of depth and artistic bokeh effects to enhance your images, making them more eye-catching and visually appealing."
+      },
+      {
+        "title": "Is it free to use the AI Bokeh Generator?",
+        "description": "Yes! Users receive 30 free credits daily, which allows for numerous enhancements without cost. Additional credits can be earned through various activities."
+      },
+      {
+        "title": "Can I use my edited photos commercially?",
+        "description": "Users with a paid subscription can commercially utilize their edited photos. Free-tier users may only use enhanced images for personal projects."
+      },
+      {
+        "title": "Is my privacy protected when I use the generator?",
+        "description": "Yes, all processing is done in your browser, meaning your images are never uploaded or stored on any servers for added privacy and security."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Elevate Your Photography?",
+    "description": "Try the AI Bokeh Generator now and see the magic unfold. No sign-up required.",
+    "ctaText": "Create Bokeh Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

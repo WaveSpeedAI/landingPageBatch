@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Create Hilarious Memes Instantly",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Create Memes Effortlessly",
+    "description": "Transform your images into viral memes with our intuitive generator.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example meme before editing"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example meme after editing"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Generate Memes from Photos",
+      "prompt": {
+        "heading": "Add Your Text",
+        "placeholder": "E.g., Add a funny caption, include a punchline, create a meme that resonates..."
+      },
+      "upload": {
+        "heading": "Select Image or Input URL"
+      },
+      "processButton": "Create Meme Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Memes Created"
+      },
+      {
+        "title": "97%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "3s",
+        "description": "Average Creation Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Meme Examples",
+    "description": "See how WaveSpeed AI can turn ordinary photos into shareable memes in seconds.",
+    "items": [
+      {
+        "title": "Text Overlays",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example meme with text overlay",
+        "description": "Add custom captions to your favorite images."
+      },
+      {
+        "title": "Image Transformations",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example of image transformation for memes",
+        "description": "Transform any image into a relatable meme format."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI for Meme Creation?",
+    "description": "Create viral content effortlessly with our smart tools.",
+    "items": [
+      {
+        "icon": "smile",
+        "title": "Instant Humor",
+        "description": "Craft funny memes within seconds. Just upload and let our AI do the magic."
+      },
+      {
+        "icon": "thumbs-up",
+        "title": "User-Friendly",
+        "description": "No design skills? No problem! Our straightforward interface makes meme creation a breeze."
+      },
+      {
+        "icon": "lock",
+        "title": "Secure and Private",
+        "description": "Your images stay private and secure. No data leaves your device during the meme creation process."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three simple steps to hilarious memes",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Image",
+        "description": "Choose a photo from your device or enter a URL. Supported formats include JPG, PNG, and WebP."
+      },
+      {
+        "serial": "2",
+        "title": "Add Captions",
+        "description": "Use our text tool to add your witty captions or jokes to the image."
+      },
+      {
+        "serial": "3",
+        "title": "Download Meme",
+        "description": "Preview your meme and download it in high quality, ready to share with friends."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join the meme-making revolution with thousands of happy users",
+    "items": [
+      {
+        "name": "Emily Wilson",
+        "stars": 5,
+        "comment": "I love how quickly I can create memes! It's perfect for my social media posts."
+      },
+      {
+        "name": "Jake Thompson",
+        "stars": 5,
+        "comment": "The meme generator is a lifesaver for my online community. Everyone gets a laugh!"
+      },
+      {
+        "name": "Sophie Carter",
+        "stars": 5,
+        "comment": "I've never had so much fun making memes. The process is super easy!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to common questions about our Meme Generator",
+    "items": [
+      {
+        "title": "What types of images work best for memes?",
+        "description": "Any image can be turned into a meme, but images with expressions, relatable situations, or funny scenarios work particularly well."
+      },
+      {
+        "title": "Is there a limit to how many memes I can create?",
+        "description": "No limits! Create and share as many memes as you want. Enjoy unlimited creativity."
+      },
+      {
+        "title": "Can I use my memes for commercial purposes?",
+        "description": "Yes! Feel free to use your memes for personal or commercial projects. Share your creativity without restrictions."
+      },
+      {
+        "title": "How does the privacy aspect work?",
+        "description": "All meme creation occurs in your browser. Your images never leave your device, ensuring absolute privacy."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Create Viral Memes?",
+    "description": "Try WaveSpeed AI now and unleash your creativity. No sign-up required.",
+    "ctaText": "Create Meme Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

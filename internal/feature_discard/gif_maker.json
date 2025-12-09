@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Create Stunning GIFs Effortlessly",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Transform Your Moments into GIFs",
+    "description": "Instantly create animated GIFs from your images with our intuitive tool. Perfect for sharing and capturing memories.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example GIF before creation"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example GIF after creation"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Create GIFs from Your Photos",
+      "prompt": {
+        "heading": " Prompt",
+        "placeholder": "E.g., Turn my holiday photos into a fun GIF, create a GIF from a video clip..."
+      },
+      "upload": {
+        "heading": " Select images or Input URL"
+      },
+      "processButton": "Create GIF Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "GIFs Created"
+      },
+      {
+        "title": "98.5%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "3s",
+        "description": "Average Creation Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Explore how our tool can turn still images into engaging animated GIFs.",
+    "items": [
+      {
+        "title": "Image Sequencing",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing a sequence of images turned into a GIF",
+        "description": "Bring your photos to life with seamless transitions."
+      },
+      {
+        "title": "Video to GIF",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing a video clip turned into a GIF",
+        "description": "Easily convert your favorite clips into shareable animations."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI GIF Maker?",
+    "description": "Our cutting-edge technology makes GIF creation easy and fast.",
+    "items": [
+      {
+        "icon": "film",
+        "title": "Instant Creation",
+        "description": "Generate GIFs in seconds—no lengthy processes, just quick results."
+      },
+      {
+        "icon": "thumbs-up",
+        "title": "User-Friendly Interface",
+        "description": "Create GIFs with just a few clicks. No tech skills needed."
+      },
+      {
+        "icon": "lock",
+        "title": "Secure and Private",
+        "description": "Your images are processed locally, ensuring your privacy is protected."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three simple steps to create GIFs",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Images or Videos",
+        "description": "Drag and drop your images or paste a video URL. Our tool supports multiple formats."
+      },
+      {
+        "serial": "2",
+        "title": "Customize GIF Settings",
+        "description": "Adjust frame speed, sequence, and size to get the perfect GIF that fits your needs."
+      },
+      {
+        "serial": "3",
+        "title": "Download Your GIF",
+        "description": "Preview your animated GIF and download it in seconds—share it with your friends!"
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless happy users who create GIFs with WaveSpeed AI",
+    "items": [
+      {
+        "name": "Emily Carter",
+        "stars": 5,
+        "comment": "Creating GIFs has never been easier! I love how fast and fun it is to turn my photos into animations."
+      },
+      {
+        "name": "James Wang",
+        "stars": 5,
+        "comment": "This tool has greatly improved my social media presence. My followers appreciate the cool GIFs I share."
+      },
+      {
+        "name": "Laura Garcia",
+        "stars": 5,
+        "comment": "I appreciate the privacy features—my photos stay safe while I create awesome content."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your questions about our GIF Maker",
+    "items": [
+      {
+        "title": "What formats can I use to create GIFs?",
+        "description": "You can upload JPG, PNG, GIF images, or video formats like MP4 to create your GIFs effortlessly."
+      },
+      {
+        "title": "Is there a limit to how many GIFs I can create?",
+        "description": "No limit! Feel free to create as many GIFs as you want, completely free."
+      },
+      {
+        "title": "Can I use these GIFs commercially?",
+        "description": "Yes! All users can utilize their created GIFs for personal and commercial purposes without restrictions."
+      },
+      {
+        "title": "How does privacy work with the GIF Maker?",
+        "description": "All processing is done in your browser, which means your images are never uploaded to our servers and remain entirely private."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Create Eye-Catching GIFs?",
+    "description": "Start using WaveSpeed AI now and unleash your creativity. No sign-up required.",
+    "ctaText": "Create GIF Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

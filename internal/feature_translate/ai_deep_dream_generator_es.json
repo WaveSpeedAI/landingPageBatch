@@ -1,0 +1,230 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Generador de Sueños Profundos AI",
+  "meta": {
+    "description": "Aprovecha el poder de la IA para transformar tus imágenes en visuales hipnotizantes como de un sueño. Ideal para branding, proyectos creativos y redes sociales. Experimenta el futuro de la mejora de imágenes con WaveSpeed.",
+    "keywords": "generador de sueños profundos AI, transformación de imágenes, visuales creativos, IA artística, branding, contenido para redes sociales, obras de arte únicas, creatividad digital, imágenes de IA, innovación en diseño"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas de IA",
+        "items": [
+          [
+            "Herramientas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Muestra",
+        "items": [
+          [
+            "Muestra",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Transforma Tu Imaginación",
+    "subHeading": "Convierte Imágenes Ordinarias en Arte Impresionante",
+    "description": "Utiliza tecnología de IA de vanguardia para crear imágenes surrealistas e inspiradas en sueños a partir de tus fotos. Perfecto para mejorar tus proyectos artísticos, branding o compartir en redes sociales. ¡Sumérgete en el mundo de la IA artística con solo unos clics!",
+    "tryText": "Pruébalo Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución Generador de Sueños Profundos AI de WaveSpeed AI",
+    "left": {
+      "heading": "Desafíos en la Creación de Arte Tradicional",
+      "items": [
+        "Requiere habilidades artísticas y conocimiento de software",
+        "Proceso que consume tiempo y a menudo tedioso",
+        "Herramientas y materiales costosos necesarios",
+        "Creatividad e inspiración limitadas",
+        "Difícil de experimentar con estilos"
+      ]
+    },
+    "right": {
+      "heading": "Solución WaveSpeed AI",
+      "items": [
+        "Genera instantáneamente imágenes como de un sueño a partir de tus fotos",
+        "No se necesitan habilidades artísticas - Solo sube imágenes",
+        "Explora estilos y efectos ilimitados con facilidad",
+        "Precios asequibles para cada proyecto",
+        "Transforma tu creatividad en minutos"
+      ],
+      "tryText": "Prueba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "Crea visuales artísticos en 4 pasos sencillos",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Sube Imagen",
+        "text": "Selecciona cualquier imagen que desees mejorar en un visual como de un sueño",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Elige un Estilo",
+        "text": "Elige entre una variedad de estilos artísticos únicos disponibles",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Ajusta Configuraciones",
+        "text": "Modifica la intensidad y efectos para que coincidan con tu visión",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Descarga la Obra de Arte",
+        "text": "Obtén tu impresionante imagen generada por IA en segundos",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Genera Tu Primera Imagen de Sueño →"
+  },
+  "endlessPossibilities": {
+    "heading": "Posibilidades Infinitas",
+    "description": "Perfecto para cualquier esfuerzo creativo",
+    "items": [
+      "Visuales de branding únicos para tu negocio",
+      "Expansiones artísticas para publicaciones en redes sociales",
+      "Obras de arte personalizadas para proyectos personales",
+      "Mejorando la fotografía con efectos surrealistas",
+      "Visuales para portadas de álbumes de música",
+      "Campañas de marketing creativas",
+      "Transformaciones para arte digital",
+      "Diseños innovadores para mercancía"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Descubre cómo otros están revolucionando su creatividad con IA",
+    "items": [
+      {
+        "tag": "Arte Digital",
+        "heading": "Diseñador Gráfico Freelance",
+        "before": {
+          "label": "Antes",
+          "text": "Consumo de tiempo"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Generación instantánea"
+        },
+        "value": "95%",
+        "key": "Tiempo Ahorrado",
+        "description": "Transformé mi flujo de trabajo generando obras de arte únicas en segundos, permitiendo una creatividad infinita sin pasar horas en el diseño."
+      },
+      {
+        "tag": "Marketing",
+        "heading": "Agencia de Redes Sociales",
+        "before": {
+          "label": "Antes",
+          "text": "Visuales básicos"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Arte atractivo"
+        },
+        "value": "120%",
+        "key": "Aumento de Compromiso",
+        "description": "Nuestras publicaciones en redes sociales ahora destacan con visuales impresionantes generados por IA, aumentando significativamente el compromiso."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Modelos de IA",
+    "description": "Elige la configuración adecuada para tus necesidades creativas",
+    "items": [
+      "Estilo Artístico 1: Visuales soñadores con colores suaves, ideales para arte surrealista",
+      "Estilo Artístico 2: Colores audaces y líneas definidas, perfecto para looks modernos",
+      "Estilo Artístico 3: Interpretaciones abstractas para libertad creativa",
+      "Estilo Artístico 4: Estilos clásicos que recuerdan a pintores famosos",
+      "Ajustes en tiempo real para resultados inmediatos",
+      "Derechos comerciales incluidos para todas las imágenes generadas"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas de IA Relacionadas",
+    "description": "Explora más poderosas herramientas de IA para diseño creativo"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué tipos de imágenes funcionan mejor para la generación de sueños profundos?",
+        "answer": "Las imágenes con sujetos claros y características distintas ofrecen los mejores resultados. Concéntrate en imágenes bien iluminadas y de alta resolución para maximizar la calidad y el detalle en tus creaciones."
+      },
+      {
+        "question": "¿Puedo personalizar el estilo de las imágenes generadas?",
+        "answer": "¡Sí! Puedes seleccionar entre varios estilos artísticos y personalizar la intensidad para crear visuales únicos que se adapten a tu visión creativa."
+      },
+      {
+        "question": "¿Cuánto tiempo tarda en generarse una imagen?",
+        "answer": "La generación de imágenes es rápida, normalmente se completa en solo unos segundos sin importar la complejidad del estilo elegido."
+      },
+      {
+        "question": "¿Cuáles son los derechos comerciales para las imágenes generadas?",
+        "answer": "Todas las imágenes generadas con WaveSpeed Studio incluyen derechos completos de uso comercial, permitiéndote usarlas en promociones, branding y como parte de tu negocio."
+      },
+      {
+        "question": "¿Hay un límite en la cantidad de imágenes que puedo generar?",
+        "answer": "No hay límites en la cantidad de imágenes que puedes generar. ¡Crea tantas como necesites para tus proyectos!"
+      },
+      {
+        "question": "¿Qué soporte ofrece WaveSpeed para nuevos usuarios?",
+        "answer": "Ofrecemos documentación extensa, tutoriales y soporte receptivo para ayudarte a maximizar el uso del Generador de Sueños Profundos AI."
+      },
+      {
+        "question": "¿Pueden las imágenes generadas ser editadas después de la creación?",
+        "answer": "¡Absolutamente! Una vez que tengas tus imágenes generadas por IA, puedes editarlas aún más utilizando cualquier software estándar de edición de imágenes."
+      },
+      {
+        "question": "¿Qué hago si encuentro problemas con la herramienta?",
+        "answer": "Nuestro equipo de soporte está disponible 24/7 por correo electrónico o chat para ayudar con cualquier problema que puedas experimentar."
+      },
+      {
+        "question": "¿En qué se diferencia esto de los métodos tradicionales de creación artística?",
+        "answer": "Esta herramienta permite la creación rápida de imágenes artísticas sin habilidades o herramientas tradicionales, proporcionando una nueva vía para la creatividad y la exploración."
+      },
+      {
+        "question": "¿Existen tarifas de suscripción o costos ocultos?",
+        "answer": "Operamos con un modelo de pago por uso con precios transparentes, asegurando que solo pagues por lo que creas."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Generar Tu Obra Maestra Artística?",
+    "description": "Comienza a crear hoy con tecnología innovadora de IA. ¡Ve la magia desplegarse!",
+    "contactUsText": "Contáctanos",
+    "tryText": "Pruébalo Ahora →"
+  },
+  "footer": {
+    "heading": "¿Listo para Elevar Tu Creatividad?",
+    "description": "Experimenta WaveSpeed AI ahora y transforma tus imágenes en arte único. No se requiere registro.",
+    "ctaText": "Crea Arte Impresionante Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

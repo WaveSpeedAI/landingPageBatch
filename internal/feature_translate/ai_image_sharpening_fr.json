@@ -1,0 +1,230 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Amélioration d'Images par IA",
+  "meta": {
+    "description": "Améliorez vos images avec un aiguisement alimenté par IA pour une clarté et des détails époustouflants. Idéal pour le commerce électronique, les réseaux sociaux et tout contenu visuel. Expérimentez instantanément une qualité d'image de niveau supérieur !",
+    "keywords": "amélioration d'images par IA, amélioration de photos, clarté d'image, images de commerce électronique, outils photo IA, images haute résolution, contenu visuel sur les réseaux sociaux, optimisation de photos, WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Aiguisement d'Image",
+    "subHeading": "Donnez Vie à Vos Images",
+    "description": "Transformez des images floues et de basse qualité en visuels époustouflants grâce à un aiguisement avancé par IA. Expérimentez une clarté et des détails améliorés sans effort. Parfait pour le commerce électronique, le marketing et les projets personnels.",
+    "tryText": "Aiguisez Votre Image Maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution d'Aiguisement d'Image par IA WaveSpeed AI",
+    "left": {
+      "heading": "Défis Traditionnels de l'Édition d'Images",
+      "items": [
+        "Les outils d'aiguisement manuels sont complexes et prennent du temps",
+        "Perte de qualité lors de l'agrandissement et des ajustements",
+        "Nécessite des connaissances en logiciel d'édition photo",
+        "Pas adapté au traitement d'images en masse",
+        "Résultats limités sans compétences professionnelles"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed AI",
+      "items": [
+        "Aiguisez instantanément plusieurs images en un clic",
+        "Amélioration pilotée par IA qui préserve les détails",
+        "Interface conviviale sans compétences préalables requises",
+        "Traitement par lot pour un flux de travail sans couture",
+        "Service d'aiguisement rentable, paiement par image"
+      ],
+      "tryText": "Essayez"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment Ça Fonctionne",
+    "description": "Obtenez des images d'une clarté cristalline en 4 étapes simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Téléverser Image",
+        "text": "Sélectionnez l'image que vous souhaitez aiguiser",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Ajuster les Paramètres",
+        "text": "Affinez le niveau d'aiguisement selon votre préférence",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Aperçu des Modifications",
+        "text": "Voyez les changements de la clarté de votre image en temps réel",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Télécharger l'Image Améliorée",
+        "text": "Obtenez votre image magnifiquement aiguisée instantanément",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Aiguisez Votre Première Image →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilités Sans Fin",
+    "description": "Améliorez les images pour toute application",
+    "items": [
+      "Images de produits pour Shopify et Amazon",
+      "Publications sur les réseaux sociaux pour Instagram et Facebook",
+      "Matériaux marketing et publicités",
+      "Annonces immobilières",
+      "Photographie alimentaire pour menus",
+      "Projets de photographie personnelle",
+      "Photos d'événements et de mariages",
+      "Impressions d'art et portfolios en ligne"
+    ]
+  },
+  "successStories": {
+    "heading": "Véritables Histoires de Succès",
+    "description": "Découvrez comment les utilisateurs élèvent leurs images avec l'IA",
+    "items": [
+      {
+        "tag": "Photographie de Commerce Électronique",
+        "heading": "Liste de Produits Amazon",
+        "before": {
+          "label": "Avant",
+          "text": "Images Floues"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Clarté Cristalline"
+        },
+        "value": "98.7%",
+        "key": "Amélioration de la Qualité de l'Image",
+        "description": "La qualité d'image améliorée a boosté notre taux de conversion de 35 % en une semaine."
+      },
+      {
+        "tag": "Marketing sur les Réseaux Sociaux",
+        "heading": "Créateur de Contenu Instagram",
+        "before": {
+          "label": "Avant",
+          "text": "Photos Floues"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Visuels Époustouflants"
+        },
+        "value": "97.5%",
+        "key": "Augmentation du Taux d'Engagement",
+        "description": "Des images de haute qualité ont considérablement augmenté nos abonnés et nos likes."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison des Modèles d'Aiguisement par IA",
+    "description": "Sélectionnez le bon modèle d'aiguisement pour vos besoins",
+    "items": [
+      "Aiguisement Standard : Améliore les détails tout en maintenant un aspect naturel",
+      "Aiguisement Amélioré : Maximise la clarté et le contraste pour des images saisissantes",
+      "Traitement par Lot : Aiguise plusieurs images simultanément",
+      "Contrôle de Qualité Adaptatif : Ajuste l'aiguisement en fonction du contenu de l'image",
+      "Aperçu en Temps Réel : Voyez instantanément les changements avant de sauvegarder",
+      "Support PNG et JPG pour toutes les sorties"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils IA Associés",
+    "description": "Découvrez d'autres outils IA puissants pour l'amélioration d'images"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quels types d'images peuvent être aiguisées ?",
+        "answer": "Vous pouvez aiguiser des formats JPG, PNG et WebP. Les images doivent être claires et de qualité décente pour de meilleurs résultats."
+      },
+      {
+        "question": "Puis-je ajuster le niveau d'aiguisement ?",
+        "answer": "Oui ! Vous pouvez personnaliser la puissance d'aiguisement en fonction du résultat désiré et du type d'image."
+      },
+      {
+        "question": "Combien de temps faut-il pour aiguiser une image ?",
+        "answer": "La plupart des images sont améliorées en quelques secondes, ce qui rend le processus rapide et efficace pour tout projet."
+      },
+      {
+        "question": "Y a-t-il une limite au nombre d'images que je peux aiguiser en même temps ?",
+        "answer": "Pas de limites ! Vous pouvez aiguiser autant d'images que vous le souhaitez en une fois grâce à notre fonction de traitement par lot."
+      },
+      {
+        "question": "Ai-je besoin d'un logiciel spécial pour utiliser cet outil ?",
+        "answer": "Aucun logiciel spécial n'est nécessaire. Il suffit de télécharger vos images sur notre plateforme et de commencer à améliorer."
+      },
+      {
+        "question": "Y a-t-il des frais supplémentaires pour aiguiser des images ?",
+        "answer": "Nous fonctionnons sur un modèle de paiement par image sans frais cachés, ce qui le rend flexible pour votre budget."
+      },
+      {
+        "question": "Puis-je annuler mon abonnement à tout moment ?",
+        "answer": "Oui ! Il n'y a pas d'abonnements. Vous ne payez que pour les images que vous choisissez d'aiguiser."
+      },
+      {
+        "question": "Que faire si je n'aime pas les résultats ?",
+        "answer": "Si vous n'êtes pas satisfait, vous pouvez ajuster les paramètres et aiguiser à nouveau sans frais supplémentaires."
+      },
+      {
+        "question": "Y a-t-il du support si je rencontre des problèmes ?",
+        "answer": "Oui ! Notre équipe de support client est disponible par email et par chat en direct pour toute question ou dépannage."
+      },
+      {
+        "question": "Puis-je utiliser les images aiguisées commercialement ?",
+        "answer": "Absolument ! Vous possédez les droits sur toutes les images aiguisées avec notre outil."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Aiguiser Vos Images ?",
+    "description": "Commencez à améliorer vos visuels dès aujourd'hui !",
+    "contactUsText": "Contactez-Nous",
+    "tryText": "Aiguisez Votre Image Maintenant →"
+  },
+  "footer": {
+    "heading": "Prêt à Améliorer Vos Images ?",
+    "description": "Essayez WaveSpeed AI maintenant et expérimentez la transformation. Aucune inscription requise.",
+    "ctaText": "Commencez à Aiguiser Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

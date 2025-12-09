@@ -1,0 +1,229 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - 音频鸭子功能",
+  "meta": {
+    "description": "使用WaveSpeed AI的音频鸭子功能轻松优化您的音频。通过动态平衡背景音乐和旁白实现专业音质。非常适合内容创作者、播客作者和视频制作人。立即体验不同！",
+    "keywords": "音频鸭子, 声音优化, AI音频工具, 旁白增强, 播客音频编辑, 动态音频平衡, 专业音质, 视频制作音频, 背景音乐控制, 内容创作者工具"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI工具",
+        "items": [
+          [
+            "AI工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即尝试"
+  },
+  "hero": {
+    "heading": "音频鸭子",
+    "subHeading": "精准控制增强您的音频",
+    "description": "借助我们的音频鸭子功能轻松平衡您的背景音乐和旁白。非常适合寻求专业音质的播客作者和视频创作者。让您的声音更上一层楼！",
+    "tryText": "立即尝试",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI音频鸭子解决方案",
+    "left": {
+      "heading": "传统音频挑战",
+      "items": [
+        "手动混音需要数小时",
+        "难以平衡音乐和声音",
+        "不同轨道之间音频级别不一致",
+        "需要专业音频软件",
+        "初学者的复杂流程"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI音频鸭子解决方案",
+      "items": [
+        "实时自动调整背景音乐",
+        "声音和音效之间的完美平衡",
+        "与您的音频工作流程无缝集成",
+        "AI驱动技术的即时结果",
+        "每个人都可以使用，无论经验如何"
+      ],
+      "tryText": "尝试"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "只需4个简单步骤即可实现完美音频平衡",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传音频",
+        "text": "上传您的音频轨道，包括旁白和音乐",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "选择参数",
+        "text": "选择所需的鸭子和调整级别",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "预览调整",
+        "text": "听取更改，并根据需要完善设置",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "导出最终音频",
+        "text": "下载您打磨过的音轨，准备使用",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "优化您的音频 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无限音频可能性",
+    "description": "适合任何音频项目",
+    "items": [
+      "播客制作和编辑",
+      "YouTube的视频配乐",
+      "广告的商业音频",
+      "现场活动音频管理",
+      "游戏音效平衡",
+      "演示文稿的背景音乐",
+      "有声书和叙述内容",
+      "音乐制作和混音"
+    ]
+  },
+  "successStories": {
+    "heading": "真实成功故事",
+    "description": "发现用户如何利用AI提升他们的音频",
+    "items": [
+      {
+        "tag": "播客",
+        "heading": "获得更多听众",
+        "before": {
+          "label": "之前",
+          "text": "不平衡的音频"
+        },
+        "after": {
+          "label": "之后",
+          "text": "专业音质"
+        },
+        "value": "50%",
+        "key": "听众增长",
+        "description": "通过音频鸭子增强我们的播客音频，导致听众投诉关于音质的显著减少。"
+      },
+      {
+        "tag": "视频制作",
+        "heading": "YouTube频道增长",
+        "before": {
+          "label": "之前",
+          "text": "关于音频问题的反馈"
+        },
+        "after": {
+          "label": "之后",
+          "text": "高质量的音效"
+        },
+        "value": "70%",
+        "key": "参与度增加",
+        "description": "通过平衡的音频，我们的观众保留率大幅提高，使更多观众能够享受我们的内容。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "音频处理比较",
+    "description": "选择适合您需求的设置",
+    "items": [
+      "标准鸭子：适合业余者的基本背景音乐调整",
+      "高级鸭子：可自定义设置的精确声音聚焦",
+      "自动混音功能，轻松编辑",
+      "音频预览的即时反馈",
+      "直接导出到多种格式"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关的AI工具",
+    "description": "探索更多强大的音频解决方案为创作者"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要知道的一切",
+    "items": [
+      {
+        "question": "什么是音频鸭子？",
+        "answer": "音频鸭子是一种技术，当检测到旁白时，自动降低背景音乐或音效的音量，以确保口头内容的清晰度。"
+      },
+      {
+        "question": "AI如何判断何时鸭音？",
+        "answer": "AI实时分析音频级别，检测声音频率，以在听到声音的确切时刻精确调整背景声音的音量。"
+      },
+      {
+        "question": "我可以自定义鸭子级别吗？",
+        "answer": "可以！您可以设定适合项目要求的音乐和声音的具体调整级别。"
+      },
+      {
+        "question": "这个工具适合初学者吗？",
+        "answer": "绝对可以！我们的用户友好界面使任何人都可以轻松实现专业的音质，而无需之前的音频编辑经验。"
+      },
+      {
+        "question": "支持哪些音频格式？",
+        "answer": "我们支持多种音频格式，包括MP3、WAV和AAC，确保与大多数音频项目兼容。"
+      },
+      {
+        "question": "我可以在现场活动中使用这个功能吗？",
+        "answer": "是的！音频鸭子功能非常适合在现场活动中进行实时调整，提供最佳音频平衡。"
+      },
+      {
+        "question": "哪些项目可以受益于音频鸭子？",
+        "answer": "从播客、视频、广告到现场演示的项目都可以从鸭子提供的音频清晰度中受益。"
+      },
+      {
+        "question": "有后期处理可用吗？",
+        "answer": "是的！您可以在鸭音后进行其他增强和效果处理，以实现精致的最终输出。"
+      },
+      {
+        "question": "使用音频鸭子功能需要多少钱？",
+        "answer": "我们的定价灵活，让您仅为所进行的音频处理付费，没有隐藏费用或订阅。"
+      },
+      {
+        "question": "如果我需要帮助，如何联系支持？",
+        "answer": "我们的支持团队通过电子邮件和在线聊天提供技术支持，通常在24小时内回复。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备提升您的音频吗？",
+    "description": "从免费的积分开始，今天体验专业音质",
+    "contactUsText": "联系我们",
+    "tryText": "立即尝试 →"
+  },
+  "footer": {
+    "heading": "准备转换您的音频吗？",
+    "description": "立即尝试WaveSpeed AI，亲身体验不同。无须注册。",
+    "ctaText": "立即优化音频",
+    "text": "© 2025 WaveSpeed AI。保留所有权利。"
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Visual Question Answering Made Easy",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Answer Your Questions with Images",
+    "description": "Simply ask a question about your image, and our AI will provide accurate answers instantly.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo before using AI visual question answering"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example photo after using AI visual question answering"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Ask Questions About Your Images",
+      "prompt": {
+        "heading": " Ask Your Question",
+        "placeholder": "E.g., What is in the image? How many objects are there? What color is the car?"
+      },
+      "upload": {
+        "heading": " Select image or Input URL"
+      },
+      "processButton": "Get Answers Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Images Analyzed"
+      },
+      {
+        "title": "99.5%",
+        "description": "User Satisfaction Rate"
+      },
+      {
+        "title": "1.2s",
+        "description": "Average Response Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Discover how our AI can intelligently interpret images and provide meaningful answers.",
+    "items": [
+      {
+        "title": "Identify Objects",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing object identification in an image",
+        "description": "Receive precise responses regarding objects present in your photos."
+      },
+      {
+        "title": "Answer Complex Queries",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing a complex question answered",
+        "description": "Ask detailed questions about scenes, and our AI responds intelligently."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Our cutting-edge AI provides quick, accurate visual answers at your fingertips.",
+    "items": [
+      {
+        "icon": "lightbulb",
+        "title": "Instant Answers",
+        "description": "Get immediate responses to your image-related questions, enhancing productivity."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "No prior knowledge needed; just upload, ask, and receive answers effortlessly."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Secure Processing",
+        "description": "Your images and questions remain confidential, processed securely on your device."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Quick steps to get insightful answers",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Image",
+        "description": "Choose an image by dragging, dropping, or browsing through your files in JPG, PNG, or WebP format."
+      },
+      {
+        "serial": "2",
+        "title": "Ask a Question",
+        "description": "Pose a question related to the image content; our AI instantly begins analyzing."
+      },
+      {
+        "serial": "3",
+        "title": "Receive Answer",
+        "description": "View the response showcased alongside your image for convenient reference."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless satisfied users who leverage visual question answering",
+    "items": [
+      {
+        "name": "Emily Davis",
+        "stars": 5,
+        "comment": "I love how quickly I receive answers about my product images. It's incredibly helpful for my business!"
+      },
+      {
+        "name": "Jordan Lee",
+        "stars": 5,
+        "comment": "The ability to ask specific questions about my travel photos and get instant feedback is a game-changer."
+      },
+      {
+        "name": "Chris Wong",
+        "stars": 5,
+        "comment": "The accuracy of the responses is impressive. It's a must-have tool for photographers!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Find answers to common inquiries about AI Visual Question Answering",
+    "items": [
+      {
+        "title": "What types of questions can I ask?",
+        "description": "You can inquire about various elements in your images, such as identifying objects, colors, quantities, and more. Our AI is trained to understand and interpret a wide range of visual queries."
+      },
+      {
+        "title": "Is there a limit on the number of images I can analyze?",
+        "description": "No, you can upload and analyze as many images as you like. Each user receives daily limits for different features, so you can make the most out of the service."
+      },
+      {
+        "title": "Can I use the answers for commercial purposes?",
+        "description": "Yes, paid users can utilize the responses for commercial endeavors. Free-tier users can engage with the service for personal use only."
+      },
+      {
+        "title": "How is my data protected?",
+        "description": "All image processing happens directly in your browser. Your questions and images are not saved or uploaded to external servers, ensuring your privacy is always maintained."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Get Insightful Answers About Your Images?",
+    "description": "Try WaveSpeed AI now and experience the convenience firsthand. No sign-up required.",
+    "ctaText": "Get Answers Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

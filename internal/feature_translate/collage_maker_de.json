@@ -1,0 +1,231 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - AI Collage Maker",
+  "meta": {
+    "description": "Erstellen Sie mühelos atemberaubende Foto-Collagen mit KI. Perfekt für soziale Medien, Marketing und persönliche Projekte. Verwandeln Sie Ihre Bilder schnell in schöne Collagen!",
+    "keywords": "KI Collage Maker, Foto-Collage-Tool, Bild zu Collage, soziale Medien Collage, Marketingvisuals, Collage-Generierung, kreative Foto-Layouts, WaveSpeed-Collage, Collagedesign, E-Commerce-Inhaltserstellung, persönliche Fotoprojekte"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI-Tools",
+        "items": [
+          [
+            "KI-Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "Foto-Collage-Maker",
+    "subHeading": "Verwandeln Sie Ihre Bilder in atemberaubende Collagen",
+    "description": "Gestalten Sie mit Ihren Fotos in Minuten wunderschöne Collagen – keine Designfähigkeiten erforderlich! Angetrieben von fortschrittlicher KI-Technologie, erstellen Sie Layouts, die Ihr Publikum fesseln und einbinden. Lassen Sie Ihrer Kreativität jetzt freien Lauf!",
+    "tryText": "Erstellen Sie Ihre Collage jetzt",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI Collage Maker Lösung",
+    "left": {
+      "heading": "Herausforderungen bei traditionellen Collagen",
+      "items": [
+        "Manuelles Design ist zeitaufwendig und kompliziert",
+        "Erfordert Grafikdesign-Fähigkeiten oder Software",
+        "Teures Outsourcing für professionelle Designs",
+        "Begrenzt auf Vorlagen und starre Formate",
+        "Schwierig, einzigartige, personalisierte Stile zu erreichen"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Lösung",
+      "items": [
+        "Generieren Sie sofort benutzerdefinierte Collagen mit KI",
+        "Keine Design-Erfahrung erforderlich – laden Sie einfach Bilder hoch",
+        "Einzigartige Layouts, die auf Ihren Stil zugeschnitten sind",
+        "Grenzenlose Kreativität mit einfachen Bearbeitungen und Variationen",
+        "Erschwingliche Preise für jedes Projekt"
+      ],
+      "tryText": "Versuchen"
+    }
+  },
+  "howItWorks": {
+    "heading": "So funktioniert es",
+    "description": "Von Fotos zu atemberaubenden Collagen in 4 einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Fotos hochladen",
+        "text": "Wählen Sie Ihre Lieblingsbilder aus und laden Sie sie hoch",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Stil wählen",
+        "text": "Wählen Sie aus verschiedenen Collagen-Stilen und -Layouts",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Design anpassen",
+        "text": "Passen Sie Abstände an, fügen Sie Text hinzu oder wenden Sie Filter einfach an",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Collage herunterladen",
+        "text": "Speichern Sie Ihr Meisterwerk in hoher Auflösung zum Teilen",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Erstellen Sie Ihre erste Collage →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endlose kreative Möglichkeiten",
+    "description": "Perfekt für jeden Anlass oder Plattform",
+    "items": [
+      "Bildmontagen für soziale Medien für Instagram oder Facebook",
+      "Marketingmaterialien für Anzeigen und Aktionen",
+      "Erinnerungen und Einladungen zu Veranstaltungen",
+      "Personalisierte Geschenke und Andenken",
+      "Portfolio-Präsentationen und Ausstellungen",
+      "Visuelle Inhalte für Blogs und Websites",
+      "Hochzeits- und spezielle Anlässe Collagen",
+      "Reise-Fotosammlungen und Geschichten"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Entdecken Sie, wie andere ihre visuelle Darstellung mit KI verbessern",
+    "items": [
+      {
+        "tag": "Persönliche Projekte",
+        "heading": "Familienwiedervereinigung Collage",
+        "before": {
+          "label": "Vorher",
+          "text": "Kompliziert und zeitaufwendig"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Schnell und einfach mit KI"
+        },
+        "value": "95%",
+        "key": "Zeit gespart",
+        "description": "Innerhalb von Minuten eine atemberaubende Collage für unser Familientreffen erstellt! Alle haben es geliebt."
+      },
+      {
+        "tag": "Marketingkampagnen",
+        "heading": "E-Commerce-Verkaufsaktion",
+        "before": {
+          "label": "Vorher",
+          "text": "Einschränkungen bei den Visuals"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Dynamische, auffällige Grafiken"
+        },
+        "value": "90%",
+        "key": "Visuelle Wirkung",
+        "description": "Unsere Marketingvisuals haben sich drastisch verbessert und die Engagement-Raten erheblich gesteigert."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Collage-Stilvergleich",
+    "description": "Wählen Sie den richtigen Stil für Ihr Projekt",
+    "items": [
+      "Rasterlayout: Klassische Anordnung für mehrere Bilder",
+      "Künstlerische Überlagerung: Kreative Fusion von Fotos",
+      "Themen-Collage: Maßgeschneiderte Designs basierend auf Themen",
+      "Dynamische Diashow: Animierte Collage-Optionen",
+      "Textintegrationen: Nahtloses Hinzufügen von Untertiteln",
+      "Hintergrundanpassung: Wählen Sie Farben oder Muster",
+      "Vorlagenflexibilität: Einfach an Ihre Bedürfnisse anpassbar"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Verwandte KI-Tools",
+    "description": "Entdecken Sie weitere innovative KI-Tools für die Erstellung visueller Inhalte"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welche Arten von Bildern eignen sich am besten zur Erstellung von Collagen?",
+        "answer": "Alle hochauflösenden Bilder funktionieren gut. Wir empfehlen klare, gut beleuchtete Fotos zu verwenden. Je vielfältiger Ihre Bilder sind, desto dynamischer wird Ihre Collage aussehen."
+      },
+      {
+        "question": "Kann ich die Layouts und Designs anpassen?",
+        "answer": "Absolut! Wählen Sie aus verschiedenen integrierten Stilen und passen Sie Layouts, Abstände und Farben an, um Ihre Vision zu verwirklichen."
+      },
+      {
+        "question": "Wie viele Bilder kann ich maximal hochladen?",
+        "answer": "Sie können bis zu 20 Bilder pro Collage hochladen, was Ihnen viele Möglichkeiten bietet, ein atemberaubendes Design zu erstellen."
+      },
+      {
+        "question": "Benötige ich Grafikdesign-Fähigkeiten, um den Collage-Maker zu verwenden?",
+        "answer": "Nein, unser KI-Tool ist benutzerfreundlich und für jeden konzipiert, unabhängig von seinem Designhintergrund."
+      },
+      {
+        "question": "Kann ich meine Collage in verschiedenen Formaten herunterladen?",
+        "answer": "Ja! Sie können Ihre Collagen in verschiedenen Formaten speichern, einschließlich JPEG, PNG und PDF für den Druck und das Online-Teilen."
+      },
+      {
+        "question": "Wie schnell kann ich eine Collage erstellen?",
+        "answer": "Die meisten Collagen können in nur wenigen Minuten erstellt werden, nachdem Sie Ihre Bilder hochgeladen und einen Stil ausgewählt haben!"
+      },
+      {
+        "question": "Gibt es Gebühren für die Nutzung des Collage-Makers?",
+        "answer": "Wir bieten ein Pay-as-you-go-Modell an, mit dem Sie Collagen nach Bedarf erstellen können, ohne laufende Abonnementkosten."
+      },
+      {
+        "question": "Gibt es eine Grenze dafür, wie viele Collagen ich erstellen kann?",
+        "answer": "Keine Grenzen! Sie können so viele Collagen erstellen, wie Sie möchten, mit unserer Plattform."
+      },
+      {
+        "question": "Kann ich meine Collage nach dem Herunterladen bearbeiten?",
+        "answer": "Obwohl Sie die heruntergeladene Collage nicht direkt bearbeiten können, können Sie jederzeit zum Collage-Maker zurückkehren, um Anpassungen vorzunehmen oder eine neue Version zu erstellen."
+      },
+      {
+        "question": "Welche Art von Unterstützung steht zur Verfügung, wenn ich Hilfe benötige?",
+        "answer": "Wir bieten umfassende Unterstützung einschließlich Tutorials, Dokumentation und Kundenservice, um bei Fragen zu helfen."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Ihre atemberaubende Collage zu erstellen?",
+    "description": "Beginnen Sie mit kostenlosen Credits und lassen Sie Ihre Kreativität fließen!",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Erstellen Sie Ihre Collage jetzt →"
+  },
+  "footer": {
+    "heading": "Bereit, schöne Collagen zu erstellen?",
+    "description": "Probieren Sie WaveSpeed AI jetzt aus und sehen Sie zu, wie sich Ihre Fotos verwandeln. Keine Anmeldung erforderlich.",
+    "ctaText": "Jetzt erstellen",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

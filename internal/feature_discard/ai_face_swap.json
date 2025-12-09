@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Face Swap",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Swap Faces Effortlessly",
+    "description": "Instantly replace faces in your photos with seamless precision.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo before face swap"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example photo after face swap"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "AI Face Swap",
+      "prompt": {
+        "heading": " Prompt",
+        "placeholder": "E.g., Swap faces between the two people in this photo."
+      },
+      "upload": {
+        "heading": " Select image or Input URL"
+      },
+      "processButton": "Swap Faces Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "10M+",
+        "description": "Faces Swapped"
+      },
+      {
+        "title": "99.8%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "2.5s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Discover the magic of AI Face Swap through these stunning transformations.",
+    "items": [
+      {
+        "title": "Face Swap with Friends",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing a fun face swap between friends",
+        "description": "Create memorable and hilarious photos by swapping faces."
+      },
+      {
+        "title": "Celebrity Face Swaps",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing face swaps with celebrities",
+        "description": "Transform your images by placing your friends' faces on celebrity bodies."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI for Face Swapping?",
+    "description": "Revolutionary technology makes face swapping quick and perfect.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Instant Results",
+        "description": "Experience rapid face swaps in seconds without any manual editing."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "Easily swap faces with just a few clicks—no design skills needed."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Secure & Private",
+        "description": "All transformations occur on-device, ensuring your images remain confidential."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three simple steps for incredible face swaps",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Image",
+        "description": "Drag and drop or browse for your photo. Supported formats include JPG, PNG, and WebP."
+      },
+      {
+        "serial": "2",
+        "title": "AI Magic",
+        "description": "Our powerful AI analyzes your image and seamlessly swaps the chosen faces."
+      },
+      {
+        "serial": "3",
+        "title": "Download Your Creation",
+        "description": "Review the transformation and download your newly edited photo in stunning quality."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join our community of users who love transforming their photos with AI Face Swap",
+    "items": [
+      {
+        "name": "Emma Thompson",
+        "stars": 5,
+        "comment": "Face swapping with WaveSpeed was so easy. It made my party photos unforgettable!"
+      },
+      {
+        "name": "Daniel Park",
+        "stars": 5,
+        "comment": "I used it for a fun project with friends, and the results were fantastic. Highly recommend!"
+      },
+      {
+        "name": "Liam Roberts",
+        "stars": 5,
+        "comment": "I love the privacy aspect. My photos are safe, and the swaps look amazing."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get insights about the AI Face Swap feature",
+    "items": [
+      {
+        "title": "What types of images work best for face swapping?",
+        "description": "Clear and well-lit photos with frontal faces yield the best results. Avoid obstructions and ensure faces are not too far from the camera."
+      },
+      {
+        "title": "Is there a limit to how many face swaps I can do?",
+        "description": "Users receive 30 free credits per day for face swaps, with additional credits available through participation in surveys and challenges."
+      },
+      {
+        "title": "Can I use swapped images for social media or commercial projects?",
+        "description": "Paid users can freely use their images for both personal and commercial purposes. Free-tier users can share on social media but must refrain from commercial use."
+      },
+      {
+        "title": "How is my privacy protected during the face swap?",
+        "description": "All processing is done in your browser with no uploads required, ensuring complete privacy for your images."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Transform Your Photos?",
+    "description": "Try WaveSpeed AI now and see the difference for yourself. No sign-up required.",
+    "ctaText": "Swap Faces Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

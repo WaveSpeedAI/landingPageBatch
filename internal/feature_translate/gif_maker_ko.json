@@ -1,0 +1,230 @@
+{
+  "language": "ko",
+  "title": "WaveSpeed AI - AI GIF 제작기",
+  "meta": {
+    "description": "AI를 사용하여 이미지를 effortlessly 멋진 GIF로 만드세요. 소셜 미디어, 마케팅 및 전자상거래에 적합합니다. WaveSpeed AI와 함께 빠르고 원활한 GIF 생성의 세계를 발견하세요.",
+    "keywords": "GIF 제작기, AI GIF 생성기, 이미지에서 GIF, 애니메이션 GIF 생성기, 전자상거래 GIF 도구, 소셜 미디어 GIF, 마케팅 GIF, Shopify GIF 생성기, Amazon GIF 도구, GIF 애니메이션, GIF를 위한 AI 도구"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "홈",
+        "items": [
+          [
+            "홈",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI 도구",
+        "items": [
+          [
+            "AI 도구",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "쇼케이스",
+        "items": [
+          [
+            "쇼케이스",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "지금 시도해보세요"
+  },
+  "hero": {
+    "heading": "이미지에서 GIF로",
+    "subHeading": "정적 이미지를 애니메이션 GIF로 변환하세요",
+    "description": "당신의 제품 이미지를 몇 분 안에 즐거운 GIF로 쉽게 변환하세요. 복잡한 소프트웨어는 필요 없습니다. WaveSpeed AI가 제공하는 속도와 창의성을 경험해보세요.",
+    "tryText": "지금 GIF 만들기",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI GIF 제작기 솔루션",
+    "left": {
+      "heading": "전통적인 GIF 제작의 도전",
+      "items": [
+        "수작업 제작은 시간 소모적이고 지루합니다",
+        "그래픽 디자인 기술이나 소프트웨어가 필요합니다",
+        "대개 저품질 결과로 끝납니다",
+        "제한된 사용자 정의 옵션",
+        "전문 서비스에 대한 높은 비용"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI 솔루션",
+      "items": [
+        "정적 이미지에서 몇 초 만에 GIF 생성",
+        "디자인 기술 불필요 - 그냥 이미지를 업로드하세요",
+        "고품질 출력으로 즉시 생성됩니다",
+        "완전 사용자 정의 가능한 애니메이션",
+        "모두를 위한 저렴한 요금제"
+      ],
+      "tryText": "시도해보기"
+    }
+  },
+  "howItWorks": {
+    "heading": "작동 방식",
+    "description": "정적 이미지에서 애니메이션 GIF로의 4단계 간단한 과정",
+    "steps": [
+      {
+        "number": "1",
+        "title": "이미지 업로드",
+        "text": "당신의 제품 사진이나 장면 이미지를 업로드하세요",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "효과 추가",
+        "text": "선택 사항: 애니메이션 효과 선택 (예: \"페이드 인\")",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "크기 선택",
+        "text": "필요에 맞는 GIF 크기를 선택하세요",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "GIF 다운로드",
+        "text": "몇 분 안에 애니메이션 GIF를 받으세요",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "당신의 첫 번째 GIF 생성하기 →"
+  },
+  "endlessPossibilities": {
+    "heading": "끝없는 가능성",
+    "description": "모든 산업 또는 사용 사례에 완벽합니다",
+    "items": [
+      "전자상거래를 위한 제품 홍보",
+      "흥미로운 소셜 미디어 게시물",
+      "이메일 마케팅 캠페인",
+      "이벤트 하이라이트 및 기억",
+      "전후 변형",
+      "창의적인 스토리텔링 및 브랜딩",
+      "애니메이션 튜토리얼",
+      "패션 쇼케이스 및 룩북"
+    ]
+  },
+  "successStories": {
+    "heading": "실제 성공 사례",
+    "description": "기업들이 AI로 어떻게 작업 흐름을 변화시키고 있는지 확인하세요",
+    "items": [
+      {
+        "tag": "전자제품 전자상거래",
+        "heading": "제품 목록을 위한 GIF",
+        "before": {
+          "label": "이전",
+          "text": "낮은 참여도"
+        },
+        "after": {
+          "label": "이후",
+          "text": "상호 작용 증가"
+        },
+        "value": "75%",
+        "key": "참여도 증가",
+        "description": "우리는 목록에 GIF를 사용하기 시작했습니다. 전체 상호 작용이 급증하여 판매가 30% 증가했습니다."
+      },
+      {
+        "tag": "홈 & 리빙",
+        "heading": "홈 데코 매장",
+        "before": {
+          "label": "이전",
+          "text": "정적인 이미지"
+        },
+        "after": {
+          "label": "이후",
+          "text": "동적 GIF"
+        },
+        "value": "80%",
+        "key": "가시성 증가",
+        "description": "GIF로 전환함으로써 우리의 제품을 생동감 있게 보여줄 수 있어 소셜 미디어에서의 가시성이 훨씬 높아졌습니다."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "GIF 생성 옵션 비교",
+    "description": "당신의 GIF에 맞는 올바른 옵션을 선택하세요",
+    "items": [
+      "표준 품질: 기본적인 효과로 빠르고 일상적인 GIF에 적합합니다",
+      "고품질: 전문급 GIF에 적합한 고급 애니메이션",
+      "사용자 정의 트리거: 사용자 상호 작용에 따라 GIF 재생 및 효과 제어",
+      "여러 형식 지원: GIF, APNG 등 포함",
+      "웹 또는 모바일에 적합한 유연한 크기 옵션",
+      "요구 사항을 충족하기 위한 빠른 처리 속도"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "관련 AI 도구",
+    "description": "전자상거래를 위한 더 강력한 AI 도구를 탐색하세요"
+  },
+  "faq": {
+    "heading": "자주 묻는 질문",
+    "description": "당신이 알아야 할 모든 것",
+    "items": [
+      {
+        "question": "어떤 GIF 품질과 크기를 만들 수 있나요?",
+        "answer": "웹 및 모바일 플랫폼에 최적화된 고품질 GIF를 생성할 수 있습니다. 다양한 크기와 종횡비를 지원하여 GIF가 어디에서나 훌륭해 보이게 합니다."
+      },
+      {
+        "question": "애니메이션 속도와 스타일을 조절할 수 있나요?",
+        "answer": "물론입니다! 프레임 속도, 애니메이션 지속 시간 및 스타일을 도구 내에서 직접 조정할 수 있어 당신이 상상하는 대로 만들 수 있습니다."
+      },
+      {
+        "question": "어떤 이미지 유형과 형식이 GIF 제작에 가장 적합한가요?",
+        "answer": "최고의 GIF 출력을 위해 선명하고 고해상도 이미지를 사용하는 것을 추천합니다. JPG, PNG 등 일반 형식이 지원되어 과정을 간소화합니다."
+      },
+      {
+        "question": "전통적인 GIF 제작과 비교했을 때 어떤가요?",
+        "answer": "우리의 AI GIF 제작기를 사용하면 복잡한 소프트웨어 없이 즉각적인 결과를 얻을 수 있습니다. 표준 도구로는 구현하기 어려운 생동감 넘치는 애니메이션이 가능하여 귀사의 비즈니스에 우위를 제공합니다."
+      },
+      {
+        "question": "제작 후 GIF를 향상하거나 수정할 수 있나요?",
+        "answer": "네, 우리의 플랫폼은 GIF가 생성된 후에도 추가 편집 및 향상을 위한 도구를 제공하므로 조정의 유연성을 제공합니다."
+      },
+      {
+        "question": "GIF 제작에 어떤 요금 모델을 사용하나요?",
+        "answer": "우리의 서비스는 숨겨진 수수료 없이 사용한 만큼만 지불하는 모델을 따릅니다. 제작한 GIF에 대해서만 비용을 지불하며, 품질 및 사양에 따라 다양한 요금제를 선택할 수 있습니다."
+      },
+      {
+        "question": "GIF를 만드는 데 얼마나 걸리나요?",
+        "answer": "GIF 생성은 매우 빠르며 보통 몇 초밖에 걸리지 않습니다. 지연 없이 여러 GIF를 동시에 생성할 수 있습니다."
+      },
+      {
+        "question": "GIF 제작기의 가장 인기 있는 사용 사례는 무엇인가요?",
+        "answer": "이 도구는 소셜 미디어, 광고, 제품 쇼케이스, 마케팅 캠페인 등에서 애니메이션 비주얼이 주목받는 매력적인 콘텐츠를 생성하는 데 이상적입니다."
+      },
+      {
+        "question": "제가 만든 GIF의 권리는 제가 소유하나요?",
+        "answer": "네! WaveSpeed를 통해 생성된 모든 GIF는 상업적 권리가 완전히 포함되어 있어 추가 요금 없이 다양한 플랫폼에서 자유롭게 사용할 수 있습니다."
+      },
+      {
+        "question": "문제 해결을 위한 지원 리소스는 무엇이 있나요?",
+        "answer": "우리는 방대한 문서, 비디오 가이드 및 기술 질문이 있을 경우 지원 팀에 접근할 수 있는 리소스를 제공합니다. 커뮤니티 포럼에서도 도움을 찾을 수 있습니다."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "첫 번째 애니메이션 GIF를 만들 준비가 되셨나요?",
+    "description": "무료 크레딧으로 시작하세요 - 당신의 창의성을 발휘하세요",
+    "contactUsText": "문의하기",
+    "tryText": "지금 GIF 만들기 →"
+  },
+  "footer": {
+    "heading": "당신의 이미지를 생동감 있게 만들 준비가 되셨나요?",
+    "description": "지금 WaveSpeed AI를 사용해보시고 GIF 제작의 간편함을 경험하세요. 가입할 필요 없습니다.",
+    "ctaText": "지금 GIF 만들기",
+    "text": "© 2025 WaveSpeed AI. 모든 권리 보유."
+  }
+}

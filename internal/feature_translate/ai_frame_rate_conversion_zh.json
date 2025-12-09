@@ -1,0 +1,229 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI帧率转换",
+  "meta": {
+    "description": "通过WaveSpeed AI的帧率转换功能提升您的视频质量。无缝调整视频的帧率，以实现平滑播放和专业质量的视觉效果。适合电影制作人、内容创作者和营销人员。发现未来的视频制作！",
+    "keywords": "AI帧率转换, 视频增强, 帧率调整, 视频质量改善, 视频制作工具, 专业视频软件, 内容创建, 平滑视频播放, 编辑软件, 电影制作人资源"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI工具",
+        "items": [
+          [
+            "AI工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即尝试"
+  },
+  "hero": {
+    "heading": "帧率转换",
+    "subHeading": "实现平滑的视频播放",
+    "description": "通过调整帧率，以获得最佳观看体验，提升视频的平滑度和清晰度。体验我们基于AI的解决方案带来的不同。",
+    "tryText": "现在尝试",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI帧率转换解决方案",
+    "left": {
+      "heading": "传统挑战",
+      "items": [
+        "不一致的帧率导致视频画面卡顿",
+        "复杂且耗时的手动调整",
+        "专业软件解决方案的高成本",
+        "播放速度灵活性有限",
+        "创作者的用户体验令人沮丧"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI解决方案",
+      "items": [
+        "轻松在几秒内转换帧率",
+        "基于AI的技术进行精确调整",
+        "价格合理 - 无隐藏费用",
+        "实时处理以获得即时结果",
+        "用户友好的界面，轻松体验"
+      ],
+      "tryText": "尝试"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "通过4个简单步骤调整视频帧率",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传视频",
+        "text": "将您的视频文件上传到平台",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "选择帧率",
+        "text": "选择您希望转换的帧率（例如，30fps，60fps）",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "预览调整",
+        "text": "查看应用新帧率的视频预览",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载视频",
+        "text": "获取您的修饰视频以便分发",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "立即转换您的视频 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无限可能",
+    "description": "适合任何视频内容类型",
+    "items": [
+      "电影制作",
+      "YouTube视频增强",
+      "营销和宣传内容",
+      "社交媒体讲故事",
+      "现场活动录制",
+      "虚拟演示",
+      "游戏亮点",
+      "教育视频"
+    ]
+  },
+  "successStories": {
+    "heading": "真实成功案例",
+    "description": "看看用户如何利用AI增强他们的视频",
+    "items": [
+      {
+        "tag": "电影制作",
+        "heading": "独立电影项目",
+        "before": {
+          "label": "前",
+          "text": "可变帧率"
+        },
+        "after": {
+          "label": "后",
+          "text": "一致的播放"
+        },
+        "value": "95%",
+        "key": "视觉质量提升",
+        "description": "通过帧率转换，我们的电影现在流畅无阻，极大地增强了观众的体验。"
+      },
+      {
+        "tag": "内容创建",
+        "heading": "YouTube频道",
+        "before": {
+          "label": "前",
+          "text": "卡顿视频"
+        },
+        "after": {
+          "label": "后",
+          "text": "平滑播放"
+        },
+        "value": "90%",
+        "key": "互动提升",
+        "description": "帧率转换为我们的内容注入了新活力，显著提高了观众留存率。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI模型比较",
+    "description": "选择适合您需求的帧率设置",
+    "items": [
+      "标准转换：快速调整常见帧率（30fps，60fps）",
+      "高级转换：在多种帧率之间平滑过渡",
+      "高质量渲染以获得清晰的视觉效果",
+      "批量处理，支持同时处理多个视频",
+      "即时反馈调整和播放"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关AI工具",
+    "description": "探索更多强大的AI工具以增强视频"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要了解的一切",
+    "items": [
+      {
+        "question": "我可以将视频转换为哪些帧率？",
+        "answer": "我们的解决方案允许您转换为常见的帧率，如24fps，30fps和60fps。同时也可为特殊需求提供自定义帧率。"
+      },
+      {
+        "question": "AI如何改善帧率转换？",
+        "answer": "AI技术分析您的视频内容，以确保平滑过渡，保持视觉完整性，并在播放中提供最佳体验而不延迟。"
+      },
+      {
+        "question": "我可以一次转换多个视频吗？",
+        "answer": "可以！我们的平台支持批量处理，允许您一次上传并转换多个视频。"
+      },
+      {
+        "question": "转换过程中会有质量损失吗？",
+        "answer": "不会，我们的帧率转换在提升播放平滑度的同时保留您原始视频的质量。"
+      },
+      {
+        "question": "视频长度有转换限制吗？",
+        "answer": "视频长度没有严格限制，但较长视频可能需要更多处理时间，这取决于所选择的帧率调整。"
+      },
+      {
+        "question": "哪些类型的视频最适合帧率转换功能？",
+        "answer": "所有类型的视频都能受益，尤其是那些有快速运动或混合帧率的视频，例如动作序列或来自不同来源的录制。"
+      },
+      {
+        "question": "我需要特殊软件才能使用此功能吗？",
+        "answer": "不需要任何特殊软件。AI帧率转换工具可以通过我们的WaveSpeed平台在线完全访问。"
+      },
+      {
+        "question": "AI在调整方面的准确性如何？",
+        "answer": "我们的AI非常准确，旨在确保转换符合所需规范，同时保持视频质量。"
+      },
+      {
+        "question": "我可以撤销转换过程中的更改吗？",
+        "answer": "可以，我们的平台允许您在最终下载之前轻松恢复任何更改。"
+      },
+      {
+        "question": "如果我遇到问题，你们提供什么支持？",
+        "answer": "我们提供详细的文档、视频教程以及通过电子邮件和聊天的客户支持，以解决任何技术问题。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备提升您的视频质量吗？",
+    "description": "从免费信用开始 - 亲身体验转变",
+    "contactUsText": "联系我们",
+    "tryText": "立即尝试 →"
+  },
+  "footer": {
+    "heading": "准备升级您的视频吗？",
+    "description": "立即尝试WaveSpeed AI，体验更流畅的视频质量。无需注册。",
+    "ctaText": "立即转换帧率",
+    "text": "© 2025 WaveSpeed AI. 保留所有权利。"
+  }
+}

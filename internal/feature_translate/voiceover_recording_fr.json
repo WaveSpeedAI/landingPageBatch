@@ -1,0 +1,230 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Fonctionnalité d'enregistrement de voix-off",
+  "meta": {
+    "description": "Élevez votre contenu audiovisuel avec des voix-off professionnelles sans effort. Profitez de la technologie IA de pointe pour générer des voix-off à partir de texte, améliorant l'engagement et la narration. Idéal pour les vidéos, les livres audio et les supports marketing. Découvrez l'avenir de la production audio avec WaveSpeed AI.",
+    "keywords": "enregistrement de voix-off IA, génération audio, texte en voix, voix-off professionnelles, générateur de voix IA, outil audio e-commerce, production audio marketing, narration de livres audio, voix-off vidéo, améliorations audio pour les médias sociaux, outils audio WaveSpeed"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Enregistrement de Voix-Off",
+    "subHeading": "Transformez le Texte en Voix-Off Engagantes",
+    "description": "Convertissez instantanément vos scripts en voix-off de haute qualité avec notre solution alimentée par IA. Pas besoin d'équipement d'enregistrement professionnel ou d'acteurs de voix. Améliorez vos vidéos, podcasts et présentations sans effort.",
+    "tryText": "Essayez-le maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution d'Enregistrement de Voix-Off WaveSpeed AI",
+    "left": {
+      "heading": "Défis Traditionnels",
+      "items": [
+        "La production de voix-off est généralement coûteuse et chronophage",
+        "Nécessite des studios d'enregistrement et des talents professionnels",
+        "Options de révision limitées pour l'audio enregistré",
+        "Coûts continus élevés pour les acteurs de voix",
+        "Inefficace pour les délais de projet rapides"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed AI",
+      "items": [
+        "Générez des voix-off en quelques secondes à partir de texte écrit",
+        "Pas besoin de studio ou d'acteur professionnel - Il suffit d'entrer le texte",
+        "Sortie vocale de haute qualité et au son naturel",
+        "Ajustements et variations illimités pour chaque script",
+        "Tarification flexible - Payez uniquement pour ce que vous utilisez"
+      ],
+      "tryText": "Essayez"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment Ça Marche",
+    "description": "De texte à voix-off en 4 étapes simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Entrez Votre Script",
+        "text": "Tapez ou collez le texte que vous souhaitez convertir en audio",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Sélectionnez le Style de Voix",
+        "text": "Choisissez parmi une variété de voix et d'accents pour correspondre à votre ton",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Ajustez les Paramètres",
+        "text": "Affinez la tonalité, la vitesse et l'émotion pour votre voix-off",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Téléchargez le Fichier Audio",
+        "text": "Obtenez votre voix-off de haute qualité en quelques secondes",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Générez Votre Voix-Off Maintenant →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilités Illimitées",
+    "description": "Parfait pour tous les besoins audio",
+    "items": [
+      "Voix-off pour vidéos promotionnelles",
+      "Narration pour cours en ligne",
+      "Conçu pour les podcasts et les webinaires",
+      "Enregistrements de livres audio",
+      "Vidéos explicatives et tutoriels",
+      "Annonces en magasin",
+      "Jingles publicitaires",
+      "Contenu vidéo pour les médias sociaux"
+    ]
+  },
+  "successStories": {
+    "heading": "Véritables Histoires de Succès",
+    "description": "Découvrez comment les entreprises révolutionnent leur contenu audio avec l'IA",
+    "items": [
+      {
+        "tag": "E-learning",
+        "heading": "Narration de Cours en Ligne",
+        "before": {
+          "label": "Avant",
+          "text": "3-4 semaines"
+        },
+        "after": {
+          "label": "Après",
+          "text": "5 minutes"
+        },
+        "value": "99%",
+        "key": "Temps Gagné",
+        "description": "Notre production de cours a été réalisée dans des délais records. Nous pouvons maintenant mettre à jour les modules instantanément avec de nouvelles voix-off."
+      },
+      {
+        "tag": "Marketing",
+        "heading": "Publicités sur les Réseaux Sociaux",
+        "before": {
+          "label": "Avant",
+          "text": "Coûts élevés"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Économique"
+        },
+        "value": "95%",
+        "key": "Réduction des Coûts",
+        "description": "Les coûts de production audio ont diminué de manière spectaculaire, ce qui nous a permis de lancer des campagnes plus fréquemment."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison des Modèles de Voix-Off",
+    "description": "Choisissez la bonne voix pour votre projet",
+    "items": [
+      "Voix Standard : Ton naturel, approprié pour du contenu décontracté, optimal pour la plupart des applications",
+      "Voix Professionnelle : Style poli, idéal pour des présentations formelles et la narration de marques",
+      "Options Masculines/Féminines disponibles pour des besoins divers",
+      "Options de personnalisation pour spécifier le ton émotionnel et le rythme",
+      "Temps de réponse rapide pour les projets urgents",
+      "Droits commerciaux inclus - utilisez dans n'importe quel contexte"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils IA Connus",
+    "description": "Explorez d'autres outils IA innovants pour la production audio"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quelle qualité audio puis-je attendre des voix-off ?",
+        "answer": "Notre IA génère un audio de haute qualité qui est clair, naturel et optimisé pour diverses applications. La sortie maintient la clarté dans différents formats, assurant une finition professionnelle adaptée à tous les médias."
+      },
+      {
+        "question": "Puis-je choisir des voix et des accents différents ?",
+        "answer": "Absolument ! Vous pouvez sélectionner parmi une gamme de voix et d'accents, vous permettant d'adapter parfaitement le ton de votre contenu. Cette personnalisation aide votre message à résonner mieux auprès de votre public."
+      },
+      {
+        "question": "Combien de temps faut-il pour générer une voix-off ?",
+        "answer": "La génération de voix-off est incroyablement rapide, généralement terminée en quelques secondes, quelle que soit la longueur de votre texte. Cette efficacité vous permet de produire du contenu à un rythme remarquable."
+      },
+      {
+        "question": "Puis-je modifier les ajustements de voix-off après la génération ?",
+        "answer": "Oui ! Vous pouvez modifier la tonalité, la vitesse et le ton émotionnel si nécessaire, ce qui vous permet de peaufiner la voix-off pour répondre à vos exigences spécifiques pour tout projet."
+      },
+      {
+        "question": "Quels formats supportez-vous pour les fichiers audio ?",
+        "answer": "Nous supportons plusieurs formats de fichiers audio, y compris MP3 et WAV, garantissant la compatibilité avec différentes plateformes et médias. Choisissez le format qui convient le mieux à vos besoins de distribution."
+      },
+      {
+        "question": "Y a-t-il des limites sur la façon dont je peux utiliser les voix-off générées ?",
+        "answer": "Non ! Toutes les voix-off générées via WaveSpeed incluent des droits d'utilisation commerciale complets. Vous êtes libre de les utiliser dans la publicité, les médias sociaux, l'e-learning, des projets personnels, et plus encore."
+      },
+      {
+        "question": "Puis-je générer plusieurs voix-off à la fois ?",
+        "answer": "Oui, notre plateforme prend en charge le traitement en lot, vous permettant de générer plusieurs voix-off simultanément. Parfait pour les projets massifs nécessitant une sortie audio cohérente."
+      },
+      {
+        "question": "Que devrais-je faire si j'ai des problèmes techniques ?",
+        "answer": "WaveSpeed propose une documentation exhaustive, des tutoriels vidéo et un support réactif par email ou chat en direct pour vous aider avec toutes les questions techniques ou problèmes que vous pourriez rencontrer."
+      },
+      {
+        "question": "Y a-t-il une période d'essai ou des crédits gratuits pour les nouveaux utilisateurs ?",
+        "answer": "Oui, tous les nouveaux utilisateurs reçoivent des crédits gratuits pour explorer nos capacités de voix-off. Testez le service sans risque et expérimentez la qualité par vous-même."
+      },
+      {
+        "question": "Comment est structuré le prix pour la génération de voix-off ?",
+        "answer": "Nous fonctionnons sur un modèle de paiement à l'utilisation avec une tarification flexible basée sur les fonctionnalités utilisées et la longueur de l'audio. Cette structure garantit que vous ne payez que pour les voix-off que vous créez."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à créer votre première voix-off ?",
+    "description": "Commencez avec des crédits gratuits - Expérimentez la qualité par vous-même",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Essayez-le maintenant →"
+  },
+  "footer": {
+    "heading": "Prêt à améliorer votre contenu ?",
+    "description": "Essayez WaveSpeed AI maintenant et élevez votre expérience audio. Aucune inscription requise.",
+    "ctaText": "Commencez à enregistrer maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Generador de Imágenes a Video con IA",
+  "meta": {
+    "description": "Añade sin esfuerzo seguimiento de movimiento dinámico a tus videos, mejorando las presentaciones de productos y involucrando a las audiencias. Ideal para plataformas de comercio electrónico y narración de marcas. ¡Experimenta el futuro de la creación de contenido visual con WaveSpeed AI!",
+    "keywords": "IA de seguimiento de movimiento, mejora de video de producto, animación de video con IA, herramienta de video para comercio electrónico, Google Veo, texto a video, movimiento de video dinámico, creador de video de marketing, video de Shopify, video de listado de Amazon, generador de video para redes sociales"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas de IA",
+        "items": [
+          [
+            "Herramientas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrina",
+        "items": [
+          [
+            "Vitrina",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Prueba ahora"
+  },
+  "hero": {
+    "heading": "Seguimiento de Movimiento Dinámico",
+    "subHeading": "Da Vida a tus Productos con Movimiento",
+    "description": "Habilita un seguimiento de movimiento cautivador en tus videos, haciendo que tus productos se destaquen. Eleva tu contenido digital en minutos, sin necesidad de configuraciones complicadas. ¡Da tu primer paso hacia un marketing de video más atractivo hoy!",
+    "tryText": "Pruébalo Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución de Seguimiento de Movimiento de WaveSpeed AI",
+    "left": {
+      "heading": "Desafíos Tradicionales",
+      "items": [
+        "Técnicas de filmación complejas para movimiento",
+        "Requiere un equipo profesional para integración de movimiento",
+        "Altos costos de producción y plazos prolongados",
+        "Limitadas capacidades de ajuste en postproducción",
+        "Métodos obsoletos que carecen de flexibilidad"
+      ]
+    },
+    "right": {
+      "heading": "Solución WaveSpeedAI",
+      "items": [
+        "Implementa seguimiento de movimiento al instante en tus videos",
+        "No necesitas filmar, solo sube tus imágenes",
+        "Transformación rápida con movimiento asistido por IA",
+        "Opciones ilimitadas para seguimiento y ajustes",
+        "Uso rentables adaptados a tus necesidades"
+      ],
+      "tryText": "Prueba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "Logra un seguimiento de movimiento cautivador en 4 pasos fáciles",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Sube tu Multimedia",
+        "text": "Comienza subiendo una imagen estática o un video corto",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Configura los Parámetros de Movimiento",
+        "text": "Define cómo deseas que se comporte tu seguimiento (por ejemplo, \"seguir el camino del objeto\")",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Selecciona el Estilo de Seguimiento",
+        "text": "Elige entre varios estilos de seguimiento para adaptarse a tu campaña",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Exporta tu Video",
+        "text": "Recibe un video mejorado con seguimiento de movimiento aplicado",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Genera Tu Primer Video →"
+  },
+  "endlessPossibilities": {
+    "heading": "Posibilidades Infinitas",
+    "description": "Transforma tu contenido en múltiples plataformas",
+    "items": [
+      "Destaca productos para Amazon y Shopify",
+      "Crea publicaciones atractivas en redes sociales",
+      "Anuncios de marketing impactantes con movimiento",
+      "Narración visual y compromiso de marca",
+      "Tutoriales educativos con elementos dinámicos",
+      "Muestras de bienes raíces con elementos en movimiento",
+      "Videos culinarios con presentaciones animadas",
+      "Vitrinas de moda con elegancia de seguimiento"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Descubre cómo las marcas prosperan con seguimiento de movimiento",
+    "items": [
+      {
+        "tag": "Comercio Electrónico de Electrónica",
+        "heading": "Mejora de Producto en Amazon",
+        "before": {
+          "label": "Antes",
+          "text": "Presentaciones estáticas"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Seguimiento dinámico"
+        },
+        "value": "85%",
+        "key": "Aumento de Compromiso",
+        "description": "Incorporado seguimiento de movimiento en 30 listados. El compromiso se disparó un 50% a medida que los visuales cobraban vida."
+      },
+      {
+        "tag": "Retail de Moda",
+        "heading": "Contenido de Video Comprable",
+        "before": {
+          "label": "Antes",
+          "text": "Vistas de estilo ordinarias"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Visuales enriquecidos por movimiento"
+        },
+        "value": "90%",
+        "key": "Aumento de Ventas",
+        "description": "Transformamos nuestros videos promocionales; las tasas de conversión aumentaron drásticamente con el seguimiento de movimiento."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Modelos de IA",
+    "description": "Selecciona la mejor opción de seguimiento para tus necesidades",
+    "items": [
+      "Seguimiento Estándar: Seguimiento básico de movimiento con ajustes limitados",
+      "Seguimiento Avanzado: Precisión mejorada y ajustes flexibles para integración sin problemas",
+      "Control de Movimiento Dirigido: Seguimiento enfocado en objetos específicos para marketing",
+      "Parámetros Personalizables: Configuraciones de movimiento adaptadas a diferentes estilos visuales",
+      "1-2 minutos para generar un video completamente seguido",
+      "Derechos comerciales incluidos para todo el contenido generado"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas de IA Relacionadas",
+    "description": "Descubre más soluciones avanzadas de IA para tus proyectos"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué tipos de medios son compatibles con el seguimiento de movimiento?",
+        "answer": "Utiliza tanto imágenes estáticas como clips de video para el seguimiento de movimiento, maximizando el potencial de tus activos visuales. Asegúrate de que tus medios estén bien preparados para obtener los mejores resultados."
+      },
+      {
+        "question": "¿Puedo personalizar los ajustes de seguimiento de movimiento?",
+        "answer": "¡Absolutamente! Puedes personalizar completamente los parámetros de movimiento, incluyendo velocidad, dirección y camino para lograr el efecto visual deseado para tu proyecto."
+      },
+      {
+        "question": "¿Cuáles son las mejores prácticas para la preparación de medios?",
+        "answer": "Utiliza imágenes o videos claros y de alta resolución para asegurar los mejores resultados de seguimiento. Cuanto más limpios sean tus fondos y más enfocados estén tus sujetos, mejor funcionará el seguimiento de movimiento."
+      },
+      {
+        "question": "¿Cómo mejora el seguimiento de movimiento mis videos?",
+        "answer": "El seguimiento de movimiento crea una interacción dinámica que atrae la atención de los espectadores. Puede enfatizar productos y crear una experiencia visual atractiva, aumentando el compromiso del usuario."
+      },
+      {
+        "question": "¿Puedo añadir múltiples puntos de seguimiento a un solo video?",
+        "answer": "¡Sí! Puedes designar múltiples puntos para el seguimiento de movimiento, lo que conduce a salidas de video más complejas y atractivas que capturan el interés del espectador."
+      },
+      {
+        "question": "¿Hay algún límite en la velocidad de generación de video?",
+        "answer": "Normalmente, la generación de video ocurre en 1-2 minutos, permitiéndote utilizar y compartir contenido de alta calidad rápidamente sin demora."
+      },
+      {
+        "question": "¿Qué derechos de licencia vienen con los videos generados?",
+        "answer": "Todos los videos generados a través de nuestra plataforma incluyen derechos comerciales, permitiendo un uso sin restricciones en diversas plataformas y aplicaciones sin tarifas adicionales."
+      },
+      {
+        "question": "¿Cómo afectan las actualizaciones o cambios a los videos generados?",
+        "answer": "Cualquier ajuste se puede aplicar fácilmente, permitiendo que refines el seguimiento de movimiento para adaptarse a diferentes campañas o materiales de marketing."
+      },
+      {
+        "question": "¿Está disponible soporte técnico para los usuarios?",
+        "answer": "¡Sí! Proporcionamos soporte completo con recursos, tutoriales y un equipo de ayuda dedicado para asegurarte de que aproveches al máximo nuestra función de seguimiento de movimiento."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Emocionado por Dar Vida a Tus Videos?",
+    "description": "Comienza con créditos gratuitos - Experimenta la magia del movimiento tú mismo",
+    "contactUsText": "Contáctanos",
+    "tryText": "Pruébalo Ahora →"
+  },
+  "footer": {
+    "heading": "¿Listo para Elevar Tu Contenido de Video?",
+    "description": "Prueba WaveSpeed AI ahora y transforma tus videos con seguimiento de movimiento, sin necesidad de registrarse.",
+    "ctaText": "Comienza a Rastrear Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

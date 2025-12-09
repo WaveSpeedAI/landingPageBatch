@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Car Model Generator",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Generate Stunning Car Models Instantly",
+    "description": "Input your specifications and watch as our AI creates incredible car models tailored to your vision.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example car model before generation"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example car model after generation"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Create Your Custom Car Model",
+      "prompt": {
+        "heading": " Specifications",
+        "placeholder": "E.g., Sports car, electric vehicle, vintage design..."
+      },
+      "upload": {
+        "heading": " Enter Specifications"
+      },
+      "processButton": "Generate Car Model Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Car Models Generated"
+      },
+      {
+        "title": "98.7%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "3.5s",
+        "description": "Average Generation Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Experience the impressive transformations as our AI crafts unique car models from your ideas with precision.",
+    "items": [
+      {
+        "title": "Custom Sports Car",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing a generated custom sports car",
+        "description": "Bring your dream sports car to life with breathtaking designs."
+      },
+      {
+        "title": "Vintage Sedan",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing a generated vintage sedan",
+        "description": "Create classic vehicle designs that stand the test of time."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Harness cutting-edge AI technology to produce exceptional car models effortlessly.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Rapid Generation",
+        "description": "Receive your custom car models in seconds with our powerful AI processing."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "No design knowledge needed. Simply describe your car idea and let the AI do the rest."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Secure Processing",
+        "description": "Your specifications and generated models remain private and protected."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three easy steps to create your perfect car model",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Enter Specifications",
+        "description": "Describe the car model you envision, from style to features—our AI understands it all."
+      },
+      {
+        "serial": "2",
+        "title": "AI Model Creation",
+        "description": "Our advanced algorithms generate a stunning car model based on your input."
+      },
+      {
+        "serial": "3",
+        "title": "Review and Download",
+        "description": "Examine the final model, make any adjustments if needed, and download your custom design."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Discover how enthusiasts and professionals create incredible car designs with our AI",
+    "items": [
+      {
+        "name": "Ethan Parker",
+        "stars": 5,
+        "comment": "The AI Car Model Generator exceeded my expectations! I designed my dream car and it came to life perfectly."
+      },
+      {
+        "name": "Linda Gomez",
+        "stars": 5,
+        "comment": "As a car designer, this tool has streamlined my workflow. It’s fantastic for concept visualization."
+      },
+      {
+        "name": "Mark Reynolds",
+        "stars": 5,
+        "comment": "I couldn’t believe how easy it was to generate a custom model. Perfect for my auto shows!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to important queries about the AI Car Model Generator",
+    "items": [
+      {
+        "title": "What kind of car models can I create?",
+        "description": "You can design a wide range of vehicles including sports cars, sedans, SUVs, and more, tailored to your unique specifications."
+      },
+      {
+        "title": "Is there a cost to use the AI Car Model Generator?",
+        "description": "Yes! We offer a free trial with limited features, and various subscription plans for users needing more capabilities."
+      },
+      {
+        "title": "Can I use the generated car designs commercially?",
+        "description": "Absolutely! Users with a subscription can utilize generated designs for commercial projects. Free-tier users can use them for personal purposes."
+      },
+      {
+        "title": "How do you ensure my specifications are secure?",
+        "description": "All processing is done locally, ensuring your input remains confidential and is not stored on our servers."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Bring Your Car Design to Life?",
+    "description": "Try WaveSpeed AI now and unleash your creativity. No sign-up needed.",
+    "ctaText": "Generate Car Model Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

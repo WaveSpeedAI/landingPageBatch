@@ -1,0 +1,226 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - AI Skizze zu Bild Generator",
+  "meta": {
+    "description": "Transformieren Sie Ihre Skizzen in atemberaubende Bilder in kurzer Zeit. Perfekt für Künstler, Designer und Kreative. Entfalten Sie Ihre Vorstellungskraft mit KI-gestützter Generierung. Entdecken Sie endlose künstlerische Möglichkeiten!",
+    "keywords": "skizze zu bild KI, kunstwerk generator, KI bild ersteller, kreatives design werkzeug, kunst transformation, digitale kunst, visuelles storytelling, e-commerce bilder, produkt design, soziale media visuals"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI-Tools",
+        "items": [
+          [
+            "KI-Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "Skizze zu Bild",
+    "subHeading": "Verwandeln Sie Ihre Ideen in visuelle Meisterwerke",
+    "description": "Verwandeln Sie Ihre handgezeichneten Skizzen in atemberaubende digitale Bilder innerhalb von Minuten. Keine künstlerischen Fähigkeiten erforderlich. Ermöglicht durch modernste KI-Technologie, entfalten Sie Ihr kreatives Potenzial.",
+    "tryText": "Jetzt erstellen",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Skizze zu Bild Lösung",
+    "left": {
+      "heading": "Traditionelle Herausforderungen",
+      "items": [
+        "Die Erstellung von Kunstwerken erfordert oft fortgeschrittene Fähigkeiten",
+        "Teure Werkzeuge und Software erforderlich",
+        "Zeitaufwendiger Prozess (Tage bis Wochen)",
+        "Eingeschränkte Anpassungsmöglichkeiten",
+        "Hohe Eintrittsbarriere für angehende Künstler"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI Lösung",
+      "items": [
+        "Erzeugen Sie atemberaubende Bilder aus Skizzen in Sekunden",
+        "Keine künstlerische Erfahrung nötig - Einfach Skizzen hochladen",
+        "Sofortige Ergebnisse mit KI-gesteuerter Erstellung",
+        "Unbegrenzte Variationen Ihres Kunstwerks",
+        "Erschwingliche Bezahlung nach Bedarf für alle Nutzer"
+      ],
+      "tryText": "Ausprobieren"
+    }
+  },
+  "howItWorks": {
+    "heading": "So funktioniert es",
+    "description": "Erstellen Sie wunderschöne Bilder aus Skizzen in 4 einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Skizze hochladen",
+        "text": "Laden Sie Ihr handgezeichnetes Kunstwerk oder digitale Skizze hoch",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Titel hinzufügen",
+        "text": "Optional: Geben Sie einen Titel oder eine Beschreibung für Ihr Werk an",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Stil auswählen",
+        "text": "Wählen Sie den Kunststil, den Sie anwenden möchten",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Bild herunterladen",
+        "text": "Erhalten Sie Ihr hochauflösendes Bild in kürzester Zeit",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Generieren Sie Ihr erstes Bild →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endlose künstlerische Möglichkeiten",
+    "description": "Ideal für eine Vielzahl kreativer Projekte",
+    "items": [
+      "Illustrationen für Kinderbücher",
+      "Konzeptkunst für Spiele und Filme",
+      "Grafiken und Beiträge für soziale Medien",
+      "Digitale Kunstwerke für Merchandise",
+      "Individuelle Designs für Branding",
+      "Künstlerische Drucke für die Wohnkultur",
+      "Visuelle Inhalte für Präsentationen",
+      "Einzigartige Produktdesigns für E-Commerce"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Geschichten über den Erfolg",
+    "description": "Entdecken Sie, wie Kreative ihre Kunstfertigkeit mit KI verbessern",
+    "items": [
+      {
+        "tag": "Mode & Design",
+        "heading": "Individualisierte Bekleidungslinie",
+        "before": {
+          "label": "Vorher",
+          "text": "Zeitaufwendig"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Sofortige Erstellung"
+        },
+        "value": "95%",
+        "key": "Zeitersparnis",
+        "description": "Wir haben unseren Designprozess transformiert, was eine schnelle Prototypenerstellung von Modeskizzen in fertige Visualisierungen ermöglicht hat und unsere Produktivität gesteigert hat."
+      },
+      {
+        "tag": "Gaming",
+        "heading": "Indie-Spiele Kunstentwicklung",
+        "before": {
+          "label": "Vorher",
+          "text": "Wochen der Iteration"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Minuten der Erstellung"
+        },
+        "value": "90%",
+        "key": "Effizienzsteigerung",
+        "description": "Die Fähigkeit, Konzepte schnell zu visualisieren, hat die künstlerische Entwicklung unseres Spiels revolutioniert und uns wertvolle Zeit gespart."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "KI-Modell Vergleich",
+    "description": "Wählen Sie das perfekte Modell für Ihre künstlerischen Bedürfnisse",
+    "items": [
+      "Lebendiger Creator: Hohe Auflösung, detaillierte künstlerische Ausgabe, ideal für Drucke",
+      "Schnell-Künstler: Standardqualität, schnellere Erstellung, perfekt für Entwürfe",
+      "Stil-Wähler: Wählen Sie Stile für verschiedene künstlerische Ästhetik",
+      "Integrierte Kunstbewegungseffekte für dynamische Bilder",
+      "1-2 Minuten Generierungszeit für schnelle Ergebnisse",
+      "Vollständige Nutzungsrechte für kommerzielle Anwendungen"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Verwandte KI-Tools",
+    "description": "Entdecken Sie leistungsstarke KI-Tools für Kreative"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welche Bildqualität kann ich von der Skizzenumwandlung erwarten?",
+        "answer": "Unsere KI generiert hochqualitative Bilder basierend auf Ihren Skizzen, die professionelle Ergebnisse ermöglichen, die für verschiedene Anwendungen genutzt werden können, von sozialen Medien bis hin zu Druck."
+      },
+      {
+        "question": "Kann ich die generierten Bilder modifizieren?",
+        "answer": "Absolut! Sobald Ihr Bild erstellt wurde, haben Sie die Möglichkeit, weitere Änderungen oder Verbesserungen mit unseren intuitiven Bearbeitungswerkzeugen vorzunehmen."
+      },
+      {
+        "question": "Welche Arten von Skizzen funktionieren am besten für die Umwandlung?",
+        "answer": "Handgezeichnete Skizzen oder saubere digitale Zeichnungen funktionieren am besten. Stellen Sie sicher, dass Ihre Skizzen klar und detailliert sind, um optimale Ergebnisse zu erzielen."
+      },
+      {
+        "question": "Wie unterscheidet sich dies von der traditionellen digitalen Kunstproduktion?",
+        "answer": "Diese Technologie automatisiert und optimiert den künstlerischen Prozess, sodass Sie schnell Bilder aus einfachen Skizzen generieren können, ohne umfangreiche künstlerische Ausbildung."
+      },
+      {
+        "question": "Gibt es Einschränkungen hinsichtlich der Arten von Bildern, die ich erstellen kann?",
+        "answer": "Nein, Sie können eine Vielzahl von Bildern in verschiedenen Stilen, Themen und Motiven erstellen; die einzige Grenze ist Ihre Vorstellungskraft."
+      },
+      {
+        "question": "Welches Preismodell verwenden Sie für die Umwandlung von Skizzen zu Bildern?",
+        "answer": "Wir arbeiten nach dem Pay-as-you-go-Modell, das es Ihnen ermöglicht, nur für die Bilder zu bezahlen, die Sie generieren, ohne versteckte Gebühren oder Abonnements."
+      },
+      {
+        "question": "Wie schnell kann ich Bilder mit diesem Tool generieren?",
+        "answer": "Die meisten Bilder werden innerhalb von 1-2 Minuten generiert, sodass Sie schnell von der Idee zur Ausführung gelangen können."
+      },
+      {
+        "question": "Habe ich Rechte an den Bildern, die ich generiere?",
+        "answer": "Ja! Alle Bilder, die über unsere Plattform erstellt werden, kommen mit vollständigen kommerziellen Nutzungsrechten, sodass Sie Ihre Kunstwerke nach Belieben nutzen können."
+      },
+      {
+        "question": "Welche Ressourcen sind für Unterstützung verfügbar?",
+        "answer": "Wir bieten umfassende Unterstützung, einschließlich Tutorials, umfangreiche Dokumentation und Kundenservice, um Ihnen bei allen Problemen zu helfen, auf die Sie stoßen."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Ihre Skizzen in atemberaubende Bilder zu verwandeln?",
+    "description": "Starten Sie mit kostenlosen Credits - Erleben Sie die Kreativität selbst",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Jetzt starten →"
+  },
+  "footer": {
+    "heading": "Bereit, Ihre Ideen zu verwandeln?",
+    "description": "Probieren Sie WaveSpeed AI jetzt aus und sehen Sie die Magie selbst. Keine Anmeldung erforderlich.",
+    "ctaText": "Bilder jetzt erstellen",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

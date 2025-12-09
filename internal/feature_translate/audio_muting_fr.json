@@ -1,0 +1,223 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Fonction de suppression de l'audio IA",
+  "meta": {
+    "description": "Supprimez facilement l'audio indésirable de votre contenu vidéo avec notre puissante fonction de suppression de l'audio IA. Parfait pour le commerce électronique, les réseaux sociaux et le marketing. Élevez votre narration vidéo !",
+    "keywords": "suppression audio IA, suppression de bruit de fond, outil de montage vidéo, amélioration vidéo e-commerce, outils audio pour les réseaux sociaux, intégration audio transparente, fonctionnalités audio WaveSpeed, optimisation sonore, outils de création de contenu, son professionnel vidéo"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Suppression de l'audio",
+    "subHeading": "Silence des bruits indésirables pour des récits plus clairs",
+    "description": "Améliorez votre contenu vidéo en supprimant facilement les bruits de fond et l'audio indésirable. Assurez-vous que votre message est clair comme de l'eau de roche, permettant à votre public de se concentrer sur ce qui compte vraiment. Découvrez la puissance de l'IA dans le montage audio aujourd'hui !",
+    "tryText": "Couper maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution de suppression audio WaveSpeed IA",
+    "left": {
+      "heading": "Défis audio traditionnels",
+      "items": [
+        "Montage manuel chronophage",
+        "Logiciels audio coûteux nécessaires",
+        "Processus complexes pour la réduction du bruit",
+        "Options limitées pour les non-professionnels",
+        "Qualité sonore incohérente"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed IA",
+      "items": [
+        "Coupez instantanément l'audio indésirable en quelques secondes",
+        "Aucune expérience de montage requise",
+        "Interface conviviale pour tous",
+        "Restitution sonore de haute qualité",
+        "Modèle de paiement à l'utilisation économique"
+      ],
+      "tryText": "Essayez"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment ça fonctionne",
+    "description": "Coupez facilement l'audio indésirable en 3 étapes simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Télécharger la vidéo",
+        "text": "Téléchargez votre fichier vidéo avec audio sur la plateforme",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Sélectionner la piste audio",
+        "text": "Choisissez la piste audio que vous souhaitez couper ou modifier",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Couper le bruit",
+        "text": "Appliquez instantanément la fonction de suppression de l'audio alimentée par l'IA",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "Coupez votre audio maintenant →"
+  },
+  "endlessPossibilities": {
+    "heading": "Applications infinies",
+    "description": "Idéal pour divers besoins de contenu vidéo",
+    "items": [
+      "Vlogs et vidéos personnelles",
+      "Campagnes marketing et publicités",
+      "Contenu éducatif et tutoriels",
+      "Publications sur les réseaux sociaux (Instagram, TikTok)",
+      "Présentations d'entreprise",
+      "Enregistrements d'événements",
+      "Critiques de produits",
+      "Amélioration audio de flux en direct"
+    ]
+  },
+  "successStories": {
+    "heading": "Vraies histoires de succès",
+    "description": "Découvrez comment les utilisateurs améliorent leur qualité audio avec l'IA",
+    "items": [
+      {
+        "tag": "Créateur e-commerce",
+        "heading": "Vidéos de démonstration de produits",
+        "before": {
+          "label": "Avant",
+          "text": "Bruit de fond distrayant"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Audio clair et professionnel"
+        },
+        "value": "95%",
+        "key": "Amélioration de la qualité audio",
+        "description": "Nous avons transformé l'audio de nos démonstrations de produits, ce qui a conduit à un engagement client plus élevé. La clarté du message a augmenté les conversions de 30 %."
+      },
+      {
+        "tag": "Influenceur des réseaux sociaux",
+        "heading": "Production de vlog",
+        "before": {
+          "label": "Avant",
+          "text": "Environnement sonore chaotique"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Piste audio polie"
+        },
+        "value": "92%",
+        "key": "Temps gagné",
+        "description": "Le processus de suppression de bruit a été un véritable changement de jeu. Je peux maintenant me concentrer sur le contenu au lieu de m'inquiéter de la qualité audio !"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison du traitement audio",
+    "description": "Sélectionnez la bonne option d'édition audio pour vos besoins",
+    "items": [
+      "Suppression de bruit standard : efficace pour les problèmes audio de base, abordable, traitement rapide",
+      "Filtre audio avancé : pour des environnements sonores complexes avec plusieurs types de bruit, résultats premium",
+      "Analyse audio en temps réel pour un profilage sonore précis",
+      "Intégration transparente avec la vidéo pour maintenir la cohérence",
+      "Tarification flexible basée sur l'utilisation",
+      "Droits commerciaux complets inclus"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils IA connexes",
+    "description": "Explorez d'autres outils IA de pointe pour l'amélioration audio et vidéo"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Dans quelle mesure puis-je couper l'audio de mes vidéos rapidement ?",
+        "answer": "La suppression de l'audio est incroyablement rapide, généralement effectuée en moins d'une minute en fonction de la longueur de la vidéo. L'IA traite l'audio en temps réel."
+      },
+      {
+        "question": "Puis-je écouter l'audio avant et après la suppression ?",
+        "answer": "Oui ! Vous pouvez écouter un aperçu des pistes audio originale et modifiée pour vous assurer de la satisfaction du résultat."
+      },
+      {
+        "question": "Y a-t-il une limite à la taille de fichier que je peux télécharger ?",
+        "answer": "Actuellement, notre plateforme prend en charge les téléchargements de fichiers vidéo jusqu'à 4 Go. Assurez-vous que vos vidéos respectent cette exigence pour un montage fluide."
+      },
+      {
+        "question": "Quels formats supportez-vous pour les téléchargements vidéo ?",
+        "answer": "Nous supportons divers formats y compris MP4, MOV et AVI pour un traitement optimal. Assurez-vous que vos fichiers sont dans ces formats pour éviter les problèmes."
+      },
+      {
+        "question": "Puis-je couper plusieurs sections audio dans une même vidéo ?",
+        "answer": "Absolument ! Vous pouvez choisir de couper plusieurs pistes audio ou sections dans une vidéo selon vos besoins."
+      },
+      {
+        "question": "Conserve-t-on la propriété des vidéos modifiées ?",
+        "answer": "Oui ! Vous conservez l'intégralité de la propriété des vidéos modifiées à l'aide de notre plateforme, y compris le contenu audio."
+      },
+      {
+        "question": "Quelle qualité puis-je attendre de l'audio après la suppression ?",
+        "answer": "La qualité reste élevée, et la suppression du bruit de fond enhance la clarté de votre audio restant. Attendez-vous à un son de qualité professionnelle."
+      },
+      {
+        "question": "Puis-je éditer l'audio si je ne suis pas un professionnel ?",
+        "answer": "Oui ! Notre outil est conçu pour être facile à utiliser, donc tout le monde peut naviguer dans le processus de suppression audio sans expérience préalable."
+      },
+      {
+        "question": "Quel support technique est disponible si je rencontre des problèmes ?",
+        "answer": "Nous offrons un support complet par e-mail et chat en direct, avec une FAQ détaillée et des guides de dépannage sur notre site web."
+      },
+      {
+        "question": "Que faire si je ne suis pas satisfait des résultats de la suppression audio ?",
+        "answer": "Nous encourageons les utilisateurs à tirer pleinement parti de la fonction de prévisualisation pour garantir leur satisfaction. Si des problèmes surviennent, notre équipe de support est prête à aider."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à améliorer l'audio de votre vidéo ?",
+    "description": "Commencez avec des crédits gratuits et expérimentez la différence par vous-même.",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Coupez maintenant →"
+  },
+  "footer": {
+    "heading": "Transformez l'audio de votre vidéo aujourd'hui !",
+    "description": "Essayez WaveSpeed AI maintenant pour une suppression audio professionnelle. Aucune inscription requise.",
+    "ctaText": "Couper l'audio maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Remove Unwanted Silence from Audio Effortlessly",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Eliminate Unwanted Silence from Your Audio",
+    "description": "Input your file to automatically remove unwanted silence and enhance your audio experience.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example audio before silence removal"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example audio after silence removal"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Remove Unwanted Silence from Audio",
+      "prompt": {
+        "heading": " Prompt",
+        "placeholder": "E.g., Remove silence between phrases, eliminate gaps in recordings..."
+      },
+      "upload": {
+        "heading": " Select audio file or Input URL"
+      },
+      "processButton": "Remove Silence Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "10M+",
+        "description": "Audio Files Processed"
+      },
+      {
+        "title": "99.9%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "3s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Witness how WaveSpeed AI can transform your audio by eliminating unwanted silence seamlessly.",
+    "items": [
+      {
+        "title": "Eliminate Silence",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing removal of unwanted silence from audio",
+        "description": "Effortlessly enhance audio quality by removing silent gaps."
+      },
+      {
+        "title": "Refine Audio Clips",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing refined audio clips after silence removal",
+        "description": "Enhance clarity by removing pauses and improving flow in recordings."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Our state-of-the-art AI technology delivers audio enhancements with remarkable ease.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Instant Processing",
+        "description": "Experience professional results in seconds without any delays."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly",
+        "description": "No prior knowledge needed. Just upload your audio and let the AI fine-tune it for you."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Secure and Private",
+        "description": "Your audio files are processed securely and will never leave your device."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three simple steps to improved audio quality",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Audio",
+        "description": "Easily upload your audio file by dragging and dropping or browsing through your files. Supported formats include MP3, WAV, and AAC."
+      },
+      {
+        "serial": "2",
+        "title": "AI Enhancement",
+        "description": "Our sophisticated AI analyzes the audio and removes unwanted silent segments while maintaining quality."
+      },
+      {
+        "serial": "3",
+        "title": "Download Enhanced Audio",
+        "description": "Preview the processed audio and download the polished version in high quality."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless satisfied users who enhance their audio with WaveSpeed AI",
+    "items": [
+      {
+        "name": "Emily Davis",
+        "stars": 5,
+        "comment": "I can't believe how easily I was able to remove silence from my podcast! It saved me so much editing time."
+      },
+      {
+        "name": "Jordan Lee",
+        "stars": 5,
+        "comment": "As a musician, this tool has been revolutionary in refining my recordings. No more awkward pauses!"
+      },
+      {
+        "name": "Alex Smith",
+        "stars": 5,
+        "comment": "The security of processing everything locally was a huge plus for me. Highly recommend!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Find answers to common questions about WaveSpeed AI",
+    "items": [
+      {
+        "title": "What types of audio can be processed?",
+        "description": "WaveSpeed AI can handle various audio types, including podcasts, music tracks, and voice recordings, effectively removing silence or gaps between spoken content."
+      },
+      {
+        "title": "Is WaveSpeed free to use?",
+        "description": "Absolutely! Users receive 30 free credits daily, allowing ample processing. Additional credits can be earned through tasks or our community engagement."
+      },
+      {
+        "title": "Can I use my processed audio for commercial purposes?",
+        "description": "Paid users on any subscription plan can utilize processed audio for commercial projects. Free-tier users can use it for personal use but cannot monetize it."
+      },
+      {
+        "title": "How is my privacy maintained?",
+        "description": "All audio processing happens directly in your browser using state-of-the-art technology, ensuring your files are never stored or sent to remote servers."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Enhance Your Audio?",
+    "description": "Try WaveSpeed AI now and experience the difference. No registration needed.",
+    "ctaText": "Remove Silence Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

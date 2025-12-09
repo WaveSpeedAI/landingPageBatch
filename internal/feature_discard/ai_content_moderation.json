@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Content Moderation Made Simple",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Moderate Content with AI Precision",
+    "description": "Effortlessly review and filter inappropriate content using advanced AI technology.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Content Before Moderation",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example of content before moderation"
+        },
+        {
+          "title": "Content After Moderation",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example of content after moderation"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Moderate Content Efficiently",
+      "prompt": {
+        "heading": "Prompt",
+        "placeholder": "E.g., Identify and filter offensive language, explicit images, harmful messages..."
+      },
+      "upload": {
+        "heading": "Select content for moderation or Input URL"
+      },
+      "processButton": "Moderate Content Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Content Moderated"
+      },
+      {
+        "title": "98.5%",
+        "description": "Accuracy Rate"
+      },
+      {
+        "title": "3s",
+        "description": "Average Response Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Moderation Examples",
+    "description": "Discover how our AI can effectively clean up your content by identifying and removing inappropriate elements with speed and accuracy.",
+    "items": [
+      {
+        "title": "Remove Inappropriate Text",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing removal of inappropriate text from content",
+        "description": "Instantly filter harmful language and maintain a safe environment."
+      },
+      {
+        "title": "Filter Explicit Images",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing filtering of explicit images from content",
+        "description": "Automatically detect and remove explicit content ensuring compliance."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI for Content Moderation?",
+    "description": "Harness our powerful AI technology to ensure safe and reliable content.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Rapid Processing",
+        "description": "Achieve swift moderation results with our high-speed AI. No delays in protecting your community."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "Easily moderate content without complex setups. Upload your content and let the AI handle the rest."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Secure and Reliable",
+        "description": "Your data privacy is a priority. All moderation happens on your device without compromising security."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three straightforward steps to effective content moderation",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Content",
+        "description": "Drag and drop or browse to upload your content for evaluation. Our tool supports various formats."
+      },
+      {
+        "serial": "2",
+        "title": "AI Evaluation",
+        "description": "Our advanced algorithms analyze content and automatically identify inappropriate elements quickly."
+      },
+      {
+        "serial": "3",
+        "title": "Review Results",
+        "description": "Check the moderation results and retain control to decide what gets filtered or removed."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join the growing number of users who trust our AI for content moderation",
+    "items": [
+      {
+        "name": "Emily Carson",
+        "stars": 5,
+        "comment": "WaveSpeed’s moderation tool saved us from potential backlash by filtering harmful comments instantly!"
+      },
+      {
+        "name": "Raj Patel",
+        "stars": 5,
+        "comment": "As a community manager, I appreciate how fast and accurate the moderation is. It allows me to focus on engagement."
+      },
+      {
+        "name": "Linda Brown",
+        "stars": 5,
+        "comment": "The AI's ability to identify subtle issues is impressive. I feel more confident in managing our online space."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Find answers to your questions about our content moderation feature",
+    "items": [
+      {
+        "title": "What types of content can be moderated?",
+        "description": "Our AI can identify and filter various types of inappropriate content, including hate speech, explicit imagery, and harmful messages, ensuring a safe digital environment."
+      },
+      {
+        "title": "Is there a charge for using the content moderation feature?",
+        "description": "Absolutely! Your initial setup provides access to moderate 30 pieces of content daily, which is completely free. Additional credits and premium features are available for our subscription users."
+      },
+      {
+        "title": "Can I customize the moderation criteria?",
+        "description": "Yes, you can set specific criteria for moderation based on your unique requirements and community guidelines, giving you full control over the content."
+      },
+      {
+        "title": "How does privacy protection work?",
+        "description": "All moderation is performed instantly on your device, with no content uploaded to external servers, ensuring your data remains confidential and secure."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Enhance Your Content Safety?",
+    "description": "Try WaveSpeed AI now and experience the power of automated content moderation. No sign-up needed.",
+    "ctaText": "Moderate Content Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

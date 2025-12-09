@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Generate Realistic Shadows for Your Images Instantly",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Create Stunning Shadows for Your Images",
+    "description": "Enhance your photos with realistic shadow effects that bring your images to life.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo before shadow generation"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example photo after shadow generation"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Generate Realistic Shadows",
+      "prompt": {
+        "heading": "Prompt",
+        "placeholder": "E.g., Add a shadow to the tree, create a shadow for the table..."
+      },
+      "upload": {
+        "heading": " Select image or Input URL"
+      },
+      "processButton": "Generate Shadows Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "10M+",
+        "description": "Images Processed"
+      },
+      {
+        "title": "99.8%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "2.5s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Discover how our AI can elevate your images with professional-grade shadow effects.",
+    "items": [
+      {
+        "title": "Enhance Object Depth",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing enhanced depth with shadows",
+        "description": "Add dimension to your photos by generating shadows that match the lighting perfectly."
+      },
+      {
+        "title": "Create Realistic Environments",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing integration of shadows into an environment",
+        "description": "Transform flat images into engaging scenes with tailored shadows."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose Our AI Shadow Generator?",
+    "description": "Our innovative technology creates shadows that enhance realism effortlessly.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Instant Results",
+        "description": "Generate dynamic shadows in seconds, seamlessly integrating with your images."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "No design skill required. Simply upload your image and watch our AI enhance it."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Secure Processing",
+        "description": "All processing occurs in your browser, ensuring your images stay private."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three easy steps to create captivating shadows",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Your Image",
+        "description": "Upload your photo using drag-and-drop or browse your files. Supported formats include JPG, PNG, and WebP."
+      },
+      {
+        "serial": "2",
+        "title": "AI Shadow Generation",
+        "description": "Our advanced AI analyzes your image and adds realistic shadows that enhance depth and realism."
+      },
+      {
+        "serial": "3",
+        "title": "Download Your Enhanced Image",
+        "description": "Preview the effect with our comparison slider and download your newly enhanced image in high quality."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join a community of satisfied users who enhance their images using our shadow generator",
+    "items": [
+      {
+        "name": "Emily Carter",
+        "stars": 5,
+        "comment": "The shadow generator brought my architectural photos to life. It's like magic!"
+      },
+      {
+        "name": "James Smith",
+        "stars": 5,
+        "comment": "As a portrait photographer, this tool is essential for creating depth in my images."
+      },
+      {
+        "name": "Rachel Adams",
+        "stars": 5,
+        "comment": "I love how quickly I can add shadows. It makes my workflow so much smoother!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your queries about our shadow generation feature",
+    "items": [
+      {
+        "title": "What types of shadows can I generate?",
+        "description": "You can create various shadow styles to fit different lighting conditions, including soft, hard, and dynamic shadows that react to the image context."
+      },
+      {
+        "title": "Is it free to use the shadow generator?",
+        "description": "Yes! Users receive 30 free credits daily, with opportunities to earn more through activities. Subscription plans are available for those needing higher volume."
+      },
+      {
+        "title": "Can I use generated shadows commercially?",
+        "description": "Paid subscribers can use generated shadows for commercial projects. Free-tier users may use them for personal use only."
+      },
+      {
+        "title": "How is my privacy protected while generating shadows?",
+        "description": "All image processing is done directly in your browser with no uploads to our servers, ensuring your images remain confidential."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Elevate Your Images with Realistic Shadows?",
+    "description": "Try our AI Shadow Generator now and experience the transformation. No sign-up required.",
+    "ctaText": "Generate Shadows Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

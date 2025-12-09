@@ -1,0 +1,230 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI头像生成器",
+  "meta": {
+    "description": "使用AI技术即时创建专业头像。轻松提升个人品牌和在线形象。非常适合LinkedIn个人资料、企业网站等！",
+    "keywords": "AI头像生成器, 专业头像, AI人像工具, 个人品牌, LinkedIn头像, 虚拟头像, 企业摄影, 在线形象, 智能照片生成器, 数字身份, 社交媒体头像"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI工具",
+        "items": [
+          [
+            "AI工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即尝试"
+  },
+  "hero": {
+    "heading": "AI头像生成器",
+    "subHeading": "瞬间创建惊艳的头像",
+    "description": "只需几次点击即可生成高质量的专业头像。无需摄影师或工作室。立即提升您的在线形象，脱颖而出！",
+    "tryText": "立即创建您的头像",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI头像生成器解决方案",
+    "left": {
+      "heading": "传统肖像的挑战",
+      "items": [
+        "摄影师费用高（每场高达300-1000美元）",
+        "时间安排和地点协调",
+        "为了完美多次重拍",
+        "风格和背景有限",
+        "快速获得专业图片的门槛高"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI解决方案",
+      "items": [
+        "在2分钟内生成惊艳的头像",
+        "无需摄影师 - 只需上传您的照片",
+        "即时编辑和自定义选项",
+        "可以选择无限的风格和背景",
+        "价格实惠 - 适合所有人"
+      ],
+      "tryText": "尝试"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "从简单的照片到精致的头像，仅需4个步骤",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传图像",
+        "text": "上传您的清晰照片或自拍",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "选择风格",
+        "text": "选择您喜欢的头像风格（例如，企业、休闲）",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "自定义外观",
+        "text": "调整光线、背景和其他元素",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载头像",
+        "text": "以高分辨率接收您的精致头像",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "获取您的专业头像 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无限可能",
+    "description": "适合任何领域的专业人士",
+    "items": [
+      "LinkedIn个人资料照片",
+      "企业团队头像",
+      "创业者的个人品牌",
+      "社交媒体头像",
+      "试镜和选拔",
+      "会议发言资料",
+      "在线约会资料",
+      "员工入职照片"
+    ]
+  },
+  "successStories": {
+    "heading": "真实成功案例",
+    "description": "了解专业人士如何通过AI提升形象",
+    "items": [
+      {
+        "tag": "企业专业人士",
+        "heading": "LinkedIn个人资料升级",
+        "before": {
+          "label": "之前",
+          "text": "业余照片"
+        },
+        "after": {
+          "label": "之后",
+          "text": "专业头像"
+        },
+        "value": "250%",
+        "key": "个人资料浏览量增加",
+        "description": "使用我们头像生成器后，我的个人资料浏览量猛增。我在一周内获得了3个面试！"
+      },
+      {
+        "tag": "自由职业者",
+        "heading": "个人品牌",
+        "before": {
+          "label": "之前",
+          "text": "不专业的图片"
+        },
+        "after": {
+          "label": "之后",
+          "text": "更新后的时尚头像"
+        },
+        "value": "300%",
+        "key": "客户参与度",
+        "description": "转变我的视觉效果帮助增加了客户咨询。我看起来可信且值得信赖。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI模型比较",
+    "description": "选择最适合您的头像样式",
+    "items": [
+      "标准：高质量、真实的个人资料头像",
+      "高级：增强特性，具有先进的光照和阴影效果",
+      "时尚前卫风格，独特背景",
+      "休闲与专业相结合，适应性强",
+      "即时交付，多种变体可供选择",
+      "针对在线使用进行了优化，提供高分辨率"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关AI工具",
+    "description": "探索更多创新的AI工具用于个人品牌"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要了解的一切",
+    "items": [
+      {
+        "question": "我可以期待头像的质量是什么？",
+        "answer": "我们的生成器生成高分辨率的头像，色彩鲜艳且专业。您可以选择标准质量以便快速下载，或选择高级选项以获得更深度和细节。"
+      },
+      {
+        "question": "我可以自定义我的头像风格吗？",
+        "answer": "当然可以！我们的工具允许您从各种风格中选择，并调整背景、光照等，以满足您的需求。"
+      },
+      {
+        "question": "什么样的图片最适合头像生成器？",
+        "answer": "清晰、光线良好的图像效果最佳。我们建议使用分辨率好的照片，理想情况下超过512x512像素，以获得最佳效果。"
+      },
+      {
+        "question": "我如何在在线资料中使用头像？",
+        "answer": "生成头像后，您可以下载并轻松上传到所需平台，包括LinkedIn、公司网站等。"
+      },
+      {
+        "question": "生成头像需要付费吗？",
+        "answer": "我们采用灵活的按需付费模式，没有订阅费用。您只需为创建的头像付费，让每个人都能获得。"
+      },
+      {
+        "question": "生成头像需要多长时间？",
+        "answer": "通常，头像生成需要1-2分钟。如果需要，您可以在此时间内创建多个头像。"
+      },
+      {
+        "question": "如果我需要帮助或支持怎么办？",
+        "answer": "我们提供广泛的资源，包括教程、最佳实践，以及通过聊天和电子邮件提供的客户支持，满足您的所有咨询。"
+      },
+      {
+        "question": "我拥有生成的头像的版权吗？",
+        "answer": "是的！您享有完全的商业权利，可以在所有平台上自由使用您的头像，无需额外费用。"
+      },
+      {
+        "question": "我可以在之后编辑生成的头像吗？",
+        "answer": "是的！您可以下载头像，并使用外部工具进行进一步编辑（如需要）。"
+      },
+      {
+        "question": "AI头像生成器的最佳使用场景是什么？",
+        "answer": "这项技术非常适合为LinkedIn、企业网站、社交媒体和任何重视第一印象的场合创建专业图片。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备创建您的专业头像吗？",
+    "description": "使用免费积分开始 - 亲自体验",
+    "contactUsText": "联系我们",
+    "tryText": "立即创建您的头像 →"
+  },
+  "footer": {
+    "heading": "准备提升您的形象吗？",
+    "description": "立即尝试WaveSpeed AI，亲自感受差异。无需注册。",
+    "ctaText": "立即创建头像",
+    "text": "© 2025 WaveSpeed AI。保留所有权利。"
+  }
+}

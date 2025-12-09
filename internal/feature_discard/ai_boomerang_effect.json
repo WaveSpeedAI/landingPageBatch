@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Experience the AI Boomerang Effect",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Transform Your Videos with the AI Boomerang Effect",
+    "description": "Create stunning loops effortlessly by transforming your videos into captivating boomerang clips.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example video before applying boomerang effect"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example video after applying boomerang effect"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Create Boomerang Effects on Your Videos",
+      "prompt": {
+        "heading": " Prompt",
+        "placeholder": "E.g., Convert this clip into a boomerang effect."
+      },
+      "upload": {
+        "heading": " Select video or Input URL"
+      },
+      "processButton": "Create Boomerang Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Videos Processed"
+      },
+      {
+        "title": "98.9%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "3.5s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Discover how the AI Boomerang Effect can invigorate your videos with vibrant loops.",
+    "items": [
+      {
+        "title": "Dynamic Loop Creation",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Video example showcasing a dynamic boomerang effect",
+        "description": "Turn simple clips into eye-catching loops that capture movement."
+      },
+      {
+        "title": "Seamless Video Transitions",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Video example showing seamless transitions with the boomerang effect",
+        "description": "Create smooth, engaging playback that keeps your audience hooked."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose the AI Boomerang Effect?",
+    "description": "Harness cutting-edge technology to enhance your video content effortlessly.",
+    "items": [
+      {
+        "icon": "sync",
+        "title": "Instant Playback",
+        "description": "Get stunning boomerang loops in seconds. No extra editing software needed."
+      },
+      {
+        "icon": "camera-retro",
+        "title": "User-Friendly Interface",
+        "description": "Perfect for everyone. Simply upload a video and let our AI do the magic."
+      },
+      {
+        "icon": "lock",
+        "title": "Secure Processing",
+        "description": "Your videos remain private and secure throughout the process."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Transform your videos in just a few simple steps",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Your Video",
+        "description": "Drag and drop your clip or browse for files. We support MP4, MOV, and AVI formats."
+      },
+      {
+        "serial": "2",
+        "title": "AI Transformation",
+        "description": "Our advanced AI writes a seamless loop deciding when to reverse play for perfect boomerang effects."
+      },
+      {
+        "serial": "3",
+        "title": "Download Your Loop",
+        "description": "View a preview before downloading your enticing boomerang clip in high quality."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join the community of creators who elevate their videos with the AI Boomerang Effect",
+    "items": [
+      {
+        "name": "Emily Carter",
+        "stars": 5,
+        "comment": "Turning my vacation highlights into mesmerizing loops was so easy! The AI made it seamless."
+      },
+      {
+        "name": "David Lee",
+        "stars": 5,
+        "comment": "This feature is fantastic for social media! My followers love the dynamic content I create now."
+      },
+      {
+        "name": "Tina Brown",
+        "stars": 5,
+        "comment": "I couldn't believe how simple it was to add effects to my clips. A must-have for video enthusiasts!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your inquiries about the AI Boomerang Effect",
+    "items": [
+      {
+        "title": "What types of videos work best with the AI Boomerang Effect?",
+        "description": "Any short video clip can be transformed! Whether it's action shots, dance moves, or scenic views, the AI effectively captures movement and creates a stunning loop."
+      },
+      {
+        "title": "Is there a cost to use the AI Boomerang Effect?",
+        "description": "Absolutely! Users enjoy a free allotment of 30 credits per day, perfect for creating multiple loops. Subscriptions for extensive use are also available."
+      },
+      {
+        "title": "Can I share my boomerang clips commercially?",
+        "description": "Yes! Subscribers can use produced content for any purpose, while free-tier users may use clips for personal projects only."
+      },
+      {
+        "title": "How is my video data protected?",
+        "description": "We process all clips in-browser, ensuring zero upload to external servers, thus guaranteeing privacy and security."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Create Stunning Video Loops?",
+    "description": "Try the AI Boomerang Effect now and elevate your video content. No sign-up required.",
+    "ctaText": "Create Boomerang Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

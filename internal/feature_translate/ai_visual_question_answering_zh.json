@@ -1,0 +1,229 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI视觉问答",
+  "meta": {
+    "description": "通过AI视觉问答即时回答关于图像的问题。完美提升客户参与度，优化产品展示，简化用户体验。现在就来试试！",
+    "keywords": "AI视觉问答, 基于图像的问答, 互动AI, 客户参与工具, 产品展示优化, 电子商务AI解决方案, 用户体验提升, 视觉智能, AI驱动的互动, 动态问答系统"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI工具",
+        "items": [
+          [
+            "AI工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "现在试试"
+  },
+  "hero": {
+    "heading": "视觉问答",
+    "subHeading": "与您的图像革命性互动",
+    "description": "即时生成用户关于任何图像的问题的答案，增强参与度和理解力。利用AI的力量创造动态、互动的体验。完美适用于电子商务、市场营销和教育。",
+    "tryText": "立即试用",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI视觉问答解决方案",
+    "left": {
+      "heading": "传统客户互动挑战",
+      "items": [
+        "与静态图像的互动有限",
+        "对用户询问的响应时间慢",
+        "需要手动分析图像内容",
+        "客户支持的障碍增加",
+        "内容导航效率低下"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI解决方案",
+      "items": [
+        "根据图像即时回答用户查询",
+        "AI实时解释和分析图像内容",
+        "引人入胜的互动视觉响应",
+        "精简客户支持，减少资源需求",
+        "适用于各种类型的企业"
+      ],
+      "tryText": "试试"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "通过四个简单步骤转变图像互动",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传图像",
+        "text": "提供用户查询的图像",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "提出问题",
+        "text": "用户输入与图像相关的问题",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "AI分析",
+        "text": "AI处理图像以制定准确答案",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "接收答案",
+        "text": "获取即时响应并显示在图像旁边",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "开始回答问题 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无限可能",
+    "description": "适用于多种应用和行业",
+    "items": [
+      "电子商务平台的客户支持",
+      "增强的产品详细页面",
+      "互动教育材料",
+      "房地产虚拟导览及详细见解",
+      "食品和食谱图像解释",
+      "艺术画廊提供背景信息",
+      "支持图像查询的在线论坛",
+      "增强目的地查询的旅行网站"
+    ]
+  },
+  "successStories": {
+    "heading": "真实成功案例",
+    "description": "发现品牌如何通过AI转变参与度",
+    "items": [
+      {
+        "tag": "电子商务",
+        "heading": "时尚零售AI互动",
+        "before": {
+          "label": "之前",
+          "text": "静态图像，无互动"
+        },
+        "after": {
+          "label": "之后",
+          "text": "动态问答互动"
+        },
+        "value": "45%",
+        "key": "用户参与度提升",
+        "description": "互动时间增加40%。客户现在可以获得即时答案，大大提升了满意度。"
+      },
+      {
+        "tag": "教育",
+        "heading": "互动学习应用",
+        "before": {
+          "label": "之前",
+          "text": "信息访问有限"
+        },
+        "after": {
+          "label": "之后",
+          "text": "实时问答与图像"
+        },
+        "value": "90%",
+        "key": "理解力提升",
+        "description": "学生享受对视觉查询的即时回答，知识保留率提高60%。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "视觉问答的AI模型比较",
+    "description": "选择最适合您需求的模型",
+    "items": [
+      "标准模型：快速响应时间，适合基本查询",
+      "高级模型：深度分析和复杂图像的详细答案",
+      "自然语言处理，实现用户友好的互动",
+      "能够处理多种图像类型和内容",
+      "实时反馈和持续学习能力"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关AI工具",
+    "description": "探索更多最前沿的AI商业能力"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要知道的一切",
+    "items": [
+      {
+        "question": "此功能可以回答哪类问题？",
+        "answer": "该系统可以处理范围广泛的查询，从基本识别到复杂描述。用户可以询问图像中具体元素、背景含义等。"
+      },
+      {
+        "question": "提供的答案有多准确？",
+        "answer": "答案基于AI分析生成，确保高准确率。持续的机器学习更新提高了响应速度和细节。"
+      },
+      {
+        "question": "我可以自定义AI来识别我图像中的特定项目吗？",
+        "answer": "是的！您可以使用特定数据集来训练AI，以增强对特定产品类型或行业的识别和相关性。"
+      },
+      {
+        "question": "哪些行业可以受益于此技术？",
+        "answer": "几乎任何依靠视觉内容的行业都能受益，特别是电子商务、教育、技术支持和旅游。"
+      },
+      {
+        "question": "AI是如何处理和分析图像的？",
+        "answer": "利用先进的图像识别和自然语言处理，AI将图像分解为可理解的组件，以生成动态响应。"
+      },
+      {
+        "question": "实施时是否提供技术支持？",
+        "answer": "绝对提供！我们专门的支持团队提供全面的文档、教程，以及直接的实施帮助。"
+      },
+      {
+        "question": "多个用户可以同时访问此功能吗？",
+        "answer": "可以！该系统设计成支持多个并发用户，允许他们查询并及时获得答案。"
+      },
+      {
+        "question": "我需要技术技能来设置此功能吗？",
+        "answer": "不需要技术专长。我们的平台用户友好，提供全程支持。"
+      },
+      {
+        "question": "什么样的图像最适合此AI分析？",
+        "answer": "高质量、清晰可识别的图像产生最佳效果。确保合适的光线和对焦，以获得最佳答案。"
+      },
+      {
+        "question": "使用生成内容的商业权利是什么？",
+        "answer": "所有响应和派生内容均可用于商业用途，给予市场营销和业务发展的完全自由。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备好提升您的图像互动吗？",
+    "description": "开始获得免费积分 - 体验即时响应",
+    "contactUsText": "联系我们",
+    "tryText": "现在试试 →"
+  },
+  "footer": {
+    "heading": "准备好增强与您图像的互动吗？",
+    "description": "立即尝试WaveSpeed AI，体验创新。无需注册。",
+    "ctaText": "现在开始互动",
+    "text": "© 2025 WaveSpeed AI。保留所有权利。"
+  }
+}

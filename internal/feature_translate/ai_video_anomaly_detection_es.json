@@ -1,0 +1,205 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Detección de Anomalías en Videos con IA",
+  "meta": {
+    "description": "Detecta anomalías en grabaciones de video sin esfuerzo con tecnología de IA de vanguardia. Mejora la seguridad, aumenta la eficiencia operativa y obtén información con capacidades de detección precisas. Ideal para vigilancia, control de calidad y más.",
+    "keywords": "detección de anomalías en video, análisis de video con IA, tecnología de vigilancia, monitoreo de seguridad, eficiencia operativa, detección de control de calidad, inteligencia de video, detección automática de anomalías, soluciones de IA para video, sistemas de alerta en tiempo real"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas de IA",
+        "items": [
+          [
+            "Herramientas de IA",
+            "#ai_tools"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Detección de Anomalías en Videos",
+    "subHeading": "Automatiza la Detección de Anomalías en Tus Videos",
+    "description": "Revoluciona la forma en que monitoreas los datos de video identificando elementos atípicos y comportamientos inusuales en tiempo real. Aprovecha algoritmos avanzados de IA para alertas instantáneas e información procesable, optimizando tus procesos de vigilancia y control de calidad. ¡Comienza hoy!",
+    "tryText": "Pruébalo Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución de Detección de Anomalías en Videos de WaveSpeed AI",
+    "left": {
+      "heading": "Desafíos del Monitoreo Tradicional",
+      "items": [
+        "Revisión manual de horas de video",
+        "Altos costos laborales y gastos de tiempo",
+        "Dificultad para identificar anomalías sutiles",
+        "Retrasos en la respuesta a problemas potenciales",
+        "Monitoreo inconsistente a través de múltiples transmisiones"
+      ]
+    },
+    "right": {
+      "heading": "Solución WaveSpeed AI",
+      "items": [
+        "Detección automática de actividad inusual",
+        "Alertas en tiempo real para acción inmediata",
+        "Mayor precisión con análisis impulsados por IA",
+        "Cobertura integral de las transmisiones de video",
+        "Monitoreo rentable y escalable"
+      ],
+      "tryText": "Pruébalo"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "De grabaciones crudas a anomalías detectadas en 3 pasos simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Sube Grabaciones de Video",
+        "text": "Ingresa tus archivos de video para análisis",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Establece los Parámetros de Detección",
+        "text": "Define qué anomalías buscar (por ejemplo, detección de movimiento, comportamiento inusual)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Recibe Alertas e Informes",
+        "text": "Recibe notificaciones sobre anomalías detectadas con informes detallados",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "Comienza a Detectar Anomalías →"
+  },
+  "endlessPossibilities": {
+    "heading": "Aplicaciones en Diversas Industrias",
+    "description": "Ideal para una variedad de escenarios de monitoreo",
+    "items": [
+      "Vigilancia de seguridad para retail y aeropuertos",
+      "Control de calidad en procesos de fabricación",
+      "Monitoreo y análisis del tráfico",
+      "Supervisión de instalaciones de salud",
+      "Investigaciones de reclamos de seguros",
+      "Seguridad en eventos y gestión de multitudes",
+      "Monitoreo de sitios remotos",
+      "Gestión de infraestructuras de ciudades inteligentes"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Explora cómo las organizaciones están aprovechando la IA para el monitoreo",
+    "items": [
+      {
+        "tag": "Seguridad",
+        "heading": "Optimización de Vigilancia en Aeropuertos",
+        "before": {
+          "label": "Antes",
+          "text": "Monitoreo reactivo"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Alertas proactivas"
+        },
+        "value": "75%",
+        "key": "Reducción en el Tiempo de Respuesta a Incidentes",
+        "description": "La detección automática de anomalías redujo significativamente el tiempo de respuesta a amenazas de seguridad, mejorando las medidas de seguridad en general."
+      },
+      {
+        "tag": "Manufactura",
+        "heading": "Mejora del Control de Calidad",
+        "before": {
+          "label": "Antes",
+          "text": "Inspecciones manuales"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Detección automatizada"
+        },
+        "value": "90%",
+        "key": "Aumento en la Precisión de Detección",
+        "description": "Cambiar a monitoreo basado en IA mejoró nuestras tasas de detección de defectos, ahorrando costos y tiempo en la producción."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Métodos de Detección de IA",
+    "description": "Elige el modelo de detección adecuado para tus necesidades",
+    "items": [
+      "Análisis en tiempo real: Detecta anomalías a medida que suceden",
+      "Opción de procesamiento por lotes para analizar grandes conjuntos de datos",
+      "Algoritmos de detección personalizables para industrias específicas",
+      "Integración con sistemas de seguridad existentes",
+      "Panel de usuario amigable para monitorear tendencias"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas de IA Relacionadas",
+    "description": "Descubre más soluciones de IA para un monitoreo mejorado"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué tipos de anomalías se pueden detectar?",
+        "answer": "El sistema puede identificar una amplia gama de anomalías, incluyendo detección de movimiento, comportamiento inusual y cambios en patrones típicos. Está diseñado para adaptarse a diferentes entornos y casos de uso."
+      },
+      {
+        "question": "¿Qué tan precisa es la detección de anomalías?",
+        "answer": "Nuestros modelos de IA han sido entrenados con conjuntos de datos diversos para garantizar altas tasas de precisión, reduciendo significativamente los falsos positivos. Los mecanismos de aprendizaje continuo mejoran la detección con el tiempo."
+      },
+      {
+        "question": "¿Puedo personalizar la configuración de detección?",
+        "answer": "¡Absolutamente! Los usuarios pueden ajustar los parámetros de detección basándose en requisitos específicos como tipos de objetos, significancia de la actividad y umbrales de alerta."
+      },
+      {
+        "question": "¿Qué formatos de video son compatibles?",
+        "answer": "Nuestra tecnología admite varios formatos comunes, incluyendo MP4, AVI y MOV, permitiendo flexibilidad en las cargas de video para análisis."
+      },
+      {
+        "question": "¿Cómo se entregan las alertas?",
+        "answer": "Las alertas pueden configurarse para llegar a los usuarios a través de correo electrónico, SMS, o dentro de nuestro panel de aplicación dedicado, asegurando una notificación oportuna de anomalías detectadas."
+      },
+      {
+        "question": "¿Es posible el análisis de datos históricos?",
+        "answer": "¡Sí! El sistema permite el análisis de grabaciones históricas, brindando información sobre anomalías y tendencias pasadas."
+      },
+      {
+        "question": "¿Se pueden analizar múltiples transmisiones de video simultáneamente?",
+        "answer": "Sí, nuestra plataforma permite el análisis concurrente de múltiples transmisiones de video, optimizando los esfuerzos de monitoreo en áreas más amplias."
+      },
+      {
+        "question": "¿Necesito tener experiencia técnica previa?",
+        "answer": "No, la plataforma WaveSpeed AI está diseñada para ser fácil de usar, permitiendo una configuración y operación simples para usuarios sin antecedentes técnicos."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Mejorar Tu Monitoreo de Videos?",
+    "description": "Comienza con créditos gratuitos y ve la transformación de primera mano",
+    "contactUsText": "Contáctanos",
+    "tryText": "Pruébalo Ahora →"
+  },
+  "footer": {
+    "heading": "¿Listo para Detectar Anomalías en Tus Videos?",
+    "description": "Prueba WaveSpeed AI ahora y experimenta la efectividad por ti mismo. No se requiere registro.",
+    "ctaText": "Comienza a Detectar Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

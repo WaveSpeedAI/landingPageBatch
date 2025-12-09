@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI 3D Video Generator",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Create Stunning 3D Videos Instantly",
+    "description": "Transform your ideas into breathtaking 3D videos with our AI technology in seconds.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "3D Animation Example",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Before 3D video generation example"
+        },
+        {
+          "title": "Resulting 3D Video",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "After 3D video generation example"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Create Your 3D Video",
+      "prompt": {
+        "heading": "Script",
+        "placeholder": "E.g., A futuristic city skyline, a cute robot dancing, a beautiful landscape..."
+      },
+      "upload": {
+        "heading": " Select Image or Input URL"
+      },
+      "processButton": "Generate 3D Video Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "3D Videos Generated"
+      },
+      {
+        "title": "98.6%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "3.0s",
+        "description": "Average Generation Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Stunning 3D Video Examples",
+    "description": "Experience the transformative power of AI-generated 3D videos, perfect for any project.",
+    "items": [
+      {
+        "title": "Futuristic Landscapes",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example of a 3D futuristic landscape video",
+        "description": "Immerse yourself in vibrant 3D environments with stunning detail."
+      },
+      {
+        "title": "Creative Animations",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example of a creative animated video",
+        "description": "Bring your concepts to life with engaging 3D animations."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose Our Video Generator?",
+    "description": "Leverage cutting-edge technology for breathtaking results with simplicity.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Rapid Creation",
+        "description": "Generate incredible 3D videos in just seconds—no lengthy rendering times."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly",
+        "description": "Designed for everyone! Just enter your script and watch creativity unfold."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Secure Processing",
+        "description": "We prioritize your data privacy, processing everything safely within your device."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Craft captivating 3D videos in three easy steps",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Input Your Script",
+        "description": "Share your vision with a simple script. Our system supports various ideas, from landscapes to characters."
+      },
+      {
+        "serial": "2",
+        "title": "AI Creation",
+        "description": "Our advanced AI processes your script to generate a stunning 3D video representation."
+      },
+      {
+        "serial": "3",
+        "title": "Download Your Video",
+        "description": "Review the created video and download it in high quality, ready for sharing."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless users who are amazed by the capabilities of our 3D video generator",
+    "items": [
+      {
+        "name": "Emily Parker",
+        "stars": 5,
+        "comment": "The 3D video generator saved me hours of work! I couldn't believe how quickly my vision became a reality."
+      },
+      {
+        "name": "James Smith",
+        "stars": 5,
+        "comment": "As a content creator, this tool is invaluable. I can now produce high-quality 3D videos effortlessly!"
+      },
+      {
+        "name": "Linda Thompson",
+        "stars": 5,
+        "comment": "Privacy was a primary concern for me, and using this tool gave me complete peace of mind. Love it!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your inquiries about our AI 3D Video Generator",
+    "items": [
+      {
+        "title": "What can I create with the 3D video generator?",
+        "description": "You can create a wide range of 3D videos, including landscapes, animations, character models, and more. Your creativity is the limit!"
+      },
+      {
+        "title": "Is there a cost associated with using the generator?",
+        "description": "Yes, our platform offers free trials, with premium plans available for advanced features and additional generation options."
+      },
+      {
+        "title": "Can I use generated 3D videos commercially?",
+        "description": "Users with a subscription can utilize generated content for commercial projects. Free-tier users may have limitations, so please review our Terms."
+      },
+      {
+        "title": "How is my data protected?",
+        "description": "All processing is done locally in your browser, ensuring your projects remain secure and private. We never store your data."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Create Amazing 3D Videos?",
+    "description": "Start using our AI 3D Video Generator today and witness the magic of instant video creation. No sign-up needed.",
+    "ctaText": "Generate 3D Video Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

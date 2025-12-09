@@ -1,0 +1,230 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Recurso de Gravação de Voz",
+  "meta": {
+    "description": "Eleve seu conteúdo Audiovisual com narrações profissionais sem esforço. Aproveite a tecnologia de IA de ponta para gerar narrações a partir de texto, aumentando o engajamento e a narrativa. Ideal para vídeos, audiolivros e materiais de marketing. Experimente o futuro da produção de áudio com WaveSpeed AI.",
+    "keywords": "gravação de voz AI, geração de áudio, texto para voz, narrações profissionais, gerador de voz AI, ferramenta de áudio para e-commerce, produção de áudio para marketing, narração de audiolivros, narração de vídeo, aprimoramentos de áudio para redes sociais, ferramentas de áudio WaveSpeed"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de IA",
+        "items": [
+          [
+            "Ferramentas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Demonstração",
+        "items": [
+          [
+            "Demonstração",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Gravação de Voz",
+    "subHeading": "Transforme Texto em Narrações Cativantes",
+    "description": "Converta instantaneamente seus roteiros em narrações de alta qualidade com nossa solução impulsionada por IA. Não há necessidade de equipamentos de gravação profissionais ou atores de voz. Aprimore seus vídeos, podcasts e apresentações sem esforço.",
+    "tryText": "Experimente Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução de Gravação de Voz da WaveSpeed AI",
+    "left": {
+      "heading": "Desafios Tradicionais",
+      "items": [
+        "Produção de narração geralmente cara e demorada",
+        "Requer estúdios de gravação e talento profissional",
+        "Opções limitadas de revisão para áudio gravado",
+        "Altos custos contínuos para atores de voz",
+        "Ineficiente para prazos apertados de projetos"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeed AI",
+      "items": [
+        "Gere narrações em segundos a partir de texto escrito",
+        "Nenhum estúdio ou ator profissional necessário - Apenas insira o texto",
+        "Saída de voz de alta qualidade e som natural",
+        "Ajustes e variações ilimitadas para cada roteiro",
+        "Preços flexíveis - Pague apenas pelo que usar"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "De texto a narração em 4 etapas simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Insira Seu Roteiro",
+        "text": "Digite ou cole o texto que deseja converter em áudio",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Selecione o Estilo da Voz",
+        "text": "Escolha uma variedade de vozes e sotaques para combinar com seu tom",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Ajuste Configurações",
+        "text": "Ajuste o tom, a velocidade e a emoção da sua narração",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Baixe o Arquivo de Áudio",
+        "text": "Obtenha sua narração de alta qualidade em segundos",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Gere Sua Narração Agora →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilidades Infinitas",
+    "description": "Perfeito para todas as necessidades de áudio",
+    "items": [
+      "Narrações para vídeos promocionais",
+      "Narração para cursos de e-learning",
+      "Voltado para podcasts e webinars",
+      "Gravações de audiolivros",
+      "Vídeos explicativos e tutoriais",
+      "Anúncios em lojas",
+      "Jingles publicitários",
+      "Conteúdo de vídeo para redes sociais"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Descubra como as empresas estão revolucionando seu conteúdo de áudio com IA",
+    "items": [
+      {
+        "tag": "E-learning",
+        "heading": "Narração de Curso Online",
+        "before": {
+          "label": "Antes",
+          "text": "3-4 semanas"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "5 minutos"
+        },
+        "value": "99%",
+        "key": "Tempo Economizado",
+        "description": "Nossa produção de cursos foi concluída em tempo recorde. Agora conseguimos atualizar módulos instantaneamente com narrações frescas."
+      },
+      {
+        "tag": "Marketing",
+        "heading": "Anúncios em Redes Sociais",
+        "before": {
+          "label": "Antes",
+          "text": "Altos custos"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Amigável ao orçamento"
+        },
+        "value": "95%",
+        "key": "Redução de Custos",
+        "description": "Os custos de produção de áudio diminuíram drasticamente, permitindo-nos lançar campanhas com mais frequência."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Modelos de Narração",
+    "description": "Escolha a voz certa para seu projeto",
+    "items": [
+      "Voz Padrão: Tom natural, adequado para conteúdo casual, ideal para a maioria das aplicações",
+      "Voz Profissional: Estilo polido, ideal para apresentações formais e narrativa de marcas",
+      "Opções Masculinas/Femininas disponíveis para necessidades diversas",
+      "Opções de personalização para especificar tom emocional e ritmo",
+      "Tempo de resposta rápido para projetos urgentes",
+      "Direitos comerciais incluídos - uso em qualquer contexto"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Explore mais ferramentas inovadoras de IA para produção de áudio"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo que você precisa saber",
+    "items": [
+      {
+        "question": "Qual qualidade de áudio posso esperar das narrações?",
+        "answer": "Nossa IA gera áudio de alta qualidade que é claro, natural e otimizado para várias aplicações. A saída mantém clareza em diferentes formatos, garantindo um acabamento profissional adequado para todos os meios."
+      },
+      {
+        "question": "Posso escolher diferentes vozes e sotaques?",
+        "answer": "Absolutamente! Você pode selecionar entre uma variedade de vozes e sotaques, permitindo que você ajuste perfeitamente o tom do seu conteúdo. Essa personalização ajuda sua mensagem a ressoar melhor com seu público."
+      },
+      {
+        "question": "Quanto tempo leva para gerar uma narração?",
+        "answer": "A geração de narração é incrivelmente rápida, normalmente concluída em segundos, independentemente do comprimento do seu texto. Essa eficiência permite produzir conteúdo em um ritmo notável."
+      },
+      {
+        "question": "Posso editar os ajustes da narração após a geração?",
+        "answer": "Sim! Você pode modificar o tom, a velocidade e o tom emocional conforme necessário, permitindo refinar a narração para atender aos requisitos específicos de qualquer projeto."
+      },
+      {
+        "question": "Quais formatos vocês suportam para arquivos de áudio?",
+        "answer": "Suportamos vários formatos de arquivo de áudio, incluindo MP3 e WAV, garantindo compatibilidade com várias plataformas e mídias. Escolha o formato que melhor se adapta às suas necessidades de distribuição."
+      },
+      {
+        "question": "Há limites sobre como posso usar as narrações geradas?",
+        "answer": "Não! Todas as narrações geradas através do WaveSpeed incluem plenos direitos de uso comercial. Você é livre para usá-las em publicidade, redes sociais, e-learning, projetos pessoais e mais."
+      },
+      {
+        "question": "Posso gerar várias narrações ao mesmo tempo?",
+        "answer": "Sim, nossa plataforma suporta processamento em lote, permitindo gerar várias narrações simultaneamente. Perfeito para grandes projetos que exigem saída de áudio consistente."
+      },
+      {
+        "question": "O que devo fazer se tiver problemas técnicos?",
+        "answer": "WaveSpeed oferece documentação extensa, tutoriais em vídeo e suporte responsivo por email ou chat ao vivo para ajudar com quaisquer dúvidas ou problemas técnicos que você possa encontrar."
+      },
+      {
+        "question": "Há um período de teste ou créditos gratuitos para novos usuários?",
+        "answer": "Sim, todos os novos usuários recebem créditos gratuitos para explorar nossas capacidades de narração. Teste o serviço sem riscos e experimente a qualidade por si mesmo."
+      },
+      {
+        "question": "Como a estrutura de preços é definida para a geração de narrações?",
+        "answer": "Estamos em um modelo de pagamento conforme você usa, com preços flexíveis baseados nos recursos utilizados e no comprimento do áudio. Esta estrutura garante que você pague apenas pelas narrações que criar."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Criar Sua Primeira Narração?",
+    "description": "Comece com créditos gratuitos - Experimente a qualidade você mesmo",
+    "contactUsText": "Entre em Contato",
+    "tryText": "Experimente Agora →"
+  },
+  "footer": {
+    "heading": "Pronto para Melhorar Seu Conteúdo?",
+    "description": "Experimente o WaveSpeed AI agora e eleve sua experiência de áudio. Não é necessário registro.",
+    "ctaText": "Comece a Gravar Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

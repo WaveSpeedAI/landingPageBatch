@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Skin Retouching",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Flawless Skin Made Easy",
+    "description": "Effortlessly enhance your portraits with AI-powered skin retouching that gives you perfect results in seconds.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo before skin retouching"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example photo after skin retouching"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Retouch Skin in Photos",
+      "prompt": {
+        "heading": " Prompt",
+        "placeholder": "E.g., Smooth skin, remove blemishes, enhance skin tone..."
+      },
+      "upload": {
+        "heading": " Select image or Input URL"
+      },
+      "processButton": "Retouch Skin Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "10M+",
+        "description": "Photos Enhanced"
+      },
+      {
+        "title": "99.8%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "2.5s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "See how our AI technology transforms portraits into stunning images by retouching skin perfectly.",
+    "items": [
+      {
+        "title": "Smooth and Flawless Skin",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing skin smoothing in a photo",
+        "description": "Achieve a natural look with smooth skin and reduced imperfections."
+      },
+      {
+        "title": "Brighten and Enhance Tone",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing enhanced skin tone in a photo",
+        "description": "Enhance skin tone for a vibrant and glowing appearance."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI for Skin Retouching?",
+    "description": "Our cutting-edge technology delivers stunning skin enhancements effortlessly.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Fast Results",
+        "description": "Experience rapid enhancements with our advanced AI algorithms that process images in seconds."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly",
+        "description": "No editing skills needed. Just upload your photo and watch as our AI transforms it."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Safe and Secure",
+        "description": "Your images are processed privately in your browser, ensuring complete security."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Achieve flawless results in three simple steps",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Your Photo",
+        "description": "Easily upload your portrait by dragging and dropping or browsing files. We support JPG, PNG, and WebP formats."
+      },
+      {
+        "serial": "2",
+        "title": "AI Skin Retouching",
+        "description": "Our sophisticated AI automatically analyzes and smooths out skin blemishes while enhancing tone."
+      },
+      {
+        "serial": "3",
+        "title": "Download Your Portrait",
+        "description": "Preview your enhanced portrait with our comparison slider and download your stunning image in high quality."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Are Saying",
+    "description": "Join the community of happy users achieving stunning portraits with WaveSpeed AI",
+    "items": [
+      {
+        "name": "Emily Carter",
+        "stars": 5,
+        "comment": "I couldn’t believe the difference! Skin imperfections erased in seconds—absolutely love it!"
+      },
+      {
+        "name": "Liam Rodriguez",
+        "stars": 5,
+        "comment": "As a portrait photographer, this tool has saved me so much time and added unbelievable value to my work."
+      },
+      {
+        "name": "Ava Lee",
+        "stars": 5,
+        "comment": "The results look so natural! I appreciate that my photos stay on my device during the process."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your queries about AI Skin Retouching",
+    "items": [
+      {
+        "title": "What can this feature do for my portraits?",
+        "description": "The skin retouching feature can smooth out imperfections, remove blemishes and wrinkles, and enhance overall skin tone for a polished look."
+      },
+      {
+        "title": "Is it free to use?",
+        "description": "Yes! You receive 30 free credits daily, allowing ample opportunity to retouch your photos. Additional credits can be earned through engagement on our platform."
+      },
+      {
+        "title": "Can I use the retouched images commercially?",
+        "description": "Absolutely! Paid subscribers can use retouched images for commercial projects. Free users can use them for personal projects only."
+      },
+      {
+        "title": "How do you ensure privacy?",
+        "description": "All processing occurs in your browser, ensuring your images are never stored or uploaded to servers. Your privacy is our top priority."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Achieve Flawless Skin in Your Photos?",
+    "description": "Try WaveSpeed AI now and see the difference for yourself. No sign-up required.",
+    "ctaText": "Retouch Skin Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

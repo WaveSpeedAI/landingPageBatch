@@ -1,0 +1,230 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Reshape Corporelle AI",
+  "meta": {
+    "description": "Reshapez et transformez facilement des images corporelles grâce à une IA de pointe. Idéal pour les professionnels du fitness, les marques de mode et un usage personnel. Découvrez l'avenir de l'édition d'images !",
+    "keywords": "reshape corporel AI, transformation d'image AI, amélioration d'image corporelle, éditeur d'image de fitness, outil d'édition d'image AI, modelage corporel virtuel, retouche photo, amélioration de modèle de mode, solutions photo e-commerce"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils AI",
+        "items": [
+          [
+            "Outils AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Reshape Corporelle AI",
+    "subHeading": "Transformez Vos Images Corporelles Sans Effort",
+    "description": "Revitalisez vos images corporelles avec une technologie IA avancée qui améliore la forme, la proportion et le détail. Obtenez des résultats étonnants en quelques minutes—aucune compétence d'expert n'est nécessaire. Découvrez la puissance de la transformation aujourd'hui !",
+    "tryText": "Essayez-le maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution de Reshape Corporelle AI WaveSpeed",
+    "left": {
+      "heading": "Défis de l'Édition Traditionnelle",
+      "items": [
+        "L'édition photo professionnelle peut coûter cher (1000-3000 $ par projet)",
+        "Nécessite des compétences étendues en design graphique",
+        "Processus longs (3-7 jours)",
+        "Expérimentation et variété limitées dans les modifications",
+        "Forte dépendance à des logiciels coûteux"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeedAI",
+      "items": [
+        "Transformez instantanément des images corporelles avec l'IA",
+        "Aucune compétence en design requise—il suffit de télécharger des images",
+        "Améliorations immédiates alimentées par l'IA",
+        "Créez des variations illimitées sans effort",
+        "Modèle de paiement à l'utilisation flexible—économique pour tous"
+      ],
+      "tryText": "Essayez"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment Cela Fonctionne",
+    "description": "Modelez vos images corporelles en 4 étapes faciles",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Téléchargez l'Image",
+        "text": "Téléchargez votre image corporelle originale pour le reshape",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Ajoutez des Personnalisations",
+        "text": "Optionnel : Indiquez les changements souhaités (par exemple, \"taille fine\", \"muscle amélioré\")",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Sélectionnez le Style",
+        "text": "Choisissez parmi divers styles d'amélioration qui correspondent à votre vision",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Téléchargez le Résultat",
+        "text": "Recevez des images retouchées en quelques minutes avec tous les droits",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Générez votre image améliorée →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilités Infinies",
+    "description": "Idéal pour diverses applications",
+    "items": [
+      "Images de profil de fitness pour les réseaux sociaux",
+      "Lookbooks de mode et vitrines de produits",
+      "Transformations avant/après pour les clients",
+      "Mises à jour de branding personnel et de portfolio",
+      "Photos de produits e-commerce pour les vêtements",
+      "Maquillages virtuels et stylisation",
+      "Création de contenu pour les réseaux sociaux",
+      "Matériaux promotionnels pour des services"
+    ]
+  },
+  "successStories": {
+    "heading": "Vraies Histoires de Succès",
+    "description": "Découvrez comment les utilisateurs révolutionnent leur édition d'image avec l'IA",
+    "items": [
+      {
+        "tag": "Transformation Fitness",
+        "heading": "Amélioration du Portfolio Clients",
+        "before": {
+          "label": "Avant",
+          "text": "Qualité inconsistante"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Finition cohérente et élégante"
+        },
+        "value": "98.5%",
+        "key": "Amélioration de Qualité",
+        "description": "Nous avons obtenu des améliorations spectaculaires dans notre portfolio de modèles de fitness, augmentant l'engagement de 50 %."
+      },
+      {
+        "tag": "Marque de Mode",
+        "heading": "Rénovation Photo E-commerce",
+        "before": {
+          "label": "Avant",
+          "text": "Les modifications manuelles prenaient des jours"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Les améliorations par IA ont pris des minutes"
+        },
+        "value": "99.2%",
+        "key": "Efficacité Temporelle",
+        "description": "Révolutionnaire pour notre boutique en ligne, transformer les images rapidement a conduit à des conversions de ventes plus élevées."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison des Modèles d'Amélioration AI",
+    "description": "Sélectionnez le bon modèle pour vos besoins de reshape",
+    "items": [
+      "Modèle A : Détails haute définition, améliorations en temps réel, parfait pour un usage professionnel",
+      "Modèle B : Améliorations rapides, optimisées pour un tour rapide, parfait pour un usage personnel",
+      "Invites personnalisables pour des modifications sur mesure",
+      "Ajustements réalistes de texture et d'apparence",
+      "Retour instantané sur les changements effectués",
+      "Droits d'utilisation commerciale inclus"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils AI Connexes",
+    "description": "Découvrez d'autres outils AI innovants pour l'amélioration d'images"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quelle qualité d'image puis-je attendre après le reshape ?",
+        "answer": "Attendez-vous à des images haute résolution avec des détails raffinés et des proportions réalistes. Nos modèles garantissent que les images reshaped conservent clarté et sophistication adaptées à tout contexte."
+      },
+      {
+        "question": "Puis-je spécifier des modifications corporelles spécifiques ?",
+        "answer": "Absolument ! Vous pouvez fournir des invites détaillées sur la façon dont vous souhaitez que la forme corporelle soit modifiée, du redimensionnement à l'amélioration de la définition musculaire."
+      },
+      {
+        "question": "Quels types d'images fonctionnent le mieux pour le reshape ?",
+        "answer": "Des images claires et haute résolution donnent les meilleurs résultats. Nous recommandons des images avec un bon éclairage et un bon contraste pour un changement optimal."
+      },
+      {
+        "question": "En quoi cela est-il différent de l'édition photo traditionnelle ?",
+        "answer": "Le reshape corporel AI permet des ajustements dynamiques en temps réel, offrant un niveau de réalisme et de sophistication inaccessibles avec des outils d'édition standard."
+      },
+      {
+        "question": "Puis-je améliorer la qualité après que l'image soit reshaped ?",
+        "answer": "Oui ! Utilisez nos outils d'amélioration après le reshape pour élever encore la résolution et la qualité."
+      },
+      {
+        "question": "Quel modèle de tarification est utilisé pour le reshape corporel ?",
+        "answer": "WaveSpeed suit un modèle de paiement à l'utilisation sans frais cachés ; vous ne payez que pour les reshapes que vous générez réellement."
+      },
+      {
+        "question": "À quelle vitesse les images sont-elles reshaped ?",
+        "answer": "Le reshape est généralement effectué en quelques minutes, permettant un traitement rapide de plusieurs images."
+      },
+      {
+        "question": "Quelles sont les meilleures applications technologies de reshape corporel ?",
+        "answer": "Cette technologie est parfaite pour le mannequinat, le branding personnel, le e-commerce, et le contenu pour les réseaux sociaux."
+      },
+      {
+        "question": "Conserve-t-on les droits sur les images reshaped ?",
+        "answer": "Oui ! Vous conservez l'entière propriété commerciale de toutes les images reshaped, sans frais supplémentaires."
+      },
+      {
+        "question": "Quel support est disponible pour le dépannage ?",
+        "answer": "Nous fournissons de vastes ressources, y compris de la documentation et un support client, pour aider à toute question ou problème technique."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Transformer Vos Images Corporelles ?",
+    "description": "Commencez avec des crédits gratuits - Découvrez la révolution du reshape",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Essayez-le maintenant →"
+  },
+  "footer": {
+    "heading": "Prêt à Améliorer Vos Images Corporelles ?",
+    "description": "Essayez WaveSpeed AI maintenant et découvrez le pouvoir transformateur de l'IA. Aucune inscription requise.",
+    "ctaText": "Commencez le Reshape Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

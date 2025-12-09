@@ -1,0 +1,229 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Conversion de Taux de Frappe IA",
+  "meta": {
+    "description": "Élevez la qualité de votre vidéo avec la fonctionnalité de Conversion de Taux de Frappe de WaveSpeed AI. Ajustez sans effort le taux de frappe de vos vidéos pour obtenir une lecture fluide et des visuels de qualité professionnelle. Parfait pour les cinéastes, les créateurs de contenu et les marketeurs. Découvrez l'avenir de la production vidéo !",
+    "keywords": "conversion de taux de frappe IA, amélioration vidéo, ajustement de taux de frappe, amélioration de la qualité vidéo, outils de production vidéo, logiciels vidéo professionnels, création de contenu, lecture vidéo fluide, logiciels d'édition, ressources pour cinéastes"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Conversion de Taux de Frappe",
+    "subHeading": "Obtenez une Lecture Vidéo Fluide",
+    "description": "Transformez vos vidéos avec une douceur et une clarté accrues en ajustant le taux de frappe pour des expériences de visionnage optimales. Expérimentez la différence avec notre solution alimentée par IA.",
+    "tryText": "Essayez-le maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution de Conversion de Taux de Frappe IA WaveSpeed AI",
+    "left": {
+      "heading": "Défis Traditionnels",
+      "items": [
+        "Taux de frappe incohérents causant des visuels saccadés",
+        "Ajustements manuels complexes et chronophages",
+        "Coûts élevés pour des solutions logicielles professionnelles",
+        "Flexibilité limitée avec la vitesse de lecture",
+        "Expérience utilisateur frustrante pour les créateurs"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed AI",
+      "items": [
+        "Convertissez les taux de frappe en quelques secondes sans effort",
+        "Technologie pilotée par IA pour des ajustements précis",
+        "Structure tarifaire abordable - pas de frais cachés",
+        "Traitement en temps réel pour des résultats immédiats",
+        "Interface conviviale pour une expérience sans tracas"
+      ],
+      "tryText": "Essayez"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment Ça Marche",
+    "description": "Ajuster les taux de frappe vidéo en 4 étapes simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Télécharger la Vidéo",
+        "text": "Téléchargez votre fichier vidéo sur la plateforme",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Sélectionner le Taux de Frappe",
+        "text": "Choisissez le taux de frappe désiré pour la conversion (par exemple, 30fps, 60fps)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Aperçu de l'Ajustement",
+        "text": "Voyez un aperçu de votre vidéo avec le nouveau taux de frappe appliqué",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Télécharger la Vidéo",
+        "text": "Obtenez votre vidéo peaufinée prête pour la distribution",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Convertissez Votre Vidéo Maintenant →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilités Infinies",
+    "description": "Idéal pour tout type de contenu vidéo",
+    "items": [
+      "Production cinématographique",
+      "Améliorations de vidéos YouTube",
+      "Contenu marketing et promotionnel",
+      "Storytelling sur les réseaux sociaux",
+      "Enregistrements d'événements en direct",
+      "Présentations virtuelles",
+      "Moments de jeu",
+      "Vidéos éducatives"
+    ]
+  },
+  "successStories": {
+    "heading": "Véritables Histoires de Succès",
+    "description": "Découvrez comment les utilisateurs améliorent leurs vidéos avec l'IA",
+    "items": [
+      {
+        "tag": "Production Cinématographique",
+        "heading": "Projet de Film Indépendant",
+        "before": {
+          "label": "Avant",
+          "text": "Taux de Frappe Variable"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Lecture Cohérente"
+        },
+        "value": "95%",
+        "key": "Amélioration de la Qualité Visuelle",
+        "description": "Avec la conversion de taux de frappe, notre film maintenant coule sans effort, améliorant considérablement l'expérience du spectateur."
+      },
+      {
+        "tag": "Création de Contenu",
+        "heading": "Chaîne YouTube",
+        "before": {
+          "label": "Avant",
+          "text": "Vidéos Saccadées"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Lecture Fluide"
+        },
+        "value": "90%",
+        "key": "Augmentation de l'Engagement",
+        "description": "La conversion des taux de frappe a revitalisé notre contenu, entraînant une augmentation notable de la rétention des spectateurs."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison de Modèles IA",
+    "description": "Sélectionnez le bon réglage de taux de frappe pour vos besoins",
+    "items": [
+      "Conversion Standard : Ajustements rapides pour les taux de frappe courants (30fps, 60fps)",
+      "Conversion Avancée : Transitions fluides entre des taux de frappe variés",
+      "Rendu de haute qualité pour des visuels impeccables",
+      "Traitement par lots pour plusieurs vidéos simultanément",
+      "Retour d'information instantané sur les ajustements et la lecture"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils IA Connexes",
+    "description": "Explorez d'autres outils IA puissants pour l'amélioration vidéo"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "À quels taux de frappe puis-je convertir ma vidéo ?",
+        "answer": "Notre solution vous permet de convertir aux taux de frappe courants comme 24fps, 30fps et 60fps. Des taux de frappe personnalisés sont également disponibles pour des besoins spécialisés."
+      },
+      {
+        "question": "Comment l'IA améliore-t-elle la conversion de taux de frappe ?",
+        "answer": "La technologie IA analyse le contenu de votre vidéo pour garantir des transitions fluides, maintenir l'intégrité visuelle et offrir une lecture optimale sans décalage."
+      },
+      {
+        "question": "Puis-je convertir plusieurs vidéos à la fois ?",
+        "answer": "Oui ! Notre plateforme prend en charge le traitement par lots, vous permettant de télécharger et de convertir plusieurs vidéos en une seule fois."
+      },
+      {
+        "question": "Y aura-t-il une perte de qualité lors de la conversion ?",
+        "answer": "Non, notre conversion de taux de frappe préserve la qualité de votre vidéo originale tout en améliorant la fluidité de la lecture."
+      },
+      {
+        "question": "Y a-t-il une limite sur la durée de la vidéo pour la conversion ?",
+        "answer": "Il n'y a pas de limite stricte sur la durée de la vidéo, bien que les vidéos plus longues puissent nécessiter plus de temps de traitement selon les ajustements de taux de frappe choisis."
+      },
+      {
+        "question": "Quels types de vidéos fonctionnent le mieux avec la fonction de conversion de taux de frappe ?",
+        "answer": "Tous les types de vidéos peuvent bénéficier, en particulier celles avec des mouvements rapides ou des taux de frappe mixtes, comme des séquences d'action ou des enregistrements provenant de différentes sources."
+      },
+      {
+        "question": "Ai-je besoin d'un logiciel spécial pour utiliser cette fonction ?",
+        "answer": "Aucun logiciel spécialisé n'est nécessaire. L'outil de Conversion de Taux de Frappe IA est entièrement accessible en ligne via notre plateforme WaveSpeed."
+      },
+      {
+        "question": "Quelle est la précision de l'IA lors des ajustements ?",
+        "answer": "Notre IA est très précise et est conçue pour garantir que les conversions correspondent aux spécifications souhaitées tout en maintenant la qualité de la vidéo."
+      },
+      {
+        "question": "Puis-je annuler les changements effectués lors du processus de conversion ?",
+        "answer": "Oui, notre plateforme vous permet de revenir facilement sur toutes modifications avant de finaliser le téléchargement."
+      },
+      {
+        "question": "Quel support fournissez-vous si je rencontre des problèmes ?",
+        "answer": "Nous offrons une documentation détaillée, des tutoriels vidéo et un support client par e-mail et chat pour tout problème technique."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Améliorer la Qualité de Votre Vidéo ?",
+    "description": "Commencez avec des crédits gratuits - Expérimentez la transformation par vous-même",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Essayez-le maintenant →"
+  },
+  "footer": {
+    "heading": "Prêt à Améliorer Vos Vidéos ?",
+    "description": "Essayez WaveSpeed AI maintenant et faites l'expérience d'une qualité vidéo plus fluide. Aucun enregistrement requis.",
+    "ctaText": "Convertissez le Taux de Frappe Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

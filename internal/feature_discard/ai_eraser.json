@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Effortlessly Erase Unwanted Elements from Your Photos",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Effortlessly Erase Unwanted Elements",
+    "description": "Simply enter your request to seamlessly eliminate distractions from your images.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo before using AI Eraser"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example photo after using AI Eraser"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Seamlessly Erase Unwanted Elements",
+      "prompt": {
+        "heading": " Prompt",
+        "placeholder": "E.g., Erase the person in the background, remove the text overlay, delete the unwanted object..."
+      },
+      "upload": {
+        "heading": " Select image or Input URL"
+      },
+      "processButton": "Erase Elements Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "10M+",
+        "description": "Images Erased"
+      },
+      {
+        "title": "99.8%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "2.5s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Transformations",
+    "description": "Discover how WaveSpeed AI can enhance your images by removing distractions with precision and speed.",
+    "items": [
+      {
+        "title": "Effortless Distraction Removal",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing removal of distracting elements from a photo",
+        "description": "Quickly eliminate unnecessary objects from your photos."
+      },
+      {
+        "title": "Erase Background Noise",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing flawless background after element removal",
+        "description": "Transform your images by cleansing them of unwanted details."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose AI Eraser from WaveSpeed?",
+    "description": "Our advanced AI technology ensures stunning results with simplicity and speed.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Instant Results",
+        "description": "Experience rapid processing times with our cutting-edge algorithms—no more waiting."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly",
+        "description": "No expertise needed. Upload your image and let AI do the heavy lifting."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Complete Privacy",
+        "description": "Your images are handled entirely in your browser, ensuring they remain secure and private."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three straightforward steps to a cleaner photo",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Your Image",
+        "description": "Drag and drop your image or browse for it. Compatible with JPG, PNG, and WebP formats."
+      },
+      {
+        "serial": "2",
+        "title": "Smart Processing",
+        "description": "Our sophisticated AI automatically identifies and removes the unwanted elements while maintaining the photo's integrity."
+      },
+      {
+        "serial": "3",
+        "title": "Download Your Cleaned Image",
+        "description": "Use our slider to compare edits and download your pristine image effortlessly."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "Hear from Our Users",
+    "description": "Join countless satisfied customers who have transformed their photos with AI Eraser",
+    "items": [
+      {
+        "name": "Emily Carter",
+        "stars": 5,
+        "comment": "I couldn't believe how quickly AI Eraser eliminated distractions from my wedding photos. It saved me so much time!"
+      },
+      {
+        "name": "David Martinez",
+        "stars": 5,
+        "comment": "As a portrait photographer, this tool is invaluable for quickly cleaning up backgrounds without sacrificing quality."
+      },
+      {
+        "name": "Linda Adams",
+        "stars": 5,
+        "comment": "The peace of mind provided by privacy features is fantastic! I trust WaveSpeed with all my personal photos."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Your Questions Answered",
+    "description": "Explore answers to common queries regarding AI Eraser",
+    "items": [
+      {
+        "title": "What types of elements can AI Eraser remove?",
+        "description": "The AI Eraser can effectively remove a variety of distractions like people, logos, text, shadows, and even complex objects like power lines or reflections, intelligently filling in backgrounds seamlessly."
+      },
+      {
+        "title": "Is there a fee for using AI Eraser?",
+        "description": "Absolutely! Each user receives 30 free credits daily, allowing multiple images to be processed without charge. Earn extra credits through daily challenges or by engaging in user surveys."
+      },
+      {
+        "title": "Can I use the edited images for commercial purposes?",
+        "description": "Yes! Paid users can use edited images for commercial projects. Free-tier users may use them for personal projects only, adhering to outlined restrictions."
+      },
+      {
+        "title": "How does AI Eraser ensure privacy?",
+        "description": "All image processing occurs in your browser using WebAssembly and JavaScript, ensuring that your photos are never uploaded or stored on our servers, thus guaranteeing complete privacy."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Clean Up Your Photos?",
+    "description": "Start using AI Eraser today and witness the transformation. No sign-up needed.",
+    "ctaText": "Erase Elements Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

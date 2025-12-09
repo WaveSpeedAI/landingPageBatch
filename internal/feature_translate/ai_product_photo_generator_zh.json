@@ -1,0 +1,230 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI 产品照片生成器",
+  "meta": {
+    "description": "借助 AI 生成的产品照片，让您的电子商务体验焕然一新，吸引顾客并实现转化。适合在线商店、社交媒体营销和宣传材料。体验无缝自动化、高质量结果，无需技术技能！",
+    "keywords": "AI 产品照片生成器, 电子商务产品图像, 营销照片, 自动化照片增强, 在线商店图像, 社交媒体视觉, AI 图像创建器, 产品摄影工具, Shopify 图像, 亚马逊产品照片, 快速照片生成"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI 工具",
+        "items": [
+          [
+            "AI 工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即试用"
+  },
+  "hero": {
+    "heading": "AI 产品照片生成器",
+    "subHeading": "轻松提升您的产品摄影",
+    "description": "在短短几分钟内将普通产品图像转变为令人惊叹的视觉效果。无需摄影技能！ Unlock the power of advanced AI to generate captivating product photos that enhance your brand. 准备好开始了吗？",
+    "tryText": "立即试用",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI 产品照片生成器解决方案",
+    "left": {
+      "heading": "传统摄影挑战",
+      "items": [
+        "专业摄影服务的高成本（每次 $1500-3000）",
+        "需要专业设备和照明",
+        "耗时的编辑和后期处理（3-5 天）",
+        "有限的独特和多样化图像选项",
+        "小企业主难以接触"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI 解决方案",
+      "items": [
+        "在 5 分钟内生成令人惊叹的产品图像",
+        "无需设备或摄影技能 - 只需上传您的图像",
+        "由 AI 技术驱动的即时高质量结果",
+        "无限适配和风格以适应您的品牌",
+        "经济高效的解决方案 - 对所有企业都很实惠"
+      ],
+      "tryText": "试用"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "从基础照片到出众产品图像仅需 4 个简单步骤",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传您的照片",
+        "text": "选择您想要增强的产品照片或任何图像",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "自定义您的风格",
+        "text": "可选：选择样式偏好和增强",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "AI 处理",
+        "text": "让我们的 AI 分析并转换您的图像",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载您的图像",
+        "text": "在几分钟内收到增强的产品照片",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "生成您的第一张照片 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无限可能",
+    "description": "为各种平台转换任何产品图像",
+    "items": [
+      "专业图像用于 Shopify 和亚马逊列表",
+      "社交媒体内容（Instagram, Facebook, Pinterest）",
+      "营销材料和宣传视觉",
+      "在线广告和活动的视觉效果",
+      "在所有数字平台上的品牌一致性",
+      "电子邮件营销图形和时事通讯",
+      "博客和网站的增强视觉效果",
+      "产品发布的创意概念"
+    ]
+  },
+  "successStories": {
+    "heading": "真实成功案例",
+    "description": "发现企业如何通过 AI 提升视觉效果",
+    "items": [
+      {
+        "tag": "时尚零售",
+        "heading": "电子商务服装品牌",
+        "before": {
+          "label": "之前",
+          "text": "高成本"
+        },
+        "after": {
+          "label": "之后",
+          "text": "可负担的 AI 生成"
+        },
+        "value": "98%",
+        "key": "成本降低",
+        "description": "我们在一夜之间改变了产品展示，销售增长了 45%。"
+      },
+      {
+        "tag": "家居用品",
+        "heading": "在线家居装饰商店",
+        "before": {
+          "label": "之前",
+          "text": "需要全面拍摄"
+        },
+        "after": {
+          "label": "之后",
+          "text": "即时图像改善"
+        },
+        "value": "99%",
+        "key": "节省时间",
+        "description": "得益于 AI 生成视觉效果的速度，我们的营销活动周转大大提高。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI 方法比较",
+    "description": "选择最适合您需求的最佳方法",
+    "items": [
+      "高分辨率输出：300 DPI 的惊人图像",
+      "智能优化：自动增强颜色和细节",
+      "品牌一致性的自定义样式选项",
+      "快速周转：理想的时效性活动",
+      "兼容文件格式：JPEG, PNG 等",
+      "可用批处理处理：用于同时处理多个图像"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关 AI 工具",
+    "description": "探索更多先进的电子商务 AI 解决方案"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要知道的一切",
+    "items": [
+      {
+        "question": "我可以期待什么图像质量？",
+        "answer": "期待图像质量高、清晰度和色彩鲜艳。我们的 AI 确保您的产品图像精致且适合任何平台。"
+      },
+      {
+        "question": "我可以自定义输出样式吗？",
+        "answer": "当然可以！您可以从各种样式和增强中选择，以匹配您的品牌形象和产品类型。"
+      },
+      {
+        "question": "什么类型的图像最适合生成？",
+        "answer": "清晰且光线良好的图像提供最佳结果，但我们的技术可以增强各种照片以满足您的需求。"
+      },
+      {
+        "question": "这与传统摄影有何不同？",
+        "answer": "与传统摄影不同，我们的 AI 消除了对昂贵设备和冗长拍摄的需要，同时提供高质量的结果。"
+      },
+      {
+        "question": "我可以立即下载增强的图像吗？",
+        "answer": "可以！一旦处理完成，您可以立即下载增强的图像。"
+      },
+      {
+        "question": "您使用什么定价模型进行照片增强？",
+        "answer": "我们采用灵活的按需付费模式，这意味着您只需为生成的图像付费，而无需隐藏费用。"
+      },
+      {
+        "question": "图像生成需要多长时间？",
+        "answer": "每张图像通常在 5 分钟内完成，无论复杂性如何。"
+      },
+      {
+        "question": "AI 产品照片生成最适合哪些用例？",
+        "answer": "它非常适合在线商店、社交媒体营销、宣传材料等！"
+      },
+      {
+        "question": "我拥有生成图像的权利吗？",
+        "answer": "是的！所有生成的图像都包括完全的商业权利，无需额外费用。"
+      },
+      {
+        "question": "WaveSpeed 提供哪些支持？",
+        "answer": "我们通过文档、教程和响应迅速的团队为任何问题提供广泛支持。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备好改造您的产品图像了吗？",
+    "description": "从免费积分开始，体验 AI 增强摄影的魔力。",
+    "contactUsText": "联系我们",
+    "tryText": "立即试用 →"
+  },
+  "footer": {
+    "heading": "准备好提升您的照片了吗？",
+    "description": "立即体验 WaveSpeed AI，见证变革。无需注册。",
+    "ctaText": "立即增强我的图像",
+    "text": "© 2025 WaveSpeed AI. 保留所有权利。"
+  }
+}

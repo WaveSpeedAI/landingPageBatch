@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Create Stunning Ken Burns Effects Instantly",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Bring Your Photos to Life",
+    "description": "Transform static images into captivating video clips using the Ken Burns effect with just a few clicks.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo before Ken Burns effect"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example photo after Ken Burns effect"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Create Engaging Videos",
+      "prompt": {
+        "heading": " Prompt",
+        "placeholder": "E.g., Apply Ken Burns effect to this image..."
+      },
+      "upload": {
+        "heading": " Select image or Input URL"
+      },
+      "processButton": "Create Ken Burns Effect Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Photos Animated"
+      },
+      {
+        "title": "98%",
+        "description": "User Satisfaction Rate"
+      },
+      {
+        "title": "2s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Discover how the AI Ken Burns Effect can elevate your photos into dynamic visual stories.",
+    "items": [
+      {
+        "title": "Animate Your Memories",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing Ken Burns effect on a photo",
+        "description": "Transform ordinary images into stunning animations."
+      },
+      {
+        "title": "Create Stunning Presentations",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing Ken Burns effect applied to a scene",
+        "description": "Engage your audience with lively photo presentations."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI for Animation?",
+    "description": "Utilize our state-of-the-art technology to effortlessly create stunning animations.",
+    "items": [
+      {
+        "icon": "play-circle",
+        "title": "Instant Animation",
+        "description": "Quickly apply the Ken Burns effect to breathe life into your photos without any hassle."
+      },
+      {
+        "icon": "mobile-alt",
+        "title": "User-Friendly Interface",
+        "description": "Easily upload your images and apply effects with a simple click—no technical skills required."
+      },
+      {
+        "icon": "lock",
+        "title": "Secure Processing",
+        "description": "All processing occurs locally on your device, ensuring the privacy and security of your images."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Turn photos into captivating animations in three simple steps",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Your Photo",
+        "description": "Drag and drop or browse your files to select an image. Formats supported include JPG, PNG, and WebP."
+      },
+      {
+        "serial": "2",
+        "title": "Apply the Effect",
+        "description": "Watch as our AI intelligently applies the Ken Burns effect, adding pan and zoom dynamics to your image."
+      },
+      {
+        "serial": "3",
+        "title": "Download Your Animation",
+        "description": "Preview your animated photo and download it in high quality, ready to share or present."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Are Saying",
+    "description": "Join countless users who have enhanced their photos with our dynamic Ken Burns effect feature",
+    "items": [
+      {
+        "name": "Emily Carter",
+        "stars": 5,
+        "comment": "The Ken Burns effect turned my family photos into beautiful stories that I love to share!"
+      },
+      {
+        "name": "James Smith",
+        "stars": 5,
+        "comment": "As a teacher, this tool has transformed my presentations—it’s captivating and so easy to use!"
+      },
+      {
+        "name": "Linda Wong",
+        "stars": 5,
+        "comment": "I appreciate the privacy focus! It’s great knowing my images aren’t uploaded anywhere."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your questions about the AI Ken Burns Effect",
+    "items": [
+      {
+        "title": "What is the Ken Burns effect?",
+        "description": "The Ken Burns effect is a popular technique used to animate still images by panning and zooming in the frame, creating engaging video presentations."
+      },
+      {
+        "title": "Is there a limit on the number of photos I can animate?",
+        "description": "No! You can create as many animations as you'd like. Each user receives 30 free credits daily."
+      },
+      {
+        "title": "Can I use my animated content commercially?",
+        "description": "Yes! Users with a subscription can utilize generated animations for commercial purposes."
+      },
+      {
+        "title": "How secure is my image processing?",
+        "description": "All animations are created securely on your device, ensuring your photos are never uploaded or stored on external servers."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Animate Your Photos?",
+    "description": "Try the AI Ken Burns Effect now and see your images come alive. No sign-up needed.",
+    "ctaText": "Create Ken Burns Effect Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

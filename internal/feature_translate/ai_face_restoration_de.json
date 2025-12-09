@@ -1,0 +1,222 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - KI-Gesichtswiederherstellung",
+  "meta": {
+    "description": "Verbessern und restaurieren Sie Gesichtsbilder mit KI-Technologie. Mit fortschrittlichen Algorithmen verwandelt WaveSpeed AI qualitativ minderwertige Bilder in atemberaubende Porträts, die wahre Schönheit widerspiegeln. Ideal für Fotografie, soziale Medien und professionelle Nutzung. Entdecken Sie heute die Magie!",
+    "keywords": "KI-Gesichtswiederherstellung, Bildverbesserung, Portraitrestaurierung, Verbesserung von Gesichtsbildern, Schönheitsverbesserung, KI-Fotoeditor, hochwertige Porträts, Verbesserung von Bildern für soziale Medien, professionelle Foto-Restaurierung, Bilder mit KI wiederherstellen"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI-Tools",
+        "items": [
+          [
+            "KI-Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "Gesichtswiederherstellung leicht gemacht",
+    "subHeading": "Revitalisieren Sie Ihre Bilder mit KI-Präzision",
+    "description": "Verwandeln Sie verschwommene oder beschädigte Gesichtsbilder in lebendige und detaillierte Porträts in Sekunden. Perfekt zur Verbesserung von Fotos für soziale Medien, professionelle Portfolios und mehr. Erleben Sie die Kraft der KI-gesteuerten Wiederherstellung.",
+    "tryText": "Jetzt ausprobieren",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI KI-Gesichtswiederherstellungslösung",
+    "left": {
+      "heading": "Herausforderungen der traditionellen Bildwiederherstellung",
+      "items": [
+        "Manuelle Wiederherstellung ist zeitaufwendig und teuer",
+        "Benötigt umfangreiche Bearbeitungsfähigkeiten und Software",
+        "Inkonsistente Ergebnisse durch verschiedene Techniken",
+        "Begrenzte Wirksamkeit bei Bildern mit niedriger Auflösung",
+        "Nicht skalierbar für die Bearbeitung großer Bildmengen"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI-Lösung",
+      "items": [
+        "Gesichter in Sekunden sofort verbessern und wiederherstellen",
+        "Keine Bearbeitungserfahrung erforderlich - Einfach Bilder hochladen",
+        "Konsistente, hochwertige Ergebnisse dank KI",
+        "Funktioniert mit verschiedenen Fotoqualitäten und -formaten",
+        "Erschwingliche nutzungsabhängige Preise, die für alle geeignet sind"
+      ],
+      "tryText": "Versuchen"
+    }
+  },
+  "howItWorks": {
+    "heading": "Wie es funktioniert",
+    "description": "Restaurieren Sie Gesichtsbilder in 4 einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Bild hochladen",
+        "text": "Wählen Sie Ihr Gesichtsbild zur Verbesserung aus",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Wiederherstellungsgrad wählen",
+        "text": "Wählen Sie den Grad der Verbesserung, den Sie benötigen (leicht bis extrem)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Überprüfen & Anpassen",
+        "text": "Vorschau der Wiederherstellung und Anpassungen vornehmen, falls erforderlich",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Verbessertes Bild herunterladen",
+        "text": "Erhalten Sie Ihr restauriertes Porträt mit kommerziellen Rechten in wenigen Augenblicken",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Stellen Sie Ihr erstes Bild wieder her →"
+  },
+  "endlessPossibilities": {
+    "heading": "Unendliche Wiederherstellungsmöglichkeiten",
+    "description": "Ideal für verschiedene Anwendungen und Benutzer",
+    "items": [
+      "Persönliche Fotoverbesserung für soziale Medien",
+      "Professionelle Fotografieportfolio-Upgrades",
+      "Restaurierung historischer oder geschätzter Familienfotos",
+      "Bildverbesserung für Marketingmaterialien",
+      "Verbesserung von Bildern für Online-Dating-Profile",
+      "Wiederbelebung alter Bilder für Jubiläen und Veranstaltungen",
+      "Benutzerdefinierte Kunstwerke, die Gesichtsretuschen benötigen",
+      "Vorher/Nachher-Transformationen für Testimonials"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Entdecken Sie, wie Benutzer ihre Bilder mit KI transformieren",
+    "items": [
+      {
+        "tag": "Fotografie-Profis",
+        "heading": "Hochzeitsfotografie-Verbesserungen",
+        "before": {
+          "label": "Vorher",
+          "text": "Verschmierte Bilder"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Eindrucksvolle Klarheit"
+        },
+        "value": "95%",
+        "key": "Qualitätsverbesserung",
+        "description": "Wir haben 100 Hochzeitsbilder innerhalb weniger Stunden restauriert und die Kundenzufriedenheit dramatisch erhöht."
+      },
+      {
+        "tag": "Social Media Influencer",
+        "heading": "Instagram-Profilüberarbeitungen",
+        "before": {
+          "label": "Vorher",
+          "text": "Geringe Interaktion"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Gestiegene Follower"
+        },
+        "value": "80%",
+        "key": "Interaktionssteigerung",
+        "description": "Transformierte Profilbilder führten zu einem signifikanten Anstieg neuer Follower und Interaktionen."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Vergleich der KI-Wiederherstellungsmodelle",
+    "description": "Wählen Sie das richtige Modell für Ihre Wiederherstellungsbedürfnisse",
+    "items": [
+      "Basiswiederherstellung: Schnelle Verbesserung bei geringfügigen Mängeln",
+      "Fortgeschrittene Wiederherstellung: Hochwertige Verfeinerung für detaillierte Porträts",
+      "Extreme Wiederherstellung: Tiefe Wiederherstellung für stark beschädigte Bilder",
+      "Benutzerdefinierte Filter für personalisierte Looks",
+      "Benutzerfreundliche Anpassungsfunktionen für Präzision",
+      "Kommerzielle Rechte sind bei allen Modellen enthalten"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ähnliche KI-Tools",
+    "description": "Entdecken Sie zusätzliche leistungsstarke KI-Tools zur Bildverbesserung"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welche Art von Bildern kann ich wiederherstellen?",
+        "answer": "Sie können alle Gesichtsbilder wiederherstellen, einschließlich persönlicher Fotos, professioneller Porträts und gescannter Bilder. Die KI funktioniert am besten bei klaren, gut beleuchteten Bildern, kann jedoch auch Bilder mit niedrigerer Qualität verbessern."
+      },
+      {
+        "question": "Wie unterscheiden sich restaurierte Bilder von traditionellen Bearbeitungen?",
+        "answer": "Unsere KI bietet schnelle, konsistente Ergebnisse, die natürliche Gesichtsmerkmale beibehalten, im Gegensatz zu traditionellen Methoden, die zu übermäßigen Bearbeitungen oder unrealistischen Looks führen können."
+      },
+      {
+        "question": "Kann ich die Intensität der Wiederherstellung anpassen?",
+        "answer": "Ja! Sie können verschiedene Verbesserungsstufen wählen, von subtilen Verbesserungen bis hin zu dramatischen Wiederherstellungen, um sicherzustellen, dass das Ergebnis Ihrer Vision entspricht."
+      },
+      {
+        "question": "Gibt es eine Begrenzung dafür, wie viele Bilder ich verarbeiten kann?",
+        "answer": "Nein, Sie können mehrere Bilder gleichzeitig wiederherstellen. Unsere Plattform erlaubt die Batchverarbeitung für eine effiziente Nutzung, die Zeit spart."
+      },
+      {
+        "question": "Welche Dateitypen unterstützen Sie für Uploads?",
+        "answer": "Wir unterstützen verschiedene Formate, darunter JPG, PNG und TIFF. Stellen Sie sicher, dass Ihre Bilder klar sind, um optimale Ergebnisse zu erzielen."
+      },
+      {
+        "question": "Wie lange dauert der Wiederherstellungsprozess?",
+        "answer": "Die Wiederherstellung dauert normalerweise nur wenige Sekunden. Sie erhalten schnell Ergebnisse, sodass Sie Ihre Projekte ohne Verzögerung fortsetzen können."
+      },
+      {
+        "question": "Erhalte ich kommerzielle Rechte für die restaurierten Bilder?",
+        "answer": "Absolut! Alle restaurierten Bilder kommen mit vollständigen Rechten zur kommerziellen Nutzung ohne zusätzliche Gebühren."
+      },
+      {
+        "question": "Welche Support-Optionen stehen für die Fehlersuche zur Verfügung?",
+        "answer": "Wir bieten umfassenden Support über Dokumentation, Tutorials und Live-Chat. Unser engagiertes Team ist bereit, innerhalb von 24 Stunden bei Problemen zu helfen."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Ihre Bilder zu revitalisieren?",
+    "description": "Starten Sie mit kostenlosen Credits - Erleben Sie die Transformation selbst",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Jetzt ausprobieren →"
+  },
+  "footer": {
+    "heading": "Transformieren Sie jetzt Ihre Fotos!",
+    "description": "Nutzen Sie WaveSpeed AI, um Ihre Bilder zu verbessern. Keine Anmeldung erforderlich.",
+    "ctaText": "Gesichter jetzt wiederherstellen",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

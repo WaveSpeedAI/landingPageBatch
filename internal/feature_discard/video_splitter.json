@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Effortlessly Split Videos",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Split Your Videos with Ease",
+    "description": "Use our intuitive tool to effortlessly split your videos into shorter clips for sharing or editing.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example video before splitting"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example video after splitting"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Split Your Video",
+      "prompt": {
+        "heading": " Video URL",
+        "placeholder": "E.g., Enter the URL of the video you want to split..."
+      },
+      "upload": {
+        "heading": " Select video or Input URL"
+      },
+      "processButton": "Split Video Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Videos Split"
+      },
+      {
+        "title": "98.7%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "3.0s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Discover how WaveSpeed can transform your video content by splitting lengthy videos into manageable segments.",
+    "items": [
+      {
+        "title": "Split Long Videos",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing a long video split into clips",
+        "description": "Easily create shorter clips from your full-length videos for easier sharing."
+      },
+      {
+        "title": "Extract Highlights",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing highlights extracted from a video",
+        "description": "Focus on key moments by extracting highlights and creating quick edits."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Our top-notch technology ensures quick and seamless video editing.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Fast Processing",
+        "description": "Achieve results in seconds, thanks to our optimized algorithms."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly",
+        "description": "No technical expertise needed. Simply upload your video and let us handle the rest."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Privacy Respecting",
+        "description": "Your videos are processed securely and never leave your device."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three simple steps to split your videos effortlessly",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Video",
+        "description": "Upload your video by dragging and dropping or browsing files. Supported formats include MP4, AVI, and MOV."
+      },
+      {
+        "serial": "2",
+        "title": "AI Processing",
+        "description": "Our advanced processing algorithms automatically segment your video into desired lengths."
+      },
+      {
+        "serial": "3",
+        "title": "Download Clips",
+        "description": "Preview your clips and download them in high quality, perfect for sharing or editing."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless happy users who enhance their videos with WaveSpeed AI",
+    "items": [
+      {
+        "name": "Emma Parker",
+        "stars": 5,
+        "comment": "I love how quickly I can split my travel videos into memorable highlights. It’s so easy!"
+      },
+      {
+        "name": "John Smith",
+        "stars": 5,
+        "comment": "As a content creator, this tool saves me so much time. Splitting videos has never been simpler."
+      },
+      {
+        "name": "Rachel Adams",
+        "stars": 5,
+        "comment": "The privacy feature gave me peace of mind. My content remains secure, and the results are fantastic!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your queries about our Video Splitter feature",
+    "items": [
+      {
+        "title": "What video formats can I use?",
+        "description": "WaveSpeed's Video Splitter supports various formats including MP4, AVI, and MOV, ensuring compatibility with your files."
+      },
+      {
+        "title": "Is it free to use the Video Splitter?",
+        "description": "Yes! Each user receives 30 free credits daily, allowing you to split numerous videos. Additional credits can be earned through surveys and challenges."
+      },
+      {
+        "title": "Can I use the split videos commercially?",
+        "description": "Yes! Paid users can use the split videos for any commercial purpose, while free users are confined to personal projects."
+      },
+      {
+        "title": "How is my privacy protected?",
+        "description": "All video processing occurs directly in your browser, ensuring that your videos are never uploaded or stored on our servers."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Split Your Videos?",
+    "description": "Try WaveSpeed AI now and see how easy it is to enhance your video content. No sign-up needed.",
+    "ctaText": "Split Video Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Detector de Destacados de IA",
+  "meta": {
+    "description": "Identifica sin esfuerzo los momentos clave en tus videos con IA. Aumenta la participación y enfoca la atención donde más importa en tu contenido. Perfecto para comercializadores, educadores y creadores de contenido que buscan optimizar la producción de video y maximizar el impacto.",
+    "keywords": "detector de destacados de IA, extracción de destacados de video, detección automática de destacados, IA de edición de video, herramienta de creación de contenido, destacados de video para marketing, participación en redes sociales, resúmenes de video, optimización del contenido de video"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas de IA",
+        "items": [
+          [
+            "Herramientas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Muestra",
+        "items": [
+          [
+            "Muestra",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Detección de Destacados Hecha Fácil",
+    "subHeading": "Identifica Momentos Clave en Tus Videos",
+    "description": "Identifica y extrae automáticamente los destacados de tu contenido de video, permitiéndote enfatizar lo que más importa. Ahorra tiempo y mejora la participación de los espectadores con nuestros avanzados algoritmos de IA. ¡Comienza tu prueba gratuita hoy!",
+    "tryText": "Pruébalo Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución de Detector de Destacados de IA de WaveSpeed",
+    "left": {
+      "heading": "Desafíos Tradicionales",
+      "items": [
+        "La selección manual de destacados es tediosa y consume mucho tiempo",
+        "Requiere amplias habilidades de edición de video",
+        "Las elecciones de destacados inconsistentes pueden confundir a los espectadores",
+        "Capacidad limitada para enfocar la atención en momentos clave",
+        "Los altos costos de producción limitan el contenido de video extenso"
+      ]
+    },
+    "right": {
+      "heading": "Solución de WaveSpeed IA",
+      "items": [
+        "Detecta y extrae instantáneamente destacados de videos",
+        "No se requiere experiencia en edición: solo sube tu video",
+        "Identificación de destacados consistente y precisa",
+        "Optimizado para la participación y retención de los espectadores",
+        "Precios asequibles de pago por uso para todos"
+      ],
+      "tryText": "Pruébalo"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "Encuentra destacados sin esfuerzo en solo 4 pasos",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Subir Video",
+        "text": "Sube tu contenido de forma fácil y rápida",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Seleccionar Parámetros de Destacados",
+        "text": "Especifica en qué momentos enfocarte (por ejemplo, \"mejores citas\", \"momentos más divertidos\")",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Analizar y Detectar",
+        "text": "Deja que nuestra IA analice tu video para encontrar destacados clave",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Descargar Destacados",
+        "text": "Recibe tus destacados editados en momentos, listos para compartir",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Genera Tus Clips de Destacados →"
+  },
+  "endlessPossibilities": {
+    "heading": "Posibilidades Infinita",
+    "description": "Perfecto para cualquier tipo de video o industria",
+    "items": [
+      "Resúmenes de destacados de eventos",
+      "Capturas de momentos deportivos",
+      "Resúmenes de contenido educativo",
+      "Clips de capacitación corporativa",
+      "Tráileres de videos para redes sociales",
+      "Vlogs e historias personales",
+      "Webinars y presentaciones",
+      "Destacados de desfiles de moda"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Cómo los creadores están revolucionando su contenido con IA",
+    "items": [
+      {
+        "tag": "Agencia de Marketing",
+        "heading": "Destacados de Campañas de Marca",
+        "before": {
+          "label": "Antes",
+          "text": "La selección manual tomaba horas"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Automatizado en minutos"
+        },
+        "value": "97%",
+        "key": "Ahorro de Tiempo",
+        "description": "Reducimos el tiempo de edición de destacados de horas a minutos, acelerando significativamente la entrega de nuestra campaña."
+      },
+      {
+        "tag": "Plataforma Educativa",
+        "heading": "Resúmenes de Videos de Cursos",
+        "before": {
+          "label": "Antes",
+          "text": "Requiere 1 semana"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Terminado en 1 hora"
+        },
+        "value": "95%",
+        "key": "Reducción del Tiempo de Producción",
+        "description": "Nuestros instructores ahora pueden enfocarse en crear contenido en lugar de editar, mejorando la experiencia de aprendizaje en general."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Modelos de IA",
+    "description": "Selecciona las características adecuadas para tus necesidades",
+    "items": [
+      "Detector de Destacados Estándar: Momentos básicos capturados para edición rápida",
+      "Detector de Destacados Avanzado: Incluye métricas de respuesta emocional y participación",
+      "Configuraciones de destacados personalizadas para salidas de video adaptadas",
+      "Soporta una variedad de formatos y resoluciones de video",
+      "Tiempo de procesamiento rápido para resultados instantáneos",
+      "Derechos de uso comercial incluidos"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas de IA Relacionadas",
+    "description": "Explora soluciones de IA más poderosas para la producción de video"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué tipos de videos funcionan mejor con el detector de destacados?",
+        "answer": "Nuestra herramienta está optimizada para todo tipo de contenido de video, incluidos clips de redes sociales, vlogs, webinars, y más. Funciona mejor con audio y señales visuales claras para identificar destacados de manera efectiva."
+      },
+      {
+        "question": "¿Puedo establecer criterios específicos para los destacados?",
+        "answer": "¡Absolutamente! Puedes definir parámetros como 'momentos más atractivos', 'citas clave' o 'escenas llenas de acción' para adaptar la detección de destacados a las necesidades de tu contenido."
+      },
+      {
+        "question": "¿Cuánto tiempo lleva el proceso de detección de destacados?",
+        "answer": "La detección es increíblemente rápida, generalmente lleva solo un par de minutos dependiendo de la longitud del video. Disfruta de un tiempo de respuesta eficiente sin importar cuán grande o pequeño sea el proyecto."
+      },
+      {
+        "question": "¿Qué formatos puedo subir?",
+        "answer": "Soportamos una amplia gama de formatos de video incluidos MP4, AVI y MOV para un procesamiento sin problemas. Asegúrate de que tus videos estén adecuadamente comprimidos para un rendimiento óptimo."
+      },
+      {
+        "question": "¿Los destacados que recibo están listos para usar?",
+        "answer": "¡Sí! Los destacados extraídos son completamente editables y están listos para compartir o integrar en otros proyectos de inmediato."
+      },
+      {
+        "question": "¿Necesito software de edición para refinar los destacados?",
+        "answer": "Si bien los destacados están listos para usar, puedes mejorarlos aún más con tu software de edición preferido si lo deseas."
+      },
+      {
+        "question": "¿Con qué frecuencia se actualiza el modelo de detección de destacados?",
+        "answer": "Nuestros modelos de IA se mejoran continuamente en base a los comentarios de los usuarios y la investigación en curso para garantizar un rendimiento y precisión óptimos."
+      },
+      {
+        "question": "¿Hay soporte disponible si tengo problemas?",
+        "answer": "¡Sí! Ofrecemos soporte integral a través de documentación, tutoriales y un equipo de soporte dedicado para ayudarte con cualquier pregunta o desafío."
+      },
+      {
+        "question": "¿Cuál es la estructura de precios para usar el detector de destacados?",
+        "answer": "Funcionamos con un modelo flexible de pago por uso sin tarifas mensuales. Los costos se basan en la longitud del video y la complejidad del proceso de detección de destacados."
+      },
+      {
+        "question": "¿Puedo usar los destacados comercialmente?",
+        "answer": "¡Absolutamente! Todos los destacados producidos a través de nuestra plataforma vienen con plenos derechos comerciales, lo que permite usarlos en promociones, anuncios y cualquier otro proyecto comercial."
+      },
+      {
+        "question": "¿Hay un límite en el número de videos que puedo procesar?",
+        "answer": "No, puedes procesar tantos videos como necesites sin límites. Disfruta de nuestra infraestructura robusta diseñada para manejar múltiples subidas de videos de manera eficiente."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Detectar los Destacados de Tu Video?",
+    "description": "¡Comienza con créditos gratuitos y ve el poder de la IA en acción!",
+    "contactUsText": "Contáctanos",
+    "tryText": "Pruébalo Ahora →"
+  },
+  "footer": {
+    "heading": "¿Listo para Descubrir Momentos Clave?",
+    "description": "Experimenta el Detector de Destacados de IA y transforma tu contenido de video hoy. No se requiere registro.",
+    "ctaText": "Detecta Destacados Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

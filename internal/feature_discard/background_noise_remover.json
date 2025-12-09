@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Background Noise Remover",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Eliminate Background Noise Effortlessly",
+    "description": "Upload your audio to automatically remove distracting background noise for crystal clear sound quality.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example audio before noise removal"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example audio after noise removal"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Remove Background Noise from Your Audio",
+      "prompt": {
+        "heading": " Prompt",
+        "placeholder": "E.g., Eliminate hiss, reduce hum, clear background chatter..."
+      },
+      "upload": {
+        "heading": " Select audio file or Input URL"
+      },
+      "processButton": "Remove Noise Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Audio Files Processed"
+      },
+      {
+        "title": "99.9%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "3s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Discover how WaveSpeed AI enhances your audio quality by removing unwanted noise effortlessly.",
+    "items": [
+      {
+        "title": "Remove Hissing Sounds",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing removal of hissing sounds from audio",
+        "description": "Clearly hear what's important without annoying background hisses."
+      },
+      {
+        "title": "Minimize Background Chatter",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing reduction of background chatter",
+        "description": "Improve the overall quality of your recordings by minimizing distractions."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Advanced AI algorithms ensure superior audio clarity and ease of use.",
+    "items": [
+      {
+        "icon": "microphone-alt",
+        "title": "High Precision",
+        "description": "Expertly filters out unwanted noise while preserving the integrity of your audio."
+      },
+      {
+        "icon": "user-friends",
+        "title": "Simple to Use",
+        "description": "Upload your audio file, click a button, and enjoy clear sound without any technical hurdles."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Secure Processing",
+        "description": "Your audio is processed securely on your device, ensuring your content remains private."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three easy steps to pristine audio",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Audio",
+        "description": "Drag and drop your audio file or browse to upload. Supported formats include MP3, WAV, and AIFF."
+      },
+      {
+        "serial": "2",
+        "title": "Noise Processing",
+        "description": "Our advanced AI technology detects and removes unwanted background noise, retaining the original sound quality."
+      },
+      {
+        "serial": "3",
+        "title": "Download Cleaned Audio",
+        "description": "Preview the enhanced audio and download your noise-free track instantly."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join thousands of satisfied users enhancing their audio with WaveSpeed AI",
+    "items": [
+      {
+        "name": "Emily Carter",
+        "stars": 5,
+        "comment": "This tool transformed my podcast recordings! Background noise is gone, and the sound is so much clearer."
+      },
+      {
+        "name": "David Smith",
+        "stars": 5,
+        "comment": "As a musician, this has been a lifesaver for cleaning up my demo tracks. It's quick and effective!"
+      },
+      {
+        "name": "James Wilson",
+        "stars": 5,
+        "comment": "The security of processing my audio locally made this an easy choice. I'm thrilled with the results!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Find answers to common questions about Background Noise Remover",
+    "items": [
+      {
+        "title": "What types of noise can be removed?",
+        "description": "Our tool efficiently removes hums, hisses, background chatter, and other intrusive sounds, leaving only the desired audio layers."
+      },
+      {
+        "title": "Is the use of the feature free?",
+        "description": "Absolutely! Users get 30 free processing credits daily to enhance their audio. Additional credits can be earned through engagement activities."
+      },
+      {
+        "title": "Can I use my cleaned audio commercially?",
+        "description": "Yes! Users with any subscription plan can utilize the enhanced audio for commercial projects. Free users can only use it for personal purposes."
+      },
+      {
+        "title": "How does privacy protection work?",
+        "description": "All audio processing occurs directly in your browser, ensuring your files are never uploaded or stored elsewhere, maintaining full privacy."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Clean Up Your Audio?",
+    "description": "Try WaveSpeed AI now and experience the difference in quality. No sign-up needed.",
+    "ctaText": "Remove Noise Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

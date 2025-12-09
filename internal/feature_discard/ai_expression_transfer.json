@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Transform Facial Expressions in Images Instantly",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Transform Facial Expressions in Photos",
+    "description": "Enter your prompt to modify facial expressions in images automatically and creatively.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo before expression transfer"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example photo after expression transfer"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Transform Facial Expressions in Photos",
+      "prompt": {
+        "heading": "Prompt",
+        "placeholder": "E.g., Change the smile to a frown, add excitement to the face, make the expression more serious..."
+      },
+      "upload": {
+        "heading": "Select image or Input URL"
+      },
+      "processButton": "Transform Expressions Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "10M+",
+        "description": "Images Processed"
+      },
+      {
+        "title": "99.8%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "2.5s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Discover how WaveSpeed AI can enhance emotions in your photos with astonishing accuracy.",
+    "items": [
+      {
+        "title": "Modify Emotions",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing facial expression modification in a photo",
+        "description": "Easily alter emotions to match the desired mood of your photos"
+      },
+      {
+        "title": "Enhance Personality",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing enhancement of personality in a photo",
+        "description": "Transform expressions to bring out the character and charm of your subjects"
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Our cutting-edge technology provides effortless and stunning expression modifications.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Instant Results",
+        "description": "Achieve stunning changes in seconds, with our advanced AI models tackling complex expression transfers."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly",
+        "description": "No expertise needed. Just upload your image and let our AI enhance the expressions for you."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Privacy Oriented",
+        "description": "Your images are processed locally and securely in your browser without leaving your device."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three simple steps to modify expressions effortlessly",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Image",
+        "description": "Drag and drop your photo or browse files. Our tool supports JPG, PNG, and WebP formats."
+      },
+      {
+        "serial": "2",
+        "title": "AI Processing",
+        "description": "The AI intelligently modifies facial expressions while maintaining the integrity of the image."
+      },
+      {
+        "serial": "3",
+        "title": "Download the Result",
+        "description": "Preview the changes and download your transformed image in high quality."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join the community of enthusiastic users who enhance their photos with WaveSpeed AI",
+    "items": [
+      {
+        "name": "Emily Davis",
+        "stars": 5,
+        "comment": "I love how easily I could change my friend’s expression for our group photo. It made the moment perfect!"
+      },
+      {
+        "name": "James Smith",
+        "stars": 5,
+        "comment": "As a photographer, this tool has revolutionized the way I present emotions in my portraits."
+      },
+      {
+        "name": "Lisa Brown",
+        "stars": 5,
+        "comment": "The ability to personalize expressions is incredible! It’s my go-to for creative photo edits."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to common inquiries about expression transfer technology",
+    "items": [
+      {
+        "title": "What kinds of expressions can be modified with this feature?",
+        "description": "You can modify a broad range of expressions such as smiles, frowns, excitement, and seriousness. The AI is designed to recognize and accurately alter these emotional cues."
+      },
+      {
+        "title": "Is this tool free to use?",
+        "description": "Absolutely! Each user gets 30 free credits daily, perfect for transforming multiple images. Additional credits can be earned through engagement methods like surveys and challenges."
+      },
+      {
+        "title": "Can I use the modified images commercially?",
+        "description": "Commercial use is allowed for paid users under any subscription plan. Free-tier users can use the modified content for personal projects only."
+      },
+      {
+        "title": "How is my privacy protected?",
+        "description": "All processing happens locally in your browser, ensuring that your images are never uploaded or stored on our servers, maintaining complete privacy."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Change Expressions in Your Photos?",
+    "description": "Try WaveSpeed AI now and discover the difference. No sign-up required.",
+    "ctaText": "Transform Expressions Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

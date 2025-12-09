@@ -1,0 +1,229 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI HDR效果",
+  "meta": {
+    "description": "使用我们的AI技术增强您的图像，呈现惊艳的HDR效果。非常适合产品照片、营销活动和社交媒体。轻松变换您的视觉效果！",
+    "keywords": "AI HDR效果, 高动态范围, 图像增强, 产品摄影, 营销视觉, 社交媒体图片, 照片编辑工具, 电子商务, 视觉叙事, WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI工具",
+        "items": [
+          [
+            "AI工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即尝试"
+  },
+  "hero": {
+    "heading": "使用AI HDR效果转换您的图像",
+    "subHeading": "赋予您的照片生动的细节",
+    "description": "通过惊艳的HDR效果提升您的产品图像，突出每一个细节和颜色。非常适合引人注目的营销材料和社交媒体内容。今天就体验这种不同吧！",
+    "tryText": "现在尝试",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI HDR效果解决方案",
+    "left": {
+      "heading": "传统图像编辑挑战",
+      "items": [
+        "耗时的手动调整",
+        "需要高级编辑技能",
+        "专业服务的高成本",
+        "对最终结果的控制有限",
+        "输出质量不一致"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI HDR效果解决方案",
+      "items": [
+        "利用AI精确度在几秒钟内增强图像",
+        "无需编辑技能 - 只需上传",
+        "瞬时结果，令人惊艳的HDR增强",
+        "每次都保持一致的质量",
+        "所有用户的经济实惠按需付费模式"
+      ],
+      "tryText": "尝试"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "在4个简单步骤中轻松增强您的图像",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传图像",
+        "text": "上传您的照片以开始增强过程",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "选择HDR效果",
+        "text": "从多种HDR风格中选择应用",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "调整参数",
+        "text": "如有需要，微调亮度、对比度和饱和度",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载增强图像",
+        "text": "获取您惊艳的HDR图像，随时使用",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "生成您惊艳的图像 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无穷的可能性",
+    "description": "适用于任何视觉应用",
+    "items": [
+      "电子商务平台的产品照片",
+      "社交媒体的惊艳图像",
+      "横幅和广告等营销材料",
+      "房地产摄影增强",
+      "餐厅食品摄影",
+      "时尚拍摄和产品目录",
+      "活动摄影修饰",
+      "创意平面设计项目"
+    ]
+  },
+  "successStories": {
+    "heading": "真实的成功故事",
+    "description": "发现企业如何利用AI增强图像",
+    "items": [
+      {
+        "tag": "电子商务",
+        "heading": "提升产品列表",
+        "before": {
+          "label": "之前",
+          "text": "乏味的图像"
+        },
+        "after": {
+          "label": "之后",
+          "text": "生动的HDR图像"
+        },
+        "value": "45%",
+        "key": "转化率提高",
+        "description": "通过HDR转换我们的产品图像带来了销售的大幅增长。客户现在更加参与！"
+      },
+      {
+        "tag": "房地产",
+        "heading": "增强房产列表",
+        "before": {
+          "label": "之前",
+          "text": "平淡的照片"
+        },
+        "after": {
+          "label": "之后",
+          "text": "动态、引人注目的图像"
+        },
+        "value": "50%",
+        "key": "咨询增加",
+        "description": "使用HDR效果革新了我们展示物业的方式，导致客户兴趣和咨询增加。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI模型比较",
+    "description": "选择最适合您需求的HDR选项",
+    "items": [
+      "标准HDR：平衡增强，清晰度提高2-3倍",
+      "高级HDR：最大程度的细节和视觉冲击",
+      "快速处理时间为1-2分钟",
+      "支持多种图像格式，包括JPG和PNG",
+      "所有增强的商业使用权包含在内"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关AI工具",
+    "description": "发现更强大的图像增强工具"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要了解的一切",
+    "items": [
+      {
+        "question": "哪种类型的图像最适合HDR增强？",
+        "answer": "光线良好且主题清晰的图像能产生最佳HDR效果。您的原始图像越清晰、越详细，增强后的最终效果就越令人印象深刻。"
+      },
+      {
+        "question": "我可以自定义应用于我的图像的HDR效果吗？",
+        "answer": "可以！您可以从多种HDR风格中选择，并对亮度、对比度和色彩饱和度进行特定调整，以达到您想要的外观。"
+      },
+      {
+        "question": "我可以多快获得增强的图像？",
+        "answer": "这个过程非常快速，通常只需1-2分钟即可获得增强的HDR图像，便于您管理工作流程。"
+      },
+      {
+        "question": "我可以增强的图像数量有限制吗？",
+        "answer": "没有限制！您可以增强任意数量的图像，我们的平台支持批处理以最大化效率。"
+      },
+      {
+        "question": "增强后我拥有图像的版权吗？",
+        "answer": "绝对拥有！所有使用我们的AI HDR效果增强的图像都包含完整的商业使用权，无需额外费用或版税，使您可以自由使用它们。"
+      },
+      {
+        "question": "使用HDR增强工具的费用结构是什么？",
+        "answer": "我们提供灵活的按需付费定价模式，没有月度订阅。您只需为增强的图像付费，确保所有用户可以负担得起。"
+      },
+      {
+        "question": "增强的图像可以用于商业用途吗？",
+        "answer": "可以，所有增强的图像都具有完整的商业使用权，使您可以在产品列表、营销活动等中不受限制地使用它们。"
+      },
+      {
+        "question": "如果我有问题或疑问，有什么支持可用？",
+        "answer": "我们提供全面的支持，包括详细的文档和教程。我们的支持团队通过电子邮件和聊天提供即时帮助。"
+      },
+      {
+        "question": "是否可以恢复HDR增强所做的更改？",
+        "answer": "虽然增强的图像是最终版，但保留原始文件确保您可以在需要时随时恢复。最好保持原始图像的备份。"
+      },
+      {
+        "question": "多个用户可以同时访问该工具吗？",
+        "answer": "可以，多个用户可以同时访问该平台，非常适合团队协作工作。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备好使用AI HDR效果增强您的图像了吗？",
+    "description": "开始使用免费积分 - 现在查看惊艳视觉效果",
+    "contactUsText": "联系我们",
+    "tryText": "立即尝试 →"
+  },
+  "footer": {
+    "heading": "今天就改变您的视觉效果！",
+    "description": "体验AI HDR效果的强大，现在无需注册。",
+    "ctaText": "立即增强您的照片",
+    "text": "© 2025 WaveSpeed AI. 版权所有。"
+  }
+}

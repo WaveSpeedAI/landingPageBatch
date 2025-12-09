@@ -1,0 +1,230 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI 橡皮擦",
+  "meta": {
+    "description": "借助 AI 技术，轻松在几秒钟内从图像中删除不需要的元素。提升您的电商、社交媒体等的视觉效果。体验 WaveSpeed AI 橡皮擦工具带来的无缝编辑！",
+    "keywords": "AI 图像编辑，删除背景，照片修饰，图像增强工具，电商照片编辑，WaveSpeed 橡皮擦，AI 驱动的照片编辑器，数字资产管理，照片处理，营销视觉，清晰图像，产品摄影"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI 工具",
+        "items": [
+          [
+            "AI 工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即尝试"
+  },
+  "hero": {
+    "heading": "AI 橡皮擦",
+    "subHeading": "轻松清理您的图像",
+    "description": "立即从您的图像中删除不需要的物品，增强其质量和焦点。非常适合电商列表、社交媒体帖子等。体验 AI 带来的不同，现在就开始编辑！",
+    "tryText": "立即尝试",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI 橡皮擦解决方案",
+    "left": {
+      "heading": "传统编辑挑战",
+      "items": [
+        "手动编辑耗时且劳动密集",
+        "需要复杂的软件知识",
+        "雇用专业人员的高成本",
+        "快速更改的可及性有限",
+        "对初学者和非设计师来说令人沮丧"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI 解决方案",
+      "items": [
+        "在几秒钟内从图像中删除干扰",
+        "用户友好的界面 - 无需经验",
+        "经济实惠的灵活定价",
+        "轻松创建精美视觉效果",
+        "快速处理可进行即时编辑"
+      ],
+      "tryText": "尝试"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "通过 4 个简单步骤实现完美图像",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传图像",
+        "text": "选择您想要通过删除不需要的元素来增强的照片",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "选择要擦除的区域",
+        "text": "通过几次点击突出显示图像中您想要删除的部分",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "应用 AI 处理",
+        "text": "让我们的 AI 智能分析并擦除所选区域",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载编辑后的图像",
+        "text": "在几秒钟内保存您新清理的图像，随时可用",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "开始您的编辑之旅 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无尽的可能性",
+    "description": "适用于各种应用",
+    "items": [
+      "电商产品图像",
+      "社交媒体图形",
+      "博客和网站视觉",
+      "营销材料如传单",
+      "前后照片对比",
+      "个人和家庭照片",
+      "房地产展示",
+      "活动摄影增强"
+    ]
+  },
+  "successStories": {
+    "heading": "真实的成功故事",
+    "description": "了解企业如何通过 AI 技术改造他们的图像",
+    "items": [
+      {
+        "tag": "时尚零售",
+        "heading": "在线精品店",
+        "before": {
+          "label": "之前",
+          "text": "图像杂乱无章"
+        },
+        "after": {
+          "label": "之后",
+          "text": "干净、关注焦点的视觉效果"
+        },
+        "value": "97%",
+        "key": "视觉质量改善",
+        "description": "我们的产品图像得到了改造，社交媒体互动率提高了 50%。"
+      },
+      {
+        "tag": "房地产",
+        "heading": "房产列表",
+        "before": {
+          "label": "之前",
+          "text": "缺乏吸引力的照片"
+        },
+        "after": {
+          "label": "之后",
+          "text": "令人惊叹、清晰的展示"
+        },
+        "value": "95%",
+        "key": "吸引力增强",
+        "description": "干净的照片导致更快的销售，充分展示了房产的优势。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI 模型比较",
+    "description": "选择适合您图像编辑需求的理想方法",
+    "items": [
+      "基础编辑：快速简易地移除简单物体",
+      "高级编辑：对复杂场景进行详细编辑",
+      "背景移除：完全擦除背景",
+      "元素重建：智能填充技术实现无缝效果",
+      "多层编辑：一次处理多个编辑",
+      "速度与质量：根据您的紧急程度或需求做出选择"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关 AI 工具",
+    "description": "探索更多强大的 AI 图像编辑解决方案"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要知道的一切",
+    "items": [
+      {
+        "question": "我可以使用 AI 橡皮擦增强哪种类型的图像？",
+        "answer": "您可以上传多种类型的图像，包括 JPG、PNG 和 WebP。清晰且光线良好的图像效果最佳。"
+      },
+      {
+        "question": "AI 在删除所选区域时的准确性如何？",
+        "answer": "我们的 AI 旨在高精度识别并擦除物体。在必要时，它可以复制背景图案，以保持自然外观。"
+      },
+      {
+        "question": "如果不满意，我可以撤销更改吗？",
+        "answer": "可以！您可以轻松撤回编辑并在编辑过程中随时重新开始。"
+      },
+      {
+        "question": "使用 AI 橡皮擦需要安装任何软件吗？",
+        "answer": "不需要安装任何软件。该工具是完全基于网络的，您可以从任何有互联网连接的设备访问它。"
+      },
+      {
+        "question": "处理我的图像需要多长时间？",
+        "answer": "处理时间通常非常快，每张图像通常只需几秒钟，具体取决于编辑的复杂程度。"
+      },
+      {
+        "question": "我可以编辑多少张图像？",
+        "answer": "您可以编辑的图像数量没有限制，允许您在需要增强少量或大量图像时高效工作。"
+      },
+      {
+        "question": "我对编辑后的图像是否保留版权？",
+        "answer": "绝对可以！使用我们的工具编辑的所有图像仍然是您的财产，允许您无障碍地进行商业使用。"
+      },
+      {
+        "question": "如果遇到问题，提供什么支持？",
+        "answer": "我们提供全面的支持，包括文档、教程和响应快速的客户服务，以解答任何技术问题。"
+      },
+      {
+        "question": "如何开始使用 AI 橡皮擦？",
+        "answer": "只需上传您的图像，按照简单的步骤开始编辑。新用户可以利用初始的免费积分！"
+      },
+      {
+        "question": "使用此工具需要订阅费用吗？",
+        "answer": "不需要订阅！我们采用按需付费模式，仅为您所使用的服务付费。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备好转变您的图像了吗？",
+    "description": "从免费积分开始，看看 AI 橡皮擦的魔力！",
+    "contactUsText": "联系我们",
+    "tryText": "立即尝试 →"
+  },
+  "footer": {
+    "heading": "准备好清理您的图像了吗？",
+    "description": "今天就体验 WaveSpeed AI，提升您的视觉效果。无需注册。",
+    "ctaText": "立即移除物体",
+    "text": "© 2025 WaveSpeed AI。版权所有。"
+  }
+}

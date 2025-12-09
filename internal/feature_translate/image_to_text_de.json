@@ -1,0 +1,230 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - AI Bilder zu Text Konverter",
+  "meta": {
+    "description": "Konvertieren Sie mühelos Ihre Bilder in Text mit WaveSpeed AI. Perfekt für die Erstellung von Inhalten, Barrierefreiheit und Dokumentendigitalisierung. Steigern Sie jetzt Ihre Produktivität!",
+    "keywords": "Bild zu Text KI, OCR-Technologie, Textextraktion, Dokumentendigitalisierung, Barrierefreiheitswerkzeuge, KI zur Inhaltserstellung, KI-Textgenerator, WaveSpeed AI, E-Commerce-Lösungen, Workflow-Automatisierung, Bildanalyse"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI-Tools",
+        "items": [
+          [
+            "KI-Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "Bild zu Text",
+    "subHeading": "Konvertieren Sie Bilder sofort in bearbeitbaren Text",
+    "description": "Entfalten Sie das Potenzial Ihrer Bilder mit unserer hochmodernen KI-Technologie. Transformieren Sie gescannte Dokumente, Fotos und mehr in Sekundenschnelle in Text. Probieren Sie es heute aus und optimieren Sie Ihren Workflow!",
+    "tryText": "Jetzt konvertieren",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI Bild zu Text Lösung",
+    "left": {
+      "heading": "Traditionelle Herausforderungen",
+      "items": [
+        "Manuelle Transkription ist langsam und arbeitsintensiv",
+        "Hohe Fehlerquote beim Tippen oder Scannen",
+        "Benötigt spezialisierte Software zur Umwandlung von Bildern",
+        "Eingeschränkter Zugang zu Informationen in Bildformaten",
+        "Nicht zugänglich für Personen mit Behinderungen"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Lösung",
+      "items": [
+        "Bilder sofort mit hoher Genauigkeit in Text umwandeln",
+        "Keine manuelle Eingabe erforderlich - einfach Bilder hochladen",
+        "Schnelle Ergebnisse mit fortschrittlicher OCR-Technologie",
+        "Für alle zugänglich, Fördert Inklusion",
+        "Kostenwirksame Lösungen für die Textextraktion"
+      ],
+      "tryText": "Versuchen"
+    }
+  },
+  "howItWorks": {
+    "heading": "So funktioniert es",
+    "description": "Transformieren Sie Bilder in 4 einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Bild hochladen",
+        "text": "Wählen Sie Ihre Bilddatei für die Konvertierung aus",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Sprache auswählen",
+        "text": "Geben Sie die Sprache des Textes für bessere Genauigkeit an",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Textausgabe überprüfen",
+        "text": "Überprüfen und bearbeiten Sie den extrahierten Text nach Bedarf",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Textdatei herunterladen",
+        "text": "Erhalten Sie Ihren konvertierten Text in einem einfachen Format",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Konvertieren Sie Ihr erstes Bild →"
+  },
+  "endlessPossibilities": {
+    "heading": "Unendliche Möglichkeiten",
+    "description": "Perfekt für jede Anwendung",
+    "items": [
+      "Digitalisierung gedruckter Dokumente",
+      "Extraktion von Informationen aus Quittungen",
+      "Transkription handschriftlicher Notizen",
+      "Verbesserung der Barrierefreiheit für Sehbehinderte",
+      "Erstellung durchsuchbarer Archive von Bildern",
+      "Erleichterung von Sprachübersetzungsaufgaben",
+      "Optimierung von Dateneingabeprozessen",
+      "Automatisierung von Workflows zur Inhaltserstellung"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Entdecken Sie, wie Benutzer ihre Aufgaben mit KI vereinfachen",
+    "items": [
+      {
+        "tag": "Bildung",
+        "heading": "Universitätsnotizen",
+        "before": {
+          "label": "Vorher",
+          "text": "Zeitaufwendige manuelle Eingabe"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Schnelle digitale Notizen"
+        },
+        "value": "90%",
+        "key": "Gesparte Zeit",
+        "description": "Vorlesungsnotizen aus Bildern in wenigen Minuten transkribiert; Studenten berichten von höherer Produktivität."
+      },
+      {
+        "tag": "E-Commerce",
+        "heading": "Transformation des Produktkatalogs",
+        "before": {
+          "label": "Vorher",
+          "text": "Produkte manuell aufgelistet"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Automatisierte Textextraktion"
+        },
+        "value": "85%",
+        "key": "Effizienzsteigerung",
+        "description": "Alle Produktbeschreibungstexte aus Bildern in Rekordzeit konvertiert, was das Bestandsmanagement verbessert."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "KI-Modellvergleich",
+    "description": "Wählen Sie das richtige Modell für optimale Ergebnisse",
+    "items": [
+      "Standard OCR: Genauere Textextraktion aus klaren Bildern",
+      "Fortgeschrittene KI OCR: Bessere Leistung bei komplexen Layouts",
+      "Mehrsprachige Unterstützung für verschiedene Anwendungen",
+      "Anpassbare Ausgabeformate basierend auf Benutzerbedürfnissen",
+      "Schnelle Verarbeitung mit minimaler Wartezeit",
+      "Hohe Sicherheit für sensible Inhalte"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Verwandte KI-Tools",
+    "description": "Erkunden Sie weitere transformative KI-Lösungen für Ihre Bedürfnisse"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welche Arten von Bildern kann ich konvertieren?",
+        "answer": "Sie können eine Vielzahl von Bildern konvertieren, einschließlich gescannter Dokumente, Fotos und Screenshots. Stellen Sie sicher, dass die Bilder klar und gut beleuchtet sind, um die besten Ergebnisse zu erzielen."
+      },
+      {
+        "question": "Ist meine Daten während des Konvertierungsprozesses sicher?",
+        "answer": "Ja, alle Bilder und Daten, die auf unsere Plattform hochgeladen werden, sind verschlüsselt und geschützt, um vollständige Privatsphäre und Sicherheit zu gewährleisten."
+      },
+      {
+        "question": "Kann ich den extrahierten Text nach der Konvertierung bearbeiten?",
+        "answer": "Absolut! Sobald der Text extrahiert ist, können Sie ihn nach Bedarf überprüfen und bearbeiten, bevor Sie ihn herunterladen."
+      },
+      {
+        "question": "Welche Sprachen werden bei der Bild-zu-Text-Konvertierung unterstützt?",
+        "answer": "Wir unterstützen mehrere Sprachen. Wählen Sie einfach die gewünschte Sprache während des Upload-Prozesses für optimale Genauigkeit aus."
+      },
+      {
+        "question": "Wie genau ist die Textextraktion?",
+        "answer": "Unsere fortschrittliche OCR-Technologie erreicht hohe Genauigkeit, insbesondere bei klaren Bildern. Komplexe Bilder können unterschiedliche Ergebnisse liefern, eine Überprüfung wird empfohlen."
+      },
+      {
+        "question": "Kann ich diesen Dienst für kommerzielle Zwecke nutzen?",
+        "answer": "Ja, Sie können den extrahierten Text für kommerzielle Zwecke ohne zusätzliche Lizenzgebühren verwenden."
+      },
+      {
+        "question": "Gibt es eine Grenze für die Anzahl der Bilder, die ich konvertieren kann?",
+        "answer": "Derzeit gibt es keine Grenze für die Anzahl der Bilder, die Sie konvertieren können. Bulk-Uploads werden zur Effizienz empfohlen."
+      },
+      {
+        "question": "Welche Formate unterstützen die Ausgabedateien?",
+        "answer": "Der extrahierte Text kann in verschiedenen Formaten gespeichert werden, einschließlich TXT, PDF und DOCX, je nach Ihren Vorlieben."
+      },
+      {
+        "question": "Wie erhalte ich technischen Support, wenn ich auf Probleme stoße?",
+        "answer": "Wir bieten umfassenden Support durch Dokumentation, Tutorials und ein engagiertes Support-Team, das per E-Mail und Chat verfügbar ist."
+      },
+      {
+        "question": "Muss ich mich anmelden, um diese Funktion zu nutzen?",
+        "answer": "Es ist keine Anmeldung erforderlich, um Bilder zu konvertieren. Laden Sie einfach hoch und beginnen Sie sofort mit der Konvertierung!"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Ihre Bilder in Text umzuwandeln?",
+    "description": "Beginnen Sie noch heute mit unserer intuitiven KI und sehen Sie die Ergebnisse sofort!",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Jetzt konvertieren →"
+  },
+  "footer": {
+    "heading": "Bereit, Ihren Text freizuschalten?",
+    "description": "Probieren Sie WaveSpeed AI heute aus und erleben Sie die mühelose Konversion selbst. Keine Anmeldung erforderlich.",
+    "ctaText": "Bilder jetzt konvertieren",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

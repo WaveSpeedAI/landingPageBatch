@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Enhance Your Videos Seamlessly",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Enhance Your Videos Like Never Before",
+    "description": "Transform your videos with superior quality effortlessly. Just enter your preferences to elevate your video instantly.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example video before enhancement"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example video after enhancement"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Enhance Your Video",
+      "prompt": {
+        "heading": " Prompt",
+        "placeholder": "E.g., Increase brightness, reduce noise, enhance resolution..."
+      },
+      "upload": {
+        "heading": " Select video or Input URL"
+      },
+      "processButton": "Enhance Video Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Videos Enhanced"
+      },
+      {
+        "title": "99.9%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "3.0s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Witness the incredible changes with WaveSpeed AI, enhancing your videos for clarity and vibrancy.",
+    "items": [
+      {
+        "title": "Brighten Dark Clips",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing brightened video clips",
+        "description": "Transform dark videos into stunning visuals with enhanced brightness."
+      },
+      {
+        "title": "Reduce Video Noise",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing reduced video noise",
+        "description": "Smooth out grainy videos for a polished viewing experience."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI for Video Enhancement?",
+    "description": "Our cutting-edge technology delivers stunning results effortlessly.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Rapid Results",
+        "description": "Experience transformation within seconds. Efficient algorithms ensure fast processing."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly",
+        "description": "No expertise necessary. Upload your video and let our AI enhance it for you."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Privacy Assured",
+        "description": "Your videos are processed securely, maintaining utmost confidentiality."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three easy steps to upgraded videos",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Video",
+        "description": "Simply upload your video through drag-and-drop or file browse. Supported formats include MP4, AVI, and MOV."
+      },
+      {
+        "serial": "2",
+        "title": "AI Enhancement",
+        "description": "Our advanced algorithms intelligently enhance your video's quality while preserving original feel."
+      },
+      {
+        "serial": "3",
+        "title": "Download Enhanced Video",
+        "description": "Preview the enhancement and download your transformed video in high definition."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless users who have enhanced their videos with WaveSpeed AI",
+    "items": [
+      {
+        "name": "Emma Roberts",
+        "stars": 5,
+        "comment": "I was blown away by how much clearer my family videos became. The enhancement was seamless!"
+      },
+      {
+        "name": "David Lee",
+        "stars": 5,
+        "comment": "As a filmmaker, this tool has significantly improved my workflow by enhancing footage quickly."
+      },
+      {
+        "name": "Lily Smith",
+        "stars": 5,
+        "comment": "The privacy feature reassures me. Knowing that my videos stay on my device is a huge plus!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to common queries about our Video Enhancer",
+    "items": [
+      {
+        "title": "What types of enhancements can WaveSpeed apply to videos?",
+        "description": "WaveSpeed AI can brighten dark videos, reduce noise, enhance resolution, stabilize shaky footage, and more. Our technology intelligently analyzes and improves video quality."
+      },
+      {
+        "title": "Is WaveSpeed free to use?",
+        "description": "Absolutely! Each user gets 30 free enhancement credits daily, perfect for enhancing numerous videos. You can earn more credits through surveys or community challenges. For frequent users, we offer economical subscription plans."
+      },
+      {
+        "title": "Can I use enhanced videos for commercial purposes?",
+        "description": "Users on any paid plan can utilize enhanced content commercially. Free-tier users may use enhanced videos for personal projects but cannot commercially exploit them. For specific inquiries, please consult our Terms of Service."
+      },
+      {
+        "title": "How does your privacy protection work?",
+        "description": "WaveSpeed processes all videos directly in your browser, ensuring they are never uploaded or stored externally. Your videos remain private and secure, with all data cleared when the session ends."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Upgrade Your Videos?",
+    "description": "Try WaveSpeed AI today and witness the enhancement yourself. No signup required.",
+    "ctaText": "Enhance Video Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

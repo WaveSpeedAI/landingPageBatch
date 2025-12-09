@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Uncover Key Insights from Your Videos",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Analyze Your Videos with Precision",
+    "description": "Unlock valuable insights and analytics from your video content effortlessly. Improve engagement and decision-making today.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example video analytics dashboard before analysis"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example video analytics dashboard after analysis"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Get Insights from Your Videos",
+      "prompt": {
+        "heading": " Upload Your Video",
+        "placeholder": "E.g., Analyze the engagement metrics, extract key moments, generate highlights..."
+      },
+      "upload": {
+        "heading": " Select video file or Input URL"
+      },
+      "processButton": "Analyze Video Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "1M+",
+        "description": "Videos Processed"
+      },
+      {
+        "title": "98%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "3s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Analytics Examples",
+    "description": "Discover how WaveSpeed AI can transform your video content by delivering actionable analytics with clarity.",
+    "items": [
+      {
+        "title": "Track Engagement",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing engagement metrics analytics from a video",
+        "description": "Gain insights into viewer behavior and optimize your video content."
+      },
+      {
+        "title": "Generate Highlights",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing automatic highlight generation from a video",
+        "description": "Quickly produce dynamic highlights that capture essential moments."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI for Video Analytics?",
+    "description": "Our cutting-edge AI technology provides in-depth analytics and insights effortlessly.",
+    "items": [
+      {
+        "icon": "chart-line",
+        "title": "Real-Time Insights",
+        "description": "Receive immediate feedback on video performance, including viewer engagement and retention stats."
+      },
+      {
+        "icon": "user-check",
+        "title": "User-Friendly Interface",
+        "description": "No technical skills required. Just upload your video and access comprehensive analytics in seconds."
+      },
+      {
+        "icon": "lock",
+        "title": "Data Privacy Guaranteed",
+        "description": "Your videos are processed securely without being stored, ensuring complete confidentiality."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How AI Video Analytics Works",
+    "description": "Unlock video insights in three straightforward steps",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Video",
+        "description": "Upload your video file by dragging and dropping or browsing files. Our system supports various formats."
+      },
+      {
+        "serial": "2",
+        "title": "AI Analysis",
+        "description": "Our sophisticated AI analyzes engagement patterns, key moments, and generates actionable insights."
+      },
+      {
+        "serial": "3",
+        "title": "Access Analytics",
+        "description": "View detailed reports and download insights to enhance your content strategy."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless creators who rely on our analytics to elevate their video content",
+    "items": [
+      {
+        "name": "Emily Davis",
+        "stars": 5,
+        "comment": "This tool is a game changer! The analytics provided insights I never considered, and it's super easy to use."
+      },
+      {
+        "name": "Jason Lee",
+        "stars": 5,
+        "comment": "As a content creator, understanding my audience is critical. WaveSpeed AI helped me identify what engages viewers and improve my content."
+      },
+      {
+        "name": "Laura Smith",
+        "stars": 5,
+        "comment": "I love that my data is kept secure. WaveSpeed's privacy focus gives me confidence to use their platform."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your inquiries about our Video Analytics feature",
+    "items": [
+      {
+        "title": "What kind of analytics does WaveSpeed provide?",
+        "description": "WaveSpeed AI offers a range of analytics, including viewer retention rates, engagement metrics, key moment extraction, and highlight generation to help you understand video performance better."
+      },
+      {
+        "title": "Is it free to analyze my videos?",
+        "description": "Yes! Each user gets daily access to essential analytics for up to 30 video uploads. For higher analysis needs, we offer subscription plans with enhanced features."
+      },
+      {
+        "title": "Can I use the analytics for commercial purposes?",
+        "description": "Yes, users with any subscription plan can utilize analytics insights for commercial projects. Free-tier users can access analytics for personal use."
+      },
+      {
+        "title": "How is my data protected?",
+        "description": "WaveSpeed ensures all video uploads are processed in-browser without storage, guaranteeing your videos remain private and secure."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Unlock Video Insights?",
+    "description": "Start using WaveSpeed AI now to transform your video strategy. No signup required.",
+    "ctaText": "Analyze Video Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

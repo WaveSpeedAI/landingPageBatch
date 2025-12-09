@@ -1,0 +1,222 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Générateur de bruit IA",
+  "meta": {
+    "description": "Générez des paysages sonores personnalisés et des effets audio avec notre générateur de bruit IA. Parfait pour améliorer des vidéos, créer des paysages sonores ambiants ou enrichir du contenu en ligne. Découvrez une intégration sans faille avec vos projets.",
+    "keywords": "générateur de bruit IA, effets sonores IA, créateur audio ambiant, amélioration sonore de vidéo, paysages sonores personnalisables, automatisation audio, enrichissement de contenu vidéo, outil audio e-commerce, effets sonores Shopify, audio vidéo Amazon, amélioration sonore sur les réseaux sociaux"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Génération de bruit simplifiée",
+    "subHeading": "Créez des paysages sonores personnalisés instantanément",
+    "description": "Transformez vos projets audio avec la puissance de l'IA. Générez des motifs de bruit uniques adaptés à vos besoins en quelques secondes. Parfait pour des vidéos, des jeux et des ambiances. Commencez à améliorer votre contenu dès aujourd'hui !",
+    "tryText": "Essayez-le maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution de générateur de bruit IA WaveSpeed",
+    "left": {
+      "heading": "Défis de conception sonore traditionnelle",
+      "items": [
+        "Coûts élevés pour la production audio professionnelle",
+        "Nécessite une grande expérience en édition audio",
+        "Processus de création sonore chronophage",
+        "Options de personnalisation limitées",
+        "Pas accessible pour les petits créateurs de contenu"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed IA",
+      "items": [
+        "Générez des profils de bruit uniques en moins d'une minute",
+        "Aucune compétence en ingénierie audio requise - Il suffit de sélectionner des options",
+        "Sorties audio instantanées avec technologie alimentée par IA",
+        "Personnalisation illimitée pour des besoins spécifiques",
+        "Tarification abordable - Convient à tous les créateurs"
+      ],
+      "tryText": "Essayez"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment ça fonctionne",
+    "description": "Générez votre bruit parfait en 4 étapes simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Choisissez le type de son",
+        "text": "Sélectionnez le type de bruit ou de paysage sonore que vous souhaitez créer",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Personnalisez les paramètres",
+        "text": "Ajustez les paramètres comme le volume, la tonalité et la texture pour votre projet",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Aperçu de votre création",
+        "text": "Écoutez le son généré avant de le finaliser",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Téléchargez ou intégrez",
+        "text": "Enregistrez votre fichier de bruit ou utilisez-le directement dans votre projet",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Générez votre premier son →"
+  },
+  "endlessPossibilities": {
+    "heading": "Applications sans fin",
+    "description": "Idéal pour chaque besoin audio",
+    "items": [
+      "Musique de fond pour vidéos",
+      "Effets sonores de jeux",
+      "Sons de relaxation et de méditation",
+      "Améliorations audio pour podcasts",
+      "Paysages sonores environnementaux",
+      "Couches audio publicitaires",
+      "Audio de formation et d'instruction",
+      "Projets créatifs nécessitant des sons uniques"
+    ]
+  },
+  "successStories": {
+    "heading": "Véritables histoires de succès",
+    "description": "Découvrez comment les créateurs élèvent leurs projets avec l'IA",
+    "items": [
+      {
+        "tag": "Production médiatique",
+        "heading": "Amélioration de chaîne YouTube",
+        "before": {
+          "label": "Avant",
+          "text": "Clips audio génériques"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Bruit IA personnalisé"
+        },
+        "value": "85%",
+        "key": "Amélioration de la qualité audio",
+        "description": "L'intégration de paysages sonores sur mesure a considérablement augmenté la rétention et l'engagement du public."
+      },
+      {
+        "tag": "Industrie du jeu",
+        "heading": "Conception sonore de jeu indépendant",
+        "before": {
+          "label": "Avant",
+          "text": "Sons de stock"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Sons uniques générés par IA"
+        },
+        "value": "90%",
+        "key": "Efficacité temporelle",
+        "description": "Notre processus de conception sonore s'est accéléré, permettant des mises à jour de jeux plus rapides et une identité audio distinctive."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison de la génération de bruit IA",
+    "description": "Trouvez le modèle sonore idéal pour votre projet",
+    "items": [
+      "Bruit ambiant : son doux et continu idéal pour l'arrière-plan",
+      "Son cinématographique : profils audio épiques pour des effets dramatiques",
+      "Paysages sonores organiques : sons inspirés de la nature pour la relaxation",
+      "Bruit industriel : textures uniques et rugueuses pour des expériences urbaines",
+      "Effets interactifs : ajustements audio en temps réel pour des expériences immersives",
+      "Superposition sonore : combinez plusieurs bruits pour des mélanges personnalisés"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils IA connexes",
+    "description": "Découvrez d'autres outils audio IA pour vos projets"
+  },
+  "faq": {
+    "heading": "Questions fréquentes",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quels types de sons puis-je générer ?",
+        "answer": "Vous pouvez créer une variété de sons, y compris des bruits ambiants, des effets sonores et des profils audio uniques adaptés à vos spécifications. Que ce soit un doux bruit de pluie ou une ambiance industrielle, les options sont vastes."
+      },
+      {
+        "question": "Comment puis-je personnaliser les sons générés ?",
+        "answer": "Personnaliser les sons est simple. Après avoir sélectionné le type de son, vous pouvez ajuster des paramètres tels que le volume, la tonalité et l'intensité pour répondre à vos exigences précises, garantissant que la sortie corresponde à votre vision."
+      },
+      {
+        "question": "Puis-je utiliser ces sons commercialement ?",
+        "answer": "Oui ! Tous les sons générés par WaveSpeed sont accompagnés de droits commerciaux complets, vous permettant de les utiliser dans des vidéos, des jeux et d'autres projets sans frais supplémentaires."
+      },
+      {
+        "question": "Quels types de fichiers sont disponibles pour le téléchargement ?",
+        "answer": "Vous pouvez télécharger vos sons générés dans des formats populaires tels que MP3, WAV ou AAC, les rendant faciles à intégrer dans vos projets."
+      },
+      {
+        "question": "Y a-t-il une limite au nombre de sons que je peux créer ?",
+        "answer": "Il n'y a pas de limite ! Vous pouvez générer autant de sons uniques que vous le souhaitez, ce qui en fait une solution évolutive pour les utilisateurs."
+      },
+      {
+        "question": "Quelle rapidité puis-je générer des sons ?",
+        "answer": "La génération de sons est généralement terminée en quelques secondes, vous permettant de produire et d'utiliser de l'audio rapidement pendant vos projets."
+      },
+      {
+        "question": "Quel support est disponible en cas de problèmes ?",
+        "answer": "Notre équipe de support est ici pour vous aider ! Contactez-nous par e-mail ou par chat pour assistance. De plus, nous fournissons de la documentation et des tutoriels vidéo pour améliorer votre expérience."
+      },
+      {
+        "question": "Puis-je donner mon avis sur les sons générés ?",
+        "answer": "Absolument ! Vos retours sont précieux. Nous encourageons les utilisateurs à partager leurs expériences pour nous aider à améliorer et innover nos offres."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à générer votre son personnalisé ?",
+    "description": "Commencez à explorer avec des crédits gratuits aujourd'hui et transformez votre expérience audio !",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Essayez-le maintenant →"
+  },
+  "footer": {
+    "heading": "Prêt à élever votre son ?",
+    "description": "Découvrez WaveSpeed AI maintenant et transformez vos projets audio. Aucune inscription requise.",
+    "ctaText": "Générez du bruit maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

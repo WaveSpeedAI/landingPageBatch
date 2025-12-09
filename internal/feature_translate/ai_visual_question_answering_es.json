@@ -1,0 +1,229 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Respuesta Visual a Preguntas con IA",
+  "meta": {
+    "description": "Responde instantáneamente preguntas sobre imágenes con Respuesta Visual a Preguntas con IA. Perfecto para aumentar el compromiso del cliente, optimizar la exhibición de productos y agilizar la experiencia del usuario. ¡Pruébalo ahora!",
+    "keywords": "Respuesta Visual a Preguntas con IA, preguntas y respuestas basadas en imágenes, IA interactiva, herramienta de compromiso del cliente, optimización de exhibiciones de productos, soluciones de IA para comercio electrónico, mejora de la experiencia del usuario, inteligencia visual, interacción impulsada por IA, sistema de preguntas y respuestas dinámico"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas de IA",
+        "items": [
+          [
+            "Herramientas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Muestra",
+        "items": [
+          [
+            "Muestra",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Respuesta Visual a Preguntas",
+    "subHeading": "Revoluciona la Interacción con Tus Imágenes",
+    "description": "Genera instantáneamente respuestas a las preguntas de los usuarios sobre cualquier imagen, mejorando el compromiso y la comprensión. Aprovecha el poder de la IA para crear experiencias dinámicas e interactivas. Perfecto para comercio electrónico, marketing y educación.",
+    "tryText": "Pruébalo Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución de Respuesta Visual a Preguntas de WaveSpeed AI",
+    "left": {
+      "heading": "Desafíos de Interacción con Clientes Tradicionales",
+      "items": [
+        "Compromiso limitado con imágenes estáticas",
+        "Tiempo de respuesta lento a las consultas de los usuarios",
+        "Requiere análisis manual del contenido de la imagen",
+        "Aumenta las barreras para el soporte al cliente",
+        "Ineficiencias en la navegación de contenido"
+      ]
+    },
+    "right": {
+      "heading": "Solución WaveSpeed AI",
+      "items": [
+        "Respuestas instantáneas a las consultas de los usuarios basadas en imágenes",
+        "La IA interpreta y analiza el contenido de la imagen en tiempo real",
+        "Respuestas visuales interactivas y atractivas",
+        "Soporte al cliente optimizado con menos recursos",
+        "Accesible para todo tipo de negocios"
+      ],
+      "tryText": "Pruébalo"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "Transforma la interacción con imágenes en 4 pasos simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Subir Imagen",
+        "text": "Proporciona la imagen sobre la que los usuarios harán consultas",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Hacer Preguntas",
+        "text": "Los usuarios escriben preguntas relacionadas con la imagen",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Análisis de IA",
+        "text": "La IA procesa la imagen para formular respuestas precisas",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Recibir Respuestas",
+        "text": "Obtén respuestas instantáneas mostradas junto a la imagen",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Comienza a Responder Preguntas →"
+  },
+  "endlessPossibilities": {
+    "heading": "Posibilidades Infinita",
+    "description": "Ideal para diversas aplicaciones e industrias",
+    "items": [
+      "Soporte al cliente para plataformas de comercio electrónico",
+      "Páginas de detalles de productos mejoradas",
+      "Materiales educativos interactivos",
+      "Visitas virtuales de bienes raíces con información detallada",
+      "Explicaciones de imágenes de alimentos y recetas",
+      "Galerías de arte que proporcionan información contextual",
+      "Foros en línea con capacidad de consulta de imágenes",
+      "Sitios web de viajes que mejoran consultas sobre destinos"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Descubre cómo las marcas están transformando el compromiso con IA",
+    "items": [
+      {
+        "tag": "Comercio Electrónico",
+        "heading": "Interacción de IA en Moda",
+        "before": {
+          "label": "Antes",
+          "text": "Imagen estática, sin interacción"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Compromiso dinámico de preguntas y respuestas"
+        },
+        "value": "45%",
+        "key": "Aumento del Compromiso del Usuario",
+        "description": "Aumento del tiempo de interacción en un 40%. Los clientes ahora reciben respuestas instantáneas, mejorando enormemente la satisfacción."
+      },
+      {
+        "tag": "Educación",
+        "heading": "Aplicación de Aprendizaje Interactiva",
+        "before": {
+          "label": "Antes",
+          "text": "Acceso limitado a información"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Preguntas y respuestas en tiempo real con imágenes"
+        },
+        "value": "90%",
+        "key": "Mejora en la Comprensión",
+        "description": "Los estudiantes disfrutan de respuestas inmediatas a consultas visuales, resultando en un aumento del 60% en la retención de conocimiento."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Modelos de IA para Preguntas y Respuestas Visuales",
+    "description": "Selecciona el modelo que mejor se adapte a tus necesidades",
+    "items": [
+      "Modelo Estándar: Tiempos de respuesta rápidos, adecuado para consultas básicas",
+      "Modelo Avanzado: Análisis profundo y respuestas detalladas para imágenes complejas",
+      "Procesamiento de lenguaje natural para una interacción fácil de usar",
+      "Capacidad para manejar diversos tipos y contenidos de imágenes",
+      "Retroalimentación en tiempo real y capacidades de aprendizaje continuo"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas de IA Relacionadas",
+    "description": "Explora más capacidades de IA de vanguardia para negocios"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué tipo de preguntas se pueden responder con esta función?",
+        "answer": "El sistema puede manejar una amplia gama de consultas, desde identificación básica hasta descripciones complejas. Los usuarios pueden preguntar sobre elementos específicos dentro de la imagen, significados contextuales y más."
+      },
+      {
+        "question": "¿Qué tan precisas son las respuestas proporcionadas?",
+        "answer": "Las respuestas se generan a partir del análisis de IA, asegurando una alta tasa de precisión. Las actualizaciones continuas de aprendizaje automático mejoran la capacidad de respuesta y el detalle con el tiempo."
+      },
+      {
+        "question": "¿Puedo personalizar la IA para reconocer elementos específicos en mis imágenes?",
+        "answer": "¡Sí! Puedes entrenar la IA con conjuntos de datos específicos para mejorar el reconocimiento y la relevancia para tipos de productos o industrias particulares."
+      },
+      {
+        "question": "¿Qué industrias pueden beneficiarse de esta tecnología?",
+        "answer": "Prácticamente cualquier industria que dependa del contenido visual puede beneficiarse, especialmente comercio electrónico, educación, soporte técnico y viajes."
+      },
+      {
+        "question": "¿Cómo procesa y analiza la IA las imágenes?",
+        "answer": "Utilizando reconocimiento de imágenes avanzado y procesamiento de lenguaje natural, la IA descompone las imágenes en componentes comprensibles para generar respuestas dinámicas."
+      },
+      {
+        "question": "¿Hay soporte técnico disponible para la implementación?",
+        "answer": "¡Absolutamente! Nuestro equipo de soporte dedicado proporciona documentación completa, tutoriales y asistencia directa para todas las necesidades de implementación."
+      },
+      {
+        "question": "¿Pueden múltiples usuarios acceder a esta función simultáneamente?",
+        "answer": "¡Sí! El sistema está diseñado para múltiples usuarios concurrentes, permitiéndoles hacer consultas y recibir respuestas sin demora."
+      },
+      {
+        "question": "¿Necesito habilidades técnicas para configurarlo?",
+        "answer": "No se requiere experiencia técnica. Nuestra plataforma es fácil de usar, proporcionando soporte completo durante el proceso de configuración."
+      },
+      {
+        "question": "¿Qué tipo de imágenes funcionan mejor para este análisis de IA?",
+        "answer": "Imágenes de alta calidad con componentes claros e identificables producen los mejores resultados. Asegúrate de una adecuada iluminación y enfoque para respuestas óptimas."
+      },
+      {
+        "question": "¿Cuáles son los derechos comerciales para utilizar el contenido generado?",
+        "answer": "Todas las respuestas y el contenido derivado pueden utilizarse comercialmente, otorgando completa libertad para marketing y crecimiento empresarial."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Mejorar el Compromiso con Tus Imágenes?",
+    "description": "Comienza con créditos gratis - Experimenta respuestas instantáneas",
+    "contactUsText": "Contáctanos",
+    "tryText": "Pruébalo Ahora →"
+  },
+  "footer": {
+    "heading": "¿Listo para Mejorar la Interacción con Tus Imágenes?",
+    "description": "Prueba WaveSpeed AI ahora y experimenta la innovación. No se requiere registro.",
+    "ctaText": "Comienza a Interactuar Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

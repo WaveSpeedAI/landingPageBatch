@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Create Stunning Collages Effortlessly",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Create Stunning Collages",
+    "description": "Easily combine multiple photos into beautiful collages with our intuitive tool.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example collage layout before creation"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example collage layout after creation"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Create Your Collage",
+      "prompt": {
+        "heading": "Choose Your Photos",
+        "placeholder": "E.g., Select images to mix for your collage..."
+      },
+      "upload": {
+        "heading": " Upload Images or Input URLs"
+      },
+      "processButton": "Create Collage Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Collages Created"
+      },
+      {
+        "title": "98.7%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "3s",
+        "description": "Average Creation Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Collage Examples",
+    "description": "Discover how WaveSpeed AI's Collage Maker brings your memories together creatively.",
+    "items": [
+      {
+        "title": "Family Moments",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing a family collage",
+        "description": "Combine cherished family photos into stunning layouts"
+      },
+      {
+        "title": "Travel Adventures",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing travel collages",
+        "description": "Capture your travel memories in one beautiful mosaic"
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Our advanced AI simplifies collage creation for everyone.",
+    "items": [
+      {
+        "icon": "star",
+        "title": "Artistic Flexibility",
+        "description": "Mix and match photos easily with various layouts and design options."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly",
+        "description": "No design skills needed. Just upload your images and let the AI arrange them."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Privacy Focused",
+        "description": "Your images are processed securely in your browser, ensuring your data remains private."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three simple steps to create your collage",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Select Images",
+        "description": "Choose your favorite photos from your device to create your collage."
+      },
+      {
+        "serial": "2",
+        "title": "AI Design",
+        "description": "Our AI intelligently arranges your selected photos into a stunning collage layout."
+      },
+      {
+        "serial": "3",
+        "title": "Download & Share",
+        "description": "Preview your collage and download it in high resolution, ready to share with friends and family."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless happy users showcasing their creativity with our Collage Maker",
+    "items": [
+      {
+        "name": "Emma Roberts",
+        "stars": 5,
+        "comment": "Creating collages has never been easier! I'm thrilled with how my memories came together."
+      },
+      {
+        "name": "John Smith",
+        "stars": 5,
+        "comment": "As a teacher, I use this tool to create fun projects that my students love. Highly recommended!"
+      },
+      {
+        "name": "Sophia Lee",
+        "stars": 5,
+        "comment": "The design options are fantastic! I can easily personalize each collage to tell a story."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Find answers to common questions about the Collage Maker",
+    "items": [
+      {
+        "title": "What types of images can I use?",
+        "description": "You can upload JPG, PNG, and WebP formats. Mix images of different sizes for creative results."
+      },
+      {
+        "title": "Is there a limit to how many photos I can use?",
+        "description": "Yes, you can upload up to 20 images for each collage, allowing for an expansive layout."
+      },
+      {
+        "title": "Can I edit my collages after creation?",
+        "description": "Currently, edits can only be made before creating the collage. Re-upload for adjustments."
+      },
+      {
+        "title": "How does privacy protection work?",
+        "description": "Your photos are processed directly in your browser, ensuring they never leave your device or get stored anywhere."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Create Your Collage?",
+    "description": "Try WaveSpeed AI now and unleash your creativity. No sign-up required.",
+    "ctaText": "Create Collage Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

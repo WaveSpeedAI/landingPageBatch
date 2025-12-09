@@ -1,0 +1,230 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Effet de Zoom Lent AI",
+  "meta": {
+    "description": "Ajoutez un mouvement dynamique à vos images avec l'effet de zoom lent AI. Parfait pour le e-commerce et les réseaux sociaux, cette fonctionnalité donne vie aux visuels des produits, stimulant l'engagement et les ventes. Découvrez des animations fluides en seulement quelques clics !",
+    "keywords": "zoom lent AI, animation d'image, vidéos de produits dynamiques, marketing e-commerce, narration visuelle, contenu engageant sur les réseaux sociaux, amélioration vidéo, outil vidéo Shopify, vidéo produit Amazon, créateur d'effet de mouvement"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils AI",
+        "items": [
+          [
+            "Outils AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Effet de Zoom Lent Dynamique",
+    "subHeading": "Transformez Vos Images en Vidéos Engagantes",
+    "description": "Élevez vos photos de produits avec des animations de zoom lent accrocheuses qui captivent les spectateurs. Il vous suffit de télécharger votre image et de voir comment elle se transforme en une vidéo époustouflante avec un mouvement fluide. Parfait pour améliorer vos supports marketing et capter l'attention du public.",
+    "tryText": "Commencez à Créer Maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution d'Effet de Zoom Lent AI WaveSpeed",
+    "left": {
+      "heading": "Défis Traditionnels",
+      "items": [
+        "Créer des effets de zoom manuellement est chronophage et complexe",
+        "Nécessite des connaissances en logiciels de montage vidéo",
+        "Souvent besoin d'animations professionnelles pour des résultats de qualité",
+        "Coût élevé associé aux services vidéo professionnels",
+        "Capacité limitée à créer des variations sans coûts supplémentaires"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed AI",
+      "items": [
+        "Créez instantanément des effets de zoom lent fluides à partir de n'importe quelle image",
+        "Aucune compétence en montage requise - Téléchargez simplement et c'est parti",
+        "Un processus automatisé offre des résultats rapides à chaque fois",
+        "Générez facilement plusieurs effets de zoom sur la même image",
+        "Modèle de tarification abordable avec des options à la carte"
+      ],
+      "tryText": "Essayez-le !"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment Ça Marche",
+    "description": "Créez de superbes effets de zoom lent en 4 étapes simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Télécharger l'Image",
+        "text": "Choisissez l'image que vous souhaitez animer avec un effet de zoom lent",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Spécifiez les Détails du Zoom",
+        "text": "Optionnellement, décrivez comment vous souhaitez que le zoom apparaisse (par exemple, \"zoom doux\")",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Choisissez la Durée de la Vidéo",
+        "text": "Définissez la durée de l'effet de zoom lent en fonction de vos besoins",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Exporter la Vidéo",
+        "text": "Recevez votre vidéo HD avec l'effet de zoom lent en quelques minutes",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Créez Votre Première Vidéo d'Effet de Zoom →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilités Illimitées",
+    "description": "Boostez votre contenu sur diverses plateformes",
+    "items": [
+      "Vidéos de mise en avant de produits pour les boutiques en ligne",
+      "Publications engageantes sur les réseaux sociaux (Histoires Instagram, Reels)",
+      "Annonces promotionnelles qui captent l'attention",
+      "Récits améliorés dans le marketing numérique",
+      "Annonces immobilières mettant en valeur les caractéristiques des propriétés",
+      "Vidéos de présentation des aliments pour les restaurants",
+      "Présentations de mode qui se démarquent",
+      "Promotions d'événements utilisant des visuels captivants"
+    ]
+  },
+  "successStories": {
+    "heading": "Vraies Histoires de Succès",
+    "description": "Découvrez comment l'effet de zoom lent améliore le marketing",
+    "items": [
+      {
+        "tag": "Industrie de la Mode",
+        "heading": "Promotion de Nouvelle Collection",
+        "before": {
+          "label": "Avant",
+          "text": "Images statiques manquant d'engagement"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Vidéos de zoom dynamiques qui attirent l'attention des spectateurs"
+        },
+        "value": "75%",
+        "key": "Augmentation de l'Engagement",
+        "description": "Avec l'effet de zoom lent, nous avons constaté une augmentation de 75% de la rétention des spectateurs sur les publications de produits, entraînant des conversions de ventes plus élevées."
+      },
+      {
+        "tag": "Immobilier",
+        "heading": "Vidéos de Présentation de Propriétés",
+        "before": {
+          "label": "Avant",
+          "text": "Photographies standard uniquement"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Vidéos de zoom fascinantes qui incitent aux demandes"
+        },
+        "value": "60%",
+        "key": "Augmentation des Demandes",
+        "description": "Transformer les annonces traditionnelles avec des effets de zoom a entraîné 60% de demandes en plus concernant les propriétés."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison des Modèles AI",
+    "description": "Sélectionnez la meilleure option pour vos projets",
+    "items": [
+      "Zoom Lent Standard : Qualité de base avec transitions fluides et durée allant jusqu'à 5 secondes",
+      "Zoom Lent Amélioré : Qualité supérieure avec résolution 1080p et durée plus longue",
+      "Ajustements de mouvement flexibles pour des effets personnalisés",
+      "Idéal pour le e-commerce, les réseaux sociaux et les publicités",
+      "Temps de génération rapide et processus de téléchargement facile",
+      "Droits d'utilisation commerciale inclus sans frais supplémentaires"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils AI Connexes",
+    "description": "Découvrez d'autres fonctionnalités pour amplifier vos visuels"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quelle qualité vidéo génère l'effet de zoom lent ?",
+        "answer": "L'effet de zoom lent crée des vidéos en qualité allant jusqu'à 1080p, en fonction de la durée et des paramètres sélectionnés. Vous recevrez des animations de qualité professionnelle qui améliorent la narration visuelle."
+      },
+      {
+        "question": "Puis-je contrôler la vitesse et la direction du zoom ?",
+        "answer": "Oui ! Vous avez un contrôle total sur les paramètres de l'effet de zoom, y compris la vitesse, la direction, et le point de mise au point. Il vous suffit de décrire votre résultat souhaité, et notre IA l'exécutera."
+      },
+      {
+        "question": "Quels types d'images fonctionnent le mieux pour l'effet de zoom lent ?",
+        "answer": "Des images de produits claires et de haute résolution fonctionnent le mieux pour l'effet de zoom lent, avec des dimensions recommandées d'au moins 512x512 pixels. Les formats JPG, PNG et WebP sont pris en charge."
+      },
+      {
+        "question": "En quoi cela diffère-t-il des simples diaporamas vidéo ?",
+        "answer": "Contrairement aux diaporamas de base, l'effet de zoom lent crée un mouvement fluide qui donne vie à votre image, intégrant des transitions de zoom naturelles qui semblent organiques et engageantes."
+      },
+      {
+        "question": "Puis-je modifier l'effet de zoom après sa génération ?",
+        "answer": "Actuellement, l'effet de zoom lent généré par l'IA ne peut pas être ajusté après génération. Cependant, vous pouvez créer de nombreuses variations ou sélectionner différentes images pour générer de nouveaux effets."
+      },
+      {
+        "question": "Quel modèle de tarification s'applique à la fonctionnalité de zoom lent ?",
+        "answer": "WaveSpeed fonctionne sur un plan flexible à la carte, vous ne payez que pour les vidéos de zoom lent que vous générez, ce qui le rend économique sans coûts cachés."
+      },
+      {
+        "question": "Combien de temps faut-il pour produire les vidéos de zoom lent ?",
+        "answer": "En général, la génération d'une vidéo de zoom lent prend environ 1 à 2 minutes, permettant une création de contenu rapide, que ce soit pour le marketing ou les réseaux sociaux."
+      },
+      {
+        "question": "Quels sont les meilleurs cas d'utilisation pour l'effet de zoom lent ?",
+        "answer": "Cette fonctionnalité est parfaite pour créer des mises en avant de produits engageantes, attirer l'attention sur les réseaux sociaux, et améliorer le matériel de présentation sur toutes les plateformes."
+      },
+      {
+        "question": "Possédez-vous des droits sur les vidéos générées avec l'effet de zoom lent ?",
+        "answer": "Oui ! Toutes les vidéos créées incluent des droits d'utilisation commerciale complets, vous permettant de les utiliser sur diverses plateformes sans frais de licence supplémentaires."
+      },
+      {
+        "question": "Y a-t-il un support disponible pour utiliser cette fonctionnalité ?",
+        "answer": "WaveSpeed fournit de nombreuses ressources, y compris des guides et des tutoriels liés à l'effet de zoom lent. Notre équipe de support est toujours là pour vous aider si vous rencontrez des problèmes."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Ajouter des Zooms Dynamiques à Vos Images ?",
+    "description": "Commencez avec des crédits gratuits - Découvrez la transformation maintenant !",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Essayez-le maintenant →"
+  },
+  "footer": {
+    "heading": "Transformez Vos Visuels Aujourd'hui !",
+    "description": "Essayez l'effet de zoom lent AI et élevez votre contenu instantanément. Aucune inscription nécessaire.",
+    "ctaText": "Créez Votre Première Vidéo Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

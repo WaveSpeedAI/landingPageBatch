@@ -1,0 +1,221 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Conector de Video AI",
+  "meta": {
+    "description": "Combina perfectamente múltiples clips de video en una historia coherente y atractiva con IA. Perfecto para creadores de contenido, comercializadores y educadores que buscan mejorar sus proyectos de video sin esfuerzo. ¡Experimenta el futuro de la edición de video con WaveSpeed AI!",
+    "keywords": "conector de video IA, herramienta de edición de video, combinar clips de video, aplicación de video IA, herramienta de creación de contenido, conector de video de marketing, editor de video educativo, transiciones de video sin interrupciones, ensamblaje de video automatizado, herramienta de narración de video"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas IA",
+        "items": [
+          [
+            "Herramientas IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Muestra",
+        "items": [
+          [
+            "Muestra",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Prueba ahora"
+  },
+  "hero": {
+    "heading": "Conector de Video",
+    "subHeading": "Une Tus Videos Sin Esfuerzo",
+    "description": "Combina videos con sorprendentes transiciones y efectos en unos pocos clics. No se requiere software de edición complejo. Perfecto para creadores de contenido, comercializadores y educadores. ¡Transforma tus proyectos de video hoy!",
+    "tryText": "Une Tus Videos Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución de Conector de Video WaveSpeed AI",
+    "left": {
+      "heading": "Obstáculos de Edición Tradicional",
+      "items": [
+        "Se necesita software de edición complejo",
+        "Cortes y transiciones manuales que consumen tiempo",
+        "Requiere habilidades técnicas y experiencia",
+        "Flexibilidad creativa limitada con las transiciones",
+        "Opciones de edición freelance costosas"
+      ]
+    },
+    "right": {
+      "heading": "Solución WaveSpeed AI",
+      "items": [
+        "Une videos instantáneamente con un clic",
+        "No se requiere experiencia en edición - Solo sube los clips",
+        "Transiciones automatizadas para un acabado pulido",
+        "Posibilidades creativas infinitas con estilos y efectos",
+        "Precios asequibles por uso - Perfecto para todos"
+      ],
+      "tryText": "Prueba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "Une tus videos en 4 pasos sencillos",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Subir Videos",
+        "text": "Sube los clips de video que deseas unir",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Elegir Transiciones",
+        "text": "Selecciona las transiciones y efectos para aplicar entre los clips",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Organizar Clips",
+        "text": "Arrastra y suelta para organizar los clips en el orden deseado",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Descargar Video Final",
+        "text": "Obtén tu video fusionado en calidad HD instantáneamente",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Crea Tu Primer Video →"
+  },
+  "endlessPossibilities": {
+    "heading": "Posibilidades Infinita con el Conector de Video",
+    "description": "Ideal para cualquier estilo o propósito de contenido",
+    "items": [
+      "Vlogs e historias personales",
+      "Videos promocionales de marketing",
+      "Assemblies de tutoriales educativos",
+      "Destacados y resúmenes de eventos",
+      "Compilaciones de video para redes sociales",
+      "Demostraciones y exposiciones de productos",
+      "Videos de viajes",
+      "Contenido del canal de YouTube"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Descubre cómo los usuarios transforman su contenido de video sin esfuerzo",
+    "items": [
+      {
+        "tag": "Influencer de Redes Sociales",
+        "heading": "Destacados de Video en Instagram",
+        "before": {
+          "label": "Antes",
+          "text": "Proceso de edición tedioso"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Compilación de video sin interrupciones"
+        },
+        "value": "95%",
+        "key": "Tiempo Ahorrado",
+        "description": "Con el Conector de Video, pude crear resúmenes impactantes en minutos en lugar de horas!"
+      },
+      {
+        "tag": "E-Learning",
+        "heading": "Introducciones a Cursos en Línea",
+        "before": {
+          "label": "Antes",
+          "text": "Software complicado"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Fusión de videos fácil"
+        },
+        "value": "98%",
+        "key": "Mejora de Eficiencia",
+        "description": "Transformar materiales de curso en presentaciones de video coherentes se volvió pan comido. ¡Nuestro compromiso estudiantil se disparó!"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Métodos de Fusión de Video",
+    "description": "Selecciona el estilo de fusión perfecto para tus necesidades",
+    "items": [
+      "Fusión Estándar: Fusión rápida de clips con transiciones básicas",
+      "Fusión Suave: Ediciones sin interrupciones con transiciones graduales para resultados profesionales",
+      "Fusión Temática: Estilos únicos para videos de marca",
+      "Fusión Inteligente: Ajustes mejorados por IA basados en el género de contenido",
+      "Fusión por Lotes: Combina múltiples clips en bloque con automatización"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas IA Relacionadas",
+    "description": "Descubre más poderosas herramientas IA para la creación de video"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué formatos de video puedo usar con el Conector de Video?",
+        "answer": "Puedes subir varios formatos incluyendo MP4, MOV y AVI. Nuestra plataforma admite resoluciones estándar y mantiene la calidad durante la fusión."
+      },
+      {
+        "question": "¿Hay límites en la longitud o el tamaño del video al unir?",
+        "answer": "No hay límites estrictos, pero para un rendimiento óptimo, recomendamos clips de menos de 10 minutos y 2GB de tamaño para un procesamiento fluido."
+      },
+      {
+        "question": "¿Puedo añadir música de fondo a mis videos fusionados?",
+        "answer": "¡Sí! Puedes subir pistas de audio o elegir de nuestra biblioteca de música libre de royalties para mejorar tus videos."
+      },
+      {
+        "question": "¿Es posible editar los videos después de unirlos?",
+        "answer": "Actualmente, el Conector de Video se centra en la fusión. Para editar, puedes usar nuestra herramienta de edición después de fusionar tus clips."
+      },
+      {
+        "question": "¿Qué tan rápido es el proceso de fusión de video?",
+        "answer": "Unir videos generalmente toma solo unos minutos, dependiendo de la longitud y complejidad de los videos que se están fusionando."
+      },
+      {
+        "question": "¿Retengo la propiedad del contenido de video que creo?",
+        "answer": "¡Absolutamente! Todos los videos creados con nuestro Conector de Video son tuyos para usar, compartir y monetizar sin problemas de derechos de autor."
+      },
+      {
+        "question": "¿Puedo unir videos de diferentes fuentes?",
+        "answer": "Sí, puedes subir videos de varias fuentes, incluyendo tu dispositivo, almacenamiento en la nube y más para una fácil compilación."
+      },
+      {
+        "question": "¿Qué tipo de soporte está disponible si encuentro problemas?",
+        "answer": "Nuestro equipo de soporte está disponible a través de chat y correo electrónico. También ofrecemos guías, preguntas frecuentes y una comunidad de usuarios para ayuda adicional."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Unir Tus Videos?",
+    "description": "Empieza a usar el Conector de Video hoy - ¡Experimenta la simplicidad de una fusión sin interrupciones!",
+    "contactUsText": "Contáctanos",
+    "tryText": "Une Tus Videos Ahora →"
+  },
+  "footer": {
+    "heading": "¿Listo para Transformar Tus Proyectos de Video?",
+    "description": "Prueba WaveSpeed AI ahora y ve la diferencia por ti mismo. No se requiere registro.",
+    "ctaText": "Une Tus Videos Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

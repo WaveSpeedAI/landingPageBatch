@@ -1,0 +1,231 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI图像到视频生成器",
+  "meta": {
+    "description": "通过最先进的AI技术增强您的视频，提供惊艳的过渡效果。轻松提升参与度，吸引观众。适用于各种类型的视频内容。立即体验无缝过渡！",
+    "keywords": "过渡效果, 视频增强AI, 平滑过渡, 视频制作工具, 电子商务视频工具, 专业视频编辑, 视觉叙事, 吸引人的视频内容, WaveSpeed AI, 社交媒体视频过渡, 电影效果"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI工具",
+        "items": [
+          [
+            "AI工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即试用"
+  },
+  "hero": {
+    "heading": "转换您的视频",
+    "subHeading": "无缝且引人入胜的过渡效果",
+    "description": "利用惊艳的过渡效果提升您的视频内容，保持观众的参与并增强叙事。体验强大AI技术带来的轻松过渡魔力。非常适合电子商务、市场营销和社交媒体。",
+    "tryText": "立即试用",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI过渡效果解决方案",
+    "left": {
+      "heading": "传统视频编辑挑战",
+      "items": [
+        "过渡需要复杂的编辑软件",
+        "耗时的手动调整",
+        "有限的设计选项和创造力",
+        "雇佣专业人士的高成本",
+        "输出质量不一致"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI解决方案",
+      "items": [
+        "立即应用惊艳的过渡效果，借助AI",
+        "无需技术技能 - 只需上传影片",
+        "可自定义效果以匹配您的风格",
+        "无限创意变化",
+        "价格实惠 - 立即开始"
+      ],
+      "tryText": "试试"
+    }
+  },
+  "howItWorks": {
+    "heading": "如何运作",
+    "description": "仅需4个步骤即可增强您的视频过渡效果",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传视频",
+        "text": "上传您的原始视频或需要过渡的片段",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "选择过渡样式",
+        "text": "从多种预定义的过渡效果中选择",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "调整设置",
+        "text": "根据需要自定义过渡的持续时间和样式",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载增强的视频",
+        "text": "在几分钟内获得您的精美视频，完美无缝过渡",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "立即创建您的精彩视频 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无限创意机会",
+    "description": "非常适合各种视频项目",
+    "items": [
+      "带有平滑过渡的YouTube教程",
+      "电子商务的产品展示",
+      "Instagram和TikTok的社交媒体内容",
+      "引人注目的活动推广",
+      "引人入胜的教育视频",
+      "带有专业风格的房地产导览",
+      "带有精美过渡的企业演示",
+      "引人注目的旅行视频"
+    ]
+  },
+  "successStories": {
+    "heading": "真实成功案例",
+    "description": "见证创作者如何通过AI增强他们的视频",
+    "items": [
+      {
+        "tag": "电子商务视频",
+        "heading": "产品发布视频",
+        "before": {
+          "label": "前",
+          "text": "静态场景切换"
+        },
+        "after": {
+          "label": "后",
+          "text": "流畅的过渡贯穿其中"
+        },
+        "value": "80%",
+        "key": "参与度提升",
+        "description": "使用过渡效果，我们的产品视频的观众参与度提高了80%，使他们更长时间保持专注。"
+      },
+      {
+        "tag": "活动推广",
+        "heading": "婚礼视频集锦",
+        "before": {
+          "label": "前",
+          "text": "瞬间之间的生硬剪切"
+        },
+        "after": {
+          "label": "后",
+          "text": "美丽的过渡从一个场景流动到另一个场景"
+        },
+        "value": "75%",
+        "key": "积极反馈",
+        "description": "无缝过渡提升了我们的婚礼集锦，收获了75%的积极观众反馈。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "过渡效果对比",
+    "description": "为您的项目选择合适的过渡效果",
+    "items": [
+      "淡出：简单而优雅的平滑过渡",
+      "缩放：动态且引人入胜，完美强调",
+      "滑动：创建剪辑之间的运动和流动",
+      "渐变至颜色：独特的引入/结束样式",
+      "切换：快速直接的过渡，适合快节奏内容",
+      "波纹：为标准过渡增添创意扭曲",
+      "自定义过渡：量身定制您的独特愿景"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关AI工具",
+    "description": "探索更多强大的视频编辑AI工具"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要知道的一切",
+    "items": [
+      {
+        "question": "有哪些过渡类型可用？",
+        "answer": "我们提供多种过渡，包括淡出、滑动、缩放和自定义效果，以适应任何视频风格。"
+      },
+      {
+        "question": "我可以自定义过渡时长吗？",
+        "answer": "可以！您可以轻松调整每个过渡的持续时间，以适应视频的节奏。"
+      },
+      {
+        "question": "我可以上传什么视频格式？",
+        "answer": "我们的平台支持MP4、MOV和AVI等流行视频格式，实现无缝集成。"
+      },
+      {
+        "question": "我可以增强多少视频？",
+        "answer": "没有限制！您可以增强任意数量的视频，无需任何限制。"
+      },
+      {
+        "question": "处理视频的周转时间是多久？",
+        "answer": "通常，视频增强速度很快，过渡效果在几分钟内应用。"
+      },
+      {
+        "question": "我需要先前的视频编辑经验吗？",
+        "answer": "不需要任何经验。我们的工具旨在适合各个技能水平的用户。"
+      },
+      {
+        "question": "增强视频的商业权利属于谁？",
+        "answer": "当然！您拥有增强视频的完全权利，可以用于商业目的。"
+      },
+      {
+        "question": "提供哪些支持资源？",
+        "answer": "我们提供全面的支持，包括教程、常见问题解答和任何问题的直接支持。"
+      },
+      {
+        "question": "我可以在最终确定视频之前预览过渡吗？",
+        "answer": "可以！您可以在下载最终视频之前实时预览过渡。"
+      },
+      {
+        "question": "有哪些定价计划可供选择？",
+        "answer": "我们提供灵活的按需付费模式，您只需为所使用的过渡效果付款。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备好提升您的视频了吗？",
+    "description": "从免费信用开始 - 今天体验无缝过渡",
+    "contactUsText": "联系我们",
+    "tryText": "立即试用 →"
+  },
+  "footer": {
+    "heading": "改变您的视频编辑体验",
+    "description": "立即尝试WaveSpeed AI，亲自体验惊艳过渡的影响。无需注册。",
+    "ctaText": "立即探索过渡效果",
+    "text": "© 2025 WaveSpeed AI. 版权所有。"
+  }
+}

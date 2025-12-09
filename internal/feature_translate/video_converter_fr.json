@@ -1,0 +1,232 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Convertisseur Vidéo AI",
+  "meta": {
+    "description": "Convertissez vos vidéos sans effort dans différents formats en quelques minutes. Idéal pour les créateurs de contenu et les entreprises. Rapide, fiable et alimenté par une technologie AI avancée. Libérez vos possibilités créatives !",
+    "keywords": "convertisseur vidéo, conversion de format vidéo, outil vidéo AI, édition vidéo AI, création de contenu, traitement vidéo, conversion multimédia, sortie vidéo de haute qualité, solution vidéo e-commerce, outils vidéo marketing"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils AI",
+        "items": [
+          [
+            "Outils AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Convertisseur Vidéo",
+    "subHeading": "Transformez Vos Vidéos avec Facilité",
+    "description": "Convertissez vos vidéos en plusieurs formats en quelques minutes grâce à notre technologie AI de pointe. Expérimentez des téléchargements sans accroc et des résultats instantanés. Rationalisez votre flux de travail et créez du contenu de haute qualité sans effort.",
+    "tryText": "Commencez à Convertir Maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution de Convertisseur Vidéo WaveSpeed AI",
+    "left": {
+      "heading": "Défis Traditionnels",
+      "items": [
+        "La conversion de format vidéo est lente et fastidieuse",
+        "Nécessite plusieurs applications logicielles",
+        "Perte de qualité durant les conversions",
+        "Compatibilité de format limitée",
+        "Coûts élevés pour des outils professionnels"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed AI",
+      "items": [
+        "Convertissez des vidéos en moins de 5 minutes",
+        "Plateforme unique pour tous les formats",
+        "Maintenez une haute qualité tout au long du processus",
+        "Prend en charge d'innombrables formats vidéo",
+        "Tarification économique sans frais cachés"
+      ],
+      "tryText": "Essayer"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment Cela Fonctionne",
+    "description": "Convertissez des vidéos en 4 étapes simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Télécharger la Vidéo",
+        "text": "Sélectionnez le fichier vidéo que vous souhaitez convertir",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Choisir le Format",
+        "text": "Choisissez le format de sortie souhaité dans notre liste étendue",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Ajuster les Paramètres",
+        "text": "Optionnel : Personnalisez les paramètres de votre vidéo (ex. : résolution, débit binaire)",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Télécharger la Vidéo Convertie",
+        "text": "Recevez votre fichier vidéo converti prêt à l'emploi",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Convertissez Votre Première Vidéo →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilités Infinies",
+    "description": "Parfait pour une variété de besoins vidéo",
+    "items": [
+      "Convertir des vidéos pour des téléchargements sur les réseaux sociaux",
+      "Préparer des vidéos pour des campagnes marketing",
+      "Optimiser le contenu pour utilisation sur site web",
+      "Créer des vidéos pour des présentations et webinaires",
+      "Rationaliser le partage de vidéos sur différentes plateformes",
+      "Éditer et adapter des vidéos pour différents publics",
+      "Créer des extraits vidéo pour des annonces",
+      "Transformer des vidéos pour des projets personnels"
+    ]
+  },
+  "successStories": {
+    "heading": "Véritables Histoires de Succès",
+    "description": "Découvrez comment les utilisateurs ont optimisé leurs flux de travail vidéo",
+    "items": [
+      {
+        "tag": "Marketing Digital",
+        "heading": "Améliorations de Chaîne YouTube",
+        "before": {
+          "label": "Avant",
+          "text": "Mauvaise prise en charge des formats"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Conversions rapides et fiables"
+        },
+        "value": "95%",
+        "key": "Efficacité du Temps",
+        "description": "Notre engagement vidéo a explosé en convertissant instantanément tous nos téléchargements sans perte de qualité. Nous avons considérablement amélioré la rétention des spectateurs."
+      },
+      {
+        "tag": "Création de Contenu",
+        "heading": "Solutions de Studio d'Édition",
+        "before": {
+          "label": "Avant",
+          "text": "Logiciel obsolète"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Processus rationalisé"
+        },
+        "value": "99%",
+        "key": "Augmentation de la Productivité",
+        "description": "La transition vers WaveSpeed a réduit notre temps d'édition de moitié. Nous pouvons maintenant livrer du contenu plus rapidement et plus efficacement."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison des Formats Vidéo",
+    "description": "Sélectionnez le meilleur format pour votre projet",
+    "items": [
+      "MP4 : Soutenu par de nombreux appareils, maintient la qualité avec une taille de fichier plus petite",
+      "MOV : Idéal pour des sorties vidéo de haute qualité",
+      "AVI : Compatible avec divers lecteurs multimédias",
+      "WMV : Parfait pour les utilisateurs Windows, offre une compression élevée",
+      "MKV : Excellent pour préserver plusieurs pistes audio et sous-titres",
+      "FLV : Adapté aux applications de streaming web",
+      "GIF : À utiliser pour des animations courtes et du contenu en boucle",
+      "WebM : Optimisé pour une utilisation sur le web avec une bande passante réduite"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils AI Connexes",
+    "description": "Découvrez d'autres solutions AI efficaces pour vos besoins multimédias"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quels formats puis-je utiliser pour convertir des vidéos ?",
+        "answer": "Vous pouvez convertir des vidéos dans une large variété de formats y compris MP4, MOV, AVI, WMV, MKV, FLV, GIF et WebM, garantissant la compatibilité pour tous vos besoins."
+      },
+      {
+        "question": "La qualité de mes vidéos sera-t-elle maintenue durant la conversion ?",
+        "answer": "Oui ! Notre technologie AI assure que la qualité vidéo est préservée tout au long du processus de conversion, fournissant des résultats optimaux dans le format de votre choix."
+      },
+      {
+        "question": "Combien de temps prend la conversion ?",
+        "answer": "Le temps de conversion est généralement inférieur à 5 minutes par vidéo, vous permettant de traiter vos fichiers multimédias efficacement sans longues attentes."
+      },
+      {
+        "question": "Puis-je personnaliser les paramètres de conversion ?",
+        "answer": "Absolument ! Vous pouvez ajuster la résolution, le débit binaire et d'autres paramètres pour adapter la sortie vidéo à des exigences spécifiques."
+      },
+      {
+        "question": "Quelles tailles de fichiers puis-je télécharger pour la conversion ?",
+        "answer": "Vous pouvez télécharger des vidéos de diverses tailles jusqu'à 2 Go, ce qui s'adapte à la plupart des cas d'utilisation typiques pour le contenu vidéo."
+      },
+      {
+        "question": "Y a-t-il une limite au nombre de vidéos que je peux convertir ?",
+        "answer": "Non, vous pouvez convertir plusieurs vidéos simultanément, permettant un flux de travail efficace et une livraison rapide de vos projets."
+      },
+      {
+        "question": "Ai-je des droits commerciaux pour les vidéos converties ?",
+        "answer": "Oui ! Toutes les vidéos converties via WaveSpeed AI peuvent être utilisées commercialement sans frais de licence supplémentaires."
+      },
+      {
+        "question": "Quelles ressources de support sont disponibles si je rencontre des problèmes ?",
+        "answer": "Nous offrons une documentation extensive, des tutoriels vidéo, et une équipe de support client prête à aider par email ou chat, garantissant que vous pouvez résoudre tout problème rapidement."
+      },
+      {
+        "question": "Y a-t-il des frais cachés ou des abonnements ?",
+        "answer": "Non, nous offrons un modèle simple de paiement à l'utilisation avec une tarification transparente. Vous ne payez que pour les conversions que vous initiez."
+      },
+      {
+        "question": "Que faire si j'ai besoin de fonctionnalités supplémentaires à l'avenir ?",
+        "answer": "Notre plateforme continue d'évoluer, et des fonctionnalités supplémentaires seront disponibles régulièrement. Restez à l'écoute pour des mises à jour et améliorations."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Convertir Vos Vidéos ?",
+    "description": "Commencez avec des crédits gratuits et voyez les résultats par vous-même",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Essayez-le Maintenant →"
+  },
+  "footer": {
+    "heading": "Prêt à Changer Vos Formats Vidéo ?",
+    "description": "Essayez WaveSpeed AI maintenant et vivez des conversions vidéo fluides. Aucun enregistrement requis.",
+    "ctaText": "Commencez à Convertir Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - KI Alte Foto-Restaurierung",
+  "meta": {
+    "description": "Beleben Sie Ihre geschätzten Erinnerungen mit KI-gesteuerter alter Foto-Restaurierung. Verbessern, kolorieren und reparieren Sie Bilder mühelos. Perfekt für persönliche Archive und professionelle Restaurierungen. Erleben Sie noch heute die Transformation!",
+    "keywords": "KI alte Foto-Restaurierung, Fotoverbesserung KI, Bildreparaturtechnologie, historische Foto-Kolorierung, Gedächtniserhaltung, digitale Foto-Restaurierung, historische Foto-Verbesserung, Retro-Bild-Restaurierung, Fotografie-Werkzeuge, persönliche Archivierung"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI-Werkzeuge",
+        "items": [
+          [
+            "KI-Werkzeuge",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Schaufenster",
+        "items": [
+          [
+            "Schaufenster",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "Alte Foto-Restaurierung",
+    "subHeading": "Bringen Sie Ihre Erinnerungen zurück ins Leben",
+    "description": "Verwandeln Sie zerfallene und verblasste Fotografien mit KI-Technologie in atemberaubende, lebendige Bilder. Verbessern Sie Details, stellen Sie ursprüngliche Farben wieder her und bewahren Sie Ihre Erinnerungen mühelos. Beginnen Sie noch heute mit der Restaurierung Ihrer alten Fotos!",
+    "tryText": "Jetzt Restaurieren",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI KI Alte Foto-Restaurierung Lösung",
+    "left": {
+      "heading": "Herausforderungen der traditionellen Restaurierung",
+      "items": [
+        "Manuelle Restaurierung ist arbeitsintensiv und langsam",
+        "Hohe Kosten für professionelle Dienstleistungen (300-1000 $ pro Foto)",
+        "Begrenzte Fertigkeiten für Amateur-Restauratoren",
+        "Schwierigkeiten bei der Kolorierung oder Verbesserung stark beschädigter Bilder",
+        "Unbefriedigende Ergebnisse mit grundlegenden Software-Tools"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Lösung",
+      "items": [
+        "Sofortige Restaurierung alter Fotos in Minuten",
+        "Erschwingliches Bezahlmodell nach Nutzung",
+        "Benutzerfreundliche Oberfläche erfordert keine Fachkenntnisse",
+        "Fortschrittliche Kolorierung und Detailverbesserung",
+        "Hochwertige Ergebnisse geeignet für den Druck"
+      ],
+      "tryText": "Jetzt Restaurieren"
+    }
+  },
+  "howItWorks": {
+    "heading": "So funktioniert es",
+    "description": "Beleben Sie Ihre alten Fotos in 4 einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Foto hochladen",
+        "text": "Wählen Sie das alte Foto aus, das Sie restaurieren möchten",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Restaurierungsoptionen auswählen",
+        "text": "Wählen Sie Verbesserungsfunktionen wie Kolorierung und Detailverfeinerung",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Änderungen in der Vorschau",
+        "text": "Sehen Sie sofortige Vorschauen Ihres restaurierten Bildes",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Wiederhergestelltes Foto herunterladen",
+        "text": "Erhalten Sie Ihr hochauflösendes, wiederhergestelltes Bild bereit für das Teilen oder den Druck",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Restaurieren Sie Ihr erstes Foto →"
+  },
+  "endlessPossibilities": {
+    "heading": "Unendliche Restaurierungsmöglichkeiten",
+    "description": "Perfekt für jede geschätzte Erinnerung oder jedes Projekt",
+    "items": [
+      "Familienerbstücke und Archive",
+      "Historische Fotografien für Museen",
+      "Hochzeits- und Veranstaltungs-Erinnerungen",
+      "Restaurierung für Alben und Scrapbooks",
+      "Künstlerische Projekte, die vintage Ästhetik erfordern",
+      "Verbesserte Porträts für persönliche Ausstellungen",
+      "Geschenkideen mit restaurierten Familienfotos",
+      "Digitale Erhaltung von alternden Bildern"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Sehen Sie, wie Menschen ihre alten Erinnerungen mit KI revitalisieren",
+    "items": [
+      {
+        "tag": "Familienerinnerungen",
+        "heading": "Hochzeitsfoto der Großeltern",
+        "before": {
+          "label": "Vorher",
+          "text": "Verblasst und beschädigt"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Lebendige Restaurierung"
+        },
+        "value": "95%",
+        "key": "Zufriedenheitsrate",
+        "description": "Ein geschätztes Hochzeitsfoto, das fast nicht erkennbar war, in ein schönes Erinnerungsstück verwandelt."
+      },
+      {
+        "tag": "Historische Aufzeichnung",
+        "heading": "Restaurierung von Museumarchiven",
+        "before": {
+          "label": "Vorher",
+          "text": "Abgenutzt und unleserlich"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Wiederhergestellt und klar"
+        },
+        "value": "98%",
+        "key": "Qualitätsverbesserung",
+        "description": "Erfolgreiche Restaurierung wichtiger Dokumente, die sicherstellen, dass historische Aufzeichnungen für zukünftige Generationen zugänglich bleiben."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Vergleich der Restaurierungsmethoden",
+    "description": "Wählen Sie die beste Restaurierungsmethode für Ihre Bedürfnisse",
+    "items": [
+      "KI-Kolorierung: Automatische Vintage-Farb Anwendung für realistische Optik",
+      "Detailrestaurierung: Fortschrittliche Algorithmen stellen komplexe Details wieder her",
+      "Standardverbesserung: Schnelle Lösungen für grundlegende Reparaturen",
+      "Hochauflösende Ausgabe: Qualität geeignet für große Drucke",
+      "Benutzerfreundliche Steuerung: Einfach für alle Fähigkeitsstufen"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Verwandte KI-Werkzeuge",
+    "description": "Entdecken Sie weitere leistungsstarke KI-Werkzeuge zur Fotoverbesserung"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welche Qualität kann ich von restaurierten Fotos erwarten?",
+        "answer": "Erwarten Sie eine ausgezeichnete Qualität mit Verbesserungen, die sowohl die Farbgenauigkeit als auch die Detailerhaltung verbessern. Unsere KI-Lösung glänzt bei der Reparatur und Revitalisierung alter Bilder und bietet ein professionelles Finish, das das Wesen Ihrer Erinnerungen einfängt."
+      },
+      {
+        "question": "Kann ich stark beschädigte Fotos restaurieren?",
+        "answer": "Ja! Unsere KI-Technologie ist darauf ausgelegt, eine Vielzahl von Schäden zu bewältigen, von geringfügigem Verschleiß bis zu erheblichen Verschlechterungen. Sie prognostiziert intelligent Farben und stellt Details wieder her, um die bestmöglichen Ergebnisse zu gewährleisten."
+      },
+      {
+        "question": "Welche Formate kann ich für die Foto-Restaurierung verwenden?",
+        "answer": "Wir unterstützen verschiedene Bildformate, einschließlich JPG, PNG und TIFF. Stellen Sie sicher, dass Ihr Bild eine angemessene Auflösung für optimale Restaurierungsergebnisse hat."
+      },
+      {
+        "question": "Ist der Restaurierungsprozess umkehrbar?",
+        "answer": "Sobald Sie das wiederhergestellte Bild herunterladen, ist es eine endgültige Ausgabe. Wir empfehlen, Ihre Originaldateien sicher aufzubewahren, um sicherzustellen, dass Sie immer zu ihnen zurückkehren können, wenn dies erforderlich ist."
+      },
+      {
+        "question": "Wie lange dauert die Restaurierung?",
+        "answer": "Die meisten Restaurierungen werden in nur wenigen Minuten abgeschlossen, je nach Komplexität des Bildes und den ausgewählten Optionen."
+      },
+      {
+        "question": "Was sind die Preisoptionen für die Foto-Restaurierung?",
+        "answer": "Unsere Preisgestaltung ist flexibel mit einem Bezahlmodell nach Nutzung. Sie zahlen nur für die Bilder, die Sie restaurieren, und die Kosten können je nach den ausgewählten Restaurierungsfunktionen variieren."
+      },
+      {
+        "question": "Kann ich mehrere Fotos gleichzeitig restaurieren?",
+        "answer": "Ja! Sie können mehrere Bilder gleichzeitig im Batch hochladen und restaurieren für eine effiziente Verarbeitung."
+      },
+      {
+        "question": "Behalte ich die Rechte an den restaurierten Bildern?",
+        "answer": "Absolut! Alle restaurierten Bilder werden mit vollständigen kommerziellen Nutzungsrechten geliefert, die es Ihnen ermöglichen, sie ohne zusätzliche Gebühren für persönliche oder professionelle Zwecke zu verwenden."
+      },
+      {
+        "question": "Welche Unterstützung ist verfügbar, wenn ich Probleme habe?",
+        "answer": "Wir bieten umfassenden Support, einschließlich detaillierter FAQs, Video-Tutorials und Kundendienst, um bei Fragen oder technischen Problemen zu helfen."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Ihre alten Fotos zu restaurieren?",
+    "description": "Beginnen Sie jetzt mit kostenlosen Credits und sehen Sie die Magie aus erster Hand!",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Jetzt restaurieren →"
+  },
+  "footer": {
+    "heading": "Bereit, Ihre Fotos zu verwandeln?",
+    "description": "Versuchen Sie WaveSpeed AI jetzt und sehen Sie den Unterschied selbst. Keine Anmeldung erforderlich.",
+    "ctaText": "Meine Fotos restaurieren",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

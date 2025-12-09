@@ -1,0 +1,229 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Eliminador de Palabras de Relleno de IA",
+  "meta": {
+    "description": "Elimina sin esfuerzo las palabras de relleno innecesarias de tu texto con WaveSpeed AI. Mejora la claridad y profesionalismo en tu escritura, ideal para comunicaciones empresariales, creación de contenido y más. Experimenta una edición fluida y eleva tu contenido al instante.",
+    "keywords": "eliminador de palabras de relleno, editor de texto de IA, mejorar la claridad de la escritura, herramienta de optimización de contenido, ayuda para escritura profesional, mejora de comunicación empresarial, herramienta de claridad de texto, asistente de escritura de IA, claridad en la comunicación, herramienta de creación de contenido"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas de IA",
+        "items": [
+          [
+            "Herramientas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrina",
+        "items": [
+          [
+            "Vitrina",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Eliminador de Palabras de Relleno",
+    "subHeading": "Mejora tus Textos Eliminando Palabras de Relleno",
+    "description": "Di adiós a las palabras de relleno innecesarias que desordenan tu escritura. Nuestra tecnología de IA analiza y refina tu texto, asegurando que cada palabra cuente. Optimiza tu comunicación y mejora el impacto de tu mensaje. ¡Comienza a transformar tu escritura ahora!",
+    "tryText": "Elimina las Palabras de Relleno Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución de Eliminador de Palabras de Relleno WaveSpeed AI",
+    "left": {
+      "heading": "Desafíos Comunes de Escritura",
+      "items": [
+        "Texto lleno de palabras innecesarias",
+        "Falta de claridad y directividad",
+        "Menor compromiso de los lectores",
+        "Proceso de edición que consume tiempo",
+        "Calidad de escritura inconsistente"
+      ]
+    },
+    "right": {
+      "heading": "Solución WaveSpeed AI",
+      "items": [
+        "Identificar y eliminar instantáneamente palabras de relleno",
+        "Mejorar la claridad y legibilidad en segundos",
+        "Aumentar el compromiso y la comunicación",
+        "Experiencia de edición sin esfuerzo",
+        "Asequible y accesible para todos los escritores"
+      ],
+      "tryText": "Prueba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "Refina tu escritura en tres pasos sin esfuerzo",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Pegar Texto",
+        "text": "Simplemente copia y pega tu texto en la herramienta",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Analizar Contenido",
+        "text": "La IA analiza tu escritura para encontrar palabras de relleno",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Revisar Sugerencias",
+        "text": "Revisa las ediciones sugeridas para mejorar la legibilidad",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Copiar Texto Pulido",
+        "text": "Obtén tu texto revisado listo para usar en cualquier contexto",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Refina Tu Escritura Ahora →"
+  },
+  "endlessPossibilities": {
+    "heading": "Posibilidades Infinitas",
+    "description": "Perfecto para todo tipo de escritura",
+    "items": [
+      "Correos electrónicos y informes empresariales",
+      "Entradas de blog y artículos",
+      "Ensayos y tareas escolares",
+      "Contenido de redes sociales",
+      "Materiales de marketing y anuncios",
+      "Presentaciones profesionales",
+      "Escritura creativa",
+      "Guiones y diálogos"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Ve cómo nuestra herramienta mejora la calidad de la escritura",
+    "items": [
+      {
+        "tag": "Creación de Contenido",
+        "heading": "Aumento del Compromiso en el Blog",
+        "before": {
+          "label": "Antes",
+          "text": "Escritura desordenada"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Claro y conciso"
+        },
+        "value": "50%",
+        "key": "Aumento de Compromiso",
+        "description": "Con publicaciones más claras, los comentarios del blog aumentaron significativamente, generando más tráfico."
+      },
+      {
+        "tag": "Comunicaciones Corporativas",
+        "heading": "Comunicación por Correo Electrónico Eficiente",
+        "before": {
+          "label": "Antes",
+          "text": "Correos electrónicos verbosos"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Directo e impactante"
+        },
+        "value": "40%",
+        "key": "Tiempo Ahorrado",
+        "description": "Los equipos experimentaron respuestas más rápidas, gracias a las estructuras de correos electrónicos concisas."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Herramientas de IA",
+    "description": "Entiende nuestras capacidades únicas",
+    "items": [
+      "Análisis en tiempo real para ediciones inmediatas",
+      "Filtros personalizables para diferentes estilos de escritura",
+      "Perspectivas de IA sobre métricas de compromiso",
+      "Interfaz amigable para navegación sin esfuerzo",
+      "Soporte para múltiples idiomas con ajustes contextuales"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas de IA Relacionadas",
+    "description": "Explora más herramientas de escritura potentes para un mejor contenido"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué tipos de palabras de relleno puedes eliminar?",
+        "answer": "La herramienta puede identificar y sugerir eliminaciones para palabras de relleno comunes como 'solo', 'muy', 'realmente' y otras que aportan poco significado."
+      },
+      {
+        "question": "¿Puede esta herramienta mejorar mi estilo de escritura?",
+        "answer": "¡Sí! Al eliminar palabras innecesarias, tu estilo de escritura se vuelve más claro y directo, lo que mejora en gran medida la legibilidad."
+      },
+      {
+        "question": "¿Es adecuada para documentos profesionales?",
+        "answer": "¡Absolutamente! Está diseñada para mejorar la claridad en todo tipo de escritura profesional, ayudándote a transmitir tu mensaje de manera más efectiva."
+      },
+      {
+        "question": "¿La herramienta funcionará con diferentes idiomas?",
+        "answer": "¡Sí! La IA ha sido optimizada para trabajar con múltiples idiomas y puede adaptarse a varios estilos y contextos de escritura."
+      },
+      {
+        "question": "¿Necesito registrarme para usarla?",
+        "answer": "No se requiere registro para comenzar. Puedes pegar tu texto y comenzar a mejorarlo de inmediato."
+      },
+      {
+        "question": "¿Cuánto tiempo tarda en analizar mi texto?",
+        "answer": "El análisis de texto se realiza en segundos, lo que te permite refinar rápidamente tu escritura sin complicaciones."
+      },
+      {
+        "question": "¿Puedo usarlo para escritura creativa?",
+        "answer": "¡Sí! Es perfecto para cualquier forma de escritura, incluidas las obras creativas, asegurando que tu voz permanezca clara e impactante."
+      },
+      {
+        "question": "¿Esta herramienta cambiará mi voz o tono?",
+        "answer": "No, la herramienta se centra en eliminar palabras innecesarias mientras mantiene tu voz y tono únicos en el contenido."
+      },
+      {
+        "question": "¿El servicio es gratuito para usar?",
+        "answer": "Ofrecemos créditos gratuitos para nuevos usuarios para probar el servicio, con opciones asequibles para uso continuado."
+      },
+      {
+        "question": "¿Qué pasa si tengo mucho texto para editar?",
+        "answer": "Puedes procesar fácilmente textos más largos en lotes para optimizar tu flujo de trabajo de edición."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Mejorar tu Escritura?",
+    "description": "Comienza con créditos gratuitos - Experimenta una edición fluida ahora",
+    "contactUsText": "Contáctanos",
+    "tryText": "Elimina las Palabras de Relleno Ahora →"
+  },
+  "footer": {
+    "heading": "¿Listo para Transformar tu Escritura?",
+    "description": "Prueba WaveSpeed AI ahora y ve la diferencia por ti mismo. No se requiere registro.",
+    "ctaText": "Elimina las Palabras de Relleno Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

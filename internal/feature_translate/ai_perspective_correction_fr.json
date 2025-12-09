@@ -1,0 +1,226 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Correction de Perspective par IA",
+  "meta": {
+    "description": "Élevez vos images avec la Correction de Perspective par IA, transformant des visuels déformés en compositions parfaitement alignées. Idéal pour le commerce électronique, la photographie et la création de contenu. Découvrez des corrections sans faille avec WaveSpeed.",
+    "keywords": "correction de perspective IA, alignement d'image, amélioration de photo, photographie e-commerce, suppression de distorsion, outil d'ajustement d'image, création de contenu, outils de photographie, amélioration visuelle, éditeur d'image en ligne"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Images Parfaitement Alignées",
+    "subHeading": "Transformez des Photos Déformées en Visuels Éblouissants",
+    "description": "Corrigez rapidement les distorsions de perspective dans vos images, assurant qu'elles aient l'air impeccables et professionnelles. Découvrez une amélioration d'image sans effort grâce à notre technologie IA avancée. Essayez-le maintenant pour voir la transformation par vous-même !",
+    "tryText": "Essayez-le maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution de Correction de Perspective par IA WaveSpeed",
+    "left": {
+      "heading": "Problèmes d'Image Courants",
+      "items": [
+        "Images avec angles inclinés et distorsions",
+        "Proportions d'objets inconsistantes",
+        "Difficultés à obtenir une symétrie esthétique",
+        "Corrections manuelles longues",
+        "Coûts élevés liés à l'édition professionnelle"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed IA",
+      "items": [
+        "Corrigez instantanément les distorsions de perspective en quelques secondes",
+        "Téléversements simples avec ajustements automatiques",
+        "Obtenez des résultats de qualité professionnelle sans effort",
+        "Corrections et variations illimitées à portée de main",
+        "Modèle de paiement à l'utilisation abordable pour tous"
+      ],
+      "tryText": "Essayez"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment Ça Marche",
+    "description": "Améliorez vos images en 4 étapes faciles",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Téléversez Votre Image",
+        "text": "Choisissez l'image qui nécessite une correction de perspective",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Sélectionnez le Type de Correction",
+        "text": "Choisissez le type d'ajustement de perspective dont vous avez besoin",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Personnalisez les Ajustements",
+        "text": "Ajustez les paramètres pour un alignement parfait",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Téléchargez l'Image Améliorée",
+        "text": "Recevez votre image corrigée professionnellement en quelques instants",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Corrigez Votre Première Image →"
+  },
+  "endlessPossibilities": {
+    "heading": "Applications Illimitées",
+    "description": "Transformez des images pour chaque usage",
+    "items": [
+      "Images de produits pour les annonces e-commerce",
+      "Améliorations de la photographie architecturale",
+      "Visites virtuelles de biens immobiliers",
+      "Matériel marketing et publicités",
+      "Contenu et campagnes sur les réseaux sociaux",
+      "Améliorations de portfolio pour les photographes",
+      "Photos d'événements et d'occasions",
+      "Retouches d'image générales pour les professionnels"
+    ]
+  },
+  "successStories": {
+    "heading": "Véritables Histoires de Succès",
+    "description": "Découvrez comment les utilisateurs améliorent leurs visuels avec l'IA",
+    "items": [
+      {
+        "tag": "E-commerce",
+        "heading": "Annonces d'Images de Magasin En Ligne",
+        "before": {
+          "label": "Avant",
+          "text": "Images déformées"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Parfaitement alignées"
+        },
+        "value": "95%",
+        "key": "Amélioration de la Qualité Visuelle",
+        "description": "Nos images de produit avaient un aspect plus professionnel, ce qui a entraîné une augmentation de 30 % des taux de conversion."
+      },
+      {
+        "tag": "Photographie",
+        "heading": "Photographe Freelance",
+        "before": {
+          "label": "Avant",
+          "text": "Édition longue"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Ajustements rapides"
+        },
+        "value": "90%",
+        "key": "Temps Économisé",
+        "description": "J'ai considérablement réduit mon temps d'édition, ce qui m'a permis de prendre plus de clients."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison de Précision de Correction par IA",
+    "description": "Choisissez la bonne méthode de correction pour vos besoins",
+    "items": [
+      "Correction Standard : Ajustements de base pour des distorsions mineures",
+      "Correction Avancée : Alignement de précision pour des images de qualité professionnelle",
+      "Correction par Lot pour plusieurs images à la fois",
+      "Aperçu en temps réel des ajustements",
+      "Interface conviviale pour des corrections faciles",
+      "Sortie haute résolution sans perte de qualité"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils IA Connexes",
+    "description": "Découvrez d'autres outils innovants pour l'amélioration d'image"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quels formats d'image sont pris en charge pour la correction de perspective ?",
+        "answer": "Nous prenons en charge les formats JPG, PNG et WebP. Pour de meilleurs résultats, utilisez des images haute résolution qui sont claires et bien éclairées."
+      },
+      {
+        "question": "À quel point les ajustements sont-ils personnalisables ?",
+        "answer": "Notre outil permet des ajustements précis pour garantir que vos images soient parfaitement alignées selon vos préférences."
+      },
+      {
+        "question": "Puis-je corriger plusieurs images à la fois ?",
+        "answer": "Oui ! Utilisez notre fonction de traitement par lot pour corriger la perspective de plusieurs images simultanément."
+      },
+      {
+        "question": "Comment l'IA garantit-elle la qualité après correction ?",
+        "answer": "L'IA maintient la qualité d'image originale tout en appliquant des corrections, préservant tous les détails essentiels."
+      },
+      {
+        "question": "Y a-t-il des limites au nombre de corrections que je peux effectuer ?",
+        "answer": "Non, vous pouvez effectuer autant de corrections que nécessaire sans aucune limite dans le cadre du modèle de paiement à l'utilisation."
+      },
+      {
+        "question": "Vais-je conserver tous les droits sur les images après correction ?",
+        "answer": "Oui, toutes les images corrigées par notre service incluent des droits commerciaux complets sans frais supplémentaires."
+      },
+      {
+        "question": "Combien de temps puis-je attendre pour voir mes images corrigées ?",
+        "answer": "La plupart des corrections sont traitées en quelques secondes, selon la complexité des ajustements effectués."
+      },
+      {
+        "question": "Que faire si j'ai besoin d'aide pour utiliser l'outil ?",
+        "answer": "Nous fournissons un support complet, y compris des guides détaillés et une équipe de support réactive disponible par chat et par e-mail."
+      },
+      {
+        "question": "Puis-je améliorer encore les images corrigées ?",
+        "answer": "Absolument ! Vous pouvez utiliser d'autres outils pour des améliorations supplémentaires après la correction de perspective."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Parfaire Vos Images ?",
+    "description": "Commencez avec des crédits gratuits et transformez vos visuels aujourd'hui !",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Essayez-le maintenant →"
+  },
+  "footer": {
+    "heading": "Prêt à Améliorer Vos Photos ?",
+    "description": "Essayez WaveSpeed AI maintenant et vivez la différence instantanément. Aucun enregistrement requis.",
+    "ctaText": "Améliorez Vos Images Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

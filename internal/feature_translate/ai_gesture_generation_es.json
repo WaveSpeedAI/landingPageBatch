@@ -1,0 +1,221 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Generación de Gestos con IA",
+  "meta": {
+    "description": "Eleva tus presentaciones de productos con la Generación de Gestos con IA. Transforma imágenes estáticas en gestos animados cautivadores, perfectos para comercio electrónico y marketing. Experimenta una creatividad inigualable con WaveSpeed.",
+    "keywords": "generación de gestos con IA, gestos de productos animados, herramientas de animación para comercio electrónico, soluciones de marketing con IA, animación de exhibiciones de productos, características de video interactivas, herramientas de engagement de usuarios, animaciones en redes sociales, presentaciones impulsadas por IA, WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas de IA",
+        "items": [
+          [
+            "Herramientas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Exhibición",
+        "items": [
+          [
+            "Exhibición",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Imagen Estática a Gestos Animados",
+    "subHeading": "Dale Vida a Tus Productos con Animación de Gestos",
+    "description": "Convierte instantáneamente las imágenes de tus productos en gestos animados que cautivan y comprometen a tu audiencia. No se necesita software complicado. Simplemente sube y deja que la IA haga la magia. Descubre el poder de la animación con WaveSpeed.",
+    "tryText": "Empieza Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución de Generación de Gestos con IA de WaveSpeed AI",
+    "left": {
+      "heading": "Desafíos de la Animación Tradicional",
+      "items": [
+        "La animación a menudo requiere amplios recursos y tiempo",
+        "Necesidad de software o habilidades especializadas",
+        "Altos costos de producción y largos plazos",
+        "Creatividad limitada debido a definiciones estáticas",
+        "Inaccesible para pequeñas empresas o startups"
+      ]
+    },
+    "right": {
+      "heading": "Solución de WaveSpeedAI",
+      "items": [
+        "Genera gestos animados en segundos",
+        "No es necesario tener experiencia en software - Carga fácil",
+        "Animaciones instantáneas impulsadas por IA avanzada",
+        "Expresión creativa ilimitada y variaciones",
+        "Modelo de pago por uso asequible para todos"
+      ],
+      "tryText": "Pruébalo"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "Transforma tus imágenes estáticas en gestos animados en 4 simples pasos",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Subir Imagen",
+        "text": "Sube tu imagen mostrando el producto o servicio",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Definir Gestos",
+        "text": "Describe el gesto deseado (por ejemplo, \"saludar suavemente\" o \"rebotar\")",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Elegir Estilo de Animación",
+        "text": "Selecciona entre varios estilos para que coincidan con la vibra de tu marca",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Previsualizar Animación",
+        "text": "Mira cómo la animación cobra vida en tiempo real",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Anima Tu Primera Imagen →"
+  },
+  "endlessPossibilities": {
+    "heading": "Posibilidades de Animación Infinita",
+    "description": "Perfecto para mejorar presentaciones en diversas industrias",
+    "items": [
+      "Demostraciones de productos para comercio electrónico",
+      "Publicaciones interactivas en redes sociales",
+      "Tutoriales y guías animadas",
+      "Campañas de marketing atractivas",
+      "Exhibiciones animadas de antes/después",
+      "Promociones y anuncios de eventos",
+      "Animaciones de lookbook de moda",
+      "Narración dinámica para marcas"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Descubre cómo las marcas están mejorando el engagement con IA",
+    "items": [
+      {
+        "tag": "Comercio Electrónico",
+        "heading": "Animación de Minorista de Moda",
+        "before": {
+          "label": "Antes",
+          "text": "Imágenes estáticas"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Gestos animados"
+        },
+        "value": "150%",
+        "key": "Aumento de Engagement",
+        "description": "Nuestras páginas de productos se transformaron. Los gestos aumentaron la interacción de los usuarios y el tiempo pasado en el sitio en un 150%."
+      },
+      {
+        "tag": "Gadgets Tecnológicos",
+        "heading": "Animación de Exhibición de Gadgets",
+        "before": {
+          "label": "Antes",
+          "text": "Visuales estancados"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Animaciones dinámicas"
+        },
+        "value": "200%",
+        "key": "Mejora de Conversión",
+        "description": "Los gestos animados aumentaron significativamente las conversiones, permitiéndonos mostrar características de manera interactiva."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Estilos de Animación IA",
+    "description": "Elige el estilo de animación adecuado para tus necesidades",
+    "items": [
+      "Gestos Fluidos: Movimientos naturales con física realista",
+      "Animaciones Rápidas: Gestos rápidos y ágiles para alto engagement",
+      "Estilos Diversos: Desde facilidad de uso hasta animaciones avanzadas",
+      "Retroalimentación Interactiva: Gestos que reaccionan a las audiencias",
+      "Animaciones desde simples hasta complejas adecuadas para cualquier contexto"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas de IA Relacionadas",
+    "description": "Explora soluciones de IA adicionales y poderosas para tu negocio"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué tipo de imágenes funcionan mejor para la generación de gestos?",
+        "answer": "Las imágenes de productos de alta calidad con fondos claros producen los mejores resultados. Cuanto más precisas y bien iluminadas, mejor será el gesto animado."
+      },
+      {
+        "question": "¿Puedo personalizar los gestos y animaciones?",
+        "answer": "¡Absolutamente! Puedes describir cómo deseas que se vea la animación, adaptándola específicamente a tus necesidades de producto y marca."
+      },
+      {
+        "question": "¿Es necesaria experiencia previa en animación?",
+        "answer": "No se requiere experiencia previa. Nuestra interfaz intuitiva facilita que cualquiera pueda crear animaciones impresionantes."
+      },
+      {
+        "question": "¿Con qué rapidez puedo generar gestos animados?",
+        "answer": "El tiempo de generación es rápido, típicamente en segundos, lo que permite flujos de trabajo eficientes y rápidas iteraciones."
+      },
+      {
+        "question": "¿Las animaciones generadas tienen derechos comerciales?",
+        "answer": "¡Sí! Retienes todos los derechos comerciales sobre las animaciones creadas, lo que te permite usarlas en varias plataformas sin restricciones."
+      },
+      {
+        "question": "¿En qué formatos vienen las animaciones?",
+        "answer": "Las animaciones se pueden exportar en múltiples formatos adecuados para web, redes sociales y otras plataformas digitales."
+      },
+      {
+        "question": "¿Puedo crear múltiples gestos a la vez?",
+        "answer": "Sí, nuestra plataforma soporta procesamiento por lotes, lo que te permite diseñar y generar múltiples gestos animados simultáneamente."
+      },
+      {
+        "question": "¿Qué servicios de soporte están disponibles?",
+        "answer": "Ofrecemos documentación completa, tutoriales y un equipo de soporte para asistir con cualquier problema técnico o pregunta."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Animar Tus Imágenes?",
+    "description": "Comienza a usar tus créditos gratuitos hoy y observa cómo se despliega la magia de la animación",
+    "contactUsText": "Contáctanos",
+    "tryText": "Empieza Ahora →"
+  },
+  "footer": {
+    "heading": "¿Listo para Mejorar Tus Presentaciones?",
+    "description": "Prueba WaveSpeed AI y presencia la transformación hoy. No se necesita registro.",
+    "ctaText": "Generar Gestos Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

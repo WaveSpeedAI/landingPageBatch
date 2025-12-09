@@ -1,0 +1,230 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Borrador AI",
+  "meta": {
+    "description": "Elimina sin esfuerzo elementos no deseados de tus imágenes en segundos con tecnología AI. Mejora tus visuales para comercio electrónico, redes sociales y más. ¡Experimenta una edición sin costuras con la herramienta Borrador de WaveSpeed AI!",
+    "keywords": "edición de imagen AI, eliminar fondo, retoque fotográfico, herramienta de mejora de imágenes, edición de fotos para comercio electrónico, Borrador WaveSpeed, editor de fotos potenciado por AI, gestión de activos digitales, manipulación fotográfica, visuales de marketing, imágenes limpias, fotografía de productos"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas AI",
+        "items": [
+          [
+            "Herramientas AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Galería",
+        "items": [
+          [
+            "Galería",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Borrador AI",
+    "subHeading": "Limpia tus Imágenes sin Esfuerzo",
+    "description": "Elimina instantáneamente elementos no deseados de tus imágenes, mejorando su calidad y enfoque. Perfecto para listados de comercio electrónico, publicaciones en redes sociales y más. ¡Ve la diferencia que puede hacer la AI - empieza a editar ahora!",
+    "tryText": "Pruébalo Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución Borrador AI de WaveSpeed AI",
+    "left": {
+      "heading": "Desafíos de Edición Tradicional",
+      "items": [
+        "La edición manual consume tiempo y es laboriosa",
+        "Requiere conocimiento de software complejo",
+        "Altos costos asociados con la contratación de profesionales",
+        "Accesibilidad limitada para cambios rápidos",
+        "Frustrante para principiantes y no diseñadores"
+      ]
+    },
+    "right": {
+      "heading": "Solución WaveSpeed AI",
+      "items": [
+        "Elimina distracciones de las imágenes en segundos",
+        "Interfaz fácil de usar - no se necesita experiencia",
+        "Económico con precios flexibles",
+        "Crea visuales pulidos sin complicaciones",
+        "El procesamiento rápido permite ediciones instantáneas"
+      ],
+      "tryText": "Prueba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "Logra imágenes perfectas en 4 simples pasos",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Subir Imagen",
+        "text": "Elige la foto que deseas mejorar eliminando elementos no deseados",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Seleccionar Áreas para Borrar",
+        "text": "Destaca las partes de la imagen que deseas eliminar en solo unos clics",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Aplicar Procesamiento AI",
+        "text": "Deja que nuestra AI analice y elimine inteligentemente las áreas seleccionadas",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Descargar Imagen Editada",
+        "text": "Guarda tu imagen recién limpia en segundos, lista para usar",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Comienza tu Viaje de Edición →"
+  },
+  "endlessPossibilities": {
+    "heading": "Posibilidades Infinita",
+    "description": "Perfecto para diversas aplicaciones",
+    "items": [
+      "Imágenes de productos para comercio electrónico",
+      "Gráficas para redes sociales",
+      "Visuales para blogs y sitios web",
+      "Materiales de marketing como volantes",
+      "Comparaciones de fotos antes y después",
+      "Fotos personales y familiares",
+      "Muestras de bienes raíces",
+      "Mejoras en fotografía de eventos"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Descubre cómo las empresas están revolucionando sus imágenes con tecnología AI",
+    "items": [
+      {
+        "tag": "Moda",
+        "heading": "Boutique en Línea",
+        "before": {
+          "label": "Antes",
+          "text": "Imágenes desordenadas con distracciones"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Visuales limpios y enfocados"
+        },
+        "value": "97%",
+        "key": "Mejora de Calidad Visual",
+        "description": "Nuestras imágenes de producto se transformaron, lo que llevó a un aumento del 50% en el compromiso en redes sociales."
+      },
+      {
+        "tag": "Bienes Raíces",
+        "heading": "Listados de Propiedades",
+        "before": {
+          "label": "Antes",
+          "text": "Fotos poco atractivas"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Presentaciones impresionantes y claras"
+        },
+        "value": "95%",
+        "key": "Mejora de Atractivo",
+        "description": "Fotos limpias resultaron en ventas más rápidas, mostrando las propiedades en su mejor momento."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Modelos AI",
+    "description": "Selecciona el enfoque ideal para tus necesidades de edición de imágenes",
+    "items": [
+      "Edición Básica: Eliminación rápida y fácil de objetos simples",
+      "Edición Avanzada: Edición detallada para escenas intrincadas",
+      "Eliminación de Fondo: Borrado completo de fondos",
+      "Reconstrucción de Elementos: Técnicas de relleno inteligente para resultados sin costuras",
+      "Edición Multicapa: Maneja múltiples ediciones de una vez",
+      "Velocidad vs. Calidad: Elige según tu urgencia o necesidad"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas AI Relacionadas",
+    "description": "Explora más soluciones poderosas de AI para la edición de imágenes"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué tipos de imágenes puedo mejorar con Borrador AI?",
+        "answer": "Puedes subir varios tipos de imágenes, incluyendo JPG, PNG y WebP. Las imágenes claras con buena iluminación obtienen los mejores resultados."
+      },
+      {
+        "question": "¿Qué tan precisa es la AI al eliminar áreas seleccionadas?",
+        "answer": "Nuestra AI está diseñada para reconocer y eliminar objetos con alta precisión. Puede replicar patrones de fondo donde sea necesario para un aspecto natural."
+      },
+      {
+        "question": "¿Puedo deshacer cambios si no estoy satisfecho?",
+        "answer": "¡Sí! Puedes revertir tus ediciones fácilmente y reiniciar en cualquier momento del proceso de edición."
+      },
+      {
+        "question": "¿Se necesita alguna instalación de software para usar Borrador AI?",
+        "answer": "No se requiere instalación de software. La herramienta es completamente basada en la web, permitiéndote acceder desde cualquier dispositivo con conexión a internet."
+      },
+      {
+        "question": "¿Cuánto tiempo tarda en procesar mis imágenes?",
+        "answer": "El tiempo de procesamiento es típicamente muy rápido, usualmente solo unos segundos por imagen, dependiendo de la complejidad de las ediciones."
+      },
+      {
+        "question": "¿Hay un límite en la cantidad de imágenes que puedo editar?",
+        "answer": "No hay límite en la cantidad de imágenes que puedes editar, lo que permite flujos de trabajo eficientes ya sea que tengas pocas o muchas para mejorar."
+      },
+      {
+        "question": "¿Retengo los derechos de autor de las imágenes editadas?",
+        "answer": "¡Absolutamente! Todas las imágenes editadas usando nuestras herramientas siguen siendo de tu propiedad, permitiéndote utilizarlas comercialmente sin restricciones."
+      },
+      {
+        "question": "¿Qué soporte está disponible si encuentro problemas?",
+        "answer": "Ofrecemos soporte integral, incluyendo documentación, tutoriales y servicio al cliente receptivo para cualquier pregunta técnica."
+      },
+      {
+        "question": "¿Cómo puedo empezar a usar el Borrador AI?",
+        "answer": "Simplemente sube tus imágenes y sigue los pasos fáciles para comenzar a editar. Los nuevos usuarios pueden aprovechar créditos iniciales gratuitos!"
+      },
+      {
+        "question": "¿Hay una tarifa de suscripción para usar esta herramienta?",
+        "answer": "¡No se necesita suscripción! Operamos bajo un modelo de pago por uso, permitiéndote pagar solo por los servicios que utilices."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Transformar tus Imágenes?",
+    "description": "¡Comienza con créditos gratuitos y ve la magia de Borrador AI en acción!",
+    "contactUsText": "Contáctanos",
+    "tryText": "Pruébalo Ahora →"
+  },
+  "footer": {
+    "heading": "¿Listo para Limpiar tus Imágenes?",
+    "description": "Experimenta WaveSpeed AI hoy y eleva tus visuales. No se requiere registro.",
+    "ctaText": "Eliminar Objetos Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

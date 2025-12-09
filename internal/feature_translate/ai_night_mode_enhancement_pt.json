@@ -1,0 +1,230 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Melhoria do Modo Noturno AI",
+  "meta": {
+    "description": "Eleve suas fotos com deslumbrantes efeitos do modo noturno usando IA. Otimize imagens em baixa luminosidade para e-commerce e redes sociais. Experimente a diferença com a tecnologia inovadora da WaveSpeed!",
+    "keywords": "Modo Noturno AI, melhoria de imagens em baixa luminosidade, edição de fotos AI, otimização de imagens para e-commerce, fotografia noturna, aprimoramento de fotos para redes sociais, processamento de imagens automatizado, WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de IA",
+        "items": [
+          [
+            "Ferramentas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Demonstração",
+        "items": [
+          [
+            "Demonstração",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Melhoria do Modo Noturno AI",
+    "subHeading": "Transforme Suas Imagens em Baixa Luminosidade Imediatamente",
+    "description": "Melhore suas imagens capturadas em condições de baixa luminosidade com nossa Melhoria do Modo Noturno AI. Perfeito para mostrar seus produtos e cativar seu público. Eleve suas visuais sem esforço. Experimente agora!",
+    "tryText": "Experimente Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução de Melhoria do Modo Noturno AI da WaveSpeed",
+    "left": {
+      "heading": "Desafios Tradicionais",
+      "items": [
+        "Fotos de baixa qualidade em iluminação fraca",
+        "Edições manuais que consomem tempo",
+        "Software complexo necessário para melhorias",
+        "Resultados inconsistentes entre as imagens",
+        "Altos custos para serviços de edição profissional"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeed AI",
+      "items": [
+        "Melhoria instantânea de fotos em baixa luminosidade",
+        "Sem habilidades técnicas necessárias - Basta enviar suas imagens",
+        "Resultados orientados por IA com qualidade consistente",
+        "Ajustes e variações ilimitadas disponíveis",
+        "Preços acessíveis sem taxas ocultas"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "Melhore suas imagens em 4 passos simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Enviar Imagem",
+        "text": "Envie sua foto em baixa luminosidade para melhoria",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Selecionar Melhorias",
+        "text": "Escolha as melhorias desejadas, como brilho e contraste",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Visualizar Mudanças",
+        "text": "Veja uma prévia em tempo real da sua imagem melhorada",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Baixar Imagem",
+        "text": "Obtenha sua foto melhorada pronta para uso em minutos",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Melhore Sua Primeira Imagem →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilidades Sem Fim",
+    "description": "Transforme qualquer imagem em um visual deslumbrante sob baixa luz",
+    "items": [
+      "Fotos de produtos para e-commerce com melhor visibilidade",
+      "Publicações em redes sociais que se destacam à noite",
+      "Visuais de marketing para eventos noturnos",
+      "Comparações antes/depois para efeito dramático",
+      "Melhorias fotográficas artísticas",
+      "Fotos noturnas de imóveis para anúncios impactantes",
+      "Fotografia de alimentos com cores vibrantes",
+      "Fotografia de moda sob iluminação noturna"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Descubra como o Modo Noturno AI está mudando o jogo para os negócios",
+    "items": [
+      {
+        "tag": "Fotografia",
+        "heading": "Melhorias de Sessões Noturnas de E-commerce",
+        "before": {
+          "label": "Antes",
+          "text": "Sem vida e sem impacto"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Vibrante e chamativa"
+        },
+        "value": "95%",
+        "key": "Melhoria na Atração",
+        "description": "Nossas melhorias do modo noturno aumentaram a atração dos produtos, levando a um aumento de 30% nas taxas de conversão da noite para o dia."
+      },
+      {
+        "tag": "Imóveis",
+        "heading": "Listagens Luxuosas com Melhorias Noturnas",
+        "before": {
+          "label": "Antes",
+          "text": "Visibilidade ruim"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Visuais noturnos deslumbrantes"
+        },
+        "value": "90%",
+        "key": "Aumento nas Consultas",
+        "description": "Visuais noturnos polidos transformaram nossas listagens, gerando 50% mais consultas de compradores potenciais."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Modelos de IA",
+    "description": "Selecione as melhores configurações para suas melhorias do modo noturno",
+    "items": [
+      "Modo Padrão: Ajustes equilibrados para fotos noturnas gerais",
+      "Modo Especialista: Ajustes avançados para resultados profissionais",
+      "Feedback de melhoria em tempo real durante o processamento",
+      "Ajustes preditivos com base nas especificidades da foto",
+      "Tempo de processamento de 1-2 minutos",
+      "Plenos direitos de uso comercial das imagens melhoradas"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Descubra mais ferramentas de IA inovadoras para fotografia"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo o que você precisa saber",
+    "items": [
+      {
+        "question": "Como funciona a Melhoria do Modo Noturno AI?",
+        "answer": "Nossa IA analisa suas imagens em baixa luminosidade e aplica algoritmos avançados para melhorar o brilho, contraste e cores, proporcionando um resultado visual impressionante que parece profissional."
+      },
+      {
+        "question": "Quais tipos de imagens se beneficiam mais dessa função?",
+        "answer": "Fotos tiradas em condições de baixa luminosidade, como eventos, fotos noturnas ao ar livre e fotos internas em iluminação fraca, são as que mais ganham com nossa Melhoria do Modo Noturno."
+      },
+      {
+        "question": "Posso personalizar as configurações de melhoria?",
+        "answer": "Sim! Você pode escolher diferentes níveis e parâmetros de melhoria para atender às suas necessidades e preferências específicas enquanto visualiza as mudanças em tempo real."
+      },
+      {
+        "question": "É fácil de usar para iniciantes?",
+        "answer": "Absolutamente! O processo é amigável, projetado para qualquer um enviar imagens e obter resultados deslumbrantes sem experiência anterior em edição."
+      },
+      {
+        "question": "Quais formatos de imagem são suportados para melhoria?",
+        "answer": "Suportamos vários formatos, incluindo JPG, PNG e TIFF. Certifique-se de que suas imagens sejam de alta qualidade para os melhores resultados."
+      },
+      {
+        "question": "Há limitações no número de imagens que posso melhorar?",
+        "answer": "Não! Você pode melhorar várias imagens ao mesmo tempo, e nossa IA lida com o processamento em lote de forma eficiente."
+      },
+      {
+        "question": "Tenho plenos direitos comerciais sobre as imagens melhoradas?",
+        "answer": "Sim! Todas as imagens melhoradas através de nosso serviço vêm com plenos direitos comerciais, permitindo que você as utilize livremente em qualquer projeto."
+      },
+      {
+        "question": "E se eu encontrar problemas ao usar a ferramenta?",
+        "answer": "Fornecemos recursos extensos, incluindo tutoriais, perguntas frequentes e uma equipe de suporte dedicada para ajudá-lo com quaisquer desafios."
+      },
+      {
+        "question": "Como posso acompanhar as mudanças feitas em minhas imagens?",
+        "answer": "Você verá uma comparação clara entre antes e depois para cada melhoria de imagem, permitindo que você avalie o impacto dos ajustes realizados."
+      },
+      {
+        "question": "Há uma taxa de assinatura para usar as melhorias do modo noturno?",
+        "answer": "Não! Nossa precificação é simples e baseada nas imagens que você melhora, sem taxas recorrentes."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Melhorar Suas Imagens?",
+    "description": "Comece com créditos gratuitos e descubra a mágica da Melhoria do Modo Noturno AI",
+    "contactUsText": "Entre em Contato Conosco",
+    "tryText": "Experimente Agora →"
+  },
+  "footer": {
+    "heading": "Transforme Suas Fotos em Baixa Luminosidade Agora!",
+    "description": "Experimente o poder da Melhoria do Modo Noturno AI com a WaveSpeed. Sem necessidade de cadastro.",
+    "ctaText": "Melhore Fotos Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

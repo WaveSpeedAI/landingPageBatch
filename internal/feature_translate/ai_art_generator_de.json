@@ -1,0 +1,230 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - KI Kunstgenerator",
+  "meta": {
+    "description": "Erstellen Sie atemberaubende Kunstwerke aus Ihren Ideen in Sekunden mit KI. Perfekt für Künstler, Vermarkter und Content-Ersteller. Entfesseln Sie mühelos Kreativität!",
+    "keywords": "KI Kunstgenerator, Kunstwerkserstellung, digitales Kunstwerkzeug, Content-Erstellung, sofortiges Kunstwerk, KI kreative Werkzeuge, künstlerische Darstellung, generative Kunst, Grafikdesign KI, Kunstwerkgenerator"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI Werkzeuge",
+        "items": [
+          [
+            "KI Werkzeuge",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Ausstellung",
+        "items": [
+          [
+            "Ausstellung",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "KI Kunstgenerierung",
+    "subHeading": "Ideen in atemberaubende Kunstwerke verwandeln",
+    "description": "Verwandeln Sie Ihre Konzepte in schöne digitale Kunst in kürzester Zeit. Keine Designfähigkeiten erforderlich. Mit fortschrittlicher KI-Technologie erstellen Sie Kunstwerke, die inspirieren und fesseln.",
+    "tryText": "Jetzt starten",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI KI Kunstgenerator Lösung",
+    "left": {
+      "heading": "Herausforderungen bei der traditionellen Kunstcreation",
+      "items": [
+        "Die Kunstcreation kann zeitaufwendig und komplex sein",
+        "Benötigt spezielle Fähigkeiten und Werkzeuge",
+        "Iterationen können Tage oder Wochen dauern",
+        "Eingeschränkter Zugang für Nicht-Künstler",
+        "Hohe Kosten für in Auftrag gegebene Kunstwerke"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI Lösung",
+      "items": [
+        "Generieren Sie einzigartige Kunstwerke in Minuten aus Ihren Vorgaben",
+        "Kein künstlerischer Hintergrund erforderlich - Beschreiben Sie einfach Ihre Vision",
+        "Sofortige Ergebnisse mit KI-unterstützter Erstellung",
+        "Unbegrenzte kreative Variationen",
+        "Erschwingliche Pay-as-you-go-Preise für alle"
+      ],
+      "tryText": "Versuchen"
+    }
+  },
+  "howItWorks": {
+    "heading": "So funktioniert es",
+    "description": "Von der Idee zum Kunstwerk in 4 einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Geben Sie Ihre Idee ein",
+        "text": "Geben Sie eine Beschreibung des Kunstwerks an, das Sie sich vorstellen",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Stil auswählen",
+        "text": "Wählen Sie Ihren bevorzugten Kunststil (z.B. surreal, abstrakt)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Parameter anpassen",
+        "text": "Feinabstimmung von Attributen wie Farbschemata und Stimmung",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Laden Sie Ihr Kunstwerk herunter",
+        "text": "Erhalten Sie hochauflösende Kunst in wenigen Minuten",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Erstellen Sie Ihre erste Kunst →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endlose kreative Möglichkeiten",
+    "description": "Perfekt für jede künstlerische Unternehmung",
+    "items": [
+      "Einzigartige Illustrationen für Blogs und Artikel",
+      "Individuelle digitale Kunst für Marketingkampagnen",
+      "Auffällige Visuals für soziale Medien",
+      "Personalisierte Geschenke und Drucke",
+      "Kunstwerke für Websites und digitale Inhalte",
+      "Kreative Designs für Merchandise",
+      "Inspiration für traditionelle Künstler",
+      "Konzeptkunst für Spiele oder Filme"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Sehen Sie, wie Kreative ihre Projekte mit KI transformieren",
+    "items": [
+      {
+        "tag": "Grafikdesign",
+        "heading": "Freiberuflicher Designer",
+        "before": {
+          "label": "Vorher",
+          "text": "Zeitintensiv"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Sofortige Generierung"
+        },
+        "value": "95%",
+        "key": "Zeitersparnis",
+        "description": "Durch die Verwendung von KI-Kunstwerken habe ich meine Projektbearbeitungszeit drastisch reduziert, was mir ermöglicht hat, mehr Kunden zu bedienen."
+      },
+      {
+        "tag": "Content-Erstellung",
+        "heading": "Social-Media-Influencer",
+        "before": {
+          "label": "Vorher",
+          "text": "Ausgelagerte Kunstwerke"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Intern erstellt"
+        },
+        "value": "90%",
+        "key": "Kostenreduktion",
+        "description": "Generierte individuelle Visuals, die perfekt zu meiner Marke passten, wodurch ich Geld sparte und meinen einzigartigen Stil verbesserte."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "KI Modellvergleich",
+    "description": "Wählen Sie den richtigen Kunststil für Ihre Vision",
+    "items": [
+      "Künstlerisches Modell A: Lebendige und mutige Stile, perfekt für moderne Designs",
+      "Künstlerisches Modell B: Subtile und klassische Looks für zeitlose Anziehungskraft",
+      "Individuelle Stiloptionen mit benutzerdefinierten Attributen",
+      "Die Möglichkeit, Stile für einzigartige Kreationen zu kombinieren",
+      "Schnelle Generierungszeiten, die auf Künstler zugeschnitten sind",
+      "Rechte für persönliche und kommerzielle Nutzung enthalten"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Verwandte KI Werkzeuge",
+    "description": "Entdecken Sie weitere innovative KI-Werkzeuge für Kreative"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welche Kunststile kann ich erstellen?",
+        "answer": "Sie können aus einer Vielzahl von Kunststilen wählen, einschließlich abstrakt, realistisch, Cartoon und vielen mehr. Die KI kann auch Stile mischen, um etwas wirklich Einzigartiges zu schaffen."
+      },
+      {
+        "question": "Kann ich die generierte Kunst verfeinern?",
+        "answer": "Absolut! Sie können Farben, Themen anpassen und sogar Elemente angeben, die in Ihren Kunstwerken enthalten sein sollen oder ausgeschlossen werden sollen, was eine größere Anpassung ermöglicht."
+      },
+      {
+        "question": "In welchen Formaten kann ich mein Kunstwerk herunterladen?",
+        "answer": "Generierte Kunstwerke sind in hochauflösenden Formaten wie PNG und JPEG verfügbar, perfekt für digitale Nutzung und Druck."
+      },
+      {
+        "question": "Wie unterscheidet sich dies von traditionellen digitalen Kunstwerkzeugen?",
+        "answer": "Im Gegensatz zu traditionellen Werkzeugen, die Fähigkeiten und Erfahrung erfordern, vereinfacht unser KI Kunstgenerator den Prozess. Sie beschreiben Ihre Idee, und die KI erstellt sie, wodurch Kunst für jedermann zugänglich wird."
+      },
+      {
+        "question": "Gibt es ein Limit für die Anzahl der Kunstwerke, die ich generieren kann?",
+        "answer": "Es gibt kein Limit! Sie können so viele Kunstwerke erstellen, wie Sie möchten, was es einfach macht, verschiedene kreative Konzepte ohne Einschränkungen zu erkunden."
+      },
+      {
+        "question": "Kann ich das generierte Kunstwerk kommerziell nutzen?",
+        "answer": "Ja! Alle generierten Kunstwerke kommen mit vollständigen kommerziellen Rechten, die es Ihnen ermöglichen, sie in Projekten, auf Produkten oder als Teil Ihres Unternehmens zu verwenden."
+      },
+      {
+        "question": "Was ist, wenn mir das Ergebnis nicht gefällt?",
+        "answer": "Sie können Ihre Eingabe verfeinern und es erneut versuchen, bis Sie ein Kunstwerk erreichen, das Ihren Erwartungen entspricht. Die KI lernt mit jedem Versuch aus Ihren Vorlieben."
+      },
+      {
+        "question": "Brauche ich Design-Erfahrung, um dieses Tool zu verwenden?",
+        "answer": "Es ist keine Design-Erfahrung erforderlich! Beschreiben Sie einfach Ihre Idee und lassen Sie die KI den Rest erledigen, was es jedem leicht macht, schöne Kunst zu schaffen."
+      },
+      {
+        "question": "Wie gebe ich Feedback zu meinen erstellten Kunstwerken?",
+        "answer": "Sie können direkt über die Plattform Feedback geben, was uns helfen kann, die Leistung der KI und Ihr Gesamterlebnis zu verbessern."
+      },
+      {
+        "question": "Gibt es verfügbaren Kundensupport?",
+        "answer": "Ja! Wir bieten umfassenden Support über Chat und E-Mail, sowie Tutorials und Ressourcen, um Ihnen zu helfen, Ihr Erlebnis zu maximieren."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Ihr erstes KI Kunstwerk zu erstellen?",
+    "description": "Beginnen Sie mit kostenlosen Krediten - Erleben Sie die Kreativität",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Jetzt erstellen →"
+  },
+  "footer": {
+    "heading": "Bereit, Ihre Ideen in Kunst zu verwandeln?",
+    "description": "Versuchen Sie WaveSpeed AI jetzt und erleben Sie die Kreativität von KI. Keine Anmeldung erforderlich.",
+    "ctaText": "Jetzt Kunst erstellen",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

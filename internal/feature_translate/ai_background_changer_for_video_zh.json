@@ -1,0 +1,221 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - 视频背景更换人工智能",
+  "meta": {
+    "description": "使用前沿人工智能技术无缝替换视频中的背景。轻松转换场景，同时增强视觉叙事。非常适合内容创作者和市场营销人员。体验视频制作的未来！",
+    "keywords": "人工智能背景更换器, 视频编辑工具, 人工智能视频背景去除, 视频制作, 内容创建, 视频营销, 背景替换, WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "人工智能工具",
+        "items": [
+          [
+            "人工智能工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即尝试"
+  },
+  "hero": {
+    "heading": "视频背景更换器",
+    "subHeading": "瞬间转换您的场景",
+    "description": "轻松使用先进的人工智能技术替换视频背景，创造引人注目的内容，而无需传统编辑工具的麻烦。今天就加入视频制作的革命！",
+    "tryText": "立即尝试",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI 视频背景更换解决方案",
+    "left": {
+      "heading": "传统编辑的陷阱",
+      "items": [
+        "耗时的背景去除过程",
+        "需要昂贵的软件和高级技能",
+        "快速编辑的灵活性有限",
+        "手动调整常常导致不一致的结果",
+        "小型制作的高成本"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI 解决方案",
+      "items": [
+        "仅需几秒钟即可转换背景",
+        "不需要特别技能 - 只需上传您的视频",
+        "利用人工智能即时生成高质量结果",
+        "无限创造力，背景选项无穷无尽",
+        "按需付费模型，适合各种预算"
+      ],
+      "tryText": "尝试"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "通过4个简单步骤从普通到非凡",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传您的视频",
+        "text": "首先上传您想编辑的视频",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "选择新背景",
+        "text": "从我们广泛的背景库中选择，或上传您自己的背景",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "自定义效果",
+        "text": "可选地精细调整集成和效果，以实现无缝外观",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载您的视频",
+        "text": "在几分钟内接收您的转换视频和新背景",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "创建您的第一个视频 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无限创造可能",
+    "description": "适合任何视频项目",
+    "items": [
+      "具有令人惊叹视觉效果的营销视频",
+      "增加记忆背景的博客视频",
+      "更具吸引力的在线学习内容",
+      "动态场景的社交媒体视频",
+      "具有自定义设置的活动精彩剪辑",
+      "独特环境的品牌故事",
+      "引人入胜且信息丰富的教程",
+      "具有影响力位置的房地产展示"
+    ]
+  },
+  "successStories": {
+    "heading": "真实成功故事",
+    "description": "发现创作者如何使用人工智能增强他们的视频",
+    "items": [
+      {
+        "tag": "数字内容创作者",
+        "heading": "YouTube 博客视频转换",
+        "before": {
+          "label": "之前",
+          "text": "耗时且无趣"
+        },
+        "after": {
+          "label": "之后",
+          "text": "引人入胜且专业"
+        },
+        "value": "90%",
+        "key": "效率提高",
+        "description": "仅在几个小时内，我使用引人注目的背景转换了我的视频，提升了观众的参与度！"
+      },
+      {
+        "tag": "在线学习提供者",
+        "heading": "互动在线课程",
+        "before": {
+          "label": "之前",
+          "text": "静态演示"
+        },
+        "after": {
+          "label": "之后",
+          "text": "动态学习体验"
+        },
+        "value": "85%",
+        "key": "参与度提高",
+        "description": "视觉吸引力的背景让学生更加专注，显著提高了保留率。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI 模型比较",
+    "description": "为您的项目选择合适的背景集成",
+    "items": [
+      "标准模型：基本背景替换，快速处理",
+      "高级模型：高清背景，细节丰富",
+      "定制背景集成，满足特定需求",
+      "快速渲染时间，提高工作效率",
+      "支持4K视频输出，品质卓越"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关的 AI 工具",
+    "description": "探索您视频项目的其他人工智能工具"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要了解的一切",
+    "items": [
+      {
+        "question": "支持哪些视频格式进行背景更换？",
+        "answer": "我们支持多种视频格式，包括 MP4、MOV和 AVI。确保视频质量良好，以获得最佳的背景更换效果。"
+      },
+      {
+        "question": "我可以使用自定义背景吗？",
+        "answer": "绝对可以！用户可以上传自己的图片或视频作为背景，完全自由创作。"
+      },
+      {
+        "question": "我可以期待视频处理的速度有多快？",
+        "answer": "背景更换速度惊人，通常在几分钟内完成，具体取决于视频的长度和复杂性。"
+      },
+      {
+        "question": "我可以处理的视频数量是否有限制？",
+        "answer": "没有限制！您可以处理任意数量的视频，全部按照我们灵活的定价结构进行。"
+      },
+      {
+        "question": "是否有特定的系统要求？",
+        "answer": "我们的平台是基于网络的，适用于大多数现代浏览器。但是，稳定的互联网连接将提供最佳体验。"
+      },
+      {
+        "question": "我可以商业使用生成的视频吗？",
+        "answer": "是的！通过 WaveSpeed 创建的所有视频都带有商业使用权，允许您在各种平台上自由使用。"
+      },
+      {
+        "question": "如果在处理过程中遇到问题，我该怎么办？",
+        "answer": "我们提供全面的支持，包括教程和响应迅速的支持团队，随时帮助解决任何问题。"
+      },
+      {
+        "question": "我可以直接在社交媒体上分享完成的视频吗？",
+        "answer": "可以！一旦您的视频处理完成，您可以轻松下载并直接分享到自己喜欢的社交媒体平台。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备好转换您的视频吗？",
+    "description": "从免费积分开始 - 今天就体验人工智能的魔力！",
+    "contactUsText": "联系我们",
+    "tryText": "立即尝试 →"
+  },
+  "footer": {
+    "heading": "准备好更改您的视频背景了吗？",
+    "description": "现在尝试 WaveSpeed AI，亲自感受效果。无需注册。",
+    "ctaText": "现在开始更改背景",
+    "text": "© 2025 WaveSpeed AI. 版权所有。"
+  }
+}

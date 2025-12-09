@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Auto Subtitle Generator",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Generate Accurate Subtitles Instantly",
+    "description": "Transform your videos with precise subtitles that enhance accessibility and engagement.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example video before subtitle generation"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example video after subtitle generation"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Generate Auto Subtitles",
+      "prompt": {
+        "heading": "Prompt",
+        "placeholder": "E.g., Add subtitles for my dialogue..."
+      },
+      "upload": {
+        "heading": "Select video or Input URL"
+      },
+      "processButton": "Generate Subtitles Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Videos Processed"
+      },
+      {
+        "title": "98.7%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "3.2s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Subtitle Generation Examples",
+    "description": "Discover how auto-generated subtitles can improve your videos and reach a wider audience.",
+    "items": [
+      {
+        "title": "Enhance Video Accessibility",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing subtitles enhancing video accessibility",
+        "description": "Make your content accessible to everyone by adding clear subtitles."
+      },
+      {
+        "title": "Boost Engagement",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing subtitles boosting engagement",
+        "description": "Increase viewer retention by providing easy-to-read subtitles."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Our cutting-edge AI technology delivers professional subtitles with streamlined efficiency.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Lightning Fast",
+        "description": "Generate accurate subtitles in seconds, making your video editing process smoother."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly",
+        "description": "No prior experience needed. Just upload your video and let our AI handle the rest."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Privacy Focused",
+        "description": "Your videos are securely processed in your browser, ensuring your content remains safe."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three easy steps to generate subtitles for your videos",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Video",
+        "description": "Upload your video by dragging and dropping or browsing files. Supported formats include MP4, AVI, and MOV."
+      },
+      {
+        "serial": "2",
+        "title": "AI Processing",
+        "description": "Our advanced AI analyses your audio and automatically generates accurate subtitles in real-time."
+      },
+      {
+        "serial": "3",
+        "title": "Download Subtitles",
+        "description": "Preview the subtitles and download them in various formats or embed them directly into your video."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless satisfied users who enhance their videos with our Auto Subtitle Generator",
+    "items": [
+      {
+        "name": "Emily Carter",
+        "stars": 5,
+        "comment": "Incredible! The subtitles generated were spot on and saved me hours of manual work."
+      },
+      {
+        "name": "David Lee",
+        "stars": 5,
+        "comment": "As a content creator, this feature has improved my video's reach and engagement significantly."
+      },
+      {
+        "name": "Jessica Smith",
+        "stars": 5,
+        "comment": "I love the privacy! Knowing my videos are processed locally makes me feel secure."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Find answers to common queries about the Auto Subtitle Generator",
+    "items": [
+      {
+        "title": "What languages does WaveSpeed support for subtitles?",
+        "description": "We support a wide range of languages for subtitle generation including English, Spanish, French, and more. You can select the desired language during the upload process."
+      },
+      {
+        "title": "Is there a limit to video length for subtitle generation?",
+        "description": "Yes, each video can be up to 2 hours long for subtitle processing. Longer videos can be handled by splitting them into segments."
+      },
+      {
+        "title": "Can I edit the generated subtitles?",
+        "description": "Absolutely! After generation, you can review and easily edit any subtitles before finalizing your download."
+      },
+      {
+        "title": "How does the privacy protection work?",
+        "description": "WaveSpeed processes all videos directly in your browser using advanced security measures. Your files are never uploaded to our servers, ensuring complete privacy and data protection."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Enhance Your Videos?",
+    "description": "Try the Auto Subtitle Generator now and see the difference for yourself. No sign-up required.",
+    "ctaText": "Generate Subtitles Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

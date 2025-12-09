@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Transition Effects for Seamless Visuals",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Enhance Your Visuals with Smooth Transitions",
+    "description": "Transform your images with stunning transition effects that elevate your content effortlessly.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo before transition effects"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example photo after transition effects"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Apply Transition Effects Instantly",
+      "prompt": {
+        "heading": "Prompt",
+        "placeholder": "E.g., Add fade-in effect, apply a slide transition, smoothen image entry..."
+      },
+      "upload": {
+        "heading": "Select image or Input URL"
+      },
+      "processButton": "Add Transition Effects Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "10M+",
+        "description": "Images Enhanced"
+      },
+      {
+        "title": "99.8%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "2.5s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Discover the transformative power of transition effects on your visuals.",
+    "items": [
+      {
+        "title": "Fade-In Effect",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing fade-in transition effect",
+        "description": "Create engaging presentations with smooth fade-in transitions."
+      },
+      {
+        "title": "Slide Transition",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing slide transition effect",
+        "description": "Make your images stand out with dynamic slide transitions."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Unlock the power of transitions with our cutting-edge AI technology.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Instant Results",
+        "description": "Experience quick and seamless transitions without the wait. Enhance your content immediately."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "No expertise needed. Just upload your image, choose the transition, and let our AI handle the rest."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Secure Processing",
+        "description": "All processing happens on your device, ensuring your images remain private and secure."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three simple steps to add stunning transitions",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Image",
+        "description": "Drag and drop or browse to select your image. Supported formats include JPG, PNG, and WebP."
+      },
+      {
+        "serial": "2",
+        "title": "Select Transition Effect",
+        "description": "Choose from our range of smooth transitions that elevate your visuals while maintaining quality."
+      },
+      {
+        "serial": "3",
+        "title": "Download Enhanced Image",
+        "description": "Preview your edited visual and download your image with the applied transition effect."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless satisfied users enhancing their visuals with WaveSpeed AI",
+    "items": [
+      {
+        "name": "Emily Carter",
+        "stars": 5,
+        "comment": "The slide transition made my presentation pop! I couldn't believe how easy it was."
+      },
+      {
+        "name": "Daniel Lee",
+        "stars": 5,
+        "comment": "WaveSpeed transformed my travel photos. The fade-in effect added a professional touch."
+      },
+      {
+        "name": "Oliver Thompson",
+        "stars": 5,
+        "comment": "The privacy during processing gave me confidence. My images were safe, and the results were stunning!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your questions about transition effects",
+    "items": [
+      {
+        "title": "What transition effects does WaveSpeed offer?",
+        "description": "We offer a variety of effects, including fade-ins, slide transitions, and more that can easily be applied to your images."
+      },
+      {
+        "title": "Is WaveSpeed free to use?",
+        "description": "Yes! You receive 30 free credits daily for adding transitions. Additional credits can be earned through activities on our community platform."
+      },
+      {
+        "title": "Can I use enhanced content for commercial purposes?",
+        "description": "Subscribers have the rights to use enhanced visuals commercially. Free-tier users can use them for personal projects only."
+      },
+      {
+        "title": "How is my privacy protected?",
+        "description": "Processing occurs directly in your browser, ensuring your images never leave your device. Once the tab is closed, all data is cleared."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Enhance Your Visuals?",
+    "description": "Transform your images with stunning transition effects now. No sign-up required.",
+    "ctaText": "Add Transition Effects Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

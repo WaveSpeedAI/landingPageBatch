@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Video Captioning",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Effortless Video Captioning",
+    "description": "Automatically generate accurate captions for your videos, enhancing accessibility and engagement.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example video without captions"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example video with captions"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "AI Video Captioning",
+      "prompt": {
+        "heading": " Enter Video URL",
+        "placeholder": "E.g., https://yourvideo.com/video.mp4"
+      },
+      "upload": {
+        "heading": " Select video file"
+      },
+      "processButton": "Generate Captions Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Videos Processed"
+      },
+      {
+        "title": "98.7%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "3.0s",
+        "description": "Average Captioning Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Captioned Video Examples",
+    "description": "Discover how AI can make your videos accessible with precise, automatically generated captions.",
+    "items": [
+      {
+        "title": "Captioning Interviews",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showcasing captions on an interview video",
+        "description": "Enhance clarity in interview settings by displaying captions."
+      },
+      {
+        "title": "Accessibility for All",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showcasing captions enhancing accessibility",
+        "description": "Make your content accessible to a wider audience with accurate captions."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Transform your video content with intelligent and precise captioning technology.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Instant Captions",
+        "description": "Get captions in seconds, empowering content creators to focus on storytelling."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly",
+        "description": "Streamlined process, no technical skills needed. Just upload and let the AI handle the rest."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Secure and Private",
+        "description": "All processing occurs locally, ensuring your video content remains secure."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three simple steps to automatically caption your videos",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload or Paste URL",
+        "description": "Easily upload your video file or paste a URL to begin the captioning process."
+      },
+      {
+        "serial": "2",
+        "title": "AI Analysis",
+        "description": "Our advanced AI analyzes the video, detecting speech and generating accurate captions."
+      },
+      {
+        "serial": "3",
+        "title": "Review and Download",
+        "description": "Preview your captioned video, make any adjustments, and download your enhanced content."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join the community of creators who are enhancing their videos with our powerful tools",
+    "items": [
+      {
+        "name": "Emma Thompson",
+        "stars": 5,
+        "comment": "WaveSpeed made captioning my tutorial videos a breeze—no more manual transcriptions!"
+      },
+      {
+        "name": "Daniel Lee",
+        "stars": 5,
+        "comment": "The accuracy of the captions is impressive. It's a must-have for everyone creating content."
+      },
+      {
+        "name": "Lisa Wong",
+        "stars": 5,
+        "comment": "I appreciate the privacy aspect. My videos processed directly in the browser give me peace of mind."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Answers to your inquiries about AI Video Captioning",
+    "items": [
+      {
+        "title": "What types of videos can be captioned?",
+        "description": "Our tool supports various formats including MP4, AVI, and MOV. You can caption anything from YouTube uploads to native video files."
+      },
+      {
+        "title": "Is WaveSpeed AI free to use?",
+        "description": "Yes! You receive 20 free captioning credits per day. For heavier users, we offer competitive subscription plans with additional credits."
+      },
+      {
+        "title": "Can I edit the generated captions?",
+        "description": "Absolutely! You can review and edit captions to ensure they match your needs and video context."
+      },
+      {
+        "title": "How is privacy maintained?",
+        "description": "All video captioning is processed locally within your browser, preventing uploads to external servers and ensuring total privacy."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Caption Your Videos?",
+    "description": "Try WaveSpeed AI now and improve your video accessibility effortlessly. No sign-up needed.",
+    "ctaText": "Generate Captions Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

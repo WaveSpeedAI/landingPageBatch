@@ -1,0 +1,230 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Melhoramento de Rosto com IA",
+  "meta": {
+    "description": "Eleve suas fotos com a tecnologia de Melhoramento de Rosto com IA de ponta. Transforme características faciais, melhore texturas da pele e alcance looks polidos sem esforço. Ideal para influenciadores, fotógrafos e criadores de conteúdo. Experimente gratuitamente agora!",
+    "keywords": "melhoramento de rosto com IA, aprimoramento de fotos, retoque de imagens, suavização da pele, aprimoramento de retratos, ferramenta de beleza com IA, ferramentas para influenciadores, software de fotografia, ferramentas para criadores de conteúdo, aprimoramento de fotos para redes sociais"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de IA",
+        "items": [
+          [
+            "Ferramentas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Demonstração",
+        "items": [
+          [
+            "Demonstração",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Revitalize Seus Retratos",
+    "subHeading": "Aprimore rostos para a perfeição",
+    "description": "Transforme suas fotos em retratos deslumbrantes com o Melhoramento de Rosto com IA. Pele perfeita, características mais nítidas e looks naturais estão a apenas um clique de distância. Experimente a mágica da IA e eleve instantaneamente a qualidade da sua imagem.",
+    "tryText": "Experimente Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução de Melhoramento de Rosto com IA WaveSpeed",
+    "left": {
+      "heading": "Desafios do Retoque Tradicional",
+      "items": [
+        "Serviços profissionais caros ($300-1000 por sessão)",
+        "Requer software de edição habilidoso",
+        "Processos demorados (de vários dias)",
+        "Revisões e mudanças limitadas",
+        "Dificuldades para amadores e pequenos criadores"
+      ]
+    },
+    "right": {
+      "heading": "Solução de Melhoramento WaveSpeed IA",
+      "items": [
+        "Potencialize suas fotos em segundos",
+        "Nenhuma habilidade necessária - Basta enviar sua imagem",
+        "Resultados instantâneos e satisfatórios com tecnologia de IA",
+        "Edições e variações ilimitadas",
+        "Modelo acessível de pagamento por uso - Acessível a todos"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "Aprimore suas imagens deslumbrantes em 4 passos simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Enviar Imagem",
+        "text": "Envie seu retrato ou imagem que precisa de aprimoramento",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Personalizar Características",
+        "text": "Opcional: Especifique os aprimoramentos que deseja (ex: \"pele suave\")",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Selecionar Nível de Aprimoramento",
+        "text": "Escolha entre retoques rápidos ou aprimoramento profundo",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Baixar Imagem Aprimorada",
+        "text": "Receba fotos em alta resolução em menos de 2 minutos",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Aprimore Sua Primeira Foto →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilidades Infinitas",
+    "description": "Ideal para todos os tipos de necessidades de aprimoramento de fotos",
+    "items": [
+      "Fotos de perfil em redes sociais",
+      "Retratos profissionais",
+      "Fotos de beleza para portfólio",
+      "Aprimoramentos em fotos de casamentos",
+      "Fotos de moda para e-commerce",
+      "Criação de conteúdo para influenciadores",
+      "Capturas de eventos",
+      "Presentes personalizados com imagens aprimoradas"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Descubra como criadores estão aprimorando suas imagens com IA",
+    "items": [
+      {
+        "tag": "Influenciador de Beleza",
+        "heading": "Revitalização do Portfólio no Instagram",
+        "before": {
+          "label": "Antes",
+          "text": "Sem vida e sem graça"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Vibrante e envolvente"
+        },
+        "value": "85%",
+        "key": "Aumento de Engajamento",
+        "description": "Nossas novas imagens aprimoradas atraíram mais seguidores, aumentando significativamente meu engajamento em poucos dias."
+      },
+      {
+        "tag": "Fotógrafo",
+        "heading": "Aprimoramentos em Fotos de Casamento",
+        "before": {
+          "label": "Antes",
+          "text": "Falta de vivacidade"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Rica e vibrante"
+        },
+        "value": "90%",
+        "key": "Satisfação do Cliente",
+        "description": "Os clientes ficaram emocionados com a qualidade aprimorada, levando a mais indicações e reservas."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Modelos de IA",
+    "description": "Selecione o nível de aprimoramento certo para suas necessidades",
+    "items": [
+      "Toque Leve: Correções rápidas e suavização, detalhes mínimos preservados",
+      "Aprimoramento Padrão: Resultados equilibrados, melhorando detalhes e suavidade",
+      "Retoque Profundo: Aperfeiçoamentos maiores com recuperação total de detalhes e texturas sutis",
+      "Efeitos Naturais: Toques realistas que mantêm o caráter original",
+      "Processamento em Lote: Aprimore várias imagens simultaneamente",
+      "Direitos de uso comercial incluídos"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Explore mais ferramentas avançadas de IA para edição de fotos"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo o que você precisa saber",
+    "items": [
+      {
+        "question": "Que tipo de aprimoramentos posso esperar?",
+        "answer": "O Melhoramento de Rosto com IA pode proporcionar pele suave, características nítidas e ajustes na iluminação e tons, tudo enquanto mantém uma aparência natural. Nossa tecnologia se destaca em fornecer resultados que aprimoram ao invés de alterar suas fotos."
+      },
+      {
+        "question": "Posso personalizar o nível de aprimoramento?",
+        "answer": "Absolutamente! Você pode selecionar opções desde retoques rápidos até retoques profundos, permitindo que você controle quão sutis ou dramáticos os aprimoramentos são, adaptados às suas necessidades específicas."
+      },
+      {
+        "question": "Quais formatos de imagem funcionam melhor para aprimoramento?",
+        "answer": "Recomendamos usar arquivos JPG ou PNG de alta resolução. Para resultados ideais, as imagens devem ser claras e bem iluminadas, de preferência acima de 800x800 pixels. No entanto, a maioria dos formatos comuns é suportada."
+      },
+      {
+        "question": "Como isso é diferente do retoque manual?",
+        "answer": "A tecnologia de IA fornece resultados instantâneos com qualidade consistente, ao contrário do retoque manual que pode ser demorado e pode variar em qualidade. Os aprimoramentos com IA oferecem uma solução rápida e confiável para imagens melhoradas."
+      },
+      {
+        "question": "Posso aplicar efeitos em várias fotos ao mesmo tempo?",
+        "answer": "Sim! Nossa ferramenta de processamento em lote permite que você aprimore várias imagens simultaneamente, tornando-a eficiente para projetos ou eventos maiores."
+      },
+      {
+        "question": "Quais direitos tenho após o aprimoramento?",
+        "answer": "Você possui os direitos comerciais de todas as imagens aprimoradas criadas através do nosso serviço sem taxas adicionais. Use-as como quiser em várias plataformas."
+      },
+      {
+        "question": "Quanto tempo leva o processo de aprimoramento?",
+        "answer": "O tempo de geração é rápido, geralmente em menos de 2 minutos por imagem. Você verá seus resultados aprimorados em pouco tempo."
+      },
+      {
+        "question": "Quais tipos de fotografia podem se beneficiar dos aprimoramentos com IA?",
+        "answer": "O Melhoramento de Rosto com IA é perfeito para retratos, fotografia comercial, imagens para redes sociais e qualquer contexto onde a atratividade visual seja crucial para o sucesso."
+      },
+      {
+        "question": "Preciso creditar a WaveSpeed ao usar imagens aprimoradas?",
+        "answer": "Nenhuma atribuição é necessária, mas apreciamos que você credite nosso serviço se desejar! Suas imagens aprimoradas podem ser usadas livremente em qualquer mídia."
+      },
+      {
+        "question": "Que suporte está disponível se eu encontrar problemas?",
+        "answer": "Oferecemos suporte abrangente através de guias detalhadas, tutoriais em vídeo e uma equipe responsiva pronta para ajudá-lo via email ou chat para qualquer dificuldade técnica."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Transformar Seus Retratos?",
+    "description": "Comece a aprimorar suas imagens hoje com créditos gratuitos!",
+    "contactUsText": "Fale Conosco",
+    "tryText": "Experimente Agora →"
+  },
+  "footer": {
+    "heading": "Pronto para Animar Suas Fotos?",
+    "description": "Experimente o WaveSpeed AI agora e testemunhe a transformação. Nenhum cadastro necessário.",
+    "ctaText": "Aprimore Suas Fotos Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

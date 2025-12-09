@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Image Upscaling",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Enhance Image Quality Instantly",
+    "description": "Input your image to upscale quality and resolution effortlessly with our advanced AI technology.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo before upscaling"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example photo after upscaling"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Upscale Your Images",
+      "prompt": {
+        "heading": "Upload Image",
+        "placeholder": "E.g., Select an image for upscaling."
+      },
+      "upload": {
+        "heading": " Select image or Input URL"
+      },
+      "processButton": "Upscale Image Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "10M+",
+        "description": "Images Upscaled"
+      },
+      {
+        "title": "99.8%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "2.5s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Witness the transformative power of AI on image quality and detail enhancement.",
+    "items": [
+      {
+        "title": "Enhance Low-Resolution Images",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing enhancement of a low-resolution image",
+        "description": "Transform blurry pictures into sharp, vibrant visuals."
+      },
+      {
+        "title": "Improve Detail in Textures",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing improved texture detail",
+        "description": "Bring out intricate details in landscapes or portraits."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Our cutting-edge technology guarantees stunning image upscaling results effortlessly.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Rapid Results",
+        "description": "Experience near-instantaneous enhancements, so you can get back to creating."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "No special skills needed. Just upload an image and let our AI elevate it."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Secure Processing",
+        "description": "All images are processed securely in your browser, ensuring your privacy."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Easily upscale images in three simple steps",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Your Image",
+        "description": "Drag and drop or select a file in JPG, PNG, or WebP format."
+      },
+      {
+        "serial": "2",
+        "title": "AI Enhancement",
+        "description": "Our intelligent AI analyzes and improves resolution while maintaining clarity."
+      },
+      {
+        "serial": "3",
+        "title": "Download Your Upscaled Image",
+        "description": "View your enhanced image and download it in high resolution."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless satisfied users who are upgrading their images with WaveSpeed AI.",
+    "items": [
+      {
+        "name": "Emily Thompson",
+        "stars": 5,
+        "comment": "The upscaling feature is incredible! My old family photos look like new."
+      },
+      {
+        "name": "Liam Smith",
+        "stars": 5,
+        "comment": "As a graphic designer, I rely on this tool to improve client images effortlessly."
+      },
+      {
+        "name": "Ava Brown",
+        "stars": 5,
+        "comment": "Finally, I can revitalize my travel photos. This AI makes my images pop!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your questions about AI Image Upscaling",
+    "items": [
+      {
+        "title": "What types of images can be upscaled?",
+        "description": "WaveSpeed AI supports various formats, including JPG, PNG, and WebP. You can upscale any image to enhance detail and resolution."
+      },
+      {
+        "title": "Is there a limit on how many images I can upscale?",
+        "description": "Yes! You can enhance 30 images daily with free credits. Additional credits can be earned through challenges."
+      },
+      {
+        "title": "Can I use the upscaled images commercially?",
+        "description": "Yes! Users on paid plans can use upscaled images for commercial purposes. Free-tier users are limited to personal use."
+      },
+      {
+        "title": "How secure is the image processing?",
+        "description": "Images are processed locally in your browser, ensuring your data never leaves your device. Your privacy is always protected."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Enhance Your Images?",
+    "description": "Try WaveSpeed AI now and experience the difference. No sign-up needed.",
+    "ctaText": "Upscale Image Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

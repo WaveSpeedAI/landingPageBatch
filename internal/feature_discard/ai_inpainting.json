@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Enhance Images with Precision",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Enhance Images with AI Inpainting",
+    "description": "Transform your photos by intelligently filling in missing areas, enhancing visual appeal effortlessly.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo before AI inpainting"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example photo after AI inpainting"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Enhance Your Photos",
+      "prompt": {
+        "heading": " Prompt",
+        "placeholder": "E.g., Fill in the gap in the sky, restore the missing building, enhance the landscape..."
+      },
+      "upload": {
+        "heading": " Select image or Input URL"
+      },
+      "processButton": "Enhance Image Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "10M+",
+        "description": "Images Enhanced"
+      },
+      {
+        "title": "99.8%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "2.5s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Enhancements",
+    "description": "Witness the power of AI inpainting as it revives and restores your images with remarkable accuracy.",
+    "items": [
+      {
+        "title": "Restore Image Details",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing restored details in a photo",
+        "description": "Seamlessly restore lost elements in your images for a polished look."
+      },
+      {
+        "title": "Fill Gaps Creatively",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing creative gap filling in a photo",
+        "description": "Enhance the overall composition of your photos by filling in missing parts."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose AI Inpainting?",
+    "description": "Transform your images with cutting-edge inpainting technology, delivering results you'll love.",
+    "items": [
+      {
+        "icon": "brush",
+        "title": "Intuitive Enhancement",
+        "description": "Effortlessly restore images with a simple click, making your workflow seamless."
+      },
+      {
+        "icon": "palette",
+        "title": "Creative Freedom",
+        "description": "Our AI gives you the flexibility to fill in backgrounds and enhance scenes without limits."
+      },
+      {
+        "icon": "lock",
+        "title": "Safety First",
+        "description": "Your images are processed locally, ensuring your data remains private and secure."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "A straightforward process to amplify your photos",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Your Image",
+        "description": "Drag and drop or browse to upload your photo. Our system supports JPG, PNG, and WebP formats."
+      },
+      {
+        "serial": "2",
+        "title": "AI Enhancement",
+        "description": "The advanced AI identifies missing areas and fills them in while maintaining high quality."
+      },
+      {
+        "serial": "3",
+        "title": "Download Your Enhanced Image",
+        "description": "Review your enhanced photo, and download it in stunning quality ready for sharing."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless happy users enhancing their photos with our AI-powered technology",
+    "items": [
+      {
+        "name": "Emily Curtis",
+        "stars": 5,
+        "comment": "AI Inpainting transformed my family photos by seamlessly filling in background gaps. I'm impressed!"
+      },
+      {
+        "name": "James Thompson",
+        "stars": 5,
+        "comment": "As a photographer, I've never seen anything like this. It saves me tons of editing time!"
+      },
+      {
+        "name": "Ava Roberts",
+        "stars": 5,
+        "comment": "The results are stunning, and I love that my images are processed right on my device."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Discover what you need to know about AI Inpainting",
+    "items": [
+      {
+        "title": "What can AI Inpainting fill in?",
+        "description": "AI Inpainting is capable of filling in a variety of elements like missing backgrounds, gaps in images, and even complex textures to enhance photo quality."
+      },
+      {
+        "title": "Is this feature free to use?",
+        "description": "Absolutely! Each user gets 30 free credits daily for image enhancements, and there are options to earn more through activities."
+      },
+      {
+        "title": "Can I use enhanced images commercially?",
+        "description": "Users with a paid subscription can utilize their enhanced images for commercial projects, while free users should refer to the Terms of Service for limitations."
+      },
+      {
+        "title": "How is my privacy protected?",
+        "description": "Images are processed directly in your browser, ensuring your photos never leave your device and that your privacy is maintained securely."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Elevate Your Images?",
+    "description": "Try AI Inpainting today and see the remarkable transformations for yourself. No sign-up needed.",
+    "ctaText": "Enhance Image Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

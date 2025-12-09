@@ -1,0 +1,229 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Eliminador de Marcas de Agua",
+  "meta": {
+    "description": "Elimina fácilmente marcas de agua de imágenes con nuestra avanzada tecnología de inteligencia artificial. Perfecto para comercio electrónico, marketing y creación de contenido. Experimenta una claridad y profesionalismo incomparables. ¡Pruébalo ahora!",
+    "keywords": "eliminador de marcas de agua, eliminar marcas de agua, IA de mejora de imágenes, edición de imágenes para comercio electrónico, creación de contenido, herramienta de imagen profesional, software de imágenes AI, herramienta de eliminación de marcas de agua, IA de edición de fotos, imágenes limpias, gestión de activos digitales"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas de IA",
+        "items": [
+          [
+            "Herramientas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrina",
+        "items": [
+          [
+            "Vitrina",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Eliminar Marcas de Agua",
+    "subHeading": "Restaura la Integridad de la Imagen con IA",
+    "description": "Elimina fácilmente marcas de agua de cualquier imagen para revelar la verdadera belleza y calidad profesional. Perfecto para mejorar fotos de productos y materiales de marketing.",
+    "tryText": "Eliminar Marca de Agua Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución Eliminador de Marcas de Agua WaveSpeed AI",
+    "left": {
+      "heading": "Desafíos Tradicionales",
+      "items": [
+        "La edición manual consume mucho tiempo y es tediosa",
+        "Requiere experiencia en software de edición de imágenes",
+        "Se puede perder calidad o aparecer artefactos",
+        "Alto costo por contratar profesionales",
+        "No es apto para procesamiento de imágenes en masa"
+      ]
+    },
+    "right": {
+      "heading": "Solución WaveSpeed AI",
+      "items": [
+        "Eliminar marcas de agua al instante en segundos",
+        "Interfaz fácil de usar, no se requieren habilidades",
+        "Mantiene la calidad original de la imagen después del procesamiento",
+        "Asequible y escalable para todos los usuarios",
+        "Procesamiento por lotes para múltiples imágenes a la vez"
+      ],
+      "tryText": "Pruébalo"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "Elimina marcas de agua en 4 pasos simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Subir Imagen",
+        "text": "Sube la imagen con la marca de agua que deseas eliminar",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Seleccionar Área",
+        "text": "Destaca el área de la marca de agua para una eliminación precisa",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Haz Clic en Eliminar",
+        "text": "Deja que nuestra IA haga el trabajo. ¡Solo haz clic en el botón de eliminar!",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Descargar Imagen",
+        "text": "Obtén tu imagen limpia lista para usar en segundos",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Elimina Tu Primer Marca de Agua →"
+  },
+  "endlessPossibilities": {
+    "heading": "Posibilidades Infinidas",
+    "description": "Ideal para varios casos de uso",
+    "items": [
+      "Imágenes de productos profesionales para comercio electrónico",
+      "Materiales de marketing sin distracciones",
+      "Publicaciones en redes sociales con visuales limpios",
+      "Restauración y mejora de fotografías",
+      "Proyectos de diseño gráfico que requieren claridad",
+      "Creación de contenido para videos y blogs",
+      "Imágenes de bienes raíces sin marcas",
+      "Fotografía de alimentos libre de marcas de agua"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Descubre cómo nuestra herramienta está transformando negocios",
+    "items": [
+      {
+        "tag": "Comercio Electrónico",
+        "heading": "Mejoras en Fotografía de Productos",
+        "before": {
+          "label": "Antes",
+          "text": "Ventas limitadas debido a imágenes pobres"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Crecimiento significativo en ventas"
+        },
+        "value": "35%",
+        "key": "Incremento de Ventas",
+        "description": "Después de eliminar las marcas de agua, nuestras imágenes de productos se veían profesionales, aumentando la confianza de los clientes y las ventas."
+      },
+      {
+        "tag": "Marketing",
+        "heading": "Campañas de Marketing Limpias",
+        "before": {
+          "label": "Antes",
+          "text": "Visuales distractores"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Imágenes claras y atractivas"
+        },
+        "value": "50%",
+        "key": "Aumento de Compromiso",
+        "description": "Las imágenes de alta calidad ayudaron a elevar nuestra campaña, resultando en un compromiso el doble en las redes sociales."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Modelos de IA",
+    "description": "Selecciona la mejor opción para la eliminación de marcas de agua",
+    "items": [
+      "Procesamiento de Imagen Única: Eliminación rápida para imágenes individuales",
+      "Procesamiento por Lotes: Eficiente para grandes volúmenes",
+      "Sin pérdida de calidad de imagen durante la eliminación",
+      "Interfaz fácil de usar con pasos guiados",
+      "Previsualizaciones instantáneas de cambios antes de la descarga"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas de IA Relacionadas",
+    "description": "Descubre más poderosas herramientas de IA para la mejora de imágenes"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué tipos de imágenes puedo usar?",
+        "answer": "Puedes subir varios formatos de imagen, incluidos JPG, PNG y TIFF. Nuestra herramienta elimina eficazmente las marcas de agua de una amplia gama de imágenes."
+      },
+      {
+        "question": "¿Cuánto tiempo toma el proceso de eliminación de marcas de agua?",
+        "answer": "El proceso de eliminación generalmente toma solo unos segundos, incluso para cargas por lotes, permitiendo una rápida ejecución de tus proyectos."
+      },
+      {
+        "question": "¿Eliminar marcas de agua afectará la calidad de la imagen?",
+        "answer": "No, nuestra tecnología de IA logra mantener la integridad y calidad de la imagen original mientras elimina marcas de agua."
+      },
+      {
+        "question": "¿Hay un límite en el número de imágenes que puedo procesar a la vez?",
+        "answer": "No, puedes procesar múltiples imágenes como parte del procesamiento por lotes, lo que lo hace ideal para tareas de alto volumen."
+      },
+      {
+        "question": "¿Puedo previsualizar los resultados antes de descargar la imagen?",
+        "answer": "Sí, nuestra plataforma proporciona previsualizaciones instantáneas después de la eliminación de marcas de agua, permitiéndote confirmar la satisfacción antes de descargar."
+      },
+      {
+        "question": "¿Qué pasa si encuentro problemas mientras uso el servicio?",
+        "answer": "Ofrecemos soporte extenso, incluyendo documentación, tutoriales y un servicio al cliente receptivo para cualquier dificultad técnica."
+      },
+      {
+        "question": "¿Poseo los derechos de las imágenes después del procesamiento?",
+        "answer": "Sí, una vez procesadas las imágenes, posees todos los derechos y puedes usarlas para cualquier propósito comercial o personal."
+      },
+      {
+        "question": "¿Hay una versión de prueba de la herramienta?",
+        "answer": "Sí, los nuevos usuarios reciben créditos gratuitos para probar el eliminador de marcas de agua y experimentar los resultados antes de comprar."
+      },
+      {
+        "question": "¿Qué dispositivos puedo usar para este servicio?",
+        "answer": "Nuestro eliminador de marcas de agua es basado en la web y se puede acceder desde cualquier dispositivo con conectividad a internet, incluidos escritorios, tabletas y teléfonos inteligentes."
+      },
+      {
+        "question": "¿Hay tarifas de suscripción para usar la herramienta?",
+        "answer": "No, nuestro modelo de precios opera bajo demanda, así que solo pagas por las imágenes que procesas sin costos ocultos."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Eliminar Marcas de Agua?",
+    "description": "Comienza a mejorar tus imágenes hoy - ¡Pruébalo gratis!",
+    "contactUsText": "Contáctanos",
+    "tryText": "Eliminar Marca de Agua Ahora →"
+  },
+  "footer": {
+    "heading": "¡Transforma Tus Imágenes Hoy!",
+    "description": "Usa WaveSpeed AI ahora y experimenta la claridad sin marcas de agua. No se requiere registro.",
+    "ctaText": "Eliminar Marca de Agua Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - KI-Perspektivkorrektur",
+  "meta": {
+    "description": "Heben Sie Ihre Bilder mit KI-Perspektivkorrektur hervor und verwandeln Sie verzerrte Visuals in perfekt ausgerichtete Kompositionen. Ideal für E-Commerce, Fotografie und Content-Erstellung. Erleben Sie nahtlose Korrekturen mit WaveSpeed.",
+    "keywords": "KI-Perspektivkorrektur, Bildausrichtung, Fotoverbesserung, E-Commerce-Fotografie, Verzerrungsentfernung, Bildbearbeitungswerkzeug, Content-Erstellung, Fotografie-Tools, visuelle Verbesserung, Online-Bildbearbeiter"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI-Tools",
+        "items": [
+          [
+            "KI-Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "Perfekt Ausgerichtete Bilder",
+    "subHeading": "Transformieren Sie Verzerrte Fotos in Atemberaubende Visuals",
+    "description": "Korrigieren Sie Perspektivverzerrungen in Ihren Bildern schnell, damit Sie makellos und professionell aussehen. Erleben Sie mühelose Bildverbesserung mit unserer fortschrittlichen KI-Technologie. Probieren Sie es jetzt aus, um die Transformation selbst zu sehen!",
+    "tryText": "Jetzt Ausprobieren",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI KI-Perspektivkorrektur Lösung",
+    "left": {
+      "heading": "Häufige Bildprobleme",
+      "items": [
+        "Bilder mit schiefen Winkeln und Verzerrungen",
+        "Inkonsistente Objektproportionen",
+        "Schwierigkeiten bei der Erreichung ästhetischer Symmetrie",
+        "Zeitaufwändige manuelle Korrekturen",
+        "Hohe Kosten für professionelle Bearbeitung"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Lösung",
+      "items": [
+        "Korrigieren Sie Perspektivverzerrungen in Sekunden sofort",
+        "Einfache Uploads mit automatischen Anpassungen",
+        "Erzielen Sie mühelos professionelle Ergebnisse",
+        "Unbegrenzte Korrekturen und Variationen auf einen Fingertipp",
+        "Erschwingliches Pay-as-you-go-Modell für alle"
+      ],
+      "tryText": "Ausprobieren"
+    }
+  },
+  "howItWorks": {
+    "heading": "So funktioniert es",
+    "description": "Verbessern Sie Ihre Bilder in 4 einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Laden Sie Ihr Bild Hoch",
+        "text": "Wählen Sie das Bild aus, das eine Perspektivkorrektur benötigt",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Wählen Sie den Korrekturtyp",
+        "text": "Wählen Sie die Art der Perspektivenanpassung, die Sie benötigen",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Passen Sie die Anpassungen An",
+        "text": "Korrigieren Sie die Einstellungen für eine perfekte Ausrichtung",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Laden Sie das Verbesserte Bild Herunter",
+        "text": "Erhalten Sie Ihr professionell korrigiertes Bild in wenigen Sekunden",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Korrigieren Sie Ihr Erstes Bild →"
+  },
+  "endlessPossibilities": {
+    "heading": "Grenzenlose Anwendungen",
+    "description": "Verwandeln Sie Bilder für jeden Zweck",
+    "items": [
+      "Produktbilder für E-Commerce-Angebote",
+      "Verbesserungen der Architekturfotografie",
+      "Virtuelle Rundgänge im Immobilienbereich",
+      "Marketingmaterialien und Werbung",
+      "Inhalte und Kampagnen für soziale Medien",
+      "Portfolio-Verbesserungen für Fotografen",
+      "Ereignis- und Gelegenheitsfotos",
+      "Allgemeine Bildnachbearbeitung für Profis"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Sehen Sie, wie Benutzer ihre Visuals mit KI verbessern",
+    "items": [
+      {
+        "tag": "E-Commerce",
+        "heading": "Online-Shop Bildauflistungen",
+        "before": {
+          "label": "Vorher",
+          "text": "Verzerrte Bilder"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Perfekt ausgerichtet"
+        },
+        "value": "95%",
+        "key": "Visuelle Qualitätsverbesserung",
+        "description": "Unsere Produktbilder sahen professioneller aus, was zu einer 30%igen Erhöhung der Konversionsraten führte."
+      },
+      {
+        "tag": "Fotografie",
+        "heading": "Freelance Fotograf",
+        "before": {
+          "label": "Vorher",
+          "text": "Zeitaufwändige Bearbeitung"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Schnelle Anpassungen"
+        },
+        "value": "90%",
+        "key": "Eingesparte Zeit",
+        "description": "Ich habe meine Bearbeitungszeit erheblich reduziert, was mir ermöglicht hat, mehr Kunden zu gewinnen."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Vergleich der KI-Korrekturenauigkeit",
+    "description": "Wählen Sie die richtige Korrekturmethode für Ihre Bedürfnisse",
+    "items": [
+      "Standardkorrektur: Grundlegende Anpassungen für geringe Verzerrungen",
+      "Fortgeschrittene Korrektur: Präzise Ausrichtung für professionelle Bilder",
+      "Batch-Korrektur für mehrere Bilder auf einmal",
+      "Echtzeitvorschau der Anpassungen",
+      "Benutzerfreundliche Oberfläche für einfache Korrekturen",
+      "Hochauflösende Ausgabe ohne Qualitätsverlust"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Verwandte KI-Tools",
+    "description": "Entdecken Sie weitere innovative Tools zur Bildverbesserung"
+  },
+  "faq": {
+    "heading": "Häufig Gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welche Bildformate werden für die Perspektivkorrektur unterstützt?",
+        "answer": "Wir unterstützen JPG-, PNG- und WebP-Formate. Für die besten Ergebnisse verwenden Sie hochauflösende Bilder, die klar und gut beleuchtet sind."
+      },
+      {
+        "question": "Wie anpassbar sind die Anpassungen?",
+        "answer": "Unser Tool ermöglicht präzise Anpassungen, um sicherzustellen, dass Ihre Bilder perfekt nach Ihren Wünschen ausgerichtet sind."
+      },
+      {
+        "question": "Kann ich mehrere Bilder gleichzeitig korrigieren?",
+        "answer": "Ja! Nutzen Sie unsere Batch-Verarbeitungsfunktion, um die Perspektive mehrerer Bilder gleichzeitig zu korrigieren."
+      },
+      {
+        "question": "Wie stellt die KI die Qualität nach der Korrektur sicher?",
+        "answer": "Die KI erhält die ursprüngliche Bildqualität während der Korrekturen und bewahrt alle wesentlichen Details."
+      },
+      {
+        "question": "Gibt es irgendwelche Grenzen für die Anzahl der Korrekturen, die ich durchführen kann?",
+        "answer": "Nein, Sie können so viele Korrekturen vornehmen, wie Sie möchten, ohne Einschränkungen unter dem Pay-as-you-go-Modell."
+      },
+      {
+        "question": "Werde ich nach der Korrektur vollständige Rechte an den Bildern behalten?",
+        "answer": "Ja, alle über unseren Dienst korrigierten Bilder beinhalten volle kommerzielle Rechte ohne zusätzliche Gebühren."
+      },
+      {
+        "question": "Wie schnell kann ich mit der Korrektur meiner Bilder rechnen?",
+        "answer": "Die meisten Korrekturen werden innerhalb von Sekunden verarbeitet, abhängig von der Komplexität der vorgenommenen Anpassungen."
+      },
+      {
+        "question": "Was ist, wenn ich Hilfe bei der Nutzung des Tools benötige?",
+        "answer": "Wir bieten umfassende Unterstützung, einschließlich detaillierter Anleitungen und eines reaktionsschnellen Support-Teams, das über Chat und E-Mail erreichbar ist."
+      },
+      {
+        "question": "Kann ich die korrigierten Bilder weiter verbessern?",
+        "answer": "Absolut! Sie können zusätzliche Tools für weitere Verbesserungen verwenden, nachdem die Perspektivkorrektur angewendet wurde."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Ihre Bilder zu perfektionieren?",
+    "description": "Beginnen Sie mit kostenlosen Credits und verwandeln Sie Ihre Visuals heute!",
+    "contactUsText": "Kontaktieren Sie Uns",
+    "tryText": "Jetzt Ausprobieren →"
+  },
+  "footer": {
+    "heading": "Bereit, Ihre Fotos zu verbessern?",
+    "description": "Probieren Sie WaveSpeed AI jetzt aus und erleben Sie sofort den Unterschied. Keine Anmeldung erforderlich.",
+    "ctaText": "Verbessern Sie Jetzt Ihre Bilder",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

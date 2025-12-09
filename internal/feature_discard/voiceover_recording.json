@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Voiceover Recording Made Simple",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Create Professional Voiceovers Effortlessly",
+    "description": "Transform your scripts into high-quality voiceovers with our AI-powered recording feature.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example audio before voiceover"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example audio after voiceover"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Create Your Voiceover",
+      "prompt": {
+        "heading": " Script",
+        "placeholder": "E.g., 'Welcome to our service, where quality meets convenience...'"
+      },
+      "upload": {
+        "heading": " Select Your Audio Preferences"
+      },
+      "processButton": "Generate Voiceover Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "1M+",
+        "description": "Voiceovers Created"
+      },
+      {
+        "title": "96%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "5s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Voiceover Examples",
+    "description": "Discover how our AI can bring your scripts to life with captivating voiceovers.",
+    "items": [
+      {
+        "title": "Explainer Video",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example voiceover for an explainer video",
+        "description": "Engage audiences with clear and natural narration."
+      },
+      {
+        "title": "Podcast Intro",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example voiceover for a podcast intro",
+        "description": "Set the right tone for your podcast with professional voice talent."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Our cutting-edge technology delivers flawless voiceovers with minimal effort.",
+    "items": [
+      {
+        "icon": "microphone",
+        "title": "High-Quality Audio",
+        "description": "Produce crisp, clear voiceovers that resonate with your audience."
+      },
+      {
+        "icon": "cogs",
+        "title": "Customizable Voices",
+        "description": "Select from a variety of voice styles to match your brand's personality."
+      },
+      {
+        "icon": "bolt",
+        "title": "Quick Production",
+        "description": "Generate your voiceovers in seconds without sacrificing quality."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three simple steps to perfect voiceovers",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Script",
+        "description": "Input your text and select your preferred voice style. Our system supports multiple languages."
+      },
+      {
+        "serial": "2",
+        "title": "AI Voice Generation",
+        "description": "Our advanced AI intelligently converts your script into a natural-sounding voiceover."
+      },
+      {
+        "serial": "3",
+        "title": "Download Your Voiceover",
+        "description": "Preview your audio and download the final version in your desired format."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless satisfied users who create stunning voiceovers with WaveSpeed AI",
+    "items": [
+      {
+        "name": "Emily Thompson",
+        "stars": 5,
+        "comment": "The voiceover quality exceeded my expectations. It sounds so professional!"
+      },
+      {
+        "name": "James Miller",
+        "stars": 5,
+        "comment": "I use it for my YouTube channel, and it has saved me so much time in recording!"
+      },
+      {
+        "name": "Sophia Clark",
+        "stars": 5,
+        "comment": "The variety of voices available allows me to match my content perfectly."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Find answers to common questions about Voiceover Recording",
+    "items": [
+      {
+        "title": "What types of projects can I use voiceovers for?",
+        "description": "Our voiceover feature is perfect for explainer videos, podcasts, presentations, e-learning courses, and more. Enhance any audio-visual project with high-quality narration."
+      },
+      {
+        "title": "Is there a limit on the length of scripts?",
+        "description": "You can input scripts up to 1000 words for voice generation. For longer projects, consider breaking them into smaller segments."
+      },
+      {
+        "title": "Can I choose different voice styles?",
+        "description": "Yes! We offer a range of voices, including male, female, and various accents, allowing you to select the best fit for your project."
+      },
+      {
+        "title": "How quickly can I get my voiceover?",
+        "description": "You can expect to have your voiceover generated within seconds of submitting your script. It’s quick and efficient!"
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Enhance Your Audio Experience?",
+    "description": "Try our Voiceover Recording feature now and elevate your content. No sign-up required.",
+    "ctaText": "Generate Voiceover Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Conversión de Tasa de Frames AI",
+  "meta": {
+    "description": "Eleva la calidad de tus videos con la función de Conversión de Tasa de Frames de WaveSpeed AI. Ajusta sin esfuerzo la tasa de frames de tus videos para lograr una reproducción suave y visuales de calidad profesional. Perfecto para cineastas, creadores de contenido y especialistas en marketing por igual. ¡Descubre el futuro de la producción de videos!",
+    "keywords": "conversión de tasa de frames AI, mejora de video, ajuste de tasa de frames, mejora de la calidad de video, herramientas de producción de video, software de video profesional, creación de contenido, reproducción de video suave, software de edición, recursos para cineastas"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas AI",
+        "items": [
+          [
+            "Herramientas AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Exposición",
+        "items": [
+          [
+            "Exposición",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Conversión de Tasa de Frames",
+    "subHeading": "Logra Reproducción de Video Suave",
+    "description": "Transforma tus videos con una suavidad y claridad mejoradas ajustando la tasa de frames para experiencias de visualización óptimas. Experimenta la diferencia con nuestra solución impulsada por IA.",
+    "tryText": "Pruébalo Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución de Conversión de Tasa de Frames AI de WaveSpeed AI",
+    "left": {
+      "heading": "Desafíos Tradicionales",
+      "items": [
+        "Tasas de frames inconsistentes que causan visuales entrecortados",
+        "Ajustes manuales complejos y que consumen tiempo",
+        "Altos costos para soluciones de software profesional",
+        "Flexibilidad limitada con la velocidad de reproducción",
+        "Experiencia del usuario frustrante para los creadores"
+      ]
+    },
+    "right": {
+      "heading": "Solución WaveSpeed AI",
+      "items": [
+        "Convierte tasas de frames sin esfuerzo en segundos",
+        "Tecnología impulsada por IA para ajustes precisos",
+        "Estructura de precios asequible - sin tarifas ocultas",
+        "Procesamiento en tiempo real para resultados inmediatos",
+        "Interfaz fácil de usar para una experiencia sin complicaciones"
+      ],
+      "tryText": "Prueba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "Ajustando las tasas de frames de video en 4 pasos simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Subir Video",
+        "text": "Sube tu archivo de video a la plataforma",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Seleccionar Tasa de Frames",
+        "text": "Elige la tasa de frames deseada para la conversión (p. ej., 30fps, 60fps)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Vista Previa del Ajuste",
+        "text": "Ve una vista previa de tu video con la nueva tasa de frames aplicada",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Descargar Video",
+        "text": "Obtén tu video finalizado listo para distribución",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Convierte Tu Video Ahora →"
+  },
+  "endlessPossibilities": {
+    "heading": "Posibilidades Infinitas",
+    "description": "Ideal para cualquier tipo de contenido de video",
+    "items": [
+      "Producción cinematográfica",
+      "Mejoras de videos de YouTube",
+      "Contenido de marketing y promocional",
+      "Narración en redes sociales",
+      "Grabaciones de eventos en vivo",
+      "Presentaciones virtuales",
+      "Momentos destacados de juegos",
+      "Videos educativos"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Ve cómo los usuarios están mejorando sus videos con IA",
+    "items": [
+      {
+        "tag": "Producción Cinematográfica",
+        "heading": "Proyecto de Película Indie",
+        "before": {
+          "label": "Antes",
+          "text": "Tasas de Frames Variables"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Reproducción Consistente"
+        },
+        "value": "95%",
+        "key": "Mejora de Calidad Visual",
+        "description": "Con la conversión de tasa de frames, nuestra película ahora fluye sin problemas, mejorando drásticamente la experiencia del espectador."
+      },
+      {
+        "tag": "Creación de Contenido",
+        "heading": "Canal de YouTube",
+        "before": {
+          "label": "Antes",
+          "text": "Videos Entre Cortados"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Reproducción Suave"
+        },
+        "value": "90%",
+        "key": "Aumento de Compromiso",
+        "description": "Convertir tasas de frames revitalizó nuestro contenido, llevando a un aumento notable en la retención de espectadores."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Modelos AI",
+    "description": "Selecciona la configuración de tasa de frames adecuada para tus necesidades",
+    "items": [
+      "Conversión Estándar: Ajustes rápidos para tasas de frames comunes (30fps, 60fps)",
+      "Conversión Avanzada: Transiciones suaves entre tasas de frames variadas",
+      "Renderización de alta calidad para visuales prístinos",
+      "Procesamiento por lotes para múltiples videos simultáneamente",
+      "Retroalimentación instantánea sobre ajustes y reproducción"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas AI Relacionadas",
+    "description": "Explora más poderosas herramientas de IA para la mejora de video"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿A qué tasas de frames puedo convertir mi video?",
+        "answer": "Nuestra solución te permite convertir a tasas de frames comunes como 24fps, 30fps y 60fps. También están disponibles tasas de frames personalizadas para necesidades especializadas."
+      },
+      {
+        "question": "¿Cómo mejora la IA la conversión de tasa de frames?",
+        "answer": "La tecnología de IA analiza el contenido de tu video para asegurar transiciones suaves, mantener la integridad visual y proporcionar una reproducción óptima sin retrasos."
+      },
+      {
+        "question": "¿Puedo convertir múltiples videos a la vez?",
+        "answer": "¡Sí! Nuestra plataforma admite procesamiento por lotes, lo que te permite subir y convertir múltiples videos de una vez."
+      },
+      {
+        "question": "¿Habrá pérdida de calidad durante la conversión?",
+        "answer": "No, nuestra conversión de tasa de frames preserva la calidad de tu video original mientras mejora la suavidad de reproducción."
+      },
+      {
+        "question": "¿Hay un límite en la duración del video para la conversión?",
+        "answer": "No hay un límite estricto en la duración del video, aunque videos más largos pueden requerir más tiempo de procesamiento dependiendo de los ajustes de tasa de frames elegidos."
+      },
+      {
+        "question": "¿Qué tipos de videos son los más adecuados para la función de conversión de tasa de frames?",
+        "answer": "Todos los tipos de videos pueden beneficiarse, particularmente aquellos con movimientos rápidos o tasas de frames mixtas, como secuencias de acción o grabaciones de diferentes fuentes."
+      },
+      {
+        "question": "¿Necesito software especial para usar esta función?",
+        "answer": "No se necesita software especializado. La herramienta de Conversión de Tasa de Frames AI es completamente accesible en línea a través de nuestra plataforma WaveSpeed."
+      },
+      {
+        "question": "¿Qué tan precisa es la IA al hacer ajustes?",
+        "answer": "Nuestra IA es altamente precisa y está diseñada para asegurar que las conversiones coincidan con las especificaciones deseadas mientras mantienen la calidad del video."
+      },
+      {
+        "question": "¿Puedo deshacer cambios realizados durante el proceso de conversión?",
+        "answer": "Sí, nuestra plataforma te permite revertir fácilmente cualquier cambio antes de finalizar la descarga."
+      },
+      {
+        "question": "¿Qué soporte ofrecen si encuentro problemas?",
+        "answer": "Ofrecemos documentación detallada, tutoriales en video y soporte al cliente a través de correo electrónico y chat para cualquier problema técnico."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Mejorar la Calidad de Tu Video?",
+    "description": "Comienza con créditos gratis - Experimenta la transformación tú mismo",
+    "contactUsText": "Contáctanos",
+    "tryText": "Pruébalo Ahora →"
+  },
+  "footer": {
+    "heading": "¿Listo para Mejorar Tus Videos?",
+    "description": "Prueba WaveSpeed AI ahora y experimenta una calidad de video más suave. No se requiere registro.",
+    "ctaText": "Convertir Tasa de Frames Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

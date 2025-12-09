@@ -1,0 +1,229 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - KI Visuelle Fragenbeantwortung",
+  "meta": {
+    "description": "Beantworten Sie sofort Fragen zu Bildern mit KI visueller Fragenbeantwortung. Perfekt zur Verbesserung der Kundenbindung, zur Optimierung von Produktpräsentationen und zur Vereinfachung des Benutzererlebnisses. Probieren Sie es jetzt aus!",
+    "keywords": "KI Visuelle Fragenbeantwortung, bildbasierte Q&A, interaktive KI, Kundenbindungswerkzeug, Optimierung von Produktpräsentationen, E-Commerce KI-Lösungen, Verbesserung des Benutzererlebnisses, visuelle Intelligenz, KI-gesteuerte Interaktion, dynamisches Q&A-System"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI-Tools",
+        "items": [
+          [
+            "KI-Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "Visuelle Fragenbeantwortung",
+    "subHeading": "Revolutionieren Sie die Interaktion mit Ihren Bildern",
+    "description": "Generieren Sie sofortige Antworten auf Benutzerfragen zu jedem Bild, zur Verbesserung des Engagements und des Verständnisses. Nutzen Sie die Kraft der KI, um dynamische, interaktive Erlebnisse zu schaffen. Perfekt für E-Commerce, Marketing und Bildung.",
+    "tryText": "Jetzt Ausprobieren",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI KI Visuelle Fragenbeantwortung Lösung",
+    "left": {
+      "heading": "Herausforderungen der traditionellen Kundeninteraktion",
+      "items": [
+        "Begrenztes Engagement mit statischen Bildern",
+        "Langsame Reaktionszeiten auf Benutzeranfragen",
+        "Erfordert manuelle Analyse des Bildinhalts",
+        "Erhöhte Hürden für den Kundensupport",
+        "Ineffizienzen in der Inhaltsnavigation"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Lösung",
+      "items": [
+        "Sofortige Antworten auf Benutzeranfragen basierend auf Bildern",
+        "KI interpretiert und analysiert Bildinhalte in Echtzeit",
+        "Fesselnde, interaktive visuelle Antworten",
+        "Vereinfachter Kundensupport mit weniger Ressourcen",
+        "Zugänglich für alle Arten von Unternehmen"
+      ],
+      "tryText": "Jetzt Ausprobieren"
+    }
+  },
+  "howItWorks": {
+    "heading": "So funktioniert es",
+    "description": "Transformieren Sie die Bildinteraktion in 4 einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Bild hochladen",
+        "text": "Laden Sie das Bild hoch, über das Benutzer Fragen stellen werden",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Fragen stellen",
+        "text": "Benutzer geben Fragen zu dem Bild ein",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "KI-Analyse",
+        "text": "Die KI verarbeitet das Bild, um präzise Antworten zu formulieren",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Antworten erhalten",
+        "text": "Erhalten Sie sofortige Antworten, die neben dem Bild angezeigt werden",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Fragen beantworten →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endlose Möglichkeiten",
+    "description": "Ideal für verschiedene Anwendungen und Branchen",
+    "items": [
+      "Kundensupport für E-Commerce-Plattformen",
+      "Verbesserte Produktdetailseiten",
+      "Interaktive Lernmaterialien",
+      "Virtuelle Immobilienbesichtigungen mit detaillierten Einblicken",
+      "Erklärungen zu Lebensmitteln und Rezeptbildern",
+      "Kunstgalerien, die kontextbezogene Informationen bereitstellen",
+      "Online-Foren mit Bildanfragen",
+      "Reisewebseiten zur Verbesserung von Zielanfragen"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Erfahren Sie, wie Marken das Engagement mit KI transformieren",
+    "items": [
+      {
+        "tag": "E-Commerce",
+        "heading": "Modeeinzelhandel KI-Interaktion",
+        "before": {
+          "label": "Vorher",
+          "text": "Statisches Bild, keine Interaktion"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Dynamisches Q&A-Engagement"
+        },
+        "value": "45%",
+        "key": "Steigerung des Benutzerengagements",
+        "description": "Die Interaktionszeit wurde um 40 % erhöht. Kunden erhalten jetzt sofortige Antworten, was die Zufriedenheit erheblich verbessert."
+      },
+      {
+        "tag": "Bildung",
+        "heading": "Interaktive Lern-App",
+        "before": {
+          "label": "Vorher",
+          "text": "Begrenzter Informationszugang"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Echtzeit-Q&A mit Bildern"
+        },
+        "value": "90%",
+        "key": "Verbesserung des Verständnisses",
+        "description": "Schüler genießen sofortige Antworten auf visuelle Anfragen, was zu einer 60%igen Steigerung der Wissensbeibehaltung führt."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "KI-Modellvergleich für visuelle Q&A",
+    "description": "Wählen Sie das Modell, das am besten zu Ihren Bedürfnissen passt",
+    "items": [
+      "Standardmodell: Schnelle Reaktionszeiten, geeignet für grundlegende Anfragen",
+      "Erweitertes Modell: Eingehende Analyse und detaillierte Antworten auf komplexe Bilder",
+      "Natürliche Sprachverarbeitung für benutzerfreundliche Interaktion",
+      "Fähigkeit, verschiedene Bildtypen und Inhalte zu verarbeiten",
+      "Echtzeit-Feedback und kontinuierliche Lernmöglichkeiten"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ähnliche KI-Tools",
+    "description": "Entdecken Sie weitere hochmoderne KI-Funktionen für Unternehmen"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welche Art von Fragen kann mit dieser Funktion beantwortet werden?",
+        "answer": "Das System kann eine Vielzahl von Anfragen bearbeiten, von einfacher Identifikation bis hin zu komplexen Beschreibungen. Benutzer können nach spezifischen Elementen im Bild, kontextuellen Bedeutungen und mehr fragen."
+      },
+      {
+        "question": "Wie genau sind die bereitgestellten Antworten?",
+        "answer": "Die Antworten werden auf Grundlage der KI-Analyse erstellt, wodurch eine hohe Genauigkeit gewährleistet ist. Kontinuierliche maschinelle Lernupdates verbessern die Reaktionsfähigkeit und Detailgenauigkeit im Laufe der Zeit."
+      },
+      {
+        "question": "Kann ich die KI anpassen, um bestimmte Elemente in meinen Bildern zu erkennen?",
+        "answer": "Ja! Sie können die KI mit spezifischen Datensätzen trainieren, um die Erkennung und Relevanz für bestimmte Produkttypen oder Branchen zu verbessern."
+      },
+      {
+        "question": "Welche Branchen können von dieser Technologie profitieren?",
+        "answer": "Virtuell jede Branche, die auf visuelle Inhalte angewiesen ist, kann profitieren, insbesondere E-Commerce, Bildung, technischer Support und Reisen."
+      },
+      {
+        "question": "Wie verarbeitet und analysiert die KI Bilder?",
+        "answer": "Die KI nutzt fortschrittliche Bildverarbeitung und natürliche Sprachverarbeitung, um Bilder in verständliche Komponenten zu zerlegen und dynamische Antworten zu generieren."
+      },
+      {
+        "question": "Ist technischer Support für die Implementierung verfügbar?",
+        "answer": "Absolut! Unser engagiertes Supportteam bietet umfassende Dokumentation, Tutorials und direkte Unterstützung für alle Implementierungsbedürfnisse."
+      },
+      {
+        "question": "Können mehrere Benutzer gleichzeitig auf diese Funktion zugreifen?",
+        "answer": "Ja! Das System ist für mehrere gleichzeitige Benutzer ausgelegt, sodass sie Anfragen stellen und Antworten ohne Verzögerung erhalten können."
+      },
+      {
+        "question": "Benötige ich technische Fähigkeiten, um dies einzurichten?",
+        "answer": "Es sind keine technischen Kenntnisse erforderlich. Unsere Plattform ist benutzerfreundlich und bietet während des gesamten Einrichtungsprozesses vollständige Unterstützung."
+      },
+      {
+        "question": "Welche Art von Bildern funktioniert am besten für diese KI-Analyse?",
+        "answer": "Hochwertige Bilder mit klaren, identifizierbaren Komponenten erzielen die besten Ergebnisse. Sorgen Sie für angemessene Beleuchtung und Fokus für optimale Antworten."
+      },
+      {
+        "question": "Was sind die kommerziellen Rechte zur Nutzung der generierten Inhalte?",
+        "answer": "Alle Antworten und abgeleitete Inhalte können kommerziell genutzt werden, was völlige Freiheit für Marketing und Geschäftswachstum bietet."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Ihr Bildengagement zu verbessern?",
+    "description": "Beginnen Sie mit kostenlosen Guthaben - Erleben Sie sofortige Antworten",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Jetzt Ausprobieren →"
+  },
+  "footer": {
+    "heading": "Bereit, die Interaktion mit Ihren Bildern zu verbessern?",
+    "description": "Probieren Sie WaveSpeed AI jetzt aus und erleben Sie die Innovation. Keine Anmeldung erforderlich.",
+    "ctaText": "Jetzt Interagieren",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

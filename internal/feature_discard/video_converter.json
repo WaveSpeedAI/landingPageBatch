@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Effortlessly Convert Videos",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Convert Your Videos Instantly",
+    "description": "Transform videos between formats with just a few clicks, ensuring compatibility with any device.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example video before conversion"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example video after conversion"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Convert Your Videos",
+      "prompt": {
+        "heading": " Prompt",
+        "placeholder": "E.g., Convert MP4 to AVI, change video resolution..."
+      },
+      "upload": {
+        "heading": " Select video or Input URL"
+      },
+      "processButton": "Convert Video Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Videos Converted"
+      },
+      {
+        "title": "98%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "10s",
+        "description": "Average Conversion Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Conversion Examples",
+    "description": "See how WaveSpeed AI can effortlessly convert your videos, ensuring quality and compatibility across platforms.",
+    "items": [
+      {
+        "title": "Convert MP4 to MOV",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing conversion from MP4 to MOV",
+        "description": "Seamlessly change video formats to suit your needs."
+      },
+      {
+        "title": "Adjust Video Quality",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing video quality adjustment",
+        "description": "Enhance your video's resolution and clarity effortlessly."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Our cutting-edge technology simplifies video conversion with high quality and speed.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Lightning Fast",
+        "description": "Experience rapid conversions in seconds, with no lengthy uploads or processing delays."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "No tech skills needed. Simply upload your video and let our AI handle the rest."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Secure Processing",
+        "description": "Your videos are converted securely and privately, ensuring your data remains yours."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three simple steps to convert videos effectively",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Video",
+        "description": "Upload your video file or paste a link. Our system supports various formats including MP4, AVI, and MOV."
+      },
+      {
+        "serial": "2",
+        "title": "Select Format",
+        "description": "Choose your desired output format and quality adjustments to optimize your video."
+      },
+      {
+        "serial": "3",
+        "title": "Download Converted Video",
+        "description": "Preview your converted video and download it instantly in high quality."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join satisfied customers who effortlessly convert their videos with WaveSpeed AI",
+    "items": [
+      {
+        "name": "Emily Davis",
+        "stars": 5,
+        "comment": "The conversion process was so quick! I easily transformed all my videos for my presentation."
+      },
+      {
+        "name": "James Smith",
+        "stars": 5,
+        "comment": "As a content creator, this tool is invaluable for converting videos to different formats!"
+      },
+      {
+        "name": "Linda Brown",
+        "stars": 5,
+        "comment": "I appreciate the security measures. My videos never left my computer during conversion."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to common queries about our video converter",
+    "items": [
+      {
+        "title": "What video formats can I convert?",
+        "description": "You can convert a wide range of video formats including MP4, AVI, MOV, WMV, and more, ensuring compatibility with any device."
+      },
+      {
+        "title": "Is there a limit to the number of videos I can convert?",
+        "description": "No! You can convert multiple videos without restrictions. Enjoy seamless conversion anytime."
+      },
+      {
+        "title": "Can I adjust video quality during conversion?",
+        "description": "Yes! You can select your desired resolution and quality settings to enhance your video output."
+      },
+      {
+        "title": "Is my video secure during conversion?",
+        "description": "Absolutely! All processing is done locally in your browser. Your files are never uploaded to our servers, ensuring complete privacy."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Convert Your Videos?",
+    "description": "Try WaveSpeed AI now and experience effortless video conversion. No sign-up needed.",
+    "ctaText": "Convert Video Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

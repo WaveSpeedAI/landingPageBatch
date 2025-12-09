@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Sketch to Image",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Transform Your Sketches into Stunning Images",
+    "description": "Bring your artistic ideas to life by converting sketches into vibrant images instantaneously.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example sketch before conversion"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example image after sketch conversion"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Convert Your Sketch to Image",
+      "prompt": {
+        "heading": "Sketch Input",
+        "placeholder": "E.g., A landscape with mountains, a portrait of a woman, a futuristic city..."
+      },
+      "upload": {
+        "heading": " Select image or Input URL"
+      },
+      "processButton": "Transform Sketch Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "10M+",
+        "description": "Images Processed"
+      },
+      {
+        "title": "99.8%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "2.5s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Amazing Transformations",
+    "description": "Witness the power of AI as it converts simple sketches into detailed images, enabling your imagination.",
+    "items": [
+      {
+        "title": "Stunning Landscapes",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Sketch transformed into a beautiful landscape",
+        "description": "Turn basic sketches of landscapes into breathtaking visuals."
+      },
+      {
+        "title": "Detailed Portraits",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Sketch of a portrait turned into a detailed image",
+        "description": "Elevate simple portraits into intricate artistic representations."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Effortlessly transform your sketches into high-quality images with cutting-edge technology.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Instant Results",
+        "description": "Experience rapid transformations in seconds, no lengthy waits."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "No design skills needed. Just upload your sketch and let our AI handle the rest."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Complete Privacy",
+        "description": "All transformations occur locally, ensuring your artwork stays secure."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three straightforward steps to bring your sketches to life",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Your Sketch",
+        "description": "Submit your hand-drawn sketch by dragging, dropping, or browsing files. We support various formats including JPG, PNG, and WebP."
+      },
+      {
+        "serial": "2",
+        "title": "AI Transformation",
+        "description": "Our advanced AI interprets your sketch and skillfully generates a matching image, maintaining your intended style."
+      },
+      {
+        "serial": "3",
+        "title": "Download Your Artwork",
+        "description": "View the created image, adjust if necessary, and download it in high resolution."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join the creative community who are excited about transforming their sketches with WaveSpeed AI",
+    "items": [
+      {
+        "name": "Alex Carter",
+        "stars": 5,
+        "comment": "This tool is a game-changer! My sketches instantly become masterpieces!"
+      },
+      {
+        "name": "Emily Smith",
+        "stars": 5,
+        "comment": "I was blown away by the quality of the images produced from my rough sketches."
+      },
+      {
+        "name": "Liam Brown",
+        "stars": 5,
+        "comment": "WaveSpeed AI has unlocked my artistic potential. I can't stop creating!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your questions about AI Sketch to Image",
+    "items": [
+      {
+        "title": "What types of sketches can be transformed?",
+        "description": "You can convert a wide range of sketches, from simple doodles to detailed drawings, into vivid images with ease."
+      },
+      {
+        "title": "Is WaveSpeed AI free to use?",
+        "description": "Absolutely! Enjoy 30 credits daily for free, allowing you to create numerous images from your sketches."
+      },
+      {
+        "title": "Can I use the generated images commercially?",
+        "description": "Users with subscriptions can use created content for commercial use; free-tier users can only use it for personal projects."
+      },
+      {
+        "title": "How is my data protected?",
+        "description": "All processing is done locally in your browser. Your sketches are never uploaded, ensuring complete privacy."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Bring Your Sketches to Life?",
+    "description": "Try WaveSpeed AI today and experience the magic of instant transformation. No sign-up needed.",
+    "ctaText": "Transform Sketch Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

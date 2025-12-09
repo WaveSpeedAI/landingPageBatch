@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Mute Unwanted Audio Instantly",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Mute Unwanted Audio Effortlessly",
+    "description": "Eliminate background noise or distractions from your audio files with a simple click.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example audio clip before muting unwanted sounds"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example audio clip after muting unwanted sounds"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Mute Unwanted Audio",
+      "prompt": {
+        "heading": " Prompt",
+        "placeholder": "E.g., Mute the background chatter, eliminate traffic noise, remove distractions..."
+      },
+      "upload": {
+        "heading": " Select audio file or Input URL"
+      },
+      "processButton": "Mute Audio Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Audio Clips Processed"
+      },
+      {
+        "title": "99.5%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "1.8s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Audio Examples",
+    "description": "Experience how WaveSpeed AI transforms your audio by muting unwanted distractions instantly.",
+    "items": [
+      {
+        "title": "Remove Background Noise",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing removal of background noise from an audio clip",
+        "description": "Clear your audio recordings from distracting sounds effortlessly."
+      },
+      {
+        "title": "Mute Unwanted Conversations",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing mute of unwanted conversations from an audio clip",
+        "description": "Focus on your primary audio content by removing side conversations."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI for Audio Muting?",
+    "description": "Our cutting-edge AI technology ensures professional-grade audio clarity.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Ultra Fast Processing",
+        "description": "Receive cleaned audio in seconds with our state-of-the-art algorithms."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "No expertise needed. Just upload your audio and let our AI handle the rest."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Secure Processing",
+        "description": "Rest assured that your audio files are processed entirely on your device for maximum privacy."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three simple steps to crisp audio",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Audio",
+        "description": "Upload your audio file by dragging it or browsing through your files. We accept various audio formats."
+      },
+      {
+        "serial": "2",
+        "title": "AI Muting",
+        "description": "Our powerful AI identifies and mutes unwanted audio elements while maintaining the integrity of the remaining sound."
+      },
+      {
+        "serial": "3",
+        "title": "Download Edited File",
+        "description": "Listen to the improved audio with our preview feature and download your muted audio file in high definition."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless satisfied users enhancing their audio quality with WaveSpeed AI",
+    "items": [
+      {
+        "name": "Emily Roberts",
+        "stars": 5,
+        "comment": "This tool saved my podcast! I couldn't believe how quickly it muted the noise from the cafe background."
+      },
+      {
+        "name": "James Parker",
+        "stars": 5,
+        "comment": "As a music producer, the audio muting feature has become indispensable for keeping my tracks clean."
+      },
+      {
+        "name": "Linda Martinez",
+        "stars": 5,
+        "comment": "The ease of use is incredible! I love that I can focus solely on my voice without any distractions."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Find answers to common questions about our audio muting feature",
+    "items": [
+      {
+        "title": "What audio formats does WaveSpeed support?",
+        "description": "WaveSpeed AI supports all popular audio formats, including MP3, WAV, and AAC. Simply upload your file for processing."
+      },
+      {
+        "title": "Is WaveSpeed free to use?",
+        "description": "Yes, every user is granted 30 free credits daily, enabling you to enhance multiple audio files. Earn extra credits through user engagement on our platform."
+      },
+      {
+        "title": "Can I use the edited audio for professional projects?",
+        "description": "Absolutely! Users with any subscription plan can utilize edited audio for commercial purposes, while free-tier users may use content for personal projects."
+      },
+      {
+        "title": "How is my audio privacy protected?",
+        "description": "WaveSpeed processes all audio files on your device using advanced technologies, ensuring your data is never sent to external servers or stored anywhere."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Clean Up Your Audio?",
+    "description": "Try WaveSpeed AI now and experience crystal clear sound. No sign-up required.",
+    "ctaText": "Mute Audio Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

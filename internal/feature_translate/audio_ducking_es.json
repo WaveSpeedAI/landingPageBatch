@@ -1,0 +1,229 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Función de Reducción de Audio",
+  "meta": {
+    "description": "Optimiza tu audio sin esfuerzo con la función de Reducción de Audio de WaveSpeed AI. Logra calidad de sonido profesional equilibrando dinámicamente la música de fondo y las voces en off. Perfecto para creadores de contenido, podcasters y productores de video. ¡Experimenta la diferencia ahora!",
+    "keywords": "reducción de audio, optimización de sonido, herramientas de audio IA, mejora de voces en off, edición de audio de podcast, balanceo dinámico de audio, calidad de sonido profesional, audio de producción de video, control de música de fondo, herramientas para creadores de contenido"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas de IA",
+        "items": [
+          [
+            "Herramientas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Muestra",
+        "items": [
+          [
+            "Muestra",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Reducción de Audio",
+    "subHeading": "Mejora Tu Audio con Control Preciso",
+    "description": "Equilibra sin esfuerzo tu música de fondo y voces en off con nuestra función de Reducción de Audio. Ideal para podcasters y creadores de video que buscan calidad de audio profesional. ¡Lleva tu sonido al siguiente nivel!",
+    "tryText": "Pruébalo Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución de Reducción de Audio WaveSpeed AI",
+    "left": {
+      "heading": "Desafíos de Audio Tradicionales",
+      "items": [
+        "La mezcla manual puede tardar horas",
+        "Dificultad para equilibrar música y voz",
+        "Niveles de audio inconsistentes en diferentes pistas",
+        "Requiere software profesional de audio",
+        "Procesos complicados para principiantes"
+      ]
+    },
+    "right": {
+      "heading": "Solución de Reducción de Audio WaveSpeed AI",
+      "items": [
+        "Ajustes automáticos de música de fondo en tiempo real",
+        "Equilibrio perfecto entre voz y efectos de sonido",
+        "Integración sin fisuras con tu flujo de trabajo de audio",
+        "Resultados instantáneos con tecnología impulsada por IA",
+        "Accesible para todos, independientemente de la experiencia"
+      ],
+      "tryText": "Probar"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "Logra un equilibrio de audio perfecto en 4 pasos simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Subir Audio",
+        "text": "Sube tus pistas de audio, incluyendo voces en off y música",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Seleccionar Parámetros",
+        "text": "Elige el nivel de reducción y ajustes necesarios",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Previsualizar Ajustes",
+        "text": "Escucha los cambios y refina la configuración según sea necesario",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Exportar Audio Final",
+        "text": "Descarga tu pista de audio pulida lista para usar",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Optimiza Tu Audio →"
+  },
+  "endlessPossibilities": {
+    "heading": "Posibilidades de Audio Infinitas",
+    "description": "Perfecto para cualquier proyecto de audio",
+    "items": [
+      "Producción y edición de podcasts",
+      "Bandas sonoras de video para YouTube",
+      "Audio comercial para anuncios",
+      "Gestión de audio de eventos en vivo",
+      "Balance de sonido para videojuegos",
+      "Música de fondo para presentaciones",
+      "Audiolibros y contenido narrado",
+      "Producción y remezcla de música"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Descubre cómo los usuarios están elevando su audio con IA",
+    "items": [
+      {
+        "tag": "Podcasting",
+        "heading": "Gana Más Oyentes",
+        "before": {
+          "label": "Antes",
+          "text": "Audio desequilibrado"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Sonido profesional"
+        },
+        "value": "50%",
+        "key": "Crecimiento de Oyentes",
+        "description": "Mejorar nuestro audio de podcast con Reducción llevó a una caída significativa en las quejas de oyentes sobre la calidad del audio."
+      },
+      {
+        "tag": "Producción de Video",
+        "heading": "Crecimiento del Canal de YouTube",
+        "before": {
+          "label": "Antes",
+          "text": "Comentarios sobre problemas de audio"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Sonido de alta calidad"
+        },
+        "value": "70%",
+        "key": "Aumento en la Participación",
+        "description": "Con un audio equilibrado, nuestra retención de espectadores mejoró drásticamente, permitiendo que más espectadores disfrutaran de nuestro contenido."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Procesamiento de Audio",
+    "description": "Elige la configuración adecuada para tus necesidades",
+    "items": [
+      "Reducción Estándar: Ajuste básico de música de fondo para amateurs",
+      "Reducción Avanzada: Enfoque preciso en la voz con configuraciones personalizables",
+      "Funciones de mezcla automática para una edición sin esfuerzo",
+      "Retroalimentación instantánea con previsualizaciones de audio",
+      "Exportar directamente a múltiples formatos"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas de IA Relacionadas",
+    "description": "Explora más soluciones de audio poderosas para creadores"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué es la reducción de audio?",
+        "answer": "La reducción de audio es una técnica que baja automáticamente el volumen de la música de fondo o efectos de sonido cuando se detecta una voz en off, asegurando claridad en el contenido hablado."
+      },
+      {
+        "question": "¿Cómo determina la IA cuándo reducir el audio?",
+        "answer": "La IA analiza los niveles de audio en tiempo real, detectando frecuencias de voz para ajustar el volumen de los sonidos de fondo con precisión cuando se escucha la voz."
+      },
+      {
+        "question": "¿Puedo personalizar los niveles de reducción?",
+        "answer": "¡Sí! Puedes establecer niveles específicos de ajuste tanto para la música como para la voz para adaptarse a los requisitos de tu proyecto."
+      },
+      {
+        "question": "¿Es esta herramienta adecuada para principiantes?",
+        "answer": "¡Absolutamente! Nuestra interfaz amigable hace que sea fácil para cualquier persona lograr una calidad de sonido profesional sin experiencia previa en edición de audio."
+      },
+      {
+        "question": "¿Qué formatos de audio son compatibles?",
+        "answer": " Soportamos varios formatos de audio incluyendo MP3, WAV y AAC, asegurando compatibilidad con la mayoría de los proyectos de audio."
+      },
+      {
+        "question": "¿Puedo usar esta función para eventos en vivo?",
+        "answer": "¡Sí! La función de reducción de audio funciona bien para ajustes en tiempo real durante eventos en vivo, proporcionando un balance de audio óptimo al instante."
+      },
+      {
+        "question": "¿Qué tipo de proyectos pueden beneficiarse de la reducción de audio?",
+        "answer": "Proyectos que van desde podcasts, videos, comerciales y presentaciones en vivo pueden beneficiarse de la claridad de sonido mejorada que ofrece la reducción."
+      },
+      {
+        "question": "¿Hay algún procesamiento posterior disponible?",
+        "answer": "¡Sí! Puedes aplicar mejoras y efectos adicionales después de reducir tu audio para un resultado final pulido."
+      },
+      {
+        "question": "¿Cuánto cuesta usar la función de reducción de audio?",
+        "answer": "Nuestro precio es flexible, permitiéndote pagar solo por el procesamiento de audio que realices sin tarifas ocultas o suscripciones."
+      },
+      {
+        "question": "¿Cómo puedo contactar con soporte si necesito ayuda?",
+        "answer": "Nuestro equipo de soporte está disponible por correo electrónico y chat en vivo para cualquier asistencia técnica, respondiendo típicamente en un plazo de 24 horas."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Mejorar Tu Audio?",
+    "description": "Comienza con créditos gratuitos y experimenta calidad de sonido profesional hoy",
+    "contactUsText": "Contáctanos",
+    "tryText": "Pruébalo Ahora →"
+  },
+  "footer": {
+    "heading": "¿Listo para Transformar Tu Audio?",
+    "description": "Prueba WaveSpeed AI ahora y experimenta la diferencia por ti mismo. No se requiere registro.",
+    "ctaText": "Optimiza Audio Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

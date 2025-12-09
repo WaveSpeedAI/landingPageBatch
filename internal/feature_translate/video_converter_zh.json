@@ -1,0 +1,232 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI 视频转换器",
+  "meta": {
+    "description": "轻松在几分钟内将视频转换为不同格式。非常适合内容创作者和企业。快速、可靠，并由先进的 AI 技术驱动。释放你的创意可能性！",
+    "keywords": "视频转换器, 视频格式转换, AI 视频工具, 视频编辑 AI, 内容创作, 视频处理, 媒体转换, 高质量视频输出, 电子商务视频解决方案, 营销视频工具"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI 工具",
+        "items": [
+          [
+            "AI 工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即尝试"
+  },
+  "hero": {
+    "heading": "视频转换器",
+    "subHeading": "轻松转换您的视频",
+    "description": "使用我们尖端的 AI 技术，在几分钟内将您的视频转换为多种格式。体验无缝上传和即时结果。简化您的工作流程，轻松创作高质量内容。",
+    "tryText": "立即开始转换",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI 视频转换器解决方案",
+    "left": {
+      "heading": "传统挑战",
+      "items": [
+        "视频格式转换缓慢且繁琐",
+        "需要多个软件应用程序",
+        "转换过程中质量损失",
+        "格式兼容性有限",
+        "专业工具成本高"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI 解决方案",
+      "items": [
+        "在 5 分钟内转换视频",
+        "所有格式的单一平台",
+        "整个过程保持高质量",
+        "支持无数视频格式",
+        "无隐藏费用的性价比定价"
+      ],
+      "tryText": "尝试"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "仅需 4 个简单步骤即可转换视频",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传视频",
+        "text": "选择要转换的视频文件",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "选择格式",
+        "text": "从我们的广泛列表中选择所需的输出格式",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "调整设置",
+        "text": "可选：自定义您的视频设置（例如，分辨率，比特率）",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载转换后的视频",
+        "text": "接收已转换的视频文件，准备使用",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "转换您的第一个视频 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无限可能",
+    "description": "适用于各种视频需求",
+    "items": [
+      "转换 社交媒体 上传的视频",
+      "为市场营销活动准备视频",
+      "为网站使用优化内容",
+      "为演示和网络研讨会创建视频",
+      "简化跨平台视频共享",
+      "编辑和适应不同受众的视频",
+      "为广告创建视频片段",
+      "为个人项目转换视频"
+    ]
+  },
+  "successStories": {
+    "heading": "真实成功故事",
+    "description": "了解用户如何优化他们的视频工作流程",
+    "items": [
+      {
+        "tag": "数字营销",
+        "heading": "YouTube 频道增强",
+        "before": {
+          "label": "之前",
+          "text": "格式支持差"
+        },
+        "after": {
+          "label": "之后",
+          "text": "快速、可靠的转换"
+        },
+        "value": "95%",
+        "key": "时间效率",
+        "description": "通过瞬时转换我们所有的上传，我们的视频参与度飙升。我们显著提高了观众留存率。"
+      },
+      {
+        "tag": "内容创作",
+        "heading": "编辑工作室解决方案",
+        "before": {
+          "label": "之前",
+          "text": "软件过时"
+        },
+        "after": {
+          "label": "之后",
+          "text": "流程简化"
+        },
+        "value": "99%",
+        "key": "生产力提升",
+        "description": "转向 WaveSpeed 将我们的编辑时间缩短了一半。我们现在可以更快、更有效地交付内容。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "视频格式比较",
+    "description": "选择适合您项目的最佳格式",
+    "items": [
+      "MP4：广泛支持，质量更小的文件大小",
+      "MOV：适合高质量视频输出",
+      "AVI：与各种媒体播放器兼容",
+      "WMV：适合 Windows 用户，提供高压缩",
+      "MKV：适合保留多个音轨和字幕",
+      "FLV：适用于网络流媒体应用",
+      "GIF：用于短动画和循环内容",
+      "WebM：为网络使用优化，带宽更低"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关 AI 工具",
+    "description": "查看更多有效的 AI 解决方案，以满足您的多媒体需求"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要了解的一切",
+    "items": [
+      {
+        "question": "我可以将视频转换成什么格式？",
+        "answer": "您可以将视频转换为多种格式，包括 MP4、MOV、AVI、WMV、MKV、FLV、GIF 和 WebM，确保与您的所有需求兼容。"
+      },
+      {
+        "question": "转换期间我视频的质量会保持吗？",
+        "answer": "会的！我们的 AI 技术确保整个转换过程中视频质量得以保留，提供所需格式的最佳结果。"
+      },
+      {
+        "question": "转换需要多长时间？",
+        "answer": "转换时间通常在 5 分钟以内，可以高效处理您的媒体文件，无需漫长等待。"
+      },
+      {
+        "question": "我可以自定义转换设置吗？",
+        "answer": "当然可以！您可以调整分辨率、比特率和其他设置，以便将视频输出量身定制以满足特定要求。"
+      },
+      {
+        "question": "我可以上传多大的文件进行转换？",
+        "answer": "您可以上传各种尺寸的视频，最大可达 2GB，适合大多数视频内容的典型使用案例。"
+      },
+      {
+        "question": "我可以转换多少个视频？",
+        "answer": "没有限制，您可以同时转换多个视频，从而实现高效的工作流程和快速的项目交付。"
+      },
+      {
+        "question": "我对转换后的视频有商业使用权吗？",
+        "answer": "是的！通过 WaveSpeed AI 转换的所有视频均可商业使用，无需额外的许可费用。"
+      },
+      {
+        "question": "如果我遇到问题，提供什么支持资源？",
+        "answer": "我们提供广泛的文档、视频教程和客服团队，随时通过电子邮件或聊天提供帮助，确保您可以迅速解决任何问题。"
+      },
+      {
+        "question": "是否有任何隐藏费用或订阅？",
+        "answer": "没有，我们提供简单的按使用付费的模式，定价透明。您只需为您发起的转换付费。"
+      },
+      {
+        "question": "如果未来我需要其他功能怎么办？",
+        "answer": "我们的平台持续发展，未来将定期提供额外功能。敬请关注更新和增强功能。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备好转换您的视频了吗？",
+    "description": "从免费积分开始，亲自查看结果",
+    "contactUsText": "联系我们",
+    "tryText": "立即尝试 →"
+  },
+  "footer": {
+    "heading": "准备好改变视频格式了吗？",
+    "description": "立即尝试 WaveSpeed AI，体验顺畅的视频转换。无需注册。",
+    "ctaText": "立即开始转换",
+    "text": "© 2025 WaveSpeed AI. 版权所有。"
+  }
+}

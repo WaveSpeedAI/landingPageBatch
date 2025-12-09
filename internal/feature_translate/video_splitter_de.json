@@ -1,0 +1,214 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - Video Splitter",
+  "meta": {
+    "description": "Teilen Sie mühelos lange Videos in teilbare Clips mithilfe fortschrittlicher KI-Technologie. Perfekt für soziale Medien, Marketing und Content-Erstellung. Beginnen Sie noch heute, Ihre Video-Strategie zu verbessern!",
+    "keywords": "Video-Splitter, KI-Video-Bearbeitung, Video-Automatisierung, soziale Medien Clips, Content-Erstellung, Video-Marketing, Video-Bearbeitungswerkzeug, WaveSpeed AI, Video-Management, E-Commerce-Video-Tools, Video-Sharing, Video-Content-Strategie"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI-Tools",
+        "items": [
+          [
+            "KI-Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "Video-Splitter",
+    "subHeading": "Lange Videos in ansprechende Clips umwandeln",
+    "description": "Teilen Sie lange Videos ganz einfach in kleine Segmente, die perfekt für soziale Medien und Marketing sind. Maximieren Sie Engagement und Reichweite mit KI-gesteuerter Präzision. Beginnen Sie noch heute mit dem Teilen Ihrer Videos!",
+    "tryText": "Jetzt ausprobieren",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI Video-Splitter-Lösung",
+    "left": {
+      "heading": "Herausforderungen der traditionellen Video-Bearbeitung",
+      "items": [
+        "Zeitaufwendiger Bearbeitungsprozess",
+        "Teure Software und Fähigkeiten erforderlich",
+        "Manuelles Schneiden und Trimmen ist mühsam",
+        "Begrenzte Ausgabeoptionen für maßgeschneiderte Clips",
+        "Möglicher Verlust der Videoqualität während der Bearbeitung"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI-Lösung",
+      "items": [
+        "Automatisches Video-Splitting in Sekunden",
+        "Keine Bearbeitungsfähigkeiten erforderlich - Einfach Ihr Video hochladen",
+        "Sofortige Ergebnisse, die für das soziale Teilen zugeschnitten sind",
+        "Passen Sie Clips mit voreingestellten Dauern an",
+        "Kostengünstiges Abonnement mit Guthaben für die Nutzung"
+      ],
+      "tryText": "Versuchen"
+    }
+  },
+  "howItWorks": {
+    "heading": "So funktioniert es",
+    "description": "Teilen Sie Ihre Videos effizient in drei einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Video hochladen",
+        "text": "Fügen Sie Ihre Videodatei zur Plattform hinzu",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Teilungspunkte festlegen",
+        "text": "Wählen Sie spezifische Zeitstempel für die Clips, die Sie erstellen möchten",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Clips herunterladen",
+        "text": "Holen Sie sich qualitativ hochwertige Video-Segmente, die bereit zum Teilen sind",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "Erzeugen Sie Ihren ersten Clip →"
+  },
+  "endlessPossibilities": {
+    "heading": "Unendliche Möglichkeiten",
+    "description": "Ideal für verschiedene Content-Strategien",
+    "items": [
+      "Erstellen Sie Werbevideo-Ausschnitte",
+      "Teilen Sie Clips für soziale Medien",
+      "Highlight-Reels für Präsentationen",
+      "Tutorial- und Demosegmente",
+      "Ereigniszusammenfassungen",
+      "Kunden-Testimonial-Ausschnitte",
+      "Einflussnehmer-Kooperationssegmente",
+      "Live-Stream-Highlights"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Erfahren Sie, wie Marken ihre Video-Inhalte mit KI optimieren",
+    "items": [
+      {
+        "tag": "Mode-Einzelhandel",
+        "heading": "Schnelle Werbeclips",
+        "before": {
+          "label": "Vorher",
+          "text": "5 Stunden für Bearbeitungen"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "5 Minuten pro Clip"
+        },
+        "value": "83%",
+        "key": "Zeitersparnis",
+        "description": "Wir haben unsere Werbestrategie umgestaltet und das Engagement in sozialen Medien um 60 % gesteigert."
+      },
+      {
+        "tag": "Tech-Startups",
+        "heading": "Produkt-Launch-Videos",
+        "before": {
+          "label": "Vorher",
+          "text": "Teure Dienstleistungen"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Erschwingliche interne Produktion"
+        },
+        "value": "90%",
+        "key": "Kosteneinsparungen",
+        "description": "Mit der Splitting-Funktion können wir schnell mehrere Clips für unsere Produktlaunches erstellen und unsere Reichweite mühelos verbessern."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "KI-Modellvergleich",
+    "description": "Wählen Sie die richtigen Funktionen für Ihre Splitting-Bedürfnisse",
+    "items": [
+      "Automatisches Schneiden: Nahtlos lange Videos an präzisen Zeitstempeln teilen",
+      "Dynamische Clip-Generierung für verschiedene soziale Plattformen",
+      "Benutzerfreundliche Oberfläche für intuitive Bearbeitung",
+      "Stapelverarbeitung für mehrere Videos gleichzeitig",
+      "Exportmöglichkeiten, die auf jede soziale Medienplattform zugeschnitten sind"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ähnliche KI-Tools",
+    "description": "Entdecken Sie weitere leistungsstarke KI-Tools zur Videoverbesserung"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welche Videoformate werden für das Splitting unterstützt?",
+        "answer": "Wir unterstützen die gängigsten Videoformate, einschließlich MP4, AVI und MOV, damit Ihre Dateien problemlos hochgeladen und verarbeitet werden können."
+      },
+      {
+        "question": "Kann ich Videos in benutzerdefinierte Längen aufteilen?",
+        "answer": "Absolut! Sie können genaue Zeitstempel für Ihre Clips festlegen, um maßgeschneiderte Segmente zu erstellen, die zu Ihren Marketing-Bedürfnissen passen."
+      },
+      {
+        "question": "Gibt es eine Begrenzung für die Videolänge, die ich hochladen kann?",
+        "answer": "Unsere Plattform kann Videos mit einer Länge von bis zu 60 Minuten für die Aufteilung verarbeiten und bietet Flexibilität für verschiedene Inhaltstypen."
+      },
+      {
+        "question": "Wie lange dauert es, meine Videos zu splitten?",
+        "answer": "Das Video-Splitting ist sofort! Je nach Länge und Komplexität können Sie erwarten, dass Ihre Clips in Sekunden bereit sind."
+      },
+      {
+        "question": "Kann ich Clips bearbeiten, nachdem sie erstellt wurden?",
+        "answer": "Ja, Sie können jederzeit zu Ihren geteilten Videos zurückkehren und neue Versionen erstellen oder vorhandene Segmente nach Bedarf anpassen."
+      },
+      {
+        "question": "Fallen Gebühren für jedes erzeugte Clip an?",
+        "answer": "Unsere Preisgestaltung basiert auf einem Pay-as-you-go-Modell, was bedeutet, dass Sie nur für die Clips bezahlen, die Sie verarbeiten, was es budgetfreundlich macht."
+      },
+      {
+        "question": "Gibt es eine mobile Version?",
+        "answer": "Derzeit ist unsere Plattform für die Desktop-Nutzung optimiert, aber wir prüfen mobile Funktionen für zukünftige Updates."
+      },
+      {
+        "question": "Welche Art von Unterstützung bietet WaveSpeed?",
+        "answer": "WaveSpeed bietet umfassenden Kundensupport, einschließlich Dokumentation, Tutorials und direkte Unterstützung über Chat und E-Mail für alle Ihre Anfragen."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Ihr erstes Video zu teilen?",
+    "description": "Nutzen Sie kostenlose Gutschriften - Erleben Sie jetzt die Leichtigkeit",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Jetzt ausprobieren →"
+  },
+  "footer": {
+    "heading": "Bereit, Ihre Videos zu transformieren?",
+    "description": "Erleben Sie WaveSpeed AI jetzt und verbessern Sie Ihre Content-Strategie. Keine Anmeldung erforderlich.",
+    "ctaText": "Videos jetzt teilen",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

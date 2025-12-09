@@ -1,0 +1,234 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Détecteur de Points Forts IA",
+  "meta": {
+    "description": "Identifiez sans effort les points forts clés de vos vidéos avec l'IA. Augmentez l'engagement et focalisez l'attention là où cela compte le plus dans votre contenu. Parfait pour les marketeurs, éducateurs et créateurs de contenu cherchant à rationaliser la production vidéo et maximiser l'impact.",
+    "keywords": "détecteur de points forts IA, extraction de points forts vidéo, détection automatique de points forts, IA de montage vidéo, outil de création de contenu, points forts vidéos marketing, engagement sur les réseaux sociaux, résumés vidéo, optimisation du contenu vidéo"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Détection de Points Forts Facilités",
+    "subHeading": "Identifiez les Moments Clés de Vos Vidéos",
+    "description": "Identifiez et extrayez automatiquement les points forts de votre contenu vidéo, vous permettant de mettre en avant ce qui compte le plus. Gagnez du temps et améliorez l'engagement des spectateurs grâce à nos algorithmes IA avancés. Commencez votre essai gratuit aujourd'hui !",
+    "tryText": "Essayez-le maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution Détecteur de Points Forts IA WaveSpeed",
+    "left": {
+      "heading": "Défis Traditionnels",
+      "items": [
+        "La sélection manuelle des points forts est fastidieuse et chronophage",
+        "Nécessite des compétences de montage vidéo étendues",
+        "Des choix de points forts incohérents peuvent troubler les spectateurs",
+        "Capacité limitée à concentrer l'attention sur les moments clés",
+        "Des coûts de production élevés limitent les contenus vidéo étendus"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed AI",
+      "items": [
+        "Détection et extraction instantanées des points forts des vidéos",
+        "Aucune expertise en montage requise - Il suffit de télécharger votre vidéo",
+        "Identification des points forts cohérente et précise",
+        "Optimisé pour l'engagement et la rétention des spectateurs",
+        "Tarification abordable à la demande pour tous"
+      ],
+      "tryText": "Essayez"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment Ça Marche",
+    "description": "Trouvez des points forts en seulement 4 étapes",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Télécharger la Vidéo",
+        "text": "Téléchargez votre contenu facilement et rapidement",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Sélectionner les Paramètres de Points Forts",
+        "text": "Spécifiez les moments sur lesquels vous voulez vous concentrer (ex. : \"meilleures citations\", \"moments les plus drôles\")",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Analyser et Détecter",
+        "text": "Laissez notre IA analyser votre vidéo pour trouver les points forts clés",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Télécharger les Points Forts",
+        "text": "Recevez vos points forts montés en quelques instants, prêts à être partagés",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Générez Vos Clips de Points Forts →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilités Infinies",
+    "description": "Parfait pour tous types de vidéos ou secteurs",
+    "items": [
+      "Reels de points forts d'événements",
+      "Captures de moments sportifs",
+      "Résumés de contenu éducatif",
+      "Clips de formation d'entreprise",
+      "Teasers vidéo pour les réseaux sociaux",
+      "Vlogs et histoires personnelles",
+      "Webinaires et présentations",
+      "Points forts de défilés de mode"
+    ]
+  },
+  "successStories": {
+    "heading": "Histoires de Succès Réelles",
+    "description": "Comment les créateurs révolutionnent leur contenu avec l'IA",
+    "items": [
+      {
+        "tag": "Agence Marketing",
+        "heading": "Points Forts de Campagnes de Marque",
+        "before": {
+          "label": "Avant",
+          "text": "La sélection manuelle prenait des heures"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Automatisé en quelques minutes"
+        },
+        "value": "97%",
+        "key": "Économies de Temps",
+        "description": "Nous avons réduit le temps de montage des points forts de plusieurs heures à quelques minutes, accélérant ainsi considérablement la livraison de notre campagne."
+      },
+      {
+        "tag": "Plateforme Éducative",
+        "heading": "Résumés de Vidéos de Cours",
+        "before": {
+          "label": "Avant",
+          "text": "Nécessite 1 semaine"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Terminé en 1 heure"
+        },
+        "value": "95%",
+        "key": "Réduction du Temps de Production",
+        "description": "Nos instructeurs peuvent désormais se concentrer sur la création de contenu plutôt que sur le montage, améliorant ainsi l'expérience d'apprentissage globale."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison des Modèles IA",
+    "description": "Sélectionnez les bonnes fonctionnalités pour vos besoins",
+    "items": [
+      "Détecteur de Points Forts Standard : Moments basiques capturés pour un montage rapide",
+      "Détecteur de Points Forts Avancé : Englobe la réponse émotionnelle et les métriques d'engagement",
+      "Paramètres de points forts personnalisés pour des sorties vidéo adaptées",
+      "Prend en charge une variété de formats et résolutions vidéo",
+      "Temps de traitement rapide pour des résultats instantanés",
+      "Droits d'utilisation commerciale inclus"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils IA Connexes",
+    "description": "Explorez d'autres solutions IA puissantes pour la production vidéo"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quels types de vidéos fonctionnent le mieux avec le détecteur de points forts ?",
+        "answer": "Notre outil est optimisé pour tous les types de contenus vidéo, y compris les clips de réseaux sociaux, les vlogs, les webinaires, et plus encore. Il fonctionne mieux avec un son et des éléments visuels clairs pour identifier efficacement les points forts."
+      },
+      {
+        "question": "Puis-je définir des critères spécifiques pour les points forts ?",
+        "answer": "Absolument ! Vous pouvez définir des paramètres tels que 'les moments les plus engageants', 'citations clés', ou 'scènes chargées d'action' pour adapter la détection des points forts aux besoins de votre contenu."
+      },
+      {
+        "question": "Combien de temps le processus de détection des points forts prend-il ?",
+        "answer": "La détection est incroyablement rapide, prenant généralement juste quelques minutes selon la longueur de la vidéo. Profitez d'un retournement efficace, peu importe la taille du projet."
+      },
+      {
+        "question": "Quels formats puis-je télécharger ?",
+        "answer": "Nous prenons en charge une large gamme de formats vidéo comprenant MP4, AVI, et MOV pour un traitement sans faille. Assurez-vous que vos vidéos sont correctement compressées pour des performances optimales."
+      },
+      {
+        "question": "Les points forts que je reçois sont-ils prêts à être utilisés ?",
+        "answer": "Oui ! Les points forts extraits sont entièrement éditables et prêts à être partagés ou intégrés dans d'autres projets."
+      },
+      {
+        "question": "Ai-je besoin d'un logiciel de montage pour affiner les points forts ?",
+        "answer": "Bien que les points forts soient prêts à l'emploi, vous pouvez les améliorer davantage avec votre logiciel de montage préféré si vous le souhaitez."
+      },
+      {
+        "question": "À quelle fréquence le modèle de détection des points forts est-il mis à jour ?",
+        "answer": "Nos modèles IA sont continuellement améliorés en fonction des retours des utilisateurs et des recherches en cours pour garantir des performances et une précision optimales."
+      },
+      {
+        "question": "Y a-t-il un support disponible si je rencontre des problèmes ?",
+        "answer": "Oui ! Nous offrons un support complet par le biais de la documentation, de tutoriels, et d'une équipe de support dédiée pour vous aider avec toutes vos questions ou défis."
+      },
+      {
+        "question": "Quelle est la structure tarifaire pour utiliser le détecteur de points forts ?",
+        "answer": "Nous fonctionnons sur un modèle flexible de paiement à la consommation sans frais mensuels. Les coûts sont basés sur la longueur de la vidéo et la complexité du processus de détection des points forts."
+      },
+      {
+        "question": "Puis-je utiliser les points forts commercialement ?",
+        "answer": "Absolument ! Tous les points forts produits par notre plateforme sont accompagnés de droits commerciaux complets, vous permettant de les utiliser dans des promotions, des annonces, et d'autres activités commerciales."
+      },
+      {
+        "question": "Y a-t-il une limite au nombre de vidéos que je peux traiter ?",
+        "answer": "Non, vous pouvez traiter autant de vidéos que vous le souhaitez sans limites. Profitez de notre infrastructure robuste conçue pour gérer efficacement plusieurs téléchargements de vidéos."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Détecter Vos Points Forts Vidéo ?",
+    "description": "Commencez avec des crédits gratuits et voyez la puissance de l'IA en action !",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Essayez-le maintenant →"
+  },
+  "footer": {
+    "heading": "Prêt à Découvrir les Moments Clés ?",
+    "description": "Découvrez le Détecteur de Points Forts IA et transformez votre contenu vidéo aujourd'hui. Aucune inscription requise.",
+    "ctaText": "Détecter les Points Forts Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

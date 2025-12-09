@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Create Stunning Parallax Effects with Ease",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Enhance Your Photos with Parallax Effects",
+    "description": "Add depth and dimension to your images effortlessly, making them visually engaging and dynamic.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo before parallax effect"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example photo after parallax effect"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Create Parallax Effects on Your Images",
+      "prompt": {
+        "heading": " Prompt",
+        "placeholder": "E.g., Add depth to the landscape, create floating elements, bring the image to life..."
+      },
+      "upload": {
+        "heading": " Select image or Input URL"
+      },
+      "processButton": "Create Parallax Effect Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "10M+",
+        "description": "Images Processed"
+      },
+      {
+        "title": "99.8%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "2.5s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Experience how the AI can turn static images into captivating parallax visuals.",
+    "items": [
+      {
+        "title": "Dynamic Landscapes",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing dynamic landscape parallax effect",
+        "description": "Turn serene images into breathtaking 3D experiences."
+      },
+      {
+        "title": "Engaging Portraits",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing engaging portraits with parallax effect",
+        "description": "Make your portraits stand out with depth and motion."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI for Parallax Effects?",
+    "description": "Revolutionize your images with cutting-edge AI technology that brings your visuals to life.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Instant Results",
+        "description": "Transform static images into dynamic parallax visuals in seconds with powerful algorithms."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "No design expertise needed. Just upload and let our AI enhance your images effortlessly."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Secure Processing",
+        "description": "All transformations are done safely in your browser, ensuring your images remain private."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Achieve stunning parallax with three simple steps",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Your Image",
+        "description": "Select an image to bring to life. Our tool supports popular formats like JPG, PNG, and WebP."
+      },
+      {
+        "serial": "2",
+        "title": "AI Enhancement",
+        "description": "Our AI analyzes your image, adding depth and movement, creating a captivating parallax effect."
+      },
+      {
+        "serial": "3",
+        "title": "Download Your Creation",
+        "description": "Preview the transformed image and download your new artwork in high quality, ready to impress."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Discover how users are transforming their photos with our innovative parallax effect",
+    "items": [
+      {
+        "name": "Emily Davis",
+        "stars": 5,
+        "comment": "I love how the parallax effect turned my travel photos into stunning works of art. It’s like seeing them come alive!"
+      },
+      {
+        "name": "John Smith",
+        "stars": 5,
+        "comment": "As a content creator, this tool has drastically improved the engagement of my images. It’s simply amazing!"
+      },
+      {
+        "name": "Laura Thompson",
+        "stars": 5,
+        "comment": "The ease of use and instant results blew me away. My followers can't get enough of my new parallax enhanced pictures!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your questions about the parallax effect feature",
+    "items": [
+      {
+        "title": "What is the Parallax Effect?",
+        "description": "The parallax effect creates an illusion of depth in 2D images by moving layers at different speeds. This technique enhances visual appeal and engagement."
+      },
+      {
+        "title": "Can I use the parallax effects commercially?",
+        "description": "Yes! Users with a subscription can use generated parallax effects for commercial projects. Free-tier users can use them for personal purposes only."
+      },
+      {
+        "title": "How do I make the most out of the parallax effect?",
+        "description": "To achieve the best results, use high-quality images with distinct foreground and background elements. Our AI will handle the rest!"
+      },
+      {
+        "title": "Is my data safe while using this feature?",
+        "description": "Absolutely! We process all images directly in your browser, ensuring your data remains private and secure at all times."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Enhance Your Photos?",
+    "description": "Try WaveSpeed AI now and experience the captivating parallax effect. No sign-up required.",
+    "ctaText": "Create Parallax Effect Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

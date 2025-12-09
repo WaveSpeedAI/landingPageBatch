@@ -1,0 +1,229 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI 图像转视频生成器",
+  "meta": {
+    "description": "轻松从您的照片中删除不需要的物体，从而获得更干净、更专业的图像。非常适合电子商务、营销和个人使用。立即开始使用 WaveSpeed AI 转变您的照片！",
+    "keywords": "从照片中移除物体 AI，照片编辑工具，电子商务图像增强，专业照片修饰，AI 图像清理，Wavespeed AI，照片增强，背景移除，在线照片编辑"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI 工具",
+        "items": [
+          [
+            "AI 工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即尝试"
+  },
+  "hero": {
+    "heading": "从照片中移除不需要的物体",
+    "subHeading": "立即增强您的图像",
+    "description": "轻松消除照片中的干扰，使其在短时间内看起来光滑。我们的 AI 技术让您只需上传图像并精确移除任何不需要的物品。体验无缝的转变，提升您的视觉效果！",
+    "tryText": "立即尝试",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI 从照片中移除物体的解决方案",
+    "left": {
+      "heading": "传统编辑的困难",
+      "items": [
+        "手动编辑既乏味又耗时",
+        "需要 Photoshop 等软件的高级技能",
+        "容易出现人为错误且结果不一致",
+        "雇佣专业人士的费用高昂",
+        "仅限于小幅调整和修复"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI 解决方案",
+      "items": [
+        "借助 AI 驱动的技术在几秒钟内删除物体",
+        "无需设计技能 - 只需上传并点击",
+        "自动化精度确保一致的质量",
+        "适合每个预算的经济解决方案",
+        "无限次修订以获得完美结果"
+      ],
+      "tryText": "尝试"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "通过 3 个简单步骤实现清晰的照片",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传图像",
+        "text": "上传包含不需要物体的照片",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "选择物体",
+        "text": "突出显示您希望从图像中删除的项目",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "选择模型",
+        "text": "选择 Veo 3.1 以获得优质效果，或选择 Seedance 以提高速度",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载编辑后的照片",
+        "text": "在短短几秒钟内获取没有干扰的编辑照片",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "增强您的第一张照片 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无限可能",
+    "description": "适合多种用途",
+    "items": [
+      "电子商务产品图像",
+      "社交媒体帖子和广告",
+      "房地产 listings",
+      "活动摄影",
+      "家庭肖像",
+      "时尚摄影",
+      "博客视觉",
+      "任何需要增强的图像"
+    ]
+  },
+  "successStories": {
+    "heading": "真实成功故事",
+    "description": "发现我们的客户如何通过 AI 完美他们的视觉效果",
+    "items": [
+      {
+        "tag": "电子商务",
+        "heading": "在线零售商店",
+        "before": {
+          "label": "之前",
+          "text": "杂乱的图像"
+        },
+        "after": {
+          "label": "之后",
+          "text": "干净、专业的外观"
+        },
+        "value": "80%",
+        "key": "转化率提升",
+        "description": "消除干扰显著提高了我们的在线销售，使客户能够专注于产品。"
+      },
+      {
+        "tag": "摄影",
+        "heading": "活动摄影师",
+        "before": {
+          "label": "之前",
+          "text": "繁忙的背景"
+        },
+        "after": {
+          "label": "之后",
+          "text": "惊艳的肖像"
+        },
+        "value": "90%",
+        "key": "节省时间",
+        "description": "AI 编辑简化了我们的工作流程，使我们能够更快地将编辑后的照片交付给客户。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI 模型比较",
+    "description": "为您的照片编辑选择最佳方法",
+    "items": [
+      "标准移除：用于简单背景的快速编辑",
+      "高级移除：用于具有多个元素的复杂场景",
+      "文本引导编辑以精确识别物体",
+      "无缝集成到现有工作流程中",
+      "快速处理时间与高质量输出"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关 AI 工具",
+    "description": "探索更多强大的照片增强工具"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要知道的一切",
+    "items": [
+      {
+        "question": "什么类型的图像最适合物体移除？",
+        "answer": "具有清晰背景的图像效果最佳，尽管我们的 AI 也可以有效处理复杂场景。关键是要有高分辨率、干扰最小的图像。"
+      },
+      {
+        "question": "物体移除过程精确吗？",
+        "answer": "我们的 AI 技术提供高精度，确保物体在保持图像质量和背景完整性的同时被无缝移除。"
+      },
+      {
+        "question": "如果不满意，我可以撤销更改吗？",
+        "answer": "可以！您可以随时轻松恢复到原始照片，从而在编辑过程中保持灵活性。"
+      },
+      {
+        "question": "你们支持什么文件格式？",
+        "answer": "我们支持 JPG、PNG 和 WebP 格式，确保与大多数常用图像的兼容性。"
+      },
+      {
+        "question": "我可以处理多少张图像，是否有限制？",
+        "answer": "没有限制！您可以根据需要上传和编辑多张图像。"
+      },
+      {
+        "question": "我需要设计经验才能使用此工具吗？",
+        "answer": "完全不需要！用户友好的界面设计适合每个人，无论设计技能如何。"
+      },
+      {
+        "question": "从照片中移除物体需要多长时间？",
+        "answer": "过程非常快速，通常在一分钟内完成，具体取决于图像的复杂性。"
+      },
+      {
+        "question": "是否有隐藏费用？",
+        "answer": "没有隐藏费用！我们采用透明的按需支付模式，您只需为所做的编辑付费。"
+      },
+      {
+        "question": "我可以将编辑后的图像用于商业目的吗？",
+        "answer": "可以！您拥有通过我们的工具编辑的任何图像的完整权利，允许商业使用而无需额外费用。"
+      },
+      {
+        "question": "可以获得什么样的支持？",
+        "answer": "我们提供广泛的支持，包括文档、教程和随时准备帮助您解决任何问题或问题的支持团队。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备好整理您的照片了吗？",
+    "description": "开始使用免费积分进行编辑 - 立即转变您的图像！",
+    "contactUsText": "联系我们",
+    "tryText": "立即尝试 →"
+  },
+  "footer": {
+    "heading": "准备好转变您的照片了吗？",
+    "description": "立即尝试 WaveSpeed AI，亲自体验不同。无需注册。",
+    "ctaText": "立即移除物体",
+    "text": "© 2025 WaveSpeed AI。保留所有权利。"
+  }
+}

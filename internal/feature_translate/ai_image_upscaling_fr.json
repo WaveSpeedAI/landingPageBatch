@@ -1,0 +1,226 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Mise à l'échelle d'images par IA",
+  "meta": {
+    "description": "Améliorez vos images avec la technologie avancée de mise à l'échelle d'images de WaveSpeed AI. Idéal pour le commerce électronique et les projets créatifs. Obtenez une qualité époustouflante sans effort !",
+    "keywords": "mise à l'échelle d'images par IA, amélioration d'images, amélioration de la qualité photo, images de commerce électronique, éditeur de photos par IA, images haute résolution, restauration de photos, récupération de détails, amélioreur d'images Shopify, images de produits Amazon"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Mise à l'échelle d'images",
+    "subHeading": "Élevez instantanément la qualité de vos photos",
+    "description": "Transformez vos photos standard en images haute résolution éblouissantes en quelques secondes. Aucun logiciel complexe n'est requis. Découvrez la liberté d'améliorer chaque détail sans effort.",
+    "tryText": "Essayez-le maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution de mise à l'échelle d'images par IA WaveSpeed AI",
+    "left": {
+      "heading": "Défis de mise à l'échelle traditionnels",
+      "items": [
+        "Logiciels et plugins coûteux",
+        "Nécessite des compétences techniques avancées",
+        "Ajustements manuels chronophages",
+        "Résultats limités avec une mise à l'échelle basique",
+        "Flux de travail compliqués pour l'amélioration d'images"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed AI",
+      "items": [
+        "Améliorez les images en quelques secondes avec un seul clic",
+        "Aucune expertise requise - Téléversez et améliorez facilement",
+        "Résultats haute résolution instantanés grâce à l'IA",
+        "Ajustements et améliorations illimités disponibles",
+        "Modèle pay-as-you-go - Accessible à tous"
+      ],
+      "tryText": "Essayez"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment ça fonctionne",
+    "description": "Améliorez vos photos en 4 étapes simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Téléversez l'image",
+        "text": "Téléversez l'image que vous souhaitez améliorer",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Sélectionnez le niveau d'amélioration",
+        "text": "Choisissez le niveau d'amélioration souhaité",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Aperçu des modifications",
+        "text": "Voir une comparaison côte à côte de l'image améliorée",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Téléchargez l'image améliorée",
+        "text": "Obtenez votre image haute qualité prête à l'emploi",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Améliorez votre première image →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilités infinies",
+    "description": "Idéal pour diverses applications",
+    "items": [
+      "Images de produits pour le commerce électronique",
+      "Graphiques et publications sur les réseaux sociaux",
+      "Matériel de marketing numérique",
+      "Améliorations de portfolio pour les créatifs",
+      "Médias imprimés et publicités",
+      "Présentations professionnelles",
+      "Images pour blog ou site web",
+      "Visuels de haute qualité pour projets personnels"
+    ]
+  },
+  "successStories": {
+    "heading": "Vraies histoires de succès",
+    "description": "Découvrez comment les entreprises améliorent leurs visuels avec l'IA",
+    "items": [
+      {
+        "tag": "E-commerce",
+        "heading": "Amélioration de la qualité des images produits",
+        "before": {
+          "label": "Avant",
+          "text": "Résolution basse"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Haute résolution époustouflante"
+        },
+        "value": "97%",
+        "key": "Amélioration de la qualité",
+        "description": "Nos images de produits ont été transformées, entraînant une augmentation de 30 % des ventes au cours de la première semaine."
+      },
+      {
+        "tag": "Conception graphique",
+        "heading": "Améliorations pour designers freelance",
+        "before": {
+          "label": "Avant",
+          "text": "Édits chronophages"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Améliorations instantanées"
+        },
+        "value": "95%",
+        "key": "Temps gagné",
+        "description": "Notre processus d'édition a été considérablement rationalisé, nous permettant de prendre plus de clients."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison de modèles IA",
+    "description": "Découvrez la meilleure approche d'amélioration pour vos besoins",
+    "items": [
+      "Modèle standard : amélioration rapide, bonne qualité, adapté à la plupart des images",
+      "Modèle avancé : qualité supérieure, idéal pour un usage professionnel, plus de temps de traitement",
+      "Prend en charge le traitement par lots pour plusieurs images à la fois",
+      "Mise à l'échelle des résolutions jusqu'à 8K",
+      "Préserve la fidélité des couleurs et des détails",
+      "Processus rationalisé avec droits d'utilisation commerciale inclus"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils IA Connexes",
+    "description": "Découvrez d'autres outils IA pour l'amélioration visuelle"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quelle qualité d'image puis-je attendre après la mise à l'échelle ?",
+        "answer": "Nos modèles IA offrent des améliorations éblouissantes, résultant en des images haute résolution allant jusqu'à 8K, garantissant que chaque détail est net et visuellement attrayant."
+      },
+      {
+        "question": "Puis-je mettre à l'échelle différents types d'images ?",
+        "answer": "Absolument ! Notre IA peut traiter une variété d'images y compris des photos de produits, des portraits et des paysages, les transformant toutes en contenu visuel de haute qualité."
+      },
+      {
+        "question": "Quels formats de fichiers sont acceptés pour les téléversements d'images ?",
+        "answer": "Nous supportons plusieurs formats y compris JPG, PNG et TIFF. Assurez-vous simplement que vos images sont claires et bien éclairées pour de meilleurs résultats."
+      },
+      {
+        "question": "Comment l'IA détermine-t-elle la meilleure amélioration ?",
+        "answer": "Notre technologie analyse les motifs et détails de votre image originale pour restaurer et améliorer efficacement la résolution tout en maintenant un aspect naturel."
+      },
+      {
+        "question": "Y a-t-il une limite au nombre d'images que je peux mettre à l'échelle ?",
+        "answer": "Pas de limites ! Vous pouvez mettre à l'échelle autant d'images que vous le souhaitez, et notre fonction de traitement par lots permet des améliorations simultanées pour plus d'efficacité."
+      },
+      {
+        "question": "Quel modèle de tarification le service utilise-t-il ?",
+        "answer": "Nous opérons sur une stratégie flexible de paiement à l'utilisation, où vous ne payez que pour les images que vous mettez à l'échelle. Pas d'abonnements ou de frais cachés !"
+      },
+      {
+        "question": "Quelle rapidité puis-je attendre pour l'amélioration de mes images ?",
+        "answer": "Les temps d'amélioration varient, mais la plupart des images sont traitées en quelques secondes, vous permettant de voir instantanément la qualité améliorée."
+      },
+      {
+        "question": "Vais-je conserver les droits sur mes images améliorées ?",
+        "answer": "Oui ! Vous avez des droits commerciaux complets sur toutes les images améliorées via notre plateforme, sans frais supplémentaires ni redevances."
+      },
+      {
+        "question": "Quelles options de support sont disponibles si je rencontre des problèmes ?",
+        "answer": "Nous offrons un support étendu à travers la documentation, des didacticiels, et une équipe de support réactive prête à vous aider avec toutes questions ou préoccupations."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à améliorer vos images ?",
+    "description": "Commencez maintenant avec des crédits gratuits - Découvrez la mise à niveau !",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Essayez-le maintenant →"
+  },
+  "footer": {
+    "heading": "Prêt à transformer vos photos ?",
+    "description": "Essayez WaveSpeed AI maintenant et voyez la différence par vous-même. Aucun enregistrement requis.",
+    "ctaText": "Mettez à l'échelle vos images maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

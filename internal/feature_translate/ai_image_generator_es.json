@@ -1,0 +1,221 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Generador de Imágenes AI",
+  "meta": {
+    "description": "Produce imágenes impresionantes para tus proyectos sin esfuerzo utilizando AI. Eleva tus visuales al instante con una creatividad y eficiencia mejoradas. Perfecto para comercializadores, diseñadores y creadores de contenido. ¡Descubre el potencial de las imágenes impulsadas por AI!",
+    "keywords": "generador de imágenes AI, crear imágenes con AI, creador de contenido visual, mejora de imágenes digitales, herramientas de diseño gráfico AI, imágenes para marketing, visuales creativos, mejora de fotografía, automatización de diseño, imágenes para comercio electrónico, visuales para redes sociales"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Muestra",
+        "items": [
+          [
+            "Muestra",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Prúebalo ahora"
+  },
+  "hero": {
+    "heading": "Generación de Imágenes Hecha Fácil",
+    "subHeading": "Crea Visuales Impresionantes al Instante",
+    "description": "Transforma tus ideas creativas en hermosas imágenes en cuestión de momentos. No necesitas software profesional ni habilidades de diseño. Aprovecha el poder de la avanzada AI para dar vida a tus visiones sin esfuerzo. ¡Comienza y presencia la magia!",
+    "tryText": "Comienza Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución Generador de Imágenes AI de WaveSpeed AI",
+    "left": {
+      "heading": "Desafíos de Creación de Imágenes Tradicionales",
+      "items": [
+        "Requiere habilidades de diseño extensas",
+        "Procesos manuales que consumen tiempo",
+        "Licencias de software costosas",
+        "Creatividad y personalización limitadas",
+        "Calidad de imagen inconsistente"
+      ]
+    },
+    "right": {
+      "heading": "Solución WaveSpeed AI",
+      "items": [
+        "Genera imágenes en segundos a partir de descripciones",
+        "No se necesita experiencia en diseño - Solo describe",
+        "Resultados instantáneos de alta calidad con AI",
+        "Opciones creativas y variaciones sin fin",
+        "Precios flexibles - Accesible para todos"
+      ],
+      "tryText": "Prueba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "Transforma tus ideas en imágenes en 4 pasos simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Describe Tu Idea",
+        "text": "Proporciona un aviso de texto detallando lo que deseas crear",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Selecciona Estilo",
+        "text": "Elige entre una variedad de estilos artísticos y temáticas",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Revisa Opciones",
+        "text": "Explora imágenes generadas por AI y selecciona tus favoritas",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Descarga Imagen",
+        "text": "Obtén tu impresionante imagen en poco tiempo con todos los derechos",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Crea Tu Primera Imagen →"
+  },
+  "endlessPossibilities": {
+    "heading": "Posibilidades Sin Fin",
+    "description": "Ideal para cualquier proyecto o campaña",
+    "items": [
+      "Visuales de marketing para anuncios y redes sociales",
+      "Gráficos para sitios web y activos digitales",
+      "Contenido para blogs y artículos",
+      "Publicaciones y historias para redes sociales",
+      "Materiales impresos como carteles y folletos",
+      "Muestras de productos y catálogos",
+      "Arte creativo para proyectos personales",
+      "Visuales para presentaciones y propuestas"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Descubre cómo los usuarios están revolucionando su proceso creativo con AI",
+    "items": [
+      {
+        "tag": "Marca de Moda",
+        "heading": "Campañas Promocionales",
+        "before": {
+          "label": "Antes",
+          "text": "Manual y costoso"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Rápido y económico"
+        },
+        "value": "85%",
+        "key": "Eficiencia de Costos",
+        "description": "Lanzamos nuestra campaña con visuales frescos en pocas horas. ¡El compromiso de la audiencia mejoró en un 50%!"
+      },
+      {
+        "tag": "Tienda de Comercio Electrónico",
+        "heading": "Imágenes de Productos para Listados",
+        "before": {
+          "label": "Antes",
+          "text": "Días para crear"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Minutos para generar"
+        },
+        "value": "95%",
+        "key": "Tiempo Ahorrado",
+        "description": "Esta herramienta nos permitió producir rápidamente imágenes únicas, impulsando ventas más altas al instante."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Modelos AI",
+    "description": "Selecciona el modelo ideal para tus necesidades",
+    "items": [
+      "Modelo Básico: Calidad estándar, generación rápida, perfecto para contenido de redes sociales",
+      "Modelo Avanzado: Imágenes de alta calidad con detalles personalizables, adecuado para marketing",
+      "Estilos variados para satisfacer cualquier necesidad de marca",
+      "Tiempo de respuesta rápido con ajustes mínimos necesarios",
+      "Interfaz fácil de usar para una experiencia sin complicaciones",
+      "Derechos de uso comercial para todas las imágenes generadas"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas AI Relacionadas",
+    "description": "Explora herramientas AI adicionales y potentes para la creación visual"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué tipos de imágenes puedo crear?",
+        "answer": "Puedes generar una amplia gama de imágenes, desde visuales de productos hasta ilustraciones artísticas, lo que las hace adecuadas para diversas aplicaciones, incluido marketing, redes sociales y proyectos personales."
+      },
+      {
+        "question": "¿Puedo personalizar el estilo de las imágenes?",
+        "answer": "¡Absolutamente! Puedes elegir entre varios estilos y temáticas artísticas, ajustando la salida para que se ajuste a tu visión específica."
+      },
+      {
+        "question": "¿Cómo entiende la AI mis avisos de texto?",
+        "answer": "Nuestra AI aprovecha el procesamiento avanzado del lenguaje natural para interpretar tus descripciones, traduciéndolas en salidas visuales únicas que coinciden con tu intención."
+      },
+      {
+        "question": "¿En qué formatos de archivo puedo descargar mis imágenes?",
+        "answer": "Las imágenes se pueden descargar en múltiples formatos como JPG, PNG y otros para versatilidad en su uso en diversas plataformas."
+      },
+      {
+        "question": "¿Tengo derechos comerciales sobre las imágenes generadas?",
+        "answer": "Sí, todas las imágenes generadas vienen con derechos de uso comercial, lo que te permite utilizarlas libremente para tus proyectos sin tarifas adicionales de licencia."
+      },
+      {
+        "question": "¿Hay un límite en la cantidad de imágenes que puedo generar?",
+        "answer": "¡No hay límites en la generación de imágenes! Puedes crear tantas imágenes como necesites, asegurándote de tener acceso a opciones creativas infinitas."
+      },
+      {
+        "question": "¿Puedo mejorar las imágenes después de la generación?",
+        "answer": "Sí, puedes refinar aún más las imágenes utilizando diversas herramientas y características de edición disponibles en nuestra plataforma."
+      },
+      {
+        "question": "¿Qué estructura de precios ofrecen para la generación de imágenes?",
+        "answer": "Ofrecemos una estructura de precios flexible de pago por uso sin requerir suscripciones. Solo pagas por las imágenes que generas, asegurando eficiencia en costos."
+      },
+      {
+        "question": "¿Qué tan rápido puedo esperar que se generen mis imágenes?",
+        "answer": "La generación de imágenes generalmente toma segundos, permitiendo una rápida creación de prototipos y exploración creativa."
+      },
+      {
+        "question": "¿Qué recursos de soporte proporcionan para solucionar problemas?",
+        "answer": "Ofrecemos documentación extensa, tutoriales y una comunidad de apoyo para asistirte con cualquier pregunta o problema técnico."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Crear Tu Primera Imagen AI?",
+    "description": "Comienza con créditos gratis - Experimenta la transformación por ti mismo",
+    "contactUsText": "Contáctanos",
+    "tryText": "Comienza Ahora →"
+  },
+  "footer": {
+    "heading": "¿Listo para Mejorar Tus Visuales?",
+    "description": "Prueba WaveSpeed AI ahora y desata tu creatividad. No se requiere registro.",
+    "ctaText": "Comienza a Generar Imágenes Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

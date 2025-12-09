@@ -1,0 +1,212 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI 内容审核",
+  "meta": {
+    "description": "利用人工智能保护您的在线社区安全和吸引人。有效过滤有害内容，增强用户体验，并遵守法规。非常适合社交平台和电子商务网站。",
+    "keywords": "AI 内容审核，有害内容过滤，在线安全，用户体验增强，社区管理，社交媒体审核，电子商务内容管理，实时过滤，自动审核工具，WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI 工具",
+        "items": [
+          [
+            "AI 工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即尝试"
+  },
+  "hero": {
+    "heading": "AI 内容审核",
+    "subHeading": "利用智能过滤器保护您的社区",
+    "description": "利用我们强大的人工智能自动过滤有害内容，并实时增强用户互动。轻松保护您的在线形象。今天就开始审核吧！",
+    "tryText": "立即尝试",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI 内容审核解决方案",
+    "left": {
+      "heading": "传统挑战",
+      "items": [
+        "手动审核耗时",
+        "有害内容可能漏网",
+        "审核标准执行不一致",
+        "用户对不当内容的投诉",
+        "难以满足监管要求"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI 解决方案",
+      "items": [
+        "实时自动内容过滤",
+        "一致的审核政策执行",
+        "降低有害内容曝光风险",
+        "提升整体用户体验",
+        "简单集成到现有平台中"
+      ],
+      "tryText": "尝试"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "通过三个简单步骤实施有效审核",
+    "steps": [
+      {
+        "number": "1",
+        "title": "集成 API",
+        "text": "无缝连接我们的审核 API 到您的平台",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "设定准则",
+        "text": "根据您的社区标准定义要过滤的内容",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "监控和调整",
+        "text": "实时接收报告，按需调整审核参数",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "开始审核 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无尽的可能性",
+    "description": "适用于各种在线平台",
+    "items": [
+      "社交媒体网站",
+      "电子商务市场",
+      "讨论论坛",
+      "游戏社区",
+      "内容分享平台",
+      "博客评论区"
+    ]
+  },
+  "successStories": {
+    "heading": "真实成功故事",
+    "description": "发现企业如何利用 AI 确保安全的在线环境",
+    "items": [
+      {
+        "tag": "社交媒体网络",
+        "heading": "青年参与平台",
+        "before": {
+          "label": "之前",
+          "text": "投诉率高"
+        },
+        "after": {
+          "label": "之后",
+          "text": "负面内容最小化"
+        },
+        "value": "85%",
+        "key": "内容安全改善",
+        "description": "自动化审核大幅减少了有害帖子，为用户提供了更安全的空间。"
+      },
+      {
+        "tag": "电子商务门户",
+        "heading": "产品评论网站",
+        "before": {
+          "label": "之前",
+          "text": "内容指南混淆"
+        },
+        "after": {
+          "label": "之后",
+          "text": "审核流程清晰"
+        },
+        "value": "90%",
+        "key": "用户信任提升",
+        "description": "增强的审核促进了积极的互动并提升了客户信任。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI 模型比较",
+    "description": "选择适合您需求的审核方法",
+    "items": [
+      "内容过滤模型：高准确率，可定制，适合敏感话题",
+      "垃圾邮件检测模型：快速性能，实时识别无关帖子",
+      "AI 学习：根据用户反馈持续改进",
+      "用户驱动的审核工具，用于社区报告",
+      "仪表板分析：监控内容趋势和审核效果"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关 AI 工具",
+    "description": "发现更多在线安全的必要工具"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要了解的一切",
+    "items": [
+      {
+        "question": "内容审核是如何工作的？",
+        "answer": "我们的 AI 实时分析帖子和评论，以识别并过滤有害内容，确保其在到达用户之前被处理。它通过社区反馈不断学习，以适应和改进。"
+      },
+      {
+        "question": "我可以自定义审核准则吗？",
+        "answer": "当然可以！您可以根据社区的价值观和标准设定特定的准则，确保相关内容通过，而不需要的材料被过滤掉。"
+      },
+      {
+        "question": "有害内容可以多快被过滤？",
+        "answer": "AI 实时工作，这意味着大多数有害内容几乎瞬间被识别和审核，保持您的在线环境安全。"
+      },
+      {
+        "question": "什么类型的内容可以被审核？",
+        "answer": "我们的技术能够检测仇恨言论、垃圾邮件、露骨内容和其他有害材料，包括文本、图像和视频等多种媒体。"
+      },
+      {
+        "question": "我会收到审核活动的报告吗？",
+        "answer": "是的！您将定期收到有关审核行动的分析和报告，从而提高监督和策略调整的能力。"
+      },
+      {
+        "question": "这个服务是否能够扩展到大型社区？",
+        "answer": "当然可以！我们的解决方案旨在与您的增长无缝扩展，能够高效处理增加的内容量而不影响性能。"
+      },
+      {
+        "question": "如果我遇到问题，会提供什么支持？",
+        "answer": "我们提供全面的支持，包括文档、教程以及专门的帮助台，以协助处理任何技术问题或挑战。"
+      },
+      {
+        "question": "用户可以对审核决定提出上诉吗？",
+        "answer": "是的，用户可以通过平台提交上诉。每个案件将被审查，以确保审核中的公平对待和透明度。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备增强您的社区安全吗？",
+    "description": "开始使用免费信用 - 体验 AI 审核今天",
+    "contactUsText": "联系我们",
+    "tryText": "立即尝试 →"
+  },
+  "footer": {
+    "heading": "准备好保护您的平台了吗？",
+    "description": "立即尝试 WaveSpeed AI，见证转变。无需注册。",
+    "ctaText": "现在开始审核",
+    "text": "© 2025 WaveSpeed AI. 版权所有。"
+  }
+}

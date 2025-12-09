@@ -1,0 +1,205 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - KI-Videoanomalieerkennung",
+  "meta": {
+    "description": "Erkennen Sie mühelos Anomalien in Videoaufnahmen mit modernster KI-Technologie. Verbessern Sie die Sicherheit, steigern Sie die Betriebseffizienz und gewinnen Sie wertvolle Erkenntnisse mit präzisen Erkennungsfähigkeiten. Ideal für Überwachung, Qualitätskontrolle und mehr.",
+    "keywords": "Videoanomalieerkennung, KI-Videoanalyse, Überwachungstechnologie, Sicherheitsüberwachung, Betriebseffizienz, Qualitätskontrolle, Videointelligenz, automatisierte Anomalieerkennung, KI-Lösungen für Video, Echtzeit-Alarmsysteme"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI-Tools",
+        "items": [
+          [
+            "KI-Tools",
+            "#ai_tools"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "Videoanomalieerkennung",
+    "subHeading": "Automatisieren Sie die Anomalieerkennung in Ihren Videos",
+    "description": "Revolutionieren Sie die Art und Weise, wie Sie Videodaten überwachen, indem Sie Ausreißer und ungewöhnliches Verhalten in Echtzeit identifizieren. Nutzen Sie fortschrittliche KI-Algorithmen für sofortige Benachrichtigungen und umsetzbare Erkenntnisse, um Ihre Überwachungs- und Qualitätskontrollprozesse zu optimieren. Beginnen Sie noch heute!",
+    "tryText": "Jetzt ausprobieren",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI KI-Videoanomalieerkennungslösung",
+    "left": {
+      "heading": "Herausforderungen der traditionellen Überwachung",
+      "items": [
+        "Manuelle Überprüfung von Stunden an Videomaterial",
+        "Hohe Arbeitskosten und Zeitaufwand",
+        "Schwierigkeiten bei der Identifizierung subtiler Anomalien",
+        "Verzögerungen bei der Reaktion auf potenzielle Probleme",
+        "Inkonsistente Überwachung über mehrere Feeds"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Lösung",
+      "items": [
+        "Automatisierte Erkennung ungewöhnlicher Aktivitäten",
+        "Echtzeit-Benachrichtigungen für sofortige Maßnahmen",
+        "Verbesserte Genauigkeit durch KI-gesteuerte Analyse",
+        "Umfassende Abdeckung von Video-Feeds",
+        "Kosten effektive und skalierbare Überwachung"
+      ],
+      "tryText": "Versuchen"
+    }
+  },
+  "howItWorks": {
+    "heading": "So funktioniert es",
+    "description": "Vom Rohmaterial zu erkannten Anomalien in 3 einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Videoaufnahmen hochladen",
+        "text": "Laden Sie Ihre Videodateien zur Analyse hoch",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Erkennungseinstellungen festlegen",
+        "text": "Definieren Sie, nach welchen Anomalien gesucht werden soll (z. B. Bewegungserkennung, ungewöhnliches Verhalten)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Benachrichtigungen und Berichte erhalten",
+        "text": "Erhalten Sie Benachrichtigungen über erkannte Anomalien mit detaillierten Berichten",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "Beginnen Sie mit der Anomalieerkennung →"
+  },
+  "endlessPossibilities": {
+    "heading": "Anwendungen in verschiedenen Branchen",
+    "description": "Ideal für eine Vielzahl von Überwachungsszenarien",
+    "items": [
+      "Sicherheitsüberwachung für Einzelhandel und Flughäfen",
+      "Qualitätskontrolle in Fertigungsprozessen",
+      "Verkehrsüberwachung und -analyse",
+      "Überwachung von Gesundheitseinrichtungen",
+      "Untersuchungen zu Versicherungsschäden",
+      "Event-Security und Crowd-Management",
+      "Überwachung entlegener Standorte",
+      "Management der Infrastruktur intelligenter Städte"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Erfahren Sie, wie Organisationen KI für die Überwachung nutzen",
+    "items": [
+      {
+        "tag": "Sicherheit",
+        "heading": "Optimierung der Flughafenüberwachung",
+        "before": {
+          "label": "Vorher",
+          "text": "Reaktive Überwachung"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Proaktive Benachrichtigungen"
+        },
+        "value": "75%",
+        "key": "Reduzierung der Reaktionszeit bei Vorfällen",
+        "description": "Die automatisierte Anomalieerkennung hat die Reaktionszeit auf Sicherheitsbedrohungen erheblich verkürzt und die allgemeinen Sicherheitsmaßnahmen verbessert."
+      },
+      {
+        "tag": "Fertigung",
+        "heading": "Verbesserung der Qualitätskontrolle",
+        "before": {
+          "label": "Vorher",
+          "text": "Manuelle Inspektionen"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Automatisierte Erkennung"
+        },
+        "value": "90%",
+        "key": "Steigerung der Erkennungsgenauigkeit",
+        "description": "Der Wechsel zu KI-basierter Überwachung verbesserte unsere Fehlererkennungsraten, wodurch Kosten und Zeit in der Produktion eingespart wurden."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Vergleich der KI-Erkennungsmethoden",
+    "description": "Wählen Sie das richtige Erkennungsmodell für Ihre Bedürfnisse",
+    "items": [
+      "Echtzeitanalyse: Erkennt Anomalien, während sie passieren",
+      "Batch-Verarbeitungsoption zur Analyse großer Datenmengen",
+      "Anpassbare Erkennungsalgorithmen für spezifische Branchen",
+      "Integration in bestehende Sicherheitssysteme",
+      "Benutzerfreundliches Dashboard zur Überwachung von Trends"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Verwandte KI-Tools",
+    "description": "Entdecken Sie weitere KI-Lösungen für verbesserte Überwachung"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welche Arten von Anomalien können erkannt werden?",
+        "answer": "Das System kann eine Vielzahl von Anomalien erkennen, einschließlich Bewegungserkennung, ungewöhnlichem Verhalten und Änderungen in typischen Mustern. Es ist darauf ausgelegt, sich an verschiedene Umgebungen und Anwendungsfälle anzupassen."
+      },
+      {
+        "question": "Wie genau ist die Anomalieerkennung?",
+        "answer": "Unsere KI-Modelle wurden auf unterschiedlichen Datensätzen trainiert, um hohe Genauigkeitsraten zu gewährleisten und falsch-positive Ergebnisse erheblich zu reduzieren. Kontinuierliche Lernmechanismen verbessern die Erkennung im Laufe der Zeit."
+      },
+      {
+        "question": "Kann ich die Erkennungseinstellungen anpassen?",
+        "answer": "Absolut! Benutzer können die Erkennungsparameter basierend auf spezifischen Anforderungen wie Objektarten, Bedeutung der Aktivität und Alarmgrenzen anpassen."
+      },
+      {
+        "question": "Welche Videoformate werden unterstützt?",
+        "answer": "Unsere Technologie unterstützt verschiedene gängige Formate, einschließlich MP4, AVI und MOV, wodurch Flexibilität beim Hochladen von Videos zur Analyse gewährleistet ist."
+      },
+      {
+        "question": "Wie werden Benachrichtigungen übermittelt?",
+        "answer": "Benachrichtigungen können so konfiguriert werden, dass sie Benutzer per E-Mail, SMS oder über unser spezielles App-Dashboard erreichen, um eine zeitnahe Benachrichtigung über erkannte Anomalien sicherzustellen."
+      },
+      {
+        "question": "Ist die Analyse historischer Daten möglich?",
+        "answer": "Ja! Das System ermöglicht die Analyse historischer Aufnahmen und bietet Einblicke in vergangene Anomalien und Trends."
+      },
+      {
+        "question": "Können mehrere Video-Feeds gleichzeitig analysiert werden?",
+        "answer": "Ja, unsere Plattform ermöglicht die gleichzeitige Analyse mehrerer Video-Feeds, um die Überwachungsbemühungen über größere Bereiche zu optimieren."
+      },
+      {
+        "question": "Muss ich über technische Kenntnisse verfügen?",
+        "answer": "Nein, die WaveSpeed AI-Plattform ist benutzerfreundlich gestaltet, sodass eine unkomplizierte Einrichtung und Bedienung für Benutzer ohne technische Vorkenntnisse möglich ist."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Ihre Videoüberwachung zu verbessern?",
+    "description": "Beginnen Sie mit kostenlosen Krediten und erleben Sie die Transformation hautnah",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Jetzt ausprobieren →"
+  },
+  "footer": {
+    "heading": "Bereit, Anomalien in Ihren Videos zu erkennen?",
+    "description": "Probieren Sie WaveSpeed AI jetzt aus und erleben Sie die Effektivität selbst. Keine Anmeldung erforderlich.",
+    "ctaText": "Jetzt mit der Erkennung beginnen",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

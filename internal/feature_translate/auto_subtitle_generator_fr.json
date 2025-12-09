@@ -1,0 +1,222 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Générateur de sous-titres automatique",
+  "meta": {
+    "description": "Générez des sous-titres précis pour vos vidéos sans effort avec notre Générateur de sous-titres automatique. Améliorez l'accessibilité et l'engagement pour divers publics. Idéal pour les créateurs de contenu, les éducateurs et les marketeurs. Découvrez la précision de la technologie alimentée par l'IA !",
+    "keywords": "générateur de sous-titres automatique, sous-titres vidéo, sous-titres IA, outil de transcription, sous-titres codés, solution d'accessibilité, création de contenu, vidéos marketing, vidéos éducatives, WaveSpeed AI, amélioration vidéo"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Génération automatique de sous-titres",
+    "subHeading": "Créez des sous-titres parfaits en quelques secondes",
+    "description": "Générez instantanément des sous-titres précis pour vos vidéos, garantissant l'accessibilité et la compréhension pour tous les spectateurs. Parfait pour les créateurs de contenu et les entreprises cherchant à améliorer leur portée. Essayez-le maintenant et constatez la différence !",
+    "tryText": "Essayez-le maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution Générateur de Sous-titres Automatique WaveSpeed AI",
+    "left": {
+      "heading": "Défis Traditionnels",
+      "items": [
+        "La transcription manuelle est chronophage et fastidieuse",
+        "Coûts élevés pour des services de transcription professionnels",
+        "Incohérences dans l'exactitude et la synchronisation",
+        "Support linguistique limité dans les outils traditionnels",
+        "Nécessite des connaissances d'expert pour un sous-titrage efficace"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeedAI",
+      "items": [
+        "Générez des sous-titres précis en quelques minutes",
+        "Solution économique avec un modèle de paiement à l'utilisation",
+        "L'exactitude pilotée par l'IA garantit un timing et un texte précis",
+        "Supporte plusieurs langues et formats",
+        "Interface conviviale pour une génération sans effort"
+      ],
+      "tryText": "Essayez"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment Ça Marche",
+    "description": "Sous-titrage sans effort en 4 étapes simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Télécharger la vidéo",
+        "text": "Téléchargez votre fichier vidéo pour la génération de sous-titres",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Sélectionner la langue",
+        "text": "Choisissez la langue pour les sous-titres parmi nos options étendues",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Générer des sous-titres",
+        "text": "Laissez l'IA traiter votre vidéo et générer des sous-titres",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Télécharger les sous-titres",
+        "text": "Recevez votre fichier de sous-titres prêt à l'emploi instantanément",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Générez vos sous-titres →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilités Illimitées",
+    "description": "Parfait pour tout type de contenu vidéo",
+    "items": [
+      "Créateurs de contenu YouTube",
+      "Conférences éducatives et webinaires",
+      "Vidéos marketing pour produits et services",
+      "Vidéos sur les réseaux sociaux pour un plus large public",
+      "Documentaires et vidéos informatives",
+      "Matériaux de formation en entreprise",
+      "Podcasts avec éléments visuels",
+      "Vidéos de divertissement et films"
+    ]
+  },
+  "successStories": {
+    "heading": "Véritables Histoires de Succès",
+    "description": "Découvrez comment les utilisateurs maximisent leur productivité grâce à l'IA",
+    "items": [
+      {
+        "tag": "Éducation",
+        "heading": "Série de Conférences Universitaires",
+        "before": {
+          "label": "Avant",
+          "text": "Les sous-titres manuels prenaient des semaines"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Sous-titres instantanés en quelques minutes"
+        },
+        "value": "95%",
+        "key": "Économies de Temps",
+        "description": "Les sous-titres sont désormais générés en quelques instants, permettant un partage de contenu plus rapide et une meilleure clarté pour les étudiants."
+      },
+      {
+        "tag": "Marketing",
+        "heading": "Vidéos de Produits E-commerce",
+        "before": {
+          "label": "Avant",
+          "text": "Coûts de transcription élevés"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Sous-titres automatiques abordables"
+        },
+        "value": "90%",
+        "key": "Réduction des Coûts",
+        "description": "Nos campagnes vidéo ont enregistré un engagement accru, avec des sous-titres clairs rendant notre message accessible."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison des Modèles IA",
+    "description": "Comprendre les fonctionnalités de notre génération de sous-titres",
+    "items": [
+      "Qualité standard : traitement rapide, idéal pour les tâches rapides",
+      "Qualité premium : précision améliorée et fonctionnalités de correction automatique",
+      "Traitement par lot pour plusieurs fichiers simultanément",
+      "Support de format pour SRT, VTT, et plus",
+      "Capacités multilingues pour une portée mondiale",
+      "Options de synchronisation pour diverses plateformes vidéo"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils IA Connexes",
+    "description": "Découvrez d'autres solutions IA puissantes pour le montage vidéo"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quelle est la précision des sous-titres générés ?",
+        "answer": "Notre modèle IA assure une haute précision, s'appuyant sur des algorithmes avancés pour des résultats fiables. Bien que nous visons 95 % de précision, de petites modifications peuvent être nécessaires pour la perfection."
+      },
+      {
+        "question": "Puis-je modifier les sous-titres après leur génération ?",
+        "answer": "Oui ! Vous pouvez facilement modifier les sous-titres générés dans notre plateforme avant de les finaliser pour vos vidéos."
+      },
+      {
+        "question": "Quels formats vidéo sont supportés pour la génération de sous-titres ?",
+        "answer": "Nous supportons divers formats vidéo incluant MP4, AVI, MOV, et d'autres. Il suffit de télécharger votre fichier, et nous nous occupons du reste."
+      },
+      {
+        "question": "Y a-t-il un support linguistique pour les sous-titres ?",
+        "answer": "Absolument ! Nous offrons un support pour plusieurs langues. Vous pouvez choisir votre langue désirée au début du processus de génération de sous-titres."
+      },
+      {
+        "question": "Combien de temps faut-il pour générer des sous-titres ?",
+        "answer": "Les sous-titres sont générés presque instantanément. La plupart des vidéos sont traitées en quelques minutes, selon la longueur et la complexité."
+      },
+      {
+        "question": "Quel est le modèle tarifaire pour la génération de sous-titres ?",
+        "answer": "Nous opérons sur un modèle tarifaire flexible, assurant que vous ne payez que pour ce que vous utilisez. Il n'y a aucun frais caché ni abonnement."
+      },
+      {
+        "question": "Puis-je utiliser les sous-titres à des fins commerciales ?",
+        "answer": "Oui, vous avez tous les droits d'utiliser les sous-titres générés dans n'importe quel cadre commercial sans frais supplémentaires."
+      },
+      {
+        "question": "Quel support technique offrez-vous ?",
+        "answer": "Nous fournissons un support technique complet, y compris des directives, des FAQ, et un service client 24/7 pour le dépannage et les demandes."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Générer Votre Premier Sous-titre ?",
+    "description": "Commencez avec des crédits gratuits - Découvrez la facilité de création de contenu accessible",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Essayez-le maintenant →"
+  },
+  "footer": {
+    "heading": "Transformez l'Accessibilité de Vos Vidéos Aujourd'hui !",
+    "description": "Utilisez WaveSpeed AI maintenant pour améliorer vos capacités de contenu vidéo. Pas d'inscription requise.",
+    "ctaText": "Générez des Sous-titres Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

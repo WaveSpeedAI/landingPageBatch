@@ -1,0 +1,221 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Assembleur de Vidéos IA",
+  "meta": {
+    "description": "Combinez parfaitement plusieurs clips vidéo en une histoire cohérente et engageante avec l'IA. Parfait pour les créateurs de contenu, les marketeurs et les éducateurs cherchant à améliorer leurs projets vidéo sans effort. Découvrez le futur du montage vidéo avec WaveSpeed AI!",
+    "keywords": "assembleur de vidéos IA, outil de montage vidéo, fusionner des clips vidéo, application vidéo IA, outil de création de contenu, assembleur de vidéos marketing, éditeur de vidéos éducatives, transitions vidéo sans couture, assemblage vidéo automatisé, outil de narration vidéo"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Assembleur de Vidéos",
+    "subHeading": "Fusionnez Vos Vidéos sans Effort",
+    "description": "Combinez des vidéos avec des transitions et des effets éblouissants en quelques clics. Aucun logiciel de montage complexe requis. Parfait pour les créateurs de contenu, les marketeurs et les éducateurs. Transformez vos projets vidéo dès aujourd'hui!",
+    "tryText": "Fusionnez Vos Vidéos Maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution Assembleur de Vidéos WaveSpeed AI",
+    "left": {
+      "heading": "Obstacles au Montage Traditionnel",
+      "items": [
+        "Logiciel de montage complexe nécessaire",
+        "Coupures et transitions manuelles chronophages",
+        "Nécessite des compétences techniques et de l'expérience",
+        "Flexibilité créative limitée avec les transitions",
+        "Options de montage freelance coûteuses"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed AI",
+      "items": [
+        "Fusionnez instantanément des vidéos d'un clic",
+        "Aucune expérience de montage requise - Il suffit de télécharger des clips",
+        "Transitions automatisées pour une finition soignée",
+        "Possibilités créatives infinies avec des styles et des effets",
+        "Tarification abordable à l'usage - Parfait pour tous"
+      ],
+      "tryText": "Essayez"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment Cela Fonctionne",
+    "description": "Fusionnez vos vidéos en 4 étapes simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Télécharger des Vidéos",
+        "text": "Téléchargez les clips vidéo que vous souhaitez assembler",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Choisir des Transitions",
+        "text": "Sélectionnez les transitions et effets à appliquer entre les clips",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Organiser les Clips",
+        "text": "Faites glisser et déposez pour organiser les clips dans l'ordre désiré",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Télécharger la Vidéo Finale",
+        "text": "Obtenez votre vidéo fusionnée en qualité HD instantanément",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Créez Votre Première Vidéo →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilités Infinies avec l'Assembleur de Vidéos",
+    "description": "Idéal pour tout style ou objectif de contenu",
+    "items": [
+      "Vlogs et histoires personnelles",
+      "Vidéos promotionnelles marketing",
+      "Assemblages de tutoriels éducatifs",
+      "Points forts et récapitulatifs d'événements",
+      "Compilations de vidéos pour les réseaux sociaux",
+      "Démonstrations et vitrines de produits",
+      "Vidéos de voyage",
+      "Contenu de chaîne YouTube"
+    ]
+  },
+  "successStories": {
+    "heading": "Véritables Histoires de Succès",
+    "description": "Découvrez comment les utilisateurs transforment leur contenu vidéo sans effort",
+    "items": [
+      {
+        "tag": "Influenceur sur les Réseaux Sociaux",
+        "heading": "Points Forts Vidéo Instagram",
+        "before": {
+          "label": "Avant",
+          "text": "Processus de montage fastidieux"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Compilation vidéo sans couture"
+        },
+        "value": "95%",
+        "key": "Temps Économisé",
+        "description": "Avec l'Assembleur de Vidéos, j'ai pu créer des bandes-annonces percutantes en quelques minutes au lieu de plusieurs heures!"
+      },
+      {
+        "tag": "E-Learning",
+        "heading": "Introductions de Cours en Ligne",
+        "before": {
+          "label": "Avant",
+          "text": "Logiciel compliqué"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Fusion vidéo facile"
+        },
+        "value": "98%",
+        "key": "Amélioration de l'Efficacité",
+        "description": "La transformation des supports de cours en présentations vidéo cohérentes est devenue un jeu d'enfant. L'engagement de nos élèves a grimpé!"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison des Méthodes de Fusion Vidéo",
+    "description": "Sélectionnez le style de fusion parfait pour vos besoins",
+    "items": [
+      "Fusion Standard : Fusion rapide de clips avec des transitions de base",
+      "Fusion Fluide : Édits sans couture avec des transitions progressives pour des résultats professionnels",
+      "Fusion Thématique : Styles uniques pour des vidéos de marque",
+      "Fusion Intelligente : Ajustements améliorés par l'IA en fonction du genre de contenu",
+      "Fusion par Lot : Combinez plusieurs clips en vrac avec automatisation"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils IA Connexes",
+    "description": "Découvrez d'autres outils IA puissants pour la création vidéo"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quels formats vidéo puis-je utiliser avec l'Assembleur de Vidéos?",
+        "answer": "Vous pouvez télécharger divers formats, y compris MP4, MOV et AVI. Notre plateforme prend en charge les résolutions standard et maintient la qualité lors de la fusion."
+      },
+      {
+        "question": "Y a-t-il des limites de durée ou de taille de vidéo lors de la fusion?",
+        "answer": "Il n'y a pas de limites strictes, mais pour des performances optimales, nous recommandons des clips de moins de 10 minutes et de 2 Go pour un traitement fluide."
+      },
+      {
+        "question": "Puis-je ajouter de la musique de fond à mes vidéos fusionnées?",
+        "answer": "Oui ! Vous pouvez télécharger des pistes audio ou choisir parmi notre bibliothèque de musique libre de droits pour améliorer vos vidéos."
+      },
+      {
+        "question": "Est-il possible d'éditer les vidéos après les avoir fusionnées?",
+        "answer": "Actuellement, l'Assembleur de Vidéos se concentre sur la fusion. Pour des éditions, vous pouvez utiliser notre outil de montage après avoir fusionné vos clips."
+      },
+      {
+        "question": "Quelle est la rapidité du processus de fusion vidéo?",
+        "answer": "La fusion de vidéos prend généralement juste quelques minutes, en fonction de la longueur et de la complexité des vidéos à fusionner."
+      },
+      {
+        "question": "Conserve-t-on la propriété du contenu vidéo que je crée?",
+        "answer": "Absolument ! Toutes les vidéos créées avec notre Assembleur de Vidéos vous appartiennent, vous pouvez les utiliser, les partager et les monétiser sans problèmes de droits d'auteur."
+      },
+      {
+        "question": "Puis-je fusionner des vidéos provenant de différentes sources?",
+        "answer": "Oui, vous pouvez télécharger des vidéos de diverses sources, y compris votre appareil, le stockage en nuage, et plus encore pour une compilation facile."
+      },
+      {
+        "question": "Quel type de support est disponible si je rencontre des problèmes?",
+        "answer": "Notre équipe de support est disponible par chat et par email. Nous fournissons également des guides, des FAQ et une communauté d'utilisateurs pour une aide supplémentaire."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Fusionner Vos Vidéos?",
+    "description": "Commencez à utiliser l'Assembleur de Vidéos aujourd'hui - Découvrez la simplicité d'une fusion sans couture!",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Fusionnez Vos Vidéos Maintenant →"
+  },
+  "footer": {
+    "heading": "Prêt à Transformer Vos Projets Vidéo?",
+    "description": "Essayez WaveSpeed AI maintenant et constatez la différence par vous-même. Aucune inscription requise.",
+    "ctaText": "Fusionnez Vos Vidéos Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

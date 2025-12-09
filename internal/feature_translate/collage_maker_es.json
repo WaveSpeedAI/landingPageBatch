@@ -1,0 +1,231 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Creador de Collages AI",
+  "meta": {
+    "description": "Crea collages de fotos impresionantes sin esfuerzo con IA. Perfecto para redes sociales, marketing y proyectos personales. ¡Convierte tus imágenes en hermosos collages rápidamente!",
+    "keywords": "creador de collages AI, herramienta de collage de fotos, imagen a collage, collage de redes sociales, visuales de marketing, generación de collages, diseños creativos de fotos, collage WaveSpeed, diseño de collages, creación de contenido para comercio electrónico, proyectos personales de fotos"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas AI",
+        "items": [
+          [
+            "Herramientas AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Muestra",
+        "items": [
+          [
+            "Muestra",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Creador de Collages de Fotos",
+    "subHeading": "Transforma tus imágenes en collages impresionantes",
+    "description": "Crea collages hermosos a partir de tus fotos en minutos—¡sin necesidad de habilidades de diseño! Impulsado por tecnología avanzada de IA, crea diseños que cautivan y atraen a tu audiencia. ¡Desata tu creatividad ahora!",
+    "tryText": "Crea tu collage ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución de Creador de Collages WaveSpeed AI",
+    "left": {
+      "heading": "Desafíos del Collage Tradicional",
+      "items": [
+        "El diseño manual es lento y complejo",
+        "Requiere habilidades o software de diseño gráfico",
+        "Externalización costosa para diseños profesionales",
+        "Limitado a plantillas y formatos rígidos",
+        "Difícil de lograr estilos únicos y personalizados"
+      ]
+    },
+    "right": {
+      "heading": "Solución WaveSpeed AI",
+      "items": [
+        "Genera collages personalizados al instante con IA",
+        "No se requiere experiencia en diseño—solo sube imágenes",
+        "Diseños únicos adaptados a tu estilo",
+        "Creatividad ilimitada con ediciones y variaciones fáciles",
+        "Precios asequibles para cualquier proyecto"
+      ],
+      "tryText": "Probar"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "De fotos a collages impresionantes en 4 pasos simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Subir Fotos",
+        "text": "Selecciona y sube tus imágenes favoritas",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Elegir Estilo",
+        "text": "Elige entre varios estilos y diseños de collage",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Personalizar Diseño",
+        "text": "Ajusta el espaciado, agrega texto o aplica filtros fácilmente",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Descargar Collage",
+        "text": "Guarda tu obra maestra en alta resolución para compartir",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Crea tu primer collage →"
+  },
+  "endlessPossibilities": {
+    "heading": "Posibilidades Creativas Infinita",
+    "description": "Perfecto para cualquier ocasión o plataforma",
+    "items": [
+      "Montajes de imágenes para redes sociales como Instagram o Facebook",
+      "Materiales de marketing para anuncios y promociones",
+      "Recuerdos e invitaciones de eventos",
+      "Regalos personalizados y recuerdos",
+      "Muestras de portafolio y presentaciones",
+      "Contenido visual para blogs y sitios web",
+      "Collages de bodas y ocasiones especiales",
+      "Colecciones de fotos y relatos de viajes"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Descubre cómo otros están mejorando sus visuales con IA",
+    "items": [
+      {
+        "tag": "Proyectos Personales",
+        "heading": "Collage de Reunión Familiar",
+        "before": {
+          "label": "Antes",
+          "text": "Complicado y que consume mucho tiempo"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Rápido y fácil con IA"
+        },
+        "value": "95%",
+        "key": "Tiempo Ahorrado",
+        "description": "¡Creé un collage impresionante para nuestra reunión familiar en minutos! A todos les encantó."
+      },
+      {
+        "tag": "Campañas de Marketing",
+        "heading": "Promoción de Ventas de Comercio Electrónico",
+        "before": {
+          "label": "Antes",
+          "text": "Limitaciones en los visuales"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Gráficos dinámicos y atractivos"
+        },
+        "value": "90%",
+        "key": "Impacto Visual",
+        "description": "Nuestros visuales de marketing mejoraron drásticamente, aumentando significativamente las tasas de participación."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Estilo de Collage",
+    "description": "Elige el estilo adecuado para tu proyecto",
+    "items": [
+      "Diseño en Rejilla: Disposición clásica para múltiples imágenes",
+      "Superposición Artística: Fusión creativa de fotos",
+      "Collage Temático: Diseños adaptados según temas",
+      "Presentación Dinámica: Opciones de collage animado",
+      "Integraciones de Texto: Adición fluida de subtítulos",
+      "Personalización de Fondo: Elige colores o patrones",
+      "Flexibilidad de Plantilla: Ajusta fácilmente para adaptarse a tus necesidades"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas AI Relacionadas",
+    "description": "Explora más herramientas innovadoras de IA para la creación de contenido visual"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué tipos de imágenes funcionan mejor para crear collages?",
+        "answer": "Cualquier imagen de alta resolución funciona bien. Recomendamos usar fotos claras y bien iluminadas. Cuanto más variadas sean tus imágenes, más dinámico será tu collage."
+      },
+      {
+        "question": "¿Puedo personalizar los diseños y disposiciones?",
+        "answer": "¡Absolutamente! Elige entre varios estilos integrados y personaliza disposiciones, espaciados y colores para que coincidan con tu visión."
+      },
+      {
+        "question": "¿Cuál es el número máximo de imágenes que puedo subir?",
+        "answer": "Puedes subir hasta 20 imágenes por collage, proporcionando muchas opciones para crear un diseño impresionante."
+      },
+      {
+        "question": "¿Necesito habilidades de diseño gráfico para usar el creador de collages?",
+        "answer": "No, nuestra herramienta de IA es fácil de usar y está diseñada para que cualquiera la utilice, sin importar su experiencia en diseño."
+      },
+      {
+        "question": "¿Puedo descargar mi collage en diferentes formatos?",
+        "answer": "¡Sí! Puedes guardar tus collages en varios formatos incluyendo JPEG, PNG y PDF para impresión y compartir en línea."
+      },
+      {
+        "question": "¿Qué tan rápido puedo crear un collage?",
+        "answer": "¡La mayoría de los collages se pueden crear en solo unos minutos después de subir tus imágenes y seleccionar un estilo!"
+      },
+      {
+        "question": "¿Hay tarifas asociadas con el uso del creador de collages?",
+        "answer": "Ofrecemos un modelo de pago por uso, lo que te permite crear collages según sea necesario sin costos de suscripción continuos."
+      },
+      {
+        "question": "¿Hay un límite en cuántos collages puedo crear?",
+        "answer": "¡Sin límites! Puedes crear tantos collages como desees utilizando nuestra plataforma."
+      },
+      {
+        "question": "¿Puedo editar mi collage después de descargarlo?",
+        "answer": "Si bien no puedes editar el collage descargado directamente, siempre puedes volver al creador de collages para hacer ajustes o crear una nueva versión."
+      },
+      {
+        "question": "¿Qué tipo de soporte está disponible si necesito ayuda?",
+        "answer": "Proporcionamos soporte integral que incluye tutoriales, documentación y servicio al cliente para ayudar con cualquier pregunta."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para crear tu impresionante collage?",
+    "description": "Comienza con créditos gratuitos y deja fluir tu creatividad!",
+    "contactUsText": "Contáctanos",
+    "tryText": "Crea tu collage ahora →"
+  },
+  "footer": {
+    "heading": "¿Listo para hacer collages hermosos?",
+    "description": "Prueba WaveSpeed AI ahora y observa cómo se transforman tus fotos. No se requiere registro.",
+    "ctaText": "Comienza a crear ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

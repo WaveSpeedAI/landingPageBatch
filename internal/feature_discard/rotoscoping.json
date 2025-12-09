@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Rotoscoping Made Easy",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Effortlessly Isolate and Animate",
+    "description": "Use our advanced rotoscoping tool to seamlessly isolate subjects and create stunning animations.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo before rotoscoping"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example photo after rotoscoping"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Isolate Subjects Easily",
+      "prompt": {
+        "heading": "Prompt",
+        "placeholder": "E.g., Rotoscope the dancer, isolate the car from the background, animate the character..."
+      },
+      "upload": {
+        "heading": "Select image or Input URL"
+      },
+      "processButton": "Start Rotoscoping Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Frames Processed"
+      },
+      {
+        "title": "98.7%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "3.1s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Rotoscoping Examples",
+    "description": "Discover how WaveSpeed’s rotoscoping can transform video projects by isolating subjects effectively.",
+    "items": [
+      {
+        "title": "Isolate Characters",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing character isolation from background",
+        "description": "Easily separate characters from background elements for seamless integration."
+      },
+      {
+        "title": "Create Animated Sequences",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing animated transformation",
+        "description": "Transform still images into dynamic scenes with precise subject isolation."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed Rotoscoping?",
+    "description": "Our cutting-edge technology provides fast and accurate rotoscoping results.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Speedy Processing",
+        "description": "Achieve professional results in seconds without cumbersome software."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "No experience needed. Upload and let our AI handle the heavy lifting."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Secure and Private",
+        "description": "All processing occurs in your browser, keeping your projects confidential."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three simple steps to isolate your subjects effectively",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Your Image",
+        "description": "Drag and drop your image or browse your device. We support JPG, PNG, and WebP formats."
+      },
+      {
+        "serial": "2",
+        "title": "AI Rotoscoping",
+        "description": "Our AI intelligently identifies and isolates your chosen subjects with precision."
+      },
+      {
+        "serial": "3",
+        "title": "Preview and Download",
+        "description": "Check your results with a comparison slider, then download your edited project in high quality."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join a community of creators enhancing their projects with WaveSpeed Rotoscoping",
+    "items": [
+      {
+        "name": "Emily Thompson",
+        "stars": 5,
+        "comment": "The rotoscoping tool is a game changer for my animation projects. I can isolate subjects in a fraction of the time."
+      },
+      {
+        "name": "Alex Rivera",
+        "stars": 5,
+        "comment": "I've tried many tools, but WaveSpeed's accuracy and speed are unmatched. My workflow has improved dramatically."
+      },
+      {
+        "name": "Jenna Lee",
+        "stars": 5,
+        "comment": "As a filmmaker, I rely on effective tools. WaveSpeed has made my editing process smoother and more efficient."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to common questions about our Rotoscoping feature",
+    "items": [
+      {
+        "title": "What is rotoscoping?",
+        "description": "Rotoscoping is the process of isolating and animating subjects from video or image backgrounds, allowing for seamless integration into various projects."
+      },
+      {
+        "title": "Is WaveSpeed Rotoscoping free to use?",
+        "description": "Yes! Each user receives 30 free credits daily, perfect for creating numerous isolated images. Additional credits can be earned through participation in our community."
+      },
+      {
+        "title": "Can I use the isolated content commercially?",
+        "description": "Paid users can use isolated content for commercial projects. Free users may use it for personal purposes but cannot use it commercially."
+      },
+      {
+        "title": "How does privacy work with WaveSpeed?",
+        "description": "All rotoscoping is done directly in your browser. Your images are never uploaded to our servers, ensuring complete privacy and security."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Elevate Your Projects?",
+    "description": "Start using WaveSpeed Rotoscoping today and experience the difference. No sign-up required.",
+    "ctaText": "Start Rotoscoping Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Gerador de Modelos de Carros com IA",
+  "meta": {
+    "description": "Crie modelos de carros impressionantes e realistas sem esforço usando IA. Perfeito para marketing e design automotivo, trazendo suas ideias à vida em uma fração do tempo. Descubra o futuro da modelagem de carros com o WaveSpeed.",
+    "keywords": "gerador de modelos de carros com IA, design automotivo, modelagem 3D de carros, ferramenta de marketing de carros, WaveSpeed AI, design criativo de veículos, visualização automotiva, modelos de carros digitais, prototipagem rápida, vitrine automotiva virtual"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de IA",
+        "items": [
+          [
+            "Ferramentas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Tente agora"
+  },
+  "hero": {
+    "heading": "Gerador de Modelos de Carros",
+    "subHeading": "Dê Vida às Suas Visões Automotivas",
+    "description": "Gere modelos de carros deslumbrantes do conceito à realidade em minutos. Nenhuma habilidade de design complicada é necessária. Experimente a tecnologia de IA de ponta que redefine o processo de design automotivo.",
+    "tryText": "Comece a Criar Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução WaveSpeed AI para Gerador de Modelos de Carros",
+    "left": {
+      "heading": "Desafios Tradicionais",
+      "items": [
+        "A modelagem de carros é intensiva em tempo e custosa",
+        "Software complexo que requer treinamento extenso",
+        "Iterações e revisões difíceis",
+        "Acesso limitado a recursos de alta qualidade",
+        "Altos custos tornam inacessível para startups"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeed AI",
+      "items": [
+        "Crie modelos de carros detalhados em apenas alguns minutos",
+        "Nenhuma habilidade ou software especializado é necessário - Basta fazer o upload de ideias",
+        "Resultados rápidos, impulsionados por IA, para fluxos de trabalho eficientes",
+        "Iterações de design ilimitadas ao seu alcance",
+        "Custos acessíveis adaptados a qualquer orçamento"
+      ],
+      "tryText": "Tente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "Do conceito ao modelo de carro em 4 etapas simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Faça Upload da Arte Conceitual",
+        "text": "Envie esboços ou inspirações para o design do seu veículo",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Adicione Especificações",
+        "text": "Forneça detalhes sobre dimensões, estilo e recursos",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Selecione Recursos de Estilo",
+        "text": "Escolha entre uma variedade de opções de personalização e acabamentos",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Baixe o Modelo",
+        "text": "Receba seu modelo 3D de alta qualidade em minutos",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Gere seu Primeiro Modelo de Carro →"
+  },
+  "endlessPossibilities": {
+    "heading": "Oportunidades Ilimitadas",
+    "description": "Ideal para entusiastas automotivos e profissionais",
+    "items": [
+      "Designs personalizados de carros para campanhas de marketing",
+      "Protótipos realistas para apresentações de fabricantes",
+      "Designs conceituais para exposições automotivas",
+      "Showrooms e exibições virtuais",
+      "Colaboração em ideias de design com equipes",
+      "Simulações automotivas aprimoradas",
+      "Visualizações de recursos inovadores de veículos",
+      "Recursos publicitários dinâmicos para mídias sociais"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Transformadoras",
+    "description": "Explore como empresas automotivas utilizam IA para inovação em design",
+    "items": [
+      {
+        "tag": "Design Automotivo",
+        "heading": "Startup de Carros de Luxo",
+        "before": {
+          "label": "Antes",
+          "text": "6 semanas"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "1 dia"
+        },
+        "value": "98%",
+        "key": "Tempo Economizado",
+        "description": "Aceleramos o desenvolvimento dos nossos modelos para cinco novos veículos em uma semana. Isso nos permitiu apresentar aos investidores mais cedo."
+      },
+      {
+        "tag": "Varejo de Automóveis",
+        "heading": "Varejista de Carros Online",
+        "before": {
+          "label": "Antes",
+          "text": "Caro e lento"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Rápido e acessível"
+        },
+        "value": "95%",
+        "key": "Redução de Custos",
+        "description": "Implementamos modelos de carros com IA para melhorar nossas listas e vimos um aumento dramático no engajamento dos clientes."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Modelos de IA",
+    "description": "Selecione o modelo mais adequado para suas necessidades automotivas",
+    "items": [
+      "Modelo Padrão: Recursos de design básicos, renderização 3D, prazos rápidos",
+      "Modelo Premium: Detalhamento avançado, texturas realistas, tempos de criação mais longos",
+      "Especificações Personalizadas para solicitações únicas",
+      "Feedback e ajustes em tempo real durante a modelagem",
+      "Designs escaláveis para uso promocional",
+      "Compatibilidade universal com plataformas 3D"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Descubra mais ferramentas inovadoras de IA para design automotivo"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo o que você precisa saber",
+    "items": [
+      {
+        "question": "Que nível de detalhe posso esperar nos modelos?",
+        "answer": "A IA produz modelos de alta definição com proporções precisas e recursos personalizáveis, prontos para renderização ou integração em várias aplicações."
+      },
+      {
+        "question": "Posso influenciar o estilo de design dos modelos?",
+        "answer": "Com certeza! Você pode especificar estilos ou temas, bem como recursos através de suas especificações e arte conceitual, permitindo um design personalizado."
+      },
+      {
+        "question": "Quais formatos de arquivo estão disponíveis para os modelos baixados?",
+        "answer": "Os modelos gerados podem ser baixados em vários formatos de arquivo, incluindo OBJ, STL e FBX, compatíveis com a maioria dos softwares 3D."
+      },
+      {
+        "question": "Quão rápido é o processo de geração de modelos?",
+        "answer": "A geração de modelos normalmente leva apenas alguns minutos, dependendo da complexidade do design. A IA agiliza significativamente o fluxo de trabalho."
+      },
+      {
+        "question": "Existem direitos de uso para os modelos gerados?",
+        "answer": "Sim, você possui direitos comerciais completos sobre os modelos criados através do WaveSpeed, permitindo o uso em marketing, vendas e desenvolvimento de produtos."
+      },
+      {
+        "question": "Que suportes estão disponíveis para usar o gerador de IA?",
+        "answer": "Oferecemos documentação extensa, vídeos tutoriais e opções de suporte ao vivo para ajudá-lo a maximizar seu uso do gerador de modelos de carros com IA."
+      },
+      {
+        "question": "Como começo a usar o gerador de modelos de carros?",
+        "answer": "Basta se inscrever e usar seus créditos gratuitos para começar a criar modelos de carros. A interface é amigável para facilitar o aprendizado rápido."
+      },
+      {
+        "question": "O gerador pode lidar com solicitações de designs complexos?",
+        "answer": "Sim, o gerador é capaz de lidar com especificações complexas, embora designs mais simples gerem resultados mais rápidos. Recomendamos começar com diretrizes mais claras."
+      },
+      {
+        "question": "Há um limite para quantos modelos posso criar?",
+        "answer": "Não há limites rígidos sobre o número de modelos que você pode criar, facilitando a exploração de múltiplos designs e ideias."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Criar seu Primeiro Modelo de Carro com IA?",
+    "description": "Comece com créditos gratuitos - Experimente o poder da IA no design automotivo",
+    "contactUsText": "Entre em Contato Conosco",
+    "tryText": "Tente Agora →"
+  },
+  "footer": {
+    "heading": "Pronto para Projetar seu Carro dos Sonhos?",
+    "description": "Experimente o WaveSpeed AI agora e vivencie a transformação pessoalmente. Não é necessário registro.",
+    "ctaText": "Crie seu Modelo de Carro Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

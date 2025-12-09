@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Remove Watermarks from Your Images Effortlessly",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Eliminate Watermarks with Ease",
+    "description": "Simply input your request to seamlessly remove watermarks from any image, enhancing its visual appeal instantly.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo before watermark removal"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example photo after watermark removal"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Watermark Removal Made Simple",
+      "prompt": {
+        "heading": "Prompt",
+        "placeholder": "E.g., Remove the watermark from this image."
+      },
+      "upload": {
+        "heading": "Select Image or Input URL"
+      },
+      "processButton": "Remove Watermark Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "10M+",
+        "description": "Images Processed"
+      },
+      {
+        "title": "99.8%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "2.5s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Witness how our tool transforms your photos by erasing watermarks flawlessly.",
+    "items": [
+      {
+        "title": "Clear Watermarks",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing watermark removal from a photo",
+        "description": "Effortlessly enhance your images by removing intrusive watermarks."
+      },
+      {
+        "title": "Restore Image Integrity",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing a photo restored after watermark removal",
+        "description": "Revitalize your photos by eliminating distracting overlays."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose Our Watermark Remover?",
+    "description": "Our intelligent technology delivers exceptional results quickly and reliably.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Rapid Results",
+        "description": "Achieve watermark-free images in seconds with our streamlined AI process."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "No technical expertise needed. Upload your images and let our AI do the hard work."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Your Privacy Matters",
+        "description": "Your images stay secure, processed locally on your device without external uploads."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three straightforward steps to remove watermarks",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Your Image",
+        "description": "Drag and drop your photo or browse your files to get started, supporting formats like JPG, PNG, and WebP."
+      },
+      {
+        "serial": "2",
+        "title": "AI-Powered Processing",
+        "description": "Our advanced AI quickly identifies and removes watermarks while maintaining the integrity of the original image."
+      },
+      {
+        "serial": "3",
+        "title": "Download Your Cleaned Image",
+        "description": "View the enhanced image with a comparison slider and download your pristine photo in high quality."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Are Saying",
+    "description": "Join countless satisfied users who've improved their images effortlessly with our tool",
+    "items": [
+      {
+        "name": "Emily Taylor",
+        "stars": 5,
+        "comment": "This watermark remover worked like magic! It turned my photos into professional-looking images without a trace of watermarks."
+      },
+      {
+        "name": "Jack Wilson",
+        "stars": 5,
+        "comment": "As a designer, I frequently deal with watermarked images. This tool has vastly improved my workflow and saved me tons of time."
+      },
+      {
+        "name": "Anna Smith",
+        "stars": 5,
+        "comment": "I appreciate the privacy safeguards. Knowing my images are processed securely on my device is a huge plus!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your questions about our watermark removal feature",
+    "items": [
+      {
+        "title": "What kinds of watermarks can be removed?",
+        "description": "Our AI can effectively eliminate all types of watermarks, including logos, text overlays, and any other distracting content, restoring your images to their original beauty."
+      },
+      {
+        "title": "Is there a cost to use the watermark remover?",
+        "description": "Yes! Users receive 30 free credits daily, allowing numerous watermark removals. Additional credits are available through engagement activities. Professional plans for high-volume use are also offered."
+      },
+      {
+        "title": "Can I use the images without watermarks commercially?",
+        "description": "All paid subscribers can use the watermark-free images for any commercial purposes. Free users are limited to personal use only."
+      },
+      {
+        "title": "How does my privacy get protected?",
+        "description": "All processing is done directly in your browser using secure technologies. Your images are never uploaded or stored externally, ensuring complete privacy."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Remove Watermarks from Your Images?",
+    "description": "Try our AI-powered watermark remover now and witness the change yourself. No sign-up required.",
+    "ctaText": "Remove Watermark Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

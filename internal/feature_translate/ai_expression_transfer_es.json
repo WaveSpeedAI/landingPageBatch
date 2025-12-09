@@ -1,0 +1,226 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Transferencia de Expresiones de IA",
+  "meta": {
+    "description": "Transforma las imágenes de tus productos añadiendo expresiones e interacciones dinámicas usando IA. Potenciado por Google Veo y ByteDance. Perfecto para enganchar a las audiencias en campañas de marketing. ¡Ofertas del Black Friday!",
+    "keywords": "transferencia de expresiones de IA, imágenes de productos interactivas, animación de imágenes, herramienta de marketing de comercio electrónico, Google Veo, animación de expresiones, herramientas de video para el Black Friday, engagement de productos, creador de videos de marketing, animación de Shopify, mejora de listados de Amazon, contenido para redes sociales"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas de IA",
+        "items": [
+          [
+            "Herramientas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrina",
+        "items": [
+          [
+            "Vitrina",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Transferencia de Expresiones de Imagen",
+    "subHeading": "Dale Vida a Tus Imágenes con Expresiones Dinámicas",
+    "description": "Mejora tus fotos de productos con animaciones expresivas que cautivan a las audiencias. No se necesita software adicional. Potenciado por Google Veo 3.1 y ByteDance Seedance, experimenta la magia de la IA transformando imágenes estáticas en interacciones dinámicas.",
+    "tryText": "Pruébalo Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución de Transferencia de Expresiones de IA de WaveSpeed AI",
+    "left": {
+      "heading": "Desafíos Tradicionales",
+      "items": [
+        "Atractivo visual limitado de imágenes estáticas",
+        "Alto costo y complejidad de la animación",
+        "Animaciones manuales que consumen tiempo",
+        "Dificultad para transmitir emociones o acciones",
+        "Impracticable para pequeñas empresas"
+      ]
+    },
+    "right": {
+      "heading": "Solución de WaveSpeed AI",
+      "items": [
+        "Anima instantáneamente expresiones en imágenes de productos",
+        "No se requiere experiencia previa ni habilidades de animación",
+        "Transformaciones rápidas utilizando tecnología de IA",
+        "Posibilidades creativas ilimitadas",
+        "Estructura de precios asequible diseñada para todas las empresas"
+      ],
+      "tryText": "Prueba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "De imagen estática a expresión animada en 4 pasos fáciles",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Subir Imagen",
+        "text": "Selecciona la foto de tu producto para animar",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Elegir Expresiones",
+        "text": "Selecciona expresiones predefinidas o crea animaciones personalizadas",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Previsualizar Animación",
+        "text": "Mira cómo tu imagen cobra vida con las expresiones elegidas",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Descargar Resultados",
+        "text": "Recibe imágenes animadas en HD listas para usar",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Transforma Tu Primera Imagen →"
+  },
+  "endlessPossibilities": {
+    "heading": "Posibilidades Infinitas",
+    "description": "Trayendo creatividad a cualquier campo",
+    "items": [
+      "Anuncios de productos interactivos para comercio electrónico",
+      "Publicaciones atractivas en redes sociales para Instagram, TikTok",
+      "Campañas de marketing con visuales animados",
+      "Testimonios de clientes expresivos",
+      "Contenido educativo dinámico",
+      "Mejoras en imágenes de bienes raíces",
+      "Imágenes promocionales de comida y recetas",
+      "Lookbooks de moda con expresiones vibrantes"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Descubre cómo las empresas están liberando creatividad con IA",
+    "items": [
+      {
+        "tag": "Innovaciones en Comercio Electrónico",
+        "heading": "Mejora del Engagement del Producto",
+        "before": {
+          "label": "Antes",
+          "text": "Estáticas y aburridas"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Expresivas y atractivas"
+        },
+        "value": "75%",
+        "key": "Aumento del Engagement",
+        "description": "Transformamos nuestras imágenes de productos, resultando en un aumento del 50% en la interacción de los clientes en nuestra tienda en línea."
+      },
+      {
+        "tag": "Comida y Bebida",
+        "heading": "Muestras Dinámicas de Recetas",
+        "before": {
+          "label": "Antes",
+          "text": "Imágenes estándar"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Componentes animados"
+        },
+        "value": "80%",
+        "key": "Mejora de la Tasa de Clics",
+        "description": "Nuestras imágenes animadas de recetas cautivaron a nuestra audiencia y triplicaron el engagement en las redes sociales."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Modelos de IA",
+    "description": "Selecciona el modelo de animación adecuado para tus necesidades",
+    "items": [
+      "Veo 3.1: Animaciones fotorealistas premium con expresiones interactivas",
+      "Seedance I2V: Rápido y rentable para animaciones rápidas",
+      "Simulación de movimiento natural con física realista",
+      "Transiciones y efectos sin interrupciones",
+      "Tiempo de generación de 1-2 minutos",
+      "Derechos comerciales incluidos para todos los usos"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas de IA Relacionadas",
+    "description": "Explora herramientas de IA adicionales e innovadoras para una creatividad mejorada"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué tipos de imágenes puedo animar?",
+        "answer": "Puedes usar una variedad de imágenes de productos, incluyendo fotos con fondos claros para los mejores resultados de animación. Las imágenes deben estar bien iluminadas y ser idealmente de 512x512 píxeles o más grandes."
+      },
+      {
+        "question": "¿Cómo puedo personalizar las expresiones utilizadas en las animaciones?",
+        "answer": "Elige de una selección predefinida de expresiones o usa nuestra configuración de animación personalizada para añadir movimientos únicos. ¡La IA se encarga de los detalles intrincados!"
+      },
+      {
+        "question": "¿Cuál es la calidad esperada de las imágenes animadas?",
+        "answer": "Las animaciones se producen en calidad HD, manteniendo la resolución de tus imágenes originales mientras cobran vida con movimientos realistas."
+      },
+      {
+        "question": "¿Es fácil usar la herramienta de IA para la animación?",
+        "answer": "¡Sí! Nuestra interfaz fácil de usar permite cargas rápidas de imágenes y personalización sencilla de animaciones sin necesidad de habilidades especiales."
+      },
+      {
+        "question": "¿Cómo funciona la fijación de precios para la generación de imágenes animadas?",
+        "answer": "WaveSpeed opera con un modelo de pago por uso sencillo, permitiéndote pagar solo por las animaciones que creas. ¡Los nuevos usuarios pueden aprovechar los créditos gratuitos!"
+      },
+      {
+        "question": "¿Se pueden animar varias imágenes a la vez?",
+        "answer": "¡Sí! Puedes subir imágenes en lote y aplicar animaciones a múltiples fotos simultáneamente, optimizando tu flujo de trabajo."
+      },
+      {
+        "question": "¿Cuáles son las mejores aplicaciones para imágenes animadas?",
+        "answer": "Ideal para listas de productos de comercio electrónico, marketing en redes sociales, publicidad y cualquier escenario donde el engagement visual sea esencial."
+      },
+      {
+        "question": "¿Se incluyen los derechos comerciales con las animaciones?",
+        "answer": "¡Absolutamente! Todas las animaciones generadas vienen con derechos comerciales completos, permitiéndote usarlas libremente sin tarifas de licencia."
+      },
+      {
+        "question": "¿Qué soporte está disponible si encuentro problemas?",
+        "answer": "Ofrecemos un soporte extenso que incluye guías detalladas, tutoriales en video y un equipo de soporte dedicado para ayudar con cualquier problema."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Animar tus Imágenes?",
+    "description": "Comienza a usar créditos gratuitos hoy y ve el impacto de las expresiones dinámicas de primera mano",
+    "contactUsText": "Contáctanos",
+    "tryText": "Pruébalo Ahora →"
+  },
+  "footer": {
+    "heading": "¿Listo para Transformar tus Imágenes?",
+    "description": "Usa WaveSpeed AI hoy y experimenta expresiones dinámicas sin complicaciones. No se requiere registro.",
+    "ctaText": "Comienza a Animar Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

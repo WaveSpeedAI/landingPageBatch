@@ -1,0 +1,230 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - KI-Stilübertragung",
+  "meta": {
+    "description": "Erheben Sie Ihre Bilder mit KI-Stilübertragung und verwandeln Sie gewöhnliche Fotos mühelos in künstlerische Meisterwerke. Perfekt für Marketing, soziale Medien und persönliche Nutzung. Erleben Sie die Zukunft der Bildverbesserung mit WaveSpeed.",
+    "keywords": "KI-Stilübertragung, Bildverbesserung, künstlerische Transformation, KI-Kunstgenerator, Foto-Effekt-Tool, Kreativitätssteigerung, soziale Medien Kunst, Marketingvisuals, E-Commerce-Bilder, WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI-Tools",
+        "items": [
+          [
+            "KI-Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Schaufenster",
+        "items": [
+          [
+            "Schaufenster",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "KI-Stilübertragung",
+    "subHeading": "Verwandeln Sie Ihre Bilder in beeindruckende Kunstwerke",
+    "description": "Entfesseln Sie Ihre Kreativität, indem Sie künstlerische Stile innerhalb von Minuten auf Ihre Fotos anwenden. Lassen Sie KI die Magie wirken und verwandeln Sie einfache Bilder in fesselnde Erlebnisse. Ideal für soziale Medien und Marketingmaterialien.",
+    "tryText": "Jetzt ausprobieren",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI KI-Stilübertragungslösung",
+    "left": {
+      "heading": "Herausforderungen der herkömmlichen Bildverbesserung",
+      "items": [
+        "Zeitaufwendige manuelle Bearbeitung",
+        "Erfordert künstlerische Fähigkeiten und Softwarewissen",
+        "Begrenzte kreative Optionen",
+        "Hohe Kosten für professionelle Designer",
+        "Mangel an sofortigen Ergebnissen"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Lösung",
+      "items": [
+        "Verwandeln Sie Bilder in Sekunden mit der Kraft der KI",
+        "Keine Design-Erfahrung erforderlich - Einfach Ihre Fotos hochladen",
+        "Unendliche Stile und Effekte zur Auswahl",
+        "Sofortige Anzeige und Anpassung kreativer Variationen",
+        "Kosteneffektives Preismodell für alle Benutzer"
+      ],
+      "tryText": "Ausprobieren"
+    }
+  },
+  "howItWorks": {
+    "heading": "So funktioniert es",
+    "description": "Von gewöhnlichen Bildern zu außergewöhnlicher Kunst in 4 einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Bild hochladen",
+        "text": "Wählen Sie das Foto aus, das Sie verbessern möchten",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Stil wählen",
+        "text": "Wählen Sie einen künstlerischen Stil, der Ihrer Vision entspricht",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Einstellungen anpassen",
+        "text": "Feinabstimmung der Intensität und Effekte nach Ihren Wünschen",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Kunstwerk herunterladen",
+        "text": "Speichern Sie Ihre beeindruckende Kreation sofort in hoher Auflösung",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Generieren Sie Ihr erstes Kunstwerk →"
+  },
+  "endlessPossibilities": {
+    "heading": "Unendliche Möglichkeiten",
+    "description": "Ideal für eine Vielzahl kreativer Projekte",
+    "items": [
+      "Beiträge in sozialen Medien und Profilbilder",
+      "Marketingkampagnen und Werbung",
+      "Benutzerdefinierte Kunstwerke für Druck und digitale Verwendung",
+      "Personalisierte Geschenke und Erinnerungsstücke",
+      "Visuelle Markenidentität für Unternehmen",
+      "Webgrafiken und Blogbilder",
+      "Präsentationsverbesserungen",
+      "Künstlerische Projekte für Schulen und Veranstaltungen"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Entdecken Sie, wie andere ihre Inhalte mit KI verbessern",
+    "items": [
+      {
+        "tag": "Reise & Abenteuer",
+        "heading": "Beeindruckende Urlaubsfotos",
+        "before": {
+          "label": "Vorher",
+          "text": "Gewöhnlich"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Fesselnde Kunst"
+        },
+        "value": "80%",
+        "key": "Engagement-Steigerung",
+        "description": "Verwandelte einfache Reisebilder in künstlerische Landschaften und verdoppelte das Engagement in sozialen Medien."
+      },
+      {
+        "tag": "E-Commerce",
+        "heading": "Einzigartige Produktvisualisierungen",
+        "before": {
+          "label": "Vorher",
+          "text": "Generische Bilder"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Künstlerische Präsentationen"
+        },
+        "value": "70%",
+        "key": "Umsatzsteigerung",
+        "description": "Angewandte einzigartige Stile auf Produktbilder, was zu einer bemerkenswerten Steigerung des Online-Verkaufs führte."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Vergleich der KI-Stilübertragung",
+    "description": "Wählen Sie den idealen Stil für Ihre Kreation",
+    "items": [
+      "Klassische Kunststile: Impressionismus, Kubismus mit reichhaltigen Texturen",
+      "Moderne Effekte: Pop-Art, Ästhetische Filter für frische Looks",
+      "Benutzerdefinierte Stil-Uploads: Bringen Sie Ihre eigene Kunst in Ihre Bilder",
+      "Adaptive KI: Lernt Ihre Stilvorlieben für personalisierte Vorschläge",
+      "Schnelle Verarbeitung: Verwandeln Sie Bilder in weniger als 30 Sekunden",
+      "Hochauflösende Ausgaben für druckfähige Ergebnisse"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Verwandte KI-Tools",
+    "description": "Entdecken Sie weitere innovative KI-Lösungen für Ihre Projekte"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welche Arten von Bildern eignen sich am besten für die Stilübertragung?",
+        "answer": "Hochauflösende Bilder mit klaren Motiven liefern die besten Ergebnisse. Stellen Sie sicher, dass die Fotos gut beleuchtet sind und komplexe Hintergründe minimiert sind, um eine optimale Stil-Anwendung zu gewährleisten."
+      },
+      {
+        "question": "Kann ich mehrere Stile auf ein einzelnes Bild anwenden?",
+        "answer": "Ja! Sie können verschiedene Stile in einem einzigen Transformationsprozess übereinanderlegen oder separate Versionen erstellen, um zu sehen, wie verschiedene Stile Ihr Bild beeinflussen."
+      },
+      {
+        "question": "Welche Formate werden für Uploads unterstützt?",
+        "answer": "Wir unterstützen JPG-, PNG- und WebP-Formate. Höherwertige Bilder verbessern das endgültige Ergebnis und den Transformationsprozess."
+      },
+      {
+        "question": "Sind die generierten Kunstwerke lizenzfrei?",
+        "answer": "Absolut! Alle mit WaveSpeed-Studio erstellten Kunstwerke dürfen Sie ohne Einschränkungen oder zusätzliche Gebühren verwenden."
+      },
+      {
+        "question": "Wie lange dauert der Stilübertragungsprozess?",
+        "answer": "Die meisten Transformationen werden in weniger als 30 Sekunden abgeschlossen, wodurch Sie schnell verschiedene Stile erkunden können."
+      },
+      {
+        "question": "Brauche ich Designfähigkeiten, um dieses Tool zu verwenden?",
+        "answer": "Keine vorherige Design-Erfahrung ist erforderlich! Die intuitive Benutzeroberfläche ermöglicht es jedem, mühelos beeindruckende Kunstwerke zu erstellen."
+      },
+      {
+        "question": "Kann ich das Bild nach der Anwendung der Stile bearbeiten?",
+        "answer": "Ja! Sie können das Ergebnis weiter verbessern, indem Sie verfügbarere Bearbeitungswerkzeuge verwenden, die Personalisierung und Anpassungen ermöglichen."
+      },
+      {
+        "question": "Was, wenn ich das Ergebnis nicht mag?",
+        "answer": "Sie können einfach mit einem anderen Stil oder Anpassungseinstellungen wiederholen, bis Sie mit dem Ergebnis zufrieden sind."
+      },
+      {
+        "question": "Gibt es eine Testversion oder kostenlose Credits?",
+        "answer": "Ja! Neue Benutzer erhalten kostenlose Credits, um die verfügbaren Stile und Transformationen zu erkunden."
+      },
+      {
+        "question": "Welche Kundenservice-Optionen stehen zur Verfügung?",
+        "answer": "Wir bieten umfassende Unterstützung mit Dokumentation, Tutorials und einem reaktionsschnellen Team, das bereit ist, bei Fragen zu helfen."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Ihre Bilder zu verwandeln?",
+    "description": "Beginnen Sie heute mit kostenlosen Credits und sehen Sie zu, wie die Kreativität sich entfaltet.",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Jetzt ausprobieren →"
+  },
+  "footer": {
+    "heading": "Bereit, Ihre Bilder zum Leben zu erwecken?",
+    "description": "Probieren Sie WaveSpeed AI jetzt aus und erleben Sie unglaubliche Transformationen. Keine Anmeldung erforderlich.",
+    "ctaText": "Bilder jetzt verwandeln",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

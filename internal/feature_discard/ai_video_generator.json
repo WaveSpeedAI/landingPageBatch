@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Create Stunning Videos Effortlessly",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Generate Engaging Videos",
+    "description": "Instantly create high-quality videos from your scripts or ideas using advanced AI technology.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Video Sample 1",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example video clip 1"
+        },
+        {
+          "title": "Video Sample 2",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example video clip 2"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Generate Your Video",
+      "prompt": {
+        "heading": " Script or Idea",
+        "placeholder": "E.g., Create a promotional video for a new product."
+      },
+      "upload": {
+        "heading": " Input your script or idea"
+      },
+      "processButton": "Generate Video Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "1M+",
+        "description": "Videos Created"
+      },
+      {
+        "title": "98%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "3.0s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Explore how our AI can transform your concepts into stunning videos effortlessly.",
+    "items": [
+      {
+        "title": "Promotional Video",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing a promotional video",
+        "description": "Create captivating promotional content for your products or services."
+      },
+      {
+        "title": "Social Media Content",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing social media video",
+        "description": "Generate eye-catching videos tailored for social media platforms."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Experience seamless video creation with our cutting-edge technology.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Rapid Production",
+        "description": "Produce videos in seconds with our fast and efficient AI."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "No design skills needed. Just input your idea and let our AI bring it to life."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Secure Processing",
+        "description": "Your content is generated in a safe environment, ensuring complete confidentiality."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Transforming ideas into videos in three simple steps",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Input Your Idea",
+        "description": "Type in your script or concept. Our system supports various formats for ease of use."
+      },
+      {
+        "serial": "2",
+        "title": "AI Video Creation",
+        "description": "Our advanced AI analyzes your input and generates a video tailored to your specifications."
+      },
+      {
+        "serial": "3",
+        "title": "Review & Download",
+        "description": "Preview your video and download it in high quality to share or use as needed."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join the community of satisfied creators who harness the power of AI for their videos",
+    "items": [
+      {
+        "name": "Emily Thompson",
+        "stars": 5,
+        "comment": "I can't believe how easy it was to create a professional video! The results exceeded my expectations."
+      },
+      {
+        "name": "David Lee",
+        "stars": 5,
+        "comment": "As a marketing manager, this tool has revolutionized our video campaigns. It's a must-have!"
+      },
+      {
+        "name": "Jessica Smith",
+        "stars": 5,
+        "comment": "The speed and quality of the generated videos are incredible. It saves so much time!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your queries about the AI Video Generator",
+    "items": [
+      {
+        "title": "What types of videos can be generated?",
+        "description": "Our AI can create a range of video types including promotional clips, social media content, educational videos, and more, based on your provided script or concept."
+      },
+      {
+        "title": "Is there a cost to use the video generator?",
+        "description": "Absolutely! Each user enjoys 30 free video generation credits daily. Additional credits can be earned through participation or memberships that unlock more features."
+      },
+      {
+        "title": "Can I use generated videos for commercial projects?",
+        "description": "Yes, users with a subscription can use generated videos for commercial purposes while free-tier users are limited to personal projects."
+      },
+      {
+        "title": "How is user privacy maintained?",
+        "description": "All video creation happens directly on your device using secure processing methods, ensuring your scripts and videos are never shared or stored externally."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Create Beautiful Videos?",
+    "description": "Try WaveSpeed AI now to see how easily you can bring your ideas to life. No sign-up required.",
+    "ctaText": "Generate Video Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Create Stunning Logos Effortlessly",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Generate Your Own Unique Logo",
+    "description": "Craft a professional logo in seconds using AI technology. Stand out with a logo uniquely designed for your brand.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example logo concept before generation"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example logo after generation"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Create Your Logo",
+      "prompt": {
+        "heading": "Logo Ideas",
+        "placeholder": "E.g., Modern tech logo, rustic coffee shop logo, vibrant fashion brand logo..."
+      },
+      "upload": {
+        "heading": " Upload your ideas or Input keywords"
+      },
+      "processButton": "Generate Logo Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Logos Generated"
+      },
+      {
+        "title": "98.7%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "3.0s",
+        "description": "Average Creation Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Explore how our AI can turn your logo concepts into professional designs effortlessly.",
+    "items": [
+      {
+        "title": "Modern Tech Logo",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example of a modern tech logo generation",
+        "description": "Create a sleek and contemporary logo instantly."
+      },
+      {
+        "title": "Vintage Style Logo",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example of a vintage logo generation",
+        "description": "Bring a nostalgic feel to your brand with a vintage logo."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI for Logos?",
+    "description": "Our intelligent design algorithms bring your visions to life with speed and quality.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Rapid Creation",
+        "description": "Generate unique logos in seconds—no waiting, just creativity."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "Easily craft your logo with intuitive tools—perfect for anyone."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Ownership and Rights",
+        "description": "Your generated logos are yours to use freely in any project."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three easy steps to create your logo",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Input Your Ideas",
+        "description": "Enter keywords or upload your inspirations to kickstart the design process."
+      },
+      {
+        "serial": "2",
+        "title": "AI Generation",
+        "description": "Our AI instantly creates multiple logo designs that suit your specifications."
+      },
+      {
+        "serial": "3",
+        "title": "Customize and Download",
+        "description": "Personalize your logo further and download it in high resolution for all your branding needs."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless satisfied customers who have effortlessly created their perfect logos.",
+    "items": [
+      {
+        "name": "Emily Carter",
+        "stars": 5,
+        "comment": "Designing my logo was a breeze! I got exactly what I envisioned without any hassle."
+      },
+      {
+        "name": "David Green",
+        "stars": 5,
+        "comment": "I'm thrilled with the logos generated for my startup. Great quality and very fast!"
+      },
+      {
+        "name": "Laura Kim",
+        "stars": 5,
+        "comment": "The process was so smooth. I love that I can create as many logos as I need!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your questions about our AI Logo Generator",
+    "items": [
+      {
+        "title": "What kind of logos can I create?",
+        "description": "You can create logos for any type of business or brand, from tech startups to artisanal shops. The AI adapts to your style and industry preferences."
+      },
+      {
+        "title": "Is there a cost to use the logo generator?",
+        "description": "Yes! While we offer a free trial, continued access to additional features and high-res downloads requires a subscription."
+      },
+      {
+        "title": "Can I edit my logo after it's generated?",
+        "description": "Absolutely! You can customize colors, fonts, and other elements after generating your logo."
+      },
+      {
+        "title": "What rights do I have to the generated logos?",
+        "description": "All users retain full ownership and rights to any logos they generate, allowing for commercial use."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Create Your Own Logo?",
+    "description": "Start using our AI Logo Generator and see your ideas come to life. No sign-up required.",
+    "ctaText": "Generate Logo Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - KI Radierer",
+  "meta": {
+    "description": "Entfernen Sie mühelos unerwünschte Elemente in Sekundenschnelle aus Ihren Bildern mit KI-Technologie. Verbessern Sie Ihre visuellen Inhalte für E-Commerce, soziale Medien und mehr. Erleben Sie nahtlose Bearbeitung mit dem Radierwerkzeug von WaveSpeed AI!",
+    "keywords": "KI Bildbearbeitung, Hintergrund entfernen, Foto-Retusche, Bildverbesserungswerkzeug, E-Commerce Foto-Bearbeitung, WaveSpeed Radierer, KI-unterstützter Foto-Editor, digitales Asset-Management, Fotomanipulation, Marketingvisuals, saubere Bilder, Produktfotografie"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI-Tools",
+        "items": [
+          [
+            "KI-Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "KI Radierer",
+    "subHeading": "Mühelos Ihre Bilder reinigen",
+    "description": "Entfernen Sie sofort unerwünschte Elemente aus Ihren Bildern und verbessern Sie deren Qualität und Fokus. Perfekt für E-Commerce-Angebote, Social-Media-Posts und mehr. Sehen Sie, welchen Unterschied KI machen kann - beginnen Sie jetzt mit der Bearbeitung!",
+    "tryText": "Jetzt Ausprobieren",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI KI Radierer Lösung",
+    "left": {
+      "heading": "Herausforderungen der traditionellen Bearbeitung",
+      "items": [
+        "Manuelle Bearbeitung ist zeitaufwendig und arbeitsintensiv",
+        "Erfordert komplexe Softwarekenntnisse",
+        "Hohe Kosten für die Einstellung von Fachleuten",
+        "Eingeschränkte Zugriffsmöglichkeiten für schnelle Änderungen",
+        "Frustrierend für Anfänger und Nicht-Designer"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Lösung",
+      "items": [
+        "Entfernen Sie Ablenkungen in Bildern in Sekundenschnelle",
+        "Benutzerfreundliche Oberfläche - keine Erfahrung erforderlich",
+        "Kostengünstig mit flexiblen Preisen",
+        "Erstellen Sie mühelos polierte Visuals",
+        "Schnelle Verarbeitung ermöglicht sofortige Bearbeitungen"
+      ],
+      "tryText": "Ausprobieren"
+    }
+  },
+  "howItWorks": {
+    "heading": "So funktioniert es",
+    "description": "Erzielen Sie fehlerfreie Bilder in 4 einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Bild hochladen",
+        "text": "Wählen Sie das Foto aus, das Sie verbessern möchten, indem Sie unerwünschte Elemente entfernen",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Bereiche zum Löschen auswählen",
+        "text": "Markieren Sie die Teile des Bildes, die Sie mit nur wenigen Klicks entfernen möchten",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "KI-Verarbeitung anwenden",
+        "text": "Lassen Sie unsere KI die ausgewählten Bereiche intelligent analysieren und löschen",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Bearbeitetes Bild herunterladen",
+        "text": "Speichern Sie Ihr neu gereinigtes Bild in Sekundenschnelle, bereit zur Verwendung",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Beginnen Sie Ihre Bearbeitungsreise →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endlose Möglichkeiten",
+    "description": "Perfekt für verschiedene Anwendungen",
+    "items": [
+      "E-Commerce Produktbilder",
+      "Grafiken für soziale Medien",
+      "Blog- und Website-Visuals",
+      "Marketingmaterialien wie Flyer",
+      "Vorher- und Nachher-Fotovergleiche",
+      "Persönliche und Familienfotos",
+      "Immobilienpräsentationen",
+      "Verbesserungen der Veranstaltungsfotografie"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Entdecken Sie, wie Unternehmen ihre Bilder mit KI-Technologie revolutionieren",
+    "items": [
+      {
+        "tag": "Modeeinzelhandel",
+        "heading": "Online-Boutique",
+        "before": {
+          "label": "Vorher",
+          "text": "Bilder, die mit Ablenkungen überladen sind"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Saubere, fokussierte Visuals"
+        },
+        "value": "97%",
+        "key": "Verbesserung der Bildqualität",
+        "description": "Unsere Produktbilder wurden umgestaltet, was zu einer Steigerung des Engagements in sozialen Medien um 50% führte."
+      },
+      {
+        "tag": "Immobilien",
+        "heading": "Objektanzeigen",
+        "before": {
+          "label": "Vorher",
+          "text": "Unansprechende Fotos"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Stunning, klare Präsentationen"
+        },
+        "value": "95%",
+        "key": "Verbesserung der Attraktivität",
+        "description": "Saubere Fotos führten zu schnelleren Verkäufen und präsentierten die Immobilien in ihrem besten Licht."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "KI Modellvergleich",
+    "description": "Wählen Sie den idealen Ansatz für Ihre Bildbearbeitungsbedürfnisse",
+    "items": [
+      "Grundbearbeitung: Schnelles und einfaches Entfernen von einfachen Objekten",
+      "Erweiterte Bearbeitung: Detaillierte Bearbeitung für komplexe Szenen",
+      "Hintergrundentfernung: Vollständiges Löschen von Hintergründen",
+      "Elementrekonstruktion: Intelligente Fülltechniken für nahtlose Ergebnisse",
+      "Mehrschichtige Bearbeitung: Mehrere Bearbeitungen in einem Durchgang bearbeiten",
+      "Geschwindigkeit vs. Qualität: Wählen Sie basierend auf Ihrer Dringlichkeit oder Ihrem Bedarf"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Verwandte KI-Tools",
+    "description": "Entdecken Sie leistungsstärkere KI-Lösungen für die Bildbearbeitung"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welche Arten von Bildern kann ich mit dem KI-Radierer verbessern?",
+        "answer": "Sie können verschiedene Bildtypen wie JPG, PNG und WebP hochladen. Klare Bilder mit guter Beleuchtung liefern die besten Ergebnisse."
+      },
+      {
+        "question": "Wie genau ist die KI beim Entfernen ausgewählter Bereiche?",
+        "answer": "Unsere KI ist darauf ausgelegt, Objekte mit hoher Präzision zu erkennen und zu entfernen. Sie kann bei Bedarf Hintergrundmuster reproduzieren, um ein natürliches Aussehen zu erzielen."
+      },
+      {
+        "question": "Kann ich Änderungen rückgängig machen, wenn ich nicht zufrieden bin?",
+        "answer": "Ja! Sie können Ihre Änderungen ganz einfach rückgängig machen und jederzeit im Bearbeitungsprozess neu beginnen."
+      },
+      {
+        "question": "Ist eine Softwareinstallation erforderlich, um den KI-Radierer zu verwenden?",
+        "answer": "Es ist keine Softwareinstallation erforderlich. Das Tool ist vollständig webbasiert und ermöglicht Ihnen den Zugriff von jedem Gerät mit Internetverbindung."
+      },
+      {
+        "question": "Wie lange dauert es, meine Bilder zu verarbeiten?",
+        "answer": "Die Verarbeitungszeit ist in der Regel sehr schnell, normalerweise nur wenige Sekunden pro Bild, abhängig von der Komplexität der Bearbeitungen."
+      },
+      {
+        "question": "Gibt es eine Obergrenze für die Anzahl der Bilder, die ich bearbeiten kann?",
+        "answer": "Es gibt keine Obergrenze für die Anzahl der Bilder, die Sie bearbeiten können, sodass effiziente Arbeitsabläufe möglich sind, unabhängig davon, ob Sie wenige oder viele verbessern möchten."
+      },
+      {
+        "question": "Behalte ich das Urheberrecht an bearbeiteten Bildern?",
+        "answer": "Absolut! Alle mit unseren Tools bearbeiteten Bilder bleiben Ihr Eigentum, sodass Sie sie kommerziell ohne Einschränkungen verwenden können."
+      },
+      {
+        "question": "Welcher Support steht zur Verfügung, wenn ich auf Probleme stoße?",
+        "answer": "Wir bieten umfassenden Support, darunter Dokumentation, Tutorials und einen reaktionsschnellen Kundenservice für technische Fragen."
+      },
+      {
+        "question": "Wie kann ich beginnen, den KI-Radierer zu verwenden?",
+        "answer": "Laden Sie einfach Ihre Bilder hoch und befolgen Sie die einfachen Schritte, um mit der Bearbeitung zu beginnen. Neue Benutzer können von ersten kostenlosen Credits profitieren!"
+      },
+      {
+        "question": "Gibt es eine Abonnementgebühr für die Nutzung dieses Tools?",
+        "answer": "Es ist kein Abonnement erforderlich! Wir arbeiten nach einem Pay-as-you-go-Modell, das es Ihnen ermöglicht, nur für die Dienstleistungen zu bezahlen, die Sie nutzen."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Ihre Bilder zu transformieren?",
+    "description": "Starten Sie mit kostenlosen Credits und sehen Sie die Magie des KI-Radiers in Aktion!",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Jetzt Ausprobieren →"
+  },
+  "footer": {
+    "heading": "Bereit, Ihre Bilder zu reinigen?",
+    "description": "Erleben Sie WaveSpeed AI heute und heben Sie Ihre visuellen Inhalte hervor. Keine Anmeldung erforderlich.",
+    "ctaText": "Objekte jetzt entfernen",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Body Reshaping",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Transform Your Body with AI Reshaping",
+    "description": "Automatically reshape your body in images to achieve the look you desire effortlessly.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo before body reshaping"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example photo after body reshaping"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "AI Body Reshaping",
+      "prompt": {
+        "heading": "Prompt",
+        "placeholder": "E.g., Slim the waist, enhance muscle definition, adjust proportions…"
+      },
+      "upload": {
+        "heading": "Select image or Input URL"
+      },
+      "processButton": "Reshape My Body Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "10M+",
+        "description": "Photos Enhanced"
+      },
+      {
+        "title": "99.9%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "3.0s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Witness how AI reshaping can enhance your physique in photos with precision.",
+    "items": [
+      {
+        "title": "Slimming Effect",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing slimming effect on a body",
+        "description": "Achieve a more defined silhouette effortlessly"
+      },
+      {
+        "title": "Enhanced Muscle Definition",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing enhanced muscle definition",
+        "description": "Highlight your best features with artful adjustments"
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose AI Body Reshaping?",
+    "description": "Revolutionize your images with professional-level body enhancements.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Instant Results",
+        "description": "Experience immediate transformation with cutting-edge AI that works in seconds."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly",
+        "description": "No technical experience needed. Just upload your image and let the AI do the rest."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Privacy Assured",
+        "description": "All enhancements are performed securely on your device, keeping your images private."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three easy steps to reshape your photos",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Your Image",
+        "description": "Drag and drop your photo or browse files. Supports JPG, PNG, and WebP formats."
+      },
+      {
+        "serial": "2",
+        "title": "AI Enhancement",
+        "description": "Our AI analyzes and applies the desired body reshaping while preserving image quality."
+      },
+      {
+        "serial": "3",
+        "title": "Download Your Photo",
+        "description": "Preview the enhanced image and download it in high resolution."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless users who have transformed their images with AI Body Reshaping",
+    "items": [
+      {
+        "name": "Emily Davis",
+        "stars": 5,
+        "comment": "AI Body Reshaping made my photos look stunning. I couldn't believe the difference!"
+      },
+      {
+        "name": "Justin Lee",
+        "stars": 5,
+        "comment": "As a fitness enthusiast, this tool has been amazing for showcasing my progress."
+      },
+      {
+        "name": "Katie Brown",
+        "stars": 5,
+        "comment": "The privacy features are a big plus. I feel secure knowing my photos are safe."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your questions about AI Body Reshaping",
+    "items": [
+      {
+        "title": "What changes can I make to my body in photos?",
+        "description": "You can slim down, enhance muscle definition, adjust proportions, and create an overall more flattering appearance tailored to your desires."
+      },
+      {
+        "title": "Is AI Body Reshaping free to use?",
+        "description": "Yes! Users receive 30 free credits daily to reshape multiple images. Additional credits can be earned via challenges or purchase. Professional plans are available for frequent users."
+      },
+      {
+        "title": "Can I use reshaped images commercially?",
+        "description": "Paid subscribers can use processed images for commercial purposes. Free users are limited to personal use. Review our Terms of Service for more details."
+      },
+      {
+        "title": "How is my privacy protected during processing?",
+        "description": "All processing occurs within your browser, ensuring your images are never uploaded or stored externally, keeping everything confidential."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Enhance Your Photos?",
+    "description": "Try AI Body Reshaping today and see the results instantly. No sign-up needed.",
+    "ctaText": "Reshape My Body Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

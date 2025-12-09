@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Background Changer for Video",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Transform Video Backgrounds Instantly",
+    "description": "Effortlessly change your video backgrounds with advanced AI technology. Experience seamless transitions and stunning results.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example video background before changing"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example video background after changing"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Change Video Backgrounds",
+      "prompt": {
+        "heading": " Prompt",
+        "placeholder": "E.g., Replace the background with a beach, set a city skyline backdrop..."
+      },
+      "upload": {
+        "heading": " Select video or Input URL"
+      },
+      "processButton": "Change Background Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "10M+",
+        "description": "Videos Processed"
+      },
+      {
+        "title": "99.8%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "2.5s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Discover how our AI can enhance your videos by transforming backgrounds with precision.",
+    "items": [
+      {
+        "title": "Change Backgrounds Seamlessly",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing background change in a video",
+        "description": "Transform your video spaces with stunning new backgrounds."
+      },
+      {
+        "title": "Versatile Background Options",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing different backgrounds in a video",
+        "description": "Choose from a wide range of backgrounds to fit your video's theme."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Our cutting-edge AI technology offers effortless video editing with professional results.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Rapid Processing",
+        "description": "Get your background changes done in seconds, no more long waits."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly",
+        "description": "No tech skills needed. Just upload your video and let our AI handle the rest."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Secure and Private",
+        "description": "Processes occur directly in your browser, ensuring your video remains private."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three simple steps to transform your videos",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Video",
+        "description": "Drag and drop or browse your video file. Our system supports MP4, AVI, and MOV formats."
+      },
+      {
+        "serial": "2",
+        "title": "AI Background Change",
+        "description": "Our advanced AI detects and replaces the background while ensuring video quality."
+      },
+      {
+        "serial": "3",
+        "title": "Download Your Video",
+        "description": "Preview the transformed video and download it in high resolution."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless users who have transformed their videos with our AI Background Changer",
+    "items": [
+      {
+        "name": "Emily Carter",
+        "stars": 5,
+        "comment": "I love how easily I could change the background for my YouTube videos. The process was smooth and the results were amazing!"
+      },
+      {
+        "name": "David Smith",
+        "stars": 5,
+        "comment": "This tool has revolutionized my video editing workflow. I can create stunning videos faster than ever before."
+      },
+      {
+        "name": "Lisa Tran",
+        "stars": 5,
+        "comment": "The privacy feature gave me peace of mind. My videos are never uploaded; everything stays on my device!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Find answers to common inquiries about our AI Background Changer for Video",
+    "items": [
+      {
+        "title": "What types of videos can I edit with WaveSpeed?",
+        "description": "You can edit a variety of videos, including social media clips, promotional materials, and personal projects. The AI effectively handles different backgrounds and subject types."
+      },
+      {
+        "title": "Is there a cost to use the AI Background Changer?",
+        "description": "Yes! Users receive 30 free credits daily. Additional credits can be obtained through challenges and promotions. Subscription plans are available for professional needs."
+      },
+      {
+        "title": "Can I use my edited videos for commercial purposes?",
+        "description": "Subscribers can use their edited videos for commercial projects. Free-tier users are limited to personal use, so check our Terms for details."
+      },
+      {
+        "title": "How does privacy work with my videos?",
+        "description": "All video processing occurs in your browser to ensure privacy. Your videos are not uploaded to servers and are securely edited on your device."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Transform Your Videos?",
+    "description": "Try WaveSpeed AI now and see the difference for yourself. No sign-up required.",
+    "ctaText": "Change Background Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

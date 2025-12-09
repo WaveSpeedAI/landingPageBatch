@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Motion Tracking for Enhanced Video Editing",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Enhance Your Videos with Motion Tracking",
+    "description": "Easily create stunning videos by seamlessly tracking objects and ensuring they stay in focus throughout your edits.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example video before motion tracking"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example video after motion tracking"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Enhance Video Content with Motion Tracking",
+      "prompt": {
+        "heading": " Prompt",
+        "placeholder": "E.g., Track moving objects, stabilize scenes, add effects to specific actions..."
+      },
+      "upload": {
+        "heading": " Select video file or Input URL"
+      },
+      "processButton": "Start Motion Tracking Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Videos Processed"
+      },
+      {
+        "title": "98.7%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "3.2s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Witness the transformative power of Motion Tracking in your video projects.",
+    "items": [
+      {
+        "title": "Object Tracking",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing motion tracking on an object in a video",
+        "description": "Keep moving elements in focus as the background flows seamlessly."
+      },
+      {
+        "title": "Stable Action Shots",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing stabilization with motion tracking",
+        "description": "Stabilize shaky footage while providing compelling visual effects."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI for Motion Tracking?",
+    "description": "Our cutting-edge technology makes video editing smart and effortless.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Rapid Processing",
+        "description": "Achieve quick tracking results without compromising quality."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "Designed for all skill levels—upload your footage and let our AI work its magic."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Secure Processing",
+        "description": "All video edits happen securely in your browser, ensuring your content remains private."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Simple steps to elevate your video editing",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Your Video",
+        "description": "Drag and drop or browse to upload your video. Supported formats include MP4, AVI, and MOV."
+      },
+      {
+        "serial": "2",
+        "title": "AI Tracking",
+        "description": "Our advanced AI automatically tracks your selected objects, keeping them in focus as you edit."
+      },
+      {
+        "serial": "3",
+        "title": "Preview and Download",
+        "description": "View your video with integrated motion tracking and download it in high quality."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless creators who leverage our Motion Tracking feature",
+    "items": [
+      {
+        "name": "Lisa Thompson",
+        "stars": 5,
+        "comment": "Motion tracking has revolutionized my video editing process! I can keep my subjects sharp without manual adjustments."
+      },
+      {
+        "name": "Jake Roberts",
+        "stars": 5,
+        "comment": "As a filmmaker, the speed and accuracy of wave tracking have saved me so much time. It's a must-have for my projects."
+      },
+      {
+        "name": "Emma Wilson",
+        "stars": 5,
+        "comment": "I appreciate that my files are secure. WaveSpeed handles everything right in my browser—I'm impressed!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to common queries about Motion Tracking",
+    "items": [
+      {
+        "title": "Can Motion Tracking follow any type of object?",
+        "description": "Yes! Our AI can track various moving subjects, including people, vehicles, and dynamic elements within your videos."
+      },
+      {
+        "title": "Is there a limit on video length for tracking?",
+        "description": "Currently, videos can be up to 20 minutes long for processing, suitable for most projects. Longer videos may be edited in segments."
+      },
+      {
+        "title": "What about commercial usage of my edited videos?",
+        "description": "All users can freely use their edited content for commercial purposes, provided they hold a valid subscription plan."
+      },
+      {
+        "title": "How does WaveSpeed ensure processing security?",
+        "description": "All video edits are processed in your browser using secure WebAssembly technology. Your files stay private and are not stored on our servers."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Elevate Your Videos?",
+    "description": "Try WaveSpeed AI's Motion Tracking now and see the difference. No sign-up required.",
+    "ctaText": "Start Motion Tracking Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

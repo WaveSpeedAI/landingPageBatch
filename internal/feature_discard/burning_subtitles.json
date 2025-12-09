@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Burning Subtitles with Precision",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Burn Subtitles Directly onto Your Video",
+    "description": "Transform your videos by adding vibrant, customizable subtitles instantly, enhancing viewer engagement.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example video before subtitles added"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example video after subtitles added"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Add Subtitles to Your Videos",
+      "prompt": {
+        "heading": "Customize Your Subtitles",
+        "placeholder": "E.g., Add subtitles for improved accessibility, create engaging translations, highlight key quotes..."
+      },
+      "upload": {
+        "heading": " Select video or Input URL"
+      },
+      "processButton": "Add Subtitles Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "10M+",
+        "description": "Videos Enhanced"
+      },
+      {
+        "title": "99.8%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "2.5s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Subtitle Examples",
+    "description": "Explore how WaveSpeed AI adds effective and eye-catching subtitles, enriching your videos’ storytelling.",
+    "items": [
+      {
+        "title": "Engaging Translations",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example of engaging translations added to a video",
+        "description": "Boost your audience reach with multi-language support."
+      },
+      {
+        "title": "Highlight Key Quotes",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example of key quotes personalized in a video",
+        "description": "Draw attention to important moments with stylish subtitle designs."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI for Subtitles?",
+    "description": "Leverage our cutting-edge AI for subtitling, ensuring clarity and style with minimal effort.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Instant Results",
+        "description": "Add subtitles in seconds, enhancing your videos without delays."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "No editing experience needed. Upload your video and our AI handles the rest."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Secure and Private",
+        "description": "All video processing occurs in your browser, ensuring your content remains confidential."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three straightforward steps to subtitle your videos flawlessly",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Video",
+        "description": "Drag and drop your video file or input a URL. Our platform supports various formats."
+      },
+      {
+        "serial": "2",
+        "title": "AI Subtitling",
+        "description": "Our AI analyzes dialogue and captions, automatically creating engaging subtitles that fit the style you choose."
+      },
+      {
+        "serial": "3",
+        "title": "Download Final Video",
+        "description": "Preview your video with added subtitles and download it in high quality ready for sharing."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless creators who enhance their videos with WaveSpeed AI",
+    "items": [
+      {
+        "name": "Emily Carter",
+        "stars": 5,
+        "comment": "Adding subtitles with WaveSpeed was a breeze! My viewers love the translations."
+      },
+      {
+        "name": "John Smith",
+        "stars": 5,
+        "comment": "As a vlogger, this tool transformed my content. Subtitles make my videos accessible to everyone."
+      },
+      {
+        "name": "Laura Garcia",
+        "stars": 5,
+        "comment": "Impressed by the speed and quality! The customization options gave my videos a professional finish."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to common questions about our subtitling feature",
+    "items": [
+      {
+        "title": "What languages can I add subtitles in?",
+        "description": "WaveSpeed AI supports multiple languages, ensuring your content resonates with a global audience."
+      },
+      {
+        "title": "Is there a cost to using this feature?",
+        "description": "Yes! Each user receives 30 royalty-free subtitles daily. Additional options are available through subscription plans."
+      },
+      {
+        "title": "Can I customize the appearance of the subtitles?",
+        "description": "Absolutely! You can choose font styles, colors, and positions to match your video's theme."
+      },
+      {
+        "title": "How does the privacy protection work?",
+        "description": "WaveSpeed processes all videos locally on your device; no content is stored or uploaded, ensuring full privacy."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Elevate Your Videos?",
+    "description": "Try WaveSpeed AI now and witness the difference. No sign-up necessary.",
+    "ctaText": "Add Subtitles Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

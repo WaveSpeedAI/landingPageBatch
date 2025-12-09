@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Enhance Faces with Precision",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Enhance Faces in Photos",
+    "description": "Transform your images by improving facial details and features for a polished look.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo before face enhancement"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example photo after face enhancement"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Enhance Faces in Photos",
+      "prompt": {
+        "heading": " Prompt",
+        "placeholder": "E.g., Improve facial clarity, smooth skin, brighten eyes..."
+      },
+      "upload": {
+        "heading": " Select image or Input URL"
+      },
+      "processButton": "Enhance Faces Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "10M+",
+        "description": "Faces Enhanced"
+      },
+      {
+        "title": "99.8%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "2.5s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Witness the transformative power of our AI in enhancing facial features with exceptional detail.",
+    "items": [
+      {
+        "title": "Smooth Skin",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing facial skin smoothing",
+        "description": "Achieve flawless skin texture effortlessly."
+      },
+      {
+        "title": "Brighten Eyes",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing brightened eyes",
+        "description": "Make your eyes pop with enhanced brightness and definition."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Our sophisticated AI technology offers striking enhancements with ease.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Rapid Results",
+        "description": "Experience processing in seconds, allowing you to focus on your creativity."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly",
+        "description": "No prior experience needed. Just upload your image and let our AI enhance it."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Privacy Assured",
+        "description": "Your images are enhanced safely in your browser, keeping your data secure."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three simple steps to elevate your photos",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Image",
+        "description": "Drag and drop your photo or browse files. Supported formats include JPG, PNG, and WebP."
+      },
+      {
+        "serial": "2",
+        "title": "AI Enhancement",
+        "description": "Our cutting-edge AI enhances facial features while retaining the overall image quality."
+      },
+      {
+        "serial": "3",
+        "title": "Download Result",
+        "description": "Preview your enhanced image and download it in high resolution."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless users who have elevated their photos with our AI",
+    "items": [
+      {
+        "name": "Emily Smith",
+        "stars": 5,
+        "comment": "The AI enhancement made my family portraits look professional! I'm thrilled."
+      },
+      {
+        "name": "James Lee",
+        "stars": 5,
+        "comment": "WaveSpeed has completely transformed how I edit photos. Facial enhancements are spot on!"
+      },
+      {
+        "name": "Claire Davis",
+        "stars": 5,
+        "comment": "I love knowing my images are processed on my device. It's so reassuring!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your questions about AI Face Enhancement",
+    "items": [
+      {
+        "title": "What features can the AI enhance?",
+        "description": "The AI can enhance a variety of facial features including skin texture, eye brightness, and overall clarity, making your photos look stunning."
+      },
+      {
+        "title": "Is WaveSpeed entirely free?",
+        "description": "Absolutely! Each user is granted 30 free enhancement credits daily, enabling you to enhance numerous images. Additional credits can be earned through activities or challenges."
+      },
+      {
+        "title": "Can enhanced images be used commercially?",
+        "description": "Yes, users with a subscription can use enhanced images for commercial purposes. Free users may only use them for personal projects."
+      },
+      {
+        "title": "How is my privacy protected?",
+        "description": "All enhancements occur directly in your browser, ensuring your images are never uploaded or stored on external servers. Once you exit the tab, all processing data is deleted."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Enhance Your Photos?",
+    "description": "Try WaveSpeed AI now and experience the difference. No sign-up needed.",
+    "ctaText": "Enhance Faces Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

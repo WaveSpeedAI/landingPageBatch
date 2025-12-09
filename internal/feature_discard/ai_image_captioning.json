@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Image Captioning",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Enhance Your Images with AI-Powered Captions",
+    "description": "Instantly generate descriptive captions for your photos, making them more engaging and informative.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Caption Example",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo with generated caption"
+        },
+        {
+          "title": "Caption Example",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Another example photo with generated caption"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Generate Captions for Your Photos",
+      "prompt": {
+        "heading": "Caption Your Image",
+        "placeholder": "E.g., A sunset over the mountains, A happy family at a picnic..."
+      },
+      "upload": {
+        "heading": " Select image or Input URL"
+      },
+      "processButton": "Generate Caption Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Images Captioned"
+      },
+      {
+        "title": "98%",
+        "description": "User Satisfaction Rate"
+      },
+      {
+        "title": "2.5s",
+        "description": "Average Caption Generation Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Captioning Examples",
+    "description": "Discover how AI can provide rich, contextual captions for your favorite moments.",
+    "items": [
+      {
+        "title": "Summer Beach Day",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Image of a beach captioned by AI",
+        "description": "\"A sunny day at the beach with friends enjoying the waves.\""
+      },
+      {
+        "title": "Mountain Hiking Adventure",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Image of a hike captioned by AI",
+        "description": "\"Exploring breathtaking mountain views during an adventurous hike.\""
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI for Captioning?",
+    "description": "Our state-of-the-art technology delivers engaging captions that enhance your images effortlessly.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Instant Captions",
+        "description": "Receive accurate captions in seconds, enhancing your images without delay."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly",
+        "description": "No prior experience needed. Just upload an image and let our AI do the rest!"
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Secure Processing",
+        "description": "Your images remain private as everything is processed directly in your browser."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three easy steps to create captivating captions for your photos",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Your Image",
+        "description": "Drag and drop or select your photo. Our service supports various formats including JPG, PNG, and WebP."
+      },
+      {
+        "serial": "2",
+        "title": "AI Caption Generation",
+        "description": "Our intelligent AI analyzes the image and generates rich, descriptive captions that capture the essence."
+      },
+      {
+        "serial": "3",
+        "title": "Download Your Captions",
+        "description": "Review the AI-generated captions and easily download them alongside your images."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Hear from users who have transformed their photos with our captioning feature",
+    "items": [
+      {
+        "name": "Emily Carter",
+        "stars": 5,
+        "comment": "The captions add so much depth and fun to my travel photos. A must-have for any trip!"
+      },
+      {
+        "name": "Daniel Kim",
+        "stars": 5,
+        "comment": "As a social media manager, this tool has saved me time and improved my posts significantly."
+      },
+      {
+        "name": "Laura Smith",
+        "stars": 5,
+        "comment": "I love how accurate the captions are. It really makes sharing my images more engaging!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get the answers to your questions about AI Image Captioning",
+    "items": [
+      {
+        "title": "What types of images can be captioned?",
+        "description": "Our AI can generate captions for a wide range of images, including landscapes, portraits, events, and much more, providing context that resonates with viewers."
+      },
+      {
+        "title": "Is there a limit to how many images I can caption?",
+        "description": "Each user gets 30 caption credits daily, making it easy to caption numerous images. Additional credits can be earned through participation in our community."
+      },
+      {
+        "title": "Can I use AI-generated captions commercially?",
+        "description": "Yes, users on any subscription plan can use the captions for commercial purposes. Free-tier users can utilize them for personal projects."
+      },
+      {
+        "title": "How is my privacy protected?",
+        "description": "Captions are generated directly in your browser, ensuring your images never leave your device and maintaining your privacy."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Enhance Your Photos with Captions?",
+    "description": "Try WaveSpeed AI now and elevate your images effortlessly. No sign-up needed.",
+    "ctaText": "Generate Caption Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

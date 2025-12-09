@@ -1,0 +1,230 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Generador de Imágenes a Video con IA",
+  "meta": {
+    "description": "Transforma imágenes de productos en videos atractivos con IA. Impulsado por Google Veo y ByteDance. Perfecto para marketing en comercio electrónico. ¡Ofertas del Black Friday!",
+    "keywords": "IA de imagen a video, generador de videos de productos, creador de videos de IA, herramienta de video para comercio electrónico, Google Veo, texto a video, herramientas de video del Black Friday, animación de productos, creador de videos de marketing, video de Shopify, video de listado de Amazon, generador de videos para redes sociales"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas de IA",
+        "items": [
+          [
+            "Herramientas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Muestra",
+        "items": [
+          [
+            "Muestra",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "De Imagen a Video",
+    "subHeading": "Transforma Imágenes Estáticas en Videos Dinámicos",
+    "description": "Convierte tus fotos de productos en videos atractivos en minutos. Sin filmación, sin software de edición. Impulsado por Google Veo 3.1 y ByteDance Seedance - los modelos líderes en generación de videos de IA del mundo.",
+    "tryText": "Pruébalo Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución de Generador de Imágenes a Video de WaveSpeed AI",
+    "left": {
+      "heading": "Desafíos Tradicionales",
+      "items": [
+        "Producción de videos costosa ($2000-5000 por proyecto)",
+        "Requiere equipo y personal profesional",
+        "Edición y postproducción que consumen tiempo (2-7 días)",
+        "Iteraciones y revisiones limitadas",
+        "Alta barrera para pequeñas empresas"
+      ]
+    },
+    "right": {
+      "heading": "Solución WaveSpeedAI",
+      "items": [
+        "Genera videos en 1-2 minutos a partir de imágenes de productos",
+        "No se necesita equipo o personal - Solo sube imágenes",
+        "Resultados instantáneos con generación impulsada por IA",
+        "Variaciones e iteraciones ilimitadas",
+        "Precios pay-as-you-go - Asequible para todos"
+      ],
+      "tryText": "Pruébalo"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "De imagen estática a video dinámico en 4 pasos simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Sube Imagen",
+        "text": "Sube tu foto de producto o imagen de escena",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Agrega Descripción",
+        "text": "Opcional: Describe el movimiento que deseas (por ejemplo, \"gira lentamente\")",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Selecciona Modelo",
+        "text": "Elige Veo 3.1 para calidad premium o Seedance para velocidad",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Descarga Video",
+        "text": "Obtén video en HD en 1-2 minutos con licencia comercial",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Genera Tu Primer Video →"
+  },
+  "endlessPossibilities": {
+    "heading": "Posibilidades Inagotables",
+    "description": "Perfecto para cualquier industria o caso de uso",
+    "items": [
+      "Videos de exhibición de productos para Amazon, Shopify",
+      "Contenido para redes sociales (Instagram, TikTok, Facebook)",
+      "Campañas de marketing y anuncios",
+      "Transformaciones de antes/después",
+      "Videos de tutoriales y demostraciones",
+      "Recorridos de propiedades inmobiliarias",
+      "Videos de comida y recetas",
+      "Videos de lookbook de moda"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Vea cómo las empresas están transformando su flujo de trabajo con IA",
+    "items": [
+      {
+        "tag": "Comercio Electrónico Electrónico",
+        "heading": "Listado de Productos en Amazon",
+        "before": {
+          "label": "Antes",
+          "text": "Costoso"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Pago por uso"
+        },
+        "value": "99.8%",
+        "key": "Reducción de Costos",
+        "description": "Agregamos videos de productos a todos los 50 listados en un día. La tasa de conversión saltó un 40% de inmediato."
+      },
+      {
+        "tag": "Hogar y Estilo de Vida",
+        "heading": "Tienda de Decoración del Hogar en Shopify",
+        "before": {
+          "label": "Antes",
+          "text": "5 días"
+        },
+        "after": {
+          "label": "Después",
+          "text": "2 minutos"
+        },
+        "value": "99.9%",
+        "key": "Tiempo Ahorrado",
+        "description": "Revolucionario para nuestro negocio. Ahora podemos probar diferentes estilos de video para cada producto de inmediato."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Modelos de IA",
+    "description": "Elige el modelo adecuado para tus necesidades",
+    "items": [
+      "Veo 3.1: calidad 1080p, duración de 5-10s, resultados fotorealistas premium",
+      "Seedance I2V: calidad estándar, duración de 3-6s, rápido y costo-efectivo",
+      "Control de movimiento de texto a video con física natural",
+      "Movimientos y transiciones de cámara suaves",
+      "Tiempo de generación de 1-2 minutos",
+      "Derechos de uso comercial incluidos"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas de IA Relacionadas",
+    "description": "Explora más herramientas de IA poderosas para comercio electrónico"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué calidad y duración de video puedo esperar?",
+        "answer": "Veo 3.1 genera videos premium en 1080p de hasta 10 segundos con calidad cinematográfica y movimiento suave. Seedance I2V crea videos de calidad estándar de 3-6 segundos optimizados para velocidad y costo-efectividad. Ambos modelos producen resultados profesionales perfectos para listados de productos, publicaciones en redes sociales, campañas de marketing y plataformas de comercio electrónico. La salida de video mantiene la resolución y claridad de tu imagen de entrada mientras agrega movimiento y transiciones naturales."
+      },
+      {
+        "question": "¿Puedo controlar el movimiento de la cámara y los efectos de movimiento?",
+        "answer": "¡Sí! Tienes control total a través de indicaciones de texto naturales que describen el movimiento que deseas ver. Especifica movimientos de cámara como \"gira lentamente en sentido horario\", \"acércate al producto\", \"panea de izquierda a derecha\", \"orbita alrededor del objeto\", o \"avanza hacia adelante\". La IA interpreta tus instrucciones y aplica movimientos cinematográficos sofisticados con la física y el impulso adecuados. También puedes describir el movimiento de objetos como \"tela fluyendo en el viento\" o \"líquido vertiéndose suavemente\" para efectos más dinámicos."
+      },
+      {
+        "question": "¿Qué tipos y formatos de imagen funcionan mejor para la generación de video?",
+        "answer": "Las fotos de productos con fondos limpios producen los mejores resultados, aunque la IA también puede manejar escenas complejas. Las imágenes deben ser claras, bien iluminadas y tener al menos 512x512 píxeles para una calidad óptima, siendo 1024x1024 o superior recomendado para una salida premium. Soportamos formatos JPG, PNG y WebP. Las imágenes con buen contraste, exposición adecuada y enfoque nítido generarán videos de mayor calidad con movimiento y transiciones más realistas."
+      },
+      {
+        "question": "¿En qué se diferencia esto de simples presentaciones de diapositivas o presentaciones estáticas?",
+        "answer": "Los videos generados por IA incluyen movimiento 3D genuino, simulación de física realista, cambios de iluminación naturales y transiciones cinematográficas que hacen que los objetos parezcan moverse en el espacio real. A diferencia de las presentaciones de diapositivas que simplemente se desvanecen entre imágenes estáticas, nuestra tecnología crea movimiento real dentro de la escena - los productos giran de manera natural, las telas fluyen de manera realista, y los movimientos de la cámara se sienten filmados de manera profesional. El resultado es indistinguible del metraje real capturado con equipo de video profesional, no solo diapositivas animadas."
+      },
+      {
+        "question": "¿Puedo mejorar o mejorar la calidad del video después de la generación?",
+        "answer": "¡Absolutamente! Usa nuestra herramienta de escalado FlashVSR para mejorar cualquier video generado por IA a una resolución más alta con mayor nitidez, recuperación de detalles y reducción de artefactos. Esto es particularmente poderoso cuando se combina con Seedance I2V - genera rápidamente con calidad estándar, luego escala para obtener resultados cercanos a premium a una fracción del costo. Todas las mejoras de video siguen el modelo de precios pay-as-you-go de WaveSpeed sin suscripciones ni compromisos requeridos."
+      },
+      {
+        "question": "¿Qué modelo de precios utiliza la generación de imagen a video?",
+        "answer": "WaveSpeed opera bajo un modelo flexible de pago por uso sin suscripciones mensuales ni cargos ocultos. Solo pagas por los videos que realmente generas, con precios que varían según el modelo de IA seleccionado y la duración del video. Los videos premium de Veo 3.1 cuestan más pero ofrecen calidad cinematográfica, mientras que Seedance I2V ofrece precios accesibles para tiempos de respuesta más rápidos. Todos los nuevos usuarios reciben créditos gratuitos para probar el servicio, y no hay requisitos de compra mínima ni compromisos."
+      },
+      {
+        "question": "¿Cuánto tiempo toma la generación de video y puedo generar múltiples videos?",
+        "answer": "El tiempo de generación es notablemente rápido - generalmente 1-2 minutos por video independientemente del modelo que elijas. Veo 3.1 puede tardar un poco más debido a su procesamiento avanzado, mientras que Seedance I2V prioriza la velocidad. Puedes generar múltiples videos simultáneamente a través de procesamiento por lotes, lo que facilita crear variaciones con diferentes sugerencias de movimiento o ángulos de cámara. No hay tiempos de cola ni límites de procesamiento durante los períodos de uso normal."
+      },
+      {
+        "question": "¿Cuáles son los mejores casos de uso para la tecnología de imagen a video?",
+        "answer": "Esta tecnología destaca en la creación de videos de exhibición de productos para listados de Amazon, tiendas Shopify y plataformas de comercio electrónico donde el contenido de video aumenta drásticamente las tasas de conversión. Es perfecta para contenido en redes sociales en Instagram Reels, TikTok, Facebook y YouTube Shorts. Otros casos de uso incluyen campañas de marketing, demostraciones de antes/después, contenido de tutoriales, recorridos virtuales de propiedades inmobiliarias, videos de comida y recetas, lookbooks de moda, y cualquier escenario donde necesites contenido de video atractivo pero carezcas del presupuesto o recursos para la producción de video tradicional."
+      },
+      {
+        "question": "¿Tengo derechos comerciales sobre los videos generados?",
+        "answer": "¡Sí! Todos los videos generados a través de WaveSpeed Studio incluyen plenos derechos de uso comercial sin tarifas de licencia adicionales o regalías. Puedes usar los videos para listados de productos, anuncios, marketing en redes sociales, proyectos de clientes y cualquier propósito comercial. No hay requisitos de atribución, aunque siempre agradecemos el crédito. La licencia comercial cubre el uso ilimitado en todas las plataformas y tipos de medios, dándote total libertad para monetizar y distribuir tu contenido."
+      },
+      {
+        "question": "¿Qué soporte técnico y recursos están disponibles para la solución de problemas?",
+        "answer": "WaveSpeed proporciona soporte integral, incluyendo documentación detallada, tutoriales en video y guías de mejores prácticas que cubren la preparación óptima de imágenes, escritura efectiva de indicaciones y técnicas de optimización de calidad. Nuestro equipo de soporte está disponible por correo electrónico y chat en vivo para problemas técnicos, con tiempos de respuesta típicos de menos de 24 horas. La plataforma incluye manejo de errores incorporado con comentarios claros si la generación falla, y nuestro foro comunitario conecta a los usuarios para consejos e inspiración. Para clientes empresariales, hay canales de soporte dedicados y garantías de SLA disponibles."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Crear Tu Primer Video de IA?",
+    "description": "Comienza con créditos gratis - Ve la magia tú mismo",
+    "contactUsText": "Contáctanos",
+    "tryText": "Pruébalo Ahora →"
+  },
+  "footer": {
+    "heading": "¿Listo para Transformar Tus Fotos?",
+    "description": "Prueba WaveSpeed AI ahora y ve la diferencia por ti mismo. No se requiere registro.",
+    "ctaText": "Eliminar Objetos Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

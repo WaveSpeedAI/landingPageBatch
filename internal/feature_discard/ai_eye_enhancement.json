@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Enhance Your Eye Details Instantly",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Enhance the Beauty of Your Eyes",
+    "description": "Input your image to elevate the details and vibrancy of your eye features effortlessly.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo before eye enhancement"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example photo after eye enhancement"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Enhance Your Eye Details",
+      "prompt": {
+        "heading": "Prompt",
+        "placeholder": "E.g., Bring out the eye color, brighten the whites of the eyes, sharpen eye details..."
+      },
+      "upload": {
+        "heading": " Select image or Input URL"
+      },
+      "processButton": "Enhance Eyes Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "10M+",
+        "description": "Images Processed"
+      },
+      {
+        "title": "99.8%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "2.5s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Discover how WaveSpeed AI enhances eye details beautifully and effortlessly.",
+    "items": [
+      {
+        "title": "Vibrant Eye Colors",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing enhanced eye color vibrancy",
+        "description": "Watch your eye color pop with stunning clarity."
+      },
+      {
+        "title": "Brightened Eye Whites",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing brightened eye whites",
+        "description": "Achieve brighter, whiter eyes to give your photos a fresh look."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Experience professional eye enhancements with our cutting-edge technology.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Instant Results",
+        "description": "Enhance your eye details in seconds without tedious editing."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly",
+        "description": "No expertise needed. Just upload your photo and let our AI enhance your eyes."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Privacy Guaranteed",
+        "description": "All enhancements occur locally in your browser, keeping your images safe."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three effortless steps to stunning eyes",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Image",
+        "description": "Drag and drop your photo or select files directly. We support JPG, PNG, and WebP."
+      },
+      {
+        "serial": "2",
+        "title": "AI Enhancement",
+        "description": "Our sophisticated AI sharpens details and enhances colors while maintaining the photo's integrity."
+      },
+      {
+        "serial": "3",
+        "title": "Download Result",
+        "description": "View the transformed photo with our comparison slider and download your enhanced image."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless happy users who elevate their photos with WaveSpeed AI",
+    "items": [
+      {
+        "name": "Emily Carter",
+        "stars": 5,
+        "comment": "The eye enhancement feature transformed my pictures! My eyes have never looked better."
+      },
+      {
+        "name": "James Thompson",
+        "stars": 5,
+        "comment": "As a makeup artist, these enhancements give my photos that professional touch. A must-have tool!"
+      },
+      {
+        "name": "Lucy Hernandez",
+        "stars": 5,
+        "comment": "I love how I can enhance details without losing the natural look of my eyes. Truly impressive!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to common inquiries about our eye enhancement features",
+    "items": [
+      {
+        "title": "What features does the eye enhancement provide?",
+        "description": "The enhancement boosts eye colors, brightens the whites, sharpens details, and adds vibrancy, all while preserving the natural appearance."
+      },
+      {
+        "title": "Is WaveSpeed completely free to use?",
+        "description": "Absolutely! Each user gets 30 free enhancements daily, allowing you to elevate numerous images. You can also earn extra credits through challenges."
+      },
+      {
+        "title": "Can I use enhanced images commercially?",
+        "description": "Yes, paid subscribers can use enhanced images for commercial purposes. Free-tier users are limited to personal projects."
+      },
+      {
+        "title": "How does the privacy protection work?",
+        "description": "All eye enhancements are processed securely in your browser. Your photos are never uploaded or stored, ensuring complete privacy."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Elevate Your Eyes?",
+    "description": "Try WaveSpeed AI now and see the transformation for yourself. No sign-up required.",
+    "ctaText": "Enhance Eyes Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

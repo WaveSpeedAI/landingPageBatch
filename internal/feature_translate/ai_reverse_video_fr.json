@@ -1,0 +1,229 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Générateur de Vidéo Inversée par IA",
+  "meta": {
+    "description": "Inversez le temps dans vos vidéos sans effort et créez du contenu captivant avec l'IA. Parfait pour l'engagement sur les réseaux sociaux et les campagnes de marketing uniques. Découvrez l'avenir de la création vidéo avec WaveSpeed AI.",
+    "keywords": "vidéo inversée IA, outil de montage vidéo, générateur de vidéos IA, créateur de vidéos pour les réseaux sociaux, vidéo à rebours, contenu vidéo engageant, créateur de vidéos marketing, amélioration vidéo, solutions vidéo créatives, montage vidéo propulsé par IA"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Inversez la Vidéo Sans Effort",
+    "subHeading": "Transformez Votre Contenu Vidéo en Quelques Secondes",
+    "description": "Inversez instantanément l'action dans vos vidéos pour créer un contenu engageant et accrocheur. Parfait pour les réseaux sociaux et le marketing. Essayez-le maintenant pour voir à quel point il est facile de capter l'attention de votre audience !",
+    "tryText": "Essayez-le Maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution Vidéo Inversée WaveSpeed AI",
+    "left": {
+      "heading": "Difficultés de Montage Vidéo Traditionnel",
+      "items": [
+        "Édition manuelle requise pour inverser les séquences",
+        "Processus long et technique",
+        "Capacité limitée à créer des effets uniques",
+        "Nécessite des abonnements logiciels coûteux",
+        "Haute barrière de compétence pour les non-professionnels"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed AI",
+      "items": [
+        "Inversez facilement les vidéos en quelques minutes",
+        "Aucune expérience préalable en montage requise—il suffit de télécharger !",
+        "Effets engageants avec une technologie IA avancée",
+        "Créativité illimitée avec des contrôles simples",
+        "Tarification abordable à l'utilisation pour tous"
+      ],
+      "tryText": "Essayez"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment ça Marche",
+    "description": "Inversez vos séquences vidéo en 4 étapes simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Télécharger la Vidéo",
+        "text": "Choisissez la vidéo que vous souhaitez inverser",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Sélectionner l'Option Inverser",
+        "text": "Cliquez sur l'option pour inverser votre séquence",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Aperçu de Votre Vidéo",
+        "text": "Visualisez instantanément la vidéo inversée en temps réel",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Télécharger & Partager",
+        "text": "Obtenez la vidéo inversée en HD prête pour le partage",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Créez Votre Première Vidéo Inversée →"
+  },
+  "endlessPossibilities": {
+    "heading": "Applications Créatives Infinies",
+    "description": "Parfait pour un contenu captivant dans n'importe quel créneau",
+    "items": [
+      "Clips pour les réseaux sociaux qui se démarquent",
+      "Publicités marketing uniques",
+      "Vidéos de narration créatives",
+      "Contenu drôle pour un engagement viral",
+      "Tranches vidéo artistiques pour les influenceurs",
+      "Vitrines de produits dynamiques",
+      "Tutoriels engageants avec une touche",
+      "Souvenirs vidéo personnalisés avec une touche unique"
+    ]
+  },
+  "successStories": {
+    "heading": "Vraies Histoires de Succès",
+    "description": "Découvrez comment les entreprises innovent leur contenu avec l'IA",
+    "items": [
+      {
+        "tag": "Industrie du Fitness",
+        "heading": "Vidéos d'Entraînement Virales",
+        "before": {
+          "label": "Avant",
+          "text": "Clips statiques"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Inversions dynamiques qui engagent les spectateurs"
+        },
+        "value": "150%",
+        "key": "Augmentation de l'Engagement de l'Audience",
+        "description": "En inversant des moments clés d'entraînement, nos vidéos ont connu une forte augmentation des partages et des 'likes', faisant d'elles un sujet de conversation."
+      },
+      {
+        "tag": "E-commerce",
+        "heading": "Publicités Produits Créatives",
+        "before": {
+          "label": "Avant",
+          "text": "Annonces vidéo standards"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Vitrines inversées accrocheuses"
+        },
+        "value": "75%",
+        "key": "Augmentation des Ventes",
+        "description": "L'utilisation de vidéos inversées de nos produits a entraîné des taux de clics et de conversions des ventes significativement plus élevés."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison des Modèles IA",
+    "description": "Sélectionnez le modèle d'inversion adapté à vos besoins",
+    "items": [
+      "Inversion Standard : Inversion de vidéo rapide et efficace avec des retouches de base",
+      "Inversion Premium : Qualité améliorée avec des transitions et des effets fluides",
+      "Prend en charge plusieurs formats vidéo pour plus de polyvalence",
+      "Idéal pour une utilisation sur les réseaux sociaux et le marketing",
+      "Temps de traitement rapides avec des résultats efficaces à la demande"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils IA Connexes",
+    "description": "Découvrez d'autres outils IA innovants pour votre stratégie vidéo"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quels types de vidéos puis-je inverser ?",
+        "answer": "Vous pouvez inverser n'importe quel format de fichier vidéo pris en charge par notre plateforme, y compris MP4, AVI et MOV. Que ce soit un clip simple ou une séquence vidéo complexe, notre IA peut le gérer sans effort."
+      },
+      {
+        "question": "Combien de temps prend le processus d'inversion ?",
+        "answer": "En général, l'inversion de vidéo ne prend que quelques minutes. La durée dépend de la longueur de la vidéo, mais notre système est optimisé pour un traitement rapide."
+      },
+      {
+        "question": "Puis-je éditer la vidéo inversée par la suite ?",
+        "answer": "Absolument ! Une fois que vous avez inversé votre vidéo, vous pouvez l'éditer davantage en utilisant notre suite d'outils, permettant des améliorations et modifications supplémentaires."
+      },
+      {
+        "question": "Y a-t-il une limite à la taille de la vidéo que je peux télécharger ?",
+        "answer": "Nous acceptons différentes tailles de vidéo ; cependant, pour des performances optimales, nous recommandons de télécharger des vidéos de moins de 2 Go pour la meilleure expérience utilisateur."
+      },
+      {
+        "question": "Conserve-t-on la propriété de mes vidéos ?",
+        "answer": "Oui ! Toutes les vidéos traitées via notre plateforme restent votre propriété intellectuelle. Vous pouvez les utiliser librement à toutes fins."
+      },
+      {
+        "question": "Que faire si la vidéo inversée ne semble pas correcte ?",
+        "answer": "Notre IA est conçue pour livrer des inversions de haute qualité, mais si vous rencontrez des problèmes, notre équipe de support est prête à vous aider à corriger tout problème. Il suffit de nous contacter !"
+      },
+      {
+        "question": "Quelles ressources de support proposez-vous ?",
+        "answer": "Nous fournissons des ressources complètes, y compris des tutoriels, des FAQ et une assistance par chat en direct pour vous guider à travers toutes vos questions ou problèmes techniques."
+      },
+      {
+        "question": "Quelle structure tarifaire utilisez-vous pour les inversions de vidéo ?",
+        "answer": "Notre tarification est flexible ; vous payez par inversion de vidéo sans abonnements mensuels ni frais cachés. Essayez notre service aujourd'hui et découvrez les tarifs compétitifs !"
+      },
+      {
+        "question": "Puis-je inverser plusieurs vidéos à la fois ?",
+        "answer": "Oui ! Notre système prend en charge le traitement par lot, vous permettant d'inverser plusieurs vidéos simultanément, augmentant votre efficacité !"
+      },
+      {
+        "question": "Puis-je télécharger ma vidéo inversée dans différents formats ?",
+        "answer": "Oui, après l'inversion, vous pouvez choisir votre format de sortie préféré, garantissant la compatibilité avec diverses plateformes et utilisations."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Révolutionner Vos Vidéos ?",
+    "description": "Commencez avec des crédits gratuits et débloquez les possibilités",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Essayez-le Maintenant →"
+  },
+  "footer": {
+    "heading": "Prêt à Transformer Votre Contenu Vidéo ?",
+    "description": "Expérimentez WaveSpeed AI aujourd'hui et innovez votre stratégie vidéo. Aucune inscription requise.",
+    "ctaText": "Inversez la Vidéo Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

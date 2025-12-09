@@ -1,0 +1,229 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Generador de Logos AI",
+  "meta": {
+    "description": "Crea impresionantes logos profesionales sin esfuerzo con nuestro Generador de Logos AI. Perfecto para startups y negocios que buscan construir su identidad de marca en poco tiempo. ¡Comienza con créditos gratis!",
+    "keywords": "generador de logos AI, diseño de logos AI, herramientas de branding, creador de logos para negocios, creador de logos, branding para startups, diseño gráfico AI, logos personalizables, creación automática de logos, diseño de logos para comercio electrónico, generador de logos para redes sociales"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas AI",
+        "items": [
+          [
+            "Herramientas AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Galería",
+        "items": [
+          [
+            "Galería",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Generación de Logos Hecha Fácil",
+    "subHeading": "Crea Logos Únicos en Solo Minutos",
+    "description": "Aprovecha el poder de la IA para crear logos personalizados que capturan perfectamente la esencia de tu marca. ¡No se necesitan habilidades de diseño! Comienza a generar tu logo hoy con nuestra herramienta intuitiva.",
+    "tryText": "Crea Mi Logo Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución Generador de Logos AI WaveSpeed",
+    "left": {
+      "heading": "Desafíos del Diseño de Logos Tradicional",
+      "items": [
+        "Altos costos ($500-2000 por proyecto)",
+        "Iteraciones de diseño que consumen tiempo",
+        "Requiere software de diseño profesional",
+        "Opciones de personalización limitadas",
+        "Difícil para no diseñadores"
+      ]
+    },
+    "right": {
+      "heading": "Solución WaveSpeed AI",
+      "items": [
+        "Genera logos únicos en menos de 5 minutos",
+        "No se necesita experiencia en diseño - Simplemente selecciona y personaliza",
+        "Previsualizaciones instantáneas con personalización impulsada por IA",
+        "Variaciones y estilos de logos ilimitados",
+        "Modelo de precios asequible para todos los presupuestos"
+      ],
+      "tryText": "Crea Mi Logo"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "De concepto a logo en 4 simples pasos",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Elige Estilo de Logo",
+        "text": "Selecciona tu estilo de diseño preferido (por ejemplo, moderno, vintage)",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Ingresa el Nombre de la Marca",
+        "text": "Escribe el nombre de tu negocio y eslogan",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Personaliza el Diseño",
+        "text": "Ajusta colores, fuentes e íconos para que coincidan con tu visión",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Descarga el Logo",
+        "text": "Recibe tu logo de alta resolución al instante",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Genera Tu Primer Logo →"
+  },
+  "endlessPossibilities": {
+    "heading": "Oportunidades de Branding Infinita",
+    "description": "Ideal para cualquier proyecto o campaña",
+    "items": [
+      "Startups que necesitan soluciones de branding rápidas",
+      "Logos para negocios de comercio electrónico",
+      "Branding para redes sociales",
+      "Logos para eventos o productos",
+      "Identidad de branding personal",
+      "Logos para organizaciones sin fines de lucro",
+      "Logos para blogs y creadores de contenido",
+      "Logos para aplicaciones móviles y software"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Ve cómo las marcas están construyendo su identidad con IA",
+    "items": [
+      {
+        "tag": "Startups Tecnológicas",
+        "heading": "Lanzamiento de Aplicación Innovadora",
+        "before": {
+          "label": "Antes",
+          "text": "Logos DIY"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Logo diseñado a medida"
+        },
+        "value": "90%",
+        "key": "Reconocimiento de Marca",
+        "description": "Nuestro nuevo logo, creado en minutos, ha mejorado significativamente nuestra percepción de marca y atraído más usuarios."
+      },
+      {
+        "tag": "Comercio Electrónico",
+        "heading": "Lanzamiento de Tienda de Moda",
+        "before": {
+          "label": "Antes",
+          "text": "Empresas de diseño caras"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Logo generado por IA asequible"
+        },
+        "value": "85%",
+        "key": "Ahorro de Costos",
+        "description": "Ahorramos tiempo y dinero mientras obteníamos un logo increíble que encaja perfectamente con el estilo de nuestra marca."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Opciones de Diseño de Logos",
+    "description": "Selecciona el diseño adecuado para tus necesidades",
+    "items": [
+      "Plantillas Personalizables: Varios estilos y temas",
+      "Diseño Impulsado por IA: Logos únicos adaptados a tu marca",
+      "Soporte de Formato Vectorial: Diseños escalables de alta calidad",
+      "Previsualizaciones Instantáneas: Vista de cambios en tiempo real",
+      "Derechos Comerciales: Derechos de uso completo incluidos"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas AI Relacionadas",
+    "description": "Descubre más potentes soluciones de IA para branding"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué tipos de logos puedo crear?",
+        "answer": "Puedes crear una variedad de logos, incluidos wordmarks, símbolos, emblemas y más. El generador de IA se adapta a tus preferencias, permitiendo estilos de diseño diversos."
+      },
+      {
+        "question": "¿Puedo personalizar mi logo después de la generación?",
+        "answer": "¡Absolutamente! Puedes modificar colores, fuentes y diseños fácilmente para asegurarte de que el logo se alinee perfectamente con la visión de tu marca."
+      },
+      {
+        "question": "¿Qué formatos están disponibles para descargar?",
+        "answer": "Los logos están disponibles en formatos PNG, JPEG y SVG de alta resolución para adaptarse a tus necesidades, asegurando calidad tanto para uso digital como impreso."
+      },
+      {
+        "question": "¿Cómo entiende la IA mis preferencias de marca?",
+        "answer": "La IA utiliza algoritmos avanzados para evaluar tus elecciones y generar diseños que resuenen con las estéticas de branding contemporáneas y los estándares de la industria."
+      },
+      {
+        "question": "¿Hay un límite en cuántos logos puedo crear?",
+        "answer": "No, puedes crear tantos logos como necesites bajo el modelo de pago por uso. Experimenta con diferentes estilos e ideas sin limitaciones."
+      },
+      {
+        "question": "¿Cuál es la estructura de precios para la generación de logos?",
+        "answer": "Seguimos un enfoque simple de pago por uso sin tarifas ocultas. Solo pagas por cada logo que generas, haciéndolo accesible para todos los presupuestos."
+      },
+      {
+        "question": "¿Puedo usar el logo para fines comerciales?",
+        "answer": "¡Sí! Todos los logos creados vienen con derechos comerciales completos, permitiéndote usarlos en diversas plataformas sin tarifas adicionales."
+      },
+      {
+        "question": "¿Cómo asegura la IA la calidad del logo?",
+        "answer": "Nuestro generador de IA emplea principios de diseño y tendencias actuales, asegurando que tu logo no solo sea único, sino también profesional y atractivo."
+      },
+      {
+        "question": "¿Qué opciones de soporte están disponibles si necesito ayuda?",
+        "answer": "Ofrecemos documentación extensa, tutoriales y un equipo de soporte dedicado disponible por correo electrónico y chat para cualquier consulta o problema técnico."
+      },
+      {
+        "question": "¿Puedo guardar mi progreso y volver más tarde?",
+        "answer": "¡Sí! Tus diseños se guardan automáticamente, así que puedes regresar en cualquier momento para finalizar y descargar tu logo."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Crear Tu Impresionante Logo?",
+    "description": "Comienza con créditos gratis - Desata el potencial de tu marca",
+    "contactUsText": "Contáctanos",
+    "tryText": "Crea Mi Logo Ahora →"
+  },
+  "footer": {
+    "heading": "¿Listo para Diseñar Tu Identidad de Marca?",
+    "description": "Prueba WaveSpeed AI ahora y comprueba la diferencia por ti mismo. No se requiere registro.",
+    "ctaText": "Crea Logo Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Smooth Your Videos Instantly",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Stabilize Your Videos",
+    "description": "Transform shaky footage into smooth, professional-looking videos effortlessly.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example video frame before stabilization"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example video frame after stabilization"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Stabilize Your Videos",
+      "prompt": {
+        "heading": " Upload Your Video",
+        "placeholder": "E.g., Upload your shaky footage for instant stabilization."
+      },
+      "upload": {
+        "heading": " Select video or Input URL"
+      },
+      "processButton": "Stabilize Video Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Videos Stabilized"
+      },
+      {
+        "title": "98.7%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "4.2s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Witness the transformative power of stabilization with WaveSpeed AI.",
+    "items": [
+      {
+        "title": "Smooth Shaky Footage",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing stabilized video footage",
+        "description": "Conquer shaky videos and enjoy smooth playback."
+      },
+      {
+        "title": "Enhance Action Shots",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing action shots after stabilization",
+        "description": "Ensure your dynamic videos are captured with clarity and stability."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Experience unmatched video stabilization technology designed for all skill levels.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Lightning Fast",
+        "description": "Achieve stabilized videos in seconds without compromising quality."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly",
+        "description": "No editing experience needed. Just upload your video and let our AI handle the rest."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Your Privacy Matters",
+        "description": "We ensure your videos remain secure; processing happens in your browser without uploads."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three straightforward steps to steady footage",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Video",
+        "description": "Drag and drop your video or select it from your files. We support various formats."
+      },
+      {
+        "serial": "2",
+        "title": "AI Processing",
+        "description": "Our powerful AI analyzes and stabilizes your footage, eliminating shakes and jitters."
+      },
+      {
+        "serial": "3",
+        "title": "Download Stabilized Video",
+        "description": "Preview the smooth result and download your enhanced video instantly."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join thousands who have made their videos flawless with WaveSpeed AI",
+    "items": [
+      {
+        "name": "Emma Roberts",
+        "stars": 5,
+        "comment": "I couldn't believe how quickly my wobbly travel videos transformed into smooth clips. Fantastic tool!"
+      },
+      {
+        "name": "Lucas Peterson",
+        "stars": 5,
+        "comment": "As a sports videographer, WaveSpeed has become essential for my projects. It saves so much time!"
+      },
+      {
+        "name": "Jessica Lee",
+        "stars": 5,
+        "comment": "I love that my videos stay private and secure during processing. Highly recommend!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your queries about video stabilization",
+    "items": [
+      {
+        "title": "What types of videos can be stabilized?",
+        "description": "WaveSpeed AI can stabilize all types of videos, including action shots, travel clips, and home videos, effectively smoothing out any unwanted motion."
+      },
+      {
+        "title": "Is WaveSpeed completely free to use?",
+        "description": "Absolutely! Enjoy daily credits to stabilize your videos without charge, with options to earn more through community engagement."
+      },
+      {
+        "title": "Can I use my stabilized videos for commercial purposes?",
+        "description": "Yes, users with a subscription can use stabilized content commercially. Free users may only use content for personal projects."
+      },
+      {
+        "title": "How does the privacy protection work?",
+        "description": "Our AI processes videos directly in your browser, ensuring that no data is sent to external servers, safeguarding your privacy."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Smooth Out Your Videos?",
+    "description": "Try WaveSpeed AI today and witness the magic of instant stabilization. No sign-up required.",
+    "ctaText": "Stabilize Video Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

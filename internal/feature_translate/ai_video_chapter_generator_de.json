@@ -1,0 +1,230 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - KI Video Kapitelgenerator",
+  "meta": {
+    "description": "Erstellen Sie mühelos ansprechende Videokapitel mit KI. Perfekt für Online-Kurse, Webinare und Content-Ersteller. Verbessern Sie das Zuschauererlebnis und erhöhen Sie die Bindung!",
+    "keywords": "KI Video Kapitelgenerator, Video-Segmentierung, Inhaltsmarkierungen, Videoerstellung KI, interaktive Videotechnologie, Online-Kurs-Tools, Engagement-Verbesserung, Tutorial-Video-Kapitel, Bildungsinhalts-Tools, Webinar-Video-Tools, Inhaltserstellung"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI-Tools",
+        "items": [
+          [
+            "KI-Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Schaufenster",
+        "items": [
+          [
+            "Schaufenster",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "Kapitelisieren Sie Ihre Videos",
+    "subHeading": "Erstellen Sie sofort ansprechende Videokapitel",
+    "description": "Transformieren Sie lange Videos in interaktive Erlebnisse mit KI-generierten Kapiteln. Verbessern Sie das Engagement und die Navigation für Ihr Publikum in Sekunden. Probieren Sie es jetzt aus!",
+    "tryText": "Jetzt Ausprobieren",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI KI Video Kapitelgenerator Lösung",
+    "left": {
+      "heading": "Herausforderungen der traditionellen Videobearbeitung",
+      "items": [
+        "Manuelle Kapitel Erstellung ist zeitaufwendig",
+        "Erfordert technische Bearbeitungsfähigkeiten",
+        "Schwierig, die Zuschauer durchgehend zu fesseln",
+        "Eingeschränkte Anpassungsmöglichkeiten für verschiedene Segmente",
+        "Führt oft zu Zuschauerabbruch"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Lösung",
+      "items": [
+        "Automatische Erstellung von Videokapiteln in Minuten",
+        "Keine Bearbeitungsfähigkeiten erforderlich - Laden Sie einfach Ihr Video hoch",
+        "Steigern Sie das Zuschauerengagement mit einfacher Navigation",
+        "Anpassbare Kapitel basierend auf Inhaltsthemen",
+        "Erschwingliches Preis-Modell mit Bezahlung pro Kapitel"
+      ],
+      "tryText": "Ausprobieren"
+    }
+  },
+  "howItWorks": {
+    "heading": "So funktioniert es",
+    "description": "Von einem vollständigen Video zu segmentierten Kapiteln in 4 einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Laden Sie Ihr Video hoch",
+        "text": "Laden Sie einfach Ihr langformatiges Videomaterial hoch",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Wählen Sie Kapitelmarkierungen aus",
+        "text": "Wählen Sie aus, wie Sie Kapitel definieren möchten (z.B. Themen, Zeitintervalle)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Kapitel anpassen",
+        "text": "Fügen Sie jedem Kapitel Titel und Beschreibungen zur Klarheit hinzu",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Laden Sie Ihr Kapitelisiertes Video herunter",
+        "text": "Erhalten Sie Ihr interaktives Video mit vollständigen Kapiteln in wenigen Augenblicken",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Erstellen Sie Ihr erstes Kapitelisiertes Video →"
+  },
+  "endlessPossibilities": {
+    "heading": "Grenzenlose Anwendungen",
+    "description": "Ideal für verschiedene Anwendungen und Branchen",
+    "items": [
+      "Segmente von Online-Kursen für die Navigation der Teilnehmer",
+      "Webinar-Highlights für einfache Referenz",
+      "YouTube-Videos mit verbesserter Kapitelstruktur",
+      "Geschäftstraining-Module mit klaren Themen",
+      "Produktdemovideos mit segmentierten Funktionen",
+      "Ereignisaufzeichnungen mit benutzerfreundlicher Navigation",
+      "Bildungs-Tutorials mit markierten Schlüsselpunkten",
+      "Streaming-Inhalte für besseres Engagement des Publikums"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Erfahren Sie, wie Benutzer ihre Inhaltslieferung mit KI revolutionieren",
+    "items": [
+      {
+        "tag": "E-Learning",
+        "heading": "Online-Kurs-Ersteller",
+        "before": {
+          "label": "Vorher",
+          "text": "Arbeitsintensive Kapitelung"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Sofortige Kapitel-Erstellung"
+        },
+        "value": "95%",
+        "key": "Zeit Gespart",
+        "description": "Kapiteln haben Studenten geholfen, Kurse effektiv zu navigieren. Das Feedback hat sich dramatisch verbessert!"
+      },
+      {
+        "tag": "Unternehmensschulung",
+        "heading": "Unternehmensschulungsvideos",
+        "before": {
+          "label": "Vorher",
+          "text": "Verwirrende lange Videos"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Strukturiert mit Kapiteln"
+        },
+        "value": "90%",
+        "key": "Engagement-Steigerung",
+        "description": "Mitarbeiter finden jetzt leicht relevante Abschnitte. Die Abschlussquoten für Schulungen sind in die Höhe geschnellt."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "KI Modellvergleich",
+    "description": "Wählen Sie das beste Modell für Ihre Kapitelungsbedürfnisse",
+    "items": [
+      "Standard Kapitelung: Schnelle Segmentierungsmethode mit grundlegender KI",
+      "Fortgeschrittene kontextuelle Kapitel: Versteht den Kontext des Videoinhalts für nuancierte Kapitelvorschläge",
+      "Anpassbare Zeitstempel mit benutzerdefinierten Präferenzen",
+      "Echtzeit-Updates, während Videos bearbeitet oder geändert werden",
+      "Funktioniert nahtlos mit verschiedenen Videoarten und -formaten",
+      "Integrierte Kapitel-Navigationstools für Zuschauer"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Verwandte KI-Tools",
+    "description": "Entdecken Sie weitere KI-gesteuerte Tools zur Verbesserung der Inhaltserstellung"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welche Arten von Videos können von der Kapitelung profitieren?",
+        "answer": "Jedes langformatige Inhalt, wie Online-Kurse, Webinare, Konferenzen oder Tutorials, kann von der Kapitelung profitieren, um das Zuschauererlebnis und die Bindung zu verbessern."
+      },
+      {
+        "question": "Kann ich Kapitel-Titel und -Beschreibungen anpassen?",
+        "answer": "Ja! Sie haben die volle Kontrolle, um den Titel und die Beschreibung jedes Kapitels anzupassen, um Klarheit und Relevanz für Ihr Publikum zu gewährleisten."
+      },
+      {
+        "question": "Wie schnell kann ich Kapitelisierte Videos erstellen?",
+        "answer": "Der Erstellungsprozess ist schnell und wird in der Regel innerhalb von Minuten abgeschlossen, abhängig von der Videolänge."
+      },
+      {
+        "question": "Gibt es eine Begrenzung, wie viele Kapitel ich erstellen kann?",
+        "answer": "Nein, Sie können so viele Kapitel erstellen, wie für Ihren Videoinhalt erforderlich ist!"
+      },
+      {
+        "question": "Welche Videoformate werden für das Hochladen unterstützt?",
+        "answer": "Wir akzeptieren verschiedene Formate, einschließlich MP4, AVI und MOV für nahtlose Integration."
+      },
+      {
+        "question": "Wie funktioniert die Preisgestaltung für die Kapitelgenerierung?",
+        "answer": "Unsere Preisgestaltung basiert auf einem Bezahl-pro-Kapitel-Modell, das es Ihnen ermöglicht, Kosten effizient zu verwalten, basierend auf Ihren Bedürfnissen."
+      },
+      {
+        "question": "Kann ich Kapitelmarkierungen für Live-Streams verwenden?",
+        "answer": "Ja! Sie können Kapitel für aufgezeichnete Live-Streams erstellen, um sie für Zuschauer nach der Ausstrahlung zugänglicher zu machen."
+      },
+      {
+        "question": "Gibt es kommerzielle Rechte, die mit generierten Videos verbunden sind?",
+        "answer": "Alle Videos, die über unsere Plattform verarbeitet werden, kommen mit vollen kommerziellen Rechten für uneingeschränkte Nutzung in allen Medien."
+      },
+      {
+        "question": "Welche Unterstützungsressourcen stehen für die Fehlersuche zur Verfügung?",
+        "answer": "Wir bieten umfangreiche Unterstützung, einschließlich Dokumentation, Video-Tutorials und einem spezialisierten Support-Team, das bei allen Problemen hilft."
+      },
+      {
+        "question": "Gibt es eine Option für die Batch-Verarbeitung mehrerer Videos?",
+        "answer": "Ja, Sie können mehrere Videos in einer Batch-Verarbeitung verarbeiten, um Ihren Workflow bei der Inhaltserstellung zu optimieren."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, ansprechende Videokapitel zu erstellen?",
+    "description": "Beginnen Sie mit kostenlosen Credits, um es selbst auszuprobieren",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Jetzt Ausprobieren →"
+  },
+  "footer": {
+    "heading": "Transformieren Sie Ihren Videoinhalt noch heute!",
+    "description": "Erleben Sie WaveSpeed AI und heben Sie Ihre Videokapitel hervor. Keine Anmeldung erforderlich.",
+    "ctaText": "Jetzt Kapitelisieren",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

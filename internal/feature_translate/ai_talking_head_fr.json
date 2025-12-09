@@ -1,0 +1,230 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Tête Parlant IA",
+  "meta": {
+    "description": "Créez des vidéos captivantes avec des têtes parlantes générées par IA à partir de textes ou de scénarios avec WaveSpeed AI. Parfait pour les créateurs de contenu vidéo, les éducateurs et les marketeurs cherchant à améliorer l'engagement et à rationaliser la production. Découvrez le futur de la création vidéo.",
+    "keywords": "tête parlant IA, texte à vidéo, générateur de contenu vidéo, outil vidéo éducatif, WaveSpeed AI, présentateurs virtuels, vidéos marketing, automatisation vidéo, outil de création de contenu, solutions vidéo IA, créateur de vidéos e-learning"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essaie-le maintenant"
+  },
+  "hero": {
+    "heading": "Texte à Vidéo avec Tête Parlant IA",
+    "subHeading": "Donnez vie aux scénarios avec des voix réalistes",
+    "description": "Transformez votre contenu écrit en vidéos engageantes avec des têtes parlantes sans effort. Pas de tournage ni de logiciel complexe requis. Profitez de notre technologie IA avancée pour créer des vidéos qui améliorent l'interaction et la compréhension des spectateurs. Commencez à créer votre propre vidéo de tête parlant IA maintenant !",
+    "tryText": "Essayez-le maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution Tête Parlant IA WaveSpeed AI",
+    "left": {
+      "heading": "Défis Traditionnels",
+      "items": [
+        "La production vidéo est coûteuse et chronophage",
+        "Nécessite des acteurs, des tournages et des équipes de production",
+        "Retards de montage et de post-production (jours à semaines)",
+        "Capacité limitée à personnaliser les personnages et les voix",
+        "Barrière d'investissement élevée pour les petits créateurs"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed AI",
+      "items": [
+        "Créez une vidéo de tête parlant en quelques minutes à partir de votre scénario",
+        "Pas de tournage, d'équipement ou d'acteurs nécessaires",
+        "Génération instantanée de vidéos avec des avatars personnalisables",
+        "Choisissez parmi diverses options et styles de voix",
+        "Tarification flexible adaptée à tous les budgets"
+      ],
+      "tryText": "Essayer"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment ça fonctionne",
+    "description": "Transformez du texte en vidéo dynamique en 4 étapes simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Saisir le texte",
+        "text": "Entrez votre scénario ou dialogue pour la tête parlante",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Sélectionner un avatar",
+        "text": "Choisissez parmi une variété d'avatars de personnages personnalisables",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Choisir une voix",
+        "text": "Choisissez une voix qui correspond au ton et au style de votre contenu",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Télécharger la vidéo",
+        "text": "Recevez votre vidéo de tête parlant en quelques minutes avec tous les droits",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Générez votre première vidéo →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilités Infinies",
+    "description": "Idéal pour une variété d'applications",
+    "items": [
+      "Vidéos éducatives pour les enseignants et les cours en ligne",
+      "Démonstrations de produits et tutoriels",
+      "Vidéos de formation et d'intégration en entreprise",
+      "Contenu marketing engageant pour les réseaux sociaux",
+      "Messages vidéo personnalisés pour les clients",
+      "Présentations virtuelles et webinaires",
+      "Rapports d'actualités ou annonces",
+      "Récits créatifs et animations"
+    ]
+  },
+  "successStories": {
+    "heading": "Réelles Histoires de Succès",
+    "description": "Découvrez comment d'autres transforment leur communication avec l'IA",
+    "items": [
+      {
+        "tag": "Éducation",
+        "heading": "Instructeur de Cours en Ligne",
+        "before": {
+          "label": "Avant",
+          "text": "Diapositives statiques"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Vidéos dynamiques"
+        },
+        "value": "85%",
+        "key": "Augmentation de l'Engagement",
+        "description": "Le passage aux vidéos de tête parlante a considérablement augmenté l'engagement des étudiants, rendant les expériences d'apprentissage plus interactives."
+      },
+      {
+        "tag": "Marketing",
+        "heading": "Marque de E-commerce",
+        "before": {
+          "label": "Avant",
+          "text": "Faible conversion"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Engagement élevé"
+        },
+        "value": "50%",
+        "key": "Augmentation des Ventes",
+        "description": "L'utilisation de têtes parlantes IA pour les présentations de produits a remarquablement augmenté notre taux de conversion des ventes en ligne."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison des Modèles IA",
+    "description": "Sélectionnez le bon modèle selon vos besoins",
+    "items": [
+      "Avatar Standard : Représentation réaliste avec une voix de base, idéal pour des scénarios et présentations simples",
+      "Avatar Premium : Réalisme amélioré avec des fonctionnalités personnalisables et des options de voix de qualité professionnelle",
+      "La technologie de synthèse vocale offre un rythme et une intonation naturels",
+      "Support multilingue pour un contenu international",
+      "Temps de génération rapide pour des résultats instantanés",
+      "Droits commerciaux complets pour toutes les vidéos générées"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils IA Connexes",
+    "description": "Découvrez d'autres solutions IA innovantes pour vos besoins de contenu"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quel type de contenu fonctionne le mieux ?",
+        "answer": "Le modèle IA excelle avec des scénarios clairs et concis, adaptés à divers sujets, garantissant que votre vidéo résonne avec votre public cible."
+      },
+      {
+        "question": "Puis-je personnaliser l'apparence des avatars ?",
+        "answer": "Oui ! Vous pouvez modifier les caractéristiques faciales, les vêtements et les accessoires pour les aligner avec votre marque ou message."
+      },
+      {
+        "question": "Comment garantir que la voix sonne naturellement ?",
+        "answer": "Choisissez parmi notre vaste bibliothèque de voix, chacune conçue pour transmettre émotion et clarté, garantissant que votre message soit engageant."
+      },
+      {
+        "question": "Quels formats sont disponibles pour le téléchargement de vidéos ?",
+        "answer": "Les vidéos peuvent être exportées dans des formats de haute qualité compatibles avec la plupart des plateformes, y compris MP4 pour un partage et une distribution faciles."
+      },
+      {
+        "question": "Y a-t-il une limite à la longueur du scénario ?",
+        "answer": "Les scénarios peuvent être aussi courts ou longs que nécessaire ; cependant, nous recommandons de les garder concis pour un engagement optimal."
+      },
+      {
+        "question": "Y a-t-il des coûts ou des frais cachés ?",
+        "answer": "Aucuns frais cachés ! Notre modèle de tarification simple ne facture que pour les vidéos créées, sans abonnements."
+      },
+      {
+        "question": "Puis-je générer plusieurs vidéos simultanément ?",
+        "answer": "Absolument ! Vous pouvez créer de nombreuses vidéos de tête parlant en parallèle, vous faisant gagner du temps et augmentant votre productivité."
+      },
+      {
+        "question": "Conserve-je la propriété des vidéos que je crée ?",
+        "answer": "Oui, toutes les vidéos générées vous appartiennent pour une utilisation commerciale sans frais de licence supplémentaires."
+      },
+      {
+        "question": "Quel type de support est disponible si j'ai besoin d'aide ?",
+        "answer": "Nous offrons un support étendu via de la documentation, des tutoriels et une équipe de service client réactive disponible par email et chat."
+      },
+      {
+        "question": "Combien de temps faut-il pour recevoir ma vidéo ?",
+        "answer": "La plupart des vidéos sont générées et prêtes à être téléchargées en quelques minutes, permettant une création de contenu rapide."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Créer Votre Première Vidéo de Tête Parlant IA ?",
+    "description": "Commencez avec des crédits gratuits et découvrez la transformation",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Essayez-le maintenant →"
+  },
+  "footer": {
+    "heading": "Prêt à Élever Votre Contenu ?",
+    "description": "Essayez WaveSpeed AI maintenant et témoignez de l'innovation par vous-même. Aucune inscription requise.",
+    "ctaText": "Créez Votre Vidéo Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

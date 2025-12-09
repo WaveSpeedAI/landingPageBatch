@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Eliminate Filler Words from Your Text",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Eliminate Filler Words Instantly",
+    "description": "Paste your text to automatically remove irrelevant filler words and enhance clarity.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example text before filler word removal"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example text after filler word removal"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Eliminate Filler Words",
+      "prompt": {
+        "heading": " Your Text",
+        "placeholder": "E.g., Just, Really, Basically, You know..."
+      },
+      "upload": {
+        "heading": " Input Your Text"
+      },
+      "processButton": "Remove Filler Words Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "1M+",
+        "description": "Documents Processed"
+      },
+      {
+        "title": "99.9%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "2.0s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Discover how WaveSpeed AI refines your writing by removing unnecessary filler words seamlessly.",
+    "items": [
+      {
+        "title": "Streamline Your Writing",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing writing before filler word removal",
+        "description": "Achieve concise and powerful sentences without distractions."
+      },
+      {
+        "title": "Enhance Clarity",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing improved writing clarity",
+        "description": "Make your communication more effective by eliminating filler."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Our cutting-edge AI technology optimizes your content with precision.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Instant Results",
+        "description": "Experience immediate results with our fast processing algorithm. No delays, just clearer text."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly",
+        "description": "No complicated setups. Just paste your text and let our AI enhance your writing."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Privacy Assured",
+        "description": "Your content is processed securely in your browser, ensuring complete confidentiality."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three simple steps to clearer writing",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Paste Your Text",
+        "description": "Input your text directly into the field. Our system supports various text formats."
+      },
+      {
+        "serial": "2",
+        "title": "AI Processing",
+        "description": "Our intelligent AI analyzes your text to identify and remove filler words while maintaining your intended message."
+      },
+      {
+        "serial": "3",
+        "title": "View and Download",
+        "description": "Review the refined text, make any adjustments if necessary, and copy or download your improved content."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless satisfied users who have refined their writing with WaveSpeed AI",
+    "items": [
+      {
+        "name": "Emily Davis",
+        "stars": 5,
+        "comment": "WaveSpeed transformed my reports! It's amazing how much clearer my writing has become after removing filler words."
+      },
+      {
+        "name": "Jonathan Lane",
+        "stars": 5,
+        "comment": "As a student, this tool has helped me meet word counts without unnecessary fluff. Highly recommend!"
+      },
+      {
+        "name": "Maria Smith",
+        "stars": 5,
+        "comment": "I love that my content stays private. Plus, the results are instant and make a huge difference."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your questions about the Filler Word Remover",
+    "items": [
+      {
+        "title": "What types of words does the tool remove?",
+        "description": "The tool removes common filler words such as 'just', 'really', 'very', 'basically', and others that clutter your text, enhancing focus and clarity."
+      },
+      {
+        "title": "Is it free to use?",
+        "description": "Yes! You can process a set number of texts daily for free. For more features, consider our subscription options."
+      },
+      {
+        "title": "Can I use the processed text for any purpose?",
+        "description": "Yes, you are free to use the improved text for both personal and commercial projects."
+      },
+      {
+        "title": "How does privacy work?",
+        "description": "All processing happens locally in your browser. Your text is never stored or transmitted, ensuring your privacy is protected."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Enhance Your Writing?",
+    "description": "Try WaveSpeed AI now and experience the clarity it can bring. No sign-up required.",
+    "ctaText": "Remove Filler Words Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

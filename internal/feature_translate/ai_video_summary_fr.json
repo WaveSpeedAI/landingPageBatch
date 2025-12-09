@@ -1,0 +1,230 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Résumé Vidéo IA",
+  "meta": {
+    "description": "Créez rapidement des résumés vidéo concis de votre contenu avec l'IA. Rationalisez les récits trop longs en vidéos concises et engageantes sans effort. Idéal pour les entreprises souhaitant améliorer la communication et l'engagement. Offres spéciales Black Friday disponibles !",
+    "keywords": "résumé vidéo IA, outil de résumé vidéo, édition vidéo automatisée, créateur de vidéos concises, marketing de contenu, résumés IA, communication efficace, outil vidéo pour entreprises, boost d'engagement, convertisseur vidéo marketing, résumé vidéo pour réseaux sociaux"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Résumé Vidéo IA",
+    "subHeading": "Donnez vie à votre contenu avec des résumés engageants",
+    "description": "Transformez des vidéos longues en résumés captivants en quelques minutes. Exploitez une technologie IA de pointe pour simplifier votre contenu et garder l'attention des spectateurs. Commencez dès aujourd'hui !",
+    "tryText": "Créez Mon Résumé Maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution de Résumé Vidéo IA WaveSpeed",
+    "left": {
+      "heading": "Défis Traditionnels",
+      "items": [
+        "La summarisation manuelle est chronophage",
+        "Coûts de production élevés pour les récapitulations vidéo",
+        "Livraison de message et clarté incohérentes",
+        "Difficulté à maintenir l'engagement du public",
+        "Utilisation limitée de la vidéo dans la communication"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed IA",
+      "items": [
+        "Automatisez le résumé vidéo en quelques minutes",
+        "Pas d'expertise technique requise - Il suffit de télécharger",
+        "Engagement rapide grâce à un contenu généré par IA",
+        "Plusieurs styles de résumé au choix",
+        "Tarification flexible - Abordable pour tous"
+      ],
+      "tryText": "Essayer"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment ça fonctionne",
+    "description": "Transformez des vidéos longues en résumés concis en 4 étapes simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Téléchargez la Vidéo",
+        "text": "Choisissez votre vidéo longue à résumer",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Personnalisez le Résumé",
+        "text": "Optionnel : Fournissez des points ou sections clés à mettre en avant",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Sélectionnez le Style",
+        "text": "Choisissez un style de résumé qui correspond à la voix de votre marque",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Téléchargez la Vidéo Résumée",
+        "text": "Recevez votre résumé concis en quelques minutes, prêt à partager",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Générez Votre Premier Résumé →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilités Infinies",
+    "description": "Parfait pour une variété de cas d'utilisation",
+    "items": [
+      "Résumé vidéo promotionnel pour les produits",
+      "Résumés de publications sur les réseaux sociaux",
+      "Récapitulatifs de formation d'entreprise",
+      "Témoignages d'utilisateurs et études de cas",
+      "Vidéos de mise en avant d'événements",
+      "Résumé de webinaires et présentations",
+      "Moments forts de vidéos YouTube",
+      "Récapitulatif d'épisodes de podcast"
+    ]
+  },
+  "successStories": {
+    "heading": "Vraies Histoires de Succès",
+    "description": "Entreprises révolutionnant leur stratégie de contenu avec l'IA",
+    "items": [
+      {
+        "tag": "Industrie Technologique",
+        "heading": "Résumé pour Démos de Produits",
+        "before": {
+          "label": "Avant",
+          "text": "5 heures pour éditer"
+        },
+        "after": {
+          "label": "Après",
+          "text": "15 minutes avec l'IA"
+        },
+        "value": "90%",
+        "key": "Économie de Temps",
+        "description": "Notre équipe a considérablement réduit le temps de montage et amélioré la rétention des spectateurs grâce à des résumés vidéo engageants."
+      },
+      {
+        "tag": "E-learning",
+        "heading": "Vidéos de Présentation de Cours",
+        "before": {
+          "label": "Avant",
+          "text": "Les montages vidéo manuels prenaient des siècles"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Résumés instantanés avec l'IA"
+        },
+        "value": "95%",
+        "key": "Gain d'Efficacité",
+        "description": "Nous avons amélioré la manière dont les apprenants s'engagent avec le matériel de cours en livrant des résumés vidéo clairs et concis instantanément."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison de Modèles IA",
+    "description": "Choisissez le modèle le mieux adapté à vos besoins de résumé",
+    "items": [
+      "Veo 3.1 : Résumés détaillés avec visuels engageants et transitions",
+      "Seedance I2V : Résumés rapides et simples pour un retour rapide",
+      "Capacités de résumé de texte garantissant la clarté des points principaux",
+      "Transitions fluides maintenant l'engagement du spectateur",
+      "Génération de résumés de 1 à 2 minutes",
+      "Droits d'utilisation commerciale inclus"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils IA Connexes",
+    "description": "Découvrez d'autres solutions IA innovantes pour vos besoins"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quels types de vidéos peuvent être résumées ?",
+        "answer": "Notre outil fonctionne mieux avec différents types de vidéos, y compris les sessions de formation, le contenu promotionnel, les interviews et les présentations. Des vidéos simples à complexes peuvent être distillées en résumés engageants qui mettent en avant les points clés de manière efficace."
+      },
+      {
+        "question": "Puis-je personnaliser la mise en page du résumé ?",
+        "answer": "Oui ! Vous pouvez choisir parmi plusieurs styles de résumé pour correspondre à votre image de marque et au format souhaité. Personnalisez le focus et la présentation pour vous assurer qu'ils s'alignent avec votre message."
+      },
+      {
+        "question": "Combien de temps prend le résumé ?",
+        "answer": "En général, le processus de résumé prend seulement 1 à 2 minutes, quelle que soit la longueur de la vidéo. Profitez de résultats rapides qui répondent à vos besoins d'efficacité."
+      },
+      {
+        "question": "Y a-t-il des limitations sur la longueur des vidéos pour le résumé ?",
+        "answer": "Notre outil peut traiter des vidéos de différentes longueurs. Cependant, pour de meilleurs résultats, nous recommandons de respecter les normes de l'industrie en matière de longueur de vidéo lors de la soumission de contenu."
+      },
+      {
+        "question": "Puis-je éditer le résumé après sa génération ?",
+        "answer": "Absolument ! Bien que notre IA livre un résumé soigné, vous avez la flexibilité de l'ajuster et de le modifier davantage à l'aide de vos outils d'édition préférés pour un impact maximal."
+      },
+      {
+        "question": "Quelle est la structure tarifaire pour l'utilisation de l'outil de résumé ?",
+        "answer": "WaveSpeed fonctionne sur un modèle de paiement à l'utilisation. Vous ne payez que pour les résumés générés, ce qui permet de gérer votre budget avec flexibilité et sans coûts cachés."
+      },
+      {
+        "question": "Conserve-je les droits sur les résumés générés ?",
+        "answer": "Oui ! Tous les résumés créés avec notre outil IA sont accompagnés de droits commerciaux complets, permettant une utilisation illimitée sans frais de licence supplémentaires."
+      },
+      {
+        "question": "Un support client est-il disponible ?",
+        "answer": "Oui ! Nous offrons un support complet, comprenant des FAQ détaillées, de la documentation et une équipe de service client réactive pour aider avec les demandes et les besoins de dépannage."
+      },
+      {
+        "question": "Quels formats puis-je télécharger pour le résumé ?",
+        "answer": "Nous supportons une variété de formats vidéo, y compris MP4, MOV et AVI. Assurez-vous que votre contenu est clair et de haute qualité pour les meilleurs résultats de résumé."
+      },
+      {
+        "question": "Puis-je générer plusieurs résumés à la fois ?",
+        "answer": "Oui ! Notre outil prend en charge le traitement par lots, vous permettant de générer des résumés pour plusieurs vidéos simultanément, ce qui le rend efficace et sans tracas."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Rationaliser Votre Contenu ?",
+    "description": "Commencez avec des crédits gratuits - Faites l'expérience de la différence aujourd'hui",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Essayez-le Maintenant →"
+  },
+  "footer": {
+    "heading": "Transformez Vos Vidéos Maintenant !",
+    "description": "Essayez WaveSpeed AI aujourd'hui et assistez à un résumé vidéo sans effort. Aucune inscription requise.",
+    "ctaText": "Résumez Ma Vidéo Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

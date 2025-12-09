@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Extract Text from Images Instantly",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Extract Text from Images",
+    "description": "Harness the power of AI to effortlessly extract and convert text from any image into editable formats.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo before text extraction"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example photo after text extraction"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Extract Text from Images",
+      "prompt": {
+        "heading": "Prompt",
+        "placeholder": "E.g., Extract text from the sign, pull text from the document, read the recipe from the image..."
+      },
+      "upload": {
+        "heading": "Select image or Input URL"
+      },
+      "processButton": "Extract Text Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "10M+",
+        "description": "Images Processed"
+      },
+      {
+        "title": "99.8%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "2.5s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Discover how WaveSpeed AI accurately extracts text, making your documents editable and accessible.",
+    "items": [
+      {
+        "title": "Extract Text from Signs",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing text extraction from a sign",
+        "description": "Instantly convert hard-to-read text into digital format from images."
+      },
+      {
+        "title": "Convert Printed Documents",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing extraction from printed documents",
+        "description": "Effortlessly digitize printed materials for easy editing and sharing."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Leverage our cutting-edge technology to extract text seamlessly from images.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Rapid Extraction",
+        "description": "Receive accurate text results in seconds without long waiting times."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly",
+        "description": "No need for expert skills. Upload your image and let our AI handle the extraction."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Privacy Secured",
+        "description": "Your images and extracted data remain secure and private on your device."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three simple steps to extract text",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Image",
+        "description": "Drag and drop or browse for your image file. Supports JPG, PNG, and WebP formats."
+      },
+      {
+        "serial": "2",
+        "title": "AI Extraction",
+        "description": "Our advanced AI accurately detects and extracts text while maintaining high fidelity."
+      },
+      {
+        "serial": "3",
+        "title": "Download Result",
+        "description": "Review the extracted text and download it in your preferred format."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join a community of delighted users who streamline their text extraction with WaveSpeed AI",
+    "items": [
+      {
+        "name": "Jessica Lee",
+        "stars": 5,
+        "comment": "This tool revolutionized how I handle paperwork! Extracting text is quick and hassle-free."
+      },
+      {
+        "name": "David Kim",
+        "stars": 5,
+        "comment": "As a student, I find this feature invaluable for converting my notes into editable text!"
+      },
+      {
+        "name": "Emily Davis",
+        "stars": 5,
+        "comment": "I appreciate the speed and accuracy. It saves so much time on my projects."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to common questions about AI text extraction",
+    "items": [
+      {
+        "title": "What types of text can be extracted?",
+        "description": "Our technology can extract printed text from signs, documents, labels, and more, accurately converting various fonts and styles into digital text."
+      },
+      {
+        "title": "Is the text extraction service free?",
+        "description": "Yes! Users receive 30 free credits daily, enough to extract text from multiple images. Additional credits can be earned through surveys or challenges."
+      },
+      {
+        "title": "Can I use extracted text for commercial projects?",
+        "description": "Yes, users with subscriptions can utilize extracted text for commercial purposes. Free-tier users can use it for personal projects only."
+      },
+      {
+        "title": "How is user privacy protected?",
+        "description": "All image processing is conducted in-browser, ensuring your data never leaves your device, providing complete privacy and security."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Extract Text from Your Images?",
+    "description": "Try WaveSpeed AI today and simplify your text extraction needs. No sign-up required.",
+    "ctaText": "Extract Text Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

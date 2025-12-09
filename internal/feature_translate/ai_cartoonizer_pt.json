@@ -1,0 +1,226 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Cartoonizador de IA",
+  "meta": {
+    "description": "Transforme suas fotos em arte vibrante de cartoon com IA. Perfeito para projetos pessoais, mídias sociais e marketing criativo.",
+    "keywords": "Cartoonizador de IA, conversor de foto para cartoon, criador de fotos de cartoon, ferramentas criativas, conteúdo para mídias sociais, arte digital, efeitos de cartoon, edição de fotos divertida, transformações artísticas, cartoons personalizados, WaveSpeed AI, gerador de arte de IA"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de IA",
+        "items": [
+          [
+            "Ferramentas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Transformação de Foto em Cartoon",
+    "subHeading": "Transforme Suas Imagens em Arte Divertida de Cartoon",
+    "description": "Com apenas alguns cliques, transforme suas fotos favoritas em imagens de cartoon envolventes. Ideal para uso pessoal ou para melhorar sua presença nas mídias sociais. Experimente a criatividade do nosso Cartoonizador de IA – deixe sua imaginação ganhar vida!",
+    "tryText": "Crie Seu Cartoon Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução Cartoonizador de IA WaveSpeed AI",
+    "left": {
+      "heading": "Desafios Tradicionais",
+      "items": [
+        "Arte manual é demorada e cara",
+        "Requer habilidades artísticas e conhecimento de software",
+        "Difícil de alcançar estilos consistentes",
+        "Opções de personalização limitadas",
+        "Altos custos para arte de cartoon ou caricatura"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeed AI",
+      "items": [
+        "Transforme fotos em arte de cartoon em segundos",
+        "Nenhuma habilidade artística necessária - basta fazer o upload de suas fotos",
+        "Estilos de cartoon consistentes e envolventes",
+        "Modificações ilimitadas e criações únicas",
+        "Modelo acessível de pagamento conforme o uso para todos os usuários"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "De foto a cartoon em 4 passos fáceis",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Envie Sua Foto",
+        "text": "Selecione e envie uma foto que você deseja transformar em cartoon",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Escolha um Estilo",
+        "text": "Selecione o estilo de cartoon que se adapta à sua visão",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Personalize Recursos",
+        "text": "Ajuste elementos como cores e efeitos para obter seu cartoon perfeito",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Baixe Seu Cartoon",
+        "text": "Obtenha sua imagem de cartoon única em apenas alguns momentos",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Crie Seu Cartoon Agora →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilidades Infinitas de Cartoon",
+    "description": "Ideal para cada ideia criativa",
+    "items": [
+      "Cartoons personalizados para presentes",
+      "Fotos de perfil envolventes para mídias sociais",
+      "Materiais de marketing criativos",
+      "Arte digital única para sites",
+      "Ilustrações personalizadas para blogs",
+      "Avatares divertidos para perfis de jogos",
+      "Anúncios e convites em estilo cartoon",
+      "Designs de personagens vibrantes para histórias"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias Reais de Transformação",
+    "description": "Descubra como nossa ferramenta fez um impacto criativo",
+    "items": [
+      {
+        "tag": "Entusiasta de Arte",
+        "heading": "Presentes Memoráveis",
+        "before": {
+          "label": "Antes",
+          "text": "Fotos genéricas"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Cartoons personalizados"
+        },
+        "value": "100%",
+        "key": "Taxa de Satisfação",
+        "description": "Nossa família adorou as versões de cartoon únicas de nossas fotos de férias! Um presente tão memorável."
+      },
+      {
+        "tag": "Influenciador de Mídias Sociais",
+        "heading": "Presença Online Aprimorada",
+        "before": {
+          "label": "Antes",
+          "text": "Imagens padrão"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Cartoons envolventes"
+        },
+        "value": "80%",
+        "key": "Aumento de Engajamento",
+        "description": "Meus seguidores adoram as versões de cartoon das minhas fotos! Isso aumentou o engajamento em minhas postagens."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Estilos de Cartoon de IA",
+    "description": "Selecione o estilo de cartoon certo para suas fotos",
+    "items": [
+      "Cartoon Clássico: Cores brilhantes, contornos ousados, estilo fantasioso",
+      "Pop Art: respingos de tinta vívidos, sensação de quadrinhos retrô, alto contraste",
+      "Minimalista: Linhas limpas, cores sutis, estética moderna",
+      "Efeito Esboço: Aparência desenhada à mão, ótima para impressões artísticas",
+      "Cartoon 3D: Profundidade dinâmica, características divertidas, tons vibrantes",
+      "Estilo Anime: Traços marcantes, características expressivas, perfeito para design de personagens"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Explore mais soluções criativas de IA para suas necessidades artísticas"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo que você precisa saber",
+    "items": [
+      {
+        "question": "Quais tipos de fotos funcionam melhor para cartoonizar?",
+        "answer": "Fotos com sujeitos claros e boa iluminação produzem os melhores resultados. Imagens de alta resolução, pelo menos 800x800 pixels, permitem efeitos de cartoon mais detalhados."
+      },
+      {
+        "question": "Posso ajustar os recursos do cartoon após a geração?",
+        "answer": "Sim! Você pode personalizar cores, contornos e efeitos para uma aparência única que se adapte ao seu gosto ou às necessidades do seu projeto."
+      },
+      {
+        "question": "Qual é o tempo de processamento para imagens de cartoon?",
+        "answer": "A transformação acontece quase instantaneamente! Você pode baixar sua imagem de cartoon em segundos após o processamento."
+      },
+      {
+        "question": "Existem limites para quantas fotos posso cartoonizar?",
+        "answer": "Não há limites! Você pode criar quantas imagens de cartoon quiser, com cada upload processado individualmente."
+      },
+      {
+        "question": "Posso usar as imagens de cartoon comercialmente?",
+        "answer": "Sim! Todas as imagens de cartoon criadas através da nossa ferramenta vêm com direitos comerciais completos para uso ilimitado."
+      },
+      {
+        "question": "Qual modelo de preços é utilizado para este serviço?",
+        "answer": "Operamos em um modelo de pagamento conforme o uso: pague apenas pelas imagens que você cartooniza, sem taxas de assinatura ou encargos ocultos."
+      },
+      {
+        "question": "Preciso de software ou habilidades de design para usar o Cartoonizador de IA?",
+        "answer": "Não! O Cartoonizador de IA é amigável e não requer habilidades de design. Simplesmente envie uma foto e deixe a IA fazer o resto."
+      },
+      {
+        "question": "Posso compartilhar minhas imagens de cartoon diretamente pela plataforma?",
+        "answer": "Absolutamente! Após gerar seu cartoon, você pode facilmente compartilhá-lo diretamente em suas contas de mídias sociais."
+      },
+      {
+        "question": "Que suporte está disponível se eu encontrar problemas?",
+        "answer": "Oferecemos suporte abrangente via e-mail e chat ao vivo, com uma rica biblioteca de recursos para perguntas comuns e dicas de solução de problemas."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Cartoonizar Suas Fotos?",
+    "description": "Comece com créditos gratuitos - Dê vida às suas imagens",
+    "contactUsText": "Fale Conosco",
+    "tryText": "Experimente Agora →"
+  },
+  "footer": {
+    "heading": "Transforme Suas Fotos com a Magia do Cartoon",
+    "description": "Experimente o Cartoonizador de IA hoje e veja a diferença. Nenhum cadastro necessário.",
+    "ctaText": "Crie Seu Cartoon Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

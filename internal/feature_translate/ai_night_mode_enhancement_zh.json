@@ -1,0 +1,230 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI 夜间模式增强",
+  "meta": {
+    "description": "利用 AI 提升您的照片，展现令人惊叹的夜间模式效果。为电子商务和社交媒体优化低光照图像。体验 WaveSpeed 创新技术带来的不同！",
+    "keywords": "AI 夜间模式, 低光图像增强, 照片编辑 AI, 电子商务图像优化, 夜间摄影, 社交媒体照片增强, 自动化图像处理, WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "主页",
+        "items": [
+          [
+            "主页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI 工具",
+        "items": [
+          [
+            "AI 工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即尝试"
+  },
+  "hero": {
+    "heading": "AI 夜间模式增强",
+    "subHeading": "瞬间转变您的低光图像",
+    "description": "使用我们的 AI 夜间模式增强，提升您在低光条件下拍摄的图像。非常适合展示您的产品并吸引您的受众。轻松提升您的视觉效果。立即尝试！",
+    "tryText": "立即尝试",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI 夜间模式增强解决方案",
+    "left": {
+      "heading": "传统挑战",
+      "items": [
+        "昏暗灯光下的低质量照片",
+        "耗时的手动编辑",
+        "需要复杂软件进行增强",
+        "图像结果不一致",
+        "专业编辑服务费用高昂"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI 解决方案",
+      "items": [
+        "瞬间提升低光照片",
+        "无需技术技能 - 只需上传您的图像",
+        "AI 驱动的结果，质量一致",
+        "提供无限的调整和变化",
+        "实惠的定价，无隐藏费用"
+      ],
+      "tryText": "尝试"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "通过 4 个简单步骤提升您的图像",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传图像",
+        "text": "上传您的低光照片以进行增强",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "选择增强",
+        "text": "选择所需的增强，如亮度和对比度",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "预览更改",
+        "text": "实时预览您增强后的图像",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载图像",
+        "text": "在几分钟内准备好您的增强照片以供使用",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "增强您的第一张图像 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无限可能",
+    "description": "在低光下将任何图像转变为令人惊叹的视觉效果",
+    "items": [
+      "电子商务产品照片以提高可见性",
+      "在夜间突出的社交媒体帖子",
+      "夜生活活动的营销视觉",
+      "前后对比以营造戏剧效果",
+      "艺术摄影增强",
+      "房地产夜间拍摄以提供有影响力的房源",
+      "色彩鲜艳的食品摄影",
+      "夜间照明下的时尚摄影"
+    ]
+  },
+  "successStories": {
+    "heading": "真实成功案例",
+    "description": "了解 AI 夜间模式如何改变企业的游戏规则",
+    "items": [
+      {
+        "tag": "摄影",
+        "heading": "电子商务夜间拍摄增强",
+        "before": {
+          "label": "之前",
+          "text": "乏味且没有吸引力"
+        },
+        "after": {
+          "label": "之后",
+          "text": "生动且引人注目"
+        },
+        "value": "95%",
+        "key": "吸引力的提高",
+        "description": "我们的夜间模式增强提升了产品吸引力，使转化率在一夜之间提高了 30%。"
+      },
+      {
+        "tag": "房地产",
+        "heading": "奢华房源的夜间增强",
+        "before": {
+          "label": "之前",
+          "text": "可见度差"
+        },
+        "after": {
+          "label": "之后",
+          "text": "令人惊叹的夜间视觉"
+        },
+        "value": "90%",
+        "key": "咨询量的增加",
+        "description": "经过打磨的夜间视觉改变了我们的房源，吸引了 50% 的潜在买家的咨询。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI 模型比较",
+    "description": "选择适合您的夜间模式增强的最佳设置",
+    "items": [
+      "标准模式：用于一般夜间拍摄的平衡调整",
+      "专家模式：为专业结果提供的高级调整",
+      "处理过程中实时增强反馈",
+      "根据照片特征的预测性调整",
+      "1-2 分钟处理时间",
+      "完全使用增强图像的商业权利"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关 AI 工具",
+    "description": "发现更多创新的摄影 AI 工具"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要知道的一切",
+    "items": [
+      {
+        "question": "AI 夜间模式增强是如何工作的？",
+        "answer": "我们的 AI 分析您的低光图像，并应用高级算法来增强亮度、对比度和颜色，提供专业外观的引人注目的视觉效果。"
+      },
+      {
+        "question": "哪些类型的图像最能受益于此功能？",
+        "answer": "在低光条件下拍摄的照片，如事件、夜间户外照片和昏暗灯光下的室内镜头，最能从我们的夜间模式增强中受益。"
+      },
+      {
+        "question": "我可以自定义增强设置吗？",
+        "answer": "可以！您可以选择不同的增强级别和参数，以适应您的特定需求和偏好，同时实时预览更改。"
+      },
+      {
+        "question": "对于初学者来说是否容易使用？",
+        "answer": "绝对可以！该过程用户友好，旨在让任何人都能上传图像并无需事先编辑经验即可获得惊人的结果。"
+      },
+      {
+        "question": "支持哪些图像格式进行增强？",
+        "answer": "我们支持包括 JPG、PNG 和 TIFF 等多种格式。确保您的图像质量较高，以获得最佳效果。"
+      },
+      {
+        "question": "我可以增强的图像数量是否有限制？",
+        "answer": "没有！您可以一次增强多张图像，我们的 AI 高效处理批量。"
+      },
+      {
+        "question": "我是否拥有增强图像的完全商业权利？",
+        "answer": "是的！通过我们的服务增强的所有图像均附带完全的商业权利，允许您在任何项目中自由使用。"
+      },
+      {
+        "question": "如果我在使用工具时遇到问题怎么办？",
+        "answer": "我们提供丰富的资源，包括教程、常见问题和专门的支持团队，以协助您解决任何挑战。"
+      },
+      {
+        "question": "我如何跟踪对图像所做的更改？",
+        "answer": "您将看到每次图像增强的清晰前后对比，使您能够评估所做调整的影响。"
+      },
+      {
+        "question": "使用夜间模式增强是否有订阅费用？",
+        "answer": "没有！我们的定价简单明了，基于您增强的图像，且没有经常性费用。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备好增强您的图像了吗？",
+    "description": "从免费积分开始，发现 AI 夜间模式增强的魔力",
+    "contactUsText": "联系我们",
+    "tryText": "立即尝试 →"
+  },
+  "footer": {
+    "heading": "立即转变您的低光照片！",
+    "description": "体验 WaveSpeed 的 AI 夜间模式增强的力量。无需注册。",
+    "ctaText": "立即增强照片",
+    "text": "© 2025 WaveSpeed AI. 保留所有权利。"
+  }
+}

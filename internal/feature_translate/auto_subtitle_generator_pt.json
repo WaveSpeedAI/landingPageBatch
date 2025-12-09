@@ -1,0 +1,222 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Gerador Automático de Legendas",
+  "meta": {
+    "description": "Gere legendas precisas para vídeos sem esforço com nosso Gerador Automático de Legendas. Melhore a acessibilidade e o engajamento para diversos públicos. Ideal para criadores de conteúdo, educadores e profissionais de marketing. Experimente a precisão da tecnologia impulsionada por IA!",
+    "keywords": "gerador automático de legendas, legendas de vídeo, legendas de IA, ferramenta de transcrição, legendas ocultas, solução de acessibilidade, criação de conteúdo, vídeos de marketing, vídeos educativos, WaveSpeed AI, aprimoramento de vídeo"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de IA",
+        "items": [
+          [
+            "Ferramentas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Demonstração",
+        "items": [
+          [
+            "Demonstração",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Geração Automática de Legendas",
+    "subHeading": "Crie Legendas Perfeitas em Segundos",
+    "description": "Gere instantaneamente legendas precisas para seus vídeos, garantindo acessibilidade e compreensão para todos os espectadores. Perfeito para criadores de conteúdo e empresas que buscam ampliar seu alcance. Experimente agora e veja a diferença!",
+    "tryText": "Experimente Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução de Gerador Automático de Legendas WaveSpeed AI",
+    "left": {
+      "heading": "Desafios Tradicionais",
+      "items": [
+        "A transcrição manual é demorada e tediosa",
+        "Altos custos para serviços profissionais de transcrição",
+        "Inconsistências na precisão e no timing",
+        "Suporte limitado a idiomas em ferramentas tradicionais",
+        "Necessita de conhecimento especializado para legendagem efetiva"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeed AI",
+      "items": [
+        "Gere legendas precisas em minutos",
+        "Solução econômica com modelo pague conforme o uso",
+        "Precisão orientada por IA garante timing e texto exatos",
+        "Suporta vários idiomas e formatos",
+        "Interface amigável para geração sem esforço"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "Legendas sem esforço em 4 etapas simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Carregar Vídeo",
+        "text": "Carregue seu arquivo de vídeo para geração de legendas",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Selecionar Idioma",
+        "text": "Escolha o idioma para as legendas de nossas extensas opções",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Gerar Legendas",
+        "text": "Deixe a IA processar seu vídeo e gerar legendas",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Baixar Legendas",
+        "text": "Receba seu arquivo de legendas pronto para uso instantaneamente",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Gere Suas Legendas →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilidades Infinitas",
+    "description": "Perfeito para qualquer tipo de conteúdo de vídeo",
+    "items": [
+      "Criadores de conteúdo do YouTube",
+      "Aulas e webinars educacionais",
+      "Vídeos de marketing para produtos e serviços",
+      "Vídeos para redes sociais para um alcance mais amplo",
+      "Documentários e vídeos informativos",
+      "Materiais de treinamento corporativo",
+      "Podcasts com componentes visuais",
+      "Vídeos de entretenimento e filmes"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Descubra como os usuários estão maximizando sua produtividade com IA",
+    "items": [
+      {
+        "tag": "Educação",
+        "heading": "Série de Palestras Universitárias",
+        "before": {
+          "label": "Antes",
+          "text": "Legendas manuais demoravam semanas"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Legendas instantâneas em minutos"
+        },
+        "value": "95%",
+        "key": "Economia de Tempo",
+        "description": "As legendas agora são geradas em instantes, permitindo compartilhamento de conteúdo mais rápido e clareza aprimorada para os estudantes."
+      },
+      {
+        "tag": "Marketing",
+        "heading": "Vídeos de Produtos de E-commerce",
+        "before": {
+          "label": "Antes",
+          "text": "Altos custos de transcrição"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Legendas automatizadas acessíveis"
+        },
+        "value": "90%",
+        "key": "Redução de Custos",
+        "description": "Nossas campanhas de vídeo viram um aumento no engajamento, com legendas claras tornando nossa mensagem acessível."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Modelos de IA",
+    "description": "Entenda os recursos de nossa geração de legendas",
+    "items": [
+      "Qualidade Padrão: Processamento rápido, ideal para tarefas rápidas",
+      "Qualidade Premium: Precisão aprimorada e recursos de correção automática",
+      "Processamento em lote para vários arquivos simultaneamente",
+      "Suporte a formatos SRT, VTT e mais",
+      "Capacidades multilíngues para alcance global",
+      "Opções de sincronização para várias plataformas de vídeo"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Explore mais soluções de IA poderosas para edição de vídeo"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo que você precisa saber",
+    "items": [
+      {
+        "question": "Quão precisas são as legendas geradas?",
+        "answer": "Nosso modelo de IA garante alta precisão, aproveitando algoritmos avançados para resultados confiáveis. Embora visemos 95% de precisão, edições menores podem ser necessárias para a perfeição."
+      },
+      {
+        "question": "Posso editar as legendas após a geração?",
+        "answer": "Sim! Você pode editar facilmente as legendas geradas em nossa plataforma antes de finalizá-las para seus vídeos."
+      },
+      {
+        "question": "Quais formatos de vídeo são suportados para geração de legendas?",
+        "answer": "Suportamos vários formatos de vídeo, incluindo MP4, AVI, MOV e outros. Basta carregar seu arquivo, e nós cuidaremos do resto."
+      },
+      {
+        "question": "Há suporte a idiomas para legendas?",
+        "answer": "Com certeza! Oferecemos suporte para vários idiomas. Você pode escolher o idioma desejado no início do processo de geração de legendas."
+      },
+      {
+        "question": "Quanto tempo leva para gerar legendas?",
+        "answer": "As legendas são geradas quase instantaneamente. A maioria dos vídeos é processada em minutos, dependendo do tamanho e complexidade."
+      },
+      {
+        "question": "Qual é o modelo de precificação para geração de legendas?",
+        "answer": "Operamos com um modelo de precificação flexível pague conforme o uso, garantindo que você pague apenas pelo que utiliza. Não há taxas ocultas ou assinaturas."
+      },
+      {
+        "question": "Posso usar legendas para fins comerciais?",
+        "answer": "Sim, você detém todos os direitos de usar as legendas geradas em qualquer configuração comercial sem taxas adicionais."
+      },
+      {
+        "question": "Que suporte técnico você oferece?",
+        "answer": "Oferecemos suporte técnico abrangente, incluindo diretrizes, perguntas frequentes e atendimento ao cliente 24/7 para resolução de problemas e perguntas."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Gerar Sua Primeira Legenda?",
+    "description": "Comece com créditos gratuitos - Experimente a facilidade de criação de conteúdo acessível",
+    "contactUsText": "Entre em Contato",
+    "tryText": "Experimente Agora →"
+  },
+  "footer": {
+    "heading": "Transforme a Acessibilidade do Seu Vídeo Hoje!",
+    "description": "Utilize o WaveSpeed AI agora para aprimorar as capacidades do seu conteúdo de vídeo. Sem necessidade de inscrição.",
+    "ctaText": "Gere Legendas Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Face Restoration",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Restore Faces to Perfection",
+    "description": "Revive facial details and expressions in your portraits for stunning results.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo before face restoration"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example photo after face restoration"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Enhance Faces in Photos",
+      "prompt": {
+        "heading": "Prompt",
+        "placeholder": "E.g., Restore facial details and features..."
+      },
+      "upload": {
+        "heading": "Select image or Input URL"
+      },
+      "processButton": "Restore Faces Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "10M+",
+        "description": "Faces Restored"
+      },
+      {
+        "title": "99.8%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "2.5s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Witness the incredible transformation of faces with our advanced restoration technology.",
+    "items": [
+      {
+        "title": "Restore Facial Features",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing face restoration",
+        "description": "Revitalize expressions and improve clarity in your portraits."
+      },
+      {
+        "title": "Enhance Portraits",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing enhanced portraits",
+        "description": "Bring faded memories back to life with vibrant facial details."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI for Face Restoration?",
+    "description": "Our state-of-the-art AI technology excels at breathing new life into your portraits with precision and ease.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Remarkably Fast",
+        "description": "Achieve remarkable results in seconds—no delays or long processing times."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly",
+        "description": "Simply upload your photo and let our AI enhance the facial details effortlessly."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Privacy Assured",
+        "description": "Processing is done securely in your browser without compromising your privacy."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three simple steps to beautifully restored faces",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Image",
+        "description": "Easily upload your portrait by dragging and dropping or browsing files. Supported formats include JPG, PNG, and WebP."
+      },
+      {
+        "serial": "2",
+        "title": "AI Enhancement",
+        "description": "Our advanced AI intelligently restores facial details while preserving overall image quality."
+      },
+      {
+        "serial": "3",
+        "title": "Download Result",
+        "description": "Preview the enhanced image with our comparison slider and download your restored portrait in high quality."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless satisfied users who enhance their portraits with WaveSpeed AI",
+    "items": [
+      {
+        "name": "Emily Smith",
+        "stars": 5,
+        "comment": "I was blown away by how accurately WaveSpeed restored my grandmother's old photos. It's like seeing her youthful self again!"
+      },
+      {
+        "name": "James Lee",
+        "stars": 5,
+        "comment": "As a photographer, I use WaveSpeed to revitalise portraits for clients. The results are simply stunning."
+      },
+      {
+        "name": "Emily Smith",
+        "stars": 5,
+        "comment": "The restoration quality is top-notch! I love how my family photos look now."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Find answers to common questions about AI Face Restoration",
+    "items": [
+      {
+        "title": "What types of facial details can be restored?",
+        "description": "Our AI can restore lost clarity, enhance features, and improve facial expressions, transforming faded or damaged portraits."
+      },
+      {
+        "title": "Is using WaveSpeed free?",
+        "description": "Yes! Each user receives 30 free credits daily, allowing you to restore multiple portraits at no cost."
+      },
+      {
+        "title": "Can restored images be used commercially?",
+        "description": "Paid subscribers can use restored images for commercial projects. Free-tier users may use them for personal use only."
+      },
+      {
+        "title": "How is privacy maintained during the photo restoration?",
+        "description": "All restorations occur in your browser using advanced technology. Your images are never uploaded or stored, ensuring full privacy."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Elevate Your Portraits?",
+    "description": "Try WaveSpeed AI now and witness the transformation for yourself. No sign-up required.",
+    "ctaText": "Restore Faces Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

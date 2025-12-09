@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Create Human Videos Instantly",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Create Engaging Human Videos",
+    "description": "Input your script to generate lifelike human videos with voice, expressions, and movements.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Video Sample Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example video frame before using AI Human Video"
+        },
+        {
+          "title": "Video Sample After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example video frame after using AI Human Video"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Generate Human Videos",
+      "prompt": {
+        "heading": " Write Your Script",
+        "placeholder": "E.g., Welcome to our show, Today we discuss..."
+      },
+      "upload": {
+        "heading": " Input Video Preferences"
+      },
+      "processButton": "Generate Video Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Videos Generated"
+      },
+      {
+        "title": "98.7%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "3.5s",
+        "description": "Average Generation Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Video Examples",
+    "description": "Explore how our technology can create captivating videos that engage your audience.",
+    "items": [
+      {
+        "title": "Promotional Videos",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example of a promotional video created with AI Human Video",
+        "description": "Craft compelling promotional content with realistic human presenters."
+      },
+      {
+        "title": "Educational Videos",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example of an educational video created with AI Human Video",
+        "description": "Enhance learning experiences with engaging human-led tutorials."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI for Video?",
+    "description": "Our state-of-the-art AI delivers stunning human-like videos effortlessly.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Rapid Creation",
+        "description": "Generate high-quality videos in seconds without the need for filming."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "Simply write your script, choose your preferences, and let our AI handle the rest."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Secure Processing",
+        "description": "Your scripts and videos are processed securely, with privacy at the forefront."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three simple steps to create your human video",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Write Your Script",
+        "description": "Enter the dialogue or narration you want the presenter to express."
+      },
+      {
+        "serial": "2",
+        "title": "Customize Settings",
+        "description": "Choose visuals, styles, and voice options to match your intent."
+      },
+      {
+        "serial": "3",
+        "title": "Generate Video",
+        "description": "Preview your video and instantly download the final product for sharing."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless satisfied users transforming their content with AI Human Video",
+    "items": [
+      {
+        "name": "Emily Roberts",
+        "stars": 5,
+        "comment": "The human videos created from my scripts were stunning! I couldn’t believe how lifelike they looked!"
+      },
+      {
+        "name": "James Kim",
+        "stars": 5,
+        "comment": "This tool has made my video marketing so much easier. I can produce high-quality content without a film crew."
+      },
+      {
+        "name": "Laura Smith",
+        "stars": 5,
+        "comment": "I love the customization options! The AI captured my tone and style perfectly."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Find answers to common questions about AI Human Video",
+    "items": [
+      {
+        "title": "Can I choose different presenters for my videos?",
+        "description": "Yes, the platform allows you to select from a variety of avatars and styles to suit your video's needs."
+      },
+      {
+        "title": "Is there a limit to how many videos I can generate?",
+        "description": "There’s no limit! You can create as many videos as you need with our flexible pricing plans."
+      },
+      {
+        "title": "Can I use these videos for commercial purposes?",
+        "description": "Absolutely! All generated videos can be used for both personal and commercial projects."
+      },
+      {
+        "title": "How does the privacy feature work?",
+        "description": "All video generation occurs locally in your browser, meaning your scripts and content remain private and secure."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Create Stunning Videos?",
+    "description": "Try WaveSpeed AI now and experience the difference for yourself. No sign-up required.",
+    "ctaText": "Generate Video Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

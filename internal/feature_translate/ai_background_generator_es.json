@@ -1,0 +1,229 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Generador de Fondos AI",
+  "meta": {
+    "description": "Crea impresionantes fondos para cualquier imagen sin esfuerzo utilizando tecnología AI. Ideal para mejorar fotos de productos, mejorar visuales en redes sociales y mejorar listados de comercio electrónico. ¡Experimenta el poder de la generación inteligente de fondos hoy mismo!",
+    "keywords": "generador de fondos AI, eliminación de fondos de imagen, creación de fondos AI, mejora de fotos de comercio electrónico, WaveSpeed AI, fondos de fotos de productos, herramientas de fondos para redes sociales, edición de imágenes automatizada, soluciones de imagen para Shopify, mejoras en listados de Amazon"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas AI",
+        "items": [
+          [
+            "Herramientas AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrina",
+        "items": [
+          [
+            "Vitrina",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Generación de Fondos Facil",
+    "subHeading": "Transforma Tus Imágenes con Fondos Impresionantes",
+    "description": "Eleva tus fotos creando fondos cautivadores en segundos. No se necesitan habilidades de diseño. ¡Experimenta el generador de fondos impulsado por AI sin esfuerzo ahora!",
+    "tryText": "Pruébalo Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución Generador de Fondos AI WaveSpeed AI",
+    "left": {
+      "heading": "Desafíos de Edición de Fondos Tradicionales",
+      "items": [
+        "Contratar diseñadores gráficos es costoso ($100-300 por imagen)",
+        "La edición manual puede tomar horas por imagen",
+        "Se requiere experiencia en software de diseño",
+        "Opciones de personalización limitadas",
+        "Inflexibilidad para necesidades de contenido rápidas"
+      ]
+    },
+    "right": {
+      "heading": "Solución WaveSpeed AI",
+      "items": [
+        "Genera instantáneamente fondos hermosos en segundos",
+        "No se necesita experiencia en diseño - Solo sube imágenes",
+        "Estilos y colores de fondo personalizables",
+        "Variaciones y ediciones ilimitadas al alcance de tu mano",
+        "Modelo asequible de pago por uso para todos los usuarios"
+      ],
+      "tryText": "Prueba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "Crea fondos impresionantes en 4 pasos simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Subir Imagen",
+        "text": "Sube la imagen que deseas mejorar",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Elegir Fondo",
+        "text": "Selecciona entre una variedad de fondos generados por AI",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Personalizar Estilos",
+        "text": "Ajusta colores, estilos o efectos para adaptarlos a tu visión",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Descargar Imagen",
+        "text": "Obtén tu imagen mejorada lista para usar en minutos",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Genera Tu Primer Fondo →"
+  },
+  "endlessPossibilities": {
+    "heading": "Casos de Uso Versátiles",
+    "description": "Perfecto para una variedad de necesidades",
+    "items": [
+      "Imágenes de productos de comercio electrónico con fondos profesionales",
+      "Publicaciones en redes sociales que se destacan",
+      "Materiales de marketing que capturan la atención",
+      "Gráficos de sitios web para una apariencia mejorada",
+      "Visuales de blogs que involucran a los lectores",
+      "Listados de bienes raíces que exhiben propiedades",
+      "Volantes de eventos y promociones",
+      "Arte creativo para proyectos personales"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito en Optimización de Fondos",
+    "description": "Descubre cómo las marcas mejoraron su imaginería con AI",
+    "items": [
+      {
+        "tag": "Moda Minorista",
+        "heading": "Listados de Productos en el Sitio Web",
+        "before": {
+          "label": "Antes",
+          "text": "Fondos estándar"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Escenas personalizadas impresionantes"
+        },
+        "value": "85%",
+        "key": "Mejora de Atractivo Visual",
+        "description": "Nuestras imágenes transformaron la apariencia de nuestra tienda en línea, resultando en un aumento del 50% en ventas."
+      },
+      {
+        "tag": "Bienes Raíces",
+        "heading": "Exhibiciones de Propiedades en Línea",
+        "before": {
+          "label": "Antes",
+          "text": "Imágenes de propiedades simples"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Fondos vibrantes enriquecidos"
+        },
+        "value": "90%",
+        "key": "Aumento de Participación",
+        "description": "Los visuales mejorados llevaron a ventas más rápidas y un aumento en las consultas."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Características de Generación de Fondos AI",
+    "description": "Encuentra las opciones adecuadas para tus necesidades",
+    "items": [
+      "Fondos Estándar: Estilos básicos adecuados para imágenes de productos",
+      "Fondos Premium: Diseños mejorados para visuales destacados",
+      "Efectos de Fondo Personalizables: Ajustes hechos a medida para coincidir con la identidad de la marca",
+      "Procesamiento Instantáneo: Los fondos se generan en solo segundos",
+      "Interfaz Amigable: Pasos simples crean diseños complejos fácilmente"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas AI Relacionadas",
+    "description": "Descubre más soluciones innovadoras de AI para la mejora de imágenes"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué tipos de imágenes funcionan mejor para la generación de fondos?",
+        "answer": "Las imágenes con sujetos claros y fondos simples ofrecen los mejores resultados. Asegúrate de que tus cargas estén bien iluminadas, en alta resolución y centradas en el sujeto principal para un procesamiento óptimo de AI."
+      },
+      {
+        "question": "¿Puedo personalizar los fondos creados por AI?",
+        "answer": "¡Sí! Después de generar un fondo, puedes personalizar fácilmente estilos, colores y efectos para alinearlos perfectamente con tu marca o preferencias personales."
+      },
+      {
+        "question": "¿Cuánto tiempo lleva la generación de fondos?",
+        "answer": "La generación es notablemente rápida, generalmente completada en menos de un minuto. Puedes procesar múltiples imágenes simultáneamente, agilizando tu flujo de trabajo."
+      },
+      {
+        "question": "¿Hay un límite en las variaciones que puedo crear?",
+        "answer": "¡No! Puedes crear variaciones ilimitadas de fondos, permitiendo una amplia gama de estilos para adaptarse a cada proyecto o propósito."
+      },
+      {
+        "question": "¿Necesito habilidades de diseño para usar el generador de fondos?",
+        "answer": "¡Para nada! Nuestra herramienta está diseñada para ser amigable, permitiendo a cualquiera crear fondos con aspecto profesional sin experiencia previa en diseño."
+      },
+      {
+        "question": "¿Cuál es el modelo de precios para la generación de fondos?",
+        "answer": "Nuestro precios se basan en un sistema de pago por uso, donde solo pagas por las imágenes que generas. No hay suscripciones ni tarifas ocultas."
+      },
+      {
+        "question": "¿Puedo usar los fondos generados para fines comerciales?",
+        "answer": "¡Sí! Todas las imágenes creadas a través de nuestra plataforma vienen con plenos derechos comerciales, lo que te permite usarlas en marketing, ventas y cualquier aplicación comercial."
+      },
+      {
+        "question": "¿Qué tipo de soporte está disponible?",
+        "answer": "Ofrecemos soporte extenso a través de documentación, tutoriales y opciones de servicio al cliente para ayudarte a maximizar tu experiencia con nuestras herramientas AI."
+      },
+      {
+        "question": "¿Cómo puedo contactar al soporte al cliente si tengo un problema?",
+        "answer": "Puedes comunicarte con nuestro equipo de soporte por correo electrónico o chat en vivo, y generalmente respondemos dentro de 24 horas para ayudar con cualquier consulta."
+      },
+      {
+        "question": "¿Hay pruebas gratuitas o créditos disponibles para nuevos usuarios?",
+        "answer": "¡Sí! Los nuevos usuarios reciben créditos gratuitos para probar nuestros servicios, dándote la oportunidad de experimentar las capacidades de nuestro generador de fondos sin costos iniciales."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Transformar Tus Imágenes?",
+    "description": "Comienza con créditos gratuitos y mira cómo tus fotos se vuelven extraordinarias!",
+    "contactUsText": "Contáctanos",
+    "tryText": "Pruébalo Ahora →"
+  },
+  "footer": {
+    "heading": "¡Transforma Tus Fondos Hoy!",
+    "description": "Experimenta el futuro de la mejora de imágenes con WaveSpeed AI. No se requiere registro.",
+    "ctaText": "Crea Fondos Impresionantes Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

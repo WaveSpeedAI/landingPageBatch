@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Generate Stunning Backgrounds Instantly",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Create Stunning Backgrounds",
+    "description": "Transform your images effortlessly by generating beautiful, customizable backgrounds with a simple prompt.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo before background generation"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example photo after background generation"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Generate Custom Backgrounds",
+      "prompt": {
+        "heading": " Prompt",
+        "placeholder": "E.g., Create a serene beach scene, generate a bustling city background, design a fantasy landscape..."
+      },
+      "upload": {
+        "heading": " Select image or Input URL"
+      },
+      "processButton": "Generate Background Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "10M+",
+        "description": "Images Processed"
+      },
+      {
+        "title": "99.8%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "2.5s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Discover how WaveSpeed AI can elevate your images with stunning background creations.",
+    "items": [
+      {
+        "title": "Create Scenic Backgrounds",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing a new scenic background generation",
+        "description": "Transform plain photos into vibrant visuals with imaginative backgrounds."
+      },
+      {
+        "title": "Generate Professional Settings",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing professional background settings",
+        "description": "Perfect for product photos, presentations, or social media posts."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Leverage cutting-edge technology for breathtaking results that captivate audiences.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Instant Results",
+        "description": "Unleash your creativity with real-time background generation, no waiting required."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Experience",
+        "description": "Simply input your prompt, and our AI does the rest with intuitive controls."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Your Privacy Matters",
+        "description": "All processing occurs in your browser, ensuring your images remain secure and private."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Quickly create unique backgrounds in three simple steps",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload or Select Image",
+        "description": "Choose a photo by dragging and dropping or browsing files. Compatible with JPG, PNG, and WebP formats."
+      },
+      {
+        "serial": "2",
+        "title": "AI Background Generation",
+        "description": "Our powerful AI interprets your prompt and generates custom backgrounds, tailored to your vision."
+      },
+      {
+        "serial": "3",
+        "title": "Download Your Image",
+        "description": "Preview the generated result and download your transformed image in high resolution."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join a growing community creating stunning visuals with WaveSpeed AI",
+    "items": [
+      {
+        "name": "Emily Roberts",
+        "stars": 5,
+        "comment": "The backgrounds generated for my travel photos are absolutely stunning. It’s like magic!"
+      },
+      {
+        "name": "David Lee",
+        "stars": 5,
+        "comment": "I can create unique professional settings for my products in no time. This tool is a must-have!"
+      },
+      {
+        "name": "Julia Tran",
+        "stars": 5,
+        "comment": "I love how easy and fun it is to create custom backgrounds. WaveSpeed made my workflow so much smoother!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your common queries about our background generation feature",
+    "items": [
+      {
+        "title": "What types of backgrounds can be generated?",
+        "description": "You can create a wide variety of backgrounds such as nature scenes, urban landscapes, abstract designs, and much more, catering to any theme or aesthetic."
+      },
+      {
+        "title": "Is there a cost to use the background generation feature?",
+        "description": "Yes! Each user receives 30 free credits daily for background generation. Additional credits can be earned through tasks or can be purchased for higher volume needs."
+      },
+      {
+        "title": "Can I use the generated backgrounds for commercial projects?",
+        "description": "Absolutely! Users with subscriptions can freely use generated backgrounds for both personal and commercial purposes."
+      },
+      {
+        "title": "How does privacy protection work when generating backgrounds?",
+        "description": "All processing occurs locally in your browser using secure technologies. Your images are never uploaded, ensuring total privacy and security."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Create Stunning Backgrounds?",
+    "description": "Try WaveSpeed AI now and see the transformation instantly. No sign-up needed.",
+    "ctaText": "Generate Background Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

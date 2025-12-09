@@ -1,0 +1,222 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI 动漫生成器",
+  "meta": {
+    "description": "使用 AI 创建惊艳的动漫风格视觉效果。非常适合内容创作者、游戏开发者和动画工作室。体验 WaveSpeed AI 带来的动画未来。",
+    "keywords": "AI 动漫生成器, 动漫艺术创作, AI 动画工具, 数字艺术生成, 动漫角色设计, 内容创作, 游戏资产, 动画软件, 动漫视频制作, 漫画插图, WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI 工具",
+        "items": [
+          [
+            "AI 工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即尝试"
+  },
+  "hero": {
+    "heading": "动漫艺术生成",
+    "subHeading": "用惊艳的动漫创作将你的想象力变为现实",
+    "description": "释放你的创造力，将想法在短短几分钟内转变为引人注目的动漫视觉效果。非常适合艺术家、游戏开发者和内容创作者。今天就尝试一下，看看你能多快创造出你的第一件动漫杰作！",
+    "tryText": "立即尝试",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI 动漫生成器解决方案",
+    "left": {
+      "heading": "传统动画挑战",
+      "items": [
+        "高制作成本（每个项目 $3000-15000）",
+        "需要熟练的动画师和艺术家",
+        "较长的开发周期（几周到几个月）",
+        "风格和设计灵活性有限",
+        "独立创作者的访问障碍"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI 解决方案",
+      "items": [
+        "从草图或提示中在几分钟内创建动漫艺术",
+        "无需艺术技能 - 只需描述您的愿景",
+        "通过增强的 AI 创造力即时生成",
+        "无尽的风格和变化尽在您的指尖",
+        "适合所有艺术家的实惠定价"
+      ],
+      "tryText": "试试看"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "从概念到动漫艺术，四个简单步骤",
+    "steps": [
+      {
+        "number": "1",
+        "title": "提供概念",
+        "text": "用简单的词语告诉我们你的想法、角色或场景",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "选择艺术风格",
+        "text": "从各种动漫风格中选择（例如，少年、少女）",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "自定义特征",
+        "text": "调整角色特征、颜色和背景",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载你的艺术作品",
+        "text": "在 5 分钟内收到高分辨率动漫艺术",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "生成你的第一幅动漫艺术 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无限艺术创作",
+    "description": "适合任何项目或主题",
+    "items": [
+      "游戏和漫画的角色设计",
+      "定制动漫风格插图",
+      "数字内容的宣传艺术",
+      "社交媒体的独特视觉效果",
+      "粉丝艺术和原创角色设计",
+      "教育内容的动画场景",
+      "小说和故事的封面艺术",
+      "动画的分镜头"
+    ]
+  },
+  "successStories": {
+    "heading": "真实的成功故事",
+    "description": "看看创作者如何通过 AI 革新他们的艺术",
+    "items": [
+      {
+        "tag": "游戏开发",
+        "heading": "独立游戏工作室艺术作品",
+        "before": {
+          "label": "之前",
+          "text": "设计耗时数月"
+        },
+        "after": {
+          "label": "之后",
+          "text": "创作耗时数分钟"
+        },
+        "value": "95%",
+        "key": "节省的时间",
+        "description": "我们显著缩短了角色设计时间，使我们的团队能够专注于游戏玩法。"
+      },
+      {
+        "tag": "自由职业艺术家",
+        "heading": "委托的动漫插图",
+        "before": {
+          "label": "之前",
+          "text": "高昂的费用"
+        },
+        "after": {
+          "label": "之后",
+          "text": "可承受的价格"
+        },
+        "value": "98%",
+        "key": "成本效率",
+        "description": "利用 AI 生成插图，我可以提供有竞争力的价格和更多的委托。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI 模型比较",
+    "description": "为您的艺术需求选择合适的模型",
+    "items": [
+      "动漫风格 1：详细的角色，高艺术质量，非常适合英雄设计",
+      "动漫风格 2：更快的创作，适合背景和场景元素，预算友好",
+      "支持头发、服装和环境的自定义选项",
+      "支持动态姿势和表情的创意提示",
+      "1-5 分钟内即时结果",
+      "所有生成艺术品包含商业权利"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关的 AI 工具",
+    "description": "探索更多强大的艺术家 AI 工具"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "你需要了解的一切",
+    "items": [
+      {
+        "question": "我可以生成哪些艺术风格？",
+        "answer": "您可以创建多种动漫风格，包括少年和少女，并根据您的喜好自定义特征。"
+      },
+      {
+        "question": "我需要艺术技能才能使用它吗？",
+        "answer": "完全不需要！您只需描述您的概念，我们的 AI 将处理其余的，创造出美丽的动漫艺术。"
+      },
+      {
+        "question": "输出的文件格式有哪些？",
+        "answer": "生成的艺术品提供高分辨率的 PNG 和 JPG 格式，适合数字展示和打印。"
+      },
+      {
+        "question": "AI 与传统艺术家的比较如何？",
+        "answer": "AI 生成的艺术提供快速的结果和创意灵活性，但它是辅助艺术家的工具，而不是取代他们独特才能的替代品。"
+      },
+      {
+        "question": "我可以将生成的艺术商业化吗？",
+        "answer": "可以！通过 WaveSpeed AI 创建的所有艺术品都包括完整的商业权利，允许您自由出售或使用。"
+      },
+      {
+        "question": "生成艺术需要多长时间？",
+        "answer": "大多数作品在 1-5 分钟内完成，允许快速迭代和更改。"
+      },
+      {
+        "question": "我可以创作的数量有限制吗？",
+        "answer": "没有，您可以生成尽可能多的艺术作品，每个作品只需几分钟。"
+      },
+      {
+        "question": "使用该工具提供什么样的支持？",
+        "answer": "我们提供全面的用户指南、视频教程以及专门的支持团队，帮助您解决任何问题或疑问。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备创建你的第一幅动漫艺术了吗？",
+    "description": "使用免费积分 - 释放你的创造力",
+    "contactUsText": "联系我们",
+    "tryText": "立即尝试 →"
+  },
+  "footer": {
+    "heading": "准备制作引人入胜的动漫了吗？",
+    "description": "现在就尝试 WaveSpeed AI，将你的想法变为现实。无需注册。",
+    "ctaText": "立即创建动漫艺术",
+    "text": "© 2025 WaveSpeed AI. 版权所有。"
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Turn Your Scripts into Stunning Videos",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Transform Scripts into Engaging Videos",
+    "description": "Input your script and watch as it automatically generates a captivating video, enhancing your story visually.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Script to Video",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example video generated from script"
+        },
+        {
+          "title": "Final Video",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example of final video result from script"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Create Videos from Scripts",
+      "prompt": {
+        "heading": " Enter Your Script",
+        "placeholder": "E.g., Write a script for a 30-second promo video about our new product."
+      },
+      "upload": {
+        "heading": " Select script or Input text"
+      },
+      "processButton": "Create Video Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Scripts Processed"
+      },
+      {
+        "title": "98%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "3.5s",
+        "description": "Average Video Creation Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Video Examples",
+    "description": "Discover how WaveSpeed AI can bring your scripts to life with stunning visuals and sound.",
+    "items": [
+      {
+        "title": "Promotional Videos",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing promotional video created from script",
+        "description": "Easily turn your marketing scripts into polished promotional videos."
+      },
+      {
+        "title": "Educational Content",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing educational video created from script",
+        "description": "Transform lessons into engaging videos for your audience."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI for Video Creation?",
+    "description": "Utilize cutting-edge AI technology to effortlessly create professional-quality videos from your scripts.",
+    "items": [
+      {
+        "icon": "film",
+        "title": "Instant Video Creation",
+        "description": "Generate high-quality videos in seconds, perfect for any project without the long wait."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "No prior video editing skills needed. Just input your script and let AI handle the rest."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Secure Processing",
+        "description": "All script content is processed securely, ensuring your ideas remain confidential."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three simple steps to create engaging videos",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Input Your Script",
+        "description": "Type or paste your script into our intuitive interface. We support multiple formats to accommodate your content."
+      },
+      {
+        "serial": "2",
+        "title": "AI Video Generation",
+        "description": "Our advanced AI analyzes your script and crafts a dynamic video with visuals, animations, and voiceovers."
+      },
+      {
+        "serial": "3",
+        "title": "Preview and Download",
+        "description": "Watch the generated video, make any necessary adjustments, and download your high-quality content."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless creators who have revolutionized their video production with WaveSpeed AI",
+    "items": [
+      {
+        "name": "Emily Davis",
+        "stars": 5,
+        "comment": "Using WaveSpeed to create videos from my scripts was a game changer! It saved me so much time and effort."
+      },
+      {
+        "name": "John Smith",
+        "stars": 5,
+        "comment": "The videos turn out fantastic every time! I love how easily I can bring my ideas to life."
+      },
+      {
+        "name": "Lisa Brown",
+        "stars": 5,
+        "comment": "As a content creator, I appreciate the privacy and security of my scripts during the video creation process."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your queries about AI Script to Video",
+    "items": [
+      {
+        "title": "What type of scripts can I use with WaveSpeed?",
+        "description": "You can use scripts for promotional videos, educational content, presentations, and more. Our platform is flexible to accommodate various styles and formats."
+      },
+      {
+        "title": "Is WaveSpeed AI free to use?",
+        "description": "Yes! Each user receives 20 free credits daily, enabling the creation of multiple videos. Additional credits can be earned through participation in community activities. Subscription plans are available for more extensive needs."
+      },
+      {
+        "title": "Can I monetize the videos generated?",
+        "description": "Absolutely! Paid users are free to use generated video content for commercial purposes. Free-tier users may use them for personal use only."
+      },
+      {
+        "title": "How do you ensure my script remains private?",
+        "description": "WaveSpeed processes all scripts directly in your browser, ensuring that your content never leaves your device. Your privacy is our top priority."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Bring Your Scripts to Life?",
+    "description": "Try WaveSpeed AI now and experience seamless video creation. No sign-up required.",
+    "ctaText": "Create Video Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Detect Anomalies in Videos Effortlessly",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Detect Anomalies in Your Videos",
+    "description": "Automatically identify abnormalities in video footage with precision and speed.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Anomaly Detection Example",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Video frame highlighting an anomaly"
+        },
+        {
+          "title": "Normal vs Anomalous",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Comparison of normal footage vs footage with detected anomaly"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Detect Anomalies in Videos",
+      "prompt": {
+        "heading": " Prompt",
+        "placeholder": "E.g., Identify unusual movements, strange objects, unexpected actions..."
+      },
+      "upload": {
+        "heading": " Select video or Input URL"
+      },
+      "processButton": "Detect Anomalies Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Videos Analyzed"
+      },
+      {
+        "title": "98.7%",
+        "description": "Detection Accuracy"
+      },
+      {
+        "title": "3.0s",
+        "description": "Average Detection Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Anomaly Detection Examples",
+    "description": "Discover how our feature reveals hidden anomalies in your videos seamlessly.",
+    "items": [
+      {
+        "title": "Identify Unusual Movements",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing detection of unusual movement in a video",
+        "description": "Quickly spot and highlight unexpected actions."
+      },
+      {
+        "title": "Reveal Hidden Objects",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing detection of hidden objects in a video",
+        "description": "Uncover anomalies that may otherwise go unnoticed."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI for Video Detection?",
+    "description": "Our cutting-edge technology offers unparalleled results with minimal effort.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Real-Time Insights",
+        "description": "Detect anomalies within seconds to maintain security and quality."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "No complex setup. Simply upload your video and let our AI handle the analysis."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Secure Processing",
+        "description": "All analysis occurs locally, ensuring your video data remains private and secure."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three simple steps to detect anomalies in videos",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Video",
+        "description": "Upload your video by dragging and dropping or browsing files. Our system supports MP4, AVI, and MOV formats."
+      },
+      {
+        "serial": "2",
+        "title": "AI Analysis",
+        "description": "Our advanced AI meticulously scans the footage to detect any anomalies or unusual patterns."
+      },
+      {
+        "serial": "3",
+        "title": "View Results",
+        "description": "Preview detected anomalies with detailed reports and download your analysis for further review."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join our community of satisfied users who enhance their video analysis with our cutting-edge technology",
+    "items": [
+      {
+        "name": "Emily Carter",
+        "stars": 5,
+        "comment": "The anomaly detection feature is incredibly accurate! It helped me spot issues I would have otherwise missed during video reviews."
+      },
+      {
+        "name": "David Lee",
+        "stars": 5,
+        "comment": "As a security analyst, WaveSpeed has become an essential tool for monitoring potential threats in surveillance footage."
+      },
+      {
+        "name": "Lily Smith",
+        "stars": 5,
+        "comment": "I appreciate the privacy focus. Knowing that my video data remains secure gives me peace of mind while detecting anomalies."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Find answers to common questions about AI Video Anomaly Detection",
+    "items": [
+      {
+        "title": "What types of anomalies can be detected?",
+        "description": "Our tool can identify various anomalies such as sudden movements, unexpected objects, unusual behavior, and any deviations from normal activity patterns."
+      },
+      {
+        "title": "Is AI Video Anomaly Detection free to use?",
+        "description": "Yes! Each user gets 30 free analyses daily, which enables you to inspect numerous videos. Additional analyses can be earned through challenges or referrals. Subscription plans are available for professional needs."
+      },
+      {
+        "title": "Can I use detected content for professional projects?",
+        "description": "Paid subscribers can utilize results for commercial purposes, while free users may use findings for personal projects only. Review our Terms of Service for specifics."
+      },
+      {
+        "title": "How is my video data protected?",
+        "description": "Detection happens locally on your device, ensuring your footage is never uploaded or stored remotely. This guarantees total privacy and security during the analysis process."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Detect Anomalies in Your Videos?",
+    "description": "Try WaveSpeed AI today and experience the difference. No sign-up required.",
+    "ctaText": "Detect Anomalies Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Correction de Lentilles AI",
+  "meta": {
+    "description": "Obtenez des images parfaites grâce à une technologie avancée de correction des lentilles. Améliorez et optimisez votre photographie de produit sans effort. Idéal pour les photographes et les entreprises de commerce électronique. Offres du Black Friday !",
+    "keywords": "correction de lentille AI, amélioration d'image, optimisation de la photographie, outil de photographie e-commerce, édition d'image, correction de lentille automatisée, retouche photo professionnelle, outils photo Black Friday"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils AI",
+        "items": [
+          [
+            "Outils AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Perfectionnez Vos Images",
+    "subHeading": "Élevez Votre Photographie avec la Correction de Lentilles AI",
+    "description": "Transformez vos images en corrigeant les distorsions et en améliorant la clarté en quelques secondes. Faites l'expérience d'ajustements sans effort pour tout type de lentille. Essayez-le maintenant et révélez le plein potentiel de vos photos.",
+    "tryText": "Essayez-le Maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution de Correction de Lentilles AI WaveSpeed",
+    "left": {
+      "heading": "Défis Traditionnels",
+      "items": [
+        "Corrections manuelles longues",
+        "Nécessite des compétences étendues en édition photo",
+        "Résultats incohérents d'une image à l'autre",
+        "Types de lentilles variés menant à la confusion",
+        "Inefficacité dans l'édition photo à haut volume"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed AI",
+      "items": [
+        "Corrections instantanées pour les distorsions et aberrations de lentilles",
+        "Facile à utiliser sans expérience d'édition requise",
+        "Résultats cohérents, de qualité professionnelle à chaque fois",
+        "Compatible avec tous les types de lentilles et systèmes de caméra",
+        "Options de tarification abordables à la carte"
+      ],
+      "tryText": "Essayez"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment Ça Marche",
+    "description": "Obtenez des images parfaites en 3 étapes simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Téléchargez Votre Image",
+        "text": "Choisissez la photo que vous souhaitez améliorer",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Sélectionnez le Type de Correction",
+        "text": "Choisissez parmi les distorsions, le vignetage et les ajustements de netteté",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Téléchargez l'Image Améliorée",
+        "text": "Obtenez votre image corrigée prête à l'emploi en quelques secondes",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "Améliorer Votre Première Image →"
+  },
+  "endlessPossibilities": {
+    "heading": "Applications Infinies",
+    "description": "Parfait pour divers cas d'utilisation",
+    "items": [
+      "Images de produits e-commerce",
+      "Photographie immobilière",
+      "Améliorations de portraits",
+      "Stylisation d'aliments et de recettes",
+      "Corrections de photographie d'événements",
+      "Optimisation de contenu pour les réseaux sociaux",
+      "Améliorations pour les médias imprimés",
+      "Améliorations d'images pour les sites web"
+    ]
+  },
+  "successStories": {
+    "heading": "Véritables Histoires de Succès",
+    "description": "Découvrez comment la Correction de Lentilles AI aide les entreprises",
+    "items": [
+      {
+        "tag": "Alimentation & Boisson",
+        "heading": "Blog de Recettes en Ligne",
+        "before": {
+          "label": "Avant",
+          "text": "Qualité incohérente"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Images systématiquement éblouissantes"
+        },
+        "value": "98%",
+        "key": "Amélioration de la Qualité",
+        "description": "Nos images alimentaires attirent désormais plus de spectateurs. L'engagement a considérablement augmenté depuis l'utilisation de la correction de lentilles AI."
+      },
+      {
+        "tag": "Immobilier",
+        "heading": "Sites Web de Listing de Propriétés",
+        "before": {
+          "label": "Avant",
+          "text": "Options d'édition limitées"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Images de qualité professionnelle"
+        },
+        "value": "95%",
+        "key": "Temps Économisé",
+        "description": "Nous pouvons désormais télécharger des images directement avec des corrections parfaites, ce qui nous fait gagner des heures en post-traitement."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison des Modèles de Correction AI",
+    "description": "Choisissez le bon modèle de correction pour vos besoins",
+    "items": [
+      "Correction Standard : Ajustements de base pour un usage quotidien",
+      "Correction Avancée : Spécialisée pour la photographie professionnelle",
+      "Traitement par Lots : Corrigez plusieurs images à la fois",
+      "Préréglages Intelligents : Appliquez des réglages courants automatiquement",
+      "Aperçu Rapide : Visualisez instantanément les changements avant d'enregistrer",
+      "Droits d'utilisation commerciale inclus"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils AI Connexes",
+    "description": "Explorez d'autres outils puissants pour l'amélioration d'image"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quels types de distorsions de lentilles peuvent être corrigés ?",
+        "answer": "Notre outil de correction de lentilles AI peut corriger efficacement les distorsions de barillet, les distorsions de coussin et les problèmes de vignetage, garantissant que vos images sont précises et professionnelles."
+      },
+      {
+        "question": "À quelle vitesse puis-je appliquer des corrections à mes images ?",
+        "answer": "Les corrections d'image sont traitées en quelques secondes. L'IA analyse automatiquement l'image et applique les ajustements presque instantanément, permettant des flux de travail rapides."
+      },
+      {
+        "question": "Ai-je besoin d'expérience en édition photo pour utiliser cette fonctionnalité ?",
+        "answer": "Non, notre plateforme est conçue pour être conviviale. Même si vous n'avez pas d'expérience en édition, vous pouvez facilement télécharger vos images et appliquer des corrections en quelques clics."
+      },
+      {
+        "question": "Puis-je traiter plusieurs images en lot à la fois ?",
+        "answer": "Absolument ! Vous pouvez télécharger et corriger plusieurs images simultanément, ce qui vous fait gagner du temps et garantit la cohérence de vos visuels."
+      },
+      {
+        "question": "Y a-t-il une option d'aperçu disponible avant le téléchargement ?",
+        "answer": "Oui, vous pouvez prévisualiser vos images corrigées pour vous assurer qu'elles répondent à vos attentes avant de les télécharger."
+      },
+      {
+        "question": "Quels formats d'image sont pris en charge pour le téléchargement ?",
+        "answer": "Nous prenons en charge les formats JPG, PNG et TIFF, garantissant flexibilité pour vos besoins photographiques."
+      },
+      {
+        "question": "Posséderai-je les droits commerciaux sur les images corrigées ?",
+        "answer": "Oui, chaque image traitée par notre service vous accorde des droits commerciaux complets, vous permettant de les utiliser sur n'importe quelle plateforme médiatique sans frais supplémentaires."
+      },
+      {
+        "question": "Quel support est disponible si je rencontre des problèmes ?",
+        "answer": "Notre équipe de support est disponible par e-mail et chat en direct, et nous proposons une documentation et des tutoriels détaillés pour le dépannage et les meilleures pratiques."
+      },
+      {
+        "question": "Comment la tarification est-elle structurée pour les services de correction ?",
+        "answer": "Nous fonctionnons avec un modèle de paiement à l'utilisation sans abonnements. Vous ne payez que pour les corrections que vous appliquez, permettant des solutions adaptées à votre budget."
+      },
+      {
+        "question": "Cette fonctionnalité peut-elle aider avec les listings de produits e-commerce ?",
+        "answer": "Oui, perfectionner les images pour le commerce électronique est l'une de nos principales applications. Des images claires et corrigées améliorent considérablement l'attrait des produits et augmentent les ventes."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Perfectionner Vos Images ?",
+    "description": "Commencez à améliorer vos photos avec des crédits gratuits - Expérimentez la magie de l'IA aujourd'hui !",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Essayez-le Maintenant →"
+  },
+  "footer": {
+    "heading": "Prêt à Améliorer Votre Photographie ?",
+    "description": "Essayez WaveSpeed AI maintenant et assistez à la transformation. Aucune inscription requise.",
+    "ctaText": "Transformez Vos Images Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

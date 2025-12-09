@@ -1,0 +1,230 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Transfert de Style AI",
+  "meta": {
+    "description": "Élevez vos images avec le Transfert de Style AI, transformant des photos ordinaires en chefs-d'œuvre artistiques sans effort. Parfait pour le marketing, les réseaux sociaux et un usage personnel. Découvrez le futur de l'amélioration des images avec WaveSpeed.",
+    "keywords": "transfert de style AI, amélioration d'image, transformation artistique, générateur d'art AI, outil d'effet photo, stimulation de la créativité, art pour les réseaux sociaux, visuels marketing, images e-commerce, WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils AI",
+        "items": [
+          [
+            "Outils AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Transfert de Style AI",
+    "subHeading": "Transformez Vos Images en Œuvres d'Art Éblouissantes",
+    "description": "Déverrouillez votre créativité en appliquant des styles artistiques à vos photos en quelques minutes. Laissez l'IA opérer la magie et transformer des images simples en expériences immersives. Idéal pour les réseaux sociaux et les supports marketing.",
+    "tryText": "Essayez-le Maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution de Transfert de Style AI WaveSpeed",
+    "left": {
+      "heading": "Défis Traditionnels de l'Amélioration d'Image",
+      "items": [
+        "Édition manuelle chronophage",
+        "Nécessite des compétences artistiques et une maîtrise des logiciels",
+        "Options créatives limitées",
+        "Coûts élevés pour les designers professionnels",
+        "Manque de résultats instantanés"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed AI",
+      "items": [
+        "Transformez les images en quelques secondes grâce à la puissance de l'IA",
+        "Aucune expérience en design requise - Il suffit de télécharger vos photos",
+        "Styles et effets infinis à choisir",
+        "Voyez et ajustez instantanément les variations créatives",
+        "Modèle de prix économique pour tous les utilisateurs"
+      ],
+      "tryText": "Essayez"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment Ça Marche",
+    "description": "Des images ordinaires à l'art extraordinaire en 4 étapes simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Télécharger l'Image",
+        "text": "Sélectionnez la photo que vous souhaitez améliorer",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Choisir un Style",
+        "text": "Choisissez un style artistique qui correspond à votre vision",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Ajuster les Paramètres",
+        "text": "Affinez l'intensité et les effets selon vos préférences",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Télécharger l'Œuvre",
+        "text": "Sauvegardez votre création éblouissante instantanément en haute résolution",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Générez Votre Première Œuvre →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilités Infinies",
+    "description": "Idéal pour une variété de projets créatifs",
+    "items": [
+      "Publications sur les réseaux sociaux et photos de profil",
+      "Campagnes marketing et publicités",
+      "Œuvres d'art personnalisées pour impression et usage numérique",
+      "Cadeaux personnalisés et souvenirs",
+      "Visuels de branding d'entreprise",
+      "Graphiques de site web et images de blog",
+      "Améliorations de présentation",
+      "Projets artistiques pour écoles et événements"
+    ]
+  },
+  "successStories": {
+    "heading": "Histoires de Succès Réelles",
+    "description": "Découvrez comment d'autres élèvent leur contenu grâce à l'IA",
+    "items": [
+      {
+        "tag": "Voyage & Aventure",
+        "heading": "Photos de Vacances Éblouissantes",
+        "before": {
+          "label": "Avant",
+          "text": "Ordinaire"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Art Éblouissant"
+        },
+        "value": "80%",
+        "key": "Augmentation d'Engagement",
+        "description": "Transformé des images de voyage basiques en paysages artistiques, doublant l'engagement sur les réseaux sociaux."
+      },
+      {
+        "tag": "E-commerce",
+        "heading": "Visuels de Produits Uniques",
+        "before": {
+          "label": "Avant",
+          "text": "Images Génériques"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Vitrines Artistiques"
+        },
+        "value": "70%",
+        "key": "Augmentation des Ventes",
+        "description": "Appliqué des styles uniques aux images de produits, entraînant une augmentation remarquable des ventes en ligne."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison de Transfert de Style AI",
+    "description": "Sélectionnez le style idéal pour votre création",
+    "items": [
+      "Styles Artistiques Classiques : Impressionnisme, Cubisme avec textures riches",
+      "Effets Modernes : Pop Art, Filtres Esthétiques pour des looks frais",
+      "Téléchargement de Style Personnalisé : Apportez votre propre art dans vos images",
+      "IA Adaptative : Apprend vos préférences de style pour des suggestions personnalisées",
+      "Traitement Rapide : Transformez les images en moins de 30 secondes",
+      "Sorties en haute résolution pour des résultats de qualité d'impression"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils AI Associés",
+    "description": "Explorez d'autres solutions AI innovantes pour vos projets"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quelles types d'images fonctionnent le mieux pour le transfert de style ?",
+        "answer": "Les images haute résolution avec des sujets clairs donnent les meilleurs résultats. Assurez-vous que les photos sont bien éclairées et que les arrière-plans complexes sont minimisés pour une application de style optimale."
+      },
+      {
+        "question": "Puis-je appliquer plusieurs styles à une seule image ?",
+        "answer": "Oui ! Vous pouvez superposer différents styles dans un seul processus de transformation ou créer des versions séparées pour voir comment divers styles affectent votre image."
+      },
+      {
+        "question": "Quels formats sont supportés pour les téléchargements ?",
+        "answer": "Nous supportons les formats JPG, PNG et WebP. Des images de qualité supérieure amélioreront le rendu final et le processus de transformation."
+      },
+      {
+        "question": "Les œuvres d'art générées sont-elles libres de droits ?",
+        "answer": "Absolument ! Toutes les œuvres générées avec WaveSpeed Studio vous appartiennent et peuvent être utilisées sans restrictions ni frais supplémentaires."
+      },
+      {
+        "question": "Combien de temps prend le processus de transfert de style ?",
+        "answer": "La plupart des transformations sont complétées en moins de 30 secondes, vous permettant d'explorer rapidement plusieurs styles."
+      },
+      {
+        "question": "Ai-je besoin de compétences en design pour utiliser cet outil ?",
+        "answer": "Aucune expérience préalable en design n'est nécessaire ! L'interface intuitive permet à tout le monde de créer des œuvres d'art éblouissantes sans effort."
+      },
+      {
+        "question": "Puis-je modifier l'image après avoir appliqué des styles ?",
+        "answer": "Oui ! Vous pouvez encore améliorer le rendu à l'aide des outils d'édition disponibles, permettant ainsi personnalisation et ajustements."
+      },
+      {
+        "question": "Que faire si je n'aime pas le résultat ?",
+        "answer": "Vous pouvez simplement essayer à nouveau avec un autre style ou des paramètres d'ajustement jusqu'à ce que vous soyez satisfait du résultat."
+      },
+      {
+        "question": "Y a-t-il un essai ou des crédits gratuits disponibles ?",
+        "answer": "Oui ! Les nouveaux utilisateurs reçoivent des crédits gratuits pour commencer à explorer les styles et transformations disponibles."
+      },
+      {
+        "question": "Quelles options de support client sont disponibles ?",
+        "answer": "Nous offrons un support complet avec documentation, tutoriels, et une équipe réactive prête à aider pour toute question."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Transformer Vos Images ?",
+    "description": "Commencez dès aujourd'hui avec des crédits gratuits et voyez la créativité se déployer.",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Essayez-le Maintenant →"
+  },
+  "footer": {
+    "heading": "Prêt à Donner Vie à Vos Images ?",
+    "description": "Essayez WaveSpeed AI maintenant et faites l'expérience de transformations incroyables. Aucune inscription requise.",
+    "ctaText": "Transformez les Images Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

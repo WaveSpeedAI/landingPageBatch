@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Experience Stunning Night Photography",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Enhance Your Night Photos",
+    "description": "Transform your low-light images into stunning masterpieces instantly with our AI Night Mode Enhancement.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo before night mode enhancement"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example photo after night mode enhancement"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Enhance Your Night Photos",
+      "prompt": {
+        "heading": " Prompt",
+        "placeholder": "E.g., Improve brightness, enrich colors, reduce noise..."
+      },
+      "upload": {
+        "heading": " Select image or Input URL"
+      },
+      "processButton": "Enhance Night Photos Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Photos Enhanced"
+      },
+      {
+        "title": "98.7%",
+        "description": "User Satisfaction Rate"
+      },
+      {
+        "title": "3.2s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Discover how our AI Night Mode can elevate your nighttime photos with enhanced clarity and color.",
+    "items": [
+      {
+        "title": "Nightscape Improvement",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing nightscape improvement",
+        "description": "Transform dull night images into vibrant scenes full of life"
+      },
+      {
+        "title": "Noise Reduction",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing noise reduction in low-light photography",
+        "description": "Dramatically reduce noise for a cleaner, crisper photo experience"
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI Night Mode?",
+    "description": "Harness cutting-edge AI to capture the beauty of low-light settings effortlessly.",
+    "items": [
+      {
+        "icon": "lightbulb",
+        "title": "Brilliant Results",
+        "description": "Enhance colors and brightness, making nighttime captures look breathtaking."
+      },
+      {
+        "icon": "sync",
+        "title": "Instant Processing",
+        "description": "Get stunning results in seconds without the hassle of complex editing."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Privacy Focused",
+        "description": "Your images remain secure, processed locally in your browser."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three straightforward steps to enhance your night photography",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Image",
+        "description": "Select your low-light photo by dragging, dropping, or browsing. Supports JPG, PNG, and WebP formats."
+      },
+      {
+        "serial": "2",
+        "title": "AI Processing",
+        "description": "Our smart AI enhances brightness, reduces noise, and enhances colors while maintaining quality."
+      },
+      {
+        "serial": "3",
+        "title": "Download Result",
+        "description": "Preview the transformation with our comparison slider and download your enhanced image in high resolution."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless photographers who elevate their night shots with WaveSpeed AI",
+    "items": [
+      {
+        "name": "Laura Matthews",
+        "stars": 5,
+        "comment": "The night improvements are phenomenal! My photos look like they were taken with a professional camera."
+      },
+      {
+        "name": "James Liu",
+        "stars": 5,
+        "comment": "As an avid night photographer, this tool has revolutionized the way I edit my photos!"
+      },
+      {
+        "name": "Maria Gonzalez",
+        "stars": 5,
+        "comment": "I love how easy it is to use. Just upload and receive stunning night shots without any skill needed."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to common queries about our Night Mode Enhancement",
+    "items": [
+      {
+        "title": "How does the night mode enhancement work?",
+        "description": "Our AI analyzes your low-light images and applies advanced algorithms to boost brightness, improve color accuracy, and reduce noise, giving your photos a professional touch."
+      },
+      {
+        "title": "Is this AI night enhancement feature free?",
+        "description": "Yes! Each user has access to 30 free credits daily, perfect for enhancing multiple images. Additional credits can be earned through user engagement and challenges."
+      },
+      {
+        "title": "Can I use the enhanced images commercially?",
+        "description": "Paid users with any subscription can utilize their enhanced images for commercial purposes. Free-tier users can use them for personal use only."
+      },
+      {
+        "title": "What about my privacy and image security?",
+        "description": "Images are processed entirely within your browser, ensuring they are never uploaded or stored on our servers, safeguarding your privacy."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Transform Your Night Photos?",
+    "description": "Try WaveSpeed AI Night Mode Enhancement now and elevate your photography without any hassle. No sign-up required.",
+    "ctaText": "Enhance Night Photos Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

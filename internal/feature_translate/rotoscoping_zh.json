@@ -1,0 +1,230 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI 动画抠图功能",
+  "meta": {
+    "description": "用人工智能驱动的抠图技术彻底改变您的视频编辑。轻松在几分钟内创建惊艳的动画和视觉效果。适合电影制作者和内容创作者。与 WaveSpeed 一起探索视频编辑的未来！",
+    "keywords": "AI 抠图, 视频编辑 AI, 动画创作, 视觉效果生成器, WaveSpeed 抠图, 创意视频工具, 电影制作自动化, 内容创作软件, 无缝动画, 视频制作效率"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "人工智能工具",
+        "items": [
+          [
+            "人工智能工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即尝试"
+  },
+  "hero": {
+    "heading": "高级抠图",
+    "subHeading": "指尖上的无缝动画创作",
+    "description": "通过我们的 AI 驱动抠图技术精准地转变您的视频。轻松创建迷人的动画和视觉效果。今天就体验自动化抠图的力量！",
+    "tryText": "立即开始",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI 抠图解决方案",
+    "left": {
+      "heading": "传统挑战",
+      "items": [
+        "耗时的手动遮罩",
+        "需要高级技能和软件",
+        "昂贵的设备和软件许可证",
+        "处理复杂背景时遇到困难",
+        "创意灵活性有限"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI 解决方案",
+      "items": [
+        "瞬时遮罩和物体隔离",
+        "适合各种技能水平的用户友好界面",
+        "经济实惠的按需付费模式",
+        "轻松处理复杂背景",
+        "激发无限创意的可能性"
+      ],
+      "tryText": "尝试"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "从静态场景到动态动画，4 个简单步骤",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传视频",
+        "text": "上传需要进行抠图处理的素材",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "选择元素",
+        "text": "选择要隔离的主体或物体",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "细化边缘",
+        "text": "调整遮罩边缘以实现平滑过渡",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载动画",
+        "text": "在几分钟内准备好您的动画片段",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "创建您的第一个抠图视频 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无尽的可能性",
+    "description": "完美适合电影制片人、艺术家和内容创作者",
+    "items": [
+      "短片的角色动画",
+      "在实景镜头中的视觉效果集成",
+      "创意商业广告",
+      "教育动画",
+      "音乐视频效果",
+      "视频游戏动画",
+      "时尚的社交媒体内容",
+      "虚拟现实体验"
+    ]
+  },
+  "successStories": {
+    "heading": "真实的成功案例",
+    "description": "看看创意者是如何用 AI 改变他们的项目的",
+    "items": [
+      {
+        "tag": "电影制作",
+        "heading": "独立短片",
+        "before": {
+          "label": "之前",
+          "text": "3 周"
+        },
+        "after": {
+          "label": "之后",
+          "text": "2 小时"
+        },
+        "value": "99.9%",
+        "key": "节省时间",
+        "description": "我们在极短的时间内完成了短片的整个动画序列。视觉效果令人惊叹！"
+      },
+      {
+        "tag": "营销机构",
+        "heading": "产品广告",
+        "before": {
+          "label": "之前",
+          "text": "8100"
+        },
+        "after": {
+          "label": "之后",
+          "text": "800"
+        },
+        "value": "90%",
+        "key": "成本降低",
+        "description": "抠图帮助我们显著降低了成本，同时保持高质量的动画，吸引了我们的观众。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "抠图工具比较",
+    "description": "为您的项目选择最佳方法",
+    "items": [
+      "标准抠图：手动过程，劳动密集型，高技能要求",
+      "AI 抠图：瞬时物体隔离，简单调整，快速周转",
+      "自定义遮罩与自然运动",
+      "与视频编辑软件无缝集成",
+      "通过快速迭代增强创意",
+      "支持多种视频格式，适用于多种应用"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关 AI 工具",
+    "description": "发现更多创新的 AI 解决方案供创作者使用"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要了解的所有信息",
+    "items": [
+      {
+        "question": "哪些视频格式支持抠图？",
+        "answer": "我们支持所有主要视频格式，包括 MP4、AVI 和 MOV。确保您的视频清晰且光线良好，以获得最佳效果。"
+      },
+      {
+        "question": "AI 在物体遮罩方面的准确性如何？",
+        "answer": "我们的 AI 提供精准的遮罩能力，通常能够实现逐帧完美隔离。可以手动进行调整以获得完美的结果。"
+      },
+      {
+        "question": "我可以商业使用这些动画吗？",
+        "answer": "可以！通过 WaveSpeed Studio 创建的所有动画都带有完全的商业权利。可以用于市场营销、电影等多种用途。"
+      },
+      {
+        "question": "如果我从未进行过抠图怎么办？",
+        "answer": "没问题！我们用户友好的界面使初学者也能轻松使用，提供教程和指南。"
+      },
+      {
+        "question": "我的动画片段何时准备好？",
+        "answer": "通常，处理只需几分钟，具体取决于视频的长度和复杂性。"
+      },
+      {
+        "question": "是否提供客户支持？",
+        "answer": "当然！我们提供详细的文档、视频教程以及通过聊天和电子邮件的客户支持来协助您。"
+      },
+      {
+        "question": "抠图后我可以编辑我的片段吗？",
+        "answer": "可以，导出动画后，您可以在任何主要视频编辑软件中进一步编辑。"
+      },
+      {
+        "question": "抠图有哪些定价选项？",
+        "answer": "我们提供灵活的按需付费定价模式，仅对您生成的视频收费，没有隐藏费用。"
+      },
+      {
+        "question": "我可以创建视频的数量有限制吗？",
+        "answer": "没有限制！您可以随时创建任意数量的抠图视频。"
+      },
+      {
+        "question": "哪些行业可以受益于 AI 抠图？",
+        "answer": "AI 抠图在电影、广告、教育、游戏和社交媒体等领域都很有用，彻底改变了视觉创作的方式。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备好用抠图改变您的视频了吗？",
+    "description": "免费开始，将您的创意视野变为现实！",
+    "contactUsText": "联系我们",
+    "tryText": "立即尝试 →"
+  },
+  "footer": {
+    "heading": "准备好提升您的视频吗？",
+    "description": "体验 WaveSpeed 的 AI 抠图的力量，无需注册。",
+    "ctaText": "立即开始抠图",
+    "text": "© 2025 WaveSpeed AI。保留所有权利。"
+  }
+}

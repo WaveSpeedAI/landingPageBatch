@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Lip Sync",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Bring Your Characters to Life",
+    "description": "Effortlessly sync facial animations with audio to create lifelike character performances.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example character before lip sync"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example character after lip sync"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Sync Lip Movements with Audio",
+      "prompt": {
+        "heading": " Add Your Audio",
+        "placeholder": "E.g., Upload your audio clip or enter a URL..."
+      },
+      "upload": {
+        "heading": " Select Character Video or Input URL"
+      },
+      "processButton": "Sync Lip Movements Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Characters Animated"
+      },
+      {
+        "title": "98%",
+        "description": "User Satisfaction Rate"
+      },
+      {
+        "title": "3s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Witness the stunning transformation of character performances with precise lip syncing.",
+    "items": [
+      {
+        "title": "Realistic Character Animation",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing character animation with synced lip movements",
+        "description": "Transform static character videos into engaging performances."
+      },
+      {
+        "title": "Enhanced Storytelling",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing enhanced storytelling through lip sync",
+        "description": "Captivate your audience with natural dialogues and expressions."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Our innovative technology revolutionizes animation with stunning lip sync capabilities.",
+    "items": [
+      {
+        "icon": "microphone",
+        "title": "Precision Syncing",
+        "description": "Achieve near-perfect lip movements that match audio with incredible accuracy."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly",
+        "description": "Simple interface allows anyone to animate characters, regardless of technical expertise."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Data Security",
+        "description": "Your files remain private, processed securely in your environment without external upload."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three intuitive steps to create lifelike character animations",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Character Video",
+        "description": "Choose a character video file or URL to get started. Our system supports various formats."
+      },
+      {
+        "serial": "2",
+        "title": "Add Audio Clip",
+        "description": "Upload or paste the audio clip to sync with the character, ensuring it captures the desired dialogue."
+      },
+      {
+        "serial": "3",
+        "title": "Download Your Animation",
+        "description": "Preview the animated results and download your synced character video in high quality."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless creators who elevate their projects using WaveSpeed AI",
+    "items": [
+      {
+        "name": "Emily Carter",
+        "stars": 5,
+        "comment": "I was blown away by how quickly and accurately WaveSpeed synced my character's lip movements. It saved me so much editing time!"
+      },
+      {
+        "name": "David Lee",
+        "stars": 5,
+        "comment": "As a voice actor, this tool has transformed my animations. It brings my characters to life in a way I never thought possible."
+      },
+      {
+        "name": "Mia Tan",
+        "stars": 5,
+        "comment": "The ease of use and security features made WaveSpeed my go-to for character animations. Highly recommend!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your queries about AI Lip Sync",
+    "items": [
+      {
+        "title": "What types of audio can be used for lip sync?",
+        "description": "You can use various audio formats such as MP3, WAV, and OGG. Just upload your clip that contains the dialogue or sound you want your character to sync with."
+      },
+      {
+        "title": "Is there a limit on the character videos I can upload?",
+        "description": "You can upload multiple character videos; however, please refer to our user guidelines for file size and format restrictions."
+      },
+      {
+        "title": "Can I use the animated content for commercial projects?",
+        "description": "Yes, users with a subscription plan can utilize their animated content for commercial purposes. Ensure to check our Terms of Service for specifics."
+      },
+      {
+        "title": "How does WaveSpeed ensure my data is secure?",
+        "description": "All uploads and processing happen locally on your device, ensuring that your data remains private and is not stored externally."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Animate Your Characters?",
+    "description": "Try WaveSpeed AI now and bring your characters to life. No sign-up required.",
+    "ctaText": "Sync Lip Movements Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

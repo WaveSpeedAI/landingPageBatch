@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Color Palette Generator",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Create Stunning Color Palettes",
+    "description": "Input your image to generate a vibrant color palette tailored to your design needs.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo before color palette generation"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example color palette after generation"
+        }
+      ]
+    },
+    "removePhoto": {
+            "heading": "Upload Your Image",
+            "prompt": {
+                "heading": " Prompt",
+                "placeholder": "E.g., Upload an image to extract colors."
+            },
+            "upload": {
+                "heading": " Upload Your Image"
+            },
+            "processButton": "Generate Color Palette Now"
+        }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Palettes Generated"
+      },
+      {
+        "title": "98.7%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "1.2s",
+        "description": "Average Generation Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Color Palette Inspirations",
+    "description": "Explore vibrant palettes generated from various images to inspire your creativity.",
+    "items": [
+      {
+        "title": "Nature Inspired",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Palette inspired by a nature image",
+        "description": "Beautiful colors drawn from serene landscapes."
+      },
+      {
+        "title": "Urban Aesthetics",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Palette inspired by an urban scene",
+        "description": "Vivid hues captured from cityscapes."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Use the Color Palette Generator?",
+    "description": "Unlock your creative potential with expertly crafted palettes.",
+    "items": [
+      {
+        "icon": "palette",
+        "title": "Innovative Design Tool",
+        "description": "Transform any image into a stunning color palette, perfect for your projects."
+      },
+      {
+        "icon": "paint-brush",
+        "title": "User-Friendly Interface",
+        "description": "Effortlessly generate palettes with a simple upload and click."
+      },
+      {
+        "icon": "file-signature",
+        "title": "Original Creations",
+        "description": "Create unique color combinations that enhance your designs and branding."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three straightforward steps to create your perfect color palette.",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload an Image",
+        "description": "Drag and drop your image, or browse files to select one. Supports JPG, PNG, and WebP formats."
+      },
+      {
+        "serial": "2",
+        "title": "AI Processing",
+        "description": "Our advanced AI analyzes the image and extracts dominant colors to formulate a cohesive palette."
+      },
+      {
+        "serial": "3",
+        "title": "Download Your Palette",
+        "description": "Instantly preview your generated palette and download it for your design needs."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless creative professionals using our generator for dynamic color choices.",
+    "items": [
+      {
+        "name": "Emma Roberts",
+        "stars": 5,
+        "comment": "The color palettes are a game-changer for my design work. I can quickly visualize themes!"
+      },
+      {
+        "name": "James Smith",
+        "stars": 5,
+        "comment": "It’s incredibly easy to use; I love how quickly I can generate palettes from my photos."
+      },
+      {
+        "name": "Laura Zhang",
+        "stars": 5,
+        "comment": "The variety of colors produced is fantastic! My presentations have never looked better."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Find answers to common queries about the Color Palette Generator",
+    "items": [
+      {
+        "title": "What formats can I upload?",
+        "description": "You can upload images in JPG, PNG, or WebP formats to generate your color palette."
+      },
+      {
+        "title": "Can I use the palettes commercially?",
+        "description": "Yes! Generated palettes can be used for personal and commercial projects without restrictions."
+      },
+      {
+        "title": "How many palettes can I generate?",
+        "description": "There’s no limit! You can create as many palettes as you need. Enjoy unlimited creativity."
+      },
+      {
+        "title": "How secure is my uploaded image?",
+        "description": "Your images are processed securely in your browser, ensuring complete privacy and no data storage."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Create Stunning Palettes?",
+    "description": "Try our AI Color Palette Generator now and elevate your designs. No sign-up required.",
+    "ctaText": "Generate Color Palette Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

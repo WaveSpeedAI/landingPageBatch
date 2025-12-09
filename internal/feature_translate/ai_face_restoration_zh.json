@@ -1,0 +1,222 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI 脸部修复",
+  "meta": {
+    "description": "利用 AI 技术增强和修复面部图像。通过先进算法，WaveSpeed AI 将低质量图像转换为反映真实美丽的惊艳肖像。非常适合摄影、社交媒体和专业使用。今天就来发现魔力！",
+    "keywords": "AI 脸部修复, 图像增强, 肖像修复, 面部图像改善, 美容增强, AI 照片编辑器, 高质量肖像, 社交媒体图像改善, 专业照片修复, 用 AI 修复图像"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI 工具",
+        "items": [
+          [
+            "AI 工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "现在试试"
+  },
+  "hero": {
+    "heading": "轻松进行脸部修复",
+    "subHeading": "用 AI 精准复兴您的图像",
+    "description": "将模糊或损坏的面部图像转换为生动且细致的肖像，只需几秒钟。非常适合为社交媒体、专业作品集等提升照片。体验 AI 驱动的修复力量。",
+    "tryText": "现在试试",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI 脸部修复方案",
+    "left": {
+      "heading": "传统图像修复挑战",
+      "items": [
+        "手动修复耗时且昂贵",
+        "需要广泛的编辑技能和软件",
+        "不同技术结果不一致",
+        "在低分辨率图像上的效果有限",
+        "不适合批量图像处理"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI 方案",
+      "items": [
+        "瞬间增强和修复面部，持续几秒钟",
+        "无需编辑经验 - 只需上传图像",
+        "AI 驱动的一致高质量结果",
+        "适用于各种照片质量和格式",
+        "适合所有人的按需付费定价"
+      ],
+      "tryText": "试试"
+    }
+  },
+  "howItWorks": {
+    "heading": "如何工作",
+    "description": "通过 4 个简单步骤修复面部图像",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传图像",
+        "text": "选择您想要增强的面部图像",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "选择修复级别",
+        "text": "选择您需要的增强程度（轻度到极端）",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "预览和调整",
+        "text": "预览修复效果，如有需要可进行调整",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载增强图像",
+        "text": "几分钟内获得带商业使用权的恢复肖像",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "恢复您的第一张图像 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无限修复可能性",
+    "description": "适合各种应用和用户",
+    "items": [
+      "社交媒体个人照片增强",
+      "专业摄影作品集升级",
+      "修复历史或珍贵的家庭照片",
+      "市场材料图像改善",
+      "在线约会资料图像增强",
+      "复兴纪念日和活动的旧照片",
+      "需要面部修饰的定制艺术作品",
+      "客户推荐的前后对比转变"
+    ]
+  },
+  "successStories": {
+    "heading": "真实成功故事",
+    "description": "发现用户如何用 AI 改变他们的图像",
+    "items": [
+      {
+        "tag": "摄影专业人士",
+        "heading": "婚礼摄影增强",
+        "before": {
+          "label": "前",
+          "text": "模糊图像"
+        },
+        "after": {
+          "label": "后",
+          "text": "惊人的清晰度"
+        },
+        "value": "95%",
+        "key": "质量提升",
+        "description": "我们在几个小时内恢复了 100 张婚礼照片，显著提高了客户满意度。"
+      },
+      {
+        "tag": "社交媒体影响者",
+        "heading": "Instagram 个人资料改造",
+        "before": {
+          "label": "前",
+          "text": "低互动"
+        },
+        "after": {
+          "label": "后",
+          "text": "粉丝增加"
+        },
+        "value": "80%",
+        "key": "互动提升",
+        "description": "变化后的个人资料图片导致新粉丝和互动显著增加。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI 修复模型比较",
+    "description": "为您的修复需求选择合适的模型",
+    "items": [
+      "基础修复：快速增强小瑕疵",
+      "高级修复：高质量细致肖像",
+      "极致修复：对严重损坏图像的深度修复",
+      "自定义滤镜，提供个性化外观",
+      "用户友好的调整功能以实现精确",
+      "所有模型均包含商业使用权"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关 AI 工具",
+    "description": "探索其他强大的图像增强 AI 工具"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要了解的一切",
+    "items": [
+      {
+        "question": "我可以修复什么类型的图像？",
+        "answer": "您可以修复任何面部图像，包括个人照片、专业头像和扫描图像。AI 在清晰、光线充足的图像上表现最佳，但也可以改善低质量图片。"
+      },
+      {
+        "question": "修复后的图像与传统编辑有何不同？",
+        "answer": "我们的 AI 提供快速、一致的结果，保留自然的面部特征，而传统方法可能导致过度编辑或不真实的外观。"
+      },
+      {
+        "question": "我可以调整修复强度吗？",
+        "answer": "可以！您可以选择不同级别的增强，从微小改善到明显修复，确保结果符合您的想法。"
+      },
+      {
+        "question": "我可以处理多少图像？",
+        "answer": "没有限制，您可以一次修复多张图像。我们的平台支持批量处理，提高效率，节省时间。"
+      },
+      {
+        "question": "您支持上传什么文件类型？",
+        "answer": "我们支持多种格式，包括 JPG、PNG 和 TIFF。确保您的图像清晰，以获得最佳效果。"
+      },
+      {
+        "question": "修复过程需要多长时间？",
+        "answer": "修复通常只需要几秒钟。您将迅速获得结果，以便可以尽快继续您的项目。"
+      },
+      {
+        "question": "我是否获得修复图像的商业使用权？",
+        "answer": "当然！所有修复的图像均附带完整的商业使用权，无需额外费用。"
+      },
+      {
+        "question": "针对故障排除有哪些支持选项？",
+        "answer": "我们通过文档、教程和实时聊天提供全面支持。我们的专属团队准备在 24 小时内协助任何问题。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备好复兴您的图像了吗？",
+    "description": "开始使用免费积分 - 亲自体验转变",
+    "contactUsText": "联系我们",
+    "tryText": "现在试试 →"
+  },
+  "footer": {
+    "heading": "立即转换您的照片！",
+    "description": "利用 WaveSpeed AI 增强您的图像。无需注册。",
+    "ctaText": "立即修复面部",
+    "text": "© 2025 WaveSpeed AI. 保留所有权利。"
+  }
+}

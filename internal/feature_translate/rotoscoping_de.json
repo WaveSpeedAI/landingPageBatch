@@ -1,0 +1,230 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - AI Rotoscoping Funktion",
+  "meta": {
+    "description": "Revolutioniere dein Video-Editing mit KI-gestütztem Rotoscoping. Erstelle mühelos beeindruckende Animationen und visuelle Effekte in wenigen Minuten. Ideal für Filmemacher und Content Creators. Entdecke die Zukunft des Video-Editings mit WaveSpeed!",
+    "keywords": "KI Rotoscoping, Video Editing KI, Animationskreation, visueller Effektgenerator, WaveSpeed Rotoscoping, kreative Videotools, Filmproduktionsautomatisierung, Software zur Inhaltserstellung, nahtlose Animation, Effizienz in der Videoproduktion"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI-Tools",
+        "items": [
+          [
+            "KI-Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Schaufenster",
+        "items": [
+          [
+            "Schaufenster",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "Fortgeschrittenes Rotoscoping",
+    "subHeading": "Nahtlose Animationskreation auf deinen Fingerspitzen",
+    "description": "Transformiere deine Videos mit Präzision, indem du Elemente mit unserem KI-gesteuerten Rotoscoping isolierst. Erstelle mühelos fesselnde Animationen und visuelle Effekte. Erlebe die Kraft des automatisierten Rotoscopings noch heute!",
+    "tryText": "Jetzt starten",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI Rotoscoping Lösung",
+    "left": {
+      "heading": "Traditionelle Herausforderungen",
+      "items": [
+        "Zeitaufwändiges manuelles Maskieren",
+        "Erfordert fortgeschrittene Fähigkeiten und Software",
+        "Teure Ausrüstung und Softwarelizenzen",
+        "Probleme mit komplexen Hintergründen",
+        "Eingeschränkte kreative Flexibilität"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI Lösung",
+      "items": [
+        "Sofortige Maskierung und Objektisolierung",
+        "Benutzerfreundliche Oberfläche für alle Fähigkeitsstufen",
+        "Erschwingliches Pay-per-Use-Modell",
+        "Bewältigt komplexe Hintergründe mühelos",
+        "Steigere die Kreativität mit endlosen Möglichkeiten"
+      ],
+      "tryText": "Ausprobieren"
+    }
+  },
+  "howItWorks": {
+    "heading": "So funktioniert es",
+    "description": "Von statischen Szenen zu dynamischen Animationen in 4 einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Video hochladen",
+        "text": "Lade dein Filmmaterial hoch, das Rotoscoping benötigt",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Elemente auswählen",
+        "text": "Wähle die Subjekte oder Objekte zur Isolierung",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Kanten verfeinern",
+        "text": "Passe die Maskierungsränder für sanfte Übergänge an",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Animation herunterladen",
+        "text": "Bereite deinen animierten Clip in wenigen Minuten für die Verwendung vor",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Erstelle dein erstes Rotoscope-Video →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endlose Möglichkeiten",
+    "description": "Perfekt für Filmemacher, Künstler und Content Creators",
+    "items": [
+      "Charakteranimation für Kurzfilme",
+      "Integration visueller Effekte in Live-Action-Material",
+      "Kreative Werbespots und Anzeigen",
+      "Bildungsanimationen",
+      "Musikvideoeffekte",
+      "Videospiel-Zwischensequenzen",
+      "Inhalte für soziale Medien mit Stil",
+      "Virtual-Reality-Erlebnisse"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Sieh, wie Kreative ihre Projekte mit KI transformieren",
+    "items": [
+      {
+        "tag": "Filmproduktion",
+        "heading": "Unabhängiger Kurzfilm",
+        "before": {
+          "label": "Vorher",
+          "text": "3 Wochen"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "2 Stunden"
+        },
+        "value": "99.9%",
+        "key": "Zeitersparnis",
+        "description": "Wir haben die gesamte Animationssequenz für unseren Kurzfilm in einem Bruchteil der Zeit abgeschlossen. Die visuellen Effekte sind atemberaubend!"
+      },
+      {
+        "tag": "Marketingagenturen",
+        "heading": "Produktwerbung",
+        "before": {
+          "label": "Vorher",
+          "text": "8100"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "800"
+        },
+        "value": "90%",
+        "key": "Kostenreduktion",
+        "description": "Rotoscoping hat uns geholfen, die Kosten erheblich zu senken, während wir hochwertige Animationen beibehielten, die unser Publikum fesselten."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Vergleich der Rotoscoping-Tools",
+    "description": "Wähle den besten Ansatz für deine Projekte",
+    "items": [
+      "Standard Rotoscoping: Manuelle Prozesse, arbeitsintensiv, hohe Anforderungen an die Fähigkeiten",
+      "KI Rotoscoping: Sofortige Objektisolierung, einfache Anpassungen, schnelle Bearbeitungszeit",
+      "Anpassbare Masken mit natürlichen Bewegungen",
+      "Nahtlose Integration mit Video-Editing-Software",
+      "Verbesserte Kreativität mit schnellen Iterationen",
+      "Unterstützt verschiedene Videoformate für vielfältige Anwendungen"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Verwandte KI-Tools",
+    "description": "Entdecke weitere innovative KI-Lösungen für Kreative"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was du wissen musst",
+    "items": [
+      {
+        "question": "Welche Videoformate sind für Rotoscoping kompatibel?",
+        "answer": "Wir unterstützen alle gängigen Videoformate einschließlich MP4, AVI und MOV. Stelle sicher, dass deine Videos klar sind und gutes Licht für optimale Ergebnisse haben."
+      },
+      {
+        "question": "Wie genau ist die KI beim Maskieren von Objekten?",
+        "answer": "Unsere KI bietet präzise Maskierungsmöglichkeiten und erreicht oft eine framegenaue Isolierung. Anpassungen können manuell für perfekte Ergebnisse vorgenommen werden."
+      },
+      {
+        "question": "Kann ich die Animationen kommerziell verwenden?",
+        "answer": "Ja! Alle durch das WaveSpeed Studio erstellten Animationen kommen mit vollen kommerziellen Rechten. Verwende sie für Marketing, Filme und mehr."
+      },
+      {
+        "question": "Was, wenn ich noch nie Rotoscoping gemacht habe?",
+        "answer": "Kein Problem! Unsere benutzerfreundliche Oberfläche macht es Anfängern leicht, mit Tutorials und Richtlinien zu arbeiten, die dir helfen."
+      },
+      {
+        "question": "Wie lange dauert es, bis meine animierten Clips bereit sind?",
+        "answer": "In der Regel dauert die Verarbeitung nur Minuten, abhängig von der Länge und Komplexität des Videos."
+      },
+      {
+        "question": "Gibt es einen Kundenservice?",
+        "answer": "Absolut! Wir bieten umfassende Dokumentation, Video-Tutorials und Kundensupport über Chat und E-Mail, um dir zu helfen."
+      },
+      {
+        "question": "Kann ich meine Clips nach dem Rotoscoping bearbeiten?",
+        "answer": "Ja, nach dem Export deiner Animationen kannst du sie in jeder gängigen Video-Editing-Software weiterbearbeiten."
+      },
+      {
+        "question": "Welche Preismodelle gibt es für Rotoscoping?",
+        "answer": "Wir bieten ein flexibles Preismodell, bei dem du nur für die Videos bezahlst, die du erstellst, ohne versteckte Gebühren."
+      },
+      {
+        "question": "Gibt es Einschränkungen hinsichtlich der Anzahl der Videos, die ich erstellen kann?",
+        "answer": "Es gibt keine Limits! Du kannst so viele Rotoscope-Videos erstellen, wie du benötigst, jederzeit."
+      },
+      {
+        "question": "Welche Branchen können von KI-Rotoscoping profitieren?",
+        "answer": "KI-Rotoscoping ist nützlich in Film, Werbung, Bildung, Gaming und sozialen Medien und revolutioniert die Art und Weise, wie Visuals erstellt werden."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, deine Videos mit Rotoscoping zu transformieren?",
+    "description": "Starte kostenlos und erwecke deine kreativen Visionen zum Leben!",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Jetzt ausprobieren →"
+  },
+  "footer": {
+    "heading": "Bereit, deine Videos zu verbessern?",
+    "description": "Erlebe die Kraft des KI-Rotoscopings mit WaveSpeed. Keine Anmeldung erforderlich.",
+    "ctaText": "Jetzt Rotoscoping starten",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Enhance Your Photos Instantly",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Enhance Your Photos",
+    "description": "Transform your images into stunning visuals with our AI-driven enhancement technology.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo before enhancement"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example photo after enhancement"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Enhance Your Photos",
+      "prompt": {
+        "heading": "Prompt",
+        "placeholder": "E.g., Enhance the colors, sharpen the image, improve brightness..."
+      },
+      "upload": {
+        "heading": "Select image or Input URL"
+      },
+      "processButton": "Enhance Photos Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "10M+",
+        "description": "Images Enhanced"
+      },
+      {
+        "title": "99.9%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "3.0s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Discover how our AI can significantly elevate your photos, making them vibrant and appealing.",
+    "items": [
+      {
+        "title": "Color Enhancement",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showcasing color enhancement in a photo",
+        "description": "Breathe new life into dull images with rich colors."
+      },
+      {
+        "title": "Sharpness Improvement",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing sharpness improvement in a photo",
+        "description": "Achieve crystal-clear details with our advanced sharpening capabilities."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Our powerful AI technology delivers exceptional photo enhancements effortlessly.",
+    "items": [
+      {
+        "icon": "image",
+        "title": "Stunning Visuals",
+        "description": "Instantly elevate your images to professional standards with advanced enhancements."
+      },
+      {
+        "icon": "user-check",
+        "title": "User-Friendly",
+        "description": "Our platform is straightforward; you upload, and we enhance your photos."
+      },
+      {
+        "icon": "lock",
+        "title": "Privacy Assured",
+        "description": "All processing occurs in your browser, ensuring complete privacy for your images."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three simple steps to beautifully enhanced photos",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Image",
+        "description": "Drag and drop your photo or select a file. Compatible formats include JPG, PNG, and WebP."
+      },
+      {
+        "serial": "2",
+        "title": "AI Enhancement",
+        "description": "Our cutting-edge AI analyzes and enhances your photo for clarity, color, and overall quality."
+      },
+      {
+        "serial": "3",
+        "title": "Download Enhanced Image",
+        "description": "Preview the improvements and effortlessly download your stunning enhanced image."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless satisfied customers who enhance their photos with WaveSpeed AI",
+    "items": [
+      {
+        "name": "Emily Davis",
+        "stars": 5,
+        "comment": "The image enhancements were outstanding! My vacation photos look professional now."
+      },
+      {
+        "name": "Lucas Wang",
+        "stars": 5,
+        "comment": "As a photographer, this tool is invaluable for quickly improving my images."
+      },
+      {
+        "name": "Jessica Lee",
+        "stars": 5,
+        "comment": "I love how my images pop now! The privacy and ease of use seal the deal for me."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your questions about our AI Image Enhancer",
+    "items": [
+      {
+        "title": "What types of enhancements can I achieve?",
+        "description": "Our AI can enhance colors, improve sharpness, adjust brightness and contrast, and remove noise effectively, making your photos more vibrant and appealing."
+      },
+      {
+        "title": "Is there a cost to use the enhancement feature?",
+        "description": "Absolutely! Enjoy 30 free enhancements daily. Additional enhancements can be earned through participation in our community or upgraded plans available for frequent users."
+      },
+      {
+        "title": "Can I use enhanced images for my business?",
+        "description": "Yes! If you subscribe, you can utilize enhanced images for commercial purposes. Free-tier users can enhance images for personal use only."
+      },
+      {
+        "title": "How is my privacy maintained during processing?",
+        "description": "All enhancements are executed directly within your browser, meaning your photos never leave your device. We prioritize your privacy and data security."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Enhance Your Photos?",
+    "description": "Try WaveSpeed AI now and discover the transformation. No sign-up needed.",
+    "ctaText": "Enhance Photos Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

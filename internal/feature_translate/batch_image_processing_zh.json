@@ -1,0 +1,229 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - 批量图像处理",
+  "meta": {
+    "description": "使用 WaveSpeed AI 轻松同时处理多个图像。利用先进的机器学习来增强您品牌的视觉内容。增加生产力，节省时间，同时不影响质量！",
+    "keywords": "批量图像处理, 大量图像增强, AI 图像工具, 图像编辑软件, 电子商务图像解决方案, WaveSpeed AI, 快速图像处理, 自动化图像工作流, 专业图像精细化, 图像优化工具"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI 工具",
+        "items": [
+          [
+            "AI 工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即试用"
+  },
+  "hero": {
+    "heading": "批量图像处理",
+    "subHeading": "用 AI 超级增强您的工作流程",
+    "description": "在几分钟内轻松增强和优化多个图像。提高生产力并保持质量，无需繁琐的手动编辑。释放您视觉内容的全部潜力。",
+    "tryText": "立即开始",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI 批量图像处理解决方案",
+    "left": {
+      "heading": "传统图像编辑挑战",
+      "items": [
+        "耗时的手动编辑",
+        "需要专业技能或软件",
+        "专业服务的高费用",
+        "保持图像一致性难度大",
+        "处理大量图像的能力有限"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI 解决方案",
+      "items": [
+        "几分钟内处理数百张图像",
+        "无需设计技能 - 只需上传图像",
+        "每次都能产生一致的高质量结果",
+        "与您的工作流程无缝集成",
+        "为所有企业量身定制的实惠定价"
+      ],
+      "tryText": "试用"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "通过四个简单步骤简化您的批量图像处理",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传图像",
+        "text": "选择您要增强的多张图像",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "选择增强",
+        "text": "选择所需的编辑：亮度、裁剪、滤镜等。",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "预览更改",
+        "text": "在处理之前查看自动增强效果",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载处理后的图像",
+        "text": "在几分钟内获取准备使用的优化图像",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "开始处理您的图像 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无限可能",
+    "description": "适用于各种应用和行业",
+    "items": [
+      "电子商务产品图像",
+      "营销材料和广告",
+      "社交媒体内容",
+      "作品集增强",
+      "房地产照片增强",
+      "活动摄影",
+      "食品和食谱图像",
+      "时尚和画册编辑"
+    ]
+  },
+  "successStories": {
+    "heading": "真实成功故事",
+    "description": "发现品牌如何使用 AI 转变他们的视觉内容",
+    "items": [
+      {
+        "tag": "电子商务",
+        "heading": "在线零售商的图像优化",
+        "before": {
+          "label": "之前",
+          "text": "手动编辑花费了数周。"
+        },
+        "after": {
+          "label": "之后",
+          "text": "在 2 小时内处理了数百张照片。"
+        },
+        "value": "95%",
+        "key": "节省的时间",
+        "description": "通过批量图像处理，我们的产品上传速度显著加快，销售转化率提升了 30%。"
+      },
+      {
+        "tag": "摄影服务",
+        "heading": "婚礼摄影业务",
+        "before": {
+          "label": "之前",
+          "text": "繁琐的编辑。"
+        },
+        "after": {
+          "label": "之后",
+          "text": "快速高效的图像处理。"
+        },
+        "value": "90%",
+        "key": "效率提升",
+        "description": "批量处理图像使我们能够更快交付最终图库，提高客户满意度。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "图像处理选项",
+    "description": "选择适合您需求的批量处理",
+    "items": [
+      "高质量：完美色彩调整的优质输出",
+      "快速处理：满足即时需求的快速增强",
+      "可定制滤镜：根据您的品牌美学定制处理",
+      "与所有标准图像格式兼容",
+      "简单集成：轻松融入现有工作流程"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关 AI 工具",
+    "description": "探索其他强大的视觉增强 AI 工具"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要了解的一切",
+    "items": [
+      {
+        "question": "我可以同时处理多少张图像？",
+        "answer": "您可以同时处理数百张图像，非常适合大型项目或批量上传。"
+      },
+      {
+        "question": "我可以应用什么类型的增强？",
+        "answer": "您可以选择亮度、对比度、锐度、裁剪等调整，并应用滤镜。"
+      },
+      {
+        "question": "批量处理会影响图像质量吗？",
+        "answer": "不会，我们的先进算法确保处理后的图像保持高质量和保真度。"
+      },
+      {
+        "question": "我能在最终确定之前预览更改吗？",
+        "answer": "可以！您将在进行批量处理之前有预览增强效果的选项。"
+      },
+      {
+        "question": "支持哪些图像格式？",
+        "answer": "我们支持包括 JPG、PNG 和 TIFF 在内的各种格式，确保最大灵活性。"
+      },
+      {
+        "question": "对我的图像大小有要求吗？",
+        "answer": "图像理想上应至少为 512x512 像素，以获得最佳处理效果，但没有最大尺寸限制。"
+      },
+      {
+        "question": "我可以期待多快完成处理？",
+        "answer": "处理通常在几分钟内完成，具体取决于上传的图像数量和大小。"
+      },
+      {
+        "question": "此服务有隐藏费用吗？",
+        "answer": "没有，定价是透明的，没有隐藏费用或月度承诺。"
+      },
+      {
+        "question": "我可以取消我的处理请求吗？",
+        "answer": "可以，您可以在最终确定处理之前随时取消请求。"
+      },
+      {
+        "question": "如果在使用工具时遇到问题，该怎么办？",
+        "answer": "我们的支持团队通过电子邮件或在线聊天提供帮助，我们还有全面的常见问题解答供您参考。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备优化您的图像了吗？",
+    "description": "开始使用您的免费积分，体验批量处理的便利。",
+    "contactUsText": "联系我们",
+    "tryText": "立即开始处理 →"
+  },
+  "footer": {
+    "heading": "转变您的图像编辑过程！",
+    "description": "今天体验 WaveSpeed AI 的批量图像处理。无需注册。",
+    "ctaText": "立即开始处理",
+    "text": "© 2025 WaveSpeed AI. 版权所有。"
+  }
+}

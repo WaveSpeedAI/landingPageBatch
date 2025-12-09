@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Seamlessly Join Your Videos Together",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Join Your Videos Effortlessly",
+    "description": "Combine multiple video clips into one seamless movie in just moments.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example video clips before joining"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example video after joining"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Join Your Videos Together",
+      "prompt": {
+        "heading": " Prompt",
+        "placeholder": "E.g., Combine these clips into one video."
+      },
+      "upload": {
+        "heading": " Select video clips or Input URLs"
+      },
+      "processButton": "Join Videos Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Videos Processed"
+      },
+      {
+        "title": "99.9%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "3.0s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "See how WaveSpeed AI can easily combine your video clips into stunning content.",
+    "items": [
+      {
+        "title": "Combine Multiple Clips",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing video clips combined into one",
+        "description": "Easily create a cohesive video narrative from separate clips."
+      },
+      {
+        "title": "Create Highlight Reels",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing highlight reels created from different clips",
+        "description": "Make engaging highlight reels by joining important segments together."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Our innovative AI technology simplifies video editing without compromising quality.",
+    "items": [
+      {
+        "icon": "film",
+        "title": "Instant Video Merging",
+        "description": "Join clips together in seconds without the hassle of complicated software."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "No editing experience needed. Simply upload your clips and let our AI do the magic."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Secure Processing",
+        "description": "Your videos are processed safely in your browser, ensuring your content remains private."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three easy steps to join your videos",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Clips",
+        "description": "Drag and drop or browse your video files. Supported formats include MP4, AVI, and MOV."
+      },
+      {
+        "serial": "2",
+        "title": "AI Processing",
+        "description": "Our technology intelligently merges the clips while ensuring a smooth flow and high quality."
+      },
+      {
+        "serial": "3",
+        "title": "Download Final Video",
+        "description": "Preview the joined video and download your seamless creation in high resolution."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless happy users transforming their videos with WaveSpeed AI",
+    "items": [
+      {
+        "name": "Emily Roberts",
+        "stars": 5,
+        "comment": "This tool is a lifesaver! Joining clips for my vlogs has never been easier."
+      },
+      {
+        "name": "David Kim",
+        "stars": 5,
+        "comment": "I love how quickly I can create highlight reels. It’s faster than any software I've used."
+      },
+      {
+        "name": "Linda Martinez",
+        "stars": 5,
+        "comment": "WaveSpeed has simplified my video editing process. The privacy factor is a huge plus!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Find answers to common questions about Video Joiner",
+    "items": [
+      {
+        "title": "What video formats can I join?",
+        "description": "You can join various formats such as MP4, AVI, and MOV. The tool automatically handles the conversion if needed."
+      },
+      {
+        "title": "Is the service free to use?",
+        "description": "Yes! Users can enjoy 30 free credits each day to join videos. Additional credits can be earned through activities or our subscription plan offers extra features."
+      },
+      {
+        "title": "Can I use my joined videos commercially?",
+        "description": "Yes, users on paid plans can use the output for commercial projects. Free-tier users can only use generated content for personal use."
+      },
+      {
+        "title": "How is my privacy protected?",
+        "description": "All video processing occurs directly in your browser. No videos are uploaded or stored on our servers, ensuring your data remains confidential."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Create Stunning Videos?",
+    "description": "Try WaveSpeed AI now and experience the simplicity of video joining. No sign-up required.",
+    "ctaText": "Join Videos Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

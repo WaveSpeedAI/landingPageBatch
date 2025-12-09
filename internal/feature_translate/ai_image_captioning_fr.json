@@ -1,0 +1,230 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Légendes d'Images par IA",
+  "meta": {
+    "description": "Améliorez vos images avec des légendes intelligentes générées par une IA avancée. Parfait pour augmenter l'engagement sur les réseaux sociaux et les plateformes de commerce électronique. Découvrez la puissance de la création de contenu automatisée avec WaveSpeed AI.",
+    "keywords": "légendes d'images par IA, légendes automatisées, IA image à texte, génération de contenu e-commerce, légendes pour réseaux sociaux, WaveSpeed AI, automatisation marketing, amélioration d'image, générateur de légendes, légendes d'images de produits, outil de création de contenu"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Légendes d'Images Alimentées par IA",
+    "subHeading": "Transformez Vos Images avec des Descriptions Intelligentes",
+    "description": "Générez automatiquement des légendes engageantes pour vos images en quelques secondes, améliorant la visibilité et l'interaction. Parfait pour les marketeurs et les créateurs de contenu cherchant à rationaliser leur flux de travail. Essayez-le maintenant et élevez votre contenu !",
+    "tryText": "Essayez-le maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution de Légendes d'Images par IA de WaveSpeed AI",
+    "left": {
+      "heading": "Défis Traditionnels",
+      "items": [
+        "La légende manuelle est chronophage et répétitive",
+        "Manque de créativité et de cohérence dans le message",
+        "Taux d'abandon élevés sur les réseaux sociaux sans légendes engageantes",
+        "Difficulté à suivre de grands volumes d'images",
+        "Options linguistiques limitées et localisation"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed AI",
+      "items": [
+        "Légendes instantanées générées pour n'importe quelle image en quelques secondes",
+        "Sortie de texte créative, diversifiée et engageante",
+        "Augmente l'engagement et la rétention du public",
+        "Supporte plusieurs langues pour une portée mondiale",
+        "Solution économique avec des prix évolutifs"
+      ],
+      "tryText": "Essayez"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment ça fonctionne",
+    "description": "Créez des légendes sans effort en 4 étapes simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Télécharger l'Image",
+        "text": "Téléchargez l'image que vous souhaitez légender",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Personnaliser les Options",
+        "text": "Choisissez des préférences comme le ton et le style pour la légende",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Générer la Légende",
+        "text": "Laissez l'IA créer une légende unique pour votre image",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Télécharger ou Partager",
+        "text": "Obtenez votre image légendée prête à l'utilisation",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Générez Votre Première Légende →"
+  },
+  "endlessPossibilities": {
+    "heading": "Des Légendes Infinies pour Chaque Utilisation",
+    "description": "Idéal pour une variété d'applications",
+    "items": [
+      "Descriptions d'images de produits e-commerce",
+      "Publications accrocheuses sur les réseaux sociaux",
+      "Contenu pour blogs et sites web",
+      "Améliorations créatives de portfolio",
+      "Matériel marketing et publicités",
+      "Quiz interactifs et engagement des utilisateurs",
+      "Amélioration des visuels pour les articles en ligne",
+      "Construction de l'identité de marque à travers des légendes uniques"
+    ]
+  },
+  "successStories": {
+    "heading": "Réelles Histoires de Succès",
+    "description": "Découvrez comment les entreprises utilisent l'IA pour automatiser la légende",
+    "items": [
+      {
+        "tag": "Vente au Détail de Mode",
+        "heading": "Annonces de Produits E-commerce",
+        "before": {
+          "label": "Avant",
+          "text": "La légende manuelle était lente et incohérente"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Légendes automatisées en quelques secondes"
+        },
+        "value": "95%",
+        "key": "Efficacité Temporelle",
+        "description": "Avec les légendes automatisées, nous avons augmenté notre vitesse de création d'annonces, améliorant notre production de 50% tout en garantissant qualité et cohérence."
+      },
+      {
+        "tag": "Entreprise de Photographie",
+        "heading": "Amélioration des Images de Portfolio",
+        "before": {
+          "label": "Avant",
+          "text": "Rencontraient des difficultés avec des descriptions créatives"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Légendes engageantes générées instantanément"
+        },
+        "value": "90%",
+        "key": "Boost Créatif",
+        "description": "Notre base de clients a grandi alors que des légendes uniques d'images aidaient à différencier notre portfolio dans un marché concurrentiel."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison de Modèles d'IA",
+    "description": "Sélectionnez le modèle idéal pour vos besoins de légende",
+    "items": [
+      "Modèle Standard : Légendes rapides, adapté à la plupart des images",
+      "Modèle Créatif : Offre des descriptions plus artistiques et nuancées",
+      "Modèle de Performance : Optimisé pour la vitesse et le volume",
+      "Support Multilingue : Légendes instantanées dans plusieurs langues",
+      "Options de Ton Personnalisées : Adapter les légendes pour correspondre à la voix de votre marque",
+      "Prêt pour l'Intégration : Fonctionne sans effort avec les principaux outils marketing"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils IA Connexes",
+    "description": "Découvrez d'autres outils IA innovants pour votre entreprise"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quels types d'images fonctionnent le mieux pour la génération de légendes ?",
+        "answer": "Toute image claire, y compris les produits, les paysages ou les portraits, peut être légendée. Pour des résultats optimaux, utilisez des images haute résolution avec un bon éclairage."
+      },
+      {
+        "question": "Puis-je personnaliser le ton des légendes ?",
+        "answer": "Oui ! Vous pouvez choisir parmi divers tons tels que professionnel, décontracté ou créatif pour correspondre à votre marque."
+      },
+      {
+        "question": "Quelle rapidité puis-je attendre pour mes légendes ?",
+        "answer": "Les légendes sont générées en quelques secondes, ce qui vous permet de rationaliser considérablement votre flux de travail."
+      },
+      {
+        "question": "Les légendes générées sont-elles uniques pour chaque image ?",
+        "answer": "Absolument ! Notre IA génère des légendes contextuellement pertinentes et uniques pour chaque image."
+      },
+      {
+        "question": "Puis-je utiliser les légendes à des fins commerciales ?",
+        "answer": "Oui ! Toutes les légendes générées peuvent être utilisées librement pour des projets commerciaux ou personnels sans frais de licence supplémentaires."
+      },
+      {
+        "question": "Y a-t-il un support si j'ai des problèmes ?",
+        "answer": "Oui, nous fournissons un support complet comprenant de la documentation et une équipe dédiée pour aider avec toute question."
+      },
+      {
+        "question": "Comment les tarifs sont-ils structurés pour la génération de légendes ?",
+        "answer": "Nous proposons un modèle de paiement à l'utilisation, garantissant que vous ne payez que pour les légendes que vous générez sans frais d'abonnement."
+      },
+      {
+        "question": "Puis-je générer des légendes pour des images en lot ?",
+        "answer": "Oui ! Vous pouvez télécharger en lot des images pour générer plusieurs légendes simultanément, vous faisant gagner encore plus de temps."
+      },
+      {
+        "question": "Quels sont les meilleurs cas d'utilisation pour la légende d'images IA ?",
+        "answer": "Idéal pour l'e-commerce, les réseaux sociaux, le branding et toute plateforme nécessitant du contenu visuel engageant."
+      },
+      {
+        "question": "Comment puis-je intégrer cet outil dans mon flux de travail existant ?",
+        "answer": "Nos légendes IA peuvent être intégrées avec des outils et plateformes marketing populaires pour une expérience fluide."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Élever Vos Images ?",
+    "description": "Commencez à exploiter la puissance de l'IA pour vos légendes aujourd'hui.",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Essayez-le maintenant →"
+  },
+  "footer": {
+    "heading": "Transformez la Qualité de Votre Contenu !",
+    "description": "Découvrez WaveSpeed AI et voyez la différence par vous-même. Facile à utiliser, aucune inscription requise.",
+    "ctaText": "Commencez Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI 汽车模型生成器",
+  "meta": {
+    "description": "利用人工智能轻松创建令人惊叹且逼真的汽车模型。非常适合汽车营销和设计，以极少的时间实现您的创意。与 WaveSpeed 一起发现汽车建模的未来。",
+    "keywords": "AI 汽车模型生成器, 汽车设计, 3D 汽车建模, 汽车营销工具, WaveSpeed AI, 创意车辆设计, 汽车可视化, 数字汽车模型, 快速原型, 虚拟汽车展示"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI 工具",
+        "items": [
+          [
+            "AI 工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即试用"
+  },
+  "hero": {
+    "heading": "汽车模型生成器",
+    "subHeading": "将您的汽车愿景变为现实",
+    "description": "在几分钟内从概念生成令人惊叹的汽车模型。不需要复杂的设计技能。体验重新定义汽车设计流程的前沿人工智能技术。",
+    "tryText": "立即开始创建",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI 汽车模型生成器解决方案",
+    "left": {
+      "heading": "传统挑战",
+      "items": [
+        "汽车建模耗时且成本高",
+        "复杂的软件需要广泛的培训",
+        "困难的迭代和修订",
+        "高质量资源的获取有限",
+        "高成本使初创企业无法承担"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI 解决方案",
+      "items": [
+        "仅需几分钟即可创建详细的汽车模型",
+        "无需专业技能或软件 - 只需上传想法",
+        "快速、AI 驱动的结果，提高工作效率",
+        "无限的设计迭代尽在您的指尖",
+        "适合任何预算的经济成本"
+      ],
+      "tryText": "试用"
+    }
+  },
+  "howItWorks": {
+    "heading": "其工作原理",
+    "description": "从概念到汽车模型的 4 个简单步骤",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传概念艺术",
+        "text": "上传您的车辆设计草图或灵感",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "添加规格",
+        "text": "提供有关尺寸、样式和功能的详细信息",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "选择样式特征",
+        "text": "从各种自定义选项和装饰中选择",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载模型",
+        "text": "在几分钟内收到高质量的 3D 模型",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "生成您的第一个汽车模型 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无限机遇",
+    "description": "对于汽车爱好者和专业人士而言都是理想之选",
+    "items": [
+      "用于营销活动的定制汽车设计",
+      "用于制造商演示的逼真原型",
+      "用于汽车博览会的概念设计",
+      "虚拟展厅和展示",
+      "与团队协作设计理念",
+      "增强的汽车仿真",
+      "创新的车辆功能可视化",
+      "社交媒体的动态广告素材"
+    ]
+  },
+  "successStories": {
+    "heading": "变革性的成功故事",
+    "description": "探索汽车企业如何利用 AI 实现设计创新",
+    "items": [
+      {
+        "tag": "汽车设计",
+        "heading": "豪华汽车初创企业",
+        "before": {
+          "label": "之前",
+          "text": "6 周"
+        },
+        "after": {
+          "label": "之后",
+          "text": "1 天"
+        },
+        "value": "98%",
+        "key": "节省的时间",
+        "description": "我们在一周内加速了五款新车的模型开发。这使我们能够更早地向投资者展示。"
+      },
+      {
+        "tag": "汽车零售",
+        "heading": "在线汽车零售商",
+        "before": {
+          "label": "之前",
+          "text": "成本高且缓慢"
+        },
+        "after": {
+          "label": "之后",
+          "text": "快速且实惠"
+        },
+        "value": "95%",
+        "key": "成本降低",
+        "description": "实施 AI 汽车模型以增强我们的列表，客户参与度大幅提升。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI 模型比较",
+    "description": "选择最适合您汽车需求的模型",
+    "items": [
+      "标准模型：基本设计特征、3D 渲染、快速周转",
+      "高级模型：高级细节、逼真纹理、较长的创建时间",
+      "针对独特请求的定制规格",
+      "建模过程中的实时反馈和调整",
+      "可用于促销的可扩展设计",
+      "与 3D 平台的通用兼容性"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关 AI 工具",
+    "description": "发现更多创新的汽车设计 AI 工具"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要知道的所有信息",
+    "items": [
+      {
+        "question": "我可以期待模型的细节水平是什么？",
+        "answer": "该人工智能生成高细节模型，具有准确的比例和可自定义的特征，随时准备进行渲染或集成到各种应用中。"
+      },
+      {
+        "question": "我可以影响模型的设计风格吗？",
+        "answer": "当然可以！您可以通过规格和概念艺术指定样式或主题及功能，从而实现个性化设计。"
+      },
+      {
+        "question": "下载的模型有哪些文件格式可用？",
+        "answer": "生成的模型可以以多种文件格式下载，包括 OBJ、STL 和 FBX，与大多数 3D 软件兼容。"
+      },
+      {
+        "question": "模型生成过程有多快？",
+        "answer": "模型生成通常只需几分钟，具体取决于设计的复杂程度。人工智能显著简化了工作流程。"
+      },
+      {
+        "question": "生成的模型有没有使用权？",
+        "answer": "是的，您拥有通过 WaveSpeed 创建的模型的全部商业使用权，可以用于营销、销售和产品开发。"
+      },
+      {
+        "question": "使用 AI 生成器有什么支持？",
+        "answer": "我们提供广泛的文档、教程视频和实时支持选项，以帮助您最大限度地提高 AI 汽车模型生成器的使用效果。"
+      },
+      {
+        "question": "我该如何开始使用汽车模型生成器？",
+        "answer": "只需注册并使用您的免费积分即可开始创建汽车模型。界面用户友好，便于快速学习。"
+      },
+      {
+        "question": "生成器能处理复杂设计请求吗？",
+        "answer": "可以，生成器能够处理复杂的规格，尽管简单的设计会产生更快的结果。我们建议您从更清晰的指导开始。"
+      },
+      {
+        "question": "我可以创建多少模型，有限制吗？",
+        "answer": "创建模型没有严格的限制，使您可以轻松探索多种设计和想法。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备创建您的第一个 AI 汽车模型吗？",
+    "description": "使用免费积分开始 - 体验人工智能在汽车设计中的强大",
+    "contactUsText": "联系我们",
+    "tryText": "立即试用 →"
+  },
+  "footer": {
+    "heading": "准备设计您的梦想车吗？",
+    "description": "立即尝试 WaveSpeed AI，亲身体验转变。无需注册。",
+    "ctaText": "现在创建您的汽车模型",
+    "text": "© 2025 WaveSpeed AI。保留所有权利。"
+  }
+}

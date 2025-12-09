@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Create Stunning Dance Choreographies Instantly",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Generate Dance Moves Effortlessly",
+    "description": "Input your style and let our AI choreograph unique dance sequences for you.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Dance Concept",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example of dance concept generation"
+        },
+        {
+          "title": "Choreography Output",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example of generated choreography"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Generate Your Dance Moves",
+      "prompt": {
+        "heading": "Style Prompt",
+        "placeholder": "E.g., Create a hip-hop routine, choreograph a contemporary piece, generate a salsa dance..."
+      },
+      "upload": {
+        "heading": " Share Your Style or Input URL"
+      },
+      "processButton": "Generate Dance Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Dance Sequences Generated"
+      },
+      {
+        "title": "98.7%",
+        "description": "User Satisfaction Rate"
+      },
+      {
+        "title": "3.2s",
+        "description": "Average Generation Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Dance Choreography Examples",
+    "description": "Explore how our AI creates stunning choreography tailored to your description.",
+    "items": [
+      {
+        "title": "Hip-Hop Routine",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example of a hip-hop dance routine generated",
+        "description": "See vibrant and energetic moves brought to life."
+      },
+      {
+        "title": "Salsa Dance",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example of salsa dance choreography generated",
+        "description": "Enjoy a lively salsa routine perfect for any occasion."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI for Dance?",
+    "description": "Our innovative technology delivers exceptional and creative dance choreography instantly.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Instant Creativity",
+        "description": "Generate complex dance routines in seconds, unleashing your artistic vision without wait."
+      },
+      {
+        "icon": "user-friends",
+        "title": "Beginner Friendly",
+        "description": "No prior experience needed. Just describe your desired style and let our AI create magic."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Secure and Private",
+        "description": "Your input is processed securely, ensuring that your creativity remains your own."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Quick steps to bring your dance ideas to life",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Input Dance Style",
+        "description": "Describe your dance style or theme by typing in your preferred genre, mood, or specific elements."
+      },
+      {
+        "serial": "2",
+        "title": "AI Choreography Generation",
+        "description": "Our AI interprets your input and composes a unique dance routine tailored to your specifications."
+      },
+      {
+        "serial": "3",
+        "title": "Review and Refine",
+        "description": "Watch the generated choreography and make adjustments as needed to perfect your routine."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Are Saying",
+    "description": "Join countless dancers who have transformed their routines with AI-generated choreography",
+    "items": [
+      {
+        "name": "Emma Davis",
+        "stars": 5,
+        "comment": "WaveSpeed blew me away! I generated a contemporary piece that fit perfectly for my performance."
+      },
+      {
+        "name": "Liam Brown",
+        "stars": 5,
+        "comment": "As a dance teacher, this tool has been revolutionary for creating quick choreography for my classes."
+      },
+      {
+        "name": "Isabella Lee",
+        "stars": 5,
+        "comment": "The AI helps me craft intricate moves I would never have thought of on my own. It's like having a dance partner!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Find answers to common questions about AI Dance Generation",
+    "items": [
+      {
+        "title": "Can I customize the dance routines?",
+        "description": "Absolutely! You can input your preferences, and our AI will adjust the choreography to meet your style and needs."
+      },
+      {
+        "title": "Is this service free to use?",
+        "description": "Yes! Enjoy a set number of free dance generations daily, with options for premium features for enthusiasts."
+      },
+      {
+        "title": "Can I use these choreographies for public performances?",
+        "description": "Yes, users on paid plans can utilize AI-generated routines for any kind of performance, including public showcases."
+      },
+      {
+        "title": "How does your AI ensure quality choreography?",
+        "description": "Our AI is trained on diverse dance styles and performance metrics, allowing it to create unique, high-quality choreography."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Create Your Next Dance Routine?",
+    "description": "Try WaveSpeed AI now and experience the future of choreography creation. No sign-up needed.",
+    "ctaText": "Generate Dance Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

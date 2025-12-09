@@ -1,0 +1,222 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI 反射生成器",
+  "meta": {
+    "description": "通过我们的 AI 反射生成器，瞬间创建令人惊艳的产品反射。完美提升您的电子商务图片和改善产品展示。体验与您在线商店的无缝集成。",
+    "keywords": "AI 反射生成器, 电子商务图像增强, 产品反射工具, Shopify 反射生成器, 亚马逊产品图片, AI 照片编辑, 现实反射, 产品展示工具, 营销图像工具, 在线零售图像增强"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI 工具",
+        "items": [
+          [
+            "AI 工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即试用"
+  },
+  "hero": {
+    "heading": "创建惊艳的反射",
+    "subHeading": "用现实的反射提升您的产品图片",
+    "description": "瞬间将您的产品照片转变为现实的反射，让它们脱颖而出并吸引更多顾客。我们的工具由先进的 AI 提供支持，旨在实现电子商务成功。今天就开始提升您的产品图片！",
+    "tryText": "立即试用",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI 反射生成器解决方案",
+    "left": {
+      "heading": "传统挑战",
+      "items": [
+        "创建现实的反射耗时",
+        "需要高级平面设计技能",
+        "通常需要昂贵的软件和工具",
+        "有限的自定义选项",
+        "小企业难以负担"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI 解决方案",
+      "items": [
+        "在几秒钟内生成现实的反射",
+        "无需设计经验 - 只需上传图片",
+        "通过 AI 驱动的技术获得快速结果",
+        "完全可自定义的反射样式",
+        "每个企业都能承受的价格模型"
+      ],
+      "tryText": "试用"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "从普通的产品照片到惊人的反射，仅需 4 个简单步骤",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传图片",
+        "text": "上传没有反射的产品照片",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "选择反射样式",
+        "text": "从各种反射样式中选择（例如，玻璃、水）",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "调整设置",
+        "text": "微调不透明度和角度等设置",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载增强图片",
+        "text": "获取带有反射的增强产品图片",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "创建您的反射 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无尽的可能性",
+    "description": "适用于任何产品和应用",
+    "items": [
+      "增强电子商务产品列表",
+      "创建引人入胜的营销材料",
+      "改善社交媒体帖子和广告",
+      "用于在线目录",
+      "提升您品牌的视觉识别",
+      "制作惊艳的宣传横幅",
+      "理想的时尚图册",
+      "适合在线作品集展示"
+    ]
+  },
+  "successStories": {
+    "heading": "真实的成功故事",
+    "description": "发现企业如何通过 AI 提升他们的图片",
+    "items": [
+      {
+        "tag": "电子商务时尚",
+        "heading": "在线服装零售商",
+        "before": {
+          "label": "之前",
+          "text": "基本图片"
+        },
+        "after": {
+          "label": "之后",
+          "text": "包含反射"
+        },
+        "value": "75%",
+        "key": "图像质量提升",
+        "description": "使用反射显著提高了我们的点击率。"
+      },
+      {
+        "tag": "家居用品",
+        "heading": "家具商店",
+        "before": {
+          "label": "之前",
+          "text": "静态图片"
+        },
+        "after": {
+          "label": "之后",
+          "text": "引人入胜的视觉效果"
+        },
+        "value": "85%",
+        "key": "参与度提升",
+        "description": "增强的产品视觉提高了顾客的参与度和销售。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI 反射模型比较",
+    "description": "选择适合您需求的反射模型",
+    "items": [
+      "标准反射：适用于简单图像的基本反射，快速处理",
+      "高级反射：具有可自定义设置的高级逼真反射",
+      "玻璃反射：令人惊叹的玻璃效果，展现精致外观",
+      "水面反射：适合具有现实水效果的生活方式图像",
+      "几秒钟内快速生成",
+      "包括商业使用权"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关 AI 工具",
+    "description": "探索其他强大的 AI 工具以满足您的电子商务需求"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要了解的一切",
+    "items": [
+      {
+        "question": "什么类型的图片最适合反射？",
+        "answer": "高质量、背景清晰的图片可以获得最佳反射效果，尽管 AI 可以增强多种类型的图片。目标是清晰聚焦和光线良好的图片。"
+      },
+      {
+        "question": "我可以自定义反射样式和设置吗？",
+        "answer": "可以！从多种反射样式中选择，并调整角度和不透明度等设置以匹配您想要的外观。"
+      },
+      {
+        "question": "我多快可以获得增强图像？",
+        "answer": "图像生成通常是即时的，可以让您在几秒钟内下载增强的产品图片。"
+      },
+      {
+        "question": "对生成的图像的使用权有任何限制吗？",
+        "answer": "使用反射功能生成的所有图像均包含商业使用权，允许无限制使用。"
+      },
+      {
+        "question": "我需要平面设计经验才能使用这个工具吗？",
+        "answer": "不，我们的工具旨在易于使用。只需上传您的图片并选择所需选项即可。"
+      },
+      {
+        "question": "您提供什么样的反射生成定价模型？",
+        "answer": "WaveSpeed 采用按需支付的模型，这意味着您只需为创建的反射付费，没有隐藏费用。"
+      },
+      {
+        "question": "我可以一次增强多张图片吗？",
+        "answer": "可以，您可以同时上传多张图片，并一次性为每张生成反射。"
+      },
+      {
+        "question": "如果我需要帮助，有什么支持可用？",
+        "answer": "我们提供全面的支持，包括文档、教程以及通过电子邮件和聊天的客户服务。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备好转变您的产品图片吗？",
+    "description": "开始使用免费积分，体验反射的魔力",
+    "contactUsText": "联系我们",
+    "tryText": "立即试用 →"
+  },
+  "footer": {
+    "heading": "现在提升您的产品摄影！",
+    "description": "立即体验 AI 反射生成器的好处。无需注册。",
+    "ctaText": "立即创建反射",
+    "text": "© 2025 WaveSpeed AI。 版权所有。"
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - 视频压缩器",
+  "meta": {
+    "description": "利用WaveSpeed AI的先进压缩技术，无缝优化您的视频。以最小的文件大小实现高质量结果，适合流媒体和在线分享。非常适合希望提升视频传输效率的内容创作者和企业。",
+    "keywords": "视频压缩器, 视频优化, 视频质量, 文件大小减小, AI视频工具, 流媒体视频工具, 在线视频分享, 高质量视频, 内容创作者工具, 视频编辑, 视频增强, 视频压缩软件"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI工具",
+        "items": [
+          [
+            "AI工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即尝试"
+  },
+  "hero": {
+    "heading": "轻松视频压缩",
+    "subHeading": "在不损失质量的情况下减少文件大小",
+    "description": "快速将大型视频压缩成简化的文件，而不会牺牲质量。非常适合您所有的在线分享需求。今天就试用我们的AI驱动工具，实现快速、高效的视频压缩。",
+    "tryText": "立即尝试",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI视频压缩器解决方案",
+    "left": {
+      "heading": "传统挑战",
+      "items": [
+        "大型视频文件会减慢上传和下载",
+        "压缩过程中常常会损失质量",
+        "耗时的手动调整",
+        "与某些平台不兼容",
+        "专业压缩工具成本高昂"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI解决方案",
+      "items": [
+        "使用先进算法实现即时压缩",
+        "每个文件都保持原始质量",
+        "快速处理时间 - 秒而不是分钟",
+        "与所有主要平台兼容",
+        "实惠的按需付费定价"
+      ],
+      "tryText": "尝试"
+    }
+  },
+  "howItWorks": {
+    "heading": "如何运作",
+    "description": "4个简单步骤实现轻松视频压缩",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传视频",
+        "text": "选择您希望压缩的视频文件",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "选择压缩设置",
+        "text": "选择质量和文件大小之间的理想平衡",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "启动压缩",
+        "text": "让我们的AI在几秒钟内发挥其魔力",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载压缩后的视频",
+        "text": "接收您优化后的视频，准备分享",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "立即压缩您的视频 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无尽的可能性",
+    "description": "适合任何视频应用",
+    "items": [
+      "为社交媒体平台上传视频",
+      "为网站和博客优化内容",
+      "提升视频流质量",
+      "促进更快的电子邮件分享",
+      "为虚拟会议压缩视频",
+      "为市场营销活动准备视频广告",
+      "减少演示文稿的文件大小",
+      "高效存储和归档视频内容"
+    ]
+  },
+  "successStories": {
+    "heading": "真实的成功故事",
+    "description": "了解用户如何简化他们的视频工作流程",
+    "items": [
+      {
+        "tag": "内容创作",
+        "heading": "YouTube频道",
+        "before": {
+          "label": "之前",
+          "text": "大型文件"
+        },
+        "after": {
+          "label": "之后",
+          "text": "快速上传"
+        },
+        "value": "95%",
+        "key": "文件大小减少",
+        "description": "通过改进压缩，我们的上传时间显著减少，使我们能够更频繁地发布内容。"
+      },
+      {
+        "tag": "商业演示",
+        "heading": "企业培训视频",
+        "before": {
+          "label": "之前",
+          "text": "编辑需2小时"
+        },
+        "after": {
+          "label": "之后",
+          "text": "只需20分钟"
+        },
+        "value": "90%",
+        "key": "节省时间",
+        "description": "我们的培训视频现在易于分享和观看，使我们的培训项目更高效。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "压缩方法比较",
+    "description": "选择适合您需求的压缩方式",
+    "items": [
+      "无损压缩：保持原始质量，文件大小减小最小",
+      "有损压缩：适合显著减少文件大小，质量调整可见",
+      "批处理：同时压缩多个视频，提高生产力",
+      "用户友好的界面：所有用户都能简单操作，无论经验水平如何",
+      "快速处理：每个视频的典型压缩时间在30秒以内"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关AI工具",
+    "description": "探索更多AI工具，提升您的视频体验"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要了解的一切",
+    "items": [
+      {
+        "question": "我可以期待什么样的压缩质量？",
+        "answer": "我们的AI提供令人印象深刻的压缩比，同时保持原始视频质量，确保您所有内容的专业外观。"
+      },
+      {
+        "question": "我可以选择不同的压缩级别吗？",
+        "answer": "可以！您可以选择不同的设置，根据您的需求优先考虑质量或文件大小。"
+      },
+      {
+        "question": "支持什么文件格式？",
+        "answer": "我们支持所有流行的视频格式，包括MP4、MOV和AVI，方便您使用。"
+      },
+      {
+        "question": "压缩过程需要多长时间？",
+        "answer": "大多数视频压缩在几秒内完成，使其快速、高效。"
+      },
+      {
+        "question": "我可以一次压缩多个视频吗？",
+        "answer": "当然可以！我们的批处理功能允许您同时压缩多个视频。"
+      },
+      {
+        "question": "压缩期间我会丢失任何数据吗？",
+        "answer": "使用无损压缩，您不会丢失任何数据。有损压缩可能会略微降低质量，但文件大小的减少是显著的。"
+      },
+      {
+        "question": "我需要注册才能使用该工具吗？",
+        "answer": "无需注册；您可以立即开始压缩视频。"
+      },
+      {
+        "question": "视频大小有限制吗？",
+        "answer": "我们的平台可以处理大型文件，但为了获得最佳性能，我们建议每个上传保持在2GB以下。"
+      },
+      {
+        "question": "我可以稍后访问我的压缩视频吗？",
+        "answer": "压缩后的视频可以在处理后立即下载。将它们保存到您的设备以备将来使用。"
+      },
+      {
+        "question": "是否提供客户支持？",
+        "answer": "是的！WaveSpeed通过电子邮件和在线聊天提供支持，以帮助您解决任何问题或疑问。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备好压缩您的视频了吗？",
+    "description": "使用我们先进的AI技术开始高质量压缩。",
+    "contactUsText": "联系我们",
+    "tryText": "立即尝试 →"
+  },
+  "footer": {
+    "heading": "改造您的视频体验！",
+    "description": "立即体验WaveSpeed AI的无缝压缩。无需注册。",
+    "ctaText": "立即开始压缩视频",
+    "text": "© 2025 WaveSpeed AI. 版权所有."
+  }
+}

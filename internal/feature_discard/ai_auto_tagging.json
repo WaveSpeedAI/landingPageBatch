@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Smart Auto Tagging for Effortless Organization",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Effortlessly Tag Your Images",
+    "description": "Automatically generate tags for your photos, streamlining your organization process.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo before auto tagging"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example photo after auto tagging"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Effortlessly Tag Your Images",
+      "prompt": {
+        "heading": " Prompt",
+        "placeholder": "E.g., Auto tag the scenery, identify people in the photo..."
+      },
+      "upload": {
+        "heading": " Select image or Input URL"
+      },
+      "processButton": "Tag Images Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "10M+",
+        "description": "Images Tagged"
+      },
+      {
+        "title": "99.5%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "1.8s",
+        "description": "Average Tagging Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Auto Tagging Examples",
+    "description": "Discover how our AI can enhance your photo organization through smart tagging.",
+    "items": [
+      {
+        "title": "Tagging Landscapes",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing landscape tagging",
+        "description": "Automatically assign relevant tags to scenic images for easy categorization."
+      },
+      {
+        "title": "Identifying People",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing identification of people",
+        "description": "Instinctively identify and tag individuals in group photos for enhanced organization."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Our state-of-the-art technology streamlines your tagging process with precision.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Instant Tagging",
+        "description": "Receive accurate tags within seconds, saving you time and effort."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "No expertise needed. Simply upload your image and watch the AI tag it seamlessly."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Data Privacy Assured",
+        "description": "Your images are tagged locally, ensuring complete privacy and security."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Just three simple steps to smarter photo management",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Image",
+        "description": "Easily upload your photo by dragging, dropping, or browsing files. Supported formats include JPG, PNG, and WebP."
+      },
+      {
+        "serial": "2",
+        "title": "AI Tagging",
+        "description": "Our advanced AI efficiently analyzes your image and generates relevant tags based on its content."
+      },
+      {
+        "serial": "3",
+        "title": "Review and Download",
+        "description": "View the generated tags and download your organized image with ease."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless satisfied users who streamline their photo organization with our smart tagging solution",
+    "items": [
+      {
+        "name": "Emma Brown",
+        "stars": 5,
+        "comment": "The auto tagging feature has transformed how I manage my photos! I can find them in seconds."
+      },
+      {
+        "name": "David Smith",
+        "stars": 5,
+        "comment": "As a photographer, this tagging service has saved me hours in organizing my portfolio."
+      },
+      {
+        "name": "Linda Wilson",
+        "stars": 5,
+        "comment": "I love that my images are processed without leaving my device. Such peace of mind!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your common queries about our auto tagging feature",
+    "items": [
+      {
+        "title": "What types of tags can the AI generate?",
+        "description": "The AI can create a variety of tags based on the image content, including categories for scenery, people, objects, and colors."
+      },
+      {
+        "title": "Is there a limit to the number of images I can tag?",
+        "description": "No, you can tag as many images as you want! Each user gets 30 free credits daily, ensuring ample access."
+      },
+      {
+        "title": "Can I use tagged content for commercial purposes?",
+        "description": "Yes! Users with a paid subscription can utilize tagged images for commercial endeavors. Free-tier users may only use them for personal projects."
+      },
+      {
+        "title": "How does the system ensure my privacy?",
+        "description": "All tagging is performed directly in your browser, meaning your images are never uploaded or stored on external servers."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Revolutionize Your Photo Organization?",
+    "description": "Try WaveSpeed AI now and experience effortless tagging. No sign-up required.",
+    "ctaText": "Tag Images Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

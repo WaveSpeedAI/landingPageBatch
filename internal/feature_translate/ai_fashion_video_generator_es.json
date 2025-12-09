@@ -1,0 +1,230 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Generador de Videos de Moda con IA",
+  "meta": {
+    "description": "Crea impresionantes videos de moda automáticamente a partir de tus imágenes. Aprovecha el poder de la IA de última generación para mejorar tus estrategias de marketing. Ideal para marcas de moda y comercio electrónico. ¡Experimenta el futuro de la narración visual!",
+    "keywords": "generador de videos de moda, videos de moda con IA, creador de videos de productos, soluciones de video para comercio electrónico, herramientas de marketing de moda, automatización de video, moda en Shopify, marketing en redes sociales para moda"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas de IA",
+        "items": [
+          [
+            "Herramientas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Muestra",
+        "items": [
+          [
+            "Muestra",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Generación de Videos de Moda",
+    "subHeading": "Dale Vida a las Imágenes de Moda",
+    "description": "Transforma tus fotos de productos de moda en videos cautivadores sin esfuerzo. No se necesita filmación: simplemente sube tus imágenes. Impulsado por la última tecnología de IA, entrega videos de moda de calidad profesional en minutos.",
+    "tryText": "Comienza Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución de Generador de Videos de Moda de WaveSpeed AI",
+    "left": {
+      "heading": "Desafíos de la Producción de Videos de Moda Tradicionales",
+      "items": [
+        "Altos costos ($3000-7000 por video)",
+        "Requiere modelos y configuraciones profesionales",
+        "Tiempos de edición y producción prolongados (hasta 10 días)",
+        "Opciones creativas limitadas",
+        "Inaccesible para pequeñas marcas de moda"
+      ]
+    },
+    "right": {
+      "heading": "Solución de Videos de Moda de WaveSpeed AI",
+      "items": [
+        "Genera videos de moda en 1-3 minutos a partir de imágenes",
+        "No se requieren modelos ni configuraciones: simplemente sube fotos",
+        "Resultados instantáneos impulsados por IA con un toque creativo",
+        "Estilos y ediciones ilimitados disponibles",
+        "Modelo de pago por uso flexible adecuado para todos los presupuestos"
+      ],
+      "tryText": "Prueba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "De imagen a video de moda en 4 pasos fáciles",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Sube Imagen de Moda",
+        "text": "Agrega la imagen de tu producto o foto de atuendo",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Agrega Descripción del Estilo",
+        "text": "Opcional: Describe el estilo de video deseado (ej. \"pasarela dinámica\" o \"ropa casual\")",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Elige Modelo de IA",
+        "text": "Selecciona de nuestros modelos de moda personalizados para mejores resultados",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Descarga Video de Moda",
+        "text": "Recibe tu video de moda de alta calidad en 1-3 minutos con derechos de uso completos",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Crea Tu Video de Moda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Oportunidades Infinita de Videos de Moda",
+    "description": "Ideal para diversas aplicaciones de moda",
+    "items": [
+      "Videos de lookbook que muestran nuevas colecciones",
+      "Videos de estilismo para plataformas de redes sociales",
+      "Contenido de marketing para tiendas de moda en línea",
+      "Destacados de tendencias de moda",
+      "Demostraciones y exhibiciones de productos",
+      "Sesiones de estilismo virtual",
+      "Colaboraciones con influencers de moda",
+      "Clips detrás de cámara y promocionales"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Descubre cómo las marcas de moda están revolucionando su marketing en video",
+    "items": [
+      {
+        "tag": "Venta de Moda",
+        "heading": "Boutique de Moda en Línea",
+        "before": {
+          "label": "Antes",
+          "text": "Lento"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Videos instantáneos"
+        },
+        "value": "97.5%",
+        "key": "Mejora de Eficiencia",
+        "description": "Transformó nuestro enfoque de marketing, permitiendo la creación rápida de videos para nuevos lanzamientos y aumentando el compromiso en un 50%."
+      },
+      {
+        "tag": "Marca de Athleisure",
+        "heading": "Moda Directa al Consumidor",
+        "before": {
+          "label": "Antes",
+          "text": "Contenido de video débil"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Videos de moda vibrantes"
+        },
+        "value": "100%",
+        "key": "Calidad de Contenido",
+        "description": "Mejoró significativamente nuestro marketing visual, resultando en tasas de clics más altas y aumento de ventas."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Modelos de IA",
+    "description": "Selecciona el mejor modelo para tus necesidades de moda",
+    "items": [
+      "Fashion Creator Pro: Calidad de video premium, ediciones artísticas, diseñado para moda de alta gama",
+      "Fast Fashion Render: Optimizado para salida rápida, ideal para videos promocionales",
+      "Efectos de estilismo impulsados por IA para presentaciones modernas",
+      "Transiciones suaves y destacados animados",
+      "Tiempo de creación de video de 1-3 minutos",
+      "Derechos comerciales incluidos para uso promocional"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas de Moda de IA Relacionadas",
+    "description": "Explora otras poderosas herramientas de IA para la industria de la moda"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué calidad y duración de video puedo esperar?",
+        "answer": "Fashion Creator Pro ofrece una calidad de video impresionante de hasta 4K, con una duración de hasta 15 segundos, mientras que Fast Fashion Render proporciona videos de alta calidad de 10-15 segundos. Ambos garantizan visuales atractivos y movimiento fluido adecuados para tu marca de moda."
+      },
+      {
+        "question": "¿Puedo personalizar el estilo de los videos?",
+        "answer": "¡Absolutamente! Puedes proporcionar indicaciones descriptivas para dictar el estilo, ritmo y ambiente del video, permitiendo una representación auténtica de tu marca."
+      },
+      {
+        "question": "¿Qué tipos y formatos de imagen funcionan mejor para la generación de videos?",
+        "answer": "Las imágenes claras y de alta resolución funcionan mejor, idealmente fotos de tus productos sobre un fondo simple. Formatos como JPG, PNG y WebP son todos compatibles para una salida de video óptima."
+      },
+      {
+        "question": "¿En qué se diferencia esto de los videos de moda tradicionales?",
+        "answer": "Nuestra IA genera movimiento genuino y ediciones artísticas que los videos tradicionales simplemente no pueden igualar. Esta tecnología te permite producir contenido dinámico en una fracción del tiempo con calidad profesional."
+      },
+      {
+        "question": "¿Puedo aumentar o mejorar la calidad del video después de su generación?",
+        "answer": "¡Sí! Puedes mejorar cualquier video generado utilizando nuestras herramientas de edición para mejorar la claridad, detalle y calidad general después de la generación inicial."
+      },
+      {
+        "question": "¿Qué modelo de precios se aplica a la generación de videos de moda?",
+        "answer": "Operamos bajo un modelo de pago flexible por uso sin tarifas mensuales. Los precios se basan en el modelo elegido y la duración del video, asegurando asequibilidad para todas las marcas de moda."
+      },
+      {
+        "question": "¿Cuánto tiempo tarda la generación de videos y puedo crear varios videos a la vez?",
+        "answer": "Típicamente, la generación de videos tarda de 1 a 3 minutos, y puedes crear múltiples videos simultáneamente a través de procesamiento por lotes sin esfuerzo."
+      },
+      {
+        "question": "¿Cuáles son los mejores casos de uso para el generador de videos de moda?",
+        "answer": "Este generador es perfecto para videos de lookbook, contenido en redes sociales, campañas promocionales y cualquier escenario donde visuales de moda atractivos mejoren la visibilidad de la marca."
+      },
+      {
+        "question": "¿Poseo los derechos comerciales de los videos generados?",
+        "answer": "¡Sí! Todos los videos producidos con WaveSpeed vienen con derechos comerciales completos, dándote libertad para usarlos en todas las plataformas de marketing sin restricciones."
+      },
+      {
+        "question": "¿Qué recursos de soporte están disponibles?",
+        "answer": "Ofrecemos documentación extensa, tutoriales y soporte al cliente activo para cualquier consulta técnica, asegurando que aproveches nuestro servicio al máximo."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Crear Tu Primer Video de Moda?",
+    "description": "Comienza con créditos gratuitos y muestra tu colección como nunca antes.",
+    "contactUsText": "Contáctanos",
+    "tryText": "Comienza Ahora →"
+  },
+  "footer": {
+    "heading": "¿Listo para Dar Vida a Tus Imágenes de Moda?",
+    "description": "Experimenta el Generador de Videos de Moda con IA de WaveSpeed hoy. No se necesita registro.",
+    "ctaText": "Crea Videos de Moda Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

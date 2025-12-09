@@ -1,0 +1,221 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Effet Parallax AI",
+  "meta": {
+    "description": "Élevez vos images à des expériences 3D captivantes grâce à l'Effet Parallax AI. Parfait pour améliorer les boutiques en ligne, les supports promotionnels et le contenu des réseaux sociaux. Débloquez votre créativité facilement grâce à la technologie puissante de WaveSpeed.",
+    "keywords": "effet parallax AI, effet d'image 3D, outil d'amélioration d'image, visuels de marketing en ligne, graphiques promotionnels, imagerie e-commerce, création de contenu pour les réseaux sociaux, effets visuels dynamiques, WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils AI",
+        "items": [
+          [
+            "Outils AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Effet Parallax 3D",
+    "subHeading": "Donnez Vie à Vos Images",
+    "description": "Transformez des images plates en visuels 3D immersifs qui captivent et engagent instantanément votre audience. Parfait pour les supports de marketing en ligne sans avoir besoin d'un logiciel complexe. Découvrez la profondeur améliorée grâce à nos outils alimentés par l'IA.",
+    "tryText": "Essayez-le maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution d'Effet Parallax AI WaveSpeed",
+    "left": {
+      "heading": "Défis Traditionnels",
+      "items": [
+        "Créer de la profondeur nécessite souvent des logiciels complexes et des compétences",
+        "Coûts élevés pour les designers et animateurs professionnels",
+        "Processus de production long",
+        "Portée limitée dans le contenu visuel statique",
+        "Pas accessible à toutes les tailles d'entreprise"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed AI",
+      "items": [
+        "Générez des effets parallax 3D époustouflants en quelques minutes",
+        "Aucune compétence en design requise - Il suffit de télécharger des images",
+        "Transformation instantanée grâce à la technologie IA",
+        "Personnalisations et styles illimités",
+        "Modèle économique abordable, payez à l'utilisation accessible à tous"
+      ],
+      "tryText": "Essayer"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment ça marche",
+    "description": "Transformez des images en visuels 3D époustouflants en 4 étapes simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Télécharger l'image",
+        "text": "Sélectionnez une image plate que vous souhaitez améliorer",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Définir les couches",
+        "text": "Optionnel : Spécifiez les couches pour la perception de profondeur (ex : avant-plan, arrière-plan)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Ajuster le mouvement",
+        "text": "Choisissez l'effet de mouvement pour le parallax (ex : \"glisser à gauche\")",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Télécharger l'effet",
+        "text": "Recevez votre visuel amélioré en quelques minutes, prêt à être utilisé",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Créez votre premier effet 3D →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilités Illimitées",
+    "description": "Parfait pour toute application ou secteur",
+    "items": [
+      "Photographie de produit pour sites e-commerce",
+      "Publications engageantes sur les réseaux sociaux",
+      "Matériel promotionnel pour événements",
+      "Visuels dynamiques pour blogs",
+      "Campagnes publicitaires créatives",
+      "Tutoriels interactifs",
+      "Vitrines immobilières",
+      "Présentations artistiques"
+    ]
+  },
+  "successStories": {
+    "heading": "Vraies Histoires de Succès",
+    "description": "Découvrez comment les entreprises engagent les audiences avec l'IA",
+    "items": [
+      {
+        "tag": "Photographie",
+        "heading": "Liste de Produits E-commerce",
+        "before": {
+          "label": "Avant",
+          "text": "Images Statique"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Effets 3D Engageants"
+        },
+        "value": "85%",
+        "key": "Augmentation de l'Engagement",
+        "description": "Implémenté des effets parallax dynamiques sur les listes de produits, entraînant une augmentation de 85 % de l'interaction des utilisateurs et des ventes."
+      },
+      {
+        "tag": "Marketing",
+        "heading": "Campagne sur les Réseaux Sociaux",
+        "before": {
+          "label": "Avant",
+          "text": "Graphiques Plat"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Contenu 3D Vibrant"
+        },
+        "value": "70%",
+        "key": "Amélioration du Taux de Partage",
+        "description": "Transformé des graphiques standard en visuels 3D engageants, conduisant à une augmentation de 70 % des partages et de la portée sur les réseaux sociaux."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison des Effets 3D",
+    "description": "Sélectionnez l'amélioration idéale pour vos visuels",
+    "items": [
+      "Superposition Réaliste : Crée de la profondeur avec de vrais visuels 3D",
+      "Effets de Mouvement : Options de glissement, zoom et panoramique personnalisables",
+      "Interface Conviviale : Conçu pour tous, aucune expertise requise",
+      "Traitement Rapide : Recevez des visuels polis en quelques minutes",
+      "Droits Commerciaux Inclus : Utilisez le contenu généré librement"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils AI Connexes",
+    "description": "Explorez d'autres solutions innovantes pour des visuels percutants"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quels types d'images fonctionnent le mieux pour l'effet parallax ?",
+        "answer": "Des images haute résolution avec des sujets clairs et des arrière-plans définis donnent les meilleurs résultats. Les images doivent idéalement être d'au moins 512x512 pixels pour mettre en valeur la profondeur."
+      },
+      {
+        "question": "Puis-je personnaliser les effets de mouvement du parallax ?",
+        "answer": "Absolument ! Vous pouvez spécifier différents mouvements comme le panoramique ou le zoom pour créer des expériences visuelles uniques adaptées à vos besoins."
+      },
+      {
+        "question": "L'effet parallax convient-il à tous les types de contenu ?",
+        "answer": "Oui ! L'effet parallax améliore les images de produits, les graphiques promotionnels et les visuels pour les réseaux sociaux, les rendant plus engageants sur toutes les plateformes."
+      },
+      {
+        "question": "Quel est le temps moyen pour générer un effet parallax ?",
+        "answer": "En général, générer un effet parallax prend entre 1 et 2 minutes, ce qui le rend rapide et efficace pour une utilisation immédiate."
+      },
+      {
+        "question": "Ai-je besoin de compétences en design pour utiliser cette fonction ?",
+        "answer": "Aucune compétence en design n'est requise ! Notre interface est intuitive, permettant à quiconque de créer des visuels dynamiques sans effort."
+      },
+      {
+        "question": "Y a-t-il des droits d'utilisation pour le contenu créé ?",
+        "answer": "Oui ! Tous les visuels générés via notre plateforme sont accompagnés de droits commerciaux complets, vous permettant de les utiliser sans frais supplémentaires."
+      },
+      {
+        "question": "Puis-je utiliser différentes images pour l'effet ?",
+        "answer": "Oui ! Vous pouvez créer plusieurs effets en utilisant différentes images pour répondre à différents projets ou besoins."
+      },
+      {
+        "question": " Quels sont les ressources de support disponibles si je rencontre des problèmes ?",
+        "answer": "Nous proposons une documentation complète, des tutoriels et un support client disponible par email et chat en direct pour toute question ou dépannage."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Améliorer Vos Images avec des Effets 3D ?",
+    "description": "Commencez avec des crédits gratuits - Transformez vos visuels maintenant",
+    "contactUsText": "Contactez-Nous",
+    "tryText": "Essayez-le maintenant →"
+  },
+  "footer": {
+    "heading": "Prêt à Découvrir l'Effet 3D ?",
+    "description": "Essayez WaveSpeed AI aujourd'hui et voyez l'effet époustouflant par vous-même. Aucune inscription requise.",
+    "ctaText": "Créez Votre Effet Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

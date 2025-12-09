@@ -1,0 +1,226 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI皮肤修饰",
+  "meta": {
+    "description": "通过我们的AI皮肤修饰功能，在照片中实现无瑕肌肤。非常适合肖像摄影师、美妆品牌和希望轻松提升形象的社交媒体影响者。黑五独家优惠！",
+    "keywords": "AI皮肤修饰, 照片增强, 美妆滤镜, 肖像编辑, 专业修饰工具, 电子商务美妆图像, 社交媒体照片编辑器, AI图像处理, 无瑕肌肤编辑器, 黑五交易"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI工具",
+        "items": [
+          [
+            "AI工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即试用"
+  },
+  "hero": {
+    "heading": "AI皮肤修饰",
+    "subHeading": "将您的照片变为完美肌肤",
+    "description": "自动增强您照片中的肤色和质感。非常适合希望在几秒钟内获得引人注目的结果的摄影师和影响者。告别手动编辑，享受只需点击一次的专业质量。",
+    "tryText": "立即试用",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI皮肤修饰解决方案",
+    "left": {
+      "heading": "传统挑战",
+      "items": [
+        "耗时的手动修饰（每张图片超过1小时）",
+        "需要高级Photoshop技能",
+        "不同图片之间的结果不一致",
+        "专业修饰服务费用高",
+        "实现自然外观的困难"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI解决方案",
+      "items": [
+        "通过AI在几秒钟内实现无瑕肌肤",
+        "用户友好的界面 - 不需要技能",
+        "每次一致且自然的结果",
+        "按需付费的实惠定价",
+        "即时修饰和编辑功能"
+      ],
+      "tryText": "试用"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "只需4个简单步骤即可获得无瑕肌肤",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传图片",
+        "text": "上传您的肖像或美妆照片",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "选择特征",
+        "text": "选择要增强的区域：平滑肌肤，减少瑕疵",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "调整设置",
+        "text": "使用简单的滑块微调肌肤质感和色调",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载修饰照片",
+        "text": "在几秒钟内获取您增强的图像，随时可用",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "生成您的第一次修饰 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无尽的可能性",
+    "description": "非常适合任何照片背景",
+    "items": [
+      "模特和影响者的肖像",
+      "电子商务美妆产品图像",
+      "婚礼和活动摄影",
+      "社交媒体头像",
+      "时尚画册和专栏",
+      "家庭和团体肖像",
+      "房地产摄影",
+      "专业头像"
+    ]
+  },
+  "successStories": {
+    "heading": "真实成功案例",
+    "description": "发现客户如何利用AI提升他们的形象",
+    "items": [
+      {
+        "tag": "美妆品牌",
+        "heading": "促销活动",
+        "before": {
+          "label": "之前",
+          "text": "数小时的手动编辑"
+        },
+        "after": {
+          "label": "之后",
+          "text": "几秒钟内无瑕的结果"
+        },
+        "value": "95%",
+        "key": "节省时间",
+        "description": "我们的活动图像在参与度上大幅提升，使我们的产品不可抗拒。"
+      },
+      {
+        "tag": "摄影工作室",
+        "heading": "客户肖像",
+        "before": {
+          "label": "之前",
+          "text": "品质不一致"
+        },
+        "after": {
+          "label": "之后",
+          "text": "统一、高质量的结果"
+        },
+        "value": "98%",
+        "key": "质量提升",
+        "description": "快速的修饰让我们能够交付令人惊艳的作品集，给所有客户留下深刻印象。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI模型比较",
+    "description": "选择适合您需求的设置",
+    "items": [
+      "肌肤平滑：自然质地无光泽",
+      "瑕疵移除：针对性区域处理，实现无瑕外观",
+      "色调调整：增强肤色以匹配照明",
+      "专业修饰：为摄影级结果提供最后润色",
+      "批量处理：同时编辑多张图片",
+      "包括商业使用权"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关AI工具",
+    "description": "探索更多创新的摄影AI工具"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要了解的一切",
+    "items": [
+      {
+        "question": "哪种类型的图像最适合皮肤修饰？",
+        "answer": "高分辨率的肖像照配以良好的照明是理想的。避免强烈阴影或过亮的图像，以确保最佳效果。"
+      },
+      {
+        "question": "修饰后可以撤回更改吗？",
+        "answer": "可以！如果您对结果不满意，可以轻松撤销编辑或重新开始。"
+      },
+      {
+        "question": "修饰后的图像使用是否有限制？",
+        "answer": "没有限制！您保留所有通过我们的服务修饰的图像的完全权利，允许商业使用。"
+      },
+      {
+        "question": "修饰过程多快？",
+        "answer": "该过程通常只需几秒钟即可完成，方便您增强大量图像。"
+      },
+      {
+        "question": "我可以自定义增强级别吗？",
+        "answer": "当然可以！使用直观的滑块根据您的喜好调整肌肤平滑、瑕疵移除和色调调整。"
+      },
+      {
+        "question": "该软件与其他编辑工具兼容吗？",
+        "answer": "可以！您可以将其作为独立工具使用，或作为您首选编辑软件中的附加增强层。"
+      },
+      {
+        "question": "如果AI未能满足我的期望怎么办？",
+        "answer": "我们提供重做选项和支持，以确保您对结果完全满意。"
+      },
+      {
+        "question": "使用该工具需要订阅费用吗？",
+        "answer": "没有订阅！您只需为您生成的修饰图像付款，并且价格灵活。"
+      },
+      {
+        "question": "如果我遇到问题，有哪些支持资源可用？",
+        "answer": "我们提供全面的文档、快速响应的客户支持和社区资源来解决问题。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备好提升您的照片了吗？",
+    "description": "开始使用免费积分 - 体验AI修饰的力量",
+    "contactUsText": "联系我们",
+    "tryText": "立即试用 →"
+  },
+  "footer": {
+    "heading": "准备好转变您的照片了吗？",
+    "description": "现在尝试WaveSpeed AI，亲自见证差异。无需注册。",
+    "ctaText": "立即去除瑕疵",
+    "text": "© 2025 WaveSpeed AI. 版权所有。"
+  }
+}

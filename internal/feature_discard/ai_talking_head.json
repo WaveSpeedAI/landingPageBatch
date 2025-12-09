@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Create Realistic AI Talking Heads",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Create Stunning AI Talking Heads",
+    "description": "Input your script and watch our AI bring lifelike characters to life with realistic facial expressions and emotions.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example of a static image"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "AI Talking Head animation after processing"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Bring Static Images to Life",
+      "prompt": {
+        "heading": " Script",
+        "placeholder": "E.g., Introduce the character, explain the benefits, or tell a story..."
+      },
+      "upload": {
+        "heading": " Upload image"
+      },
+      "processButton": "Create AI Talking Head Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Talking Heads Created"
+      },
+      {
+        "title": "98.7%",
+        "description": "User Satisfaction Rate"
+      },
+      {
+        "title": "3.0s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Explore how our technology transforms static images into engaging talking avatars with expressive dialogues.",
+    "items": [
+      {
+        "title": "Dynamic Character Animation",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing a static image transformed into a talking head",
+        "description": "Turn any image into a captivating animated character that speaks your text."
+      },
+      {
+        "title": "Interactive Presentations",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example of using a talking head in a presentation",
+        "description": "Enhance your presentations with talking heads that engage your audience."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI for Talking Heads?",
+    "description": "Our state-of-the-art technology enables seamless conversion from images to animated characters with emotional delivery.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Quick Turnaround",
+        "description": "Receive your animated talking head within seconds, enabling rapid content creation."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "Simply upload an image and script; no technical expertise needed."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Secure Processing",
+        "description": "All processing happens locally to ensure your content remains private and secure."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Easily create talking heads in three steps",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Image",
+        "description": "Select an image of a person that you want to animate. Our system supports various formats like JPG and PNG."
+      },
+      {
+        "serial": "2",
+        "title": "Provide Script",
+        "description": "Input the dialogue or presentation script you want the character to express."
+      },
+      {
+        "serial": "3",
+        "title": "Generate Animation",
+        "description": "Preview your talking head instantly, and download the animation for use in your projects."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Transform your content with talking heads that speak to your audience's needs.",
+    "items": [
+      {
+        "name": "Jessica Lee",
+        "stars": 5,
+        "comment": "Incredible! The AI brought my training videos to life and made learning engaging for my team."
+      },
+      {
+        "name": "Tom Patel",
+        "stars": 5,
+        "comment": "This tool has changed the way I create marketing content. The ease of use and quality of the talking heads is fantastic!"
+      },
+      {
+        "name": "Emily Wilson",
+        "stars": 5,
+        "comment": "The ability to create dynamic presentations with lifelike characters has made my pitches so much more engaging."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your queries about creating AI talking heads",
+    "items": [
+      {
+        "title": "What type of images work best for animation?",
+        "description": "Images with clear facial features and good lighting yield the best results for animation. A straight-on view of the face works ideally."
+      },
+      {
+        "title": "Is there a limit to how many talking heads I can create?",
+        "description": "Users can generate multiple talking heads per session, with daily limits depending on their account type."
+      },
+      {
+        "title": "Can the AI handle various accents or languages?",
+        "description": "Yes! The AI can generate speech in multiple languages and adjust for different accents, making it versatile for global audiences."
+      },
+      {
+        "title": "How secure is the uploaded content?",
+        "description": "All uploads and processing are completed locally in your browser, ensuring that your images and scripts remain confidential and secure."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Create Engaging Content?",
+    "description": "Try our AI Talking Head feature now and see the difference in your presentations. No registration needed.",
+    "ctaText": "Create AI Talking Head Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

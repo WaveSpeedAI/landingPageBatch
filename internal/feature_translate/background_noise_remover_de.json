@@ -1,0 +1,229 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - Hintergrundgeräuschentferner",
+  "meta": {
+    "description": "Entfernen Sie unerwünschte Hintergrundgeräusche aus Ihren Audioaufnahmen sofort mit KI-Technologie. Perfekt für Podcaster, Videokreatoren und Musiker. Verbessern Sie mühelos Ihre Klangqualität mit WaveSpeed AI!",
+    "keywords": "hintergrundgeräuschentferner, audioverbesserungs-KI, klangqualitätsverbesserung, podcastbearbeitungswerkzeuge, videoaudio-reinigung, geräuschunterdrückung, KI-audiobearbeitung, professionelle audiowerkzeuge, musikproduktions-audioreiniger, soundbearbeitungssoftware"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI-Tools",
+        "items": [
+          [
+            "KI-Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "Audio-Klarheit neu definiert",
+    "subHeading": "Entfernen Sie Hintergrundgeräusche sofort",
+    "description": "Verbessern Sie die Qualität Ihrer Audioaufnahmen, indem Sie Hintergrundgeräusche in Sekunden effizient entfernen. Ob für Podcasts, Videos oder Musik, unsere KI-Technologie liefert hervorragenden Klang. Verabschieden Sie sich von ablenkenden Geräuschen und begrüßen Sie kristallklares Audio.",
+    "tryText": "Geräusch jetzt entfernen",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI Hintergrundgeräuschentferner Lösung",
+    "left": {
+      "heading": "Traditionelle Reinigungsmethoden",
+      "items": [
+        "Zeitaufwendige manuelle Bearbeitung",
+        "Teure Software erforderlich",
+        "Komplexe Fähigkeiten zur Audioverarbeitung erforderlich",
+        "Begrenzte Wirksamkeit bei hartnäckigen Geräuschen",
+        "Hohe Kosten für professionelle Audio-Dienste"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Lösung",
+      "items": [
+        "Entfernt unerwünschte Hintergrundgeräusche in Sekunden",
+        "Benutzerfreundliche Oberfläche - keine technischen Fähigkeiten erforderlich",
+        "Erreichen Sie automatisch Klangqualität auf professionellem Niveau",
+        "Räumlich mehrere Audiospuren gleichzeitig mühelos reinigen",
+        "Kosteneffektives Pay-as-you-go-Modell für alle Benutzer"
+      ],
+      "tryText": "Ausprobieren"
+    }
+  },
+  "howItWorks": {
+    "heading": "So funktioniert es",
+    "description": "Erreichen Sie makelloses Audio in 4 einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Audio hochladen",
+        "text": "Wählen Sie Ihre Audiodatei mit Hintergrundgeräuschen aus.",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Geräuschprofil wählen",
+        "text": "Wählen Sie die Art von Geräusch, die Sie entfernen möchten (z.B. Brummen, Zischen).",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Verarbeitung starten",
+        "text": "Lassen Sie die KI Ihr Audio in Sekunden analysieren und reinigen.",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Sauberes Audio herunterladen",
+        "text": "Erhalten Sie Ihre verbesserte Audiodatei, die bereit zur Verwendung ist!",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Jetzt starten →"
+  },
+  "endlessPossibilities": {
+    "heading": "Zahlreiche Anwendungen",
+    "description": "Ideal für verschiedene Projekte und Branchen",
+    "items": [
+      "Podcast-Produktion und -Bearbeitung",
+      "Videoaudioverbesserung für Kreatoren",
+      "Musikproduktion und Mastering",
+      "Feinabstimmung von Sprachübertragungen",
+      "Webinare und Aufzeichnungen Online-Kurse",
+      "Feldaufnahmen und Interviews",
+      "Verbesserung des Rundfunk-Audios",
+      "Korrektur des Sounds bei Live-Veranstaltungen"
+    ]
+  },
+  "successStories": {
+    "heading": "Erfolgreiche Transformationen",
+    "description": "Entdecken Sie, wie Benutzer ihren Audio mit KI verbessern",
+    "items": [
+      {
+        "tag": "Podcasting",
+        "heading": "Beliebte Podcast-Show",
+        "before": {
+          "label": "Vorher",
+          "text": "Hintergrundgespräche durchgehend"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Klarer, professioneller Klang"
+        },
+        "value": "98.5%",
+        "key": "Geräuschreduzierung",
+        "description": "Unser Wachstum im Podcast-Bereich hat sich nach der Implementierung der KI-Geräuschentfernung sprunghaft erhöht. Die Zuhörer lieben das verbesserte Audioerlebnis!"
+      },
+      {
+        "tag": "Musikproduktion",
+        "heading": "Indie-Musiker",
+        "before": {
+          "label": "Vorher",
+          "text": "Von Umgebungsgeräuschen übertönt"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Reine, satte Klangqualität"
+        },
+        "value": "95%",
+        "key": "Qualitätsverbesserung",
+        "description": "Die Erhöhung unserer Tracks mit KI hat unsere Vermarktung transformiert und uns wettbewerbsfähig in der Branche gemacht."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Vergleich der Geräuschentfernungstechnologie",
+    "description": "Wählen Sie die beste Technologie für Ihre Bedürfnisse",
+    "items": [
+      "Adaptive Geräuschunterdrückung: Detaillierte Analyse, optimal für komplexe Geräusche",
+      "Einfache Reduzierung: Schnell, effektiv für einfache Hintergrundgeräusche",
+      "Anpassbare Einstellungen für persönliche Vorlieben",
+      "Batchverarbeitung für mehrere Dateien gleichzeitig",
+      "Sofortige Ergebnisse mit beibehaltener verlustfreier Audioqualität"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Verwandte KI-Tools",
+    "description": "Entdecken Sie zusätzliche KI-Lösungen zur Verbesserung der Audioqualität"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welche Arten von Geräuschen kann der Entferner verarbeiten?",
+        "answer": "Unsere Technologie entfernt effektiv eine Vielzahl von Hintergrundgeräuschen, einschließlich Brumm-, Zisch- und Windgeräuschen sowie anderen unerwünschten Klängen in verschiedenen Umgebungen."
+      },
+      {
+        "question": "Kann ich die Empfindlichkeit der Geräuschentfernung anpassen?",
+        "answer": "Ja! Sie können das Geräuschprofil anpassen, um gezielt bestimmte Frequenzen für optimale Audio-Klarheit basierend auf den Bedürfnissen Ihrer Aufnahme auszuwählen."
+      },
+      {
+        "question": "Benötige ich fortgeschrittene Fähigkeiten, um dieses Feature zu nutzen?",
+        "answer": "Nein! Die benutzerfreundliche Oberfläche ermöglicht es jedem, unabhängig von technischen Kenntnissen, mühelos ihre Audios zu verbessern."
+      },
+      {
+        "question": "Welche Audioformate werden unterstützt?",
+        "answer": "Wir unterstützen alle gängigen Audioformate, einschließlich MP3, WAV, AAC und mehr, um die Kompatibilität mit Ihren vorhandenen Dateien zu gewährleisten."
+      },
+      {
+        "question": "Wie lange dauert es, meine Audiodatei zu verarbeiten?",
+        "answer": "Die Verarbeitung erfolgt normalerweise sofort, sodass Sie Ihre Audiodateien in nur wenigen Sekunden reinigen können!"
+      },
+      {
+        "question": "Kann ich das Tool für Live-Audio verwenden?",
+        "answer": "Ja! Unsere Technologie kann auch für die Verbesserung von Live-Sound in Echtzeitszenarien integriert werden."
+      },
+      {
+        "question": "Gibt es eine Größenbeschränkung für Audiodateien?",
+        "answer": "Es gibt keine strengen Beschränkungen, aber größere Dateien benötigen möglicherweise etwas länger zur Verarbeitung, je nach ihrer Komplexität."
+      },
+      {
+        "question": "Wird die Qualität meines Audios erhalten bleiben?",
+        "answer": "Absolut! Unsere Technologie behält die ursprüngliche Qualität bei, während unerwünschte Geräusche entfernt werden, und bietet einen klaren und professionellen Klang."
+      },
+      {
+        "question": "Welche Preismodelle sind verfügbar?",
+        "answer": "Wir bieten ein flexibles Pay-as-you-go-Preismodell ohne versteckte Gebühren an. Sie bezahlen nur für die Audiodaten, die Sie verarbeiten."
+      },
+      {
+        "question": "Welcher Support ist verfügbar, wenn ich auf Probleme stoße?",
+        "answer": "Wir bieten umfangreiche Dokumentationen, Tutorials und Kundenservice, um Ihnen bei allen Herausforderungen, denen Sie begegnen, zu helfen."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Ihr Audio zu klären?",
+    "description": "Beginnen Sie noch heute mit der Transformation Ihrer Klangqualität mit kostenlosen Guthaben!",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Geräusch jetzt entfernen →"
+  },
+  "footer": {
+    "heading": "Transformieren Sie Ihr Audio mit Leichtigkeit!",
+    "description": "Erleben Sie jetzt die Klarheit von WaveSpeed AI ohne Verpflichtung. Laden Sie einfach Ihr Audio hoch.",
+    "ctaText": "Geräusch jetzt entfernen",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

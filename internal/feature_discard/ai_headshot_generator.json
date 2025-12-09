@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Create Stunning AI-Generated Headshots",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Generate Stunning AI Headshots",
+    "description": "Enter your prompt to create professional-quality headshots in seconds.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Example Headshot 1",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example AI-generated headshot"
+        },
+        {
+          "title": "Example Headshot 2",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Another example of AI-generated headshot"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Create Your Headshot",
+      "prompt": {
+        "heading": " Prompt",
+        "placeholder": "E.g., Generate a professional female headshot with a smile..."
+      },
+      "upload": {
+        "heading": " Select image or Input URL"
+      },
+      "processButton": "Generate Headshot Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Headshots Generated"
+      },
+      {
+        "title": "99.5%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "2.2s",
+        "description": "Average Generation Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Headshot Examples",
+    "description": "Witness the transformation from various inputs to polished AI-generated headshots.",
+    "items": [
+      {
+        "title": "Professional Appearance",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing an enhanced professional headshot",
+        "description": "Easily create a professional look for your online presence."
+      },
+      {
+        "title": "Diverse Styles",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing different styles of headshots",
+        "description": "Choose from various styles to match your personal brand."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI for Headshots?",
+    "description": "Our AI technology creates realistic and appealing headshots with minimal effort.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Instant Results",
+        "description": "Generate high-quality headshots in mere seconds—no more waiting."
+      },
+      {
+        "icon": "user-friends",
+        "title": "Simple Interface",
+        "description": "No design skills needed. Input your preferences, and let AI do the rest."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Privacy Protected",
+        "description": "All processes happen on your device without uploading personal data."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three quick steps to your perfect headshot",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Input Your Prompt",
+        "description": "Describe the headshot you need, specifying attributes like age, style, and expression."
+      },
+      {
+        "serial": "2",
+        "title": "AI Generation",
+        "description": "Our advanced AI creates your headshot based on the information provided, ensuring a professional finish."
+      },
+      {
+        "serial": "3",
+        "title": "Download Your Headshot",
+        "description": "Preview the generated headshot and download it in high resolution directly to your device."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless satisfied users who love their new AI-generated headshots",
+    "items": [
+      {
+        "name": "Emily Adams",
+        "stars": 5,
+        "comment": "I'm thrilled with my new headshot! It's perfect for my LinkedIn profile."
+      },
+      {
+        "name": "David Brown",
+        "stars": 5,
+        "comment": "This tool saved me so much time and hassle in getting a professional photo."
+      },
+      {
+        "name": "Lisa Carter",
+        "stars": 5,
+        "comment": "I was amazed at how realistic the headshot looks. It's just what I needed!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Find answers to common questions about the AI Headshot Generator",
+    "items": [
+      {
+        "title": "What styles of headshots can I generate?",
+        "description": "You can generate a wide variety of headshot styles, including corporate, casual, artistic, and more. Just specify your desired look in the prompt."
+      },
+      {
+        "title": "Is it free to use the headshot generator?",
+        "description": "Yes! Each user gets 30 free credits daily, allowing you to create multiple headshots. Additional credits can be earned through activities on our platform."
+      },
+      {
+        "title": "Can I use my generated headshots for professional purposes?",
+        "description": "Yes, headshots created with any subscription plan can be used commercially. Free-tier users may use them for personal purposes only."
+      },
+      {
+        "title": "How is my privacy protected?",
+        "description": "All headshots are generated locally in your browser, ensuring your images and data remain private and secure."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Create Your Perfect Headshot?",
+    "description": "Try the AI Headshot Generator today and elevate your image. No sign-up required.",
+    "ctaText": "Generate Headshot Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

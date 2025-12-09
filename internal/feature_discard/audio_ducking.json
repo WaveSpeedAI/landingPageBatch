@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Enhance Your Audio with Precision",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Elevate Your Audio Experience",
+    "description": "Effortlessly manage background sounds while ensuring clear and pristine voice recording with our audio ducking feature.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example audio before ducking"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example audio after ducking"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Manage Your Audio Effectively",
+      "prompt": {
+        "heading": "Prompt",
+        "placeholder": "E.g., Adjust background music to highlight dialogue."
+      },
+      "upload": {
+        "heading": "Select audio file or Input URL"
+      },
+      "processButton": "Enhance Audio Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Audio Files Processed"
+      },
+      {
+        "title": "99.9%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "1.2s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Witness how WaveSpeed AI improves audio clarity and balance through effective ducking techniques.",
+    "items": [
+      {
+        "title": "Voice Over Clarity",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing voice clarity after audio ducking",
+        "description": "Clearly hear your voice amidst background sounds."
+      },
+      {
+        "title": "Background Music Leveling",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing leveling of background music",
+        "description": "Maintain a perfect balance between vocals and music in your recordings."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI for Audio?",
+    "description": "Our cutting-edge technology ensures your audio sounds professional without the hassle.",
+    "items": [
+      {
+        "icon": "volume-up",
+        "title": "Dynamic Range Control",
+        "description": "Automatically adjust background levels when voices are detected, achieving optimal sound balance."
+      },
+      {
+        "icon": "microphone-alt",
+        "title": "User-Friendly Interface",
+        "description": "Simple controls make it easy for anyone to enhance their audio, no prior experience needed."
+      },
+      {
+        "icon": "lock",
+        "title": "Secure Processing",
+        "description": "All operations occur directly in your browser, ensuring your audio files remain confidential and never leave your device."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three straightforward steps to audio perfection",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Audio File",
+        "description": "Easily upload your audio by dragging, dropping, or browsing files. Supported formats include MP3, WAV, and AAC."
+      },
+      {
+        "serial": "2",
+        "title": "AI Enhancement",
+        "description": "The AI intelligently identifies voice segments and lowers background noise, enhancing overall clarity."
+      },
+      {
+        "serial": "3",
+        "title": "Download Enhanced Audio",
+        "description": "Listen to the improved version with our preview feature and download your polished audio file instantly."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless satisfied users who elevate their audio with WaveSpeed AI",
+    "items": [
+      {
+        "name": "Emily Roberts",
+        "stars": 5,
+        "comment": "The audio ducking feature transformed my podcast quality. Background music no longer overwhelms my voice!"
+      },
+      {
+        "name": "David Lee",
+        "stars": 5,
+        "comment": "As a musician, being able to balance vocals and instruments has never been easier. This tool is a must-have!"
+      },
+      {
+        "name": "Jessica Angle",
+        "stars": 5,
+        "comment": "I love the simplicity of this tool. It perfectly reduces background noise while prioritizing dialogue!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers about our audio ducking feature",
+    "items": [
+      {
+        "title": "What types of audio can be enhanced with ducking?",
+        "description": "Our audio ducking feature works effectively with music tracks, podcasts, voiceovers, and any sound recordings containing overlapping elements."
+      },
+      {
+        "title": "Is there a limit to how many files I can process?",
+        "description": "No! Process as many files as you need. Each user enjoys unlimited enhancements with our responsive system."
+      },
+      {
+        "title": "Can I use the enhanced audio for commercial projects?",
+        "description": "Yes! All users can utilize their processed audio for commercial or personal projects without restrictions."
+      },
+      {
+        "title": "How secure is my audio during the processing?",
+        "description": "Your files are solely processed within your browser, ensuring they remain confidential and are not stored or transmitted elsewhere."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Enhance Your Audio?",
+    "description": "Try WaveSpeed AI now and experience superior audio clarity. No sign-up required.",
+    "ctaText": "Enhance Audio Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

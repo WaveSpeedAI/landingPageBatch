@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Transform Images into Stunning Videos",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Transform Images into Videos",
+    "description": "Instantly bring your images to life by converting them into dynamic videos. It's fast, easy, and requires no expertise.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Video Preview",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example image converted into video"
+        },
+        {
+          "title": "Dynamic Scene",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Another example of an image turned into a video"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Convert Image to Video",
+      "prompt": {
+        "heading": " Prompt",
+        "placeholder": "E.g., Animate the sunset, create a slideshow from these images, add movement to this landscape..."
+      },
+      "upload": {
+        "heading": " Select image or Input URL"
+      },
+      "processButton": "Create Video Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Images Converted"
+      },
+      {
+        "title": "98%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "3s",
+        "description": "Average Conversion Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Creations",
+    "description": "Explore how WaveSpeed AI can turn your still images into captivating videos.",
+    "items": [
+      {
+        "title": "Animate Landscapes",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing landscape transformation into video",
+        "description": "Turn static landscapes into living scenes with movement and motion."
+      },
+      {
+        "title": "Create Slideshow Videos",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing slideshow video creation from images",
+        "description": "Easily compile images into a flowing slideshow video that tells a story."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Our innovative technology allows for seamless video creation from your images.",
+    "items": [
+      {
+        "icon": "film",
+        "title": "Rapid Video Creation",
+        "description": "Transform images into impressive videos in seconds with our cutting-edge AI."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "No complicated setups. Just upload your images and let the AI generate the video."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Secure Processing",
+        "description": "Your images never leave your device. We prioritize your privacy with in-browser processing."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three simple steps to create breathtaking videos from your images",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Images",
+        "description": "Drag and drop your images or browse for files. Supported formats include JPG, PNG, and WebP."
+      },
+      {
+        "serial": "2",
+        "title": "AI Animation",
+        "description": "Our intelligent AI analyzes and adds motion to your images, turning them into immersive videos."
+      },
+      {
+        "serial": "3",
+        "title": "Download Video",
+        "description": "Preview your video and easily download it in high resolution to share with others."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join thousands who have transformed their images into videos with WaveSpeed AI",
+    "items": [
+      {
+        "name": "Emily Carter",
+        "stars": 5,
+        "comment": "Using WaveSpeed to turn my travel photos into videos was a game-changer! It's so simple and the quality is fantastic."
+      },
+      {
+        "name": "Daniel Lee",
+        "stars": 5,
+        "comment": "As a professional storyteller, I love how quickly I can create compelling video content from still images."
+      },
+      {
+        "name": "Olivia Brown",
+        "stars": 5,
+        "comment": "The ability to create videos without technical skills is incredible. I finished projects in record time!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your queries about WaveSpeed AI for image-to-video conversion",
+    "items": [
+      {
+        "title": "What types of images can be used for video creation?",
+        "description": "WaveSpeed can convert a variety of images, including landscapes, portraits, and product photos, into videos with animated elements and effects."
+      },
+      {
+        "title": "Is the service free to use?",
+        "description": "Yes! Each user receives 30 free conversion credits daily, allowing extensive use. Additional credits can be earned through challenges or by subscribing for more features."
+      },
+      {
+        "title": "Can I use the videos for commercial purposes?",
+        "description": "Paid users can use their generated videos for commercial projects. Free-tier users may only use videos for personal use."
+      },
+      {
+        "title": "How does privacy work during the conversion?",
+        "description": "All processing happens directly in your browser, ensuring that your images are never uploaded or stored anywhere outside your device."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Bring Your Images to Life?",
+    "description": "Try WaveSpeed AI today and see your visuals transform. No sign-up needed.",
+    "ctaText": "Create Video Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

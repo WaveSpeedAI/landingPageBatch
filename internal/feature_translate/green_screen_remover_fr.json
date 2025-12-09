@@ -1,0 +1,219 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Supprimeur d'Arrière-Plan",
+  "meta": {
+    "description": "Supprimez facilement les arrière-plans de vos images avec le Supprimeur d'Arrière-Plan de WaveSpeed AI. Idéal pour les vidéos professionnelles, les images de produits et les publications sur les réseaux sociaux. Transformez votre contenu visuel en quelques instants !",
+    "keywords": "supprimeur d'arrière-plan, outil de suppression d'arrière-plan, écran vert IA, édition vidéo IA, édition d'image de produit, contenu des réseaux sociaux, outils vidéo professionnels, amélioration d'image pour e-commerce, suppression d'arrière-plan rapide"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Suppression d'Arrière-Plan Transparente",
+    "subHeading": "Transformez Vos Images Instantanément",
+    "description": "Éliminez facilement les arrière-plans de vos photos pour un aspect plus propre et professionnel. Parfait pour les marketeurs, les créateurs de contenu et les magasins d'e-commerce. Commencez aujourd'hui !",
+    "tryText": "Essayez-le Maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution Supprimeur d'Arrière-Plan WaveSpeed AI",
+    "left": {
+      "heading": "Défis Traditionnels",
+      "items": [
+        "La suppression manuelle est chronophage et laborieuse",
+        "Le logiciel d'édition nécessite des compétences techniques",
+        "Une précision limitée entraîne des résultats inégaux",
+        "Coûts élevés pour les services professionnels",
+        "Des flux de travail compliqués ralentissent la production"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed AI",
+      "items": [
+        "Supprimez instantanément les arrière-plans en quelques secondes",
+        "Aucune compétence d'édition requise, il suffit de télécharger",
+        "Obtenez des résultats précis et cohérents",
+        "Rentable avec un tarif à l'utilisation",
+        "Processus rationalisé améliorant la productivité"
+      ],
+      "tryText": "Essayer"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment Ça Marche",
+    "description": "Supprimez les arrière-plans en 3 étapes simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Télécharger l'Image",
+        "text": "Téléchargez votre photo avec un arrière-plan vert",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Sélectionner l'Arrière-Plan",
+        "text": "Choisissez un nouvel arrière-plan ou laissez-le transparent",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Télécharger l'Image",
+        "text": "Recevez votre image éditée en haute résolution",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "Supprimer l'Arrière-Plan Maintenant →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilités Infinies",
+    "description": "Parfait pour tout contenu visuel",
+    "items": [
+      "Images de produits pour les magasins d'e-commerce",
+      "Portraits professionnels et profils",
+      "Graphiques et publications sur les réseaux sociaux",
+      "Miniatures de vidéos YouTube",
+      "Matériel promotionnel et flyers",
+      "Visuels pour présentations",
+      "Marketing d'événements",
+      "Bannières de site web"
+    ]
+  },
+  "successStories": {
+    "heading": "Véritables Histoires de Réussite",
+    "description": "Découvrez comment les utilisateurs révolutionnent leurs images avec l'IA",
+    "items": [
+      {
+        "tag": "E-commerce",
+        "heading": "Listes de Produits Améliorées",
+        "before": {
+          "label": "Avant",
+          "text": "Visuels incohérents"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Branding cohérent"
+        },
+        "value": "80%",
+        "key": "Cohérence Visuelle",
+        "description": "Nous avons amélioré nos images de produits sur 200 listes en moins d'une journée, entraînant une augmentation de 50 % des conversions."
+      },
+      {
+        "tag": "Création de Contenu",
+        "heading": "Campagne Créative sur les Réseaux Sociaux",
+        "before": {
+          "label": "Avant",
+          "text": "Édits chronophages"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Suppression rapide et facile"
+        },
+        "value": "95%",
+        "key": "Temps Économisé",
+        "description": "Utilisé le Supprimeur d'Arrière-Plan pour générer du contenu de qualité pour nos campagnes en un temps record, maintenant notre audience engagée."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison des Modèles IA",
+    "description": "Choisissez le bon outil pour la suppression d'arrière-plan",
+    "items": [
+      "Modèle Standard : Traitement rapide, adapté à la plupart des images, conserve les détails avec précision",
+      "Modèle Avancé : Haute précision pour les arrière-plans complexes, douceur et clarté améliorées",
+      "Interface conviviale avec fonctionnalité de glisser-déposer",
+      "Intégration transparente avec les logiciels de design populaires",
+      "Compatible avec divers formats d'image",
+      "Droits d'utilisation commerciale inclus"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils IA Connexes",
+    "description": "Explorez des outils IA plus puissants pour l'amélioration visuelle"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quels types d'images fonctionnent le mieux pour la suppression d'arrière-plan ?",
+        "answer": "Les images avec des arrière-plans verts unis donnent les meilleurs résultats, mais notre outil peut également gérer des arrière-plans à motifs ou texturés. Pour des performances optimales, assurez-vous que le sujet est bien éclairé et clairement défini par rapport à l'arrière-plan."
+      },
+      {
+        "question": "Puis-je garder ou remplacer l'arrière-plan ?",
+        "answer": "Absolument ! Vous pouvez choisir de supprimer complètement l'arrière-plan ou de sélectionner un nouvel arrière-plan de votre choix pour améliorer votre contenu visuel. La flexibilité permet d'être créatif dans vos présentations."
+      },
+      {
+        "question": "Y a-t-il une limite de taille ou de format d'image ?",
+        "answer": "Nous supportons divers formats, y compris JPG, PNG et WebP. Bien qu'il n'y ait pas de limite stricte sur la taille des images, nous recommandons de télécharger des images d'au moins 512x512 pixels pour de meilleurs résultats."
+      },
+      {
+        "question": "Comment assurez-vous la précision dans la suppression d'arrière-plan ?",
+        "answer": "Notre IA utilise des algorithmes avancés pour analyser les images, garantissant que les détails complexes autour du sujet sont préservés tout en supprimant proprement l'arrière-plan. Cela donne des images au look professionnel avec un minimum d'ajustements manuels nécessaires."
+      },
+      {
+        "question": "Puis-je utiliser les arrière-plans supprimés commercialement ?",
+        "answer": "Oui ! Toutes les images traitées par notre plateforme comprennent des droits d'utilisation commerciale. N'hésitez pas à les utiliser à des fins commerciales sans frais supplémentaires de licence."
+      },
+      {
+        "question": "Combien de temps cela prend-il pour obtenir mes images ?",
+        "answer": "La suppression d'arrière-plan prend généralement juste quelques secondes par image, vous permettant de créer du contenu rapidement sans longs délais d'attente."
+      },
+      {
+        "question": "Que faire si j'ai besoin de modifier davantage les images ?",
+        "answer": "Vous pouvez facilement télécharger les images traitées et les utiliser dans votre logiciel de design graphique préféré pour des modifications supplémentaires, garantissant que vous avez un contrôle total sur votre contenu."
+      },
+      {
+        "question": "Quel support est disponible si je rencontre des problèmes ?",
+        "answer": "Nous offrons un support complet, y compris un centre d'aide robuste, des tutoriels vidéo et une assistance par chat en direct. Notre équipe est là pour vous aider avec toutes les questions ou défis que vous pourriez rencontrer."
+      },
+      {
+        "question": "Dois-je m'inscrire pour utiliser le service ?",
+        "answer": "Vous pouvez essayer le Supprimeur d'Arrière-Plan sans vous inscrire ! Cependant, créer un compte vous permet d'accéder à des fonctionnalités et des avantages supplémentaires."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Supprimer les Arrière-Plans Sans Effort ?",
+    "description": "Commencez avec des crédits gratuits et découvrez la facilité de l'édition d'images professionnelle.",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Essayez-le Maintenant →"
+  },
+  "footer": {
+    "heading": "Transformez Vos Visuels Aujourd'hui !",
+    "description": "Utilisez WaveSpeed AI et voyez comment la suppression d'arrière-plan simple peut élever votre contenu. Aucune inscription requise.",
+    "ctaText": "Supprimer les Arrière-Plans Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

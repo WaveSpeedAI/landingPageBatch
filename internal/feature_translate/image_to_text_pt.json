@@ -1,0 +1,230 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Conversor de Imagem para Texto com IA",
+  "meta": {
+    "description": "Converta suas imagens em texto de maneira fácil com o WaveSpeed AI. Perfeito para criação de conteúdo, acessibilidade e digitalização de documentos. Aumente sua produtividade agora!",
+    "keywords": "IA imagem para texto, tecnologia OCR, extração de texto, digitalização de documentos, ferramentas de acessibilidade, IA de criação de conteúdo, gerador de texto IA, WaveSpeed AI, soluções de e-commerce, automação de fluxo de trabalho, análise de imagem"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de IA",
+        "items": [
+          [
+            "Ferramentas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Demonstração",
+        "items": [
+          [
+            "Demonstração",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Imagem para Texto",
+    "subHeading": "Converta Imagens em Texto Editável Instantaneamente",
+    "description": "Desbloqueie o potencial de suas imagens com nossa tecnologia de IA de ponta. Transforme documentos escaneados, fotos e mais em texto em segundos. Experimente hoje e agilizze seu fluxo de trabalho!",
+    "tryText": "Converter Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução de Imagem para Texto WaveSpeed AI",
+    "left": {
+      "heading": "Desafios Tradicionais",
+      "items": [
+        "A transcrição manual é lenta e trabalhosa",
+        "Alta chance de erros ao digitar ou escanear",
+        "Requer software especializado para converter imagens",
+        "Acesso limitado à informação em formatos de imagem",
+        "Inacessível para indivíduos com deficiência"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeed AI",
+      "items": [
+        "Converta instantaneamente imagens em texto com alta precisão",
+        "Nenhuma entrada manual necessária - Basta fazer o upload das imagens",
+        "Resultados rápidos usando tecnologia OCR avançada",
+        "Acessível a todos, aumentando a inclusão",
+        "Soluções econômicas para extração de texto"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "Transforme imagens em texto em 4 etapas simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Enviar Imagem",
+        "text": "Escolha seu arquivo de imagem para conversão",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Selecionar Idioma",
+        "text": "Especifique o idioma do texto para melhor precisão",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Revisar Saída de Texto",
+        "text": "Verifique e edite o texto extraído conforme necessário",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Baixar Arquivo de Texto",
+        "text": "Obtenha seu texto convertido em um formato simples",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Converta Sua Primeira Imagem →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilidades Sem Fim",
+    "description": "Perfeito para qualquer aplicação",
+    "items": [
+      "Digitalização de documentos impressos",
+      "Extração de informações de recibos",
+      "Transcrição de anotações manuscritas",
+      "Melhorando a acessibilidade para deficientes visuais",
+      "Criando arquivos pesquisáveis de imagens",
+      "Facilitando tarefas de tradução de idiomas",
+      "Agilizando processos de entrada de dados",
+      "Automatizando fluxos de trabalho de criação de conteúdo"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Descubra como os usuários estão simplificando suas tarefas com a IA",
+    "items": [
+      {
+        "tag": "Educação",
+        "heading": "Anotações Universitárias",
+        "before": {
+          "label": "Antes",
+          "text": "Entrada manual demorada"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Notas digitais rápidas"
+        },
+        "value": "90%",
+        "key": "Tempo Economizado",
+        "description": "Notas de aula transcritas de imagens em minutos; os alunos relatam maior produtividade."
+      },
+      {
+        "tag": "E-commerce",
+        "heading": "Transformação do Catálogo de Produtos",
+        "before": {
+          "label": "Antes",
+          "text": "Produtos listados manualmente"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Extração de texto automatizada"
+        },
+        "value": "85%",
+        "key": "Aumento de Eficiência",
+        "description": "Todo o texto da descrição dos produtos convertido de imagens em tempo recorde, melhorando a gestão de inventário."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Modelos de IA",
+    "description": "Selecione o modelo certo para resultados ideais",
+    "items": [
+      "OCR Padrão: Extração precisa de texto de imagens claras",
+      "OCR IA Avançada: Melhor desempenho com layouts complexos",
+      "Suporte a múltiplos idiomas para aplicações diversas",
+      "Formatos de saída personalizáveis com base nas necessidades do usuário",
+      "Processamento rápido com tempo de espera mínimo",
+      "Alta segurança para conteúdo sensível"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Explore mais soluções de IA transformadoras para suas necessidades"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo o que você precisa saber",
+    "items": [
+      {
+        "question": "Quais tipos de imagens posso converter?",
+        "answer": "Você pode converter uma ampla variedade de imagens, incluindo documentos escaneados, fotos e capturas de tela. Certifique-se de que as imagens sejam claras e bem iluminadas para melhores resultados."
+      },
+      {
+        "question": "Meus dados estão seguros durante o processo de conversão?",
+        "answer": "Sim, todas as imagens e dados enviados para nossa plataforma são criptografados e protegidos para garantir total privacidade e segurança."
+      },
+      {
+        "question": "Posso editar o texto extraído após a conversão?",
+        "answer": "Absolutamente! Uma vez que o texto é extraído, você pode revisar e editá-lo conforme necessário antes de baixar."
+      },
+      {
+        "question": "Quais idiomas são suportados pela conversão de imagem para texto?",
+        "answer": "Apoiamos múltiplos idiomas. Basta selecionar o idioma desejado durante o processo de upload para precisão ideal."
+      },
+      {
+        "question": "Qual é a precisão da extração de texto?",
+        "answer": "Nossa tecnologia OCR avançada alcança alta precisão, especialmente com imagens claras. Imagens complexas podem variar nos resultados, e a revisão é recomendada."
+      },
+      {
+        "question": "Posso usar este serviço para fins comerciais?",
+        "answer": "Sim, você pode usar o texto extraído para qualquer finalidade comercial sem taxas adicionais de licenciamento."
+      },
+      {
+        "question": "Há um limite para o número de imagens que posso converter?",
+        "answer": "Atualmente, não há limite para o número de imagens que você pode converter. Envio em massa é incentivado para eficiência."
+      },
+      {
+        "question": "Quais formatos os arquivos de texto de saída suportam?",
+        "answer": "O texto extraído pode ser salvo em vários formatos, incluindo TXT, PDF e DOCX, dependendo de sua preferência."
+      },
+      {
+        "question": "Como posso obter suporte técnico se enfrentar problemas?",
+        "answer": "Oferecemos suporte extensivo por meio de documentação, tutoriais e uma equipe de suporte dedicada disponível por e-mail e chat."
+      },
+      {
+        "question": "Eu preciso me inscrever para uma conta para usar este recurso?",
+        "answer": "Não é necessário se inscrever para converter imagens. Basta fazer o upload e começar a converter imediatamente!"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Converter Suas Imagens em Texto?",
+    "description": "Comece hoje com nossa IA intuitiva e veja os resultados imediatamente!",
+    "contactUsText": "Fale Conosco",
+    "tryText": "Converter Agora →"
+  },
+  "footer": {
+    "heading": "Pronto para Desbloquear Seu Texto?",
+    "description": "Experimente o WaveSpeed AI hoje e vivencie a conversão sem esforço pessoalmente. Sem necessidade de inscrição.",
+    "ctaText": "Converter Imagens Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

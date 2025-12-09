@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Achieve Perfect Alignment in Your Photos Instantly",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Correct Perspective in Your Photos",
+    "description": "Enter your prompt to automatically adjust the alignment and perspective of your image for stunning results.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo before perspective correction"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example photo after perspective correction"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Correct Perspective in Your Photos",
+      "prompt": {
+        "heading": "Prompt",
+        "placeholder": "E.g., Straighten the building, fix the tilt of the image, adjust horizon level..."
+      },
+      "upload": {
+        "heading": "Select image or Input URL"
+      },
+      "processButton": "Correct Perspective Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "10M+",
+        "description": "Images Processed"
+      },
+      {
+        "title": "99.8%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "2.5s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Discover the transformative power of AI Perspective Correction and how it can enhance the alignment of your photos.",
+    "items": [
+      {
+        "title": "Straighten Buildings",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing building straightened in a photo",
+        "description": "Achieve perfect verticals and horizontals in architectural photography."
+      },
+      {
+        "title": "Fix Image Tilt",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing image tilt fixed",
+        "description": "Restore balance to your landscapes and portraits for a more pleasing composition."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Our cutting-edge technology delivers flawless perspective adjustments effortlessly.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Instant Adjustments",
+        "description": "Experience immediate corrections that bring your photos back to professional standards."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "No expertise needed. Just upload your image and let the AI handle the perspective corrections."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Privacy Assured",
+        "description": "All adjustments are made securely in your browser, ensuring your images remain private."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three simple steps to perfect alignment",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Image",
+        "description": "Drag and drop your image or browse through your files. Supported formats include JPG, PNG, and WebP."
+      },
+      {
+        "serial": "2",
+        "title": "AI Processing",
+        "description": "Our AI intelligently analyzes and corrects perspective issues, enhancing the overall composition."
+      },
+      {
+        "serial": "3",
+        "title": "Download Result",
+        "description": "View the improved image using our comparison slider and download your perfectly aligned photo in high resolution."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless users who have aligned their photos perfectly with WaveSpeed AI",
+    "items": [
+      {
+        "name": "Emma Roberts",
+        "stars": 5,
+        "comment": "The perspective correction feature completely transformed my architectural shots. No more slanted lines!"
+      },
+      {
+        "name": "David Lee",
+        "stars": 5,
+        "comment": "As a travel photographer, this tool is a must-have. I can fix tilt issues faster than ever!"
+      },
+      {
+        "name": "Chloe Kim",
+        "stars": 5,
+        "comment": "I'm impressed by the ease of use. My portraits now look so much more professional!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your questions about AI Perspective Correction",
+    "items": [
+      {
+        "title": "What types of perspective issues can WaveSpeed correct?",
+        "description": "The AI can adjust for tilt, straighten lines, and correct lens distortion, making it ideal for architecture, landscapes, and product photography."
+      },
+      {
+        "title": "Is WaveSpeed completely free to use?",
+        "description": "Absolutely! Each user gets 30 free credits daily, enabling you to enhance numerous images. Additional credits can be earned through challenges and surveys."
+      },
+      {
+        "title": "Can I use my edited images commercially?",
+        "description": "Yes, paid subscribers can use edited content for commercial purposes. Free users can utilize corrections for personal projects."
+      },
+      {
+        "title": "How does the privacy protection work?",
+        "description": "Processing occurs locally in your browser with advanced technology, ensuring that your original images are never uploaded or stored, guaranteeing complete security."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Perfect Your Photos?",
+    "description": "Try WaveSpeed AI now and see the stunning results for yourself. No sign-up necessary.",
+    "ctaText": "Correct Perspective Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

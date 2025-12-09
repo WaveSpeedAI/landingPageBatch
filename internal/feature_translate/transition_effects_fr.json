@@ -1,0 +1,231 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Générateur d'Images à Vidéos IA",
+  "meta": {
+    "description": "Améliorez vos vidéos avec des effets de transition époustouflants alimentés par une technologie IA de pointe. Augmentez l'engagement et captivez votre audience sans effort. Parfait pour tous types de contenu vidéo. Découvrez des transitions sans couture dès maintenant !",
+    "keywords": "effets de transition, IA d'amélioration vidéo, transitions fluides, outil de production vidéo, outils vidéo pour e-commerce, édition vidéo professionnelle, narration visuelle, contenu vidéo engageant, WaveSpeed AI, transitions vidéo pour réseaux sociaux, effets cinématographiques"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Transformez Vos Vidéos",
+    "subHeading": "Effets de Transition Fluides et Engageants",
+    "description": "Elevez votre contenu vidéo avec des effets de transition époustouflants qui maintiennent l'engagement des spectateurs et améliorent la narration. Découvrez la magie des transitions sans effort alimentées par une technologie IA sophistiquée. Parfait pour le e-commerce, le marketing, et les réseaux sociaux.",
+    "tryText": "Essayez-le maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution d'Effets de Transition WaveSpeed AI",
+    "left": {
+      "heading": "Défis de Montage Vidéo Traditionnels",
+      "items": [
+        "Logiciel de montage complexe requis pour les transitions",
+        "Ajustements manuels longs et fastidieux",
+        "Options de conception et de créativité limitées",
+        "Coûts élevés pour engager des professionnels",
+        "Qualité de sortie incohérente"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed AI",
+      "items": [
+        "Appliquez instantanément des transitions époustouflantes avec l'IA",
+        "Pas de compétences techniques requises - Il suffit de télécharger des séquences",
+        "Effets personnalisables pour correspondre à votre style",
+        "Variations illimitées pour la créativité",
+        "Tarification abordable - Commencez maintenant"
+      ],
+      "tryText": "Essayez"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment Ça Marne",
+    "description": "Améliorez vos vidéos avec des effets de transition en seulement 4 étapes",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Téléchargez la Vidéo",
+        "text": "Téléchargez vos séquences brutes ou clips nécessitant des transitions",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Choisissez le Style de Transition",
+        "text": "Sélectionnez parmi une variété d'effets de transition prédéfinis",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Ajustez les Paramètres",
+        "text": "Personnalisez la durée et le style de vos transitions selon vos besoins",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Téléchargez la Vidéo Améliorée",
+        "text": "Obtenez votre vidéo polie avec des transitions fluides en quelques minutes",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Créez Votre Vidéo Époustouflante Maintenant →"
+  },
+  "endlessPossibilities": {
+    "heading": "Opportunités Créatives Infinies",
+    "description": "Parfait pour divers projets vidéo",
+    "items": [
+      "Tutoriels YouTube avec des transitions fluides",
+      "Vitrines de produits pour le e-commerce",
+      "Contenu pour réseaux sociaux pour Instagram et TikTok",
+      "Promotions d'événements qui se démarquent",
+      "Vidéos éducatives qui engagent et informent",
+      "Visites immobilières avec une touche professionnelle",
+      "Présentations d'entreprise avec des transitions soignées",
+      "Vlogs de voyage qui captivent"
+    ]
+  },
+  "successStories": {
+    "heading": "Réelles Histoires de Succès",
+    "description": "Découvrez comment les créateurs améliorent leurs vidéos avec l'IA",
+    "items": [
+      {
+        "tag": "Vidéos E-commerce",
+        "heading": "Vidéo de Lancement de Produit",
+        "before": {
+          "label": "Avant",
+          "text": "Coupures statiques entre les scènes"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Transitions fluides tout au long"
+        },
+        "value": "80%",
+        "key": "Augmentation de l'Engagement",
+        "description": "Grâce aux effets de transition, nos vidéos produits ont connu une augmentation de 80% de l'engagement des spectateurs, les maintenant accrochés plus longtemps."
+      },
+      {
+        "tag": "Promotions d'Événements",
+        "heading": "Moments Forts de Vidéo de Mariage",
+        "before": {
+          "label": "Avant",
+          "text": "Coupures brusques entre les moments"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Superbes transitions passant d'une scène à l'autre"
+        },
+        "value": "75%",
+        "key": "Retours Positifs",
+        "description": "Les transitions sans couture ont rehaussé notre bande-annonce de mariage, entraînant 75% de retours positifs des spectateurs."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison des Effets de Transition",
+    "description": "Choisissez les bons effets de transition pour votre projet",
+    "items": [
+      "Fondu : Transitions fluides, simples mais élégantes",
+      "Zoom : Dynamique et engageant, parfait pour mettre l'accent",
+      "Glissement : Crée mouvement et flux entre les clips",
+      "Fondu en Couleur : Un style d'intro/outro unique",
+      "Couper : Transitions rapides et directes pour un contenu au rythme rapide",
+      "Ripple : Ajoute une touche créative aux transitions standard",
+      "Transitions Personnalisées : Conçues selon votre vision unique"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils IA Connexes",
+    "description": "Découvrez d'autres outils IA puissants pour le montage vidéo"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quels types de transitions sont disponibles ?",
+        "answer": "Nous proposons une variété de transitions, y compris des fondus, des glissements, des zooms et des effets personnalisés pour s'adapter à tout style vidéo."
+      },
+      {
+        "question": "Puis-je personnaliser la durée des transitions ?",
+        "answer": "Oui ! Vous pouvez facilement ajuster la durée de chaque transition pour s'adapter au rythme de votre vidéo."
+      },
+      {
+        "question": "Quels formats vidéo puis-je télécharger ?",
+        "answer": "Notre plateforme prend en charge des formats vidéo populaires comme MP4, MOV et AVI pour une intégration sans couture."
+      },
+      {
+        "question": "Y a-t-il une limite au nombre de vidéos que je peux améliorer ?",
+        "answer": "Il n'y a pas de limites ! Vous pouvez améliorer autant de vidéos que vous le souhaitez sans restrictions."
+      },
+      {
+        "question": "Quel est le délai de traitement des vidéos ?",
+        "answer": "En général, l'amélioration vidéo est rapide, les transitions étant appliquées en quelques minutes."
+      },
+      {
+        "question": "Ai-je besoin d'une expérience préalable en montage vidéo ?",
+        "answer": "Aucune expérience préalable n'est requise. Notre outil est conçu pour les utilisateurs de tous niveaux de compétence."
+      },
+      {
+        "question": "Y a-t-il des droits commerciaux sur les vidéos améliorées ?",
+        "answer": "Absolument ! Vous possédez tous les droits sur vos vidéos améliorées et pouvez les utiliser à des fins commerciales."
+      },
+      {
+        "question": "Quelles ressources de support sont disponibles ?",
+        "answer": "Nous fournissons un support complet, y compris des tutoriels, des FAQ et une assistance directe pour tout problème."
+      },
+      {
+        "question": "Puis-je prévisualiser les transitions avant de finaliser ma vidéo ?",
+        "answer": "Oui ! Vous pouvez prévisualiser les transitions en temps réel avant de télécharger votre vidéo finale."
+      },
+      {
+        "question": "Quels plans tarifaires sont disponibles ?",
+        "answer": "Nous proposons un modèle flexible de paiement à l'utilisation, où vous ne payez que pour les transitions que vous utilisez."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Améliorer Vos Vidéos ?",
+    "description": "Commencez avec des crédits gratuits - Découvrez des transitions fluides aujourd'hui",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Essayez-le maintenant →"
+  },
+  "footer": {
+    "heading": "Transformez Votre Expérience de Montage Vidéo",
+    "description": "Essayez WaveSpeed AI maintenant et voyez par vous-même l'impact des transitions époustouflantes. Aucune inscription requise.",
+    "ctaText": "Découvrez les Effets de Transition Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Fonctionnalité de Synchronisation Labiale IA",
+  "meta": {
+    "description": "Améliorez le contenu vidéo avec une synchronisation labiale réaliste grâce à l'IA. Parfait pour les créateurs, les équipes marketing et les éducateurs. Augmentez l'engagement et l'audience sans effort !",
+    "keywords": "synchronisation labiale IA, amélioration vidéo IA, synchronisation vocale, outils pour créateurs de contenu, fonctionnalités vidéo marketing, synchronisation labiale réaliste, outil vidéo e-learning, amélioration vidéo YouTube, outil de synchronisation TikTok, outils de production vidéo professionnels"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Synchronisation Labiale IA",
+    "subHeading": "Donnez vie à vos personnages avec une synchronisation labiale réaliste",
+    "description": "Transformez tout enregistrement vocal en mouvements labiaux parfaitement synchronisés pour vos vidéos. Engagez les spectateurs comme jamais auparavant. Découvrez la magie de la synchronisation IA !",
+    "tryText": "Essayez-le maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution de Synchronisation Labiale IA WaveSpeed",
+    "left": {
+      "heading": "Défis de Synchronisation Labiale Traditionnels",
+      "items": [
+        "Processus de synchronisation manuels laborieux",
+        "Nécessite des compétences avancées en montage vidéo",
+        "Configuration chronophage pour chaque vidéo",
+        "Options de langue et d'accent limitées",
+        "Coûts élevés pour les studios professionnels"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed IA",
+      "items": [
+        "Génération instantanée de la synchronisation labiale à partir de pistes audio",
+        "Aucune compétence en montage nécessaire - Il suffit de télécharger l'audio",
+        "Intégration fluide avec tout contenu vidéo",
+        "Prend en charge plusieurs langues et accents sans effort",
+        "Solution économique avec un modèle de paiement à l'utilisation"
+      ],
+      "tryText": "Essayez"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment ça marche",
+    "description": "Synchronisation de l'audio avec la vidéo en trois étapes faciles",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Télécharger la vidéo",
+        "text": "Choisissez la vidéo où vous souhaitez ajouter la synchronisation labiale",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Ajouter une piste audio",
+        "text": "Téléchargez le doublage ou le fichier audio que vous souhaitez synchroniser",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Générer la synchronisation labiale",
+        "text": "Laissez notre IA synchroniser avec précision les mouvements labiaux en quelques instants",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "Créez votre première vidéo de synchronisation labiale →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilités Illimitées",
+    "description": "Idéal pour diverses applications et industries",
+    "items": [
+      "Création de contenu YouTube avec un engagement amélioré",
+      "Vidéos e-learning avec une instruction synchronisée",
+      "Publicités marketing mettant en avant des narrations basées sur des personnages",
+      "Vidéos de divertissement pour les jeux et les animations",
+      "Vidéos de formation d'entreprise avec une communication efficace",
+      "Contenu sur les réseaux sociaux pour captiver les abonnés",
+      "Doublage pour un public international sans accroc",
+      "Interactions de personnages virtuels lors de diffusions en direct"
+    ]
+  },
+  "successStories": {
+    "heading": "Véritables Histoires de Succès",
+    "description": "Découvrez comment la fonctionnalité de synchronisation labiale IA transforme la production vidéo",
+    "items": [
+      {
+        "tag": "Développement de Jeux Vidéo",
+        "heading": "Intégration de la Voix des Personnages de Jeu",
+        "before": {
+          "label": "Avant",
+          "text": "La synchronisation manuelle prenait des semaines"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Synchronisation IA instantanée"
+        },
+        "value": "90%",
+        "key": "Réduction du Temps",
+        "description": "Nous avons rationalisé nos vidéos de dialogues de personnages en utilisant la synchronisation labiale IA, réduisant le temps de production de manière drastique et améliorant l'immersion des spectateurs."
+      },
+      {
+        "tag": "Éducation en Ligne",
+        "heading": "Plateforme e-Learning",
+        "before": {
+          "label": "Avant",
+          "text": "Synchronisation audio confuse"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Synchronisation parfaite"
+        },
+        "value": "95%",
+        "key": "Engagement Utilisateur Amélioré",
+        "description": "Les étudiants trouvent nos cours beaucoup plus engageants avec des vidéos synchronisées, ce qui entraîne un taux de complétion plus élevé."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison de Modèles IA",
+    "description": "Choisissez la qualité de synchronisation adaptée à votre projet",
+    "items": [
+      "Synchronisation Standard : Synchro labiale rapide et basique pour des projets rapides",
+      "Synchronisation Premium : Synchronisation labiale haute fidélité avec des mouvements et expressions nuancés",
+      "Prise en charge de plusieurs langues pour des publics divers",
+      "Temps de traitement efficaces pour une création de contenu rapide",
+      "Droits d'utilisation commerciale fournis avec toutes les sorties de synchronisation"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils IA Connexes",
+    "description": "Découvrez des fonctionnalités IA plus puissantes pour la production vidéo"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quelle est la précision de la synchronisation labiale ?",
+        "answer": "Notre technologie de synchronisation labiale IA s'adapte à divers modèles de parole, assurant que les mouvements labiaux correspondent étroitement à l'audio pour un résultat réaliste. La précision est améliorée grâce à des algorithmes d'apprentissage automatique qui analysent la phonétique."
+      },
+      {
+        "question": "Puis-je personnaliser la synchronisation labiale pour différents personnages ?",
+        "answer": "Oui ! Vous pouvez personnaliser les expressions et les mouvements labiaux pour différents personnages, permettant des présentations et des représentations uniques adaptées au style et au ton de votre contenu."
+      },
+      {
+        "question": "Quels types de fichiers audio sont pris en charge ?",
+        "answer": "Nous prenons en charge une variété de formats audio y compris MP3, WAV et AAC. Assurez-vous que votre audio est clair pour obtenir les meilleurs résultats de synchronisation labiale."
+      },
+      {
+        "question": "Y a-t-il une limite à la durée de la vidéo que je peux synchroniser ?",
+        "answer": "Il n'y a pas de limite stricte à la durée de la vidéo ; cependant, les vidéos plus longues peuvent prendre un peu plus de temps à traiter. Une synchronisation efficace est recommandée pour une performance optimale."
+      },
+      {
+        "question": "En quoi cela diffère-t-il du doublage vidéo traditionnel ?",
+        "answer": "L'automatisation de la synchronisation labiale IA offre des résultats plus rapides sans nécessiter un travail manuel intensif pour les mouvements labiaux. Notre solution crée une apparence naturelle de la parole en synchronisation avec l'audio original."
+      },
+      {
+        "question": "Quels sont les droits commerciaux associés aux vidéos de synchronisation labiale ?",
+        "answer": "Toutes les vidéos de synchronisation labiale produites à l'aide de notre outil IA sont accompagnées de droits commerciaux complets, ce qui signifie que vous pouvez les utiliser sur diverses plateformes pour le marketing ou la distribution de contenu."
+      },
+      {
+        "question": "Puis-je effectuer des ajustements après la génération de la synchronisation labiale ?",
+        "answer": "Bien que la synchronisation initiale soit générée automatiquement, vous pouvez apporter de légers ajustements pour améliorer les expressions des personnages, en vous assurant qu'elles correspondent parfaitement à votre vision."
+      },
+      {
+        "question": "Sur quelles plateformes puis-je utiliser cette technologie ?",
+        "answer": "Notre synchronisation labiale IA peut être intégrée dans divers logiciels et plateformes de montage vidéo, permettant une large gamme d'applications dans la création de contenu."
+      },
+      {
+        "question": "Y a-t-il un support technique disponible si je rencontre des problèmes ?",
+        "answer": "Absolument ! Notre équipe est disponible par email et par chat en direct, avec une documentation exhaustive pour vous guider à travers les défis que vous pourriez rencontrer."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Améliorer Votre Vidéo avec la Synchronisation Labiale IA ?",
+    "description": "Commencez aujourd'hui avec des crédits gratuits - Voyez la transformation en action !",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Essayez-le maintenant →"
+  },
+  "footer": {
+    "heading": "Prêt à Transformer Vos Vidéos ?",
+    "description": "Essayez WaveSpeed IA maintenant et libérez tout le potentiel de votre contenu vidéo. Aucune inscription requise.",
+    "ctaText": "Commencez maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

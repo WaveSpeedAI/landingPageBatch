@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Generate Stunning Fractals Instantly",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Create Mesmerizing Fractals",
+    "description": "Enter your parameters to instantly generate intricate fractal designs that captivate the eye.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Fractal Design 1",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example fractal design"
+        },
+        {
+          "title": "Fractal Design 2",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Another example of fractal design"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Generate Your Fractal",
+      "prompt": {
+        "heading": " Parameters",
+        "placeholder": "E.g., Set iterations to 500, choose color palette, adjust symmetry..."
+      },
+      "upload": {
+        "heading": " Select options"
+      },
+      "processButton": "Generate Fractal Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Fractals Generated"
+      },
+      {
+        "title": "99.9%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "1.5s",
+        "description": "Average Generation Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Stunning Fractal Examples",
+    "description": "Witness the limitless creativity of our fractal generator by exploring a range of beautiful designs.",
+    "items": [
+      {
+        "title": "Complex Mandelbrot Set",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example of a complex Mandelbrot set fractal",
+        "description": "Experience the depth and detail of intricate fractal patterns"
+      },
+      {
+        "title": "Colorful Julia Set",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example of a colorful Julia set fractal",
+        "description": "Explore vibrant colors and mesmerizing shapes created effortlessly"
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Our innovative AI technology offers unparalleled fractal generation capabilities.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Instant Results",
+        "description": "Generate stunning fractals in mere seconds with our advanced algorithms."
+      },
+      {
+        "icon": "paint-brush",
+        "title": "Unlimited Creativity",
+        "description": "Customize fractals to your liking with easy-to-use parameters and settings."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Secure Processing",
+        "description": "All fractal generation occurs in your browser, ensuring your input remains private."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three quick steps to create beautiful fractals",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Set Parameters",
+        "description": "Adjust the settings for your fractal, including iterations, colors, and symmetry."
+      },
+      {
+        "serial": "2",
+        "title": "AI Generation",
+        "description": "Our intelligent AI calculates and generates intricate fractals based on your input."
+      },
+      {
+        "serial": "3",
+        "title": "Download Your Art",
+        "description": "Preview your fractal and download it in high resolution, ready for printing or sharing."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless users who are amazed by their fractal creations",
+    "items": [
+      {
+        "name": "Emily Carter",
+        "stars": 5,
+        "comment": "I can't believe how easy it is to create stunning fractals! The process is fast and the results are breathtaking."
+      },
+      {
+        "name": "Daniel Lee",
+        "stars": 5,
+        "comment": "This tool has transformed my digital art projects. The fractals are mesmerizing and incredibly intricate."
+      },
+      {
+        "name": "Anna Smith",
+        "stars": 5,
+        "comment": "I love how I can customize every aspect of my fractals. It’s like having a personal art studio at my fingertips!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Find answers to common questions about the AI Fractal Generator",
+    "items": [
+      {
+        "title": "What types of fractals can be generated?",
+        "description": "Our generator can produce a variety of fractal types including Mandelbrot sets, Julia sets, and more, with customizable parameters for endless variety."
+      },
+      {
+        "title": "Is there a limit on fractal generation?",
+        "description": "Absolutely not! You can generate as many fractals as you like without any restrictions."
+      },
+      {
+        "title": "Can I use the fractals for commercial projects?",
+        "description": "Yes! Users can freely use generated fractals for both personal and commercial projects without any licensing issues."
+      },
+      {
+        "title": "How does privacy work with fractal generation?",
+        "description": "All data processed remains local and never leaves your browser. Your parameters and generated fractals are kept private and secure."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Create Stunning Fractals?",
+    "description": "Try WaveSpeed AI now and bring your fractal visions to life. No sign-up required.",
+    "ctaText": "Generate Fractal Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

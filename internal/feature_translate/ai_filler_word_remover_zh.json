@@ -1,0 +1,229 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI 填充词去除工具",
+  "meta": {
+    "description": "使用 WaveSpeed AI 轻松消除文本中不必要的填充词。提升您写作的清晰度和专业性，非常适合商业交流、内容创作等多种场合。体验无缝编辑，立即提升您的内容！",
+    "keywords": "填充词去除工具, AI 文字编辑器, 提升写作清晰度, 内容优化工具, 专业写作辅助, 商业沟通提升, 文本清晰度工具, AI 写作助手, 交流中的清晰度, 内容创作工具"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI 工具",
+        "items": [
+          [
+            "AI 工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即尝试"
+  },
+  "hero": {
+    "heading": "填充词去除工具",
+    "subHeading": "通过去除填充词增强您的文本",
+    "description": "告别那些让您的写作杂乱无章的不必要填充词。我们的 AI 技术分析并精炼您的文本，确保每个词都价值满满。简化您的沟通，增强信息的影响力。现在就开始改变您的写作！",
+    "tryText": "立即去除填充词",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI 填充词去除解决方案",
+    "left": {
+      "heading": "常见写作挑战",
+      "items": [
+        "文本中充满了不必要的词",
+        "缺乏清晰度和直接性",
+        "读者参与度低",
+        "编辑过程费时",
+        "写作质量不一致"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI 解决方案",
+      "items": [
+        "立即识别并去除填充词",
+        "几秒钟内提高清晰度和可读性",
+        "增强参与度和沟通",
+        "无压力的编辑体验",
+        "所有写作者都可以负担得起"
+      ],
+      "tryText": "尝试"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "通过三个简单步骤精炼您的写作",
+    "steps": [
+      {
+        "number": "1",
+        "title": "粘贴文本",
+        "text": "简单地复制并粘贴您的文本到工具中",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "分析内容",
+        "text": "AI 分析您的写作以寻找填充词",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "审核建议",
+        "text": "审核建议的编辑以提高可读性",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "复制润色文本",
+        "text": "获取准备好在任何场合使用的修订文本",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "立即精炼您的写作 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无限可能性",
+    "description": "适用于所有类型的写作",
+    "items": [
+      "商务电子邮件和报告",
+      "博客文章和文章",
+      "学校论文和作业",
+      "社交媒体内容",
+      "市场材料和广告",
+      "专业演示文稿",
+      "创意写作",
+      "剧本和对话"
+    ]
+  },
+  "successStories": {
+    "heading": "真实的成功故事",
+    "description": "看看我们的工具如何提升写作质量",
+    "items": [
+      {
+        "tag": "内容创作",
+        "heading": "提高博客参与度",
+        "before": {
+          "label": "之前",
+          "text": "杂乱的写作"
+        },
+        "after": {
+          "label": "之后",
+          "text": "清晰简洁"
+        },
+        "value": "50%",
+        "key": "参与度提升",
+        "description": "通过更清晰的帖子，博客评论显著增加，带来了更多流量。"
+      },
+      {
+        "tag": "企业沟通",
+        "heading": "精简电子邮件沟通",
+        "before": {
+          "label": "之前",
+          "text": "冗长的电子邮件"
+        },
+        "after": {
+          "label": "之后",
+          "text": "直接且有影响力"
+        },
+        "value": "40%",
+        "key": "节省的时间",
+        "description": "团队经历了更快速的响应，得益于简洁的电子邮件结构。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI 工具比较",
+    "description": "了解我们独特的能力",
+    "items": [
+      "实时分析以进行即时编辑",
+      "可定制的过滤器以适应不同的写作风格",
+      "关于参与度指标的 AI 洞察",
+      "用户友好的界面，便于轻松导航",
+      "支持多种语言并进行上下文调整"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关 AI 工具",
+    "description": "探索更多强大的写作工具，以改善内容"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要知道的一切",
+    "items": [
+      {
+        "question": "您可以去除哪些类型的填充词？",
+        "answer": "该工具可以识别并建议去除常见的填充词，如 '只是'、'非常'、'真的' 等，这些词的意义不大。"
+      },
+      {
+        "question": "这个工具可以改善我的写作风格吗？",
+        "answer": "可以！通过去除不必要的词，您的写作风格会变得更加清晰和直接，从而大大提高可读性。"
+      },
+      {
+        "question": "适合专业文件吗？",
+        "answer": "绝对可以！它旨在增强所有类型专业写作中的清晰度，帮助您更有效地传达信息。"
+      },
+      {
+        "question": "这个工具能用于不同语言吗？",
+        "answer": "可以！该 AI 已经过优化，可以与多种语言协作，并适应各种写作风格和上下文。"
+      },
+      {
+        "question": "我需要注册才能使用吗？",
+        "answer": "无需注册即可开始。您可以粘贴文本并立即开始增强它。"
+      },
+      {
+        "question": "分析我的文本需要多长时间？",
+        "answer": "文本分析在几秒钟内完成，让您迅速精炼写作，毫不费力。"
+      },
+      {
+        "question": "我可以用它进行创意写作吗？",
+        "answer": "可以！它适合任何形式的写作，包括创意作品，确保您的声音保持清晰且有影响力。"
+      },
+      {
+        "question": "这个工具会改变我的声音或语气吗？",
+        "answer": "不会，该工具专注于去除不必要的词，同时保留您独特的声音和内容中的语气。"
+      },
+      {
+        "question": "这个服务是免费的使用吗？",
+        "answer": "我们为新用户提供免费的积分以试用该服务，同时提供经济实惠的选项以便持续使用。"
+      },
+      {
+        "question": "如果我有大量文本需要编辑怎么办？",
+        "answer": "您可以方便地批量处理较大文本，以简化编辑工作流程。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备好增强您的写作了吗？",
+    "description": "使用免费的积分开始 - 立即体验顺畅的编辑",
+    "contactUsText": "联系我们",
+    "tryText": "立即去除填充词 →"
+  },
+  "footer": {
+    "heading": "准备好改变您的写作了吗？",
+    "description": "立即尝试 WaveSpeed AI，亲自体验差异。无需注册。",
+    "ctaText": "立即去除填充词",
+    "text": "© 2025 WaveSpeed AI. 保留所有权利。"
+  }
+}

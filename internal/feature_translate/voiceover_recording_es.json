@@ -1,0 +1,230 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Función de Grabación de Voz en Off",
+  "meta": {
+    "description": "Eleva tu contenido audiovisual con voces en off profesionales sin esfuerzo. Aprovecha la tecnología de IA de vanguardia para generar voces en off a partir de texto, mejorando la participación y la narración. Ideal para videos, audiolibros y materiales de marketing. Experimenta el futuro de la producción de audio con WaveSpeed AI.",
+    "keywords": "grabación de voz en off IA, generación de audio, texto a voz, voces en off profesionales, generador de voz IA, herramienta de audio para comercio electrónico, producción de audio para marketing, narración de audiolibros, voz en off para video, mejoras de audio en redes sociales, herramientas de audio WaveSpeed"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas de IA",
+        "items": [
+          [
+            "Herramientas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Exhibición",
+        "items": [
+          [
+            "Exhibición",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Grabación de Voz en Off",
+    "subHeading": "Transforma Texto en Voces en Off Atractivas",
+    "description": "Convierte instantáneamente tus guiones en voces en off de alta calidad con nuestra solución impulsada por IA. No necesitas equipo de grabación profesional ni actores de voz. Mejora tus videos, pódcast y presentaciones sin esfuerzo.",
+    "tryText": "Pruébalo Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución de Grabación de Voz en Off de WaveSpeed AI",
+    "left": {
+      "heading": "Desafíos Tradicionales",
+      "items": [
+        "La producción de voces en off suele ser cara y llevar mucho tiempo",
+        "Requiere estudios de grabación y talento profesional",
+        "Opciones limitadas de revisión para el audio grabado",
+        "Altos costos continuos para actores de voz",
+        "Ineficiente para plazos de proyectos acelerados"
+      ]
+    },
+    "right": {
+      "heading": "Solución WaveSpeed AI",
+      "items": [
+        "Genera voces en off en segundos a partir de texto escrito",
+        "No se requiere estudio ni actor profesional - Solo ingresa texto",
+        "Salida de voz de alta calidad y sonido natural",
+        "Ajustes y variaciones ilimitadas para cada guion",
+        "Precios flexibles - Paga solo por lo que usas"
+      ],
+      "tryText": "Prueba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "De texto a voz en off en 4 pasos simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Ingresa Tu Guion",
+        "text": "Escribe o pega el texto que deseas convertir a audio",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Selecciona Estilo de Voz",
+        "text": "Elige entre una variedad de voces y acentos para que coincidan con tu tono",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Ajusta Configuraciones",
+        "text": "Ajusta el tono, la velocidad y la emoción de tu voz en off",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Descarga el Archivo de Audio",
+        "text": "Obtén tu voz en off de alta calidad en segundos",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Genera Tu Voz en Off Ahora →"
+  },
+  "endlessPossibilities": {
+    "heading": "Posibilidades Infinita",
+    "description": "Perfecto para cada necesidad de audio",
+    "items": [
+      "Voces en off para videos promocionales",
+      "Narración para cursos de e-learning",
+      "Diseñado para pódcast y seminarios web",
+      "Grabaciones de audiolibros",
+      "Videos explicativos y tutoriales",
+      "Anuncios en tienda",
+      "Jingles publicitarios",
+      "Contenido de video en redes sociales"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Descubre cómo las empresas están revolucionando su contenido de audio con IA",
+    "items": [
+      {
+        "tag": "E-learning",
+        "heading": "Narración de Cursos en Línea",
+        "before": {
+          "label": "Antes",
+          "text": "3-4 semanas"
+        },
+        "after": {
+          "label": "Después",
+          "text": "5 minutos"
+        },
+        "value": "99%",
+        "key": "Tiempo Ahorrado",
+        "description": "La producción de nuestro curso se completó en un tiempo récord. Ahora podemos actualizar los módulos instantáneamente con voces en off nuevas."
+      },
+      {
+        "tag": "Marketing",
+        "heading": "Anuncios en Redes Sociales",
+        "before": {
+          "label": "Antes",
+          "text": "Altos costos"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Económico"
+        },
+        "value": "95%",
+        "key": "Reducción de Costos",
+        "description": "Los costos de producción de audio disminuyeron drásticamente, lo que nos permite lanzar campañas con más frecuencia."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Modelos de Voz en Off",
+    "description": "Elige la voz adecuada para tu proyecto",
+    "items": [
+      "Voz Estándar: Tono natural, adecuada para contenido casual, óptima para la mayoría de las aplicaciones",
+      "Voz Profesional: Estilo pulido, ideal para presentaciones formales y narraciones de marca",
+      "Opciones Masculinas/Femeninas disponibles para diversas necesidades",
+      "Opciones de personalización para especificar el tono emocional y la velocidad",
+      "Tiempo de respuesta rápido para proyectos urgentes",
+      "Derechos comerciales incluidos - uso en cualquier contexto"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas de IA Relacionadas",
+    "description": "Explora más herramientas innovadoras de IA para la producción de audio"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué calidad de audio puedo esperar de las voces en off?",
+        "answer": "Nuestra IA genera audio de alta calidad que es claro, natural y optimizado para varias aplicaciones. La salida mantiene claridad en diferentes formatos, asegurando un acabado profesional adecuado para todos los medios."
+      },
+      {
+        "question": "¿Puedo elegir diferentes voces y acentos?",
+        "answer": "¡Absolutamente! Puedes seleccionar entre una variedad de voces y acentos, lo que te permite ajustar el tono de tu contenido perfectamente. Esta personalización ayuda a que tu mensaje resuene mejor con tu audiencia."
+      },
+      {
+        "question": "¿Cuánto tiempo toma generar una voz en off?",
+        "answer": "La generación de voces en off es increíblemente rápida, generalmente se completa en segundos, independientemente de la longitud de tu texto. Esta eficiencia te permite producir contenido a un ritmo notable."
+      },
+      {
+        "question": "¿Puedo editar los ajustes de la voz en off después de generarla?",
+        "answer": "¡Sí! Puedes modificar el tono, la velocidad y el tono emocional según sea necesario, lo que te permite refinar la voz en off para satisfacer tus requisitos específicos para cualquier proyecto."
+      },
+      {
+        "question": "¿Qué formatos admiten los archivos de audio?",
+        "answer": "Admitimos varios formatos de archivos de audio, incluidos MP3 y WAV, asegurando compatibilidad con varias plataformas y medios. Elige el formato que mejor se ajuste a tus necesidades de distribución."
+      },
+      {
+        "question": "¿Existen límites sobre cómo puedo usar las voces en off generadas?",
+        "answer": "¡No! Todas las voces en off generadas a través de WaveSpeed incluyen derechos de uso comercial completo. Eres libre de usarlas en publicidad, redes sociales, e-learning, proyectos personales y más."
+      },
+      {
+        "question": "¿Puedo generar múltiples voces en off a la vez?",
+        "answer": "Sí, nuestra plataforma admite el procesamiento por lotes, lo que te permite generar múltiples voces en off simultáneamente. Perfecto para proyectos grandes que requieren salida de audio consistente."
+      },
+      {
+        "question": "¿Qué debo hacer si tengo problemas técnicos?",
+        "answer": "WaveSpeed ofrece documentación extensa, tutoriales en video y soporte receptivo a través de correo electrónico o chat en vivo para ayudarte con cualquier consulta técnica o problema que puedas encontrar."
+      },
+      {
+        "question": "¿Hay un período de prueba o créditos gratuitos para nuevos usuarios?",
+        "answer": "Sí, todos los nuevos usuarios reciben créditos gratuitos para explorar nuestras capacidades de voces en off. Prueba el servicio sin riesgo y experimenta la calidad por ti mismo."
+      },
+      {
+        "question": "¿Cómo se estructura el precio para la generación de voces en off?",
+        "answer": "Operamos con un modelo de pago por uso con precios flexibles según las características utilizadas y la longitud del audio. Esta estructura asegura que solo pagues por las voces en off que creas."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Crear Tu Primera Voz en Off?",
+    "description": "Comienza con créditos gratuitos - Experimenta la calidad tú mismo",
+    "contactUsText": "Contáctanos",
+    "tryText": "Pruébalo Ahora →"
+  },
+  "footer": {
+    "heading": "¿Listo para Mejorar Tu Contenido?",
+    "description": "Prueba WaveSpeed AI ahora y eleva tu experiencia de audio. No se requiere registro.",
+    "ctaText": "Comienza a Grabar Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

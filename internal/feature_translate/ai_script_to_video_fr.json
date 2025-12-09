@@ -1,0 +1,221 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Générateur de Vidéo à partir de Script AI",
+  "meta": {
+    "description": "Transformez vos scripts écrits en vidéos captivantes sans effort. Profitez de la puissance de la technologie AI pour améliorer la narration dans les campagnes marketing, les réseaux sociaux, et plus encore. Découvrez le futur de la création de contenu !",
+    "keywords": "script à vidéo AI, générateur de vidéo, créateur de vidéo AI, outil de création de contenu vidéo, outil vidéo marketing, vidéo pour réseaux sociaux, production vidéo automatisée, vidéo e-commerce, narration vidéo, automatisation marketing, contenu vidéo engageant"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Script à Vidéo",
+    "subHeading": "Transformez du Contenu Écrit en Vidéos Engagées",
+    "description": "Convertissez sans effort vos scripts en vidéos dynamiques en quelques minutes. Aucun tournage ou montage requis. Alimenté par une AI de pointe, cet outil révolutionne la narration et la création de contenu pour les entreprises et les marketeurs. Vivez une transformation fluide du script à l'écran.",
+    "tryText": "Créez Votre Vidéo Maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution WaveSpeed AI AI Script à Vidéo",
+    "left": {
+      "heading": "Défis de la Création Vidéo Traditionnelle",
+      "items": [
+        "Coûts élevés pour la production vidéo (2000-5000 $ par projet)",
+        "Nécessite des acteurs professionnels et des équipes vidéo",
+        "Temps de montage et de production longs (plusieurs jours)",
+        "Révisions et ajustements limités",
+        "Processus inefficace pour les créateurs de contenu"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeedAI",
+      "items": [
+        "Transformez des scripts en vidéos en moins de 5 minutes",
+        "Pas d'équipage ou d'équipement nécessaire - Entrez simplement votre script",
+        "Génération de vidéos instantanées pilotée par l'IA avec améliorations visuelles",
+        "Édits et variations illimités pour des besoins spécifiques",
+        "Tarification abordable au fur et à mesure pour toutes les entreprises"
+      ],
+      "tryText": "Essayez"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment ça Marche",
+    "description": "Conversion facile de script à vidéo en 4 étapes",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Entrer le Script",
+        "text": "Entrez votre script ou contenu textuel à transformer en vidéo",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Choisir des Thèmes",
+        "text": "Sélectionnez parmi une variété de thèmes visuels et de styles",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Personnaliser les Visuels",
+        "text": "Ajoutez des images, des logos, et des superpositions de texte pour le branding",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Télécharger la Vidéo",
+        "text": "Recevez votre vidéo de haute qualité prête à être partagée",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Créez Votre Première Vidéo →"
+  },
+  "endlessPossibilities": {
+    "heading": "Applications Créatives Illimitées",
+    "description": "Idéal pour divers secteurs et objectifs",
+    "items": [
+      "Campagnes marketing et vidéos promotionnelles",
+      "Contenu pour les réseaux sociaux sur des plateformes comme Instagram et TikTok",
+      "Contenu éducatif et tutoriels",
+      "Vidéos explicatives de produits",
+      "Matériel de formation interne",
+      "Highlights et récapitulatifs d'événements",
+      "Annonces vidéo immobilières",
+      "Création de contenu YouTube"
+    ]
+  },
+  "successStories": {
+    "heading": "Histoires de Succès avec Script à Vidéo",
+    "description": "Découvrez comment les marques innovent leur création de contenu",
+    "items": [
+      {
+        "tag": "E-commerce",
+        "heading": "Augmentation des Ventes en Ligne",
+        "before": {
+          "label": "Avant",
+          "text": "Faible engagement"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Taux de conversion élevés"
+        },
+        "value": "150%",
+        "key": "Augmentation des Ventes",
+        "description": "Utilisation de l'IA pour transformer des descriptions de produits en vidéos engageantes, entraînant une augmentation significative des ventes en quelques semaines."
+      },
+      {
+        "tag": "Éducation",
+        "heading": "Développement de Cours en Ligne",
+        "before": {
+          "label": "Avant",
+          "text": "Intensif en temps"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Rapide et efficace"
+        },
+        "value": "80%",
+        "key": "Temps Réduit",
+        "description": "Les créateurs de cours ont rapidement converti des scripts en vidéos, améliorant considérablement les délais de production et la qualité des cours."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison des Modèles AI",
+    "description": "Trouvez le modèle idéal pour vos besoins vidéo",
+    "items": [
+      "Mode Histoire : Narration professionnelle, visuels de haute qualité, idéal pour le marketing",
+      "Capture Rapide : Traitement rapide, visuels dynamiques, parfait pour les réseaux sociaux",
+      "Options de personnalisation complètes disponibles avec voix synthétique, musique de fond et visuels thématiques",
+      "Intégration fluide avec les médias et ressources existants",
+      "Temps de rendu efficaces de 1 à 3 minutes",
+      "Droits d'utilisation commerciale inclus pour toutes les vidéos générées"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils AI Connexes",
+    "description": "Explorez d'autres puissantes solutions AI pour les créateurs"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quelle est la qualité vidéo des vidéos générées par AI ?",
+        "answer": "Nos vidéos générées par IA offrent une qualité haute définition, garantissant une sortie de niveau professionnel adaptée à toutes les plateformes, y compris le marketing et les réseaux sociaux."
+      },
+      {
+        "question": "Puis-je personnaliser le style et les visuels de la vidéo ?",
+        "answer": "Oui ! Vous pouvez choisir parmi divers thèmes et styles, ainsi que télécharger des images et des logos à des fins de branding."
+      },
+      {
+        "question": "Quel type de scripts fonctionne le mieux pour la génération vidéo ?",
+        "answer": "Les scripts qui sont concis et engageants fonctionnent généralement le mieux, mais notre IA peut s'adapter à divers formats, y compris des descriptions détaillées et de la narration."
+      },
+      {
+        "question": "En quoi cela diffère-t-il de la production vidéo traditionnelle ?",
+        "answer": "Les vidéos générées par AI sont créées rapidement et à moindre coût sans besoin de tournage ou de montage, offrant une solution plus efficace et rentable."
+      },
+      {
+        "question": "Y a-t-il des droits d'utilisation pour les vidéos générées par AI ?",
+        "answer": "Oui, toutes les vidéos réalisées via notre plateforme incluent des droits d'utilisation commerciale complets sans frais supplémentaires, vous permettant de les utiliser librement dans le marketing et les ventes."
+      },
+      {
+        "question": "Quel est le modèle de tarification pour la génération vidéo ?",
+        "answer": "Nous utilisons un modèle flexible au fur et à mesure avec des prix déterminés par la longueur du script et les fonctionnalités sélectionnées, garantissant que vous ne payez que pour ce dont vous avez besoin."
+      },
+      {
+        "question": "À quelle vitesse les vidéos sont-elles générées ?",
+        "answer": "En général, les vidéos sont générées en 1 à 3 minutes, permettant une création de contenu rapide sans délais."
+      },
+      {
+        "question": "Quels sont les cas d'utilisation courants pour la fonction script à vidéo ?",
+        "answer": "Cette fonctionnalité est idéale pour les promotions marketing, les vidéos éducatives, les présentations de produits, le contenu pour les réseaux sociaux, et tout scénario nécessitant une narration visuelle engageante."
+      },
+      {
+        "question": "Quel support est disponible pour les utilisateurs ?",
+        "answer": "Nous fournissons des ressources complètes comprenant des tutoriels, de la documentation, et un support client réactif pour aider avec toutes questions ou dépannage."
+      },
+      {
+        "question": "Puis-je améliorer mes vidéos après leur génération ?",
+        "answer": "Oui ! Vous pouvez personnaliser et améliorer vos vidéos après création avec diverses options d'édition disponibles via notre plateforme."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Transformer Votre Script en Vidéo ?",
+    "description": "Commencez à créer avec notre outil AI - Essayez-le aujourd'hui !",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Créez Votre Vidéo Maintenant →"
+  },
+  "footer": {
+    "heading": "Prêt à Transformer Votre Contenu ?",
+    "description": "Essayez WaveSpeed AI maintenant et découvrez la différence remarquable. Aucune inscription requise.",
+    "ctaText": "Créez Votre Vidéo Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

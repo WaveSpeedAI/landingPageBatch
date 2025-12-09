@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Create Captivating Reflections Instantly",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Create Stunning Reflections in Photos",
+    "description": "Enhance your images by generating mesmerizing reflections effortlessly.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo before reflection generation"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example photo after reflection generation"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Generate Beautiful Reflections",
+      "prompt": {
+        "heading": " Prompt",
+        "placeholder": "E.g., Add a reflection of the sunset on water..."
+      },
+      "upload": {
+        "heading": " Select image or Input URL"
+      },
+      "processButton": "Create Reflection Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "10M+",
+        "description": "Images Processed"
+      },
+      {
+        "title": "99.8%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "2.5s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Reflection Examples",
+    "description": "Discover how WaveSpeed AI can elevate your photos with stunning reflections.",
+    "items": [
+      {
+        "title": "Enhance Scenic Views",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing enhancement of scenic views with reflections",
+        "description": "Add depth to your landscapes with eye-catching water reflections."
+      },
+      {
+        "title": "Create Artistic Effects",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing artistic reflections in photos",
+        "description": "Transform ordinary images into artistic masterpieces with realistic reflections."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Our innovative technology delivers remarkable results with unparalleled simplicity.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Instant Results",
+        "description": "Generate reflections in seconds with our cutting-edge algorithms. No delays in processing."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly",
+        "description": "No complex skills needed. Just upload your photo and our AI handles the rest."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Privacy Assured",
+        "description": "All processing is done securely in your browser, ensuring your images are never uploaded or stored."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three simple steps to stunning reflections",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Image",
+        "description": "Drag and drop your photo or browse to select it. Supported formats include JPG, PNG, and WebP."
+      },
+      {
+        "serial": "2",
+        "title": "AI Processing",
+        "description": "Our smart AI analyzes your image and generates beautiful reflections tailored to your scene."
+      },
+      {
+        "serial": "3",
+        "title": "Download Result",
+        "description": "Preview your enhanced image and download it in high quality to share or use."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless satisfied customers who enrich their visuals with WaveSpeed AI",
+    "items": [
+      {
+        "name": "Emily Clark",
+        "stars": 5,
+        "comment": "The reflection feature took my sunset photos to the next level! I can’t believe how easy it was."
+      },
+      {
+        "name": "James Li",
+        "stars": 5,
+        "comment": "As a content creator, this tool saves me so much time. Stunning reflections in seconds!"
+      },
+      {
+        "name": "Lisa Brown",
+        "stars": 5,
+        "comment": "I love how my images now have depth. The reflections look incredibly realistic!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your questions about the Reflection Generator",
+    "items": [
+      {
+        "title": "What types of reflections can I generate?",
+        "description": "You can create a variety of reflections such as water, glass, or mirror effects, perfectly tailored to your image context."
+      },
+      {
+        "title": "Is WaveSpeed AI free to use?",
+        "description": "Absolutely! Each user gets 30 free daily credits, enabling endless creativity. Earn more credits through activities in our community."
+      },
+      {
+        "title": "Can I use the generated reflections for commercial projects?",
+        "description": "Yes, if you subscribe to a paid plan, you can utilize generated content for commercial purposes. Free users may only use it for personal projects."
+      },
+      {
+        "title": "How is my privacy ensured during processing?",
+        "description": "Your images are processed directly in your browser. No uploads, no storage—ensuring complete privacy. Once you close the tab, all data is cleared."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Enhance Your Photos?",
+    "description": "Try WaveSpeed AI now and witness the transformation. No registration needed.",
+    "ctaText": "Create Reflection Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

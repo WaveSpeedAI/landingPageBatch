@@ -1,0 +1,229 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Analyse Vidéo IA",
+  "meta": {
+    "description": "Débloquez des insights puissants de votre contenu vidéo avec WaveSpeed AI Analyse Vidéo. Analysez l'engagement des spectateurs, optimisez les performances et augmentez les conversions grâce à des décisions éclairées par les données. Parfait pour les marketeurs et les créateurs de contenu !",
+    "keywords": "analyse vidéo, outil d'analyse IA, analyse de l'engagement des spectateurs, suivi des performances, insights marketing, optimisation de la performance vidéo, analyse de contenu, analyse vidéo e-commerce, insights vidéo sur les réseaux sociaux, analyse du taux de conversion vidéo"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Analyse Vidéo",
+    "subHeading": "Obtenez des Insights de Vos Vidéos Comme Jamais Avant",
+    "description": "Transformez votre approche avec des analyses propulsées par l'IA qui surveillent le comportement et l'engagement des spectateurs en temps réel. Maximisez votre stratégie vidéo et boostez les conversions sans effort. Commencez à analyser aujourd'hui !",
+    "tryText": "Commencez l'Analyse Maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution d'Analyse Vidéo WaveSpeed AI",
+    "left": {
+      "heading": "Défis des Analyses Traditionnelles",
+      "items": [
+        "Suivi manuel des indicateurs des spectateurs est laborieux",
+        "Données incohérentes entraînent des décisions pauvres",
+        "Processus de rapport chronophages",
+        "Insights limités sur l'engagement du public",
+        "Coûts élevés pour des solutions d'analyses complexes"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed AI",
+      "items": [
+        "Analyses en temps réel pour des insights immédiats",
+        "Rapports automatisés simplifient votre flux de travail",
+        "Métriques d'engagement approfondies pour affiner la stratégie de contenu",
+        "Plans d'abonnement abordables pour toutes les entreprises",
+        "Recommandations exploitables pour améliorer les performances"
+      ],
+      "tryText": "Essayez"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment Ça Marche",
+    "description": "Obtenez des insights exploitables en 4 étapes simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Télécharger Vidéo",
+        "text": "Téléchargez votre contenu vidéo pour analyse",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Définir Objectifs",
+        "text": "Définissez les métriques d'analyse qui comptent le plus pour vous",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Analyser Données",
+        "text": "Recevez des rapports détaillés sur l'engagement et le comportement des spectateurs",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Optimiser Stratégie",
+        "text": "Ajustez votre contenu en fonction des insights pour de meilleurs résultats",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Commencez à Analyser Vos Vidéos →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilités Illimitées",
+    "description": "Parfait pour tout contenu vidéo",
+    "items": [
+      "Suivre l'engagement sur les vidéos marketing",
+      "Analyser la performance des contenus sur les réseaux sociaux",
+      "Mesurer les réactions du public lors des webinaires",
+      "Optimiser les stratégies vidéo dans l'e-learning",
+      "Améliorer le contenu vidéo pour les lancements de produits",
+      "Surveiller les analyses pour les événements en direct",
+      "Affiner les campagnes de marketing de contenu",
+      "Obtenir des insights pour les vidéos de formation en entreprise"
+    ]
+  },
+  "successStories": {
+    "heading": "Vraies Histoires de Succès",
+    "description": "Voyez comment les entreprises transforment leurs analyses avec l'IA",
+    "items": [
+      {
+        "tag": "Marketing",
+        "heading": "Publicités Vidéo E-commerce",
+        "before": {
+          "label": "Avant",
+          "text": "Taux d'engagement faibles"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Engagement augmenté de 50%"
+        },
+        "value": "50%",
+        "key": "Croissance de l'Engagement",
+        "description": "En utilisant des insights IA, nous avons identifié les longueurs de vidéo optimales et amélioré nos emplacements d'appel à l'action, augmentant significativement l'engagement du public."
+      },
+      {
+        "tag": "Éducation",
+        "heading": "Cours En Ligne",
+        "before": {
+          "label": "Avant",
+          "text": "Taux d'abandon élevés"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Amélioration de la rétention de 70%"
+        },
+        "value": "70%",
+        "key": "Amélioration de la Rétention",
+        "description": "Les analyses ont révélé des moments clés où les apprenants ont perdu intérêt, nous permettant d'affiner le contenu du cours et d'améliorer les taux d'achèvement."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison des Modèles d'Analyse IA",
+    "description": "Choisissez le modèle d'analyse adapté à vos objectifs",
+    "items": [
+      "Modèle Standard : Métriques d'engagement basiques, suivi en temps réel, rapports simples",
+      "Modèle Avancé : Insights complets, analyses prédictives, rapports personnalisés",
+      "Intégration avec les plateformes existantes pour un flux de travail sans coutures",
+      "Tableau de bord convivial pour un accès rapide aux données",
+      "Alertes en temps réel pour les pics ou les baisses de performance"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils IA Connexes",
+    "description": "Explorez d'autres outils IA puissants pour l'optimisation du contenu"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quelles métriques puis-je suivre avec l'analyse vidéo ?",
+        "answer": "Vous pouvez suivre le nombre de spectateurs, les taux d'engagement, la durée moyenne de visionnage, les taux de clics et les emplacements géographiques, parmi de nombreuses autres métriques."
+      },
+      {
+        "question": "À quelle fréquence les analyses sont-elles mises à jour ?",
+        "answer": "Les analyses sont mises à jour en temps réel, vous permettant de suivre la performance de votre vidéo au fur et à mesure qu'elle accumule des vues."
+      },
+      {
+        "question": "Puis-je intégrer cet outil avec d'autres plateformes ?",
+        "answer": "Oui, notre solution s'intègre parfaitement avec des plateformes de marketing et de gestion de contenu populaires pour améliorer votre flux de travail."
+      },
+      {
+        "question": "Quels types de vidéos puis-je analyser ?",
+        "answer": "Vous pouvez analyser tout type de contenu vidéo, y compris les vidéos marketing, les webinaires, le contenu éducatif, et plus encore."
+      },
+      {
+        "question": "Y a-t-il une limite au nombre de vidéos que je peux analyser ?",
+        "answer": "Non, il n'y a aucune limite au nombre de vidéos que vous pouvez télécharger et analyser. Gérez-en autant que nécessaire."
+      },
+      {
+        "question": "Ai-je besoin de compétences techniques pour utiliser les outils d'analyse ?",
+        "answer": "Non, nos outils sont conçus pour être conviviaux et accessibles, permettant à quiconque de les utiliser sans expertise technique."
+      },
+      {
+        "question": "Puis-je personnaliser les rapports générés par l'analyse vidéo ?",
+        "answer": "Oui, vous pouvez créer des rapports personnalisés adaptés à vos besoins et métriques d'analyse spécifiques."
+      },
+      {
+        "question": "Quels types de support offrez-vous aux utilisateurs ?",
+        "answer": "Nous fournissons un support complet incluant de la documentation, des tutoriels, et une équipe de support réactive pour toutes vos demandes."
+      },
+      {
+        "question": "Ai-je des droits d'utilisation commerciale pour les insights générés ?",
+        "answer": "Oui, tous les insights et rapports d'analyses générés vous appartiennent et peuvent être utilisés librement dans vos stratégies commerciales et marketing."
+      },
+      {
+        "question": "Quel est le modèle de tarification pour l'utilisation de l'analyse vidéo ?",
+        "answer": "Notre modèle de tarification est flexible, basé sur le nombre de vidéos analysées et les fonctionnalités d'analyse utilisées, sans frais cachés."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Débloquer des Insights Vidéo ?",
+    "description": "Commencez avec des crédits gratuits - Expérimentez la puissance des analyses IA",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Commencez à Analyser Maintenant →"
+  },
+  "footer": {
+    "heading": "Prêt à Améliorer Votre Stratégie Vidéo ?",
+    "description": "Essayez WaveSpeed AI maintenant et constatez la différence par vous-même. Aucune inscription requise.",
+    "ctaText": "Commencez Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

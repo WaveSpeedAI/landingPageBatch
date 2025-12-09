@@ -1,0 +1,226 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Vídeo Humano com IA",
+  "meta": {
+    "description": "Crie vídeos impressionantes centrados no humano usando IA para experiências de marketing personalizadas. Transforme sua estratégia de marketing com presença humana realista em seu conteúdo de vídeo. Liberte a criatividade sem filmagens com nossas soluções de IA exclusivas. Perfeito para marcas que buscam aumentar o engajamento nesta Black Friday!",
+    "keywords": "vídeo humano IA, geração de vídeo IA, criador de vídeo humano, ferramenta de marketing IA, conteúdo de vídeo personalizado, produtos de vídeo Black Friday, vídeo de engajamento do consumidor, criador de vídeo de marketing, vídeo de mídia social com humanos"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de IA",
+        "items": [
+          [
+            "Ferramentas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Exibição",
+        "items": [
+          [
+            "Exibição",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Vídeos Humanos, Feito Fácil",
+    "subHeading": "Dê Vida à Sua Marca com IA",
+    "description": "Revolucione seu marketing com vídeos centrados no humano que cativam seu público. Sem equipe de filmagem profissional, apenas tecnologia de IA poderosa que cria conteúdo envolvente em momentos. Experimente o futuro do vídeo com um clique!",
+    "tryText": "Crie Seu Vídeo Humano com IA Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução de Vídeo Humano com IA WaveSpeed",
+    "left": {
+      "heading": "Problemas de Produção de Vídeo Tradicional",
+      "items": [
+        "Altos custos ($2000-5000 por vídeo)",
+        "Atores profissionais e equipamentos necessários",
+        "Processos de edição demorados (até uma semana)",
+        "Poucas oportunidades para revisões",
+        "Difícil para pequenas marcas competirem"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeed IA",
+      "items": [
+        "Gere vídeos humanos personalizados em minutos",
+        "Sem filmagens ou atores necessários - Basta inserir seu script",
+        "Resultados instantâneos da criação avançada de vídeos por IA",
+        "Variações ilimitadas com expressões humanas diversas",
+        "Modelo acessível de pagamento por vídeo para todos os orçamentos"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "Crie seu vídeo humano envolvente em 4 etapas simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Inserir Script",
+        "text": "Escreva um script para o vídeo incluindo ações humanas desejadas",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Selecionar Modelo Humano",
+        "text": "Escolha entre avatares humanos diversos para se adequar à sua marca",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Personalizar Vídeo",
+        "text": "Ajuste o fundo, emoções e cenas para se adequar à sua visão",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Gerar Vídeo",
+        "text": "Receba um vídeo de alta qualidade em minutos com uma licença comercial",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Inicie a Criação do Seu Vídeo →"
+  },
+  "endlessPossibilities": {
+    "heading": "Aplicações Sem Fim",
+    "description": "Perfeito para diversas necessidades de marketing",
+    "items": [
+      "Vídeos de contação de histórias da marca",
+      "Apresentações de lançamento de produtos",
+      "Vídeos de depoimentos de clientes",
+      "Sessões de treinamento corporativo",
+      "Introduções e destaques de eventos",
+      "Conteúdo de marketing de mídia social",
+      "Mensagens personalizadas para clientes",
+      "Anúncios de vídeo promocionais em várias plataformas"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Explore como as marcas estão engajando clientes com IA",
+    "items": [
+      {
+        "tag": "Indústria de Tecnologia",
+        "heading": "Lançamento de Produto Inovador",
+        "before": {
+          "label": "Antes",
+          "text": "Custos de vídeo tradicionais"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Economias com vídeo gerado por IA"
+        },
+        "value": "95%",
+        "key": "Eficiência de Custo",
+        "description": "Utilizou IA para criar vídeos de lançamento envolventes, reduzindo drasticamente os custos enquanto mantinha um alto engajamento."
+      },
+      {
+        "tag": "Setor de Varejo",
+        "heading": "Campanha de Engajamento do Cliente",
+        "before": {
+          "label": "Antes",
+          "text": "Semanas para filmar"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Minutos para gerar"
+        },
+        "value": "98%",
+        "key": "Eficiência de Tempo",
+        "description": "A criação de vídeo habilitada por IA transformou nosso alcance, permitindo que testássemos e adaptássemos rapidamente as estratégias."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Modelos de IA",
+    "description": "Selecione o modelo ideal para suas necessidades",
+    "items": [
+      "Modelo Humano A: Avatar realista, até 30 segundos, otimizado para engajamento",
+      "Modelo Humano B: Avatar padrão, 15-20 segundos, econômico e rápido",
+      "Narração com síntese de fala natural",
+      "Movimentos dinâmicos de avatar e expressões",
+      "Tempo de geração rápido de menos de 5 minutos",
+      "Direitos comerciais para todo o conteúdo gerado"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Descubra ferramentas de IA adicionais poderosas para marketing"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo que você precisa saber",
+    "items": [
+      {
+        "question": "Que qualidade posso esperar dos vídeos humanos gerados por IA?",
+        "answer": "Nossos modelos de IA produzem vídeos em alta definição com avatares humanos realistas, garantindo uma saída envolvente e profissional. Você pode conseguir até 30 segundos de vídeo polido adequado para vários canais de marketing."
+      },
+      {
+        "question": "Posso personalizar os movimentos humanos no vídeo?",
+        "answer": "Sim! Você pode especificar ações e emoções em seu script para orientar a IA na produção de movimentos precisos que correspondem à sua visão, desde apresentações confiantes até cumprimentos amigáveis."
+      },
+      {
+        "question": "Qual é o melhor comprimento de script para um engajamento eficaz?",
+        "answer": "Scripts entre 50-200 palavras produzem um engajamento ideal com nossos vídeos humanos gerados por IA, proporcionando contexto suficiente para o avatar transmitir a mensagem de forma eficaz."
+      },
+      {
+        "question": "Como isso é diferente da produção de vídeo tradicional?",
+        "answer": "Ao contrário da produção tradicional, nossos vídeos gerados por IA eliminam a necessidade de filmagens no local, reduzindo não apenas os custos, mas também o tempo significativamente, permitindo ajustes imediatos."
+      },
+      {
+        "question": "Posso usar esses vídeos para fins comerciais?",
+        "answer": "Absolutamente! Todos os vídeos gerados incluem direitos comerciais totais, permitindo que você os utilize em diversas plataformas—sem taxas ocultas ou royalties."
+      },
+      {
+        "question": "Há uma maneira de ver exemplos de antes e depois?",
+        "answer": "Sim! Fornecemos estudos de caso e vídeos de exemplo mostrando as capacidades de nossos vídeos humanos gerados por IA para marketing eficaz."
+      },
+      {
+        "question": "Quanto tempo leva para criar um vídeo?",
+        "answer": "A geração de vídeo leva aproximadamente 1-2 minutos, dependendo do seu script e personalizações, tornando-se uma das soluções mais rápidas do mercado."
+      },
+      {
+        "question": "Que tipos de negócios se beneficiam mais dos vídeos humanos gerados por IA?",
+        "answer": "Qualquer negócio que deseja aumentar o engajamento e a comunicação pode se beneficiar, desde o varejo até tecnologia, melhorando interações pessoais com histórias visuais envolventes."
+      },
+      {
+        "question": "Recebo suporte se encontrar problemas ao usar a ferramenta?",
+        "answer": "Sim! Oferecemos suporte abrangente, incluindo chat ao vivo, guias do usuário detalhados e fóruns comunitários ativos para solução de problemas e compartilhamento de melhores práticas."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Criar Seu Vídeo Humano com IA?",
+    "description": "Comece com créditos gratuitos e experimente a transformação",
+    "contactUsText": "Entre em Contato Conosco",
+    "tryText": "Crie Seu Vídeo Agora →"
+  },
+  "footer": {
+    "heading": "Transforme Seu Marketing Hoje!",
+    "description": "Utilize o WaveSpeed AI para criar vídeos humanos incríveis em momentos. Não é necessário cadastro para começar.",
+    "ctaText": "Comece a Criar Vídeos Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

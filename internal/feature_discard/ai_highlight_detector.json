@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Highlight Your Best Features Instantly",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Highlight Your Best Features in Photos",
+    "description": "Enter your prompt to automatically enhance and spotlight key areas of your image. Make your photos stand out with precision highlights.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo before highlight detection"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example photo after highlight detection"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Enhance Your Photos",
+      "prompt": {
+        "heading": " Prompt",
+        "placeholder": "E.g., Highlight the main subject, emphasize the best features, enhance colors..."
+      },
+      "upload": {
+        "heading": " Select image or Input URL"
+      },
+      "processButton": "Highlight Features Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "10M+",
+        "description": "Photos Enhanced"
+      },
+      {
+        "title": "99.8%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "2.5s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Highlights Examples",
+    "description": "Discover how WaveSpeed AI can enhance your images by highlighting important features with accuracy.",
+    "items": [
+      {
+        "title": "Emphasize Key Features",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing identified highlights in a photo",
+        "description": "Effortlessly accentuate the most important elements in your images."
+      },
+      {
+        "title": "Color Enhancement",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing color enhancement in a photo",
+        "description": "Make your images pop by enhancing colors and clarity."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Our state-of-the-art AI technology highlights your best moments seamlessly.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Speedy Results",
+        "description": "Achieve impressive results in seconds with our cutting-edge AI technology."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly",
+        "description": "No design experience needed. Just upload your photo and let our AI highlight the best elements for you."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Secure Processing",
+        "description": "Your images are processed safely in your browser, ensuring full privacy at all times."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three simple steps to enhanced photos",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Your Image",
+        "description": "Easily upload your photo by dragging, dropping, or browsing. Supported formats include JPG, PNG, and WebP."
+      },
+      {
+        "serial": "2",
+        "title": "AI Highlight Detection",
+        "description": "Our advanced AI intelligently identifies and enhances key features in your photo, ensuring stunning results."
+      },
+      {
+        "serial": "3",
+        "title": "Download Your Enhanced Image",
+        "description": "Preview the enhancements using our interactive comparison and download in high quality."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "Hear From Our Users",
+    "description": "Join countless satisfied users transforming their images with precision highlights",
+    "items": [
+      {
+        "name": "Emily Smith",
+        "stars": 5,
+        "comment": "The highlight feature completely transformed my portrait photos! It's like magic!"
+      },
+      {
+        "name": "David Lee",
+        "stars": 5,
+        "comment": "As a photographer, this tool saves me so much time in post-processing. It's a must-have!"
+      },
+      {
+        "name": "Jessica Turner",
+        "stars": 5,
+        "comment": "I love that my photos have never looked better. The accuracy is incredible!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Explore common inquiries about the AI highlight detector",
+    "items": [
+      {
+        "title": "What features can the AI highlight detector enhance?",
+        "description": "The AI highlight detector can enhance key features such as faces, objects, and colors, making them stand out while improving overall image quality."
+      },
+      {
+        "title": "Is this feature free to use?",
+        "description": "Absolutely! Every user receives 30 free credits daily to enhance images. Additional credits can be earned through engagement on our Discord community."
+      },
+      {
+        "title": "Can I use the highlighted images commercially?",
+        "description": "Yes, users on any paid subscription plan have the rights to use their enhanced images for commercial purposes. Free users can utilize them for personal projects."
+      },
+      {
+        "title": "How is my privacy maintained during processing?",
+        "description": "WaveSpeed's technology processes all images locally in your browser. Your images are never uploaded, ensuring complete privacy and data security."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Highlight Your Features?",
+    "description": "Try WaveSpeed AI now and see the stunning enhancements for yourself. No sign-up necessary.",
+    "ctaText": "Highlight Features Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

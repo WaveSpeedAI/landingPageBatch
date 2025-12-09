@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Reverse Your Videos Instantly",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Reverse Your Videos",
+    "description": "Transform your videos by effortlessly reversing them with a click. Experience the magic of instant playback with just one button.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example video before reversing"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example video after reversing"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Reverse Your Video Now",
+      "prompt": {
+        "heading": " Upload Your Video",
+        "placeholder": "E.g., Upload a video to see it play in reverse."
+      },
+      "upload": {
+        "heading": " Select video file or Input URL"
+      },
+      "processButton": "Reverse Video Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Videos Processed"
+      },
+      {
+        "title": "99.7%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "3s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Witness the enchanting transformation of your videos with our AI-powered reversing tool.",
+    "items": [
+      {
+        "title": "Creative Edits",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing creative video edits",
+        "description": "Revitalize your content by giving it a fresh twist."
+      },
+      {
+        "title": "Memorable Moments",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing memorable video moments",
+        "description": "Capture and highlight unforgettable moments with reversed play."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Our cutting-edge technology makes video reversing straightforward and enjoyable.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Effortlessly Quick",
+        "description": "Experience instant reversal without any delays. Just upload and click."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "Designed for everyone. Upload your video and watch it reverse automatically."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Secure Processing",
+        "description": "All video processing happens securely on your device, keeping your content private."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three simple steps to reverse your videos effortlessly",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Video",
+        "description": "Drag and drop or select to upload your video file. Supported formats include MP4, AVI, and MOV."
+      },
+      {
+        "serial": "2",
+        "title": "Instant Reversal",
+        "description": "Our technology quickly processes your video, reversing playback while maintaining quality."
+      },
+      {
+        "serial": "3",
+        "title": "Download Your Video",
+        "description": "Preview and download the reversed video, ready to share or keep."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join many happy users who have transformed their videos with WaveSpeed AI",
+    "items": [
+      {
+        "name": "Emily Brown",
+        "stars": 5,
+        "comment": "The reverse feature is magic! I've used it for all my vlogs and the results are incredible."
+      },
+      {
+        "name": "David Lee",
+        "stars": 5,
+        "comment": "As a content creator, this tool saves me a ton of time. It reverses videos flawlessly!"
+      },
+      {
+        "name": "Ella Smith",
+        "stars": 5,
+        "comment": "I love that my videos are processed right in my browser. It's fast and super secure!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Discover answers to common queries about our video reversing feature",
+    "items": [
+      {
+        "title": "What types of videos can I reverse?",
+        "description": "You can reverse various video formats, including MP4, AVI, and MOV. Our AI efficiently handles any content you upload."
+      },
+      {
+        "title": "Is the video reversing service free?",
+        "description": "Absolutely! Every user gets daily access to free video reversals, with opportunities to enhance your limits through user engagement."
+      },
+      {
+        "title": "Can I use reversed videos commercially?",
+        "description": "Yes, users on subscription plans can use their reversed videos for commercial purposes, while free-tier users are limited to personal use."
+      },
+      {
+        "title": "How is my privacy protected?",
+        "description": "All processing takes place in your browser, preventing your videos from being uploaded or stored on external servers, ensuring complete privacy."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Reverse Your Videos?",
+    "description": "Try WaveSpeed AI now and see how easy it is. No sign-up necessary.",
+    "ctaText": "Reverse Video Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Générateur de Photos de Profil IA",
+  "meta": {
+    "description": "Créez instantanément des photos de profil professionnelles avec la technologie IA. Améliorez votre marque personnelle et votre présence en ligne sans effort. Idéal pour les profils LinkedIn, les sites web d'entreprise, et plus encore !",
+    "keywords": "générateur de photo de profil IA, photos de profil professionnelles, outil de portrait IA, branding personnel, photo de profil LinkedIn, photos de profil virtuelles, photographie d'entreprise, présence en ligne, générateur de photos intelligentes, identité numérique, photo de profil sur les réseaux sociaux"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Générateur de Photos de Profil IA",
+    "subHeading": "Créez des Photos de Profil Éblouissantes en Quelques Instants",
+    "description": "Produisez des photos de profil professionnelles et de haute qualité en quelques clics. Pas de photographes, pas de studios requis. Améliorez votre image en ligne et démarquez-vous de la foule dès aujourd'hui !",
+    "tryText": "Créez Votre Photo de Profil Maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution Générateur de Photos de Profil IA WaveSpeed",
+    "left": {
+      "heading": "Défis des Portraits Traditionnels",
+      "items": [
+        "Les photographes peuvent être coûteux (300 $ - 1000 $ par session)",
+        "Logistique de planification et de lieu",
+        "Plusieurs reprises pour perfection",
+        "Styles et arrière-plans limités",
+        "Barrière élevée pour des images professionnelles rapides"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeedAI",
+      "items": [
+        "Générez des photos de profil époustouflantes en moins de 2 minutes",
+        "Pas besoin de photographe - Il suffit de télécharger votre photo",
+        "Options d'édition et de personnalisation instantanées",
+        "Styles et arrière-plans illimités à choisir",
+        "Prix abordable - Idéal pour tout le monde"
+      ],
+      "tryText": "Essayez"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment Ça Marche",
+    "description": "D'une simple photo à une photo de profil raffinée en 4 étapes",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Télécharger l'image",
+        "text": "Téléchargez votre photo ou selfie clair",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Sélectionner le style",
+        "text": "Choisissez votre style de photo de profil préféré (ex. : corporate, décontracté)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Personnaliser l'apparence",
+        "text": "Ajustez l'éclairage, l'arrière-plan et d'autres éléments",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Télécharger la Photo de Profil",
+        "text": "Recevez votre photo de profil raffinée en haute résolution",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Obtenez Votre Photo de Profil Professionnelle →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilités Infinies",
+    "description": "Idéal pour les professionnels dans tous les domaines",
+    "items": [
+      "Photos de profil LinkedIn",
+      "Photos de profil d'équipe corporate",
+      "Branding personnel pour les entrepreneurs",
+      "Photos de profil sur les réseaux sociaux",
+      "Casting et auditions",
+      "Profils de conférences",
+      "Profils de rencontres en ligne",
+      "Photos d'intégration des employés"
+    ]
+  },
+  "successStories": {
+    "heading": "Véritables Histoires de Succès",
+    "description": "Découvrez comment les professionnels améliorent leur image avec l'IA",
+    "items": [
+      {
+        "tag": "Professionnels d'Entreprise",
+        "heading": "Amélioration de Profil LinkedIn",
+        "before": {
+          "label": "Avant",
+          "text": "Photos amateur"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Photo de profil professionnelle"
+        },
+        "value": "250%",
+        "key": "Augmentation des vues de profil",
+        "description": "Après avoir utilisé notre générateur de photos de profil, mes vues de profil ont explosé. J'ai décroché 3 entretiens en une semaine !"
+      },
+      {
+        "tag": "Freelancers",
+        "heading": "Branding Personnel",
+        "before": {
+          "label": "Avant",
+          "text": "Images non professionnelles"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Photos de profil élégantes mises à jour"
+        },
+        "value": "300%",
+        "key": "Engagement des clients",
+        "description": "Transformer mes visuels a aidé à augmenter mes demandes de clients. J'avais l'air crédible et digne de confiance."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison des Modèles IA",
+    "description": "Sélectionnez le style idéal pour votre photo de profil",
+    "items": [
+      "Standard : Photos de profil de haute qualité et réalistes",
+      "Premium : Fonctionnalités améliorées avec effets d'éclairage et d'ombre avancés",
+      "Styles à la mode avec des arrière-plans uniques",
+      "Mélange décontracté et professionnel pour polyvalence",
+      "Livraison instantanée avec plusieurs variations au choix",
+      "Optimisé pour une utilisation en ligne avec haute résolution disponible"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils IA Connexes",
+    "description": "Découvrez d'autres outils IA innovants pour le branding personnel"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quelle qualité puis-je attendre de la photo de profil ?",
+        "answer": "Notre générateur produit des photos de profil en haute résolution qui sont vibrantes et professionnelles. Vous pouvez choisir entre une qualité standard pour des téléchargements rapides ou des options premium pour plus de profondeur et de détails."
+      },
+      {
+        "question": "Puis-je personnaliser le style de ma photo de profil ?",
+        "answer": "Absolument ! Notre outil vous permet de sélectionner parmi différents styles et d'ajuster les arrière-plans, l'éclairage, et plus encore pour répondre à vos besoins."
+      },
+      {
+        "question": "Quels types d'images fonctionnent le mieux pour le générateur de photos de profil ?",
+        "answer": "Des images claires et bien éclairées fonctionnent le mieux. Nous recommandons d'utiliser des photos de bonne résolution, idéalement au-dessus de 512x512 pixels, pour des résultats optimaux."
+      },
+      {
+        "question": "Comment utiliser la photo de profil pour des profils en ligne ?",
+        "answer": "Une fois que votre photo de profil est générée, vous pouvez la télécharger et facilement l'importer sur la plateforme de votre choix, y compris LinkedIn, les sites d'entreprise, et plus encore."
+      },
+      {
+        "question": "Y a-t-il un coût pour générer des photos de profil ?",
+        "answer": "Nous fonctionnons sur un modèle de paiement à l'utilisation flexible sans abonnements. Vous ne payez que pour les photos de profil que vous créez, ce qui le rend accessible à tous."
+      },
+      {
+        "question": "Combien de temps faut-il pour générer une photo de profil ?",
+        "answer": "En général, la génération de photos de profil prend 1 à 2 minutes. Vous pouvez créer plusieurs photos de profil dans ce délai si nécessaire."
+      },
+      {
+        "question": "Que faire si j'ai besoin d'aide ou de support ?",
+        "answer": "Nous fournissons des ressources complètes, y compris des tutoriels, des meilleures pratiques, et un support client via chat et email pour toutes vos demandes."
+      },
+      {
+        "question": "Possède-je les droits sur les photos de profil générées ?",
+        "answer": "Oui ! Vous avez des droits commerciaux complets pour utiliser vos photos de profil librement sur toutes les plateformes sans frais supplémentaires."
+      },
+      {
+        "question": "Puis-je éditer les photos de profil générées par la suite ?",
+        "answer": "Oui ! Vous pouvez télécharger votre photo de profil et utiliser des outils externes pour un montage supplémentaire, si désiré."
+      },
+      {
+        "question": "Quels sont les meilleurs cas d'utilisation pour le générateur de photos de profil IA ?",
+        "answer": "Cette technologie est parfaite pour créer des images professionnelles pour LinkedIn, les sites web d'entreprise, les réseaux sociaux, et tout contexte où les premières impressions comptent."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Créer Votre Photo de Profil Professionnelle ?",
+    "description": "Commencez avec des crédits gratuits - Faites-en l'expérience par vous-même",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Créez Votre Photo de Profil Maintenant →"
+  },
+  "footer": {
+    "heading": "Prêt à Améliorer Votre Image ?",
+    "description": "Essayez WaveSpeed AI maintenant et constatez par vous-même la différence. Inscription non requise.",
+    "ctaText": "Créer des Photos de Profil Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

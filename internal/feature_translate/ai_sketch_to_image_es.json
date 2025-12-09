@@ -1,0 +1,226 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Generador de Imágenes a partir de Bocetos con IA",
+  "meta": {
+    "description": "Transforma tus bocetos en impresionantes imágenes en momentos. Perfecto para artistas, diseñadores y creativos. Desata tu imaginación con generación impulsada por IA. ¡Explora infinitas posibilidades artísticas!",
+    "keywords": "boceto a imagen IA, generador de obras de arte, creador de imágenes IA, herramienta de diseño creativo, transformación artística, arte digital, narración visual, imágenes para comercio electrónico, diseño de productos, visuales para redes sociales"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas de IA",
+        "items": [
+          [
+            "Herramientas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrina",
+        "items": [
+          [
+            "Vitrina",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Boceto a Imagen",
+    "subHeading": "Transforma Tus Ideas en Obras Maestras Visuales",
+    "description": "Convierte tus bocetos dibujados a mano en impresionantes imágenes digitales en minutos. No se requieren habilidades artísticas. Impulsado por tecnología de IA de vanguardia, desbloquea tu potencial creativo.",
+    "tryText": "Comienza a Crear Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución WaveSpeed AI Boceto a Imagen",
+    "left": {
+      "heading": "Desafíos Tradicionales",
+      "items": [
+        "La creación de obras de arte a menudo requiere habilidades avanzadas",
+        "Herramientas y software costosos son necesarios",
+        "Proceso que consume tiempo (días a semanas)",
+        "Personalización y ajustes limitados",
+        "Alta barrera de entrada para aspirantes a artistas"
+      ]
+    },
+    "right": {
+      "heading": "Solución WaveSpeedAI",
+      "items": [
+        "Genera imágenes impresionantes a partir de bocetos en segundos",
+        "No se necesita experiencia artística - Solo sube tus bocetos",
+        "Resultados instantáneos con creación impulsada por IA",
+        "Variaciones ilimitadas de tu obra de arte",
+        "Precios asequibles de pago por uso para todos los usuarios"
+      ],
+      "tryText": "Probar"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "Crea imágenes hermosas a partir de bocetos en 4 pasos simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Sube Boceto",
+        "text": "Sube tu obra de arte dibujada a mano o boceto digital",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Agrega Título",
+        "text": "Opcional: Da un título o descripción a tu pieza",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Selecciona Estilo",
+        "text": "Elige el estilo artístico que deseas aplicar",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Descarga Imagen",
+        "text": "Recibe tu imagen de alta resolución en unos momentos",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Genera Tu Primera Imagen →"
+  },
+  "endlessPossibilities": {
+    "heading": "Posibilidades Artísticas Infinitas",
+    "description": "Ideal para una variedad de proyectos creativos",
+    "items": [
+      "Ilustraciones para libros infantiles",
+      "Arte conceptual para juegos y películas",
+      "Gráficos y publicaciones para redes sociales",
+      "Arte digital para mercancías",
+      "Diseños personalizados para branding",
+      "Impresiones artísticas para decoración del hogar",
+      "Contenido visual para presentaciones",
+      "Diseños de productos únicos para comercio electrónico"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Descubre cómo los creadores están mejorando su arte con IA",
+    "items": [
+      {
+        "tag": "Moda y Diseño",
+        "heading": "Línea de Ropa Personalizada",
+        "before": {
+          "label": "Antes",
+          "text": "Intensivo en Tiempo"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Creación Instantánea"
+        },
+        "value": "95%",
+        "key": "Tiempo Ahorrado",
+        "description": "Transformamos nuestro proceso de diseño, permitiendo una rápida creación de prototipos de bocetos de moda en visuales terminados, aumentando nuestra producción."
+      },
+      {
+        "tag": "Gaming",
+        "heading": "Desarrollo de Arte para Juegos Indie",
+        "before": {
+          "label": "Antes",
+          "text": "Semanas de Iteración"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Minutos de Creación"
+        },
+        "value": "90%",
+        "key": "Mejora de Eficiencia",
+        "description": "La capacidad de visualizar conceptos rápidamente ha revolucionado el desarrollo artístico de nuestro juego, ahorrándonos tiempo valioso."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Modelos de IA",
+    "description": "Selecciona el modelo perfecto para tus necesidades artísticas",
+    "items": [
+      "Creador Vívido: Alta resolución, salida artística detallada, ideal para impresiones",
+      "Artista Rápido: Calidad estándar, generación más rápida, perfecto para borradores",
+      "Selector de Estilo: Elige estilos para diversas estéticas artísticas",
+      "Efectos de movimiento de arte integrados para imágenes dinámicas",
+      "Tiempo de generación de 1-2 minutos para resultados rápidos",
+      "Plenos derechos de uso para aplicaciones comerciales"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas de IA Relacionadas",
+    "description": "Descubre más herramientas de IA poderosas para creativos"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué calidad de imagen puedo esperar de la conversión de bocetos?",
+        "answer": "Nuestra IA genera imágenes de alta calidad basadas en tus bocetos, lo que permite resultados a nivel profesional que pueden usarse para diversas aplicaciones, desde redes sociales hasta impresiones."
+      },
+      {
+        "question": "¿Puedo modificar las imágenes generadas?",
+        "answer": "¡Absolutamente! Una vez que tu imagen es generada, tendrás la opción de hacer más modificaciones o mejoras utilizando nuestras herramientas de edición intuitivas."
+      },
+      {
+        "question": "¿Qué tipos de bocetos funcionan mejor para la conversión?",
+        "answer": "Los bocetos dibujados a mano o los dibujos digitales limpios funcionan mejor. Asegúrate de que tus bocetos sean claros y detallados para obtener resultados óptimos."
+      },
+      {
+        "question": "¿Cómo se diferencia esto de la creación de arte digital tradicional?",
+        "answer": "Esta tecnología automatiza y simplifica el proceso artístico, permitiéndote generar imágenes rápidamente a partir de bocetos simples sin un extenso entrenamiento artístico."
+      },
+      {
+        "question": "¿Hay limitaciones en los tipos de imágenes que puedo crear?",
+        "answer": "No, puedes crear una amplia gama de imágenes en diversos estilos, temas y sujetos; el único límite es tu imaginación."
+      },
+      {
+        "question": "¿Qué modelo de precios utilizas para la generación de bocetos a imagen?",
+        "answer": "Operamos con un modelo de pago por uso, permitiéndote pagar solo por las imágenes que generas sin tarifas ocultas ni subscripciones."
+      },
+      {
+        "question": "¿Qué tan rápido puedo generar imágenes usando esta herramienta?",
+        "answer": "La mayoría de las imágenes se generan en 1-2 minutos, asegurando que puedas pasar rápidamente de la idea a la ejecución."
+      },
+      {
+        "question": "¿Tengo derechos sobre las imágenes que genero?",
+        "answer": "¡Sí! Todas las imágenes creadas a través de nuestra plataforma vienen con plenos derechos de uso comercial, dándote la libertad de usar tu obra de arte como desees."
+      },
+      {
+        "question": "¿Qué recursos están disponibles para soporte?",
+        "answer": "Ofrecemos soporte integral, incluidos tutoriales, documentación extensa y servicio al cliente para ayudar con cualquier problema que encuentres."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Transformar Tus Bocetos en Impresionantes Imágenes?",
+    "description": "Comienza con créditos gratis - Experimenta la creatividad tú mismo",
+    "contactUsText": "Contáctanos",
+    "tryText": "Empieza Ahora →"
+  },
+  "footer": {
+    "heading": "¿Listo para Transformar Tus Ideas?",
+    "description": "Prueba WaveSpeed AI ahora y ve la magia por ti mismo. No se requiere registro.",
+    "ctaText": "Crear Imágenes Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

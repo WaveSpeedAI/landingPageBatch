@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Transform Your Photos with AI Style Transfer",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Transform Your Photos with Artistic Styles",
+    "description": "Elevate your images by applying stunning artistic styles instantly.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo before style transfer"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example photo after style transfer"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Apply Artistic Styles to Your Photos",
+      "prompt": {
+        "heading": " Style Prompt",
+        "placeholder": "E.g., Turn this photo into a Van Gogh painting, make it a watercolor effect..."
+      },
+      "upload": {
+        "heading": " Select image or Input URL"
+      },
+      "processButton": "Transform Photos Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "10M+",
+        "description": "Images Processed"
+      },
+      {
+        "title": "99.8%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "2.5s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Artistic Transformations",
+    "description": "Explore the incredible transformations achieved through AI style transfer, adding uniqueness and flair to your favorite photos.",
+    "items": [
+      {
+        "title": "Impressionist Style",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example of an image transformed into an impressionist style",
+        "description": "Bring the charm of impressionism to your snapshots."
+      },
+      {
+        "title": "Modern Art",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example of an image transformed into modern art style",
+        "description": "Give your photos an abstract and vibrant touch."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI for Style Transfer?",
+    "description": "Our innovative AI technology creates stunning art from your photos with ease and speed.",
+    "items": [
+      {
+        "icon": "brush",
+        "title": "Artistic Variety",
+        "description": "Choose from a wide range of artistic styles to personalize your images like never before."
+      },
+      {
+        "icon": "user-friends",
+        "title": "Intuitive Interface",
+        "description": "User-friendly design means you can start transforming your photos instantly, no experience needed."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Secure Processing",
+        "description": "All transformations occur in your browser, ensuring privacy and security for your personal images."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three simple steps to artistic transformation",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Image",
+        "description": "Start by uploading your photo using drag and drop or by browsing files. Supported formats include JPG, PNG, and WebP."
+      },
+      {
+        "serial": "2",
+        "title": "AI Transformation",
+        "description": "Our advanced AI applies the selected artistic style instantly, while maintaining the original image's integrity."
+      },
+      {
+        "serial": "3",
+        "title": "Download Your Art",
+        "description": "Review your transformed image and download it in high quality to share with others."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join our community of art enthusiasts who elevate their photos with WaveSpeed AI",
+    "items": [
+      {
+        "name": "Emily Clark",
+        "stars": 5,
+        "comment": "The style transfer feature turned my ordinary vacation photos into stunning works of art! I love sharing them."
+      },
+      {
+        "name": "David Rodriguez",
+        "stars": 5,
+        "comment": "As a graphic designer, the variety of styles available has revolutionized my workflow. It’s a fantastic tool!"
+      },
+      {
+        "name": "Jessica Davis",
+        "stars": 5,
+        "comment": "I appreciate how easy it is to use. The results are simply fantastic and privacy-focused."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Discover answers to commonly asked questions about AI style transfer",
+    "items": [
+      {
+        "title": "What types of styles can be applied?",
+        "description": "WaveSpeed AI supports a range of artistic styles, including impressionism, modern art, pop art, and many others, allowing users to experiment and find their unique aesthetic."
+      },
+      {
+        "title": "Is there a cost to use the style transfer feature?",
+        "description": "Yes! Users can access features through daily free credits, with options to upgrade for unlimited transformations. Explore our subscription plans for additional benefits."
+      },
+      {
+        "title": "Can I use my transformed images for commercial projects?",
+        "description": "Paid users can utilize their transformed images for commercial purposes, while free-tier users are limited to personal projects only."
+      },
+      {
+        "title": "How do you ensure privacy during the process?",
+        "description": "All image processing is done locally in your browser using state-of-the-art technology, ensuring your photos remain secure and never leave your device."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Transform Your Photos?",
+    "description": "Try WaveSpeed AI now and witness the magic of style transfer for yourself. No sign-up required.",
+    "ctaText": "Transform Photos Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Conversão de Taxa de Quadros com IA",
+  "meta": {
+    "description": "Eleve a qualidade do seu vídeo com o recurso de Conversão de Taxa de Quadros do WaveSpeed AI. Ajuste a taxa de quadros dos seus vídeos para obter uma reprodução suave e visuais de qualidade profissional. Perfeito para cineastas, criadores de conteúdo e profissionais de marketing. Descubra o futuro da produção de vídeo!",
+    "keywords": "conversão de taxa de quadros com IA, aprimoramento de vídeo, ajuste de taxa de quadros, melhoria da qualidade do vídeo, ferramentas de produção de vídeo, software de vídeo profissional, criação de conteúdo, reprodução de vídeo suave, software de edição, recursos para cineastas"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de IA",
+        "items": [
+          [
+            "Ferramentas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Demonstração",
+        "items": [
+          [
+            "Demonstração",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Conversão de Taxa de Quadros",
+    "subHeading": "Obtenha Reprodução Suave de Vídeo",
+    "description": "Transforme seus vídeos com maior suavidade e clareza ajustando a taxa de quadros para experiências de visualização ideais. Experimente a diferença com nossa solução alimentada por IA.",
+    "tryText": "Experimente Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução de Conversão de Taxa de Quadros com IA do WaveSpeed AI",
+    "left": {
+      "heading": "Desafios Tradicionais",
+      "items": [
+        "Taxas de quadros inconsistentes causando visuais entrecortados",
+        "Ajustes manuais complexos e que consomem tempo",
+        "Altos custos de soluções de software profissionais",
+        "Flexibilidade limitada com a velocidade de reprodução",
+        "Experiência do usuário frustrante para criadores"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeed AI",
+      "items": [
+        "Converta taxas de quadros sem esforço em segundos",
+        "Tecnologia impulsionada por IA para ajustes precisos",
+        "Estrutura de preços acessível - sem taxas ocultas",
+        "Processamento em tempo real para resultados imediatos",
+        "Interface amigável para uma experiência sem complicações"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "Ajustando taxas de quadros de vídeo em 4 passos simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Carregar Vídeo",
+        "text": "Carregue seu arquivo de vídeo na plataforma",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Selecionar Taxa de Quadros",
+        "text": "Escolha a taxa de quadros desejada para conversão (ex: 30fps, 60fps)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Pré-visualização do Ajuste",
+        "text": "Veja uma pré-visualização do seu vídeo com a nova taxa de quadros aplicada",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Baixar Vídeo",
+        "text": "Obtenha seu vídeo polido pronto para distribuição",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Converta Seu Vídeo Agora →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilidades Sem Fim",
+    "description": "Ideal para qualquer tipo de conteúdo de vídeo",
+    "items": [
+      "Produção de filmes",
+      "Aprimoramentos de vídeos do YouTube",
+      "Conteúdo de marketing e promocional",
+      "Contação de histórias em mídias sociais",
+      "Gravações de eventos ao vivo",
+      "Apresentações virtuais",
+      "Destaques de jogos",
+      "Vídeos educacionais"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Veja como os usuários estão aprimorando seus vídeos com IA",
+    "items": [
+      {
+        "tag": "Produção de Filmes",
+        "heading": "Projeto de Filme Independente",
+        "before": {
+          "label": "Antes",
+          "text": "Taxas de Quadros Variáveis"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Reprodução Consistente"
+        },
+        "value": "95%",
+        "key": "Melhoria da Qualidade Visual",
+        "description": "Com a conversão de taxa de quadros, nosso filme agora flui perfeitamente, melhorando dramaticamente a experiência do espectador."
+      },
+      {
+        "tag": "Criação de Conteúdo",
+        "heading": "Canal do YouTube",
+        "before": {
+          "label": "Antes",
+          "text": "Vídeos Entre Cortados"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Reprodução Suave"
+        },
+        "value": "90%",
+        "key": "Aumento de Engajamento",
+        "description": "Converter taxas de quadros revitalizou nosso conteúdo, levando a um aumento notável na retenção de espectadores."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Modelos de IA",
+    "description": "Selecione a configuração de taxa de quadros certa para suas necessidades",
+    "items": [
+      "Conversão Padrão: Ajustes rápidos para taxas de quadros comuns (30fps, 60fps)",
+      "Conversão Avançada: Transições suaves entre taxas de quadros variadas",
+      "Renderização de alta qualidade para visuais impecáveis",
+      "Processamento em lote para múltiplos vídeos simultaneamente",
+      "Feedback instantâneo sobre ajustes e reprodução"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Explore mais ferramentas poderosas de IA para aprimoramento de vídeo"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo o que você precisa saber",
+    "items": [
+      {
+        "question": "Quais taxas de quadros posso converter meu vídeo?",
+        "answer": "Nossa solução permite que você converta para taxas de quadros comuns, como 24fps, 30fps e 60fps. Taxas de quadros personalizadas também estão disponíveis para necessidades especializadas."
+      },
+      {
+        "question": "Como a IA melhora a conversão de taxa de quadros?",
+        "answer": "A tecnologia de IA analisa o conteúdo do seu vídeo para garantir transições suaves, manter a integridade visual e fornecer reprodução ideal sem atrasos."
+      },
+      {
+        "question": "Posso converter múltiplos vídeos ao mesmo tempo?",
+        "answer": "Sim! Nossa plataforma suporta processamento em lote, permitindo que você carregue e converta vários vídeos de uma só vez."
+      },
+      {
+        "question": "Haverá perda de qualidade durante a conversão?",
+        "answer": "Não, nossa conversão de taxa de quadros preserva a qualidade do seu vídeo original enquanto melhora a suavidade da reprodução."
+      },
+      {
+        "question": "Há um limite de comprimento de vídeo para conversão?",
+        "answer": "Não há um limite estrito para o comprimento do vídeo, embora vídeos mais longos possam exigir mais tempo de processamento, dependendo dos ajustes de taxa de quadros escolhidos."
+      },
+      {
+        "question": "Que tipos de vídeos funcionam melhor com o recurso de conversão de taxa de quadros?",
+        "answer": "Todos os tipos de vídeo podem se beneficiar, particularmente aqueles com movimentos rápidos ou taxas de quadros mistas, como sequências de ação ou gravações de diferentes fontes."
+      },
+      {
+        "question": "Preciso de software especial para usar esse recurso?",
+        "answer": "Nenhum software especializado é necessário. A ferramenta de Conversão de Taxa de Quadros com IA é totalmente acessível online através da nossa plataforma WaveSpeed."
+      },
+      {
+        "question": "Quão precisa é a IA ao fazer ajustes?",
+        "answer": "Nossa IA é altamente precisa e foi projetada para garantir que as conversões correspondam às especificações desejadas enquanto mantém a qualidade do vídeo."
+      },
+      {
+        "question": "Posso desfazer alterações feitas durante o processo de conversão?",
+        "answer": "Sim, nossa plataforma permite que você reverta facilmente quaisquer alterações antes de concluir o download."
+      },
+      {
+        "question": "Que suporte você oferece se eu encontrar problemas?",
+        "answer": "Oferecemos documentação detalhada, tutorais em vídeo e suporte ao cliente por e-mail e chat para quaisquer problemas técnicos."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Aprimorar a Qualidade do Seu Vídeo?",
+    "description": "Comece com créditos gratuitos - Experimente a transformação você mesmo",
+    "contactUsText": "Entre em Contato Conosco",
+    "tryText": "Experimente Agora →"
+  },
+  "footer": {
+    "heading": "Pronto para Atualizar Seus Vídeos?",
+    "description": "Experimente o WaveSpeed AI agora e experimente uma qualidade de vídeo mais suave. Sem necessidade de cadastro.",
+    "ctaText": "Converter Taxa de Quadros Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

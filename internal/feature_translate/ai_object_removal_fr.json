@@ -1,0 +1,230 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Suppression d'Objets par IA",
+  "meta": {
+    "description": "Supprimez facilement les objets indésirables de vos images grâce à la fonctionnalité de suppression d'objets de WaveSpeed AI. Parfait pour le e-commerce, la photographie et la création de contenu. Découvrez des montages sans effort propulsés par une technologie IA avancée.",
+    "keywords": "suppression d'objets IA, outil de retouche d'image, amélioration de photo par IA, solution de retouche e-commerce, suppression d'arrière-plan, création de contenu, retouche photo professionnelle, montages sans couture, amélioration de photographie, WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Suppression d'Objets Simplifiée",
+    "subHeading": "Éliminez les Éléments Indésirables de Vos Images",
+    "description": "Effacez instantanément les distractions de vos photos, améliorant ainsi le focus sur votre sujet. Avec une technologie IA de pointe, vous pouvez obtenir des résultats impeccables en quelques secondes. Dites adieu aux objets indésirables et élevez vos visuels dès aujourd'hui !",
+    "tryText": "Supprimer les Objets Maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution de Suppression d'Objets par IA de WaveSpeed AI",
+    "left": {
+      "heading": "Défis de la Retouche d'Image Traditionnelle",
+      "items": [
+        "Retouche manuelle prenant du temps",
+        "Nécessite des compétences avancées en retouche photo",
+        "Coûts élevés pour le retouche professionnelle",
+        "Options limitées pour la suppression d'objets",
+        "Résultats frustrants avec des retouches visibles"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed AI",
+      "items": [
+        "Supprimez rapidement n'importe quel objet en quelques secondes",
+        "Aucune compétence en design requise - Il suffit de télécharger des images",
+        "Précision alimentée par IA pour des retouches impeccables",
+        "Tentatives illimitées jusqu'à obtenir des résultats parfaits",
+        "Tarification abordable sans coûts cachés"
+      ],
+      "tryText": "Essayez"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment Ça Marche",
+    "description": "Obtenez des retouches parfaites en 4 étapes simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Télécharger l'Image",
+        "text": "Téléchargez la photo que vous souhaitez retoucher",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Sélectionner l'Objet",
+        "text": "Mettez en surbrillance l'objet que vous souhaitez supprimer",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Affiner la Retouche",
+        "text": "Ajustez la zone pour garantir une suppression sans couture",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Télécharger la Retouche",
+        "text": "Recevez votre image améliorée en quelques instants",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Supprimer les Objets Indésirables →"
+  },
+  "endlessPossibilities": {
+    "heading": "Opportunités de Retouche Illimitées",
+    "description": "Idéal pour diverses applications et industries",
+    "items": [
+      "Améliorations de produits pour le e-commerce",
+      "Optimisation d'images immobilières",
+      "Retouche photographique",
+      "Améliorations de publications sur les réseaux sociaux",
+      "Visuels pour campagnes publicitaires",
+      "Retouches de photographie d'événements",
+      "Contenu créatif pour blogs",
+      "Retouche photo personnelle"
+    ]
+  },
+  "successStories": {
+    "heading": "Histoires de Succès Réelles",
+    "description": "Découvrez comment les utilisateurs transforment leurs images grâce à l'IA",
+    "items": [
+      {
+        "tag": "E-commerce",
+        "heading": "Boutique de Vêtements en Ligne",
+        "before": {
+          "label": "Avant",
+          "text": "Arrière-plans encombrés"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Focus sur le produit propre"
+        },
+        "value": "95%",
+        "key": "Amélioration de la Clarté de l'Image",
+        "description": "Nos annonces ont enregistré une augmentation de 30% des conversions après avoir éliminé les distractions des images produits en quelques minutes."
+      },
+      {
+        "tag": "Photographie",
+        "heading": "Photographe de Mariage",
+        "before": {
+          "label": "Avant",
+          "text": "Invités indésirables dans les photos"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Images sans couture"
+        },
+        "value": "98%",
+        "key": "Efficacité de Retouche",
+        "description": "Nous avons gagné des heures de retouche en supprimant sans effort des éléments indésirables, nous permettant de nous concentrer sur la livraison de belles photos plus rapidement."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison des Modèles IA",
+    "description": "Sélectionnez le modèle qui correspond à vos besoins de retouche",
+    "items": [
+      "Suppression Basique : Élimination simple d'objets, traitement rapide, idéal pour de petites distractions",
+      "Modèle Avancé : Suppression précise avec arrière-plans complexes, mieux pour un usage professionnel",
+      "Suggestions de retouche en temps réel pour de meilleurs résultats",
+      "Restauration d'images de haute qualité",
+      "Aperçu immédiat des changements avant finalisation",
+      "Droits d'utilisation commerciale inclus"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils IA Connexes",
+    "description": "Découvrez d'autres outils IA puissants pour l'amélioration d'images"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quelle est la précision du processus de suppression d'objets ?",
+        "answer": "Notre technologie IA assure des suppressions très précises avec des artefacts visibles minimaux, rendant vos images paraissant retouchées professionnellement."
+      },
+      {
+        "question": "Puis-je utiliser cette fonctionnalité à des fins commerciales ?",
+        "answer": "Oui ! Toutes les retouches sont couvertes par des droits commerciaux, vous permettant de les utiliser dans votre entreprise sans frais supplémentaires."
+      },
+      {
+        "question": "Quels formats d'image sont pris en charge pour les téléchargements ?",
+        "answer": "Nous supportons les formats JPG, PNG et WebP. Assurez-vous que vos images sont de bonne qualité pour obtenir les meilleurs résultats."
+      },
+      {
+        "question": "Y a-t-il une limite au nombre d'objets que je peux supprimer ?",
+        "answer": "Non, vous pouvez supprimer autant d'objets que nécessaire en une session. Notre IA travaille pour garantir des résultats sans couture pour chaque suppression."
+      },
+      {
+        "question": "Combien de temps prend le processus de retouche ?",
+        "answer": "Le processus est généralement complété en quelques secondes, vous permettant de revenir rapidement à vos projets."
+      },
+      {
+        "question": "Quels types d'images fonctionnent le mieux avec cette fonctionnalité ?",
+        "answer": "Les images avec des sujets et des arrière-plans clairs donnent les meilleurs résultats, cependant, notre IA peut gérer une gamme de scénarios."
+      },
+      {
+        "question": "La technologie peut-elle gérer des arrière-plans complexes ?",
+        "answer": "Oui ! Nos modèles IA avancés peuvent efficacement supprimer des objets tout en préservant la qualité des arrière-plans complexes."
+      },
+      {
+        "question": "Ai-je besoin d'un logiciel spécifique pour utiliser cette fonctionnalité ?",
+        "answer": "Aucun logiciel spécial n'est requis. Il suffit de visiter notre site Web, télécharger vos images, et laisser notre IA faire le travail."
+      },
+      {
+        "question": "Comment cela se compare-t-il à l'embauche d'un éditeur professionnel ?",
+        "answer": "Utiliser notre outil IA est significativement plus rapide et plus rentable, vous permettant d'effectuer des retouches instantanément sans coûts récurrents."
+      },
+      {
+        "question": "Quel support est disponible si je rencontre des problèmes ?",
+        "answer": "Nous offrons un support complet à travers des guides, des tutoriels, et un service client pour vous aider avec tout problème technique."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Transformer Vos Images ?",
+    "description": "Commencez à supprimer des objets en quelques clics - Découvrez la puissance de l'IA aujourd'hui !",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Supprimer les Objets Maintenant →"
+  },
+  "footer": {
+    "heading": "Prêt à Améliorer Vos Photos ?",
+    "description": "Essayez WaveSpeed AI maintenant et profitez d'une retouche sans effort. Aucune inscription requise.",
+    "ctaText": "Supprimer les Objets Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

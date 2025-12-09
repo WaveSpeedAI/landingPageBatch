@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Screen Recorder",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Record Your Screen Effortlessly",
+    "description": "Capture your screen with just a click, creating stunning recordings for tutorials, presentations, or gameplay.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example of a screen before recording"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example of a recorded screen"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Start Recording Your Screen",
+      "prompt": {
+        "heading": "Prompt",
+        "placeholder": "E.g., Record a tutorial for software, capture gameplay, save video calls..."
+      },
+      "upload": {
+        "heading": "Select area to record or Input URL"
+      },
+      "processButton": "Start Recording Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "1M+",
+        "description": "Screens Recorded"
+      },
+      {
+        "title": "98%",
+        "description": "User Satisfaction"
+      },
+      {
+        "title": "30s",
+        "description": "Average Setup Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Recording Examples",
+    "description": "Explore how WaveSpeed AI can help you create engaging recordings easily and effectively.",
+    "items": [
+      {
+        "title": "Tutorial Videos",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example of a tutorial video recording",
+        "description": "Create step-by-step guides effortlessly with high-quality recordings."
+      },
+      {
+        "title": "Gameplay Capture",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example of gameplay capture recording",
+        "description": "Share your gaming moments with friends or upload to platforms."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI Screen Recorder?",
+    "description": "Revolutionize your recording experience with our user-friendly technology.",
+    "items": [
+      {
+        "icon": "desktop",
+        "title": "High-Quality Recordings",
+        "description": "Capture your screen in crisp, clear quality without any lag."
+      },
+      {
+        "icon": "microphone",
+        "title": "Audio Capture",
+        "description": "Record system sound and your voice simultaneously for comprehensive tutorials."
+      },
+      {
+        "icon": "cloud-upload-alt",
+        "title": "Instant Sharing",
+        "description": "Share your recordings with just a few clicks to your favorite platforms."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Follow these simple steps for seamless screen recording",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Select Area",
+        "description": "Choose the portion of your screen you want to record, or select the entire screen."
+      },
+      {
+        "serial": "2",
+        "title": "Start Recording",
+        "description": "Hit the record button and capture all your screen activities effortlessly."
+      },
+      {
+        "serial": "3",
+        "title": "Save & Share",
+        "description": "Preview your recording, edit if needed, and directly share or save to your device."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Discover the difference WaveSpeed AI can make for your recordings",
+    "items": [
+      {
+        "name": "Emily Roberts",
+        "stars": 5,
+        "comment": "The screen recorder is incredibly easy to use! Perfect for making tutorials."
+      },
+      {
+        "name": "John Smith",
+        "stars": 5,
+        "comment": "I love how smooth the recording is; it captures everything without a hitch!"
+      },
+      {
+        "name": "Lisa Wong",
+        "stars": 5,
+        "comment": "The audio feature is a lifesaver for my video calls, and I appreciate the quick sharing options."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Find answers to your inquiries about the Screen Recorder",
+    "items": [
+      {
+        "title": "Can I record my entire screen or just a portion?",
+        "description": "Yes! You can choose to record your entire screen or select a specific region for targeted recordings."
+      },
+      {
+        "title": "Is there a time limit for recordings?",
+        "description": "No, you can record for as long as you need! Just ensure you have enough storage space."
+      },
+      {
+        "title": "Can I include audio in my recordings?",
+        "description": "Absolutely! You can record your system's audio and your voice, making it perfect for tutorials or commentary."
+      },
+      {
+        "title": "What formats can I save my recordings in?",
+        "description": "You can save your recordings in popular formats such as MP4, AVI, and MOV, giving you flexibility for sharing."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Start Recording?",
+    "description": "Try WaveSpeed AI now and capture your moments effortlessly. No sign-up required.",
+    "ctaText": "Start Recording Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Correct Lens Distortions Instantly",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Correct Lens Distortions in Your Photos",
+    "description": "Enhance image quality by automatically fixing lens distortions, ensuring perfect perspective and clarity.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo before lens correction"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example photo after lens correction"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Correct Lens Distortions in Your Photos",
+      "prompt": {
+        "heading": " Prompt",
+        "placeholder": "E.g., Correct barrel distortion, fix perspective issues, adjust image geometry..."
+      },
+      "upload": {
+        "heading": " Select image or Input URL"
+      },
+      "processButton": "Correct Lens Distortions Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "10M+",
+        "description": "Images Processed"
+      },
+      {
+        "title": "99.8%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "2.5s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Witness the transformation as WaveSpeed AI corrects lens distortions and enhances your images with precision.",
+    "items": [
+      {
+        "title": "Fix Barrel Distortion",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing correction of barrel distortion from a photo",
+        "description": "Easily rectify barrel distortion to achieve straight lines and true-to-life images."
+      },
+      {
+        "title": "Correct Perspective Issues",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing correction of perspective issues in a photo",
+        "description": "Adjust perspective for more professional-looking architectural and landscape shots."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Our cutting-edge AI technology ensures your photos look their best effortlessly.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Instant Results",
+        "description": "Receive immediate corrections thanks to our advanced algorithms, without long processing times."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly",
+        "description": "No design skills needed. Simply upload your image and let our AI enhance it for you."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Secured Processing",
+        "description": "Your images are processed locally in your browser, ensuring your privacy and security."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three straightforward steps to flawless images",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Image",
+        "description": "Drag and drop your photo or browse your files. We support JPG, PNG, and WebP formats."
+      },
+      {
+        "serial": "2",
+        "title": "AI Correction",
+        "description": "Our AI intelligently analyzes and corrects lens distortions while retaining image quality."
+      },
+      {
+        "serial": "3",
+        "title": "Download Enhanced Image",
+        "description": "Preview the corrected image using our comparison tool and download it in high resolution."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless satisfied users who improve their photos with our lens correction feature",
+    "items": [
+      {
+        "name": "Emily Davis",
+        "stars": 5,
+        "comment": "AI Lens Correction transformed my landscape shots! The straight lines and clear perspectives made a huge difference."
+      },
+      {
+        "name": "Jacob Lee",
+        "stars": 5,
+        "comment": "As a professional photographer, I rely on WaveSpeed to fix lens distortions quickly and efficiently. It’s a must-have tool!"
+      },
+      {
+        "name": "Mia Patel",
+        "stars": 5,
+        "comment": "I love how easy it is to correct my photos. WaveSpeed has saved me hours of manual editing!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your queries about AI Lens Correction",
+    "items": [
+      {
+        "title": "What types of lens distortions can be corrected?",
+        "description": "WaveSpeed AI can fix various lens distortions such as barrel distortion, pincushion distortion, and perspective distortion, enhancing overall image clarity."
+      },
+      {
+        "title": "Is WaveSpeed free to use?",
+        "description": "Absolutely! Users receive 30 complimentary credits daily, allowing multiple corrections. Earn more credits through surveys or challenges on Discord. For high-volume needs, subscription plans are available."
+      },
+      {
+        "title": "Can I use corrected images for commercial purposes?",
+        "description": "Paid subscribers can use their corrected images commercially. Free-tier users can use them for personal projects but must refrain from commercial use. Please refer to our Terms of Service for details."
+      },
+      {
+        "title": "How is my privacy protected?",
+        "description": "All corrections are performed on your device in your browser. No images are uploaded or stored, ensuring complete privacy and security. Once the tab is closed, all data is deleted."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Enhance Your Photos?",
+    "description": "Try WaveSpeed AI now to experience flawless lens correction. No sign-up required.",
+    "ctaText": "Correct Lens Distortions Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

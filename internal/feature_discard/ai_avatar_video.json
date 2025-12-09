@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Create Stunning AI Avatar Videos",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Bring Your Ideas to Life with AI Avatar Videos",
+    "description": "Transform text scripts into engaging videos featuring lifelike avatars that convey your message effectively.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example AI avatar video concept before generation"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example AI avatar video output after generation"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Generate Your AI Avatar Video",
+      "prompt": {
+        "heading": " Script",
+        "placeholder": "E.g., 'Hello, I'm your virtual assistant!' or 'Learn more about our services.'"
+      },
+      "upload": {
+        "heading": " Select template or Input script"
+      },
+      "processButton": "Create AI Avatar Video Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Videos Generated"
+      },
+      {
+        "title": "98.7%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "10s",
+        "description": "Average Video Creation Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Transformative AI Avatar Videos",
+    "description": "Discover how our platform can elevate your content with engaging avatar presentations.",
+    "items": [
+      {
+        "title": "Educational AI Avatars",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showcasing an educational avatar video",
+        "description": "Create informative videos that captivate your audience."
+      },
+      {
+        "title": "Promotional Avatar Videos",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example of a promotional avatar video",
+        "description": "Engage potential customers with professional-looking avatar ads."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI for Avatar Videos?",
+    "description": "Our cutting-edge AI technology ensures seamless video creation with vibrant avatars.",
+    "items": [
+      {
+        "icon": "film",
+        "title": "High Quality",
+        "description": "Produce stunning videos with realistic avatars that sound just like you."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly",
+        "description": "No video editing experience necessary. Just input your script and watch the magic happen."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Secure Processing",
+        "description": "All your scripts and videos are processed safely without compromising your privacy."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "Creating Your AI Avatar Video Is Easy",
+    "description": "Just follow these three simple steps to get started",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Input Your Script",
+        "description": "Enter your text script or select a template that fits your video idea."
+      },
+      {
+        "serial": "2",
+        "title": "AI Video Generation",
+        "description": "Our advanced AI engine transforms your text into engaging videos featuring dynamic avatars."
+      },
+      {
+        "serial": "3",
+        "title": "Preview & Download",
+        "description": "Review your video and download it in high-quality format to share with your audience."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Are Saying",
+    "description": "Join the community of satisfied users enhancing their content with AI avatars",
+    "items": [
+      {
+        "name": "Emily Carter",
+        "stars": 5,
+        "comment": "The AI Avatar Video feature exceeded my expectations! Creating video content has never been this easy."
+      },
+      {
+        "name": "John Smith",
+        "stars": 5,
+        "comment": "As a content creator, I love how my messages come to life with realistic avatars. It's a game-changer!"
+      },
+      {
+        "name": "Lisa Wang",
+        "stars": 5,
+        "comment": "Impressed with the speed and quality! This tool has made my presentations stand out."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your questions about AI Avatar Videos",
+    "items": [
+      {
+        "title": "What can I use AI Avatar Videos for?",
+        "description": "You can use AI Avatar Videos for a variety of purposes, including marketing, education, social media content, and personal projects. The avatars can present information, promote products, or deliver personalized messages."
+      },
+      {
+        "title": "Is there a limit to the videos I can create?",
+        "description": "There is no strict limit! Each user can create a set number of videos daily, with options to earn more credits for additional creations."
+      },
+      {
+        "title": "Do I need any prior video editing experience?",
+        "description": "No experience is required! Our platform is designed for anyone to create stunning videos effortlessly."
+      },
+      {
+        "title": "Can I use my avatar videos commercially?",
+        "description": "Yes, users on paid plans can use their avatar videos for commercial purposes. Free-tier users can create content for personal use."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Create Your AI Avatar Video?",
+    "description": "Try WaveSpeed AI now and see the difference in your video content. No sign-up needed.",
+    "ctaText": "Create AI Avatar Video Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

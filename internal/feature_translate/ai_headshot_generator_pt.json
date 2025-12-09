@@ -1,0 +1,230 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Gerador de Headshots com IA",
+  "meta": {
+    "description": "Crie instantaneamente headshots profissionais com tecnologia de IA. Melhore sua marca pessoal e presença online sem esforço. Perfeito para perfis do LinkedIn, sites corporativos e muito mais!",
+    "keywords": "gerador de headshots com IA, headshots profissionais, ferramenta de retrato com IA, branding pessoal, foto de perfil do LinkedIn, headshots virtuais, fotografia corporativa, presença online, gerador de fotos inteligente, identidade digital, foto de perfil em redes sociais"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de IA",
+        "items": [
+          [
+            "Ferramentas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Exposição",
+        "items": [
+          [
+            "Exposição",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Gerador de Headshots com IA",
+    "subHeading": "Crie Headshots Impressionantes em Momentos",
+    "description": "Produza headshots de alta qualidade e profissionais com apenas alguns cliques. Sem fotógrafos, sem estúdios necessários. Melhore sua imagem online e se destaque hoje!",
+    "tryText": "Crie Seu Headshot Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução Gerador de Headshots com IA WaveSpeed AI",
+    "left": {
+      "heading": "Desafios de Retratos Tradicionais",
+      "items": [
+        "Fotógrafos podem ser caros ($300-1000 por sessão)",
+        "Logística de agendamento e localização",
+        "Múltiplas refilmagens para perfeição",
+        "Estilos e fundos limitados",
+        "Alta barreira para imagens profissionais rápidas"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeedAI",
+      "items": [
+        "Gere headshots impressionantes em menos de 2 minutos",
+        "Sem necessidade de fotógrafo - Basta enviar sua foto",
+        "Edições e opções de personalização instantâneas",
+        "Estilos e fundos ilimitados para escolher",
+        "Preços acessíveis - Ideal para todos"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "De uma foto simples a um headshot polido em 4 etapas",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Enviar Imagem",
+        "text": "Envie sua foto clara ou selfie",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Selecionar Estilo",
+        "text": "Escolha seu estilo de headshot preferido (por exemplo, corporativo, casual)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Personalizar Aparência",
+        "text": "Ajuste iluminação, fundo e outros elementos",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Baixar Headshot",
+        "text": "Receba seu headshot polido em alta resolução",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Obtenha Seu Headshot Profissional →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilidades Infinitas",
+    "description": "Perfeito para profissionais de qualquer área",
+    "items": [
+      "Fotos de perfil do LinkedIn",
+      "Headshots de equipes corporativas",
+      "Branding pessoal para empreendedores",
+      "Fotos de perfil em redes sociais",
+      "Audições e testes",
+      "Perfis de palestras em conferências",
+      "Perfis de encontros online",
+      "Fotos de integração de funcionários"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Descubra como os profissionais melhoram sua imagem com IA",
+    "items": [
+      {
+        "tag": "Profissionais Corporativos",
+        "heading": "Atualização de Perfil do LinkedIn",
+        "before": {
+          "label": "Antes",
+          "text": "Fotos amadoras"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Headshot profissional"
+        },
+        "value": "250%",
+        "key": "Aumento de Visualizações de Perfil",
+        "description": "Depois de usar nosso gerador de headshots, minhas visualizações de perfil dispararam. Consegui 3 entrevistas em uma semana!"
+      },
+      {
+        "tag": "Freelancers",
+        "heading": "Branding Pessoal",
+        "before": {
+          "label": "Antes",
+          "text": "Imagens não profissionais"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Headshots atualizados e elegantes"
+        },
+        "value": "300%",
+        "key": "Engajamento de Clientes",
+        "description": "Transformar meus visuais ajudou a aumentar minhas consultas de clientes. Pareci credível e confiável."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Modelos de IA",
+    "description": "Selecione o estilo ideal para seu headshot",
+    "items": [
+      "Padrão: Headshots de alta qualidade e realistas para perfis",
+      "Premium: Recursos aprimorados com iluminação e efeitos de sombra avançados",
+      "Estilos na moda com fundos únicos",
+      "Mistura casual e profissional para versatilidade",
+      "Entrega instantânea com várias variações para escolher",
+      "Otimizados para uso online com alta resolução disponível"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Explore mais ferramentas de IA inovadoras para branding pessoal"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo que você precisa saber",
+    "items": [
+      {
+        "question": "Que qualidade posso esperar do headshot?",
+        "answer": "Nosso gerador produz headshots em alta resolução que são vibrantes e profissionais. Você pode escolher entre qualidade padrão para downloads rápidos ou opções premium para maior profundidade e detalhe."
+      },
+      {
+        "question": "Posso personalizar o estilo do meu headshot?",
+        "answer": "Claro! Nossa ferramenta permite que você selecione entre vários estilos e ajuste fundos, iluminação e mais para atender às suas necessidades."
+      },
+      {
+        "question": "Que tipos de imagens funcionam melhor para o gerador de headshots?",
+        "answer": "Imagens claras e bem iluminadas funcionam melhor. Recomendamos o uso de fotos com boa resolução, idealmente acima de 512x512 pixels, para resultados ideais."
+      },
+      {
+        "question": "Como uso o headshot para perfis online?",
+        "answer": "Uma vez que seu headshot é gerado, você pode baixá-lo e facilmente carregá-lo na plataforma desejada, incluindo LinkedIn, sites corporativos e mais."
+      },
+      {
+        "question": "Há um custo para gerar headshots?",
+        "answer": "Operamos com um modelo flexível de pagamento conforme o uso, sem assinaturas. Você paga apenas pelos headshots que cria, tornando-o acessível para todos."
+      },
+      {
+        "question": "Quanto tempo leva para gerar um headshot?",
+        "answer": "Normalmente, a geração do headshot leva de 1 a 2 minutos. Você pode criar múltiplos headshots nesse intervalo, se necessário."
+      },
+      {
+        "question": "E se eu precisar de ajuda ou suporte?",
+        "answer": "Fornecemos recursos extensivos, incluindo tutoriais, melhores práticas e suporte ao cliente via chat e e-mail para todas as suas dúvidas."
+      },
+      {
+        "question": "Eu possuo os direitos dos headshots gerados?",
+        "answer": "Sim! Você tem total direito comercial para usar seus headshots livremente em todas as plataformas sem taxas adicionais."
+      },
+      {
+        "question": "Posso editar os headshots gerados depois?",
+        "answer": "Sim! Você pode baixar seu headshot e usar ferramentas externas para edição adicional, se desejado."
+      },
+      {
+        "question": "Quais são os melhores casos de uso para o gerador de headshots com IA?",
+        "answer": "Esta tecnologia é perfeita para criar imagens profissionais para LinkedIn, sites corporativos, redes sociais e qualquer contexto onde as primeiras impressões importam."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Criar Seu Headshot Profissional?",
+    "description": "Comece com créditos gratuitos - Experimente por si mesmo",
+    "contactUsText": "Entre em Contato Conosco",
+    "tryText": "Crie Seu Headshot Agora →"
+  },
+  "footer": {
+    "heading": "Pronto para Melhorar Sua Imagem?",
+    "description": "Experimente o WaveSpeed AI agora e veja a diferença por si mesmo. Nenhum cadastro necessário.",
+    "ctaText": "Crie Headshots Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

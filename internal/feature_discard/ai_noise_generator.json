@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Generate Stunning Background Noise Texture",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Enhance Your Audio with AI Noise Generation",
+    "description": "Transform your audio projects by generating high-quality noise textures effortlessly.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example audio before noise generation"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example audio after noise generation"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Generate Realistic Noise",
+      "prompt": {
+        "heading": "Prompt",
+        "placeholder": "E.g., Generate white noise, create calming background sounds, add ambiance..."
+      },
+      "upload": {
+        "heading": "Select audio input file or URL"
+      },
+      "processButton": "Generate Noise Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Audio Files Processed"
+      },
+      {
+        "title": "98.7%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "3.0s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Audio Examples",
+    "description": "Witness the transformation our AI can make to your audio projects with immersive noise textures.",
+    "items": [
+      {
+        "title": "Create Ambient Soundscapes",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing creation of ambient soundscape",
+        "description": "Craft serene background noise perfect for relaxation or focus."
+      },
+      {
+        "title": "Enhance Audio Productions",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing enhancement of audio productions",
+        "description": "Add depth to your audio projects with high-quality noise generation."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI Noise Generator?",
+    "description": "Our cutting-edge noise generation technology elevates your sound design effortlessly.",
+    "items": [
+      {
+        "icon": "music",
+        "title": "Dynamic Soundscapes",
+        "description": "Generate a variety of noise types, from white noise to pink noise, tailored to your needs."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "Effortlessly create stunning audio textures with just a few clicks. No technical expertise required."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Secure Processing",
+        "description": "Your audio files are processed locally, ensuring complete privacy and data protection."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three simple steps to amazing audio textures",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Your Audio",
+        "description": "Upload your audio file or provide a URL. We support many file formats for seamless integration."
+      },
+      {
+        "serial": "2",
+        "title": "AI Noise Generation",
+        "description": "Our sophisticated AI algorithms generate noise that perfectly complements your audio, enhancing the overall experience."
+      },
+      {
+        "serial": "3",
+        "title": "Download and Use",
+        "description": "Preview your new audio texture and download it instantly for use in any project."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless satisfied creators who enhance their audio with WaveSpeed AI",
+    "items": [
+      {
+        "name": "Emily Parker",
+        "stars": 5,
+        "comment": "The AI Noise Generator has transformed the way I approach audio projects. It’s so easy to use!"
+      },
+      {
+        "name": "Daniel Kim",
+        "stars": 5,
+        "comment": "As a sound designer, this tool has opened up new possibilities for my work. The quality is exceptional!"
+      },
+      {
+        "name": "Jenna Lewis",
+        "stars": 5,
+        "comment": "I love that my audio never leaves my device. It gives me peace of mind while I create."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to common questions about the AI Noise Generator",
+    "items": [
+      {
+        "title": "What types of noise can I generate?",
+        "description": "You can generate various types of noise including white noise, pink noise, and brown noise, each serving different purposes in audio production."
+      },
+      {
+        "title": "Is the noise generation service free?",
+        "description": "Absolutely! Users receive daily credits to generate noise, with options to earn more through engagement. Professional plans are available for higher volume requirements."
+      },
+      {
+        "title": "Can I use generated noise in commercial projects?",
+        "description": "Yes, users with a subscription plan can use the generated noise for commercial purposes, while free-tier users may use it for personal projects only."
+      },
+      {
+        "title": "How does privacy work when using the tool?",
+        "description": "All audio processing takes place locally in your browser, ensuring your files are never uploaded or stored externally, maintaining your confidentiality completely."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Enhance Your Audio?",
+    "description": "Try the AI Noise Generator today and elevate your sound experience. No sign-up necessary.",
+    "ctaText": "Generate Noise Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

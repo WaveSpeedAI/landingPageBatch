@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Frame Rate Conversion Made Easy",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Smooth Video Playback with Frame Rate Conversion",
+    "description": "Enhance your videos by converting frame rates seamlessly for a superior viewing experience.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Video clip before frame rate conversion"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Video clip after frame rate conversion"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Convert Frame Rates Effortlessly",
+      "prompt": {
+        "heading": "Prompt",
+        "placeholder": "E.g., Convert 30fps to 60fps for smoother playback."
+      },
+      "upload": {
+        "heading": " Select video or Input URL"
+      },
+      "processButton": "Convert Frame Rate Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "20M+",
+        "description": "Videos Processed"
+      },
+      {
+        "title": "99.9%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "3.0s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Discover how our AI technology transforms video frame rates for perfect playback.",
+    "items": [
+      {
+        "title": "30fps to 60fps Conversion",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing conversion of frame rates in a video",
+        "description": "Achieve smoother motion in videos for an enhanced viewing experience."
+      },
+      {
+        "title": "Improving Frame Rate Quality",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing quality improvement in frame rates",
+        "description": "Enhance video fidelity by adjusting frame rates for optimal playback."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI for Frame Rate Conversion?",
+    "description": "Experience top-notch video quality with our advanced AI frame rate conversion technology.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Instant Processing",
+        "description": "Get quick conversions with our robust AI algorithms. No lengthy waits."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "Upload your videos effortlessly. Our AI handles the rest, ensuring ease of use."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Secure and Private",
+        "description": "All processing occurs with guaranteed privacy. Your videos remain safe and secure."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Transforming frame rates in three effortless steps",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Video",
+        "description": "Drag and drop your video file or browse for it. We support various formats."
+      },
+      {
+        "serial": "2",
+        "title": "AI Conversion",
+        "description": "Our AI intelligently adjusts the frame rate, ensuring smooth and high-quality playback."
+      },
+      {
+        "serial": "3",
+        "title": "Download Your Video",
+        "description": "Preview the differences with our comparison feature and download your polished video."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless satisfied customers experiencing seamless frame rate conversion",
+    "items": [
+      {
+        "name": "Anna Lee",
+        "stars": 5,
+        "comment": "WaveSpeed transformed my travel videos with smooth playback! Highly recommend!"
+      },
+      {
+        "name": "James Smith",
+        "stars": 5,
+        "comment": "As a content creator, the frame rate conversion has saved me so much time."
+      },
+      {
+        "name": "Emily Davis",
+        "stars": 5,
+        "comment": "I love how quick and effective the process is. My videos look fantastic!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your questions about frame rate conversion with WaveSpeed AI",
+    "items": [
+      {
+        "title": "What is frame rate conversion?",
+        "description": "Frame rate conversion is the process of changing the speed of a video by adjusting the number of frames displayed per second, enhancing smoothness and playback quality."
+      },
+      {
+        "title": "Is there a limit to video length?",
+        "description": "Yes! Each user can convert videos up to 30 minutes long using the free service. Longer videos can be processed with a subscription."
+      },
+      {
+        "title": "Can I use converted videos for commercial projects?",
+        "description": "Absolutely! All converted content can be used commercially as long as you’re subscribed."
+      },
+      {
+        "title": "How secure is my video during the conversion?",
+        "description": "Your videos are processed directly in your browser, ensuring privacy and security. Once the browser is closed, all data is cleared."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Transform Your Videos?",
+    "description": "Try WaveSpeed AI now and experience smoother playback. No registration needed.",
+    "ctaText": "Convert Frame Rate Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

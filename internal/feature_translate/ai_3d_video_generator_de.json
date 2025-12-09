@@ -1,0 +1,230 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - KI 3D Video Generator",
+  "meta": {
+    "description": "Verwandeln Sie mühelos statische Bilder in fesselnde 3D-Videos mit WaveSpeed's KI-Technologie. Perfekt für E-Commerce und Marketing, ermöglicht schnelle, hochwertige Videoerstellung ohne Filmen oder Schnittaufwand. Erleben Sie noch heute die revolutionären Vorteile der KI-gesteuerten Videoerstellung!",
+    "keywords": "3D Video Generator, KI Videoerstellung, Produktanimation KI, E-Commerce Video Maker, WaveSpeed AI, Videoerstellungstechnologie, Online Video Tool, schnelle Video-Produktion, dynamischer Videoinhalt, Marketing Video-Lösung, automatisierte Videoerstellung, Shopify Video-Tools"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI-Tools",
+        "items": [
+          [
+            "KI-Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "3D Videoerstellung",
+    "subHeading": "Beleben Sie Ihre Bilder mit atemberaubenden 3D-Videos",
+    "description": "Verwandeln Sie Ihre Produktbilder mit nur wenigen Klicks in atemberaubende 3D-Videos. Sparen Sie Zeit und Ressourcen, während Sie Ihr Publikum mit ansprechendem Videoinhalt begeistern, der von fortschrittlicher KI-Technologie erstellt wurde. Handeln Sie jetzt und sehen Sie die Ergebnisse!",
+    "tryText": "Jetzt erstellen",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI KI 3D Video Generator Lösung",
+    "left": {
+      "heading": "Herausforderungen der traditionellen Videoproduktion",
+      "items": [
+        "Hohe Kosten (2000-5000 $ pro Projekt)",
+        "Professionelles Team und Ausrüstung erforderlich",
+        "Lange Schnittprozesse (2-7 Tage)",
+        "Begrenzte Überarbeitungen und Feedbackmöglichkeiten",
+        "Schwierig für kleine Unternehmen, sich das zu leisten"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Lösung",
+      "items": [
+        "Erstellen Sie atemberaubende 3D-Videos in nur 1-2 Minuten",
+        "Kein Filmen oder Team erforderlich - Einfach Ihre Bilder hochladen",
+        "Schnelle KI-gesteuerte Videoerstellung",
+        "Unbegrenzte Video-Variationen mit Leichtigkeit",
+        "Flexible Preisgestaltung pro Video, angepasst an jedes Budget"
+      ],
+      "tryText": "Jetzt erstellen!"
+    }
+  },
+  "howItWorks": {
+    "heading": "So funktioniert es",
+    "description": "Verwandeln Sie Ihre Bilder in dynamische 3D-Videos in 4 einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Laden Sie Ihr Bild hoch",
+        "text": "Laden Sie einfach Ihr statisches Bild oder Produktfoto hoch",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Bewegungseinstellungen definieren",
+        "text": "Beschreiben Sie optional, wie Sie sich die Bewegung vorstellen (z.B. \"langsam drehen\")",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Wählen Sie Ihren 3D-Stil",
+        "text": "Wählen Sie den Stil, der am besten zu Ihrer Marke passt: Premium oder Schnell",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Laden Sie Ihr Video herunter",
+        "text": "Erhalten Sie Ihr hochwertiges 3D-Video in nur 1-2 Minuten",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Erstellen Sie Ihr erstes 3D-Video →"
+  },
+  "endlessPossibilities": {
+    "heading": "Unendliche Möglichkeiten mit 3D-Videos",
+    "description": "Vielseitige Anwendungen in verschiedenen Branchen",
+    "items": [
+      "Atemberaubende Produktvideos für Amazon, Shopify",
+      "Auffällige Social-Media-Videos (Instagram, TikTok, Facebook)",
+      "Fesselnde Marketinganzeigen",
+      "Dynamische Vorher/Nachher-Vorführungen",
+      "Informative Tutorial- und Demovideos",
+      "Fesselnde Immobilienbesichtigungen",
+      "Verlockende Lebensmittel- und Rezeptinhalte",
+      "Modepräsentationsvideos"
+    ]
+  },
+  "successStories": {
+    "heading": "Transformative Erfolgsgeschichten",
+    "description": "Entdecken Sie, wie Unternehmen KI nutzen, um ihre Videoinhalte zu verbessern",
+    "items": [
+      {
+        "tag": "Technik-Gadgets",
+        "heading": "Verbesserung von Amazon Elektronik-Listings",
+        "before": {
+          "label": "Vorher",
+          "text": "Unbezahlbar"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Kosteneffiziente Lösung"
+        },
+        "value": "95%",
+        "key": "Kostenersparnis",
+        "description": "Generierte 3D-Videos für über 30 Listings an einem Tag und steigerte die Konversionen um 50%!"
+      },
+      {
+        "tag": "Innenarchitektur",
+        "heading": "Updates für Shopify Wohnkultur",
+        "before": {
+          "label": "Vorher",
+          "text": "5 Tage"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Weniger als 3 Minuten"
+        },
+        "value": "98%",
+        "key": "Effizienz",
+        "description": "Unser Marketingteam kann nun sofort mit verschiedenen Videostilen experimentieren, was das Kundenengagement erheblich steigert."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Vergleich der 3D Video Modelle",
+    "description": "Wählen Sie das ideale Modell für Ihre Anforderungen",
+    "items": [
+      "Premium 3D Modell: Hochauflösende Qualität, längere Dauer, fotorealistische Ergebnisse",
+      "Schnelles Modell: Standardqualität, kürzere Dauer, effizient und budgetfreundlich",
+      "Natürliche Bewegungssteuerung durch beschreibenden Text",
+      "Sichere Kamerabewegungen und -übergänge",
+      "Schnelle Videoerstellung in 1-2 Minuten",
+      "Kommerzielle Nutzungsrechte in allen Paketen enthalten"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Verwandte KI-Tools",
+    "description": "Erkunden Sie weitere KI-Tools für verbesserte E-Commerce-Erlebnisse"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welche Videoqualität und -dauer kann ich erwarten?",
+        "answer": "Das Premium-Modell produziert atemberaubende hochauflösende 3D-Videos, während das schnelle Modell Standardqualität bietet, optimiert für Geschwindigkeit. Beide liefern professionelle Ergebnisse, ideal für E-Commerce und Marketing."
+      },
+      {
+        "question": "Kann ich die Bewegung und Effekte des Videos anpassen?",
+        "answer": "Absolut! Sie haben die volle Kontrolle über die Bewegung durch natürliche Eingaben, sodass Sie jede Kamerabewegung oder -aktion definieren können, und die KI realistische Dynamik anwenden kann."
+      },
+      {
+        "question": "Welche Bildformate eignen sich am besten zur Generierung von 3D-Videos?",
+        "answer": "Klare Produktbilder auf einfachen Hintergründen liefern die besten Ergebnisse, wobei JPG, PNG und WebP Formate alle unterstützt werden. Stellen Sie sicher, dass die Bilder hochauflösend und gut beleuchtet sind für optimale Ergebnisse."
+      },
+      {
+        "question": "Wie unterscheidet sich das von einfachen Animationswerkzeugen?",
+        "answer": "Unsere KI-Technologie führt echte 3D-Bewegungen ein, die realistische physische Aktionen und Übergänge simulieren, was sie von einfacher Folienanimation mit statischen Bildern unterscheidet."
+      },
+      {
+        "question": "Kann ich die Videoqualität nach der Erstellung verbessern?",
+        "answer": "Ja, nutzen Sie unsere Upscaling-Tools, um KI-generierte Videos zu verbessern und die Auflösung sowie Klarheit ohne zusätzliche Kosten zu erhöhen. Dies ist besonders effektiv, wenn Modelle kombiniert werden."
+      },
+      {
+        "question": "Wie ist die Preisstruktur für die Videoerstellung?",
+        "answer": "WaveSpeed folgt einem Pay-as-you-go-Modell ohne versteckte Gebühren. Sie zahlen nur für die tatsächlich erstellten Videos, ohne Verpflichtungen für Mindestkäufe."
+      },
+      {
+        "question": "Wie lange dauert die typische Videoerstellung und kann ich mehrere gleichzeitig produzieren?",
+        "answer": "Die Videoerstellung ist schnell, in der Regel innerhalb von 1-2 Minuten, wobei eine Batch-Verarbeitung für die gleichzeitige Erstellung mehrerer Videos verfügbar ist."
+      },
+      {
+        "question": "Was sind die optimalen Anwendungsfälle für die 3D Video-Technologie?",
+        "answer": "Diese Technologie eignet sich hervorragend für Produktpräsentationen im Online-Handel, dynamische Social-Media-Inhalte, fesselnde Marketingvideos und alle Bereiche, die visuell ansprechendes Material benötigen."
+      },
+      {
+        "question": "Werde ich die kommerziellen Rechte an meinen Videos besitzen?",
+        "answer": "Ja, alle produzierten Videos gewähren volle kommerzielle Rechte, die eine unbegrenzte Nutzung auf verschiedenen Plattformen ohne zusätzliche Gebühren oder Lizenzgebühren ermöglichen."
+      },
+      {
+        "question": "Welche Unterstützungsressourcen stehen den Benutzern zur Verfügung?",
+        "answer": "WaveSpeed bietet umfassende Unterstützung durch Dokumentation, Tutorials und Kundenservice für technische Unterstützung, um ein nahtloses Benutzererlebnis zu gewährleisten."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Ihre Bilder zum Leben zu erwecken?",
+    "description": "Starten Sie mit kostenlosen Guthaben und erleben Sie noch heute die Magie!",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Erstellen Sie mein 3D-Video jetzt →"
+  },
+  "footer": {
+    "heading": "Neugierig, Ihre Bilder in 3D-Videos zu verwandeln?",
+    "description": "Erleben Sie WaveSpeed AI und den Unterschied, den es macht - Keine Anmeldung erforderlich.",
+    "ctaText": "Jetzt 3D-Videos erstellen",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

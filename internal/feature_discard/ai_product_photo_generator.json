@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Product Photo Generator",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Generate Stunning Product Photos Instantly",
+    "description": "Unleash your creativity with our AI tool that effortlessly generates high-quality product images from simple prompts.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example product photo before generation"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example product photo after generation"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Create Stunning Product Images",
+      "prompt": {
+        "heading": " Prompt",
+        "placeholder": "E.g., Generate a sleek smartphone product image, create a stylish watch photo..."
+      },
+      "upload": {
+        "heading": " Select image or Input URL"
+      },
+      "processButton": "Generate Product Photo Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "10M+",
+        "description": "Product Images Created"
+      },
+      {
+        "title": "99.8%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "2.5s",
+        "description": "Average Generation Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Explore how our AI can craft impressive product visuals tailored to your needs.",
+    "items": [
+      {
+        "title": "Sleek Smartphone Design",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing a generated smartphone product photo",
+        "description": "Transform concept ideas into professional-looking product images."
+      },
+      {
+        "title": "Stylish Watch Presentation",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing a generated watch product photo",
+        "description": "Showcase your products in a captivating manner, drawing customer attention."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Experience top-notch product image generation with cutting-edge AI.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Instant Results",
+        "description": "Receive high-quality product images in seconds, no lengthy editing required."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly",
+        "description": "Designed for everyone! Upload your simple ideas and let our AI bring them to life."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Data Security",
+        "description": "Your concepts are securely processed in your browser, ensuring complete privacy."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three easy steps to generate stunning product photos",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Input Your Prompt",
+        "description": "Simply describe the product image you envision, and our AI will interpret your request."
+      },
+      {
+        "serial": "2",
+        "title": "AI Generation",
+        "description": "Our advanced AI utilizes your prompt to create a stunning product image tailored to your specifications."
+      },
+      {
+        "serial": "3",
+        "title": "Review and Download",
+        "description": "Check the generated image, make any adjustments if needed, and download your high-quality product photo."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless users who enhance their marketing with our AI Product Photo Generator",
+    "items": [
+      {
+        "name": "Emily Carter",
+        "stars": 5,
+        "comment": "The AI photo generator saved my product launch! I got amazing images in no time and my sales skyrocketed."
+      },
+      {
+        "name": "David Brown",
+        "stars": 5,
+        "comment": "As an e-commerce owner, this tool is invaluable for creating captivating product visuals without breaking the bank."
+      },
+      {
+        "name": "Jessica Lee",
+        "stars": 5,
+        "comment": "I love how easy it is to generate professional-looking images. It's revolutionized the way I promote my products!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your queries about the AI Product Photo Generator",
+    "items": [
+      {
+        "title": "What types of products can I generate images for?",
+        "description": "You can generate images for a wide range of products, from electronics to jewelry and everything in between. Our AI is designed to understand your prompts and create relevant product images."
+      },
+      {
+        "title": "Is WaveSpeed free to use?",
+        "description": "Absolutely! Users receive 30 free credits every day, sufficient for generating numerous product images. For those needing more, we provide affordable subscription options."
+      },
+      {
+        "title": "Can I use generated images for commercial purposes?",
+        "description": "Yes! Paid subscription users can use generated images for all commercial purposes. Free users can utilize images for personal needs only."
+      },
+      {
+        "title": "How does your privacy policy work?",
+        "description": "Images are processed directly in your browser, ensuring complete privacy as no data is uploaded or stored remotely. Once you close the tab, all processing data is removed."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Generate Stunning Product Images?",
+    "description": "Try WaveSpeed AI now and experience the transformation. No sign-up required.",
+    "ctaText": "Generate Product Photo Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

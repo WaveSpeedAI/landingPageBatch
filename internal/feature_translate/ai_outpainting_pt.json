@@ -1,0 +1,222 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Pintura AI",
+  "meta": {
+    "description": "Revolucione seu processo criativo com a Pintura AI. Estenda suas imagens sem esforço e crie visuais deslumbrantes. Ideal para artistas, designers e profissionais de marketing que desejam aprimorar suas imagens com tecnologia de IA. Liberte sua criatividade agora!",
+    "keywords": "pintura AI, extensão de imagem, aprimoramento criativo, ferramentas de imagem AI, design artístico, arte digital, visuais de marketing, imagens de e-commerce, transformação de obras de arte, ferramentas WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de IA",
+        "items": [
+          [
+            "Ferramentas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Mostruário",
+        "items": [
+          [
+            "Mostruário",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Pintura AI",
+    "subHeading": "Transforme Suas Imagens Como Nunca Antes",
+    "description": "Aprimore suas imagens estendendo-as de forma contínua com IA. Crie visuais deslumbrantes que cativam e inspiram sem a necessidade de habilidades avançadas de design. Experimente o poder da Pintura AI – perfeito para artistas, profissionais de marketing e criadores. Leve suas imagens mais longe!",
+    "tryText": "Experimente Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução de Pintura AI WaveSpeed AI",
+    "left": {
+      "heading": "Desafios Tradicionais",
+      "items": [
+        "A edição de imagens requer habilidades extensas e software",
+        "Processos demorados com resultados limitados",
+        "Altos custos associados ao design profissional",
+        "Dificuldades em criar visuais coesos em formatos diversos",
+        "Bloqueios criativos atrapalham o fluxo de trabalho"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeed AI",
+      "items": [
+        "Estenda imagens sem esforço para criar visuais expansivos",
+        "Nenhuma habilidade de design necessária - Basta enviar sua imagem",
+        "Melhorias instantâneas geradas por IA para resultados deslumbrantes",
+        "Possibilidades criativas ilimitadas e iterações",
+        "Preços acessíveis para todos os orçamentos"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "Transforme suas imagens em 4 passos simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Envie Sua Imagem",
+        "text": "Escolha a imagem que deseja aprimorar ou estender",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Defina Sua Visão",
+        "text": "Opcional: Descreva o que deseja adicionar ou estender",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Selecione o Estilo Artístico",
+        "text": "Escolha entre vários estilos artísticos que atendem às suas necessidades",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Baixe Sua Imagem Aprimorada",
+        "text": "Receba sua imagem transformada em minutos",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Gere Sua Primeira Imagem →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilidades Sem Fim",
+    "description": "Perfeito para todos os empreendimentos criativos",
+    "items": [
+      "Extensões de obra de arte ou murais",
+      "Aprimoramento de imagens de produtos de e-commerce",
+      "Projetos de design gráfico",
+      "Expansão de conteúdo para redes sociais",
+      "Materiais impressos e publicações",
+      "Visuais e banners para websites",
+      "Imagens de eventos e publicidade",
+      "Arte conceitual e ilustrações"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Descubra como criadores estão transformando suas imagens com IA",
+    "items": [
+      {
+        "tag": "Arte de Jogos",
+        "heading": "Arte Conceitual de Jogo Épico",
+        "before": {
+          "label": "Antes",
+          "text": "Cenários básicos"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Paisagens vibrantes e extensas"
+        },
+        "value": "150%",
+        "key": "Apelo Visual",
+        "description": "As melhorias deram vida aos nossos ambientes, levando a um maior engajamento e interesse em nosso jogo."
+      },
+      {
+        "tag": "E-commerce",
+        "heading": "Extensão de Fotografia de Produtos",
+        "before": {
+          "label": "Antes",
+          "text": "Imagens simples de produtos"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Visuais dinâmicos e detalhados"
+        },
+        "value": "200%",
+        "key": "Aumento de Vendas",
+        "description": "Transformamos fotos de produtos em experiências imersivas, aumentando significativamente as compras dos clientes."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Estilo de Pintura AI",
+    "description": "Escolha o estilo certo para suas necessidades visionárias",
+    "items": [
+      "Impressionista: Traços suaves e misturados para um visual onírico",
+      "Realista: Bordas nítidas e cores vibrantes para aprimoramentos realistas",
+      "Surreal: Designs únicos com elementos imaginativos",
+      "Fantasia: Cenas de outros mundos que cativam os espectadores",
+      "Minimalista: Melhorias limpas e discretas que focam no sujeito",
+      "Abstrato: Expressões criativas que desafiam limites"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Explore mais ferramentas inovadoras para seus projetos criativos"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo o que você precisa saber",
+    "items": [
+      {
+        "question": "Quais tipos de arquivos de imagem posso usar com a Pintura AI?",
+        "answer": "A Pintura AI suporta formatos JPG, PNG e WebP. Para melhores resultados, as imagens devem ser grandes e claras, idealmente 1024x1024 pixels ou superior."
+      },
+      {
+        "question": "Posso personalizar como a IA aprimora minha imagem?",
+        "answer": "Sim! Você pode fornecer descrições do que deseja adicionar ou como gostaria que a imagem fosse estendida para resultados personalizados."
+      },
+      {
+        "question": "Quão rapidamente posso esperar que minha imagem aprimorada esteja pronta?",
+        "answer": "A maioria das transformações é concluída em minutos, permitindo um fluxo de trabalho eficiente para maximizar sua produtividade."
+      },
+      {
+        "question": "Existem limitações na qualidade da saída?",
+        "answer": "A qualidade da saída manterá a resolução da sua imagem original enquanto a aprimora para criar efeitos visuais deslumbrantes."
+      },
+      {
+        "question": "Posso usar as imagens aprimoradas comercialmente?",
+        "answer": "Sim! Todas as imagens geradas através da WaveSpeed AI incluem direitos de uso comercial, permitindo total liberdade criativa para seus projetos."
+      },
+      {
+        "question": "Que suporte está disponível caso eu encontre problemas?",
+        "answer": "Oferecemos documentação abrangente, tutoriais e suporte via e-mail e chat ao vivo para ajudar com quaisquer desafios técnicos."
+      },
+      {
+        "question": "Há uma forma de testar o software antes de começar?",
+        "answer": "Sim! Novos usuários recebem créditos gratuitos para explorar a Pintura AI, permitindo que você experimente suas capacidades sem compromisso."
+      },
+      {
+        "question": "Como a Pintura AI pode beneficiar meu fluxo de trabalho?",
+        "answer": "Essa tecnologia permite aprimoramentos criativos rápidos, reduzindo significativamente o tempo e o esforço necessários para a edição tradicional de imagens."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Transformar Suas Imagens?",
+    "description": "Comece a criar visuais deslumbrantes agora com créditos gratuitos",
+    "contactUsText": "Entre em Contato",
+    "tryText": "Experimente Agora →"
+  },
+  "footer": {
+    "heading": "Pronto para Aprimorar Suas Fotos?",
+    "description": "Experimente o WaveSpeed AI agora e sinta a mágica. Não é necessário cadastro.",
+    "ctaText": "Comece a Pintar Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

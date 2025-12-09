@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Voice Cloning for Video",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Transform Videos with AI Voice Cloning",
+    "description": "Generate lifelike voiceovers in minutes, enhancing your video content effortlessly.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example video before voice cloning"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example video after voice cloning"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "AI Voice Cloning for Video",
+      "prompt": {
+        "heading": "Prompt",
+        "placeholder": "E.g., Generate a voiceover for a cooking tutorial, create a narration for a documentary..."
+      },
+      "upload": {
+        "heading": "Upload video or script"
+      },
+      "processButton": "Generate Voice Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Videos Enhanced"
+      },
+      {
+        "title": "98.5%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "1.8s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Voice Cloning Examples",
+    "description": "Discover how our technology can revolutionize your video projects with stunning voiceovers.",
+    "items": [
+      {
+        "title": "Dynamic Narration",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing dynamic narration with cloned voice",
+        "description": "Create captivating narrations for your videos with incredibly realistic voice quality."
+      },
+      {
+        "title": "Multilingual Support",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing multilingual voiceovers",
+        "description": "Easily generate voiceovers in multiple languages for a global audience."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose Our Voice Cloning Technology?",
+    "description": "Leverage cutting-edge AI to elevate your video content with professional voiceovers.",
+    "items": [
+      {
+        "icon": "microphone",
+        "title": "Natural Sounding Voices",
+        "description": "Our AI delivers voices that sound human and expressive, maintaining emotional nuances."
+      },
+      {
+        "icon": "cogs",
+        "title": "Highly Customizable",
+        "description": "Adjust tone, pace, and inflection to perfectly suit your video’s context and style."
+      },
+      {
+        "icon": "lock",
+        "title": "Secure and Private",
+        "description": "Rest assured that your data is processed securely without any risk of leakage."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three simple steps to create your voiceover",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Video or Script",
+        "description": "Easily upload your video file or provide the script you want the voiceover for."
+      },
+      {
+        "serial": "2",
+        "title": "AI Voice Cloning",
+        "description": "Our advanced algorithms analyze your content and generate a custom voiceover tailored to your needs."
+      },
+      {
+        "serial": "3",
+        "title": "Download Your Voiceover",
+        "description": "Preview the voiceover directly with your video and download the final product effortlessly."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless creators transforming their videos with our voice cloning technology",
+    "items": [
+      {
+        "name": "Emily Carter",
+        "stars": 5,
+        "comment": "The voice cloning feature is a game-changer! It made my online courses sound professional and engaging."
+      },
+      {
+        "name": "James Liu",
+        "stars": 5,
+        "comment": "I love how easy it is to create multilingual voiceovers. My audience has doubled since using this!"
+      },
+      {
+        "name": "Nina Patel",
+        "stars": 5,
+        "comment": "The voices sound incredibly lifelike. I've used it for my documentaries, and the results are outstanding!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your questions about AI Voice Cloning for Video",
+    "items": [
+      {
+        "title": "What types of videos can benefit from voice cloning?",
+        "description": "Our technology is perfect for a variety of video types including tutorials, presentations, documentaries, and marketing content."
+      },
+      {
+        "title": "Is there a limit to how much I can generate?",
+        "description": "Yes! Users receive 20 free voiceover credits per day, with options to purchase additional credits or subscribe for unlimited access."
+      },
+      {
+        "title": "Can I use the generated voiceovers commercially?",
+        "description": "Absolutely! All paid subscriptions allow for commercial use of generated voiceovers. Free-tier users may have restrictions."
+      },
+      {
+        "title": "How secure is my data during processing?",
+        "description": "We use advanced encryption methods, ensuring that your uploaded content and generated voiceovers remain completely confidential."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Enhance Your Videos?",
+    "description": "Try our AI Voice Cloning now and experience it for yourself. No sign-up required.",
+    "ctaText": "Generate Voice Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

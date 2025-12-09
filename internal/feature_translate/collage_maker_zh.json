@@ -1,0 +1,231 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI 拼贴制作器",
+  "meta": {
+    "description": "轻松用 AI 创建惊艳的照片拼贴。非常适合社交媒体、营销和个人项目。快速将您的图像变成美丽的拼贴！",
+    "keywords": "AI 拼贴制作器, 照片拼贴工具, 图像到拼贴, 社交媒体拼贴, 营销视觉, 拼贴生成, 创意照片布局, WaveSpeed 拼贴, 拼贴设计, 电子商务内容创建, 个人照片项目"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI 工具",
+        "items": [
+          [
+            "AI 工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "马上试试"
+  },
+  "hero": {
+    "heading": "照片拼贴制作器",
+    "subHeading": "将您的图像转换为惊艳拼贴",
+    "description": "在几分钟内从您的照片制作美丽的拼贴——无需设计技能！借助先进的 AI 技术，创建能够吸引和参与观众的布局。现在释放您的创造力！",
+    "tryText": "现在创建您的拼贴",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI 拼贴制作器解决方案",
+    "left": {
+      "heading": "传统拼贴挑战",
+      "items": [
+        "手动设计耗时且复杂",
+        "需要图形设计技能或软件",
+        "专业设计的外包费用昂贵",
+        "仅限于模板和固定格式",
+        "难以实现独特、个性化的风格"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI 解决方案",
+      "items": [
+        "利用 AI 即时生成自定义拼贴",
+        "无需设计经验——只需上传图像",
+        "根据您的风格量身定制独特布局",
+        "用简单的编辑和变体实现无限创意",
+        "任何项目都能负担得起的定价"
+      ],
+      "tryText": "试试"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "从照片到惊艳拼贴的 4 个简单步骤",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传照片",
+        "text": "选择并上传您最喜欢的图像",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "选择风格",
+        "text": "从各种拼贴风格和布局中选择",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "自定义设计",
+        "text": "轻松调整间距、添加文本或应用滤镜",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载拼贴",
+        "text": "以高分辨率保存您的杰作以便分享",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "创建您的第一个拼贴 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无尽的创意可能性",
+    "description": "适合任何场合或平台",
+    "items": [
+      "Instagram 或 Facebook 的社交媒体图像拼贴",
+      "广告和促销的营销材料",
+      "事件记忆和邀请函",
+      "个性化礼品和纪念品",
+      "作品集展示和演示",
+      "博客和网站视觉内容",
+      "婚礼和特殊场合拼贴",
+      "旅行照片集和故事"
+    ]
+  },
+  "successStories": {
+    "heading": "真实成功案例",
+    "description": "发现其他人如何利用 AI 提升他们的视觉效果",
+    "items": [
+      {
+        "tag": "个人项目",
+        "heading": "家庭团聚拼贴",
+        "before": {
+          "label": "之前",
+          "text": "复杂且耗时"
+        },
+        "after": {
+          "label": "之后",
+          "text": "使用 AI 快速且简单"
+        },
+        "value": "95%",
+        "key": "节省时间",
+        "description": "在几分钟内为我们的家庭团聚制作了惊艳的拼贴！大家都喜欢。"
+      },
+      {
+        "tag": "营销活动",
+        "heading": "电子商务销售促销",
+        "before": {
+          "label": "之前",
+          "text": "视觉效果有限"
+        },
+        "after": {
+          "label": "之后",
+          "text": "动态、吸引眼球的图形"
+        },
+        "value": "90%",
+        "key": "视觉影响",
+        "description": "我们的营销视觉效果显著改善，参与率大幅提高。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "拼贴样式比较",
+    "description": "为您的项目选择合适的样式",
+    "items": [
+      "网格布局：多图像的经典排列",
+      "艺术叠加：照片的创意融合",
+      "主题拼贴：基于主题的定制设计",
+      "动态幻灯片：动画拼贴选项",
+      "文本集成：无缝添加说明文字",
+      "背景自定义：选择颜色或图案",
+      "模板灵活性：轻松调整以适应您的需求"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关 AI 工具",
+    "description": "探索更多创新的 AI 工具以创建视觉内容"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要了解的一切",
+    "items": [
+      {
+        "question": "什么类型的图像最适合制作拼贴？",
+        "answer": "任何高清图像都效果很好。我们建议使用清晰、光线充足的照片。图像越多样化，拼贴看起来就越生动。"
+      },
+      {
+        "question": "可以自定义布局和设计吗？",
+        "answer": "当然可以！从各种内置样式中选择，并自定义布局、间距和颜色以匹配您的构想。"
+      },
+      {
+        "question": "我可以上传的最大图像数量是多少？",
+        "answer": "每个拼贴最多可以上传 20 张图像，为您提供充足的选择以创建惊艳的设计。"
+      },
+      {
+        "question": "使用拼贴制作器需要具备图形设计技能吗？",
+        "answer": "不需要，我们的 AI 工具友好易用，适合任何人使用，无论他们的设计背景如何。"
+      },
+      {
+        "question": "我可以以不同的格式下载我的拼贴吗？",
+        "answer": "可以！您可以将拼贴保存为包括 JPEG、PNG 和 PDF 在内的各种格式以便打印和在线分享。"
+      },
+      {
+        "question": "我可以多快创建一个拼贴？",
+        "answer": "大多数拼贴在上传图像并选择样式后只需几分钟即可创建！"
+      },
+      {
+        "question": "使用拼贴制作器是否需要支付费用？",
+        "answer": "我们提供按需付费的模式，您可以根据需要创建拼贴，而无需持续的订阅费用。"
+      },
+      {
+        "question": "我可以创建多少个拼贴？",
+        "answer": "没有限制！您可以使用我们的平台创建任意数量的拼贴。"
+      },
+      {
+        "question": "下载后可以编辑我的拼贴吗？",
+        "answer": "虽然您无法直接编辑下载的拼贴，但您可以始终返回拼贴制作器进行调整或创建新版本。"
+      },
+      {
+        "question": "如果我需要帮助，有什么支持可以获得？",
+        "answer": "我们提供全面的支持，包括教程、文档和客户服务，以协助解答任何问题。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备好创建您惊艳的拼贴了吗？",
+    "description": "从免费积分开始，让您的创造力流淌！",
+    "contactUsText": "联系我们",
+    "tryText": "现在创建您的拼贴 →"
+  },
+  "footer": {
+    "heading": "准备好制作美丽的拼贴了吗？",
+    "description": "现在就试试 WaveSpeed AI，观看您的照片转变。无需注册。",
+    "ctaText": "立即开始创建",
+    "text": "© 2025 WaveSpeed AI. 保留所有权利。"
+  }
+}

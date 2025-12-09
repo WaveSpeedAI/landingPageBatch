@@ -1,0 +1,218 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Función de Sincronización Labial AI",
+  "meta": {
+    "description": "Mejora el contenido de video con sincronización labial realista utilizando IA. Perfecto para creadores, equipos de marketing y educadores. ¡Aumenta el compromiso y la visualización sin esfuerzo!",
+    "keywords": "sincronización labial AI, mejora de video AI, sincronización de voz, herramientas para creadores de contenido, características de video marketing, sincronización labial realista, herramienta de video para e-learning, mejora de video de YouTube, herramienta de sincronización de TikTok, herramientas de producción de video profesional"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas AI",
+        "items": [
+          [
+            "Herramientas AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrina",
+        "items": [
+          [
+            "Vitrina",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Sincronización Labial AI",
+    "subHeading": "Da Vida a Tus Personajes con Sincronización Labial Realista",
+    "description": "Transforma cualquier grabación de voz en movimientos labiales perfectamente sincronizados para tus videos. Involucra a los espectadores como nunca antes. ¡Experimenta la magia de la sincronización AI!",
+    "tryText": "Pruébalo Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución de Sincronización Labial AI de WaveSpeed AI",
+    "left": {
+      "heading": "Desafíos de Sincronización Labial Tradicional",
+      "items": [
+        "Procesos de sincronización manual que requieren mucho tiempo",
+        "Requiere habilidades extensas de edición de video",
+        "Configuración que consume tiempo para cada video",
+        "Opciones limitadas de idiomas y acentos",
+        "Altos costos para estudios profesionales"
+      ]
+    },
+    "right": {
+      "heading": "Solución de WaveSpeed AI",
+      "items": [
+        "Generación instantánea de sincronización labial a partir de pistas de audio",
+        "No se necesitan habilidades de edición - Simplemente carga el audio",
+        "Integración perfecta con cualquier contenido de video",
+        "Soporta múltiples idiomas y acentos sin esfuerzo",
+        "Solución rentable con modelo de pago por uso"
+      ],
+      "tryText": "Prueba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "Sincronizando audio con video en tres pasos sencillos",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Subir Video",
+        "text": "Elige el video donde deseas añadir sincronización labial",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Agregar Pista de Audio",
+        "text": "Sube la grabación o archivo de audio que deseas sincronizar",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Generar Sincronización Labial",
+        "text": "Deja que nuestra IA sincronice con precisión los movimientos labiales en un instante",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "Crea Tu Primer Video de Sincronización Labial →"
+  },
+  "endlessPossibilities": {
+    "heading": "Posibilidades Infinitas",
+    "description": "Ideal para diversas aplicaciones e industrias",
+    "items": [
+      "Creación de contenido para YouTube con mayor compromiso",
+      "Videos de e-learning con instrucciones sincronizadas",
+      "Anuncios de marketing con narrativa basada en personajes",
+      "Videos de entretenimiento para juegos y animaciones",
+      "Videos de capacitación corporativa con comunicación efectiva",
+      "Contenido para redes sociales para cautivar a los seguidores",
+      "Doblaje para audiencias internacionales sin problemas",
+      "Interacciones de personajes virtuales en transmisiones en vivo"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Descubre cómo la función de sincronización labial AI transforma la producción de video",
+    "items": [
+      {
+        "tag": "Desarrollo de Videojuegos",
+        "heading": "Integración de Voz de Personajes de Juego",
+        "before": {
+          "label": "Antes",
+          "text": "La sincronización manual tomó semanas"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Sincronización AI instantánea"
+        },
+        "value": "90%",
+        "key": "Reducción del Tiempo",
+        "description": "Optimizamos nuestros videos de diálogo de personajes utilizando sincronización labial AI, reduciendo drásticamente el tiempo de producción y mejorando la inmersión del espectador."
+      },
+      {
+        "tag": "Educación en Línea",
+        "heading": "Plataforma de E-Learning",
+        "before": {
+          "label": "Antes",
+          "text": "Sincronización de audio confusa"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Sincronización perfecta"
+        },
+        "value": "95%",
+        "key": "Mejora del Compromiso del Usuario",
+        "description": "Los estudiantes encuentran nuestros cursos mucho más atractivos con videos sincronizados, lo que resulta en una mayor tasa de finalización."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Modelos AI",
+    "description": "Elige la calidad de sincronización adecuada para tu proyecto",
+    "items": [
+      "Sincronización Estándar: Sincronización labial rápida y básica para proyectos rápidos",
+      "Sincronización Premium: Sincronización labial de alta fidelidad con movimientos y expresiones matizados",
+      "Soporte para múltiples idiomas para diversas audiencias",
+      "Tiempos de procesamiento eficientes para creación rápida de contenido",
+      "Derechos de uso comercial proporcionados con todas las salidas de sincronización"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas AI Relacionadas",
+    "description": "Explora más poderosas características de IA para la producción de video"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué tan precisa es la sincronización labial?",
+        "answer": "Nuestra tecnología de sincronización labial AI se adapta a varios patrones de habla, asegurando que los movimientos labiales coincidan estrechamente con el audio para un resultado realista. La precisión se mejora con algoritmos de aprendizaje automático que analizan la fonética."
+      },
+      {
+        "question": "¿Puedo personalizar la sincronización labial para diferentes personajes?",
+        "answer": "¡Sí! Puedes personalizar expresiones y movimientos labiales para diferentes personajes, permitiendo presentaciones y retratos únicos adaptados al estilo y tono de tu contenido."
+      },
+      {
+        "question": "¿Qué tipos de archivos de audio son compatibles?",
+        "answer": "Soportamos una variedad de formatos de audio, incluyendo MP3, WAV y AAC. Asegúrate de que tu audio sea claro para obtener los mejores resultados de sincronización labial."
+      },
+      {
+        "question": "¿Hay un límite en la duración del video que puedo sincronizar?",
+        "answer": "No hay un límite estricto para la duración del video; sin embargo, los videos más largos pueden tardar un poco más en procesarse. Se recomienda una sincronización eficiente para un rendimiento óptimo."
+      },
+      {
+        "question": "¿En qué se diferencia esto del doblaje de video tradicional?",
+        "answer": "La automatización de sincronización labial AI proporciona resultados más rápidos sin la necesidad de un trabajo manual extenso para los movimientos labiales. Nuestra solución crea una apariencia natural del habla en sincronización con el audio original."
+      },
+      {
+        "question": "¿Cuáles son los derechos comerciales asociados con los videos de sincronización labial?",
+        "answer": "Todos los videos de sincronización labial producidos utilizando nuestra herramienta AI vienen con todos los derechos comerciales, lo que significa que puedes utilizarlos en varias plataformas para marketing o distribución de contenido."
+      },
+      {
+        "question": "¿Puedo hacer ajustes después de generar la sincronización labial?",
+        "answer": "Si bien la sincronización inicial se genera automáticamente, puedes hacer ajustes menores para mejorar las expresiones de los personajes, asegurando que se ajusten perfectamente a tu visión."
+      },
+      {
+        "question": "¿En qué plataformas puedo utilizar esta tecnología?",
+        "answer": "Nuestra sincronización labial AI se puede integrar en varios software y plataformas de edición de video, lo que permite aplicaciones amplias en la creación de contenido."
+      },
+      {
+        "question": "¿Hay soporte técnico disponible si encuentro problemas?",
+        "answer": "¡Absolutamente! Nuestro equipo está disponible a través de correo electrónico y chat en vivo, con documentación extensa para guiarte a través de cualquier desafío que puedas enfrentar."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Mejorar Tu Video con Sincronización Labial AI?",
+    "description": "¡Comienza hoy con créditos gratis - Mira la transformación en acción!",
+    "contactUsText": "Contáctanos",
+    "tryText": "Pruébalo Ahora →"
+  },
+  "footer": {
+    "heading": "¿Listo para Transformar Tus Videos?",
+    "description": "Prueba WaveSpeed AI ahora y desata el potencial completo de tu contenido de video. No se requiere registro.",
+    "ctaText": "Empieza Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

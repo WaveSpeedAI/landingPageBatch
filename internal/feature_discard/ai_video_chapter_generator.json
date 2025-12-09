@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Video Chapter Generator",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Effortlessly Create Video Chapters",
+    "description": "Instantly generate chapters for your videos to enhance viewer engagement and navigation.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example video before chapter generation"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example video after chapter generation"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Create Video Chapters",
+      "prompt": {
+        "heading": " Prompt",
+        "placeholder": "E.g., Generate chapters based on key moments or topics in the video..."
+      },
+      "upload": {
+        "heading": " Select video or Input URL"
+      },
+      "processButton": "Generate Chapters Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "1M+",
+        "description": "Videos Processed"
+      },
+      {
+        "title": "98.7%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "3s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Video Chapter Examples",
+    "description": "Explore how our AI can enhance your videos by automatically generating useful chapters.",
+    "items": [
+      {
+        "title": "Chapter Organization",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing organized video chapters",
+        "description": "Easily navigate through key topics with automatically generated chapters."
+      },
+      {
+        "title": "Enhanced Viewer Experience",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing improved viewer experience with chapters",
+        "description": "Keep your audience engaged and informed with clear chapter markers."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Our innovative tool takes the hassle out of chapter creation.",
+    "items": [
+      {
+        "icon": "lightbulb",
+        "title": "Smart Insights",
+        "description": "Leverage AI to pinpoint key moments and topics for optimal chapter generation."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly",
+        "description": "No editing skills needed. Upload your video and let our AI handle the rest."
+      },
+      {
+        "icon": "security",
+        "title": "Privacy Guaranteed",
+        "description": "Your videos are processed securely without ever being stored or shared."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three simple steps to enhance your videos",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Video",
+        "description": "Drag and drop your video or browse files. We support various formats including MP4, AVI, and MOV."
+      },
+      {
+        "serial": "2",
+        "title": "AI Analysis",
+        "description": "Our advanced AI analyzes your video content to automatically generate relevant chapters."
+      },
+      {
+        "serial": "3",
+        "title": "Download Chapters",
+        "description": "Review the generated chapters and download them ready to enhance your video."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless creators who streamline their video processes with our AI",
+    "items": [
+      {
+        "name": "Emily Thompson",
+        "stars": 5,
+        "comment": "The chapter generator saved me so much time! Viewers can easily navigate my tutorials now."
+      },
+      {
+        "name": "David Patel",
+        "stars": 5,
+        "comment": "As a vlogger, having precise chapters helps my audience find what they want quickly."
+      },
+      {
+        "name": "Laura Kim",
+        "stars": 5,
+        "comment": "The AI works perfectly. I'm impressed with how well it captures the essence of my videos."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to common inquiries about our video chapter generation tool",
+    "items": [
+      {
+        "title": "What types of videos can chapters be generated for?",
+        "description": "The tool works with a variety of video formats including tutorials, webinars, and vlogs, making it versatile for any content creator."
+      },
+      {
+        "title": "Is the chapter generation tool free to use?",
+        "description": "Yes! Users can generate up to five videos for free each month. For higher volumes, explore our subscription options."
+      },
+      {
+        "title": "Can I edit the generated chapters?",
+        "description": "Absolutely! Once chapters are generated, you can easily edit them to suit your specific requirements."
+      },
+      {
+        "title": "How is my video data handled?",
+        "description": "All videos are processed in your browser without uploading to our servers, ensuring full privacy and data security."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Enhance Your Videos?",
+    "description": "Try the AI Video Chapter Generator now and see the improvement for yourself. No sign-up required.",
+    "ctaText": "Generate Chapters Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

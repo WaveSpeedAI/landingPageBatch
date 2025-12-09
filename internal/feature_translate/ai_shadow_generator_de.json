@@ -1,0 +1,222 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - KI Schatten Generator",
+  "meta": {
+    "description": "Verbessern Sie Ihre Produktbilder mit realistischen Schatten unter Verwendung von KI-Technologie. Ideal für E-Commerce und digitales Marketing, um mühelos professionelle visuelle Inhalte zu erstellen.",
+    "keywords": "KI Schatten Generator, Produktbildverbesserung, realistische Schatten, E-Commerce Grafiken, Marketing Bild Tool, Foto-Bearbeitung KI, Shopify Bilder, Amazon Produktfotos, digitale Marketingvisualisierungen, visuelle Inhaltsgestaltung"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI-Tools",
+        "items": [
+          [
+            "KI-Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Schaufenster",
+        "items": [
+          [
+            "Schaufenster",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "Gestalten Sie Ihre Bilder mit Schatten um",
+    "subHeading": "Fügen Sie jedem Foto realistische Schatten hinzu",
+    "description": "Geben Sie Ihren Produktbildern sofort eine professionelle Note mit unserem KI Schatten Generator. Verbessern Sie visuelle Inhalte für E-Commerce-Listings oder Marketingkampagnen mühelos. Probieren Sie es jetzt aus und heben Sie die Präsentation Ihrer Marke auf ein neues Niveau!",
+    "tryText": "Jetzt ausprobieren",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI KI Schatten Generator Lösung",
+    "left": {
+      "heading": "Traditionelle Herausforderungen",
+      "items": [
+        "Das Erstellen realistischer Schatten erfordert fortgeschrittene Fähigkeiten",
+        "Manuelle Bearbeitung ist arbeitsintensiv und zeitaufwendig",
+        "Komplexe Software kann überwältigend sein",
+        "Hohe Kosten für professionelles Grafikdesign",
+        "Eingeschränkte Flexibilität bei der Anpassung"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI Lösung",
+      "items": [
+        "Generieren Sie in Sekundenschnelle realistische Schatten mit KI",
+        "Keine Designfähigkeiten erforderlich - Laden Sie einfach Ihre Bilder hoch",
+        "Sofortige Verbesserungen mit einem Klick",
+        "Unbegrenzte Anpassungsoptionen verfügbar",
+        "Erschwingliches Pay-as-you-go-Modell, keine Abonnements"
+      ],
+      "tryText": "Probieren"
+    }
+  },
+  "howItWorks": {
+    "heading": "So funktioniert es",
+    "description": "Fügen Sie Ihren Bildern in 4 einfachen Schritten atemberaubende Schatten hinzu",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Bild hochladen",
+        "text": "Laden Sie Ihr Produktfoto oder Bild, das eine Schattenverbesserung benötigt, hoch",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Schattenart auswählen",
+        "text": "Wählen Sie aus verschiedenen Schattenstilen, die zum Gefühl Ihres Produkts passen",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Einstellungen anpassen",
+        "text": "Passen Sie Größe, Opazität und Winkel des Schattens fein an",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Bild herunterladen",
+        "text": "Erhalten Sie Ihr verbessertes Bild mit realistischen Schatten in Minuten",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Generieren Sie Ihr erstes schattiertes Bild →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endlose Möglichkeiten",
+    "description": "Ideal für eine Vielzahl von Anwendungen",
+    "items": [
+      "Produktbilder für Online-Händler",
+      "Social-Media-Beiträge für ansprechende visuelle Inhalte",
+      "Werbegrafiken und Anzeigen",
+      "Verbesserte Portfolios für Fotografen",
+      "Blogbilder, die herausstechen",
+      "Immobilienanzeigen mit Tiefe",
+      "Mode-Lookbooks mit Stimmung",
+      "Lebensmittelfotografie, die lecker aussieht"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Entdecken Sie, wie Unternehmen ihre Bilder mit KI aufwerten",
+    "items": [
+      {
+        "tag": "Mode E-Commerce",
+        "heading": "Online-Boutique",
+        "before": {
+          "label": "Vorher",
+          "text": "Flache Bilder"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Lebendige Schatten"
+        },
+        "value": "85%",
+        "key": "Conversion Steigerung",
+        "description": "Mit verbesserten Bildern, die Schatten enthalten, stieg die Attraktivität unserer Produkte und führte zu einem beeindruckenden Umsatzplus von 30 %."
+      },
+      {
+        "tag": "Wohnen & Leben",
+        "heading": "Einrichtungsstore",
+        "before": {
+          "label": "Vorher",
+          "text": "Einfache Fotos"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Atemberaubende visuelle Inhalte"
+        },
+        "value": "90%",
+        "key": "Wahrnehmungsverbesserung",
+        "description": "Unsere Kunden sehen jetzt die Qualität unserer Bilder, was das Markenimage und das Vertrauen erheblich steigert."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Vergleich der KI Schattenmodelle",
+    "description": "Wählen Sie den richtigen Schatteneffekt für Ihre Bedürfnisse",
+    "items": [
+      "Realistische Schatten: Anpassbare Opazität und Winkel, erhöht die Tiefe",
+      "Weiche Schatten: Sanfte Berührung zur Erzeugung subtiler Effekte",
+      "Hochimpakt-Schatten: Kühn und dramatisch für hervorstechende visuelle Inhalte",
+      "Anpassbare Voreinstellungen für verschiedene Stile",
+      "Einhundertprozentige Erstellung für Geschwindigkeit und Effizienz",
+      "Kommerzielle Nutzungsrechte enthalten"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ähnliche KI-Tools",
+    "description": "Entdecken Sie weitere innovative KI-Tools zur Bildverbesserung"
+  },
+  "faq": {
+    "heading": "Häufige Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welche Arten von Bildern eignen sich am besten für den Schatten-Generator?",
+        "answer": "Der Schatten-Generator funktioniert am besten mit klaren Produktbildern und Szenen, die Tiefe erfordern. Hochauflösende Bilder liefern die realistischsten Ergebnisse, insbesondere solche mit sauberen Hintergründen."
+      },
+      {
+        "question": "Kann ich Schattenmerkmale wie Winkel und Opazität anpassen?",
+        "answer": "Ja! Sie haben volle Kontrolle, um den Winkel, die Größe und die Opazität der Schatten anzupassen, sodass Sie den Effekt an die Präsentation Ihres Produkts anpassen können."
+      },
+      {
+        "question": "Gibt es eine Obergrenze für die Anzahl der Bilder, die ich gleichzeitig verarbeiten kann?",
+        "answer": "Nein, es gibt keine Grenzen! Sie können mehrere Bilder gleichzeitig hochladen, was es einfach macht, eine gesamte Kollektion auf einmal zu verbessern."
+      },
+      {
+        "question": "Wie unterscheidet sich dies von der manuellen Schattenbearbeitung?",
+        "answer": "Unser KI Schatten Generator optimiert den Prozess, sodass eine schnelle Produktion ohne umfangreiche Designfähigkeiten oder Softwarekenntnisse möglich ist. Manuelle Bearbeitung kann mühsam und zeitaufwendig sein, während unser Tool sofortige Ergebnisse liefert."
+      },
+      {
+        "question": "Welches Preismodell wird für den KI Schatten Generator verwendet?",
+        "answer": "WaveSpeed arbeitet nach einem flexiblen Pay-as-you-go-Modell ohne monatliche Abonnements. Sie zahlen nur für die Schatten, die Sie generieren, um sicherzustellen, dass Sie Wert für Ihre Investition erhalten."
+      },
+      {
+        "question": "Wie lange dauert die Generierung von Schatten?",
+        "answer": "Die Generierung von Schatten ist schnell und dauert in der Regel nur wenige Augenblicke pro Bild, unabhängig von der Anzahl der verarbeiteten Bilder. Genießen Sie schnelle Verbesserungen ohne Wartezeit."
+      },
+      {
+        "question": "Erhalte ich kommerzielle Rechte für die verbesserten Bilder?",
+        "answer": "Absolut! Alle Bilder, die über unseren Schatten-Generator verarbeitet werden, kommen mit vollen kommerziellen Nutzungsrechten, sodass Sie sie für geschäftliche Zwecke verwenden können."
+      },
+      {
+        "question": "Welcher Support ist verfügbar, wenn ich auf Probleme stoße?",
+        "answer": "WaveSpeed bietet umfassenden Support, einschließlich Dokumentation und Live-Chat für technische Probleme. Wir stellen sicher, dass Benutzer umgehend Unterstützung bei Fragen während ihres Erlebnisses erhalten."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Ihre Bilder zu verbessern?",
+    "description": "Starten Sie mit kostenlosen Guthaben - Erleben Sie die Transformation jetzt",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Jetzt ausprobieren →"
+  },
+  "footer": {
+    "heading": "Bereit, Ihre Fotos zu verwandeln?",
+    "description": "Probieren Sie WaveSpeed AI jetzt aus und sehen Sie den Unterschied selbst. Keine Anmeldung erforderlich.",
+    "ctaText": "Schatten jetzt hinzufügen",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

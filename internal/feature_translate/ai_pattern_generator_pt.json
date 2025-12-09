@@ -1,0 +1,229 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Gerador de Padrões AI",
+  "meta": {
+    "description": "Crie padrões têxteis exclusivos sem esforço com o WaveSpeed AI. Utilize o que há de mais recente em tecnologia AI para gerar designs personalizados adequados para moda, interiores e muito mais. Experimente uma criatividade e eficiência incomparáveis hoje!",
+    "keywords": "gerador de padrões AI, design têxtil AI, padrões de tecido personalizados, ferramenta de design de moda, padrões de design de interiores, onda velocidade AI, gerador de design criativo, criador de padrões automatizado, impressões têxteis exclusivas, soluções de design para e-commerce"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas AI",
+        "items": [
+          [
+            "Ferramentas AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Mostrador",
+        "items": [
+          [
+            "Mostrador",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Geração de Padrões Facilitada",
+    "subHeading": "Crie Designs Exclusivos Sem Esforço",
+    "description": "Gere padrões têxteis únicos em segundos usando tecnologia AI de ponta. Perfeito para designers, marcas e qualquer pessoa que queira criar tecidos marcantes. Comece sua jornada criativa hoje!",
+    "tryText": "Experimente Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução de Gerador de Padrões AI WaveSpeed AI",
+    "left": {
+      "heading": "Desafios de Design Tradicionais",
+      "items": [
+        "Processo de design manual demorado",
+        "Iterações de design limitadas",
+        "Altos custos para freelancers e software de design",
+        "Necessidade de habilidades de design extensivas",
+        "Qualidade de design inconsistente em produtos"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeed AI",
+      "items": [
+        "Gere instantaneamente padrões únicos em menos de um minuto",
+        "Nenhuma habilidade de design necessária - Basta inserir suas ideias",
+        "Variações e estilos ilimitados para explorar",
+        "Escalável para qualquer número de designs",
+        "Preços acessíveis adaptados para empresas"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "Crie padrões distintos em 4 etapas simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Insira Sua Ideia",
+        "text": "Descreva o estilo ou tema que você deseja para seus padrões",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Selecione a Paleta de Cores",
+        "text": "Escolha as cores que melhor se encaixam na sua marca ou projeto",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Opções de Personalização",
+        "text": "Refine a complexidade e textura dos seus padrões",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Baixe Seu Padrão",
+        "text": "Receba padrões em alta resolução prontos para produção",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Gere Seu Primeiro Padrão →"
+  },
+  "endlessPossibilities": {
+    "heading": "Oportunidades de Design Infinitas",
+    "description": "Ideal para todo projeto criativo",
+    "items": [
+      "Designs de tecido para moda",
+      "Têxteis para decoração de casa",
+      "Padrões de cama e estofados",
+      "Papeis de parede exclusivos",
+      "Designs criativos para superfícies de produtos",
+      "Opções têxteis ecológicas",
+      "Padrões personalizados para eventos",
+      "Projetos artísticos e artesanato"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Descubra como as marcas estão redefinindo seus designs com AI",
+    "items": [
+      {
+        "tag": "Indústria da Moda",
+        "heading": "Linha de Roupas Inovadora",
+        "before": {
+          "label": "Antes",
+          "text": "Ciclos de design longos"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Geração instantânea de padrões"
+        },
+        "value": "98%",
+        "key": "Eficiência de Tempo",
+        "description": "Fomos capazes de lançar nossa nova coleção semanas antes do previsto, criando padrões exclusivos em minutos."
+      },
+      {
+        "tag": "Produtos para Casa",
+        "heading": "Coleção de Cama",
+        "before": {
+          "label": "Antes",
+          "text": "Designs padrão"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Padrões personalizados"
+        },
+        "value": "95%",
+        "key": "Singularidade no Design",
+        "description": "Nossos produtos agora se destacam com padrões exclusivos gerados pela AI, tornando nossa marca mais atraente."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Modelos AI",
+    "description": "Encontre as melhores opções para seus designs de padrões",
+    "items": [
+      "Modelo Básico: Geração rápida, qualidade padrão, adequado para designs iniciais",
+      "Modelo Premium: Qualidade aprimorada e complexidade de padrões para necessidades avançadas",
+      "Controle de cores para melhores resultados com base nos requisitos da marca",
+      "Tempo de geração rápido para testes de protótipos rápidos",
+      "Direitos de uso comercial incluídos para todos os padrões gerados"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas AI Relacionadas",
+    "description": "Explore mais ferramentas de design inovadoras para criativos"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo o que você precisa saber",
+    "items": [
+      {
+        "question": "Que tipo de designs posso criar com o gerador de padrões?",
+        "answer": "Você pode criar uma ampla gama de padrões têxteis, incluindo florais, geométricos, abstratos e designs temáticos perfeitos para moda, interiores e projetos artísticos."
+      },
+      {
+        "question": "Como posso garantir que os padrões sejam únicos?",
+        "answer": "Cada padrão é gerado com base na sua entrada, permitindo variações praticamente ilimitadas. Você pode personalizar cores e estilos para total originalidade."
+      },
+      {
+        "question": "Em que formatos de arquivo os padrões gerados estão disponíveis?",
+        "answer": "Os padrões estão disponíveis em vários formatos, incluindo JPEG, PNG e arquivos vetoriais adequados para impressão e uso digital."
+      },
+      {
+        "question": "Posso editar os padrões gerados ainda mais?",
+        "answer": "Sim! Assim que você baixar os padrões, pode usar software de design gráfico para modificá-los conforme necessário para seus projetos específicos."
+      },
+      {
+        "question": "Há um limite para quantos padrões posso gerar?",
+        "answer": "Não, você pode gerar quantos padrões precisar, tornando-o escalável para pequenos projetos ou grandes coleções."
+      },
+      {
+        "question": "Como funciona a precificação para geração de padrões?",
+        "answer": "O WaveSpeed usa um modelo de pagamento conforme o uso, permitindo que você pague apenas pelos padrões que gerar, tornando-o econômico e flexível."
+      },
+      {
+        "question": "Quão rapidamente posso esperar receber meus padrões?",
+        "answer": "A geração de padrões é tipicamente instantânea, permitindo que você comece seu processo de design sem atrasos."
+      },
+      {
+        "question": "Existem direitos de uso que preciso estar ciente?",
+        "answer": "Sim! Todos os padrões gerados vêm com direitos comerciais completos, dando total liberdade para usá-los em seus projetos."
+      },
+      {
+        "question": "Que suporte está disponível se eu precisar de ajuda?",
+        "answer": "Nossa equipe de suporte está aqui para ajudá-lo com quaisquer perguntas por e-mail ou chat, garantindo que você tenha todos os recursos necessários para ter sucesso."
+      },
+      {
+        "question": "As empresas podem usar a ferramenta para necessidades de design em massa?",
+        "answer": "Absolutamente! A ferramenta é perfeita para empresas que precisam de um alto volume de padrões únicos e oferece opções eficientes de geração em lote."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Começar a Criar Padrões Únicos?",
+    "description": "Inscreva-se agora e explore sua criatividade com créditos grátis",
+    "contactUsText": "Contate-Nos",
+    "tryText": "Experimente Agora →"
+  },
+  "footer": {
+    "heading": "Transforme Seu Processo de Design Hoje!",
+    "description": "Experimente o WaveSpeed AI agora e veja como é fácil gerar padrões deslumbrantes. Sem necessidade de inscrição.",
+    "ctaText": "Crie Padrões Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

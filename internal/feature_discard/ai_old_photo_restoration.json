@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Restore Old Photos with Advanced Technology",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Restore Your Cherished Memories",
+    "description": "Transform your old, faded photos into vibrant, restored images with just a click.",
+    "seeAction": {
+      "heading": "Witness the Transformation",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo before restoration"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example photo after restoration"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Revive Your Old Photos",
+      "prompt": {
+        "heading": "Upload Your Photo",
+        "placeholder": "E.g., Restore a family portrait, enhance a landscape from your travels..."
+      },
+      "upload": {
+        "heading": " Select image or Input URL"
+      },
+      "processButton": "Restore Photos Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Photos Restored"
+      },
+      {
+        "title": "98.7%",
+        "description": "Restoration Satisfaction Rate"
+      },
+      {
+        "title": "3.5s",
+        "description": "Average Restoration Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Restoration Examples",
+    "description": "Explore how our AI brings faded memories back to life with remarkable detail and clarity.",
+    "items": [
+      {
+        "title": "Classic Family Portrait",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example of a restored family portrait",
+        "description": "Watch as old family moments are rejuvenated, bringing smiles back to faces."
+      },
+      {
+        "title": "Vintage Landscape",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example of a vibrant restored landscape",
+        "description": "Enhance historic landscapes and enjoy breathtaking views as they were once captured."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI for Photo Restoration?",
+    "description": "Harness our cutting-edge AI technology for stunning old photo revitalization.",
+    "items": [
+      {
+        "icon": "magic",
+        "title": "Brilliant Restorations",
+        "description": "Effortlessly restore colors, details, and clarity to any aged photograph."
+      },
+      {
+        "icon": "computer",
+        "title": "User-Friendly Interface",
+        "description": "Simply upload your photo and watch as AI performs the restoration automatically."
+      },
+      {
+        "icon": "lock",
+        "title": "Secure and Private",
+        "description": "Your images remain private—processed locally without uploads to our servers."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Revitalize your photos in three clear steps",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Your Old Photo",
+        "description": "Choose an old photograph by dragging it into our interface or browsing your files. JPG, PNG, and WebP formats are supported."
+      },
+      {
+        "serial": "2",
+        "title": "AI Restoration Magic",
+        "description": "Our advanced AI analyzes and restores your photo, enhancing colors and fixing defects to bring it back to life."
+      },
+      {
+        "serial": "3",
+        "title": "Download Your Restored Image",
+        "description": "Preview the restored photo and download it in high resolution, perfect for printing or sharing."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Are Saying",
+    "description": "Join countless users who have revived their treasured photographs with WaveSpeed AI",
+    "items": [
+      {
+        "name": "Emily Roberts",
+        "stars": 5,
+        "comment": "I couldn't believe how quickly my old wedding photo was restored! It looks pristine again."
+      },
+      {
+        "name": "James Clark",
+        "stars": 5,
+        "comment": "WaveSpeed breathed new life into my grandfather's cherished photos. A truly remarkable service."
+      },
+      {
+        "name": "Anna Lee",
+        "stars": 5,
+        "comment": "The restoration process was seamless. I'm so pleased with how my childhood pictures turned out!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your queries about our photo restoration feature",
+    "items": [
+      {
+        "title": "What types of old photos can be restored?",
+        "description": "Our AI can restore various types of old photos, including faded prints, damaged images, and colorized historical photographs, enhancing clarity and detail."
+      },
+      {
+        "title": "Is there a cost for using the restoration feature?",
+        "description": "Yes! While we offer a limited number of free credits for initial restorations, users can purchase additional credits for extensive use or subscribe for regular access."
+      },
+      {
+        "title": "Can I use my restored images commercially?",
+        "description": "Yes! Restored images can be used for both personal and commercial purposes, particularly for those on a subscription plan."
+      },
+      {
+        "title": "How secure is my photo during the restoration?",
+        "description": "Your images are processed locally on your device to ensure maximum privacy. No images are stored or transmitted, ensuring your memories remain secure."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Restore Your Memories?",
+    "description": "Try WaveSpeed AI now and breathe new life into your old photographs. No sign-up needed.",
+    "ctaText": "Restore Photos Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

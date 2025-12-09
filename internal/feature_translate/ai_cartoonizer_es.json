@@ -1,0 +1,226 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - AI Cartoonizer",
+  "meta": {
+    "description": "Transforma tus fotos en vibrante arte de caricaturas con IA. Perfecto para proyectos personales, redes sociales y marketing creativo.",
+    "keywords": "AI Cartoonizer, convertidor de foto a caricatura, creador de fotos de caricaturas, herramientas creativas, contenido para redes sociales, arte digital, efectos de caricatura, edición de fotos divertida, transformaciones artísticas, caricaturas personalizadas, WaveSpeed AI, generador de arte IA"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas de IA",
+        "items": [
+          [
+            "Herramientas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrina",
+        "items": [
+          [
+            "Vitrina",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Transformación de Foto a Caricatura",
+    "subHeading": "Convierte Tus Imágenes en Divertido Arte de Caricatura",
+    "description": "Con solo unos clics, transforma tus fotos favoritas en atractivas imágenes de caricaturas. Ideal para uso personal o para mejorar tu presencia en redes sociales. ¡Experimenta la creatividad de nuestro AI Cartoonizer - deja que tu imaginación cobre vida!",
+    "tryText": "Crea Tu Caricatura Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución de AI Cartoonizer de WaveSpeed AI",
+    "left": {
+      "heading": "Desafíos Tradicionales",
+      "items": [
+        "El arte manual consume tiempo y es costoso",
+        "Requiere habilidades artísticas y conocimientos de software",
+        "Difícil de lograr estilos consistentes",
+        "Opciones de personalización limitadas",
+        "Altos costos para arte de caricatura o caricaturas"
+      ]
+    },
+    "right": {
+      "heading": "Solución de WaveSpeed AI",
+      "items": [
+        "Transforma fotos en arte de caricaturas en segundos",
+        "No se requieren habilidades artísticas - Solo sube tus fotos",
+        "Estilos de caricatura consistentes y atractivos",
+        "Modificaciones ilimitadas y creaciones únicas",
+        "Modelo asequible de pago por uso para cada usuario"
+      ],
+      "tryText": "Prueba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "De foto a caricatura en 4 pasos fáciles",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Sube Tu Foto",
+        "text": "Selecciona y sube una foto que quieras caricaturizar",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Elige un Estilo",
+        "text": "Selecciona el estilo de caricatura que se ajuste a tu visión",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Personaliza Características",
+        "text": "Ajusta elementos como colores y efectos para obtener tu caricatura perfecta",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Descarga Tu Caricatura",
+        "text": "Obtén tu imagen de caricatura única en solo momentos",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Crea Tu Caricatura Ahora →"
+  },
+  "endlessPossibilities": {
+    "heading": "Posibilidades de Caricaturización Sin Fin",
+    "description": "Ideal para cada idea creativa",
+    "items": [
+      "Caricaturas personalizadas para regalos",
+      "Fotos de perfil atractivas para redes sociales",
+      "Materiales de marketing creativos",
+      "Arte digital único para sitios web",
+      "Ilustraciones personalizadas para blogs",
+      "Avatares divertidos para perfiles de juegos",
+      "Anuncios e invitaciones estilo caricatura",
+      "Diseños de personajes vibrantes para historias"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias Reales de Transformación",
+    "description": "Descubre cómo nuestra herramienta ha tenido un impacto creativo",
+    "items": [
+      {
+        "tag": "Entusiasta del Arte",
+        "heading": "Regalos Memorables",
+        "before": {
+          "label": "Antes",
+          "text": "Fotos genéricas"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Caricaturas personalizadas"
+        },
+        "value": "100%",
+        "key": "Tasa de Satisfacción",
+        "description": "¡A nuestra familia le encantaron las versiones únicas de caricatura de nuestras fotos de vacaciones! Un regalo tan memorable."
+      },
+      {
+        "tag": "Influencer de Redes Sociales",
+        "heading": "Mejora de Presencia Online",
+        "before": {
+          "label": "Antes",
+          "text": "Imágenes estándar"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Caricaturas atractivas"
+        },
+        "value": "80%",
+        "key": "Aumento de Compromiso",
+        "description": "¡A mis seguidores les encantan las versiones de caricatura de mis fotos! Ha aumentado el compromiso en mis publicaciones."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Estilos de Caricaturas con IA",
+    "description": "Selecciona el estilo de caricatura adecuado para tus fotos",
+    "items": [
+      "Caricatura Clásica: colores brillantes, contornos audaces, estilo caprichoso",
+      "Arte Pop: manchas de pintura vívidas, sensación retro de cómic, alto contraste",
+      "Minimalista: líneas limpias, colores sutiles, estética moderna",
+      "Efecto Boceto: apariencia dibujada a mano, ideal para impresiones artísticas",
+      "Caricatura 3D: profundidad dinámica, características juguetonas, tonos vivos",
+      "Estilo Anime: rasgos expresivos y arriesgados, perfecto para diseño de personajes"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas de IA Relacionadas",
+    "description": "Explora más soluciones creativas de IA para tus necesidades artísticas"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué tipos de fotos funcionan mejor para la caricaturización?",
+        "answer": "Las fotos con sujetos claros y buena iluminación producen los mejores resultados. Las imágenes de mayor resolución, al menos 800x800 píxeles, permiten efectos de caricatura más detallados."
+      },
+      {
+        "question": "¿Puedo ajustar las características de la caricatura después de la generación?",
+        "answer": "¡Sí! Puedes personalizar colores, contornos y efectos para un aspecto único que se adapte a tu gusto o necesidades de proyecto."
+      },
+      {
+        "question": "¿Cuál es el tiempo de entrega para las imágenes de caricatura?",
+        "answer": "¡La transformación ocurre casi instantáneamente! Puedes descargar tu imagen de caricatura en segundos después del procesamiento."
+      },
+      {
+        "question": "¿Hay límites a cuántas fotos puedo caricaturizar?",
+        "answer": "¡No hay límites! Puedes crear tantas imágenes de caricatura como desees, con cada carga procesada individualmente."
+      },
+      {
+        "question": "¿Puedo usar las imágenes de caricatura de manera comercial?",
+        "answer": "¡Sí! Todas las imágenes de caricatura creadas a través de nuestra herramienta vienen con plenos derechos comerciales para uso ilimitado."
+      },
+      {
+        "question": "¿Qué modelo de precios se utiliza para este servicio?",
+        "answer": "Operamos con un modelo de pago por uso: solo pagas por las imágenes que caricaturizas, sin tarifas de suscripción ni cargos ocultos."
+      },
+      {
+        "question": "¿Necesito software o habilidades de diseño para usar el AI Cartoonizer?",
+        "answer": "¡No! El AI Cartoonizer es fácil de usar y no requiere habilidades de diseño. Simplemente sube una foto y deja que la IA haga el resto."
+      },
+      {
+        "question": "¿Puedo compartir mis imágenes de caricaturas directamente desde la plataforma?",
+        "answer": "¡Absolutamente! Después de generar tu caricatura, puedes compartirla fácilmente directamente en tus cuentas de redes sociales."
+      },
+      {
+        "question": "¿Qué soporte está disponible si encuentro problemas?",
+        "answer": "Ofrecemos soporte integral a través de email y chat en vivo, con una rica biblioteca de recursos para preguntas comunes y consejos para solución de problemas."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Caricaturizar Tus Fotos?",
+    "description": "Comienza con créditos gratuitos - Da vida a tus imágenes",
+    "contactUsText": "Contáctanos",
+    "tryText": "Pruébalo Ahora →"
+  },
+  "footer": {
+    "heading": "Transforma Tus Fotos con Magia de Caricatura",
+    "description": "Experimenta el AI Cartoonizer hoy y ve la diferencia. No se necesita registro.",
+    "ctaText": "Crea Tu Caricatura Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

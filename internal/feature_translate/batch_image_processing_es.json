@@ -1,0 +1,229 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Procesamiento de Imágenes por Lotes",
+  "meta": {
+    "description": "Procesa múltiples imágenes a la vez sin esfuerzo con WaveSpeed AI. Aprovecha el aprendizaje automático avanzado para mejorar el contenido visual de tu marca. Aumenta la productividad y ahorra tiempo sin comprometer la calidad!",
+    "keywords": "procesamiento de imágenes por lotes, mejora de imágenes a granel, herramientas de imagen AI, software de edición de imágenes, soluciones de imágenes para comercio electrónico, WaveSpeed AI, procesamiento de imágenes rápido, automatizar flujos de trabajo de imágenes, refinamiento profesional de imágenes, herramienta de optimización de imágenes"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas AI",
+        "items": [
+          [
+            "Herramientas AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrina",
+        "items": [
+          [
+            "Vitrina",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Procesamiento de Imágenes por Lotes",
+    "subHeading": "Supercarga Tu Flujo de Trabajo con AI",
+    "description": "Mejora y optimiza múltiples imágenes en cuestión de minutos. Aumenta la productividad y mantiene la calidad sin la molestia de la edición manual. Desbloquea todo el potencial de tu contenido visual.",
+    "tryText": "Comienza Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución de Procesamiento de Imágenes por Lotes de WaveSpeed AI",
+    "left": {
+      "heading": "Desafíos de Edición de Imágenes Tradicionales",
+      "items": [
+        "Edición manual que consume tiempo",
+        "Requiere habilidades o software especializados",
+        "Altos costos asociados con servicios profesionales",
+        "Dificultad para mantener la consistencia entre imágenes",
+        "Capacidad limitada para manejar grandes volúmenes"
+      ]
+    },
+    "right": {
+      "heading": "Solución de WaveSpeed AI",
+      "items": [
+        "Procesa cientos de imágenes en minutos",
+        "No se necesitan habilidades de diseño - Solo sube imágenes",
+        "Resultados consistentes y de alta calidad cada vez",
+        "Integración perfecta en tu flujo de trabajo",
+        "Precios asequibles adaptados a todos los negocios"
+      ],
+      "tryText": "Pruébalo"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "Optimiza tu procesamiento de imágenes por lotes en 4 sencillos pasos",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Sube Imágenes",
+        "text": "Selecciona varias imágenes que deseas mejorar",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Elige Mejoras",
+        "text": "Selecciona las ediciones deseadas: brillo, recorte, filtros, etc.",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Previsualiza Cambios",
+        "text": "Revisa las mejoras automáticas antes de procesar",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Descarga Imágenes Procesadas",
+        "text": "Recibe imágenes optimizadas listas para usar en minutos",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Comienza a Procesar Tus Imágenes →"
+  },
+  "endlessPossibilities": {
+    "heading": "Posibilidades Infinitas",
+    "description": "Perfecto para diversas aplicaciones e industrias",
+    "items": [
+      "Imágenes de productos para comercio electrónico",
+      "Materiales de marketing y anuncios",
+      "Contenido para redes sociales",
+      "Mejoras de portafolio",
+      "Mejoras de fotos inmobiliarias",
+      "Fotografía de eventos",
+      "Imágenes de comida y recetas",
+      "Ediciones de moda y lookbook"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Descubre cómo las marcas están transformando su contenido visual con AI",
+    "items": [
+      {
+        "tag": "Comercio Electrónico",
+        "heading": "Optimización de Imágenes de Minorista en Línea",
+        "before": {
+          "label": "Antes",
+          "text": "Las ediciones manuales tomaron semanas."
+        },
+        "after": {
+          "label": "Después",
+          "text": "Procesó cientos de fotos en 2 horas."
+        },
+        "value": "95%",
+        "key": "Tiempo Ahorrado",
+        "description": "Con el procesamiento de imágenes por lotes, nuestras cargas de productos se aceleraron drásticamente, aumentando las conversiones de ventas en un 30%."
+      },
+      {
+        "tag": "Servicios de Fotografía",
+        "heading": "Negocio de Fotografía de Bodas",
+        "before": {
+          "label": "Antes",
+          "text": "Edición engorrosa."
+        },
+        "after": {
+          "label": "Después",
+          "text": "Procesamiento de imágenes rápido y eficiente."
+        },
+        "value": "90%",
+        "key": "Eficiencia Mejorada",
+        "description": "El procesamiento por lotes de imágenes nos permitió entregar galerías finales más rápido y aumentar la satisfacción del cliente."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Opciones de Procesamiento de Imágenes",
+    "description": "Elige el procesamiento por lotes adecuado para tus necesidades",
+    "items": [
+      "Alta Calidad: Salida premium con ajustes de color perfectos",
+      "Procesamiento Rápido: Mejora rápida para necesidades inmediatas",
+      "Filtros Personalizables: Adapta el procesamiento a la estética de tu marca",
+      "Compatibilidad con todos los formatos de imagen estándar",
+      "Integración Simple: Incorpora fácilmente en flujos de trabajo existentes"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas AI Relacionadas",
+    "description": "Explora herramientas AI adicionales y poderosas para la mejora visual"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Cuántas imágenes puedo procesar a la vez?",
+        "answer": "Puedes procesar cientos de imágenes simultáneamente, lo que lo hace ideal para grandes proyectos o cargas masivas."
+      },
+      {
+        "question": "¿Qué tipos de mejoras puedo aplicar?",
+        "answer": "Puedes elegir entre ajustes como brillo, contraste, nitidez, recorte y aplicar filtros."
+      },
+      {
+        "question": "¿El procesamiento por lotes afectará la calidad de la imagen?",
+        "answer": "No, nuestros algoritmos avanzados aseguran que las imágenes procesadas mantengan alta calidad y fidelidad."
+      },
+      {
+        "question": "¿Puedo previsualizar los cambios antes de finalizar?",
+        "answer": "¡Sí! Tendrás la opción de previsualizar mejoras antes de proceder con el procesamiento por lotes."
+      },
+      {
+        "question": "¿Qué formatos de imagen se admiten?",
+        "answer": "Admitimos una amplia gama de formatos, incluidos JPG, PNG y TIFF, garantizando la máxima flexibilidad."
+      },
+      {
+        "question": "¿Hay un límite en cuán pequeñas o grandes pueden ser mis imágenes?",
+        "answer": "Las imágenes deben tener al menos 512x512 píxeles para un procesamiento óptimo, pero no hay un límite de tamaño máximo."
+      },
+      {
+        "question": "¿Con qué rapidez puedo esperar que se complete el procesamiento?",
+        "answer": "El procesamiento generalmente se completa en minutos, dependiendo de la cantidad y el tamaño de las imágenes subidas."
+      },
+      {
+        "question": "¿Hay tarifas ocultas asociadas con el servicio?",
+        "answer": "No, el precio es claro, sin tarifas ocultas ni compromisos mensuales."
+      },
+      {
+        "question": "¿Puedo cancelar mi solicitud de procesamiento?",
+        "answer": "Sí, puedes cancelar la solicitud antes de finalizar el procesamiento en cualquier momento."
+      },
+      {
+        "question": "¿Qué pasa si encuentro problemas mientras uso la herramienta?",
+        "answer": "Nuestro equipo de soporte está disponible para ayudar por correo electrónico o chat en vivo, y tenemos un FAQ completo para orientación."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Optimizar Tus Imágenes?",
+    "description": "Comienza con tus créditos gratuitos y experimenta la conveniencia del procesamiento por lotes.",
+    "contactUsText": "Contáctanos",
+    "tryText": "Comienza a Procesar Ahora →"
+  },
+  "footer": {
+    "heading": "¡Transforma Tu Proceso de Edición de Imágenes!",
+    "description": "Experimenta el procesamiento de imágenes por lotes de WaveSpeed AI hoy. No se requiere registro.",
+    "ctaText": "Comienza a Procesar Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

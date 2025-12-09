@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Effortlessly Trim Your Videos",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Trim Your Videos with Precision",
+    "description": "Easily cut and edit your video clips to highlight the best moments without complicated software.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example video clip before trimming"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example video clip after trimming"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Trim Your Videos",
+      "prompt": {
+        "heading": " Trim Your Video",
+        "placeholder": "E.g., Cut the first 10 seconds, remove the ending credits..."
+      },
+      "upload": {
+        "heading": " Select video or Input URL"
+      },
+      "processButton": "Trim Video Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Videos Processed"
+      },
+      {
+        "title": "99.7%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "3.0s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Video Examples",
+    "description": "Discover how WaveSpeed AI can enhance your videos by trimming unnecessary segments effortlessly.",
+    "items": [
+      {
+        "title": "Highlight Key Moments",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing highlighting of key moments in a video",
+        "description": "Focus on what matters by trimming out distractions from your footage."
+      },
+      {
+        "title": "Remove Unwanted Segments",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing removal of unwanted segments from a video",
+        "description": "Clean up your videos by removing dull or irrelevant portions."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Harness the power of AI to trim your videos faster and smarter, with professional output.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Speedy Processing",
+        "description": "Get your edited clips in seconds using our advanced AI technology."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "No editing experience required. Simply upload your video and trim away."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Secure Editing",
+        "description": "Your videos are processed directly in your browser, ensuring complete privacy."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three simple steps to perfect video clips",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Your Video",
+        "description": "Drag and drop or select your video file. We support multiple formats including MP4, AVI, and MOV."
+      },
+      {
+        "serial": "2",
+        "title": "AI-Powered Trimming",
+        "description": "Our AI intelligently identifies sections to keep and removes unwanted segments swiftly."
+      },
+      {
+        "serial": "3",
+        "title": "Download Your Clip",
+        "description": "Preview the trimmed version and download your final video in high definition."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless satisfied users who are transforming their videos with WaveSpeed AI",
+    "items": [
+      {
+        "name": "Emma Wilson",
+        "stars": 5,
+        "comment": "I love how easy it is to remove the boring parts from my travel videos. This tool has saved me tons of time!"
+      },
+      {
+        "name": "David Smith",
+        "stars": 5,
+        "comment": "As a content creator, this has revolutionized my editing process. Perfect trims in just a few clicks!"
+      },
+      {
+        "name": "Alex Johnson",
+        "stars": 5,
+        "comment": "Fast, effective, and secure. I trust WaveSpeed AI with my raw footage every time!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Find answers to common questions about the Video Trimmer",
+    "items": [
+      {
+        "title": "What types of videos can I trim?",
+        "description": "You can trim various video formats including MP4, AVI, and MOV. Whether it's a personal vlog or a professional presentation, our tool handles it all."
+      },
+      {
+        "title": "Is WaveSpeed free to use?",
+        "description": "Yes! Enjoy 30 minutes of video trimming daily at no charge. For frequent users, affordable subscription plans with extra features are available."
+      },
+      {
+        "title": "Can trimmed videos be used commercially?",
+        "description": "Yes, users with a subscription plan can utilize the trimmed videos for commercial purposes. Free-tier users may use them for personal projects only."
+      },
+      {
+        "title": "How does the privacy protection work?",
+        "description": "WaveSpeed processes videos directly in your browser with no uploads to our servers, ensuring your content remains private and secure."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Perfect Your Videos?",
+    "description": "Try WaveSpeed AI now and experience seamless video trimming. No sign-up needed.",
+    "ctaText": "Trim Video Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

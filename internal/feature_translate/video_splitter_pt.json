@@ -1,0 +1,214 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Divisor de Vídeo",
+  "meta": {
+    "description": "Divida longos vídeos em clipes compartilháveis com tecnologia avançada de IA. Perfeito para redes sociais, marketing e criação de conteúdo. Comece a aprimorar sua estratégia de vídeo hoje!",
+    "keywords": "divisor de vídeo, edição de vídeo com IA, automação de vídeo, clipes de redes sociais, criação de conteúdo, marketing de vídeo, ferramenta de edição de vídeo, WaveSpeed AI, gerenciamento de vídeo, ferramentas de vídeo para e-commerce, compartilhamento de vídeo, estratégia de conteúdo em vídeo"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de IA",
+        "items": [
+          [
+            "Ferramentas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Demonstração",
+        "items": [
+          [
+            "Demonstração",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Divisor de Vídeo",
+    "subHeading": "Transforme Longos Vídeos em Clipes Atrativos",
+    "description": "Divida facilmente vídeos longos em segmentos pequenos perfeitos para redes sociais e marketing. Maximize o engajamento e o alcance com precisão guiada por IA. Comece a dividir seus vídeos hoje!",
+    "tryText": "Experimente Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução de Divisor de Vídeo WaveSpeed AI",
+    "left": {
+      "heading": "Desafios da Edição de Vídeo Tradicional",
+      "items": [
+        "Processo de edição que consome tempo",
+        "Requer software caro e habilidades",
+        "Corte e aparo manuais são tediosos",
+        "Opções limitadas de saída para clipes personalizados",
+        "Potencial perda de qualidade de vídeo durante as edições"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeed AI",
+      "items": [
+        "Automatize a divisão de vídeos em segundos",
+        "Nenhuma habilidade de edição necessária - Basta fazer o upload do seu vídeo",
+        "Resultados instantâneos adaptados para compartilhamento social",
+        "Personalize clipes com durações pré-definidas",
+        "Assinatura econômica com créditos para uso"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "Divida seus vídeos de forma eficiente em três etapas fáceis",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Enviar Vídeo",
+        "text": "Adicione seu arquivo de vídeo à plataforma",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Definir Pontos de Divisão",
+        "text": "Escolha timestamps específicos para os clipes que deseja criar",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Baixar Clipes",
+        "text": "Obtenha segmentos de vídeo de alta qualidade prontos para compartilhamento",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "Gere Seu Primeiro Clip →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilidades Infinitas",
+    "description": "Ideal para várias estratégias de conteúdo",
+    "items": [
+      "Crie trechos de vídeo promocionais",
+      "Clipes de redes sociais compartilháveis",
+      "Momentos de destaque para apresentações",
+      "Segmentos de tutoriais e demonstrações",
+      "Vídeos de resumo de eventos",
+      "Trechos de depoimentos de clientes",
+      "Segmentos de colaboração com influenciadores",
+      "Destaques de transmissões ao vivo"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Descubra como as marcas otimizam seu conteúdo de vídeo com IA",
+    "items": [
+      {
+        "tag": "Varejo de Moda",
+        "heading": "Clipes Rápidos de Anúncio",
+        "before": {
+          "label": "Antes",
+          "text": "5 horas para edições"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "5 minutos por clip"
+        },
+        "value": "83%",
+        "key": "Redução de Tempo",
+        "description": "Transformamos nossa estratégia de publicidade e aumentamos o engajamento nas redes sociais em 60%."
+      },
+      {
+        "tag": "Startups de Tecnologia",
+        "heading": "Vídeos de Lançamento de Produtos",
+        "before": {
+          "label": "Antes",
+          "text": "Serviços caros"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Produção interna acessível"
+        },
+        "value": "90%",
+        "key": "Economia de Custos",
+        "description": "Com o recurso de divisão, podemos criar rapidamente vários clipes para nossos lançamentos, melhorando nosso alcance sem esforço."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Modelos de IA",
+    "description": "Escolha os recursos certos para suas necessidades de divisão",
+    "items": [
+      "Corte automatizado: Divida vídeos longos em timestamps precisos",
+      "Geração dinâmica de clipes para várias plataformas sociais",
+      "Interface amigável para edição intuitiva",
+      "Processamento em lote para vários vídeos ao mesmo tempo",
+      "Opções de exportação adaptadas para cada plataforma de mídia social"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Explore mais ferramentas de IA poderosas para aprimoramento de vídeo"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo o que você precisa saber",
+    "items": [
+      {
+        "question": "Quais formatos de vídeo são suportados para divisão?",
+        "answer": "Suportamos os formatos de vídeo mais comuns, incluindo MP4, AVI e MOV, garantindo que seus arquivos possam ser facilmente enviados e processados sem complicações."
+      },
+      {
+        "question": "Posso dividir vídeos em comprimentos personalizados?",
+        "answer": "Com certeza! Você pode especificar timestamps exatos para seus clipes, permitindo segmentos adaptados que atendem às suas necessidades de marketing."
+      },
+      {
+        "question": "Há um limite para o comprimento do vídeo que posso enviar?",
+        "answer": "Nossa plataforma pode lidar com vídeos de até 60 minutos de duração para divisão, proporcionando flexibilidade para uma variedade de tipos de conteúdo."
+      },
+      {
+        "question": "Quanto tempo leva para dividir meus vídeos?",
+        "answer": "A divisão de vídeo é instantânea! Dependendo do comprimento e da complexidade, você pode esperar seus clipes prontos em segundos."
+      },
+      {
+        "question": "Posso re-editar clipes depois que eles foram criados?",
+        "answer": "Sim, você pode revisitá-los a qualquer momento e criar novas versões ou ajustar segmentos existentes conforme necessário."
+      },
+      {
+        "question": "Há uma cobrança por cada clip gerado?",
+        "answer": "Nossa precificação é baseada em um modelo de pagamento conforme o uso, o que significa que você paga apenas pelos clipes que processa, tornando-o amigável ao orçamento."
+      },
+      {
+        "question": "Há uma versão móvel disponível?",
+        "answer": "Atualmente, nossa plataforma é otimizada para uso em desktop, mas estamos avaliando capacidades móveis para atualizações futuras."
+      },
+      {
+        "question": "Que tipo de suporte a WaveSpeed oferece?",
+        "answer": "A WaveSpeed oferece suporte ao cliente abrangente, incluindo documentação, tutoriais e assistência direta por meio de chat e e-mail para todas as suas dúvidas."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Dividir Seu Primeiro Vídeo?",
+    "description": "Utilize créditos gratuitos - Experimente a facilidade agora",
+    "contactUsText": "Entre em Contato",
+    "tryText": "Experimente Agora →"
+  },
+  "footer": {
+    "heading": "Pronto para Transformar Seus Vídeos?",
+    "description": "Experimente o WaveSpeed AI agora e aprimore sua estratégia de conteúdo. Sem necessidade de cadastro.",
+    "ctaText": "Divida Vídeos Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

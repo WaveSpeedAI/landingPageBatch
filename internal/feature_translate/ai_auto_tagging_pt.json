@@ -1,0 +1,214 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Auto Tagging com IA",
+  "meta": {
+    "description": "Etiquete produtos em suas imagens de forma contínua com auto tagging impulsionado por IA. Aprimore seu fluxo de trabalho de e-commerce com precisão e rapidez. Perfeito para varejistas online que desejam otimizar suas listas de produtos e melhorar a buscabilidade. Cadastre-se e experimente a eficiência!",
+    "keywords": "auto tagging, tagueamento com IA, tagueamento de produtos, automação de e-commerce, rotulagem de imagens com IA, otimização de fluxo de trabalho, tagueamento no Shopify, gestão de produtos na Amazon, gestão de ativos digitais"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de IA",
+        "items": [
+          [
+            "Ferramentas de IA",
+            "#ai_tools"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Auto Tagging com IA",
+    "subHeading": "Etiqueta Seus Produtos com Precisão Sem Esforço",
+    "description": "Gere automaticamente etiquetas precisas para suas imagens de produtos em segundos. Elimine os esforços de etiquetagem manual e aprimore a descobribilidade de seus produtos. Revolucione seus processos de e-commerce com nossa tecnologia de ponta.",
+    "tryText": "Comece a Etiquetar Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução de Auto Tagging com IA da WaveSpeed",
+    "left": {
+      "heading": "Desafios da Etiquetagem Tradicional",
+      "items": [
+        "A etiquetagem manual é demorada e trabalhosa",
+        "Alto potencial de erro humano na etiquetagem",
+        "Etiquetagem inconsistente entre diferentes produtos",
+        "Difícil gerenciar grandes inventários de forma eficaz",
+        "Escalabilidade limitada para negócios em crescimento"
+      ]
+    },
+    "right": {
+      "heading": "Solução de Auto Tagging com IA Simplificada",
+      "items": [
+        "Gere instantaneamente etiquetas relevantes para imagens de produtos",
+        "Reduza o esforço manual e minimize erros",
+        "Etiquetagem consistente e precisa em seu catálogo",
+        "Gerencie facilmente extensos inventários de produtos",
+        "Solução escalável que cresce com seu negócio"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "Realize a etiquetagem automatizada em 4 etapas simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Carregar Imagem",
+        "text": "Envie sua imagem de produto para soluções de etiquetagem",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Processamento com IA",
+        "text": "Deixe a IA analisar a imagem e determinar as etiquetas ideais",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Revisar Etiquetas",
+        "text": "Examine e modifique as etiquetas sugeridas para precisão",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Aplicar Etiquetas",
+        "text": "Implemente as etiquetas diretamente em suas listas de produtos",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Comece a Etiquetar Automaticamente →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilidades de Etiquetagem Sem Fim",
+    "description": "Perfeito para várias aplicações de e-commerce",
+    "items": [
+      "Gestão de inventário de produtos",
+      "Melhorando resultados de busca em lojas online",
+      "Experiência de navegação aprimorada para o cliente",
+      "Atualizações de listagens mais rápidas para ofertas sazonais",
+      "Organização digital de ativos mais eficiente",
+      "Facilitando listagens em múltiplas plataformas"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Veja como as empresas se transformaram com IA",
+    "items": [
+      {
+        "tag": "Varejo de Moda",
+        "heading": "Loja de Roupas Online",
+        "before": {
+          "label": "Antes",
+          "text": "10 horas semanais"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "1 hora semanal"
+        },
+        "value": "90%",
+        "key": "Tempo Economizado",
+        "description": "Com a etiquetagem automatizada, reduzimos significativamente nosso tempo de atualização de produtos, resultando em um tempo de colocação no mercado mais rápido para novos itens."
+      },
+      {
+        "tag": "Artigos para Casa",
+        "heading": "Loja de Decoração de Casa Online",
+        "before": {
+          "label": "Antes",
+          "text": "Etiquetas inconsistentes"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Etiquetagem precisa"
+        },
+        "value": "99.7%",
+        "key": "Precisão da Etiqueta",
+        "description": "A IA melhorou nossa consistência de etiquetas, o que aumenta nossos rankings de busca e a satisfação do cliente."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Modelos de Etiquetagem com IA",
+    "description": "Escolha as soluções de etiquetagem certas para suas necessidades",
+    "items": [
+      "Etiquetador Padrão: Etiquetas de qualidade geral para múltiplos tipos de produtos",
+      "Etiquetador Premium: Etiquetas de alta qualidade, específicas para nichos para melhor precisão",
+      "Análise semântica embutida para etiquetagem contextual",
+      "Suporta integração com plataformas populares de e-commerce",
+      "Tempos de processamento rápidos com atualizações de etiquetagem em tempo real"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Explore mais ferramentas poderosas de IA para e-commerce"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo o que você precisa saber",
+    "items": [
+      {
+        "question": "Qual a precisão das etiquetas geradas automaticamente?",
+        "answer": "Nossa IA fornece alta precisão na geração de etiquetas. A melhoria contínua através do aprendizado de máquina garante relevância ao seu catálogo de produtos."
+      },
+      {
+        "question": "Posso editar as etiquetas geradas automaticamente?",
+        "answer": "Sim! Após o processamento da IA, você pode revisar e modificar as etiquetas para atender às suas necessidades específicas."
+      },
+      {
+        "question": "Quais tipos de imagens funcionam melhor para etiquetagem?",
+        "answer": "Imagens de produtos claras e bem iluminadas resultam nas melhores etiquetagens. A IA também pode trabalhar com uma variedade de tipos de produtos."
+      },
+      {
+        "question": "Há um limite para o número de imagens que posso carregar?",
+        "answer": "Não! Você pode carregar quantas imagens precisar para etiquetagem. O sistema lida com uploads em lote de forma contínua."
+      },
+      {
+        "question": "Preciso fornecer descrições ou contexto para a etiquetagem?",
+        "answer": "Não, a IA analisa a imagem independentemente para gerar etiquetas relevantes, tornando o processo incrivelmente eficiente."
+      },
+      {
+        "question": "E se eu tiver um grande inventário?",
+        "answer": "Nossa solução escala de forma eficaz, permitindo a etiquetagem eficiente de listagens extensas de produtos sem desacelerar."
+      },
+      {
+        "question": "Com que rapidez posso esperar que minhas imagens sejam etiquetadas?",
+        "answer": "A etiquetagem geralmente ocorre em segundos por imagem, permitindo que você atualize suas listagens em tempo real."
+      },
+      {
+        "question": "Quais são os direitos comerciais para etiquetas geradas automaticamente?",
+        "answer": "Você mantém todos os direitos de usar, modificar e aplicar as etiquetas de qualquer forma para seu negócio."
+      },
+      {
+        "question": "Quais recursos de suporte estão disponíveis?",
+        "answer": "Fornecemos documentação, tutoriais e suporte ao cliente para ajudá-lo a maximizar sua eficiência de etiquetagem."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Otimizar Seu Tagueamento de Produtos?",
+    "description": "Comece a usar Auto Tagging com IA hoje - Cadastre-se para créditos gratuitos!",
+    "contactUsText": "Entre em Contato",
+    "tryText": "Experimente Agora →"
+  },
+  "footer": {
+    "heading": "Pronto para Aprimorar Suas Listagens de E-commerce?",
+    "description": "Experimente o poder do Auto Tagging com IA hoje. Sem necessidade de cadastro.",
+    "ctaText": "Comece a Etiquetar Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

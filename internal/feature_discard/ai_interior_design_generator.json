@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Interior Design Generator",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Transform Your Space Instantly",
+    "description": "Utilize our AI Interior Design Generator to create stunning room designs with just a few clicks.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example interior before design generation"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example interior after design generation"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Design Your Dream Interior",
+      "prompt": {
+        "heading": "Prompt",
+        "placeholder": "E.g., Modern living room, cozy bedroom, minimalistic workspace..."
+      },
+      "upload": {
+        "heading": "Select room layout or input dimensions"
+      },
+      "processButton": "Generate Design Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "1M+",
+        "description": "Rooms Designed"
+      },
+      {
+        "title": "98%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "3.0s",
+        "description": "Average Generation Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Design Transformations",
+    "description": "Explore the amazing room transformations created by our AI, showcasing how easily you can redesign your space.",
+    "items": [
+      {
+        "title": "Modern Living Room",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example of a modern living room design",
+        "description": "Revamp your living space with contemporary styles and fresh decor."
+      },
+      {
+        "title": "Stylish Bedroom",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example of a stylish bedroom design",
+        "description": "Transform your bedroom into a serene sanctuary with calming colors and textures."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose Our AI Design Generator?",
+    "description": "Unlock professional interior designs at your fingertips with advanced AI capabilities.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Rapid Results",
+        "description": "Receive your custom design in seconds, allowing you to visualize changes without delay."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "Effortlessly generate designs without any design experience. Just describe your ideal space."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Secure Processing",
+        "description": "Your design preferences are processed with complete privacy, ensuring your ideas remain confidential."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three simple steps to your ideal interior",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Input Room Details",
+        "description": "Provide your room dimensions and style preferences. Our system supports various room layouts."
+      },
+      {
+        "serial": "2",
+        "title": "AI Design Generation",
+        "description": "Our intelligent technology creates a unique interior design tailored to your specifications."
+      },
+      {
+        "serial": "3",
+        "title": "Review and Download",
+        "description": "Explore the design, make adjustments if needed, and save your final layout in high quality."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Are Saying",
+    "description": "Join the ranks of delighted customers who have transformed their spaces with our AI technology",
+    "items": [
+      {
+        "name": "Jessica Lee",
+        "stars": 5,
+        "comment": "I was blown away by how quickly I could visualize my dream living room. The designs are stunning!"
+      },
+      {
+        "name": "David Smith",
+        "stars": 5,
+        "comment": "As a busy professional, the AI generator saved me time and provided innovative layout ideas I never considered."
+      },
+      {
+        "name": "Emily Turner",
+        "stars": 5,
+        "comment": "The customization options are fantastic! It feels great to have a personal touch in my home design."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your inquiries about our AI Interior Design Generator",
+    "items": [
+      {
+        "title": "What types of rooms can I design?",
+        "description": "You can generate designs for various spaces including living rooms, bedrooms, kitchens, and offices. Our AI adapts to your specified dimensions and style."
+      },
+      {
+        "title": "Is there a limit to how many designs I can create?",
+        "description": "No, you can generate as many designs as you like! Each user receives unlimited access to create innovative room layouts."
+      },
+      {
+        "title": "Can I use the designs for commercial purposes?",
+        "description": "Yes! You can utilize the generated designs for personal or commercial projects such as renovations or property staging."
+      },
+      {
+        "title": "How does the privacy of my information work?",
+        "description": "All design inputs are processed directly on your device, ensuring that your ideas and personal information remain secure and private."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Redesign Your Space?",
+    "description": "Try the AI Interior Design Generator now to reimagine your home. No sign-up required.",
+    "ctaText": "Generate Design Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

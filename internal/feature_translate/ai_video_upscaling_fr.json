@@ -1,0 +1,226 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Amélioration Vidéo par IA",
+  "meta": {
+    "description": "Améliorez vos vidéos en des résolutions haute définition époustouflantes sans effort grâce à l'IA. Parfait pour les créateurs de contenu, les marketeurs et les entreprises cherchant à amplifier leur impact visuel. Découvrez une qualité supérieure sans les coûts élevés. 50 % de réduction sur votre première amélioration !",
+    "keywords": "amélioration vidéo par IA, outil d'amélioration vidéo, générateur vidéo HD, amélioration de qualité vidéo, netteté vidéo par IA, outils pour créateurs de contenu, amélioration vidéo pour marketeurs, qualité vidéo premium, optimisation de contenu visuel, amélioration vidéo abordable"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez maintenant"
+  },
+  "hero": {
+    "heading": "Amélioration Vidéo Facile",
+    "subHeading": "Transformez Vos Séquences en Haute Définition",
+    "description": "Élevez la qualité de vos vidéos avec notre technologie d'amélioration par IA de pointe. Obtenez une clarté et des détails époustouflants en quelques instants. Découvrez la différence avec notre intégration transparente et des résultats instantanés.",
+    "tryText": "Améliorez Votre Vidéo Maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution d'Amélioration Vidéo par IA WaveSpeed AI",
+    "left": {
+      "heading": "Défis de l'Amélioration Traditionnelle",
+      "items": [
+        "Le redimensionnement entraîne souvent des images floues",
+        "Solutions logicielles et matérielles coûteuses",
+        "Les réglages manuels prennent des heures d'effort",
+        "La qualité varie selon le matériau d'origine",
+        "Accès limité pour les petits créateurs et entreprises"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed AI",
+      "items": [
+        "Améliorez les vidéos en HD époustouflante en quelques minutes",
+        "Pas d'équipement spécial requis - Il suffit de télécharger votre vidéo",
+        "Amélioration instantanée avec des algorithmes pilotés par IA",
+        "Retouches illimitées pour atteindre la qualité souhaitée",
+        "Modèle de tarification économique pour tous les utilisateurs"
+      ],
+      "tryText": "Essayez"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment ça Marche",
+    "description": "Améliorez vos vidéos en 4 étapes simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Télécharger la Vidéo",
+        "text": "Sélectionnez et téléchargez votre fichier vidéo pour l'amélioration",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Choisir la Résolution",
+        "text": "Sélectionnez la résolution de sortie souhaitée (par exemple, 1080p, 4K)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Ajuster les Paramètres",
+        "text": "Optionnel : Affinez les paramètres pour des résultats optimaux",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Télécharger la Vidéo Améliorée",
+        "text": "Obtenez votre vidéo améliorée prête à être partagée en quelques minutes",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Améliorez Votre Vidéo Maintenant →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilités Sans Fin",
+    "description": "Parfait pour tout contenu vidéo",
+    "items": [
+      "Améliorez les vidéos promotionnelles pour les réseaux sociaux",
+      "Améliorez le contenu YouTube pour un meilleur engagement des spectateurs",
+      "Transformez les cours en ligne avec des visuels de meilleure qualité",
+      "Améliorez les séquences d'événements et de webinaires",
+      "Créez des présentations époustouflantes avec des vidéos améliorées",
+      "Faites en sorte que les vidéos familiales paraissent plus professionnelles",
+      "Optimisez les séquences pour la télévision ou les services de streaming",
+      "Revitalisez de vieilles vidéos pour de nouvelles plateformes"
+    ]
+  },
+  "successStories": {
+    "heading": "Vraies Histoires de Succès",
+    "description": "Découvrez comment les créateurs améliorent leurs vidéos avec l'IA",
+    "items": [
+      {
+        "tag": "Production Cinématographique",
+        "heading": "Sortie de Film Indépendant",
+        "before": {
+          "label": "Avant",
+          "text": "Définition standard"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Haute définition"
+        },
+        "value": "75%",
+        "key": "Amélioration de la Qualité",
+        "description": "Nous avons amélioré la qualité audiovisuelle de notre film, entraînant une augmentation significative de l'engagement du public et des critiques positives."
+      },
+      {
+        "tag": "Agence de Marketing",
+        "heading": "Vidéo Promotionnelle de Client",
+        "before": {
+          "label": "Avant",
+          "text": "Basse résolution"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Précise et claire"
+        },
+        "value": "85%",
+        "key": "Augmentation de l'Engagement",
+        "description": "La vidéo améliorée a considérablement amélioré la présence de la marque de notre client, entraînant une augmentation de 50 % des demandes."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison des Modèles IA",
+    "description": "Choisissez les bons paramètres d'amélioration pour vos besoins",
+    "items": [
+      "Améliorateur Standard : Augmente la résolution avec une amélioration de qualité modérée, adapté pour des ajustements rapides",
+      "Améliorateur Avancé : Qualité premium, excellente récupération des détails, idéal pour une utilisation professionnelle",
+      "Aperçus d'amélioration en temps réel",
+      "Support de plusieurs formats pour divers types de vidéos",
+      "Temps de traitement rapide avec une sortie de haute qualité",
+      "Interface utilisateur simple pour une navigation sans effort"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils IA Associés",
+    "description": "Découvrez d'autres outils IA innovants pour améliorer votre contenu"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quelles résolutions vidéo puis-je améliorer ?",
+        "answer": "Vous pouvez améliorer vos vidéos à diverses résolutions, y compris 1080p, 4K, et plus en fonction de vos besoins. L'outil d'amélioration utilise des algorithmes avancés pour garantir une qualité optimale tout en maintenant des détails naturels."
+      },
+      {
+        "question": "Puis-je améliorer n'importe quel format vidéo ?",
+        "answer": "Oui ! Notre outil IA prend en charge divers formats vidéo, y compris MP4, AVI et MOV pour une amélioration sans faille. Assurez-vous que vos vidéos sont dans des formats courants pour les meilleurs résultats."
+      },
+      {
+        "question": "Combien de temps prend le processus d'amélioration ?",
+        "answer": "Typiquement, l'amélioration vidéo prend seulement quelques minutes en fonction de la durée de la vidéo et de la résolution sélectionnée. Nos algorithmes travaillent efficacement pour fournir des résultats de haute qualité rapidement."
+      },
+      {
+        "question": "L'amélioration va-t-elle améliorer significativement la qualité vidéo ?",
+        "answer": "Absolument ! Notre technologie IA améliore la clarté, la netteté et la qualité visuelle globale de la vidéo, rendant le contenu basse résolution d'une qualité d'apparence haute définition."
+      },
+      {
+        "question": "Le traitement par IA nécessite-t-il de grandes tailles de fichiers pour de meilleurs résultats ?",
+        "answer": "Bien que les fichiers de plus haute résolution puissent conduire à de meilleurs résultats, notre technologie est conçue pour optimiser également les fichiers plus petits. Vous verrez une qualité améliorée quelle que soit la taille du fichier."
+      },
+      {
+        "question": "Puis-je utiliser les vidéos améliorées commercialement ?",
+        "answer": "Oui ! Toutes les vidéos améliorées via notre plateforme sont accompagnées de droits d'utilisation commerciale complets, vous permettant de les utiliser pour le marketing, les présentations, et plus sans frais supplémentaires."
+      },
+      {
+        "question": "Y a-t-il une limite au nombre de vidéos que je peux améliorer ?",
+        "answer": "Non, il n'y a aucune limite au nombre de vidéos que vous pouvez améliorer. Vous pouvez traiter plusieurs vidéos simultanément pour un flux de travail rationalisé."
+      },
+      {
+        "question": "Quel support est disponible si je rencontre des problèmes ?",
+        "answer": "Notre plateforme fournit un support étendu, y compris des FAQ, des tutoriels vidéo, et une équipe de service à la clientèle disponible par e-mail et chat pour une assistance rapide."
+      },
+      {
+        "question": "Dois-je télécharger un logiciel pour utiliser le service ?",
+        "answer": "Aucun téléchargement n'est nécessaire ! Nos services d'amélioration vidéo sont hébergés en ligne, permettant un accès immédiat et une gestion facile des vidéos via votre navigateur web."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Améliorer Vos Vidéos ?",
+    "description": "Commencez avec des crédits gratuits et voyez la transformation de vos propres yeux.",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Améliorez Maintenant →"
+  },
+  "footer": {
+    "heading": "Prêt à Améliorer la Qualité de Vos Vidéos ?",
+    "description": "Essayez WaveSpeed AI aujourd'hui et constatez la différence instantanément. Aucune inscription nécessaire.",
+    "ctaText": "Commencez à Améliorer Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

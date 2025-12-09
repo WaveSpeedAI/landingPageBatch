@@ -1,0 +1,226 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI屏幕录制器",
+  "meta": {
+    "description": "使用WaveSpeed AI强大的屏幕录制功能轻松捕捉您的屏幕。非常适合教程、演示和流媒体，全部由先进的AI技术支持。体验无缝录制，无需复杂软件的麻烦。",
+    "keywords": "屏幕录制器, AI屏幕捕捉, 视频录制工具, 教程录制, 演示录制, 无缝屏幕捕捉, 流媒体, 教育视频, 软件演示, 在线教程, 营销视频"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI工具",
+        "items": [
+          [
+            "AI工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即试用"
+  },
+  "hero": {
+    "heading": "轻松录制屏幕",
+    "subHeading": "捕捉、分享与启发",
+    "description": "轻松录制您的屏幕，用于教程、产品演示或演示。利用WaveSpeed AI的智能功能来增强您的录制效果，有效分享您的知识。现在开始录制！",
+    "tryText": "开始录制",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI屏幕录制器解决方案",
+    "left": {
+      "heading": "传统录制挑战",
+      "items": [
+        "复杂的软件设置",
+        "昂贵的录制设备",
+        "耗时的编辑",
+        "延迟的性能和低质量",
+        "有限的分享选项"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI解决方案",
+      "items": [
+        "一键即刻录制高质量视频",
+        "无需额外软件—只需开始录制",
+        "AI增强性能，实现无缝操作",
+        "轻松分享至多个平台",
+        "适合所有人的按需付费模式"
+      ],
+      "tryText": "试用"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "按4个简单步骤录制您的屏幕",
+    "steps": [
+      {
+        "number": "1",
+        "title": "选择录制区域",
+        "text": "选择全屏或特定窗口进行录制",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "调整设置",
+        "text": "设置音频偏好、质量和格式选项",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "开始录制",
+        "text": "一键启动，即可立即捕捉屏幕",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "保存并分享",
+        "text": "下载您的视频或直接分享至社交媒体",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "录制您的第一段视频→"
+  },
+  "endlessPossibilities": {
+    "heading": "多样的录制应用",
+    "description": "适用于各种使用场景",
+    "items": [
+      "创建教育教程和课程",
+      "录制软件演示和演示",
+      "轻松直播游戏会话",
+      "通过视觉指南提供客户支持",
+      "捕捉网络研讨会以供后续观看",
+      "生成营销视频和广告",
+      "制作产品的说明视频",
+      "记录技术设置或故障排除提示"
+    ]
+  },
+  "successStories": {
+    "heading": "真实的成功故事",
+    "description": "看看用户如何利用屏幕录制",
+    "items": [
+      {
+        "tag": "教育",
+        "heading": "远程学习提升",
+        "before": {
+          "label": "之前",
+          "text": "难以吸引学生"
+        },
+        "after": {
+          "label": "之后",
+          "text": "互动教程"
+        },
+        "value": "75%",
+        "key": "参与度增加",
+        "description": "讲师录制了吸引人的视频课程，提高了学生的参与度和理解力。"
+      },
+      {
+        "tag": "企业培训",
+        "heading": "高效的入职流程",
+        "before": {
+          "label": "之前",
+          "text": "每位学员5小时"
+        },
+        "after": {
+          "label": "之后",
+          "text": "每位学员1小时"
+        },
+        "value": "80%",
+        "key": "节省时间",
+        "description": "通过录制的课程简化培训，使新员工能够按照自己的节奏学习，大大缩短了入职时间。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "屏幕录制器比较",
+    "description": "选择适合您需求的录制设置",
+    "items": [
+      "标准录制：1080p质量，音频捕捉和灵活设置",
+      "高性能模式：优化高帧速游戏会话",
+      "轻量模式：快速简便，适合短片和教程",
+      "自定义音频输入：单独录制系统音频或麦克风",
+      "无延迟：确保流畅的不间断录制",
+      "包含简单的编辑功能"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关的AI工具",
+    "description": "探索其他增强视频创建的工具"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要知道的一切",
+    "items": [
+      {
+        "question": "我可以录制什么视频质量？",
+        "answer": "您可以录制高达1080p的质量，并根据需要调整设置。这确保了任何类型录制的清晰视觉和高质量音频。"
+      },
+      {
+        "question": "我可以在录制中包括我的声音或其他音频吗？",
+        "answer": "可以！您可以选择音频源，包括麦克风输入和系统音频，允许进行全面而吸引人的演示。"
+      },
+      {
+        "question": "分享录制是否容易？",
+        "answer": "绝对容易！录制后，您可以轻松下载视频，或无需麻烦地直接分享至社交媒体和其他平台。"
+      },
+      {
+        "question": "我可以多次录制而不会失去质量吗？",
+        "answer": "可以！您可以根据需要进行多次录制，每次保持最高质量的输出而不降解。"
+      },
+      {
+        "question": "使用屏幕录制器的定价模型是什么？",
+        "answer": "我们采用按需付费的定价模型，确保您仅为创建的录制付费，无隐藏费用或订阅。"
+      },
+      {
+        "question": "开始录制需要多长时间？",
+        "answer": "开始录制是瞬时的！只需一键，即可在几秒钟内开始捕捉您的屏幕。"
+      },
+      {
+        "question": "屏幕录制的最佳使用场景是什么？",
+        "answer": "屏幕录制非常适合教育目的、产品演示、实时支持、营销视频等等！"
+      },
+      {
+        "question": "我拥有我录制视频的版权吗？",
+        "answer": "是的！所有创建的视频都归您所有，享有完整的商业版权，可在不同平台上无额外费用使用。"
+      },
+      {
+        "question": "如果我遇到问题，提供什么支持？",
+        "answer": "我们提供丰富的支持，包括详细文档、视频教程和响应迅速的支持团队，随时准备协助解决任何技术问题。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备开始捕捉您的屏幕吗？",
+    "description": "今天就体验WaveSpeed AI屏幕录制器的轻松！",
+    "contactUsText": "联系我们",
+    "tryText": "立即开始录制→"
+  },
+  "footer": {
+    "heading": "准备好改变您的屏幕捕捉了吗？",
+    "description": "立即试用WaveSpeed AI，亲自体验区别。无需注册。",
+    "ctaText": "立即开始录制",
+    "text": "© 2025 WaveSpeed AI。保留所有权利。"
+  }
+}

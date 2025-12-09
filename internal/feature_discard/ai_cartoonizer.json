@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Transform Your Photos into Stunning Cartoons",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Transform Your Photos into Cartoons",
+    "description": "Turn your ordinary images into vibrant cartoon art effortlessly with our AI technology.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo before cartoonization"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example photo after cartoonization"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Cartoonize Your Photo",
+      "prompt": {
+        "heading": "Prompt",
+        "placeholder": "E.g., Cartoonize my vacation photo, create a cartoon of my pet, turn my portrait into a comic style..."
+      },
+      "upload": {
+        "heading": "Select image or Input URL"
+      },
+      "processButton": "Cartoonize Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Photos Cartoonized"
+      },
+      {
+        "title": "98.7%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "3.2s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Cartoon Transformations",
+    "description": "Explore incredible transformations as WaveSpeed AI brings your photos to life in cartoon style.",
+    "items": [
+      {
+        "title": "Fun Character Creation",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing a photo turned into a cartoon character",
+        "description": "Create whimsical cartoon characters from your favorite images."
+      },
+      {
+        "title": "Artistic Portraits",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing a portrait as a cartoon",
+        "description": "Transform ordinary portraits into stunning works of art."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI for Cartoonization?",
+    "description": "Experience the magic of turning photos into art effortlessly.",
+    "items": [
+      {
+        "icon": "paint-brush",
+        "title": "Artistic Styles",
+        "description": "Choose from various cartoon styles that suit your artistic vision."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User Friendly",
+        "description": "No artistic skills required. Upload your photo and let our AI bring it to life."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Privacy Assured",
+        "description": "All transformations are processed securely in your browser, ensuring your images remain private."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three easy steps to cartoonize your images.",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Your Image",
+        "description": "Drag and drop or browse to select the image you want to transform. Supported formats include JPG, PNG, and WebP."
+      },
+      {
+        "serial": "2",
+        "title": "AI Cartoonization",
+        "description": "Our advanced technology analyzes your image and applies cartoon effects while preserving key details."
+      },
+      {
+        "serial": "3",
+        "title": "Download Your Cartoon",
+        "description": "Preview your cartoonized image and download it in high resolution."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Are Saying",
+    "description": "Join countless happy users who have transformed their photos with WaveSpeed AI",
+    "items": [
+      {
+        "name": "Emily Carter",
+        "stars": 5,
+        "comment": "I loved how my travel photos turned into fun cartoons! It adds a playful touch to my social media."
+      },
+      {
+        "name": "James Liu",
+        "stars": 5,
+        "comment": "As an illustrator, I appreciate how easy it is to create cartoon versions of my sketches. A fantastic tool!"
+      },
+      {
+        "name": "Laura Green",
+        "stars": 5,
+        "comment": "The AI did a fantastic job! I was surprised to see my family photos transformed into colorful cartoons."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your questions about Avatar Creator",
+    "items": [
+      {
+        "title": "What styles are available for cartoonization?",
+        "description": "Our AI offers a variety of cartoon styles, including classic cartoon, comic book, and painterly effects to suit different artistic preferences."
+      },
+      {
+        "title": "Is it free to use the cartoonization feature?",
+        "description": "Absolutely! You can use our cartoonizer with daily free credits. Enjoy creating countless cartoon images at no cost."
+      },
+      {
+        "title": "Can I use cartoonized images commercially?",
+        "description": "Yes, users with a paid subscription can use cartoonized images for commercial projects. Please check our Terms of Service for more details."
+      },
+      {
+        "title": "How does privacy work with my images?",
+        "description": "All images are processed in your browser without any data being uploaded to our servers. Your privacy and security are our top priority."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Cartoonize Your Photos?",
+    "description": "Try WaveSpeed AI now and see your photos transformed into cartoons. No sign-up needed.",
+    "ctaText": "Cartoonize Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

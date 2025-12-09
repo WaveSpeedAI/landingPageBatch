@@ -1,0 +1,225 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Restauration de vieilles photos par IA",
+  "meta": {
+    "description": "Ravivez vos souvenirs chéris avec la restauration de vieilles photos alimentée par IA. Améliorez, colorisez et réparez les images sans effort. Parfait pour les archives personnelles et les restaurations professionnelles. Vivez la transformation aujourd'hui !",
+    "keywords": "restauration de vieilles photos par IA, amélioration photo IA, technologie de réparation d'image, colorisation de photos vintage, préservation de mémoire, restauration de photos numériques, amélioration de photos historiques, restauration d'images rétro, outils de photographie, archivage personnel"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Restauration de Vieilles Photos",
+    "subHeading": "Rendez Vos Souvenirs Vivants",
+    "description": "Transformez des photographies détériorées et fanées en images étonnantes et vibrantes grâce à la technologie IA. Améliorez les détails, restaurez les couleurs d'origine et préservez vos souvenirs sans effort. Commencez à restaurer vos vieilles photos aujourd'hui !",
+    "tryText": "Commencer la Restauration Maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution de Restauration de Vieilles Photos par WaveSpeed IA",
+    "left": {
+      "heading": "Défis de la Restauration Traditionnelle",
+      "items": [
+        "La restauration manuelle est laborieuse et lente",
+        "Coûts élevés pour les services professionnels (300-1000 $ par photo)",
+        "Compétences limitées pour les restaurateurs amateurs",
+        "Difficultés à coloriser ou à améliorer des images gravement endommagées",
+        "Résultats insatisfaisants avec des outils logiciels basiques"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed IA",
+      "items": [
+        "Restauration instantanée de vieilles photos en quelques minutes",
+        "Modèle de paiement à l'utilisation abordable",
+        "Interface conviviale ne nécessitant aucune expertise",
+        "Colorisation avancée et amélioration des détails",
+        "Résultats de haute qualité adaptés à l'impression"
+      ],
+      "tryText": "Restaurer Maintenant"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment Ça Marche",
+    "description": "Revitalisez vos vieilles photos en 4 étapes simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Télécharger la Photo",
+        "text": "Sélectionnez la vieille photo que vous souhaitez restaurer",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Choisissez les Options de Restauration",
+        "text": "Sélectionnez les fonctionnalités d'amélioration comme la colorisation et le sharpening des détails",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Aperçu des Changements",
+        "text": "Voir des aperçus instantanés de votre image restaurée",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Télécharger la Photo Restaurée",
+        "text": "Obtenez votre image restaurée en haute résolution prête à être partagée ou imprimée",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Restaurer Votre Première Photo →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilités de Restauration Infinies",
+    "description": "Parfait pour tout souvenir ou projet cher",
+    "items": [
+      "Biens familiaux et archives",
+      "Photographies historiques pour musées",
+      "Souvenirs de mariage et d'événements",
+      "Restauration pour albums et livres de collages",
+      "Projets artistiques nécessitant une esthétique vintage",
+      "Portraits améliorés pour affichage personnel",
+      "Idées cadeaux avec des photos de famille restaurées",
+      "Préservation numérique d'images vieillissantes"
+    ]
+  },
+  "successStories": {
+    "heading": "Histoires de Succès Réelles",
+    "description": "Découvrez comment les gens revitalisent leurs vieux souvenirs avec l'IA",
+    "items": [
+      {
+        "tag": "Souvenirs Familiaux",
+        "heading": "Photo de Mariage des Grands-Parents",
+        "before": {
+          "label": "Avant",
+          "text": "Fanée et Endommagée"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Restauration Vive"
+        },
+        "value": "95%",
+        "key": "Taux de Satisfaction",
+        "description": "Transformé une précieuse photo de mariage qui était presque méconnaissable en un bel objet de souvenir."
+      },
+      {
+        "tag": "Dossier Historique",
+        "heading": "Restauration d'Archive de Musée",
+        "before": {
+          "label": "Avant",
+          "text": "Usée et Illisible"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Restaurée et Claire"
+        },
+        "value": "98%",
+        "key": "Amélioration de la Qualité",
+        "description": "Restauration réussie de documents cruciaux garantissant que les archives historiques demeurent accessibles pour les générations futures."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison des Méthodes de Restauration",
+    "description": "Sélectionnez la meilleure méthode de restauration pour vos besoins",
+    "items": [
+      "Colorisation IA : application automatique de couleurs vintage pour un aspect réaliste",
+      "Restauration de Détails : des algorithmes avancés restaurent des détails complexes",
+      "Amélioration Standard : corrections rapides pour des réparations basiques",
+      "Sortie en Haute Résolution : qualité adaptée aux grands tirages",
+      "Contrôles Conviviaux : facile pour tous les niveaux de compétence"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils IA Connexes",
+    "description": "Découvrez d'autres outils puissants d'IA pour l'amélioration des photos"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quelle qualité puis-je attendre des photos restaurées ?",
+        "answer": "Attendez-vous à une excellente qualité avec des améliorations améliorant à la fois la précision des couleurs et la préservation des détails. Notre solution IA excelle dans la réparation et la revitalisation des anciennes images, offrant une finition professionnelle qui capture l'essence de vos souvenirs."
+      },
+      {
+        "question": "Puis-je restaurer des photos gravement endommagées ?",
+        "answer": "Oui ! Notre technologie IA est conçue pour gérer une gamme de dommages, des usures mineures à une détérioration significative. Elle prédit intelligemment les couleurs et restaure les détails, garantissant les meilleurs résultats possibles."
+      },
+      {
+        "question": "Quels formats puis-je utiliser pour la restauration de photos ?",
+        "answer": "Nous supportons divers formats d'image, y compris JPG, PNG et TIFF. Assurez-vous que votre image ait une résolution adéquate pour des résultats de restauration optimaux."
+      },
+      {
+        "question": "Le processus de restauration est-il réversible ?",
+        "answer": "Une fois que vous téléchargez l'image restaurée, c'est une sortie finale. Nous recommandons de garder vos fichiers originaux en sécurité pour vous assurer que vous puissiez toujours y revenir si besoin."
+      },
+      {
+        "question": "Combien de temps prend la restauration ?",
+        "answer": "La plupart des restaurations sont terminées en juste quelques minutes, selon la complexité de l'image et les options sélectionnées."
+      },
+      {
+        "question": "Quelles sont les options de tarification pour la restauration de photos ?",
+        "answer": "Nos tarifs sont flexibles avec un modèle de paiement à l'utilisation. Vous ne payez que pour les images que vous restaurez, et les coûts peuvent varier en fonction des fonctionnalités de restauration sélectionnées."
+      },
+      {
+        "question": "Puis-je restaurer plusieurs photos à la fois ?",
+        "answer": "Oui ! Vous pouvez télécharger et restaurer plusieurs images simultanément pour un traitement efficace."
+      },
+      {
+        "question": "Conserve-t-on les droits sur les images restaurées ?",
+        "answer": "Absolument ! Toutes les images restaurées sont accompagnées de droits d'utilisation commerciale complets, vous permettant de les utiliser à des fins personnelles ou professionnelles sans frais supplémentaires."
+      },
+      {
+        "question": "Quel support est disponible si j'ai des problèmes ?",
+        "answer": "Nous offrons un support complet, y compris des FAQs détaillées, des tutoriels vidéo et un service client pour aider avec toute question ou problème technique."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Restaurer Vos Vieilles Photos ?",
+    "description": "Commencez maintenant avec des crédits gratuits et voyez la magie par vous-même !",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Restaurer Maintenant →"
+  },
+  "footer": {
+    "heading": "Prêt à Transformer Vos Photos ?",
+    "description": "Essayez WaveSpeed IA maintenant et voyez la différence par vous-même. Aucune inscription requise.",
+    "ctaText": "Restaurer Mes Photos",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

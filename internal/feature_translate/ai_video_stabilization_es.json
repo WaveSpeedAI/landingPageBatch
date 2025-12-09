@@ -1,0 +1,222 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Estabilización de Video con IA",
+  "meta": {
+    "description": "Elimina metrajes temblorosos sin esfuerzo con tecnología de estabilización potenciada por IA. Perfecto para creadores de contenido, comercio electrónico y videos de marketing. Logra resultados suaves y de calidad profesional en minutos con WaveSpeed AI.",
+    "keywords": "estabilización de video IA, tecnología de video suave, estabilizar metraje tembloroso, estabilización de video cinematográfico, herramienta de video para comercio electrónico, estabilización de video de marketing, edición de video profesional, mejora de video, calidad de video de YouTube, estabilidad de video en redes sociales"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas de IA",
+        "items": [
+          [
+            "Herramientas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Exhibición",
+        "items": [
+          [
+            "Exhibición",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Estabilización de Video",
+    "subHeading": "Transforma Videos Temblorosos en Obras Maestras Suaves",
+    "description": "Elimina sacudidas y temblores no deseados en tus videos con nuestra tecnología de estabilización de vanguardia. Logra resultados de calidad profesional rápidamente con solo unos clics. ¡Experimenta la diferencia hoy!",
+    "tryText": "Pruébalo Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución de Estabilización de Video AI de WaveSpeed AI",
+    "left": {
+      "heading": "Desafíos Tradicionales",
+      "items": [
+        "El metraje tembloroso produce resultados no profesionales",
+        "Proceso de estabilización manual que consume tiempo",
+        "Se necesita software de edición costoso",
+        "Requiere habilidades de edición de video experto",
+        "Opciones limitadas para estabilización en tiempo real"
+      ]
+    },
+    "right": {
+      "heading": "Solución WaveSpeed AI",
+      "items": [
+        "Estabiliza videos instantáneamente en solo minutos",
+        "No se necesita software de edición ni experiencia",
+        "Resultados potenciado por IA para metraje suave",
+        "Logra calidad consistente en todos los dispositivos",
+        "Modelo asequible de pago por uso disponible"
+      ],
+      "tryText": "Probar"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "Estabiliza tus videos en 3 sencillos pasos",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Subir Video",
+        "text": "Sube tu archivo de video tembloroso o metraje",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Seleccionar Configuraciones",
+        "text": "Personaliza las preferencias de estabilización si es necesario",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Descargar Video Estabilizado",
+        "text": "Recibe tu video suave y estabilizado en minutos",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "Estabiliza tu primer video →"
+  },
+  "endlessPossibilities": {
+    "heading": "Posibilidades Sin Fin",
+    "description": "Perfecto para cualquier aplicación de video",
+    "items": [
+      "Contenido de YouTube con calidad profesional",
+      "Videos en redes sociales sin temblores",
+      "Presentaciones de negocios y seminarios web",
+      "Grabaciones de eventos y transmisiones en vivo",
+      "Exhibiciones de propiedades inmobiliarias",
+      "Vlogs de viajes con transiciones suaves",
+      "Destellos deportivos y tomas de acción",
+      "Videos tutoriales y de manualidades"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Ve cómo los usuarios están mejorando sus videos con IA",
+    "items": [
+      {
+        "tag": "Vlogs de Viajes",
+        "heading": "Mejora del Canal de YouTube",
+        "before": {
+          "label": "Antes",
+          "text": "Metraje tembloroso"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Pulido y profesional"
+        },
+        "value": "95%",
+        "key": "Mejora de Calidad",
+        "description": "¡A los espectadores les encantó el aspecto más suave! Las tasas de participación aumentaron, llevando a un aumento del 50% en suscripciones."
+      },
+      {
+        "tag": "Bienes Raíces",
+        "heading": "Videos de Exhibición de Propiedades",
+        "before": {
+          "label": "Antes",
+          "text": "La cámara temblorosa parece poco profesional"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Pulido y acogedor"
+        },
+        "value": "98%",
+        "key": "Impresiones de Clientes Mejoradas",
+        "description": "Los clientes comentaron sobre la presentación clara y acogedora, lo que llevó a ventas más rápidas."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Modelos de IA",
+    "description": "Optimiza tu experiencia de estabilización de video",
+    "items": [
+      "Estabilización Estándar: Corrección básica para temblores menores, procesamiento rápido",
+      "Estabilización Avanzada: Suavizado integral para temblores extremos, salida de alta calidad",
+      "Vista previa en tiempo real para comentarios instantáneos",
+      "Soporta una variedad de formatos de video",
+      "Se integra a la perfección con todo el software de edición de video"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas de IA Relacionadas",
+    "description": "Explora más herramientas poderosas de IA para mejorar la calidad del video"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué tipos de videos se pueden estabilizar?",
+        "answer": "Puedes estabilizar cualquier video, incluidos videos familiares, metraje profesional o contenido creado para redes sociales. Nuestra IA trabaja de manera eficiente en varios formatos y calidades."
+      },
+      {
+        "question": "¿Hay una longitud máxima de video para la estabilización?",
+        "answer": "No, puedes subir videos de cualquier longitud. Sin embargo, los videos más largos pueden tardar un poco más en procesarse. Sugerimos clips más cortos para una estabilización rápida."
+      },
+      {
+        "question": "¿Cómo funciona la estabilización de IA en comparación con los métodos tradicionales?",
+        "answer": "Nuestra IA analiza cada cuadro de tu video para detectar movimientos y estabilizarlos automáticamente, lo que resulta en metraje más suave sin necesidad de edición manual."
+      },
+      {
+        "question": "¿Puedo previsualizar el video estabilizado antes de descargarlo?",
+        "answer": "¡Sí! Puedes previsualizar el video estabilizado en tiempo real para ver las mejoras antes de finalizar tu descarga."
+      },
+      {
+        "question": "¿Hay alguna pérdida de calidad después de la estabilización?",
+        "answer": "Priorizamos mantener la calidad de tu video. Aunque pueden ocurrir artefactos menores, nuestra tecnología avanzada asegura una mínima pérdida de claridad original."
+      },
+      {
+        "question": "¿Cuál es el costo asociado con la estabilización?",
+        "answer": "El servicio se ofrece de manera pay-as-you-go, con precios basados en la duración y complejidad del video. Solo pagas por la estabilización que necesitas."
+      },
+      {
+        "question": "¿Puedo estabilizar videos con música de fondo y voces en off?",
+        "answer": "¡Absolutamente! Tus pistas de audio permanecerán intactas durante el proceso de estabilización, asegurando una experiencia de visualización completa."
+      },
+      {
+        "question": "¿Se requiere edición previa del video antes de la estabilización?",
+        "answer": "No se necesita edición previa. Simplemente sube tu metraje, y nuestra IA se encargará del resto por ti."
+      },
+      {
+        "question": "¿Qué formatos puedo subir para estabilización?",
+        "answer": "Soportamos formatos de video populares incluyendo MP4, AVI y MOV. La mayoría de los formatos estándar pueden ser procesados con nuestra tecnología."
+      },
+      {
+        "question": "¿Proporcionan soporte al cliente para videos estabilizados?",
+        "answer": "¡Sí! Nuestro equipo de servicio al cliente está disponible 24/7 para ayudar con cualquier pregunta o problema relacionado con tu experiencia de estabilización de video."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Estabilizar tus Videos?",
+    "description": "Comienza con créditos gratis - Experimenta la estabilidad por ti mismo",
+    "contactUsText": "Contáctanos",
+    "tryText": "Pruébalo Ahora →"
+  },
+  "footer": {
+    "heading": "¿Listo para Estabilizar tu Metraje?",
+    "description": "Prueba WaveSpeed AI ahora y experimenta transformaciones de video suaves. No se requiere registro.",
+    "ctaText": "Estabiliza Videos Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

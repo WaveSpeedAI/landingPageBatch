@@ -1,0 +1,226 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Générateur d'Images à partir de Croquis",
+  "meta": {
+    "description": "Transformez vos croquis en images époustouflantes en quelques instants. Parfait pour les artistes, designers et créatifs. Libérez votre imagination avec une génération alimentée par l'IA. Explorez des possibilités artistiques infinies !",
+    "keywords": "croquis en image IA, générateur d'œuvres d'art, créateur d'images IA, outil de design créatif, transformation artistique, art numérique, narration visuelle, imagerie e-commerce, design de produits, visuels pour les réseaux sociaux"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Croquis en Image",
+    "subHeading": "Transformez Vos Idées en Chefs-d'œuvre Visuels",
+    "description": "Transformez vos croquis dessinés à la main en images numériques à couper le souffle en quelques minutes. Aucune compétence artistique requise. Alimenté par une technologie d'IA de pointe, libérez votre potentiel créatif.",
+    "tryText": "Commencez à Créer Maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution WaveSpeed AI de Croquis en Image",
+    "left": {
+      "heading": "Défis Traditionnels",
+      "items": [
+        "La création d'œuvres d'art nécessite souvent des compétences avancées",
+        "Des outils et logiciels coûteux sont nécessaires",
+        "Processus longue (jours à semaines)",
+        "Personnalisation et ajustements limités",
+        "Barrière d'entrée élevée pour les artistes en herbe"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeedAI",
+      "items": [
+        "Générez des images époustouflantes à partir de croquis en quelques secondes",
+        "Aucune expérience artistique nécessaire - Il suffit de télécharger des croquis",
+        "Résultats instantanés avec création alimentée par IA",
+        "Variations illimitées de votre œuvre d'art",
+        "Tarification abordable à l'utilisation pour tous les utilisateurs"
+      ],
+      "tryText": "Essayer"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment Cela Fonctionne",
+    "description": "Créez de belles images à partir de croquis en 4 étapes simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Téléchargez le Croquis",
+        "text": "Téléchargez votre œuvre d'art dessinée à la main ou votre croquis numérique",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Ajoutez un Titre",
+        "text": "Optionnel : Donnez un titre ou une description à votre œuvre",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Sélectionnez un Style",
+        "text": "Choisissez le style artistique que vous souhaitez appliquer",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Téléchargez l'Image",
+        "text": "Recevez votre image haute résolution en quelques instants",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Générez Votre Première Image →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilités Artistiques Illimitées",
+    "description": "Idéal pour une variété de projets créatifs",
+    "items": [
+      "Illustrations pour livres pour enfants",
+      "Art conceptuel pour jeux et films",
+      "Graphismes et publications pour les réseaux sociaux",
+      "Œuvres d'art numériques pour marchandises",
+      "Designs personnalisés pour le branding",
+      "Impressions artistiques pour la décoration intérieure",
+      "Contenu visuel pour présentations",
+      "Designs de produits uniques pour le e-commerce"
+    ]
+  },
+  "successStories": {
+    "heading": "Véritables Histoires de Succès",
+    "description": "Découvrez comment les créateurs améliorent leur art avec l'IA",
+    "items": [
+      {
+        "tag": "Mode & Design",
+        "heading": "Ligne de Vêtements Personnalisée",
+        "before": {
+          "label": "Avant",
+          "text": "Intensif en Temps"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Création Instantanée"
+        },
+        "value": "95%",
+        "key": "Temps Économisé",
+        "description": "Nous avons transformé notre processus de design, permettant un prototypage rapide des croquis de mode en visuels finis, augmentant notre production."
+      },
+      {
+        "tag": "Jeux",
+        "heading": "Développement d'Art de Jeu Indépendant",
+        "before": {
+          "label": "Avant",
+          "text": "Semaines d'Itération"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Minutes de Création"
+        },
+        "value": "90%",
+        "key": "Amélioration de l'Efficacité",
+        "description": "La capacité à visualiser rapidement des concepts a révolutionné le développement artistique de notre jeu, nous faisant gagner un temps précieux."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison de Modèles IA",
+    "description": "Sélectionnez le modèle parfait pour vos besoins artistiques",
+    "items": [
+      "Vivid Creator : Haute résolution, sortie artistique détaillée, idéal pour les impressions",
+      "Speed Artist : Qualité standard, génération plus rapide, parfait pour les brouillons",
+      "Style Selector : Choisissez des styles pour diverses esthétiques artistiques",
+      "Effets de mouvement artistique intégrés pour des images dynamiques",
+      "Temps de génération de 1 à 2 minutes pour des résultats rapides",
+      "Droits d'utilisation complets pour des applications commerciales"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils IA Connexes",
+    "description": "Découvrez d'autres outils IA puissants pour les créatifs"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quelle qualité d'image puis-je attendre de la conversion de croquis ?",
+        "answer": "Notre IA génère des images de haute qualité en fonction de vos croquis, permettant des résultats de niveau professionnel pouvant être utilisés pour diverses applications, des réseaux sociaux à l'impression."
+      },
+      {
+        "question": "Puis-je modifier les images générées ?",
+        "answer": "Absolument ! Une fois votre image générée, vous aurez la possibilité de faire d'autres modifications ou améliorations en utilisant nos outils d'édition intuitifs."
+      },
+      {
+        "question": "Quels types de croquis fonctionnent le mieux pour la conversion ?",
+        "answer": "Les croquis dessinés à la main ou les dessins numériques clairs fonctionnent le mieux. Assurez-vous que vos croquis sont clairs et détaillés pour des résultats optimaux."
+      },
+      {
+        "question": "En quoi cela diffère-t-il de la création d'art numérique traditionnelle ?",
+        "answer": "Cette technologie automatise et rationalise le processus artistique, vous permettant de générer rapidement des images à partir de simples croquis sans formation artistique extensive."
+      },
+      {
+        "question": "Y a-t-il des limitations sur les types d'images que je peux créer ?",
+        "answer": "Non, vous pouvez créer une large gamme d'images dans divers styles, thèmes et sujets ; la seule limite est votre imagination."
+      },
+      {
+        "question": "Quel modèle de tarification utilisez-vous pour la génération de croquis en image ?",
+        "answer": "Nous fonctionnons sur un modèle de paiement à l'utilisation, vous permettant de payer uniquement pour les images que vous générez sans frais cachés ni abonnements."
+      },
+      {
+        "question": "À quelle vitesse puis-je générer des images en utilisant cet outil ?",
+        "answer": "La plupart des images sont générées en 1-2 minutes, garantissant que vous pouvez rapidement passer de l'idée à l'exécution."
+      },
+      {
+        "question": "Ai-je des droits sur les images que je génère ?",
+        "answer": "Oui ! Toutes les images créées via notre plateforme sont livrées avec des droits d'utilisation commerciale complets, vous donnant la liberté d'utiliser votre œuvre comme bon vous semble."
+      },
+      {
+        "question": "Quels ressources sont disponibles pour le support ?",
+        "answer": "Nous offrons un support complet, y compris des tutoriels, une documentation exhaustive et un service client pour vous aider avec tous les problèmes que vous pourriez rencontrer."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Transformer Vos Croquis en Images Époustouflantes ?",
+    "description": "Commencez avec des crédits gratuits - Expérimentez la créativité vous-même",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Commencez Maintenant →"
+  },
+  "footer": {
+    "heading": "Prêt à Transformer Vos Idées ?",
+    "description": "Essayez WaveSpeed AI maintenant et voyez la magie par vous-même. Inscription non requise.",
+    "ctaText": "Créez des Images Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

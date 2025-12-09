@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Remove Green Screens from Your Photos Instantly",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Effortlessly Remove Green Screens",
+    "description": "Quickly eliminate green backgrounds and replace them with stunning visuals in just a few clicks.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo before green screen removal"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example photo after green screen removal"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Remove Green Screens from Photos",
+      "prompt": {
+        "heading": " Prompt",
+        "placeholder": "E.g., Replace the green background with a beach, set a new backdrop, add a landscape..."
+      },
+      "upload": {
+        "heading": " Select image or Input URL"
+      },
+      "processButton": "Remove Green Screen Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "10M+",
+        "description": "Images Processed"
+      },
+      {
+        "title": "99.8%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "2.5s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Green Screen Removals",
+    "description": "Discover how WaveSpeed AI can transform the look of your photos by seamlessly removing green screens and replacing them with your desired backgrounds.",
+    "items": [
+      {
+        "title": "Replace Unwanted Green Backgrounds",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing replacement of green backgrounds from a photo",
+        "description": "Instantly swap out green screens for beautiful scenes or custom images."
+      },
+      {
+        "title": "Showcase Your Subjects",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing subjects without green screens in a photo",
+        "description": "Enhance your photos by focusing on the subject without distractions."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI for Green Screen Removal?",
+    "description": "Achieve professional results with our cutting-edge AI technology that simplifies the green screen removal process.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Fast Processing",
+        "description": "Receive instant results as our efficient AI removes green screens in seconds."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "No expertise needed. Simply upload your photo and let our AI handle the rest."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Secure and Private",
+        "description": "Your images are processed on-device, ensuring your privacy and security are maintained."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Transform your images in three simple steps",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Your Image",
+        "description": "Drag and drop or browse to upload your photo containing a green screen. We support JPG, PNG, and WebP formats."
+      },
+      {
+        "serial": "2",
+        "title": "AI Processes the Image",
+        "description": "Our intelligent AI efficiently removes the green background, replacing it with your choice of a new backdrop."
+      },
+      {
+        "serial": "3",
+        "title": "Download Your Edited Photo",
+        "description": "Check the results with our comparison slider and save your newly edited image in high resolution."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Are Saying",
+    "description": "Join countless satisfied users who elevate their images with WaveSpeed AI.",
+    "items": [
+      {
+        "name": "Jessica Smith",
+        "stars": 5,
+        "comment": "The green screen removal process was so quick and easy! My video thumbnails have never looked better!"
+      },
+      {
+        "name": "Daniel Lee",
+        "stars": 5,
+        "comment": "As a content creator, this tool saved me hours of editing. Clean backgrounds in seconds!"
+      },
+      {
+        "name": "Emily Davis",
+        "stars": 5,
+        "comment": "I couldn’t believe how simple it was to replace backgrounds. My photos look professional instantly."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your queries about green screen removal with WaveSpeed AI.",
+    "items": [
+      {
+        "title": "What types of backgrounds can be used after removing the green screen?",
+        "description": "You can use any image or solid color background after removing the green screen, allowing for complete creative freedom to enhance your images."
+      },
+      {
+        "title": "Is there a limit on the number of photos I can process?",
+        "description": "Each user gets 30 free credits daily to process photos, enabling you to remove green screens from multiple images without hassle."
+      },
+      {
+        "title": "Can I use the edited content for my projects?",
+        "description": "Absolutely! Users with any subscription plan can utilize their edited content for commercial and personal use."
+      },
+      {
+        "title": "How do you ensure my data privacy?",
+        "description": "All images are processed securely in your browser, guaranteeing that your photos never leave your device or get stored on our servers."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Remove Green Screens from Your Photos?",
+    "description": "Experience WaveSpeed AI today and transform your images with ease. No sign-up necessary.",
+    "ctaText": "Remove Green Screen Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

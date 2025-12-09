@@ -1,0 +1,225 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - 视频中的 AI 对象移除",
+  "meta": {
+    "description": "通过人工智能轻松增强您的视频，移除不需要的对象。简化您的编辑流程，瞬间创建精致的内容。完美适合市场营销人员、摄像师和内容创作者。体验 WaveSpeed AI 的无缝视频编辑！",
+    "keywords": "AI 对象移除, 视频编辑 AI, 不需要的对象移除, 内容创作工具, 视频增强, AI 视频编辑, 营销视频解决方案, 视频制作, 视觉内容优化, 专业视频编辑"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "主页",
+        "items": [
+          [
+            "主页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI 工具",
+        "items": [
+          [
+            "AI 工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即尝试"
+  },
+  "hero": {
+    "heading": "视频中的对象移除",
+    "subHeading": "轻松消除不需要的元素",
+    "description": "在几秒钟内移除干扰，并增强您的视频内容。利用尖端的人工智能技术，您可以实现干净、专业的外观，而无需人工编辑。今天就体验无瑕视觉的自由！",
+    "tryText": "立即尝试",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI 视频对象移除解决方案",
+    "left": {
+      "heading": "传统编辑挑战",
+      "items": [
+        "耗时的手动对象移除",
+        "昂贵的编辑软件和工具",
+        "需要专业技能和经验",
+        "繁琐的流程，准确性有限",
+        "小项目的高成本"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI 解决方案",
+      "items": [
+        "仅需几分钟即可即时移除对象",
+        "无需技术技能 - 只需上传视频",
+        "人工智能驱动的准确性和效率",
+        "无限次修订，无需额外费用",
+        "按需计费定价让所有人都能负担得起"
+      ],
+      "tryText": "尝试"
+    }
+  },
+  "howItWorks": {
+    "heading": "它是如何工作的",
+    "description": "通过 4 个简单步骤轻松移除对象",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传视频",
+        "text": "上传包含不需要对象的视频文件",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "选择对象",
+        "text": "识别您想要从场景中移除的对象",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "确认移除",
+        "text": "审核选择并确认移除过程",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载视频",
+        "text": "在几分钟内接收没有不需要元素的编辑视频",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "立即移除对象 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无尽的可能性",
+    "description": "根据任何场景定制您的视频",
+    "items": [
+      "没有干扰的宣传视频",
+      "打磨得完美的社交媒体广告",
+      "没有视觉杂乱的内容创作",
+      "清晰度提升的专业演示",
+      "专注于关键元素的教程",
+      "完美展示物业的房地产列表",
+      "没有障碍的活动视频",
+      "增强视觉效果的品牌故事讲述"
+    ]
+  },
+  "successStories": {
+    "heading": "真实的成功案例",
+    "description": "发现企业如何通过 AI 提升其视频内容",
+    "items": [
+      {
+        "tag": "营销公司",
+        "heading": "广告活动视频",
+        "before": {
+          "label": "前",
+          "text": "背景杂乱"
+        },
+        "after": {
+          "label": "后",
+          "text": "干净而专业"
+        },
+        "value": "98%",
+        "key": "视觉质量提升",
+        "description": "通过使用 AI 对象移除，我们转变了客户的广告视频，一周内提升了 50% 的参与度。"
+      },
+      {
+        "tag": "活动组织者",
+        "heading": "宣传视频",
+        "before": {
+          "label": "前",
+          "text": "难以跟随"
+        },
+        "after": {
+          "label": "后",
+          "text": "无缝讲述"
+        },
+        "value": "97%",
+        "key": "观众保留率",
+        "description": "移除了我们活动精彩瞬间中的不必要干扰，从而显著提高了观众保留率。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI 模型比较",
+    "description": "选择最适合您需求的模型",
+    "items": [
+      "AI 精度：完美的对象检测和移除",
+      "速度提升：快速处理而不降低质量",
+      "用户友好的界面，轻松导航",
+      "与现有视频项目无缝集成",
+      "所有输出包含商业使用权"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关 AI 工具",
+    "description": "探索更多强大的 AI 工具以增强内容"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要了解的一切",
+    "items": [
+      {
+        "question": "我可以使用什么类型的视频进行对象移除？",
+        "answer": "您可以上传多种视频格式，包括 MP4、AVI 和 MOV。确保视频清晰且照明良好，以获得最佳效果。"
+      },
+      {
+        "question": "对象移除过程的准确性如何？",
+        "answer": "人工智能技术旨在高准确性，准备无缝地融合待移除对象周围的区域，模仿专业编辑的效果。"
+      },
+      {
+        "question": "我可以移除多少对象，有限制吗？",
+        "answer": "不，没有限制！您可以在单个视频中移除尽可能多的对象，但更复杂的移除可能需要更多时间。"
+      },
+      {
+        "question": "如果我对移除结果不满意会发生什么？",
+        "answer": "我们提供无限次修订，您可以精细调整结果，直到符合您的期望。只需重新上传视频并附上反馈。"
+      },
+      {
+        "question": "处理的 AI 视频有商业权利吗？",
+        "answer": "是的！通过我们的平台处理的所有视频均附带完整的商业使用权，允许你在任何营销活动中使用它们。"
+      },
+      {
+        "question": "处理对象移除需要多长时间？",
+        "answer": "大部分视频仅需几分钟即可处理，具体取决于素材的复杂性和长度。"
+      },
+      {
+        "question": "在移除对象时可以编辑视频的部分吗？",
+        "answer": "虽然主要关注点是对象移除，但您可以使用我们平台上提供的其他编辑工具来增强视频。"
+      },
+      {
+        "question": "是否有关于使用此功能的教程？",
+        "answer": "当然！我们提供详尽的文档和视频教程，指导您完成对象移除的全过程。"
+      },
+      {
+        "question": "能否将此工具与其他视频编辑软件集成？",
+        "answer": "是的！我们的工具设计为易于集成，允许您在现有视频编辑过程中轻松补充。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备好清理您的视频了吗？",
+    "description": "从免费积分开始 - 今天体验 AI 对象移除的魔力！",
+    "contactUsText": "联系我们",
+    "tryText": "立即尝试 →"
+  },
+  "footer": {
+    "heading": "准备好重塑您的视频了吗？",
+    "description": "现在就试用 WaveSpeed AI，看看变化。无需注册。",
+    "ctaText": "立即移除对象",
+    "text": "© 2025 WaveSpeed AI. 保留所有权利。"
+  }
+}

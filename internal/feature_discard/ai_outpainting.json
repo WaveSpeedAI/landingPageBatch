@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Enhance Your Images with AI Outpainting",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Enhance Your Images Seamlessly",
+    "description": "Transform your photos by extending backgrounds or filling in missing areas with stunning realism.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo before AI outpainting"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example photo after AI outpainting"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Outpaint Your Images",
+      "prompt": {
+        "heading": "Prompt",
+        "placeholder": "E.g., Extend the landscape, add a sky, create a seamless background..."
+      },
+      "upload": {
+        "heading": "Select image or Input URL"
+      },
+      "processButton": "Outpaint Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "10M+",
+        "description": "Images Enhanced"
+      },
+      {
+        "title": "99.8%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "2.5s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Discover how AI Outpainting can elevate your images with stunning enhancements.",
+    "items": [
+      {
+        "title": "Extend Your Landscape",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing extended landscape with AI outpainting",
+        "description": "Seamlessly add more scenery to your favorite photos."
+      },
+      {
+        "title": "Enhance Backgrounds",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing enhanced background with AI outpainting",
+        "description": "Transform empty spaces with rich backgrounds, turning ordinary photos into stunning visuals."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI Outpainting?",
+    "description": "Elevate your images effortlessly with cutting-edge AI technology.",
+    "items": [
+      {
+        "icon": "paint-brush",
+        "title": "Artistic Enhancement",
+        "description": "Transform your photos into works of art by intelligently extending backgrounds."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "No skills needed! Simply upload your image and let the AI handle the rest."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Privacy First",
+        "description": "All processing is done locally, ensuring privacy and security for your images."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three simple steps to enhance your photographs",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Your Image",
+        "description": "Easily upload your photo using drag-and-drop or file browsing. Supports JPG, PNG, and WebP formats."
+      },
+      {
+        "serial": "2",
+        "title": "AI Outpainting",
+        "description": "Our advanced AI intelligently analyzes your image, fills in gaps, and extends scenes while maintaining a natural look."
+      },
+      {
+        "serial": "3",
+        "title": "Download Your Enhanced Photo",
+        "description": "Preview enhancements with our comparison slider and download your transformed image in high quality."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless satisfied users who enhance their photos with AI Outpainting",
+    "items": [
+      {
+        "name": "Emily Clark",
+        "stars": 5,
+        "comment": "AI Outpainting took my travel photos to the next level! The backgrounds look incredibly natural."
+      },
+      {
+        "name": "John Smith",
+        "stars": 5,
+        "comment": "As a designer, I find AI Outpainting invaluable for creating captivating visuals. It saves me so much time!"
+      },
+      {
+        "name": "Anna Lee",
+        "stars": 5,
+        "comment": "The quality of the enhancements is stunning. It's like having a personal artist at my fingertips!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Find answers to common questions about AI Outpainting",
+    "items": [
+      {
+        "title": "What can AI Outpainting do?",
+        "description": "AI Outpainting excels at extending backgrounds, filling in gaps, and enhancing any area of your image with a cohesive and natural appearance."
+      },
+      {
+        "title": "Is there a limit on enhancements?",
+        "description": "You can use outpainting features on numerous images daily, making it perfect for both casual users and professionals."
+      },
+      {
+        "title": "Can I use my enhanced images commercially?",
+        "description": "Yes! Users with subscriptions can use enhanced content for commercial purposes. Free users may use it for personal projects."
+      },
+      {
+        "title": "How does the privacy protection work?",
+        "description": "All processing occurs in your browser, ensuring your images never leave your device and maintaining full privacy."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Enhance Your Images?",
+    "description": "Try AI Outpainting today and experience the magic for yourself. No sign-up required.",
+    "ctaText": "Outpaint Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

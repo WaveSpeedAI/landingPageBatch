@@ -1,0 +1,230 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Generador de Capítulos de Video AI",
+  "meta": {
+    "description": "Crea capítulos de video atractivos sin esfuerzo con AI. Perfecto para cursos en línea, seminarios web y creadores de contenido. Mejora la experiencia del espectador y aumenta la retención!",
+    "keywords": "generador de capítulos de video AI, segmentación de video, marcadores de contenido, creación de video AI, tecnología de video interactivo, herramientas para cursos en línea, mejora del compromiso, capítulos de video tutorial, herramientas de contenido educativo, herramientas de video para seminarios web, creación de contenido"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas AI",
+        "items": [
+          [
+            "Herramientas AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Muestra",
+        "items": [
+          [
+            "Muestra",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Capitula Tus Videos",
+    "subHeading": "Crea Capítulos de Video Atractivos al Instante",
+    "description": "Transforma videos largos en experiencias interactivas con capítulos generados por AI. Mejora el compromiso y la navegación para tu audiencia en segundos. ¡Pruébalo ahora!",
+    "tryText": "Pruébalo Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución Generador de Capítulos de Video AI WaveSpeed AI",
+    "left": {
+      "heading": "Desafíos de Edición de Video Tradicional",
+      "items": [
+        "La creación manual de capítulos consume tiempo",
+        "Requiere habilidades técnicas de edición",
+        "Difícil mantener a los espectadores comprometidos durante todo el video",
+        "Personalización limitada para diferentes segmentos",
+        "A menudo lleva a la pérdida de espectadores"
+      ]
+    },
+    "right": {
+      "heading": "Solución WaveSpeed AI",
+      "items": [
+        "Generación automática de capítulos de video en minutos",
+        "No se requieren habilidades de edición - Solo sube tu video",
+        "Aumenta el compromiso del espectador con una navegación fácil",
+        "Capítulos personalizables basados en temas de contenido",
+        "Modelo de precios asequible, pago por capítulo"
+      ],
+      "tryText": "Pruébalo"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "De video completo a capítulos segmentados en 4 pasos sencillos",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Sube Tu Video",
+        "text": "Simplemente sube tu contenido de video largo",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Selecciona Marcadores de Capítulo",
+        "text": "Elige cómo deseas definir los capítulos (por ej., temas, intervalos de tiempo)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Personaliza Capítulos",
+        "text": "Añade títulos y descripciones a cada capítulo para mayor claridad",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Descarga Tu Video Capitulado",
+        "text": "Recibe tu video interactivo con capítulos completos en momentos",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Crea Tu Primer Video Capitulado →"
+  },
+  "endlessPossibilities": {
+    "heading": "Usos Sin Límites",
+    "description": "Ideal para diversas aplicaciones e industrias",
+    "items": [
+      "Segmentos de cursos en línea para la navegación de estudiantes",
+      "Destacados de seminarios web para fácil referencia",
+      "Videos de YouTube con capítulos mejorados",
+      "Módulos de capacitación empresarial con temas claros",
+      "Videos de demostración de productos con características segmentadas",
+      "Grabaciones de eventos con navegación amigable para los espectadores",
+      "Tutoriales educativos con puntos clave marcados",
+      "Contenido en streaming para un mejor compromiso de la audiencia"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Descubre cómo los usuarios están revolucionando su entrega de contenido con AI",
+    "items": [
+      {
+        "tag": "E-Learning",
+        "heading": "Creador de Cursos en Línea",
+        "before": {
+          "label": "Antes",
+          "text": "Creación de capítulos laboriosa"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Creación instantánea de capítulos"
+        },
+        "value": "95%",
+        "key": "Tiempo Ahorrado",
+        "description": "Los capítulos ayudaron a los estudiantes a navegar por los cursos de manera efectiva. ¡La retroalimentación mejoró drásticamente!"
+      },
+      {
+        "tag": "Capacitación Corporativa",
+        "heading": "Videos de Capacitación Empresarial",
+        "before": {
+          "label": "Antes",
+          "text": "Videos largos confusos"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Estructurados con capítulos"
+        },
+        "value": "90%",
+        "key": "Aumento de Compromiso",
+        "description": "Los empleados ahora encuentran fácilmente secciones relevantes. Las tasas de finalización de la capacitación se dispararon."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Modelos AI",
+    "description": "Selecciona el mejor modelo para tus necesidades de capitulación",
+    "items": [
+      "Capitulación Estándar: Método rápido de creación de segmentos con AI básica",
+      "Capítulos Contextuales Avanzados: Comprende el contexto del contenido de video para sugerencias de capítulos matizadas",
+      "Tiempos personalizables con preferencias definidas por el usuario",
+      "Actualizaciones en tiempo real a medida que los videos son editados o cambiados",
+      "Funciona sin problemas con varios tipos y formatos de video",
+      "Herramientas de navegación de capítulos integradas para los espectadores"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas AI Relacionadas",
+    "description": "Descubre más herramientas impulsadas por AI para una creación de contenido mejorada"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué tipos de videos pueden beneficiarse de la capitulación?",
+        "answer": "Cualquier contenido largo como cursos en línea, seminarios web, conferencias o tutoriales puede aprovechar la capitulación para mejorar la experiencia del espectador y la retención."
+      },
+      {
+        "question": "¿Puedo personalizar los títulos y descripciones de los capítulos?",
+        "answer": "¡Sí! Tienes control total para personalizar el título y la descripción de cada capítulo para asegurar claridad y relevancia para tu audiencia."
+      },
+      {
+        "question": "¿Qué tan rápido puedo generar videos capitulados?",
+        "answer": "El proceso de generación es rápido, normalmente se completa en minutos dependiendo de la longitud del video."
+      },
+      {
+        "question": "¿Hay un límite en cuántos capítulos puedo crear?",
+        "answer": "¡No, puedes crear tantos capítulos como necesites para tu contenido de video!"
+      },
+      {
+        "question": "¿Qué formatos de video son compatibles para subir?",
+        "answer": "Aceptamos varios formatos incluyendo MP4, AVI y MOV para una integración sin problemas."
+      },
+      {
+        "question": "¿Cómo funciona la fijación de precios para la generación de capítulos?",
+        "answer": "Nuestra fijación de precios se basa en un modelo de pago por capítulo, lo que te permite gestionar costos de manera eficiente según tus necesidades."
+      },
+      {
+        "question": "¿Puedo usar marcadores de capítulos para transmisiones en vivo?",
+        "answer": "¡Sí! Puedes crear capítulos para grabaciones de transmisiones en vivo, haciéndolas más accesibles para los espectadores después de la transmisión."
+      },
+      {
+        "question": "¿Hay derechos comerciales asociados con los videos generados?",
+        "answer": "Todos los videos procesados a través de nuestra plataforma vienen con derechos comerciales completos para uso sin restricciones en todos los medios."
+      },
+      {
+        "question": "¿Qué recursos de soporte están disponibles para resolver problemas?",
+        "answer": "Ofrecemos un soporte extenso que incluye documentación, tutoriales en video y un equipo de soporte dedicado para ayudar con cualquier problema."
+      },
+      {
+        "question": "¿Hay una opción para procesar múltiples videos por lotes?",
+        "answer": "¡Sí, puedes procesar múltiples videos por lotes para optimizar tu flujo de trabajo de creación de contenido!"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Crear Capítulos de Video Atractivos?",
+    "description": "Comienza con créditos gratuitos para experimentarlo por ti mismo",
+    "contactUsText": "Contáctanos",
+    "tryText": "Pruébalo Ahora →"
+  },
+  "footer": {
+    "heading": "¡Transforma Tu Contenido de Video Hoy!",
+    "description": "Experimenta WaveSpeed AI y eleva tus capítulos de video. No se requiere registro.",
+    "ctaText": "Comienza a Capitular Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

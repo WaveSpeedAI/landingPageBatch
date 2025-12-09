@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Pose Transfer",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Transform Poses Instantly",
+    "description": "Enter your prompt to seamlessly apply new poses to existing subjects in your images.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo before pose transfer"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example photo after pose transfer"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Transform Your Photos",
+      "prompt": {
+        "heading": " Prompt",
+        "placeholder": "E.g., Change the person's pose to a sitting position, make them dance, show a jumping pose..."
+      },
+      "upload": {
+        "heading": " Select image or Input URL"
+      },
+      "processButton": "Transform Pose Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "10M+",
+        "description": "Images Processed"
+      },
+      {
+        "title": "99.8%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "2.5s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Discover how AI Pose Transfer can redefine the way you showcase subjects in your photos.",
+    "items": [
+      {
+        "title": "Dramatically Altered Poses",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing dramatic pose change in a photo",
+        "description": "Easily apply different poses to enhance your images creatively."
+      },
+      {
+        "title": "Dynamic Action Shots",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showcasing a dynamic pose in a photo",
+        "description": "Transform static images into action-packed scenes with ease."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Our cutting-edge AI enables remarkable pose transformations effortlessly.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Instant Transformation",
+        "description": "Experience rapid pose changes without lengthy editing processes."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "No expertise needed. Simply upload your image and let our AI work its magic."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Data Privacy Guaranteed",
+        "description": "Your images are processed within your browser with complete security, ensuring your privacy."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three simple steps for stunning pose transformations",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Image",
+        "description": "Drag and drop your photo or browse files. Compatible with JPG, PNG, and WebP formats."
+      },
+      {
+        "serial": "2",
+        "title": "AI Pose Processing",
+        "description": "Our advanced AI analyzes the image and applies the desired pose to the subject seamlessly."
+      },
+      {
+        "serial": "3",
+        "title": "Download Your Edit",
+        "description": "Preview the transformation and download the high-quality edited image."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless users transforming their images with AI Pose Transfer",
+    "items": [
+      {
+        "name": "Emily Roberts",
+        "stars": 5,
+        "comment": "I transformed my family photos into fun action shots. The process was shockingly easy!"
+      },
+      {
+        "name": "David Lee",
+        "stars": 5,
+        "comment": "AI Pose Transfer is a game changer for showcasing my sports photography. The new poses add so much energy!"
+      },
+      {
+        "name": "Jessica Smith",
+        "stars": 5,
+        "comment": "The results are incredible! I love how I can create dynamic compositions effortlessly."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your questions about AI Pose Transfer",
+    "items": [
+      {
+        "title": "What kind of poses can I apply?",
+        "description": "You can instruct the AI to apply a variety of poses, from natural stances to dynamic motions like jumping or dancing, based on your creative vision."
+      },
+      {
+        "title": "Is it free to use?",
+        "description": "Yes! Each user gets 30 free credits daily, allowing for numerous transformations. Additional credits can be earned through activities on our Discord server."
+      },
+      {
+        "title": "Can I use images for commercial purposes?",
+        "description": "Absolutely! Users on any subscription plan can use their transformed images for commercial projects, while free-tier users can use them for personal enjoyment."
+      },
+      {
+        "title": "How is my privacy protected?",
+        "description": "All processing happens locally in your browser, meaning your images are never uploaded or stored online. Your privacy is our priority."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Transform Your Poses?",
+    "description": "Try AI Pose Transfer now and unleash your creativity. No sign-up needed.",
+    "ctaText": "Transform Pose Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

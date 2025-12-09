@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Enhance Your Photos Instantly",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Enhance the Sharpness of Your Images",
+    "description": "With our cutting-edge technology, instantly improve the clarity and detail of your photos with just a click.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo before sharpening"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example photo after sharpening"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Enhance Image Sharpness",
+      "prompt": {
+        "heading": " Prompt",
+        "placeholder": "E.g., Sharpen this landscape, enhance the details in this portrait..."
+      },
+      "upload": {
+        "heading": " Select image or Input URL"
+      },
+      "processButton": "Enhance Sharpness Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "10M+",
+        "description": "Images Enhanced"
+      },
+      {
+        "title": "99.8%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "2.5s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Discover the difference our technology can make in enhancing the sharpness of your photos.",
+    "items": [
+      {
+        "title": "Sharpen Landscape Images",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing enhanced sharpness in a landscape photo",
+        "description": "Bring out the details in your nature shots with stunning clarity."
+      },
+      {
+        "title": "Refine Portraits",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing enhanced sharpness in a portrait photo",
+        "description": "Make facial features pop and elevate the quality of your portrait photography."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Experience professional results in enhancing image sharpness effortlessly.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Lightning Fast",
+        "description": "Achieve enhanced images in seconds with our state-of-the-art algorithms. No wait time required."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User Friendly",
+        "description": "No expertise needed. Upload your photo and watch the AI sharpen your image effortlessly."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Privacy Guaranteed",
+        "description": "Your images are processed safely on your device, ensuring privacy and security."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three simple steps to sharper images",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Image",
+        "description": "Upload your photo through drag-and-drop or by browsing. Supported formats include JPG, PNG, and WebP."
+      },
+      {
+        "serial": "2",
+        "title": "AI Processing",
+        "description": "Our advanced AI intelligently sharpens your images while preserving their original quality."
+      },
+      {
+        "serial": "3",
+        "title": "Download Result",
+        "description": "View the enhanced image and download it in high resolution for your use."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless users who have transformed their images with our sharpening technology",
+    "items": [
+      {
+        "name": "Emily Carter",
+        "stars": 5,
+        "comment": "The sharpness improvement on my travel photos was phenomenal! It looks like I used professional equipment."
+      },
+      {
+        "name": "James Smith",
+        "stars": 5,
+        "comment": "As a photographer, this tool has dramatically saved me time by enhancing image quality in just a few clicks."
+      },
+      {
+        "name": "Laura Williams",
+        "stars": 5,
+        "comment": "The results were outstanding! Knowing my images stay secure on my device makes this service even better."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to common inquiries about our sharpening technology",
+    "items": [
+      {
+        "title": "What types of images benefit from sharpening?",
+        "description": "AI Image Sharpening is ideal for various images, including landscapes, portraits, and any image where detail enhancement is needed. It effectively brings out nuances that might be lost."
+      },
+      {
+        "title": "Is the service free to use?",
+        "description": "Absolutely! Each user has access to 30 free credits daily, enabling you to enhance multiple images with ease. Additional credits can be earned through participation on our Discord server."
+      },
+      {
+        "title": "Can enhanced images be used commercially?",
+        "description": "Yes! Users on any subscription plan can use their sharpened images for commercial purposes, while free users are limited to personal projects."
+      },
+      {
+        "title": "How is my privacy protected?",
+        "description": "All image enhancement occurs directly within your browser, utilizing advanced technology. Your photos are never sent to our servers, ensuring complete confidentiality."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Enhance Your Images?",
+    "description": "Try WaveSpeed AI now and witness the transformation yourself. No sign-up necessary.",
+    "ctaText": "Enhance Sharpness Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

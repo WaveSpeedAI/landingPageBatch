@@ -1,0 +1,214 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Étiquetage Automatique par IA",
+  "meta": {
+    "description": "Étiquetez sans effort vos produits dans vos images avec l'étiquetage automatique piloté par IA. Améliorez votre flux de travail e-commerce avec précision et rapidité. Parfait pour les détaillants en ligne cherchant à optimiser leurs fiches produits et à améliorer leur visibilité. Inscrivez-vous et découvrez l'efficacité !",
+    "keywords": "étiquetage automatique, étiquetage IA, étiquetage de produits, automatisation du e-commerce, étiquetage d'images par IA, optimisation des flux de travail, étiquetage Shopify, gestion des produits Amazon, gestion des actifs numériques"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Étiquetage Automatique par IA",
+    "subHeading": "Étiquetez Vos Produits avec Précision sans Effort",
+    "description": "Générez automatiquement des étiquettes précises pour vos images de produits en quelques secondes. Éliminez les efforts d'étiquetage manuel et améliorez la découvrabilité de vos produits. Révolutionnez vos processus e-commerce avec notre technologie de pointe.",
+    "tryText": "Commencez l'Étiquetage Maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution d'Étiquetage Automatique par IA WaveSpeed AI",
+    "left": {
+      "heading": "Défis de l'Étiquetage Traditionnel",
+      "items": [
+        "L'étiquetage manuel est long et nécessite beaucoup de travail",
+        "Risque élevé d'erreurs humaines dans l'étiquetage",
+        "Étiquetage incohérent entre différents produits",
+        "Difficulté à gérer efficacement de grands inventaires",
+        "Scalabilité limitée pour les entreprises en croissance"
+      ]
+    },
+    "right": {
+      "heading": "Solution d'Étiquetage Automatique par IA Rationalisée",
+      "items": [
+        "Générez instantanément des étiquettes pertinentes pour les images de produits",
+        "Réduisez l'effort manuel et minimisez les erreurs",
+        "Étiquetage cohérent et précis à travers votre catalogue",
+        "Gérez facilement des inventaires de produits étendus",
+        "Solution évolutive qui grandit avec votre entreprise"
+      ],
+      "tryText": "Essayez"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment Cela Fonctionne",
+    "description": "Obtenez un étiquetage automatisé en 4 étapes simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Télécharger l'Image",
+        "text": "Soumettez votre image de produit pour des solutions d'étiquetage",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Traitement IA",
+        "text": "Laissez l'IA analyser l'image et déterminer les étiquettes optimales",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Examiner les Étiquettes",
+        "text": "Examinez et modifiez les étiquettes suggérées pour plus de précision",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Appliquer les Étiquettes",
+        "text": "Implémentez les étiquettes directement dans vos fiches produits",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Commencer l'Étiquetage Automatisé →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilités d'Étiquetage Infinies",
+    "description": "Parfait pour diverses applications e-commerce",
+    "items": [
+      "Gestion d'inventaire de produits",
+      "Amélioration des résultats de recherche dans les boutiques en ligne",
+      "Expérience de navigation client améliorée",
+      "Mises à jour plus rapides des listings pour des offres saisonnières",
+      "Rationalisation de l'organisation des actifs numériques",
+      "Facilitation des listings multicanaux"
+    ]
+  },
+  "successStories": {
+    "heading": "Vraies Histoires de Succès",
+    "description": "Découvrez comment les entreprises ont été transformées grâce à l'IA",
+    "items": [
+      {
+        "tag": "Vente au Détail de Mode",
+        "heading": "Magasin de Vêtements en E-commerce",
+        "before": {
+          "label": "Avant",
+          "text": "10 heures par semaine"
+        },
+        "after": {
+          "label": "Après",
+          "text": "1 heure par semaine"
+        },
+        "value": "90%",
+        "key": "Temps Économisé",
+        "description": "Avec l'étiquetage automatisé, nous avons considérablement réduit notre temps de mise à jour de produits, ce qui a permis un lancement plus rapide des nouveaux articles."
+      },
+      {
+        "tag": "Articles pour la Maison",
+        "heading": "Magasin de Décoration d'Intérieur en Ligne",
+        "before": {
+          "label": "Avant",
+          "text": "Étiquettes incohérentes"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Étiquetage précis"
+        },
+        "value": "99.7%",
+        "key": "Précision des Étiquettes",
+        "description": "L'IA a amélioré la cohérence de nos étiquettes, ce qui améliore notre classement dans les résultats de recherche et la satisfaction client."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison des Modèles d'Étiquetage IA",
+    "description": "Choisissez les bonnes solutions d'étiquetage pour vos besoins",
+    "items": [
+      "Étiqueteur Standard : Étiquettes de qualité générale pour plusieurs types de produits",
+      "Étiqueteur Premium : Étiquettes de haute qualité spécifiques à un créneau pour une meilleure précision",
+      "Analyse sémantique intégrée pour un étiquetage contextuel",
+      "Prend en charge l'intégration avec les plateformes e-commerce populaires",
+      "Temps de traitement rapides avec mises à jour d'étiquetage en temps réel"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils IA Connexes",
+    "description": "Découvrez d'autres outils IA puissants pour le e-commerce"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quelle est la précision des étiquettes générées automatiquement ?",
+        "answer": "Notre IA fournit une haute précision dans la génération d'étiquettes. L'amélioration continue grâce à l'apprentissage automatique assure leur pertinence pour votre catalogue de produits."
+      },
+      {
+        "question": "Puis-je modifier les étiquettes générées automatiquement ?",
+        "answer": "Oui ! Après le traitement par l'IA, vous pouvez examiner et modifier les étiquettes pour répondre à vos besoins spécifiques."
+      },
+      {
+        "question": "Quels types d'images fonctionnent le mieux pour l'étiquetage ?",
+        "answer": "Des images de produits claires et bien éclairées donnent les meilleurs résultats pour un étiquetage précis. L'IA peut également travailler avec une variété de types de produits."
+      },
+      {
+        "question": "Y a-t-il une limite au nombre d'images que je peux télécharger ?",
+        "answer": "Non ! Vous pouvez télécharger autant d'images que vous le souhaitez pour l'étiquetage. Le système gère les téléchargements en lot sans problème."
+      },
+      {
+        "question": "Dois-je fournir des descriptions ou du contexte pour l'étiquetage ?",
+        "answer": "Non, l'IA analyse l'image indépendamment pour générer des étiquettes pertinentes, rendant le processus incroyablement efficace."
+      },
+      {
+        "question": "Que se passe-t-il si j'ai un grand inventaire ?",
+        "answer": "Notre solution évolue efficacement, permettant un étiquetage efficace pour de vastes listings de produits sans ralentissement."
+      },
+      {
+        "question": "À quelle vitesse puis-je m'attendre à ce que mes images soient étiquetées ?",
+        "answer": "L'étiquetage se produit généralement en quelques secondes par image, vous permettant de mettre à jour vos listings en temps réel."
+      },
+      {
+        "question": "Quels sont les droits commerciaux pour les étiquettes générées automatiquement ?",
+        "answer": "Vous conservez tous les droits d'utilisation, de modification et d'application des étiquettes de la manière dont vous le souhaitez pour votre entreprise."
+      },
+      {
+        "question": "Quelles ressources de support sont disponibles ?",
+        "answer": "Nous fournissons de la documentation, des tutoriels et un support client pour vous aider à maximiser votre efficacité d'étiquetage."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Optimiser Votre Étiquetage de Produits ?",
+    "description": "Commencez à utiliser l'Étiquetage Automatique par IA aujourd'hui - Inscrivez-vous pour des crédits gratuits !",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Essayez-le Maintenant →"
+  },
+  "footer": {
+    "heading": "Prêt à Améliorer Vos Listings e-commerce ?",
+    "description": "Découvrez la puissance de l'Étiquetage Automatique par IA aujourd'hui. Aucune inscription requise.",
+    "ctaText": "Commencer l'Étiquetage Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

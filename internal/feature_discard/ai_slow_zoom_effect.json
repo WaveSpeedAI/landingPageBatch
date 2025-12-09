@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Slow Zoom Effect",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Create Stunning Slow Zoom Effects",
+    "description": "Transform your images into captivating videos by adding a slow zoom effect effortlessly.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo before slow zoom effect"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example photo after slow zoom effect"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Create Your Slow Zoom Effect",
+      "prompt": {
+        "heading": "Prompt",
+        "placeholder": "E.g., Apply a gentle zoom effect to highlight the main subject."
+      },
+      "upload": {
+        "heading": "Select image or Input URL"
+      },
+      "processButton": "Create Slow Zoom Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "10M+",
+        "description": "Images Enhanced"
+      },
+      {
+        "title": "99.8%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "2.5s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Experience the magic of slow zoom effects that draw viewers in and elevate your images.",
+    "items": [
+      {
+        "title": "Slow Zoom on Landscapes",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing slow zoom effect on a landscape",
+        "description": "Transform stunning views into dynamic visuals."
+      },
+      {
+        "title": "Zoom In on Portraits",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing slow zoom effect on a portrait",
+        "description": "Bring attention to the subject with a smooth zoom-in."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI for Slow Zoom?",
+    "description": "Our cutting-edge technology elevates your photos into engaging videos effortlessly.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Instant Results",
+        "description": "Experience fast processing to turn images into moving masterpieces within seconds."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly",
+        "description": "No expertise needed. Just upload your image and watch the magic happen."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Privacy Focused",
+        "description": "All processing happens securely in your browser; your images stay private."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three simple steps to create slow zoom effects",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Image",
+        "description": "Easily upload your photo by dragging or selecting files. Supports JPG, PNG, and WebP formats."
+      },
+      {
+        "serial": "2",
+        "title": "AI Processing",
+        "description": "Our advanced AI applies a smooth zoom effect while preserving the quality of your image."
+      },
+      {
+        "serial": "3",
+        "title": "Download Your Video",
+        "description": "Preview the zoom effect and download your stunning visual in high resolution."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join hundreds of enthusiastic users enhancing their images with stunning slow zoom effects.",
+    "items": [
+      {
+        "name": "Emily Carter",
+        "stars": 5,
+        "comment": "I couldn't believe how easy it was to add a slow zoom to my vacation photos. It made them feel alive!"
+      },
+      {
+        "name": "Robert Garcia",
+        "stars": 5,
+        "comment": "As a content creator, this tool has changed the way I present images. The effects are professional quality!"
+      },
+      {
+        "name": "Alice Wang",
+        "stars": 5,
+        "comment": "The slow zoom feature is a game-changer! It adds depth and interest without any hassle."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your questions about the Slow Zoom Effect",
+    "items": [
+      {
+        "title": "What is the slow zoom effect?",
+        "description": "The slow zoom effect gradually zooms into an image or part of an image, creating a dynamic presentation that engages viewers and adds movement."
+      },
+      {
+        "title": "Can I customize the zoom speed?",
+        "description": "Currently, the effect uses a standard smooth zoom speed. We are working on features for more customization in the future."
+      },
+      {
+        "title": "What formats can I upload?",
+        "description": "You can upload JPG, PNG, and WebP images to create your slow zoom effects."
+      },
+      {
+        "title": "Does my image stay private?",
+        "description": "Absolutely! All processing occurs in your browser, ensuring that your photos are never uploaded or stored externally."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Enhance Your Photos?",
+    "description": "Try WaveSpeed AI now and create stunning slow zoom effects. No sign-up required.",
+    "ctaText": "Create Slow Zoom Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

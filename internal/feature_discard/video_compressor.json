@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Video Compressor",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Compress Videos Effortlessly",
+    "description": "Reduce your video file sizes without compromising quality and share more seamlessly.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example video before compression"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example video after compression"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Compress Your Videos",
+      "prompt": {
+        "heading": " Upload Your Video",
+        "placeholder": "E.g., Upload your video to compress it down in size."
+      },
+      "upload": {
+        "heading": " Select video or Input URL"
+      },
+      "processButton": "Compress Video Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Videos Compressed"
+      },
+      {
+        "title": "99%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "3.2s",
+        "description": "Average Compression Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Witness the transformation of your videos with effortless compression while maintaining quality.",
+    "items": [
+      {
+        "title": "Reduce File Size",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing reduced file size of a video",
+        "description": "Easily compress your videos for faster uploads and sharing."
+      },
+      {
+        "title": "Maintain Quality",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing quality maintained after compression",
+        "description": "Experience superior compression that preserves the clarity of your videos."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Harness the power of cutting-edge technology to optimize your videos effortlessly.",
+    "items": [
+      {
+        "icon": "compress",
+        "title": "Efficient Compression",
+        "description": "Dramatically reduce video sizes while ensuring no loss in visual quality."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly",
+        "description": "Simple drag-and-drop interface. Just upload your video and let our AI handle the rest."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Security First",
+        "description": "All processing happens in your browser—never upload files to external servers."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three straightforward steps to compressed videos",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Video",
+        "description": "Drag and drop your video or browse to select it. We support formats like MP4, AVI, and MOV."
+      },
+      {
+        "serial": "2",
+        "title": "AI Compression",
+        "description": "Our advanced algorithms optimize file size by analyzing and compressing your video data seamlessly."
+      },
+      {
+        "serial": "3",
+        "title": "Download Compressed Video",
+        "description": "Preview the compressed version and download the optimized file ready for sharing."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless users who streamline their video sharing with WaveSpeed AI",
+    "items": [
+      {
+        "name": "Emily Carter",
+        "stars": 5,
+        "comment": "I was blown away by how quickly I could compress my videos without losing quality. It's revolutionized my workflow!"
+      },
+      {
+        "name": "Daniel Lee",
+        "stars": 5,
+        "comment": "As a content creator, the ability to compress videos efficiently is a game changer for me on social media."
+      },
+      {
+        "name": "Olivia Brown",
+        "stars": 5,
+        "comment": "I've tried other tools, but WaveSpeed’s privacy features gave me confidence to compress sensitive footage."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Learn more about using our Video Compressor",
+    "items": [
+      {
+        "title": "What formats can I compress?",
+        "description": "You can compress videos in various formats, including MP4, AVI, MOV, and more. Our tool is designed to handle common video types easily."
+      },
+      {
+        "title": "Is this service free?",
+        "description": "Absolutely! Each user receives 30 free credits daily, ideal for compressing multiple videos. Boost your credits through user interactions or opt for subscription plans for more features."
+      },
+      {
+        "title": "Can I use the compressed videos commercially?",
+        "description": "Yes, users with a subscription can freely use compressed videos for commercial purposes, while free-tier users can use them for personal needs only."
+      },
+      {
+        "title": "How does privacy protection work?",
+        "description": "Videos are processed directly within your browser using advanced technology. They are never stored or uploaded elsewhere, ensuring your content remains private."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Optimize Your Videos?",
+    "description": "Try WaveSpeed AI now and elevate your video sharing experience. No sign-up required.",
+    "ctaText": "Compress Video Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

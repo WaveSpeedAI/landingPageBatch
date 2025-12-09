@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Batch Image Processing",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Effortlessly Process Multiple Images at Once",
+    "description": "Streamline your workflow by processing batches of images together, saving time and effort.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example batch processing before"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example batch processing after"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Batch Image Processing",
+      "prompt": {
+        "heading": "Prompt",
+        "placeholder": "E.g., Enhance all the images, resize for web, adjust colors..."
+      },
+      "upload": {
+        "heading": "Select images or Input URLs"
+      },
+      "processButton": "Process Images Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "10M+",
+        "description": "Images Processed"
+      },
+      {
+        "title": "99.8%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "2.5s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Discover how Batch Image Processing can transform your collection of photos in just one go.",
+    "items": [
+      {
+        "title": "Enhance Multiple Photos",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing enhancement of multiple photos",
+        "description": "Instantly enhance clarity and colors across all your images."
+      },
+      {
+        "title": "Resize for Web",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing batch resizing of photos",
+        "description": "Efficiently resize a batch of images for optimal web display."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI for Batch Processing?",
+    "description": "Our cutting-edge technology simplifies batch tasks with unmatched efficiency.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Rapid Processing",
+        "description": "Process hundreds of images simultaneously, saving you valuable time."
+      },
+      {
+        "icon": "compress",
+        "title": "Bulk Editing",
+        "description": "Apply adjustments to multiple files at once, ensuring consistency and quality."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Secure Handling",
+        "description": "Your images are processed locally, ensuring your data remains private and secure."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three straightforward steps to process your images in bulk",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Select Images",
+        "description": "Choose multiple images to upload using drag-and-drop or file browsing. Our platform supports JPG, PNG, and WebP formats."
+      },
+      {
+        "serial": "2",
+        "title": "Batch Processing",
+        "description": "Our advanced AI swiftly processes all selected images, applying your specified changes while maintaining high quality."
+      },
+      {
+        "serial": "3",
+        "title": "Download Results",
+        "description": "Review the processed images, and download them individually or as a zip file for convenience."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless satisfied users who maximize efficiency with Batch Processing",
+    "items": [
+      {
+        "name": "Emily Clark",
+        "stars": 5,
+        "comment": "Batch processing has revolutionized my workflow! I can enhance all my event photos in minutes."
+      },
+      {
+        "name": "David Lee",
+        "stars": 5,
+        "comment": "As a photographer, the ability to quickly edit multiple images is invaluable. WaveSpeed delivers!"
+      },
+      {
+        "name": "Jessica Martin",
+        "stars": 5,
+        "comment": "The speed and ease of use in batch image processing is unmatched. It’s a must-have tool for my editing."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Find answers to common questions about Batch Image Processing",
+    "items": [
+      {
+        "title": "What types of edits can I apply in batch processing?",
+        "description": "You can apply various edits including enhancements, resizing, color adjustments, and more across multiple images at once."
+      },
+      {
+        "title": "Is there a limit on the number of images I can process at once?",
+        "description": "Currently, you can process up to 100 images in a single batch, allowing for efficient and bulk editing."
+      },
+      {
+        "title": "Can I revert changes made during batch processing?",
+        "description": "Once the processing is complete and you download your images, the changes are final. It's best to keep backups of original files."
+      },
+      {
+        "title": "How does WaveSpeed ensure privacy during batch processing?",
+        "description": "All batch processing is done locally in your browser, so none of your images are uploaded or stored anywhere. Your privacy is our priority."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Simplify Your Image Processing?",
+    "description": "Try Batch Image Processing with WaveSpeed AI today and experience the time savings. No sign-up required.",
+    "ctaText": "Process Images Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

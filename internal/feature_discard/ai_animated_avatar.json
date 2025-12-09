@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Create Lifelike Animated Avatars Instantly",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Bring Your Avatar to Life",
+    "description": "Transform static images into dynamic animated avatars effortlessly. Perfect for social media, gaming, and personal branding.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Static avatar before animation"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Animated avatar after transformation"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Create Your Animated Avatar",
+      "prompt": {
+        "heading": "Upload Your Image",
+        "placeholder": "E.g., Upload a clear portrait to animate..."
+      },
+      "upload": {
+        "heading": " Select image or Input URL"
+      },
+      "processButton": "Animate Avatar Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Avatars Created"
+      },
+      {
+        "title": "98.9%",
+        "description": "User Satisfaction Rate"
+      },
+      {
+        "title": "3.5s",
+        "description": "Average Animation Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Discover the power of AI in crafting captivating animated avatars that stand out.",
+    "items": [
+      {
+        "title": "Static to Dynamic",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing transformation from a static image to an animated avatar",
+        "description": "Watch your images evolve into lively presentations that grab attention."
+      },
+      {
+        "title": "Express Your Brand",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing personalized animated avatar for branding",
+        "description": "Unleash creativity with custom animations for your branding needs."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI for Avatars?",
+    "description": "Leverage cutting-edge technology to generate realistic animations with ease.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Incredibly Fast",
+        "description": "Achieve stunning results in seconds, allowing for instant sharing and engagement."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly",
+        "description": "Anyone can create amazing animations. Just upload your image and let the AI do the rest."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Privacy Assured",
+        "description": "Your images are processed locally, ensuring your personal data remains confidential."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three straightforward steps to bring your avatar to life",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Your Image",
+        "description": "Select a clear image for the best results. Supported formats include JPG, PNG, and WebP."
+      },
+      {
+        "serial": "2",
+        "title": "AI Animation",
+        "description": "Our advanced system analyzes your image and generates a realistic animated avatar automatically."
+      },
+      {
+        "serial": "3",
+        "title": "Save and Share",
+        "description": "Preview your animated avatar and download it for use across social platforms or business."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Are Saying",
+    "description": "Join the community of creators enhancing their online presence with animated avatars.",
+    "items": [
+      {
+        "name": "Emma Garcia",
+        "stars": 5,
+        "comment": "I love how easy it is to create personalized avatars for my Twitch channel. It adds a creative touch!"
+      },
+      {
+        "name": "Ryan Lee",
+        "stars": 5,
+        "comment": "The animation quality is fantastic! It really brings my avatar to life without any hassle."
+      },
+      {
+        "name": "Clara Martin",
+        "stars": 5,
+        "comment": "The speed and privacy features made me choose WaveSpeed. My images remain safe and secure."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your questions about creating animated avatars with WaveSpeed AI",
+    "items": [
+      {
+        "title": "What types of images work best for creating animated avatars?",
+        "description": "High-resolution images with clear, well-lit faces yield the best results for animation. Portraits generally work better than full-body shots."
+      },
+      {
+        "title": "Is there a cost to use the animated avatar feature?",
+        "description": "Yes! Each user gets a free trial with credits. For extended use, we offer affordable subscription plans that unlock more features and animations."
+      },
+      {
+        "title": "Can I use my animated avatars commercially?",
+        "description": "Absolutely! Users with a paid subscription can utilize their avatars for professional projects and branding purposes."
+      },
+      {
+        "title": "How does WaveSpeed ensure privacy during the animation process?",
+        "description": "All processing is done directly in your browser, meaning your images are never uploaded to the cloud or stored elsewhere. Once you finish, all data is deleted."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Animate Your Avatar?",
+    "description": "Start creating impressively animated avatars now, and see the magic happen. No registration needed.",
+    "ctaText": "Animate Avatar Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

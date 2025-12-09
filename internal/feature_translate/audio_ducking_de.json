@@ -1,0 +1,229 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - Audio Ducking Funktion",
+  "meta": {
+    "description": "Optimieren Sie Ihr Audio mühelos mit der Audio Ducking Funktion von WaveSpeed AI. Erreichen Sie professionelle Soundqualität, indem Sie Hintergrundmusik und Sprachübertragungen dynamisch ausbalancieren. Perfekt für Content-Ersteller, Podcaster und Video-Produzenten. Erleben Sie jetzt den Unterschied!",
+    "keywords": "audio ducking, Klangoptimierung, AI Audio-Tools, Sprachübertragung Verbesserung, Podcast Audio Bearbeitung, dynamische Audio-Balancierung, professionelle Klangqualität, Audio-Produktion für Videos, Hintergrundmusik Steuerung, Tools für Content-Ersteller"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "Audio Ducking",
+    "subHeading": "Verbessern Sie Ihr Audio mit präziser Kontrolle",
+    "description": "Gleichzeitig Hintergrundmusik und Sprachübertragungen mühelos mit unserer Audio Ducking Funktion ausbalancieren. Ideal für Podcaster und Video-Ersteller, die nach professioneller Audioqualität suchen. Bringen Sie Ihren Sound auf die nächste Stufe!",
+    "tryText": "Jetzt Ausprobieren",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI Audio Ducking Lösung",
+    "left": {
+      "heading": "Traditionelle Audio Herausforderungen",
+      "items": [
+        "Manuelles Mischen dauert Stunden",
+        "Schwierigkeiten bei der Balance zwischen Musik und Sprache",
+        "Inkonsistente Audiopegel in verschiedenen Tracks",
+        "Erfordert professionelle Audio-Software",
+        "Komplizierte Prozesse für Anfänger"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI Audio Ducking Lösung",
+      "items": [
+        "Automatisierte Anpassungen der Hintergrundmusik in Echtzeit",
+        "Perfekte Balance zwischen Sprache und Soundeffekten",
+        "Nahtlose Integration in Ihren Audio-Workflow",
+        "Sofortige Ergebnisse mit KI-gesteuerter Technologie",
+        "Für alle zugänglich, unabhängig von Erfahrung"
+      ],
+      "tryText": "Ausprobieren"
+    }
+  },
+  "howItWorks": {
+    "heading": "So funktioniert es",
+    "description": "Erreichen Sie perfekte Audio-Balance in 4 einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Audio Hochladen",
+        "text": "Laden Sie Ihre Audiodateien einschließlich Sprachübertragungen und Musik hoch",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Parameter Auswählen",
+        "text": "Wählen Sie das Maß an Ducking und erforderlichen Anpassungen",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Anpassungen Vorschauen",
+        "text": "Hören Sie die Änderungen und verfeinern Sie die Einstellungen nach Bedarf",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Endgültiges Audio Exportieren",
+        "text": "Laden Sie Ihre verfeinerte Audiodatei herunter, bereit zur Verwendung",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Optimieren Sie Ihr Audio →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endlose Audio-Möglichkeiten",
+    "description": "Perfekt für jedes Audio-Projekt",
+    "items": [
+      "Podcast-Produktion und -Bearbeitung",
+      "Video-Soundtracks für YouTube",
+      "Kommerzielle Audio für Werbung",
+      "Audio-Management für Live-Events",
+      "Sound-Balancierung für Spiele",
+      "Hintergrundmusik für Präsentationen",
+      "Audiobooks und erzählte Inhalte",
+      "Musikproduktion und Remixing"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Entdecken Sie, wie Benutzer ihr Audio mit KI verbessern",
+    "items": [
+      {
+        "tag": "Podcasting",
+        "heading": "Mehr Zuhörer gewinnen",
+        "before": {
+          "label": "Vorher",
+          "text": "Unbalanciertes Audio"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Professioneller Sound"
+        },
+        "value": "50%",
+        "key": "Zuhörerwachstum",
+        "description": "Die Verbesserung unseres Podcast-Audios mit Ducking führte zu einem signifikanten Rückgang der Beschwerden von Zuhörern bezüglich der Audioqualität."
+      },
+      {
+        "tag": "Video-Produktion",
+        "heading": "Wachstum des YouTube-Kanals",
+        "before": {
+          "label": "Vorher",
+          "text": "Feedback zu Audio-Problemen"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Hochwertiger Sound"
+        },
+        "value": "70%",
+        "key": "Steigerung des Engagements",
+        "description": "Mit balanciertem Audio hat sich unsere Zuschauerbindung drastisch verbessert, was es mehr Zuschauern ermöglicht, unsere Inhalte zu genießen."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Audioverarbeitung Vergleich",
+    "description": "Wählen Sie die richtigen Einstellungen für Ihre Bedürfnisse",
+    "items": [
+      "Standard Ducking: Grundlegende Anpassung von Hintergrundmusik für Amateure",
+      "Erweitertes Ducking: Präziser Sprachfokus mit anpassbaren Einstellungen",
+      "Automatisierte Mischfunktionen für mühelose Bearbeitung",
+      "Sofortiges Feedback mit Audio-Vorschauen",
+      "Direkter Export in mehrere Formate"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ähnliche AI Tools",
+    "description": "Entdecken Sie weitere leistungsstarke Audio-Lösungen für Kreative"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Was ist Audio Ducking?",
+        "answer": "Audio Ducking ist eine Technik, die automatisch die Lautstärke der Hintergrundmusik oder Soundeffekte senkt, wenn eine Sprachübertragung erkannt wird, um Klarheit im gesprochenen Inhalt zu gewährleisten."
+      },
+      {
+        "question": "Wie bestimmt die KI, wann das Audio geduckt werden soll?",
+        "answer": "Die KI analysiert die Audiopegel in Echtzeit und erkennt Sprachfrequenzen, um die Lautstärke der Hintergrundgeräusche präzise anzupassen, wenn die Stimme gehört wird."
+      },
+      {
+        "question": "Kann ich die Ducking-Ebenen anpassen?",
+        "answer": "Ja! Sie können spezifische Anpassungsniveaus sowohl für Musik als auch für Sprache festlegen, um Ihren Projektanforderungen gerecht zu werden."
+      },
+      {
+        "question": "Ist dieses Tool für Anfänger geeignet?",
+        "answer": "Absolut! Unsere benutzerfreundliche Oberfläche macht es jedem leicht, professionelle Klangqualität ohne vorherige Audio-Bearbeitungserfahrung zu erreichen."
+      },
+      {
+        "question": "Welche Audioformate werden unterstützt?",
+        "answer": "Wir unterstützen verschiedene Audioformate einschließlich MP3, WAV und AAC, um die Kompatibilität mit den meisten Audio-Projekten sicherzustellen."
+      },
+      {
+        "question": "Kann ich diese Funktion für Live-Events nutzen?",
+        "answer": "Ja! Die Audio Ducking Funktion funktioniert gut für Echtzeitanpassungen während Live-Events und sorgt für eine optimale Audio-Balance im Handumdrehen."
+      },
+      {
+        "question": "Welche Art von Projekten kann von Audio Ducking profitieren?",
+        "answer": "Projekte von Podcasts, Videos, Werbung und Live-Präsentationen können alle von der verbesserten Klangklarheit durch Ducking profitieren."
+      },
+      {
+        "question": "Gibt es eine Nachbearbeitung?",
+        "answer": "Ja! Sie können zusätzliche Verbesserungen und Effekte anwenden, nachdem Sie Ihr Audio geduckt haben, für ein verfeinertes Endergebnis."
+      },
+      {
+        "question": "Wie viel kostet die Nutzung der Audio Ducking Funktion?",
+        "answer": "Unsere Preise sind flexibel, sodass Sie nur für die Audioverarbeitung bezahlen, die Sie durchführen, ohne versteckte Gebühren oder Abonnements."
+      },
+      {
+        "question": "Wie kann ich den Support kontaktieren, wenn ich Hilfe benötige?",
+        "answer": "Unser Support-Team ist per E-Mail und Live-Chat für technische Unterstützung verfügbar und antwortet in der Regel innerhalb von 24 Stunden."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Ihr Audio zu verbessern?",
+    "description": "Beginnen Sie mit kostenlosen Credits und erleben Sie noch heute professionelle Klangqualität",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Jetzt Ausprobieren →"
+  },
+  "footer": {
+    "heading": "Bereit, Ihr Audio zu transformieren?",
+    "description": "Probieren Sie WaveSpeed AI jetzt aus und erleben Sie den Unterschied selbst. Keine Registrierung erforderlich.",
+    "ctaText": "Audio Jetzt Optimieren",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Video Summary",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Transform Your Videos into Summaries",
+    "description": "Effortlessly generate concise summaries of your videos, saving time and enhancing understanding.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example video before summary generation"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example video after summary generation"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Generate Video Summaries",
+      "prompt": {
+        "heading": " Prompt",
+        "placeholder": "E.g., Summarize this video, highlight key points, create a digest..."
+      },
+      "upload": {
+        "heading": " Select video file or Input URL"
+      },
+      "processButton": "Generate Summary Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "5M+",
+        "description": "Videos Summarized"
+      },
+      {
+        "title": "98.7%",
+        "description": "User Satisfaction Rate"
+      },
+      {
+        "title": "3.0s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.8/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Discover how WaveSpeed AI elevates your videos with precise summaries.",
+    "items": [
+      {
+        "title": "Summarize Educational Content",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example of a video summary from educational content",
+        "description": "Quickly capture essential information from lectures or tutorials"
+      },
+      {
+        "title": "Highlight Key Moments",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example of highlighting key moments in a video",
+        "description": "Effortlessly identify and showcase important scenes from longer videos."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Our cutting-edge technology simplifies video consumption without losing valuable content.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Instant Summaries",
+        "description": "Get concise video summaries in seconds, making information more accessible."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "No technical expertise required. Just upload your video and let our AI handle the rest."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Privacy Assured",
+        "description": "Your videos are processed securely, ensuring your content remains private."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Three simple steps to get your video summary",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Video",
+        "description": "Easily upload your video by dragging and dropping or selecting from your files. Our system supports various formats."
+      },
+      {
+        "serial": "2",
+        "title": "AI Analysis",
+        "description": "Our sophisticated AI analyzes your video, identifying key segments and summarizing content."
+      },
+      {
+        "serial": "3",
+        "title": "Download Summary",
+        "description": "Review the summary and download it in a clear and accessible format."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless satisfied users who maximize their video content with WaveSpeed AI",
+    "items": [
+      {
+        "name": "Emily Smith",
+        "stars": 5,
+        "comment": "The video summaries are a lifesaver! I can grasp content quickly without watching hours of footage."
+      },
+      {
+        "name": "John Lee",
+        "stars": 5,
+        "comment": "As a content creator, this tool has transformed how I produce video highlights and engage my audience."
+      },
+      {
+        "name": "Mark Williams",
+        "stars": 5,
+        "comment": "I appreciate the privacy and speed. It feels great knowing my videos are never stored!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Get answers to your queries about our AI Video Summary",
+    "items": [
+      {
+        "title": "What types of videos can you summarize?",
+        "description": "We can summarize educational videos, webinars, tutorials, and more, capturing key insights and information."
+      },
+      {
+        "title": "Is the service fully free?",
+        "description": "Yes! Each user receives 20 free credits daily to generate summaries and additional credits can be earned through engaging with our platform."
+      },
+      {
+        "title": "Can I use the summaries commercially?",
+        "description": "Paid subscribers can use generated summaries for commercial purposes, while free-tier users are encouraged to use them for personal projects."
+      },
+      {
+        "title": "How is my privacy protected?",
+        "description": "All video processing occurs directly in your browser with no uploads to external servers, ensuring your content remains confidential."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Enhance Your Video Experience?",
+    "description": "Try WaveSpeed AI now and see the difference for yourself. No sign-up required.",
+    "ctaText": "Generate Summary Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

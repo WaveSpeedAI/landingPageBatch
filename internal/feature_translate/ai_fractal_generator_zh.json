@@ -1,0 +1,221 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI 分形生成器",
+  "meta": {
+    "description": "使用 AI 创建令人惊叹、无尽复杂的分形图像。非常适合数字艺术、设计项目和背景图形。完美适合希望轻松提升作品的艺术家和创意人员。",
+    "keywords": "AI 分形生成器, 分形艺术, 数字艺术生成器, 生成艺术, AI 设计工具, 自定义分形, 艺术背景生成器, 创意 AI 工具, WaveSpeed 分形, 艺术图像生成器, 视觉内容创作者"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI 工具",
+        "items": [
+          [
+            "AI 工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即试用"
+  },
+  "hero": {
+    "heading": "分形艺术创作",
+    "subHeading": "指尖释放惊艳的分形",
+    "description": "使用我们的 AI 驱动工具轻松生成令人叹为观止的分形设计。在短时间内创建迷人、独特的艺术作品。非常适合艺术家、设计师以及希望提升视觉内容的任何人。",
+    "tryText": "现在试用",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI 分形生成器解决方案",
+    "left": {
+      "heading": "传统挑战",
+      "items": [
+        "分形创作需要复杂的编码知识",
+        "耗时的手动调整",
+        "有限的创造力和设计选项",
+        "传统软件的效果不佳",
+        "现有生成工具的高成本"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI 解决方案",
+      "items": [
+        "瞬间创建独特的分形设计",
+        "无需编程技能 - 只需几次点击",
+        "AI 提升创造力，提供无限变化",
+        "实惠的按需付费模式",
+        "快速轻松地产出高质量艺术作品"
+      ],
+      "tryText": "试试"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "在4个简单步骤中生成迷人的分形",
+    "steps": [
+      {
+        "number": "1",
+        "title": "选择基础参数",
+        "text": "选择您的分形设计的初始设置",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "自定义您的设计",
+        "text": "根据需要调整颜色、形状和复杂性",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "预览您的分形",
+        "text": "查看您分形创作的实时预览",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载艺术作品",
+        "text": "获取令人惊艳的分形图像，准备好使用",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "生成您的第一个分形 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无尽的可能性",
+    "description": "激励每一个艺术追求",
+    "items": [
+      "网站和演示的独特背景",
+      "商品的艺术印刷品",
+      "社交媒体帖子的数字艺术",
+      "视频内容的创意资产",
+      "图形设计的视觉组件",
+      "展览的增强艺术作品",
+      "纺织设计的创新图案",
+      "自定义壁纸和装饰"
+    ]
+  },
+  "successStories": {
+    "heading": "真实成功故事",
+    "description": "看看创意人员如何用 AI 革新他们的艺术作品",
+    "items": [
+      {
+        "tag": "数字艺术家",
+        "heading": "在线作品集中独特的艺术作品",
+        "before": {
+          "label": "之前",
+          "text": "基本设计"
+        },
+        "after": {
+          "label": "之后",
+          "text": "生动、复杂的分形"
+        },
+        "value": "150%",
+        "key": "参与度提升",
+        "description": "在我的作品集中加入 AI 生成的分形后，曝光率飙升。客户对独特的设计感到惊讶。"
+      },
+      {
+        "tag": "平面设计师",
+        "heading": "品牌自定义图案",
+        "before": {
+          "label": "之前",
+          "text": "重复设计"
+        },
+        "after": {
+          "label": "之后",
+          "text": "引人入胜的定制图形"
+        },
+        "value": "120%",
+        "key": "客户满意度提升",
+        "description": "分形让我能够创建出鲜明代表客户品牌的独特设计。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "分形模型对比",
+    "description": "为您的项目选择正确的分形设置",
+    "items": [
+      "分形类型A: 复杂图案，丰富细节，生成速度慢",
+      "分形类型B: 简单形状，生成速度快，非常适合背景",
+      "针对每个项目的无限自定义选项",
+      "实时渲染以便即时预览",
+      "适用于专业使用的高分辨率输出"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关 AI 工具",
+    "description": "探索更多先进的创意 AI 解决方案"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要知道的一切",
+    "items": [
+      {
+        "question": "我可以创建什么样的分形设计？",
+        "answer": "您可以创建各种各样的分形，从简单设计到复杂图案。该工具允许您自定义颜色、形状和复杂性，带来无尽的可能性。"
+      },
+      {
+        "question": "我需要任何艺术技能才能使用生成器吗？",
+        "answer": "不! AI 简化了分形创作，使所有人都能轻松使用，无论他们的艺术背景如何。只需设置参数，让 AI 完成其余工作。"
+      },
+      {
+        "question": "我可以将分形商业使用吗？",
+        "answer": "可以! 所有通过 WaveSpeed 生成的分形都附带完整的商业权利，允许您在营销、销售或个人项目中使用，无需额外费用。"
+      },
+      {
+        "question": "我能够多快生成分形？",
+        "answer": "分形可以在几秒内生成，具体取决于设计的复杂性。大多数设计几乎可以即时下载！"
+      },
+      {
+        "question": "我收到的分形文件格式是什么？",
+        "answer": "您可以以高质量的 PNG 和 JPEG 格式下载您的分形，适合数字和打印用途。"
+      },
+      {
+        "question": "我能创建的分形数量有限制吗？",
+        "answer": "没有限制！您可以创建任意数量的分形，完全自由发挥创造力。"
+      },
+      {
+        "question": "如果我想对分形进行调整，怎么办？",
+        "answer": "您可以轻松返回调整参数并重新生成分形，以获得理想的设计。"
+      },
+      {
+        "question": "如果我遇到问题，有支持吗？",
+        "answer": "当然！我们的支持团队随时为您提供使用生成器时的任何问题或疑虑的协助。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备好创建您的第一个分形了吗?",
+    "description": "从免费积分开始 - 亲自体验创意",
+    "contactUsText": "联系我们",
+    "tryText": "现在试用 →"
+  },
+  "footer": {
+    "heading": "准备好创建惊艳的分形了吗?",
+    "description": "立即试用 WaveSpeed AI，亲身见证创新。无需注册。",
+    "ctaText": "立即创建您的分形",
+    "text": "© 2025 WaveSpeed AI。所有权利保留。"
+  }
+}

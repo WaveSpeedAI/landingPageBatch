@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Effortlessly Remove Backgrounds from Images",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Seamless Background Removal",
+    "description": "Eliminate unwanted backgrounds from your images with just a few clicks.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example photo before background removal"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example photo after background removal"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Remove Backgrounds Instantly",
+      "prompt": {
+        "heading": " Prompt",
+        "placeholder": "E.g., Remove the background from this image."
+      },
+      "upload": {
+        "heading": " Select image or Input URL"
+      },
+      "processButton": "Remove Backgrounds Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "10M+",
+        "description": "Images Processed"
+      },
+      {
+        "title": "99.8%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "2.5s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Background Removals",
+    "description": "Witness the transformation of your images with our background remover's precision.",
+    "items": [
+      {
+        "title": "Remove Distracting Backgrounds",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing the removal of a distracting background from a photo",
+        "description": "Effortlessly focus on your subject without distractions."
+      },
+      {
+        "title": "Create Clean Images",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing clean images after background removal",
+        "description": "Perfect for professional use, your images will look polished."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Use Our Background Remover?",
+    "description": "Leverage cutting-edge technology for flawless results with simplicity.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Instant Results",
+        "description": "Experience lightning-fast background removal in mere seconds."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "Just upload your image and let the AI handle the rest—it's that easy."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Privacy Assured",
+        "description": "Your images are processed directly on your device, ensuring complete privacy."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Transform your images in three easy steps",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Your Image",
+        "description": "Drag and drop your photo or select it from your files. We support various formats including JPG, PNG, and WebP."
+      },
+      {
+        "serial": "2",
+        "title": "AI Background Processing",
+        "description": "Our advanced AI swiftly identifies and removes backgrounds while preserving the integrity of your photo."
+      },
+      {
+        "serial": "3",
+        "title": "Download Your Image",
+        "description": "Preview your edited image, make adjustments if necessary, and download it in high quality."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Are Saying",
+    "description": "Join the ranks of delighted users who have transformed their images with our technology",
+    "items": [
+      {
+        "name": "Jessica Lee",
+        "stars": 5,
+        "comment": "I was blown away by how quickly it removed the cluttered background from my product photos!"
+      },
+      {
+        "name": "David Smith",
+        "stars": 5,
+        "comment": "This tool has revolutionized my social media posts. Clean backgrounds make a huge difference."
+      },
+      {
+        "name": "Anna Kim",
+        "stars": 5,
+        "comment": "Knowing my photos stay on my device while being edited gives me peace of mind. I'm a fan!"
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Learn more about our Background Remover feature",
+    "items": [
+      {
+        "title": "What types of backgrounds can be removed?",
+        "description": "Our AI can remove complex backgrounds, including landscapes, indoor settings, and solid colors. It's designed to intelligently identify and replace backgrounds without compromising the subject's quality."
+      },
+      {
+        "title": "Is using the Background Remover free?",
+        "description": "Absolutely! You have access to 30 free credits each day, enough to modify a large number of images. Additional credits can be earned through activities on our platform."
+      },
+      {
+        "title": "Can the resulting images be used commercially?",
+        "description": "Yes, subscribers can use the content commercially, while free users are limited to personal projects. For detailed licensing information, consult our Terms of Service."
+      },
+      {
+        "title": "How is my privacy protected during processing?",
+        "description": "All image processing happens locally in your browser, utilizing secure technologies. Your files never leave your device, ensuring maximum privacy."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Elevate Your Images?",
+    "description": "Try our Background Remover today and discover the ease of enhancing your photos. No signup necessary.",
+    "ctaText": "Remove Backgrounds Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

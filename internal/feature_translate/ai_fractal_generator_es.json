@@ -1,0 +1,221 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Generador Fractal AI",
+  "meta": {
+    "description": "Crea impresionantes imágenes fractales, intrincadas y sin fin con AI. Ideal para arte digital, proyectos de diseño y gráficos de fondo. Perfecto para artistas y creativos que buscan mejorar su trabajo sin esfuerzo.",
+    "keywords": "generador fractal AI, arte fractal, generador de arte digital, arte generativo, herramienta de diseño AI, fractales personalizados, generador de fondos artísticos, herramientas creativas AI, fractales WaveSpeed, creador de imágenes artísticas, creador de contenido visual"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas AI",
+        "items": [
+          [
+            "Herramientas AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Muestra",
+        "items": [
+          [
+            "Muestra",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Creación de Arte Fractal",
+    "subHeading": "Desata Impresionantes Fractales al Alcance de Tu Mano",
+    "description": "Genera diseños fractales impresionantes sin esfuerzo con nuestra herramienta impulsada por AI. Crea obras de arte hipnotizantes y únicas en momentos. Ideal para artistas, diseñadores y cualquiera que busque elevar su contenido visual.",
+    "tryText": "Pruébalo Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución Generador Fractal AI WaveSpeed",
+    "left": {
+      "heading": "Desafíos Tradicionales",
+      "items": [
+        "La creación de fractales requiere conocimientos complejos de codificación",
+        "Ajustes manuales que consumen tiempo",
+        "Opciones limitadas de creatividad y diseño",
+        "Resultados mediocres de software tradicional",
+        "Altos costos para herramientas generativas existentes"
+      ]
+    },
+    "right": {
+      "heading": "Solución WaveSpeedAI",
+      "items": [
+        "Crea instantáneamente diseños fractales únicos en segundos",
+        "No se necesitan habilidades de programación - Solo unos pocos clics",
+        "AI realza la creatividad con variaciones ilimitadas",
+        "Modelo asequible de pago por uso",
+        "Produce arte de alta calidad rápida y fácilmente"
+      ],
+      "tryText": "Prueba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "Genera fractales cautivadores en 4 simples pasos",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Selecciona Parámetros Base",
+        "text": "Elige configuraciones iniciales para tu diseño fractal",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Personaliza Tu Diseño",
+        "text": "Ajusta colores, formas y complejidad según desees",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Previsualiza Tu Fractal",
+        "text": "Ve una vista previa en vivo de tu creación fractal",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Descarga la Obra",
+        "text": "Obtén imágenes fractales impresionantes listas para usar",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Genera Tu Primer Fractal →"
+  },
+  "endlessPossibilities": {
+    "heading": "Posibilidades Infinita",
+    "description": "Inspiración para cada esfuerzo artístico",
+    "items": [
+      "Fondos únicos para sitios web y presentaciones",
+      "Impresiones artísticas para mercaderías",
+      "Arte digital para publicaciones en redes sociales",
+      "Recursos creativos para contenido de video",
+      "Componentes visuales para diseño gráfico",
+      "Obras de arte mejoradas para exposiciones",
+      "Patrones innovadores para diseño textil",
+      "Papel tapiz y decoración personalizados"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Ve cómo los creativos están revolucionando su arte con AI",
+    "items": [
+      {
+        "tag": "Artista Digital",
+        "heading": "Obra Única para Portafolio en Línea",
+        "before": {
+          "label": "Antes",
+          "text": "Diseños básicos"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Fractales vibrantes e intrincados"
+        },
+        "value": "150%",
+        "key": "Mejora en Compromiso",
+        "description": "La visibilidad de mi portafolio se disparó después de incluir fractales generados por AI. Los clientes están asombrados por los diseños únicos."
+      },
+      {
+        "tag": "Diseñador Gráfico",
+        "heading": "Patrones Personalizados para Branding",
+        "before": {
+          "label": "Antes",
+          "text": "Diseños repetitivos"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Gráficos atractivos y a medida"
+        },
+        "value": "120%",
+        "key": "Aumento en Satisfacción del Cliente",
+        "description": "Los fractales me permitieron crear diseños destacados que representan claramente las marcas de mis clientes."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Modelos Fractales",
+    "description": "Elige la configuración fractal adecuada para tu proyecto",
+    "items": [
+      "Tipo de Fractal A: Patrones complejos, ricos en detalles, generación lenta",
+      "Tipo de Fractal B: Formas simples, generación rápida, ideal para fondos",
+      "Opciones de personalización infinitas para cada proyecto",
+      "Renderizado en tiempo real para vistas previas instantáneas",
+      "Salidas en alta resolución para uso profesional"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas AI Relacionadas",
+    "description": "Explora más soluciones creativas avanzadas de AI"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué tipo de diseños fractales puedo crear?",
+        "answer": "Puedes crear una amplia variedad de fractales, que van desde diseños simples a patrones intrincados. La herramienta te permite personalizar colores, formas y complejidad para posibilidades infinitas."
+      },
+      {
+        "question": "¿Necesito alguna habilidad artística para usar el generador?",
+        "answer": "¡No! La AI simplifica la creación de fractales, haciéndola accesible para todos, sin importar su trasfondo artístico. Solo establece tus parámetros y deja que la AI haga el resto."
+      },
+      {
+        "question": "¿Puedo usar los fractales comercialmente?",
+        "answer": "¡Sí! Todos los fractales generados a través de WaveSpeed vienen con derechos comerciales completos, permitiéndote usarlos para marketing, ventas o proyectos personales sin tarifas adicionales."
+      },
+      {
+        "question": "¿Qué tan rápido puedo generar fractales?",
+        "answer": "Los fractales se pueden generar en segundos, dependiendo de la complejidad de tu diseño. ¡La mayoría de los diseños están listos para descargar casi al instante!"
+      },
+      {
+        "question": "¿Qué formatos de archivo recibo para mis fractales?",
+        "answer": "Puedes descargar tus fractales en formatos PNG y JPEG de alta calidad, ideales tanto para uso digital como impreso."
+      },
+      {
+        "question": "¿Hay un límite en el número de fractales que puedo crear?",
+        "answer": "¡No hay límites! Puedes crear tantos fractales como desees, permitiendo una completa libertad creativa."
+      },
+      {
+        "question": "¿Qué pasa si quiero hacer ajustes a un fractal?",
+        "answer": "Puedes volver fácilmente para ajustar parámetros y regenerar el fractal para obtener el diseño perfecto que desees."
+      },
+      {
+        "question": "¿Hay soporte disponible si encuentro problemas?",
+        "answer": "¡Absolutamente! Nuestro equipo de soporte está disponible para asistirte con cualquier pregunta o inquietud que puedas tener mientras usas el generador."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Crear Tu Primer Fractal?",
+    "description": "Comienza con créditos gratuitos - Experimenta la creatividad tú mismo",
+    "contactUsText": "Contáctanos",
+    "tryText": "Pruébalo Ahora →"
+  },
+  "footer": {
+    "heading": "¿Listo para Crear Fractales Impresionantes?",
+    "description": "Prueba WaveSpeed AI ahora y presencie la innovación por ti mismo. No se requiere registro.",
+    "ctaText": "Crea Tu Fractal Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

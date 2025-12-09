@@ -1,0 +1,169 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Remove Objects from Videos Instantly",
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "examples": "Examples",
+    "tryNow": "Try Now"
+  },
+  "hero": {
+    "heading": "Seamlessly Remove Unwanted Elements from Videos",
+    "description": "Provide your prompt to instantly eliminate distractions from your video clips.",
+    "seeAction": {
+      "heading": "See It In Action",
+      "items": [
+        {
+          "title": "Before",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452498_2.jpg",
+          "imageAlt": "Example video frame before object removal"
+        },
+        {
+          "title": "After",
+          "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072452966_3.jpg",
+          "imageAlt": "Example video frame after object removal"
+        }
+      ]
+    },
+    "removePhoto": {
+      "heading": "Remove Objects from Videos",
+      "prompt": {
+        "heading": " Prompt",
+        "placeholder": "E.g., Remove the person in the background, eliminate the logo, erase unwanted props..."
+      },
+      "upload": {
+        "heading": " Select video or Input URL"
+      },
+      "processButton": "Remove Objects Now"
+    }
+  },
+  "trustIndicators": {
+    "items": [
+      {
+        "title": "10M+",
+        "description": "Videos Processed"
+      },
+      {
+        "title": "99.8%",
+        "description": "Satisfaction Rate"
+      },
+      {
+        "title": "3.0s",
+        "description": "Average Processing Time"
+      },
+      {
+        "title": "4.9/5",
+        "description": "User Rating"
+      }
+    ]
+  },
+  "examples": {
+    "heading": "Before & After Examples",
+    "description": "Explore how WaveSpeed AI transforms your videos by removing unwanted scenes with precision.",
+    "items": [
+      {
+        "title": "Eliminate Distracting Elements",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072704770_ClearUnwantedObjects.png",
+        "imageAlt": "Example showing removal of distracting elements from a video frame",
+        "description": "Effortlessly enhance your videos by removing distractions."
+      },
+      {
+        "title": "Remove Watermarks",
+        "imageUrl": "https://d1bdy25akbeuo9.cloudfront.net/static/upload/files/1763072705151_EasilyRemoveWatermarks.png",
+        "imageAlt": "Example showing removal of watermarks from a video",
+        "description": "Clean up your video content by deleting logos and overlays."
+      }
+    ]
+  },
+  "features": {
+    "heading": "Why Choose WaveSpeed AI?",
+    "description": "Our cutting-edge technology delivers flawless results with speed and accuracy.",
+    "items": [
+      {
+        "icon": "bolt",
+        "title": "Ultra-Fast Processing",
+        "description": "Receive instant edits with optimized algorithms, eliminating waiting times."
+      },
+      {
+        "icon": "user-friends",
+        "title": "User-Friendly Interface",
+        "description": "No expertise needed. Just upload your video and watch the magic unfold."
+      },
+      {
+        "icon": "shield-alt",
+        "title": "Complete Privacy",
+        "description": "All processing occurs locally within your browser. Your videos remain secure and confidential."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Transform your videos in three simple steps",
+    "items": [
+      {
+        "serial": "1",
+        "title": "Upload Video",
+        "description": "Easily upload your video by dragging and dropping or selecting files. Supported formats include MP4, AVI, and MOV."
+      },
+      {
+        "serial": "2",
+        "title": "AI Processing",
+        "description": "Our AI quickly identifies and removes unwanted elements while maintaining original video quality."
+      },
+      {
+        "serial": "3",
+        "title": "Download the Edited Video",
+        "description": "Preview your edits with our comparison tool and download your enhanced video in high quality."
+      }
+    ]
+  },
+  "testimonial": {
+    "heading": "What Our Users Say",
+    "description": "Join countless satisfied users who elevate their videos with our innovative technology",
+    "items": [
+      {
+        "name": "Jessica Smith",
+        "stars": 5,
+        "comment": "WaveSpeed made it so easy to remove distractions from my travel videos. It saved me hours!"
+      },
+      {
+        "name": "David Lee",
+        "stars": 5,
+        "comment": "As a videographer, this tool has transformed my workflow. It quickly eliminates annoying background elements."
+      },
+      {
+        "name": "Emma Davis",
+        "stars": 5,
+        "comment": "The privacy assurance sold me. Knowing my video edits are processed securely on my device is priceless."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Learn more about our video object removal feature",
+    "items": [
+      {
+        "title": "What types of elements can be removed from videos?",
+        "description": "Our AI can efficiently remove various elements such as people, logos, text, props, and other distractions, intelligently filling in the background."
+      },
+      {
+        "title": "Is WaveSpeed completely free to use?",
+        "description": "Yes! Users receive 30 free credits each day, enabling the removal of unwanted elements from numerous videos. Additional credits can be earned, and subscriptions are available for higher volume users."
+      },
+      {
+        "title": "Can I use my edited videos for commercial purposes?",
+        "description": "Paid subscribers can use their edited videos commercially. Free-tier users are limited to personal use, and we recommend reviewing our Terms of Service for specifics."
+      },
+      {
+        "title": "How is my privacy ensured during processing?",
+        "description": "All video edits are performed directly in your browser, ensuring privacy. Your videos are never uploaded or stored externally."
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Ready to Perfect Your Videos?",
+    "description": "Experience WaveSpeed AI now and witness the transformation. No signup needed.",
+    "ctaText": "Remove Objects Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

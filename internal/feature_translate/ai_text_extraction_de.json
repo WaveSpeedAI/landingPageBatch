@@ -1,0 +1,230 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - KI-Textextraktion",
+  "meta": {
+    "description": "Extrahieren Sie mühelos Text aus Bildern mit modernster KI-Technologie. Perfekt für E-Commerce, Dokumentenscanning und mehr. Schnelle, präzise und benutzerfreundliche Lösungen für all Ihre Textextraktionsbedürfnisse.",
+    "keywords": "KI-Textextraktion, Bild zu Text, OCR-Technologie, Dokumentenscanning, E-Commerce-Lösungen, Texterkennung, WaveSpeed AI, Datenextraktion, digitale Transformation, automatisierte Dateneingabe"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI-Tools",
+        "items": [
+          [
+            "KI-Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "Bild zu Text",
+    "subHeading": "Bilder effizient in bearbeitbaren Text umwandeln",
+    "description": "Konvertieren Sie gescannte Dokumente, Produktbilder oder Screenshots sofort in bearbeitbaren Text. Erleben Sie nahtlose Textextraktion, unterstützt von fortschrittlicher KI-Technologie.",
+    "tryText": "Jetzt Ausprobieren",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI KI-Textextraktionslösung",
+    "left": {
+      "heading": "Traditionelle Herausforderungen",
+      "items": [
+        "Manuelle Dateneingabe ist langsam und fehleranfällig",
+        "Erfordert erhebliche Arbeitsstunden",
+        "Hohe Kosten durch Outsourcing der Transkription",
+        "Eingeschränkte Zugänglichkeit für große Datensätze",
+        "Inkonstante Qualität in verschiedenen Formaten"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI Lösung",
+      "items": [
+        "Text in Sekunden aus jedem Bild extrahieren",
+        "Keine manuelle Eingabe erforderlich - Einfach Bilder hochladen",
+        "Schnelle Ergebnisse mit hoher Genauigkeit",
+        "Unterstützt mehrere Sprachen und Formate",
+        "Flexible Preisgestaltung, die perfekt für unterschiedliche Bedürfnisse ist"
+      ],
+      "tryText": "Versuchen"
+    }
+  },
+  "howItWorks": {
+    "heading": "So funktioniert es",
+    "description": "Konvertieren Sie Bilder schnell in 4 einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Bild hochladen",
+        "text": "Laden Sie Ihr Foto oder Dokumentenbild hoch",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Ausgabeformat auswählen",
+        "text": "Wählen Sie Ihr bevorzugtes Textformat (z.B. TXT, DOCX)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Extrahierten Text überprüfen",
+        "text": "Überprüfen Sie den von der KI generierten Text auf Genauigkeit",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Text herunterladen",
+        "text": "Erhalten Sie Ihre bearbeitbare Textdatei in wenigen Momenten",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Extrahieren Sie Ihren ersten Text →"
+  },
+  "endlessPossibilities": {
+    "heading": "Unendliche Möglichkeiten",
+    "description": "Perfekt für jede Branche oder Anwendung",
+    "items": [
+      "Produktbeschreibungen für E-Commerce",
+      "Digitalisierung von Büchern und Dokumenten",
+      "Automatisierung der Dateneingabe in Büros",
+      "Akademische Forschung und Extraktion",
+      "Verarbeitung rechtlicher Dokumente",
+      "Übersetzung und Lokalisierung",
+      "Archivierung alter Fotos und Notizen",
+      "Wiedernutzung von Inhalten für soziale Medien"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Sehen Sie, wie Unternehmen ihre Arbeitsabläufe mit KI optimieren",
+    "items": [
+      {
+        "tag": "Einzelhandel",
+        "heading": "E-Commerce Produktlisten",
+        "before": {
+          "label": "Vorher",
+          "text": "50 Stunden"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "2 Stunden"
+        },
+        "value": "96%",
+        "key": "Zeitersparnis",
+        "description": "Wir haben unsere Listen transformiert, indem wir Text in großen Mengen extrahiert haben. Spart uns jeden Woche Tage."
+      },
+      {
+        "tag": "Bildung",
+        "heading": "Universitätsforschungsprojekt",
+        "before": {
+          "label": "Vorher",
+          "text": "Manuelle Eingabe"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Automatisierte Extraktion"
+        },
+        "value": "90%",
+        "key": "Effizienzsteigerung",
+        "description": "Ermöglichte schnelleren Zugriff auf Daten, wodurch Forschungsteams sich auf Analysen konzentrieren konnten."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "KI-Modellvergleich",
+    "description": "Wählen Sie das richtige Extraktionsmodell für Ihre Bedürfnisse",
+    "items": [
+      "Standardextraktion: Schnelle Textkonversion mit guter Genauigkeit",
+      "Hochpräzisions-Extraktion: Verbesserte Genauigkeit für handschriftliche und komplexe Schriften",
+      "Batchverarbeitung: Text aus mehreren Bildern auf einmal extrahieren",
+      "Mehrsprachige Unterstützung: Automatische Erkennung der Textsprache",
+      "Echtzeitverarbeitung: Sofortige Ergebnisse beim Hochladen von Bildern",
+      "Kommerzielle Nutzungsrechte inklusive"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Verwandte KI-Tools",
+    "description": "Entdecken Sie weitere leistungsstarke KI-Tools für Geschäftslösungen"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welche Arten von Bildformaten werden für die Textextraktion unterstützt?",
+        "answer": "Wir unterstützen verschiedene Formate wie JPG, PNG und PDF. Für optimale Ergebnisse sollten die Bilder klar und hochauflösend sein."
+      },
+      {
+        "question": "Wie genau ist der Prozess der Textextraktion?",
+        "answer": "Unsere KI-Technologie ist auf hohe Genauigkeit ausgelegt und erzielt typischerweise über 95% korrekte Textextraktion unter optimalen Bedingungen."
+      },
+      {
+        "question": "Ist der extrahierte Text bearbeitbar?",
+        "answer": "Ja! Der extrahierte Text kann in bearbeitbaren Formaten wie TXT oder DOCX heruntergeladen werden, um eine einfache Bearbeitung zu ermöglichen."
+      },
+      {
+        "question": "Kann das Tool handschriftlichen Text verarbeiten?",
+        "answer": "Ja, unser Hochpräzisions-Extraktionsmodell ist speziell darauf ausgelegt, handschriftlichen Text effektiv zu erkennen und zu extrahieren."
+      },
+      {
+        "question": "Wie werden Benutzerdaten während des Extraktionsprozesses behandelt?",
+        "answer": "Wir legen großen Wert auf Datensicherheit. Alle Bilder werden sicher verarbeitet und Benutzerdaten werden nicht gespeichert, nachdem die Extraktion abgeschlossen ist."
+      },
+      {
+        "question": "Gibt es eine Begrenzung, wie viele Bilder ich gleichzeitig verarbeiten kann?",
+        "answer": "Keine Begrenzung! Sie können mehrere Bilder gleichzeitig verarbeiten, was es effizient für große Projekte macht."
+      },
+      {
+        "question": "Was passiert, wenn die Extraktion fehlschlägt?",
+        "answer": "Im unwahrscheinlichen Fall eines Fehlers erhalten Sie einen detaillierten Fehlermeldungsbericht mit möglichen Gründen und Empfehlungen zur Verbesserung."
+      },
+      {
+        "question": "Kann ich den extrahierten Text für kommerzielle Zwecke nutzen?",
+        "answer": "Absolut! Alle extrahierten Texte kommen mit vollen Rechten für die kommerzielle Nutzung, es fallen keine zusätzlichen Gebühren an."
+      },
+      {
+        "question": "Welche Art von Unterstützung ist verfügbar, wenn ich Hilfe benötige?",
+        "answer": "Wir bieten umfassende Unterstützung durch Dokumentation, Tutorials und Kundenservice per E-Mail und Chat."
+      },
+      {
+        "question": "Gibt es Abonnementgebühren oder versteckte Kosten?",
+        "answer": "Nein, WaveSpeed arbeitet nach einem Pay-as-you-go-Modell mit klaren Preisen, die auf dem Volumen des extrahierten Textes basieren."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Text aus Ihren Bildern zu extrahieren?",
+    "description": "Beginnen Sie mit kostenlosen Guthaben und sehen Sie die Ergebnisse selbst",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Jetzt Ausprobieren →"
+  },
+  "footer": {
+    "heading": "Bereit, Ihren Text zu extrahieren?",
+    "description": "Probieren Sie WaveSpeed AI jetzt aus und erleben Sie mühelose Textextraktion. Keine Anmeldung erforderlich.",
+    "ctaText": "Text jetzt extrahieren",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}
