@@ -1,0 +1,229 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Penghapus Kata Isi AI",
+  "meta": {
+    "description": "Hilangkan kata isi yang tidak perlu dari teks Anda tanpa usaha dengan WaveSpeed AI. Tingkatkan kejelasan dan profesionalisme dalam tulisan Anda, ideal untuk komunikasi bisnis, pembuatan konten, dan lebih dari itu. Rasakan pengeditan yang mulus dan tingkatkan konten Anda secara instan!",
+    "keywords": "penghapus kata isi, editor teks AI, meningkatkan kejelasan tulisan, alat optimasi konten, bantuan penulisan profesional, peningkatan komunikasi bisnis, alat kejelasan teks, pembantu penulisan AI, kejelasan dalam komunikasi, alat pembuatan konten"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Penghapus Kata Isi",
+    "subHeading": "Tingkatkan Teks Anda dengan Menghapus Kata Isi",
+    "description": "Ucapkan selamat tinggal pada kata isi yang tidak perlu yang mengacaukan tulisan Anda. Teknologi AI kami menganalisis dan menyempurnakan teks Anda, memastikan bahwa setiap kata memiliki arti. Sederhanakan komunikasi Anda dan tingkatkan dampak pesan Anda. Mulai transformasi tulisan Anda sekarang!",
+    "tryText": "Hapus Kata Isi Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Penghapus Kata Isi WaveSpeed AI",
+    "left": {
+      "heading": "Tantangan Penulisan Umum",
+      "items": [
+        "Teks dipenuhi kata-kata yang tidak perlu",
+        "Kurangnya kejelasan dan ketepatan",
+        "Keterlibatan pembaca yang lebih rendah",
+        "Proses pengeditan yang memakan waktu",
+        "Kualitas tulisan yang tidak konsisten"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeed AI",
+      "items": [
+        "Identifikasi dan hapus kata isi secara instan",
+        "Tingkatkan kejelasan dan keterbacaan dalam beberapa detik",
+        "Tingkatkan keterlibatan dan komunikasi",
+        "Pengalaman pengeditan yang tanpa usaha",
+        "Terjangkau dan dapat diakses untuk semua penulis"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Sempurnakan tulisan Anda dalam tiga langkah yang mudah",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Tempel Teks",
+        "text": "Cukup salin dan tempel teks Anda ke dalam alat",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Analisis Konten",
+        "text": "AI menganalisis tulisan Anda untuk menemukan kata isi",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Tinjau Saran",
+        "text": "Tinjau saran edit untuk meningkatkan keterbacaan",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Salin Teks yang Disempurnakan",
+        "text": "Dapatkan teks yang telah direvisi siap digunakan dalam konteks apa pun",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Sempurnakan Tulisan Anda Sekarang →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Tanpa Batas",
+    "description": "Sempurna untuk semua jenis penulisan",
+    "items": [
+      "Email dan laporan bisnis",
+      "Post dan artikel blog",
+      "Esai dan tugas sekolah",
+      "Konten media sosial",
+      "Materi dan iklan pemasaran",
+      "Presentasi profesional",
+      "Penulisan kreatif",
+      "Naskah dan dialog"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Lihat bagaimana alat kami meningkatkan kualitas penulisan",
+    "items": [
+      {
+        "tag": "Pembuatan Konten",
+        "heading": "Meningkatkan Keterlibatan Blog",
+        "before": {
+          "label": "Sebelum",
+          "text": "Tulisan yang berantakan"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Jelas dan ringkas"
+        },
+        "value": "50%",
+        "key": "Peningkatan Keterlibatan",
+        "description": "Dengan posting yang lebih jelas, komentar blog meningkat secara signifikan, menghasilkan lebih banyak lalu lintas."
+      },
+      {
+        "tag": "Komunikasi Korporat",
+        "heading": "Komunikasi Email yang Efisien",
+        "before": {
+          "label": "Sebelum",
+          "text": "Email yang bertele-tele"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Langsung dan berdampak"
+        },
+        "value": "40%",
+        "key": "Waktu yang Dihematkan",
+        "description": "Tim mengalami respon yang lebih cepat, berkat struktur email yang ringkas."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Alat AI",
+    "description": "Pahami kemampuan unik kami",
+    "items": [
+      "Analisis waktu nyata untuk edit segera",
+      "Filter yang dapat disesuaikan untuk gaya penulisan yang berbeda",
+      "Insight AI tentang metrik keterlibatan",
+      "Antarmuka ramah pengguna untuk navigasi tanpa usaha",
+      "Dukungan untuk berbagai bahasa dengan penyesuaian kontekstual"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Jelajahi lebih banyak alat penulisan yang kuat untuk konten yang lebih baik"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Segala yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Jenis kata isi apa yang dapat Anda hapus?",
+        "answer": "Alat ini dapat mengidentifikasi dan menyarankan penghapusan untuk kata-kata isi umum seperti 'hanya', 'sangat', 'benar-benar', dan lainnya yang menambah sedikit arti."
+      },
+      {
+        "question": "Apakah alat ini dapat meningkatkan gaya penulisan saya?",
+        "answer": "Ya! Dengan menghapus kata-kata yang tidak perlu, gaya penulisan Anda menjadi lebih jelas dan langsung, yang sangat meningkatkan keterbacaan."
+      },
+      {
+        "question": "Apakah ini cocok untuk dokumen profesional?",
+        "answer": "Tentu saja! Ini dirancang untuk meningkatkan kejelasan dalam semua jenis penulisan profesional, membantu Anda menyampaikan pesan Anda dengan lebih efektif."
+      },
+      {
+        "question": "Apakah alat ini akan bekerja dengan bahasa yang berbeda?",
+        "answer": "Ya! AI telah dioptimalkan untuk bekerja dengan berbagai bahasa dan dapat beradaptasi dengan berbagai gaya dan konteks penulisan."
+      },
+      {
+        "question": "Apakah saya perlu mendaftar untuk menggunakannya?",
+        "answer": "Tidak perlu mendaftar untuk memulai. Anda dapat menempelkan teks Anda dan mulai meningkatkannya segera."
+      },
+      {
+        "question": "Berapa lama waktu yang dibutuhkan untuk menganalisis teks saya?",
+        "answer": "Analisis teks dilakukan dalam hitungan detik, memungkinkan Anda dengan cepat memperbaiki tulisan Anda tanpa kesulitan."
+      },
+      {
+        "question": "Bisakah saya menggunakannya untuk penulisan kreatif?",
+        "answer": "Ya! Ini sempurna untuk segala bentuk penulisan, termasuk karya kreatif, memastikan suara Anda tetap jelas dan berdampak."
+      },
+      {
+        "question": "Apakah alat ini akan mengubah suara atau nada saya?",
+        "answer": "Tidak, alat ini fokus pada menghapus kata-kata yang tidak perlu sambil mempertahankan suara dan nada unik Anda dalam konten."
+      },
+      {
+        "question": "Apakah layanan ini gratis untuk digunakan?",
+        "answer": "Kami menawarkan kredit gratis untuk pengguna baru untuk mencoba layanan, dengan opsi terjangkau untuk penggunaan berkelanjutan."
+      },
+      {
+        "question": "Apa yang harus saya lakukan jika saya memiliki banyak teks untuk diedit?",
+        "answer": "Anda dapat dengan mudah memproses teks yang lebih besar dalam kelompok untuk menyederhanakan alur kerja pengeditan Anda."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap Meningkatkan Penulisan Anda?",
+    "description": "Mulai dengan kredit gratis - Rasakan pengeditan yang mulus sekarang",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Hapus Kata Isi Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap Mengubah Penulisan Anda?",
+    "description": "Coba WaveSpeed AI sekarang dan lihat perbedaannya sendiri. Tidak diperlukan pendaftaran.",
+    "ctaText": "Hapus Kata Isi Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi."
+  }
+}

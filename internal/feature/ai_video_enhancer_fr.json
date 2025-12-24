@@ -1,0 +1,230 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Améliorateur de Vidéo IA",
+  "meta": {
+    "description": "Améliorez la qualité vidéo sans effort avec WaveSpeed AI. Grâce à des algorithmes de pointe, transformez vos séquences moyennes en chefs-d'œuvre cinématographiques. Idéal pour les entreprises et les créateurs de contenu. Des réductions du Black Friday disponibles !",
+    "keywords": "améliorateur de vidéo IA, amélioration de la qualité vidéo, IA d'upscaling vidéo, outil vidéo cinématographique, WaveSpeed, amélioration de vidéo, outils vidéo Black Friday, outil pour créateurs de contenu, amélioration de vidéo marketing, outil vidéo e-commerce"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Amélioration de Vidéo Facile",
+    "subHeading": "Transformez vos Séquences en Visuels Éblouissants",
+    "description": "Élevez vos vidéos au niveau supérieur avec l'Améliorateur de Vidéo IA de WaveSpeed. Améliorez la qualité, la clarté et la profondeur en quelques clics seulement. Parfait pour les créateurs de contenu sur les réseaux sociaux, les marketeurs et quiconque souhaitant créer un contenu impressionnant.",
+    "tryText": "Commencez Maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution d'Améliorateur de Vidéo IA de WaveSpeed",
+    "left": {
+      "heading": "Défis de l'Amélioration Vidéo Traditionnelle",
+      "items": [
+        "Coûts élevés pour le montage vidéo professionnel (1000-3000 $ par projet)",
+        "Nécessite des logiciels et plugins coûteux",
+        "Flux de travail chronophages (1-3 semaines)",
+        "Capacités de traitement limitées",
+        "Inaccessible pour les petits créateurs de contenu"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed IA",
+      "items": [
+        "Améliorez instantanément les vidéos avec la technologie IA",
+        "Aucun logiciel haut de gamme nécessaire - Il suffit de télécharger votre vidéo",
+        "Améliorations de qualité en quelques minutes avec un simple clic",
+        "Upscaling et ajustements illimités",
+        "Modèle flexible de paiement à l'utilisation qui convient à tous les budgets"
+      ],
+      "tryText": "Améliorer la Vidéo"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment Cela Fonctionne",
+    "description": "Élevez vos vidéos en 4 étapes simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Télécharger la Vidéo",
+        "text": "Sélectionnez la vidéo que vous souhaitez améliorer en qualité",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Choisir le Niveau d'Amélioration",
+        "text": "Sélectionnez le niveau d'amélioration souhaité (par exemple, 'Premium' ou 'Standard')",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Aperçu des Changements",
+        "text": "Obtenez un aperçu rapide avant de finaliser l'amélioration",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Télécharger la Vidéo Améliorée",
+        "text": "Recevez votre vidéo améliorée prête à être distribuée",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Améliorez votre Première Vidéo →"
+  },
+  "endlessPossibilities": {
+    "heading": "Applications Infinies",
+    "description": "Améliorez des vidéos pour chaque but",
+    "items": [
+      "Vidéos marketing pour des produits",
+      "Publications sur les réseaux sociaux améliorées",
+      "Vidéos de formation d'entreprise",
+      "Enregistrements d'événements",
+      "Visites virtuelles de biens immobiliers",
+      "Bandes-annonces et teasers de films",
+      "Améliorations pour créateurs de contenu",
+      "Amélioration de vidéos d'apprentissage en ligne"
+    ]
+  },
+  "successStories": {
+    "heading": "Histoires de Succès Transformantes",
+    "description": "Découvrez comment d'autres ont dynamisé leurs projets vidéo",
+    "items": [
+      {
+        "tag": "Création de Contenu",
+        "heading": "Croissance de Chaîne YouTube",
+        "before": {
+          "label": "Avant",
+          "text": "Qualité standard"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Qualité cinématographique"
+        },
+        "value": "85%",
+        "key": "Augmentation de Qualité",
+        "description": "Nous avons amélioré notre qualité vidéo en utilisant l'amplificateur IA. Les taux de rétention des spectateurs ont augmenté de 50 %."
+      },
+      {
+        "tag": "E-commerce",
+        "heading": "Vidéos Promotionnelles de Produits",
+        "before": {
+          "label": "Avant",
+          "text": "Qualité de base"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Qualité haute définition"
+        },
+        "value": "90%",
+        "key": "Augmentation de l'Engagement",
+        "description": "Nos vidéos ont captivé les clients, entraînant une augmentation de 30 % des taux de conversion des contenus promotionnels."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison des Options d'Amélioration",
+    "description": "Sélectionnez le meilleur mode d'amélioration selon vos besoins",
+    "items": [
+      "Standard : Amélioration de qualité de base, bon pour un usage occasionnel",
+      "Premium : Améliorations haute définition pour les projets professionnels",
+      "Cinématographique : Qualité cinématographique avancée pour les bandes-annonces de films",
+      "Sorties en plusieurs résolutions disponibles",
+      "Temps de traitement rapide pour l'efficacité",
+      "Garantie de satisfaction sur les améliorations de qualité"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Explorez les Outils IA Connexes",
+    "description": "Découvrez des fonctionnalités IA puissantes pour vos besoins vidéo"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quels formats vidéo sont pris en charge pour l'amélioration ?",
+        "answer": "Nous prenons en charge tous les formats vidéo majeurs, y compris MP4, AVI et MOV. Assurez-vous que votre vidéo est de bonne qualité avant l'amélioration pour de meilleurs résultats."
+      },
+      {
+        "question": "Puis-je améliorer plusieurs vidéos à la fois ?",
+        "answer": "Oui ! Notre plateforme prend en charge le traitement par lot, vous permettant d'améliorer plusieurs vidéos simultanément pour une efficacité accrue."
+      },
+      {
+        "question": "Combien de temps prend le processus d'amélioration ?",
+        "answer": "La plupart des améliorations sont terminées en quelques minutes, mais le temps de traitement peut varier en fonction de la longueur de la vidéo et des paramètres de qualité sélectionnés."
+      },
+      {
+        "question": "Y a-t-il une limite au nombre de fois que je peux utiliser le service ?",
+        "answer": "Pas de limites ! Vous pouvez améliorer autant de vidéos que vous le souhaitez à votre convenance, avec une tarification basée uniquement sur l'utilisation."
+      },
+      {
+        "question": "Les vidéos améliorées incluent-elles une licence commerciale ?",
+        "answer": "Oui ! Toutes les vidéos améliorées sont accompagnées de droits commerciaux complets pour une utilisation dans des projets marketing et personnels."
+      },
+      {
+        "question": "Quel support est disponible si je rencontre des problèmes ?",
+        "answer": "Nous fournissons une documentation complète, des FAQ et une équipe de support accessible par chat en direct et email pour tout problème technique."
+      },
+      {
+        "question": "Comment fonctionne la tarification pour les améliorations vidéo ?",
+        "answer": "Notre tarification est à l'utilisation, vous ne payez donc que pour les améliorations que vous effectuez. Aucun abonnement ou frais cachés ne sont impliqués."
+      },
+      {
+        "question": "Puis-je m'attendre à un aperçu avant de finaliser les améliorations ?",
+        "answer": "Absolument ! Vous verrez un aperçu des améliorations avant de télécharger la vidéo finale, garantissant la satisfaction avec le résultat."
+      },
+      {
+        "question": "Quels sont les meilleurs cas d'utilisation pour l'Améliorateur de Vidéo IA ?",
+        "answer": "Cet outil est idéal pour les entreprises créant du contenu promotionnel, les influenceurs améliorant des vidéos pour les réseaux sociaux, et les éducateurs mettant à jour du matériel de cours en ligne."
+      },
+      {
+        "question": "Le service gardera-t-il mes vidéos privées ?",
+        "answer": "Oui, toutes les vidéos téléchargées sont traitées de manière sécurisée et ne seront pas partagées avec des tiers sans votre consentement."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Améliorer vos Vidéos ?",
+    "description": "Commencez avec des crédits gratuits aujourd'hui - Vivez la transformation par vous-même",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Commencez à Améliorer Maintenant →"
+  },
+  "footer": {
+    "heading": "Transformez la Qualité de Vos Vidéos Aujourd'hui !",
+    "description": "Essayez l'outil d'amélioration de WaveSpeed AI et voyez les résultats par vous-même. Aucune inscription nécessaire.",
+    "ctaText": "Améliorez Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

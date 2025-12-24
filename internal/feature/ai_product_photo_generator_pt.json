@@ -1,0 +1,230 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Gerador de Fotos de Produtos com IA",
+  "meta": {
+    "description": "Revolucione sua experiência de e-commerce com fotos de produtos geradas por IA que cativam e convertem. Ideal para lojas online, marketing em redes sociais e materiais promocionais. Experimente um automação sem costura, resultados de alta qualidade e nenhuma habilidade técnica necessária!",
+    "keywords": "gerador de fotos de produtos com IA, imagens de produtos para e-commerce, fotos de marketing, aprimoramento automático de fotos, imagens de lojas online, visuais para redes sociais, criador de imagens com IA, ferramenta de fotografia de produtos, imagens para Shopify, fotos de produtos para Amazon, geração rápida de fotos"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de IA",
+        "items": [
+          [
+            "Ferramentas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Demonstração",
+        "items": [
+          [
+            "Demonstração",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Gerador de Fotos de Produtos com IA",
+    "subHeading": "Eleve sua fotografia de produtos sem esforço",
+    "description": "Transforme suas imagens de produtos ordinárias em visuais impressionantes em apenas minutos. Nenhuma habilidade fotográfica necessária! Desperte o poder da IA avançada para gerar fotos de produtos cativantes que valorizam sua marca. Pronto para começar?",
+    "tryText": "Experimente Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução de Gerador de Fotos de Produtos com IA WaveSpeed AI",
+    "left": {
+      "heading": "Desafios da Fotografia Tradicional",
+      "items": [
+        "Altos custos de serviços fotográficos profissionais ($1500-3000 por sessão)",
+        "Necessidade de equipamentos e iluminação especializados",
+        "Edição e pós-processamento demorados (3-5 dias)",
+        "Opções limitadas para imagens únicas e variadas",
+        "Inacessível para proprietários de pequenas empresas"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeed AI",
+      "items": [
+        "Gere imagens de produtos impressionantes em menos de 5 minutos",
+        "Nenhum equipamento ou habilidades fotográficas necessárias - Basta enviar suas imagens",
+        "Resultados instantâneos de alta qualidade impulsionados por tecnologia de IA",
+        "Adaptações e estilos ilimitados para se adequar à sua marca",
+        "Soluções econômicas - Acessível para todas as empresas"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "De uma foto básica a uma imagem de produto marcante em 4 etapas fáceis",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Envie sua Foto",
+        "text": "Escolha sua foto de produto ou qualquer imagem que você queira aprimorar",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Personalize seu Estilo",
+        "text": "Opcional: Selecione preferências de estilo e aprimoramentos",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Processamento de IA",
+        "text": "Deixe nossa IA analisar e transformar sua imagem",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Baixe sua Imagem",
+        "text": "Receba sua foto de produto aprimorada em minutos",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Gere sua Primeira Foto →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilidades Infinitas",
+    "description": "Transforme qualquer imagem de produto para várias plataformas",
+    "items": [
+      "Imagens profissionais para listagens no Shopify e Amazon",
+      "Conteúdo para redes sociais (Instagram, Facebook, Pinterest)",
+      "Materiais de marketing e visuais promocionais",
+      "Visuais para anúncios online e campanhas",
+      "Consistência de marca em todas as plataformas digitais",
+      "Gráficos de marketing por e-mail e newsletters",
+      "Visuais aprimorados para blogs e websites",
+      "Conceitos criativos para lançamentos de produtos"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Descubra como as empresas estão aprimorando seus visuais com IA",
+    "items": [
+      {
+        "tag": "Varejo de Moda",
+        "heading": "Marca de Roupas E-Commerce",
+        "before": {
+          "label": "Antes",
+          "text": "Altos custos"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Geração de IA acessível"
+        },
+        "value": "98%",
+        "key": "Redução de Custos",
+        "description": "Transformamos a apresentação de nossos produtos da noite para o dia, aumentando as vendas em 45%."
+      },
+      {
+        "tag": "Artigos para o Lar",
+        "heading": "Loja de Decoração Online",
+        "before": {
+          "label": "Antes",
+          "text": "Necessidade de uma sessão fotográfica completa"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Melhorias instantâneas de imagem"
+        },
+        "value": "99%",
+        "key": "Tempo Economizado",
+        "description": "Nosso tempo de resposta em campanhas de marketing melhorou muito graças à rapidez dos visuais gerados por IA."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Métodos de IA",
+    "description": "Selecione a melhor abordagem para suas necessidades",
+    "items": [
+      "Saída de Alta Resolução: Imagens impressionantes a 300 DPI",
+      "Otimizações Inteligentes: Melhora automática de cor e detalhe",
+      "Opções de Estilo Personalizado para consistência de marca",
+      "Retorno Rápido: Ideal para campanhas sensíveis ao tempo",
+      "Formatos de Arquivo Compatíveis: JPEG, PNG e mais",
+      "Processamento em Lote Disponível: Para lidar com várias imagens de uma vez"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Explore mais soluções avançadas de IA para e-commerce"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo que você precisa saber",
+    "items": [
+      {
+        "question": "Qual qualidade de imagem posso esperar?",
+        "answer": "Espere imagens de alta qualidade com nitidez e cores vibrantes. Nossa IA garante que suas imagens de produtos estejam polidas e prontas para qualquer plataforma."
+      },
+      {
+        "question": "Posso personalizar o estilo de saída?",
+        "answer": "Com certeza! Você pode escolher entre vários estilos e aprimoramentos para combinar com a identidade da sua marca e tipo de produto."
+      },
+      {
+        "question": "Quais tipos de imagens funcionam melhor para geração?",
+        "answer": "Imagens claras e bem iluminadas oferecem resultados ótimos, mas nossa tecnologia pode aprimorar uma variedade de fotos para atender às suas necessidades."
+      },
+      {
+        "question": "Como isso difere da fotografia tradicional?",
+        "answer": "Ao contrário da fotografia tradicional, nossa IA elimina a necessidade de equipamentos caros e sessões longas enquanto fornece resultados de alta qualidade."
+      },
+      {
+        "question": "Posso baixar minhas imagens aprimoradas instantaneamente?",
+        "answer": "Sim! Assim que o processamento estiver completo, você pode baixar suas imagens aprimoradas imediatamente."
+      },
+      {
+        "question": "Qual modelo de preços vocês utilizam para aprimoramento de fotos?",
+        "answer": "Operamos em um modelo flexível de pagamento conforme o uso, o que significa que você paga apenas pelas imagens que gera, sem taxas ocultas."
+      },
+      {
+        "question": "Quanto tempo leva para gerar uma imagem?",
+        "answer": "Normalmente, leva menos de 5 minutos por imagem, independentemente da complexidade."
+      },
+      {
+        "question": "Quais casos de uso a geração de fotos de produtos com IA se adapta melhor?",
+        "answer": "É perfeita para lojas online, marketing em redes sociais, materiais promocionais e muito mais!"
+      },
+      {
+        "question": "Posso ter os direitos das imagens geradas?",
+        "answer": "Sim! Todas as imagens geradas incluem direitos comerciais completos sem custos adicionais."
+      },
+      {
+        "question": "Que apoio a WaveSpeed oferece?",
+        "answer": "Fornecemos suporte extenso por meio de documentação, tutoriais e uma equipe responsiva disponível para quaisquer problemas."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Transformar Suas Imagens de Produtos?",
+    "description": "Comece com créditos gratuitos e experimente a mágica da fotografia aprimorada por IA.",
+    "contactUsText": "Entre em Contato",
+    "tryText": "Experimente Agora →"
+  },
+  "footer": {
+    "heading": "Pronto para Melhorar Suas Fotos?",
+    "description": "Experimente o WaveSpeed AI agora e testemunhe a transformação. Não é necessário cadastro.",
+    "ctaText": "Melhorar Minha Imagem Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

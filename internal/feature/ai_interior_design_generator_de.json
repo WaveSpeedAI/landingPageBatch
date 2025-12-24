@@ -1,0 +1,231 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - KI Innenarchitektur Generator",
+  "meta": {
+    "description": "Revolutionieren Sie Ihre Innenarchitektur-Projekte mit unserem KI-gesteuerten Generator. Visualisieren Sie Ihre Räume sofort mit atemberaubenden Raumdesigns, die auf Ihren Stil und Ihre Vorlieben zugeschnitten sind. Optimieren Sie Ihren Designprozess mit der innovativen Technologie von WaveSpeed.",
+    "keywords": "KI Innenarchitektur, Raumvisualisierung, Wohnkultur Inspiration, virtueller Innenarchitekt, Raumplanungswerkzeug, Innenarchitektur Generator, Wohnstil Software, automatisierte Designlösungen, individuelle Raumlayouts, Ideen zur Wohnverbesserung, Design Mockups"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI-Tools",
+        "items": [
+          [
+            "KI-Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Probieren Sie es jetzt aus"
+  },
+  "hero": {
+    "heading": "KI Innenarchitektur Generator",
+    "subHeading": "Bringen Sie Ihre Vorstellung in Sekunden zum Leben",
+    "description": "Verwandeln Sie jeden Raum in Ihr Trauminterieur mit unserem KI-Generator. Laden Sie Ihre Raumfotos hoch und lassen Sie unsere Technologie beeindruckende Designs erstellen, die Ihrer Ästhetik entsprechen. Beginnen Sie noch heute mit der Gestaltung Ihres idealen Raums!",
+    "tryText": "Jetzt Gestalten",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI KI Innenarchitektur Generator Lösung",
+    "left": {
+      "heading": "Herausforderungen bei traditionellem Design",
+      "items": [
+        "Hohe Kosten für Innenarchitekten (2000-8000 $ pro Projekt)",
+        "Begrenzte Überarbeitungen und langsame Bearbeitungszeit",
+        "Abhängigkeit von physischen Mustern und Showrooms",
+        "Komplizierte Designwerkzeuge, die Schulung erfordern",
+        "Überwältigende Auswahl kann die Entscheidungsfindung lähmen"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI Lösung",
+      "items": [
+        "Sofortige Designkonzepte innerhalb von Minuten generiert",
+        "Kein Expertenwissen erforderlich - einfach Bilder hochladen",
+        "Unbegrenzte Iterationen zur Verfeinerung Ihrer Vision",
+        "Entdecken Sie unzählige Designstile und Optionen",
+        "Erschwingliches Pay-per-Design-Modell für alle Budgets"
+      ],
+      "tryText": "Probieren"
+    }
+  },
+  "howItWorks": {
+    "heading": "So funktioniert es",
+    "description": "Gestalten Sie Ihren perfekten Raum in 4 einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Raumfoto hochladen",
+        "text": "Laden Sie ein Bild des Raums hoch, den Sie gestalten möchten",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Wählen Sie Ihren Stil",
+        "text": "Wählen Sie Ihren bevorzugten Designstil (z.B. modern, gemütlich, industriell)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Elemente anpassen",
+        "text": "Fügen Sie Möbel, Farben und Dekorationsartikel hinzu oder entfernen Sie diese, die Sie sich vorstellen",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Design-Mockup herunterladen",
+        "text": "Erhalten Sie Ihr individuelles Designlayout in Minuten",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Erstellen Sie Ihr erstes Design →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endlose Designmöglichkeiten",
+    "description": "Ideal für jeden Raum oder Designbedarf",
+    "items": [
+      "Wohnzimmer Transformationen",
+      "Schlafzimmer Dekor Ideen",
+      "Küchenverjüngungen",
+      "Büroflächenoptimierung",
+      "Designs für kleine Wohnungen",
+      "Stilvolle Außenbereiche",
+      "Eventraumplanung",
+      "Babyzimmergestaltung"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Sehen Sie, wie Kunden ihre Innenräume mit KI verwandeln",
+    "items": [
+      {
+        "tag": "Hausrenovierung",
+        "heading": "Gemütliche Landhausverjüngung",
+        "before": {
+          "label": "Vorher",
+          "text": "Veraltet und beengt"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Geräumig und einladend"
+        },
+        "value": "150%",
+        "key": "Kundenzufriedenheit",
+        "description": "Mit dem KI-Generator haben wir unser Cottage in einem Tag revitalisiert! Die Familie liebt das neue Design."
+      },
+      {
+        "tag": "Modernes Büro",
+        "heading": "Neugestaltung des Unternehmensarbeitsplatzes",
+        "before": {
+          "label": "Vorher",
+          "text": "Langweilig und uninspirierend"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Hellig und modern"
+        },
+        "value": "120%",
+        "key": "Mitarbeiterzufriedenheit",
+        "description": "Das neue Bürolayout steigerte Produktivität und Kreativität, alles dank WaveSpeed!"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "KI Modellvergleich",
+    "description": "Wählen Sie das richtige Designmodell für Ihre Bedürfnisse",
+    "items": [
+      "Moderner Stil: Schlanke Linien, minimalistischer Ansatz, vielseitig",
+      "Gemütlicher Stil: Warme Farben, weiche Texturen, angenehme Atmosphäre",
+      "Industriedesign: Rohmaterialien, moderne Oberflächen, mutige Akzente",
+      "Bohemian Stil: Eklektische Mischungen, lebhafte Farben, künstlerisches Flair",
+      "Traditioneller Stil: Klassische Dekoration, elegante Möbel, zeitlose Anziehungskraft",
+      "Übergangsstil: Ausgewogene Mischung aus traditionell und modern",
+      "Zeitgenössischer Stil: Aktuelle Trends, offene Räume, frische Ästhetik"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Verwandte KI-Tools",
+    "description": "Entdecken Sie weitere KI-Lösungen für Zuhause und Design"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welche Designstile kann ich erstellen?",
+        "answer": "Unser KI-Generator bietet verschiedene Stile an, einschließlich modern, gemütlich, industriell, bohemian und traditionell - sodass Sie ganz einfach den perfekten Look für jeden Raum erstellen können."
+      },
+      {
+        "question": "Kann ich das Layout der Möbel ändern?",
+        "answer": "Ja! Sie können die Möbelelemente innerhalb des Design-Mockups ziehen und ablegen, um die perfekte Anordnung zu finden, die zu Ihrem Raum passt."
+      },
+      {
+        "question": "Welche Arten von Bildern eignen sich am besten zum Hochladen?",
+        "answer": "Klare, gut beleuchtete Fotos Ihres Raums liefern die besten Ergebnisse. Idealerweise sollten die Bilder den gesamten Raum mit minimalem Chaos erfassen."
+      },
+      {
+        "question": "Wie viele Designs kann ich gleichzeitig generieren?",
+        "answer": "Sie können mehrere Designs gleichzeitig generieren, sodass Sie mühelos mit verschiedenen Stilen und Layouts experimentieren können."
+      },
+      {
+        "question": "Gibt es eine Begrenzung für Überarbeitungen des Designs?",
+        "answer": "Nein, Sie können so viele Überarbeitungen vornehmen, wie Sie möchten, bis Sie mit Ihrem Design vollkommen zufrieden sind!"
+      },
+      {
+        "question": "Wie sieht das Preismodell für den KI Innenarchitektur Generator aus?",
+        "answer": "WaveSpeed arbeitet nach einem Pay-as-you-go-Modell, sodass Sie nur für die Designs bezahlen, die Sie generieren, ohne Abonnements."
+      },
+      {
+        "question": "Wie schnell erhalte ich meine Designs?",
+        "answer": "Designs werden in nur wenigen Minuten generiert, was es einfach macht, Ihre Ideen schnell zu visualisieren!"
+      },
+      {
+        "question": "Kann ich meine Designs für später speichern?",
+        "answer": "Absolut! Sie können Ihre Designs speichern, um sie jederzeit wiederzuvisitieren und zu ändern."
+      },
+      {
+        "question": "Gibt es kommerzielle Rechte für generierte Designs?",
+        "answer": "Ja! Alle über WaveSpeed generierten Designs umfassen vollständige Rechte für persönliche und kommerzielle Nutzung."
+      },
+      {
+        "question": "Welche Unterstützung gibt es für die Fehlersuche?",
+        "answer": "Wir bieten umfassende Unterstützung, einschließlich Tutorials, FAQs und Kundenservice, um Ihnen bei Problemen zu helfen."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Ihren Traumraum zu gestalten?",
+    "description": "Starten Sie mit kostenlosen Credits - Erleben Sie die Transformation selbst",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Jetzt Gestalten →"
+  },
+  "footer": {
+    "heading": "Bereit, Ihren Raum neu zu gestalten?",
+    "description": "Probieren Sie WaveSpeed AI jetzt aus und sehen Sie, wie Ihre Innenraumideen lebendig werden. Keine Anmeldung erforderlich.",
+    "ctaText": "Gestalten Sie Ihren Raum jetzt",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

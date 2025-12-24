@@ -1,0 +1,230 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - AI Peningkatan Wajah",
+  "meta": {
+    "description": "Tingkatkan foto Anda dengan teknologi Peningkatan Wajah AI yang mutakhir. Ubah fitur wajah, perbaiki tekstur kulit, dan capai tampilan yang halus tanpa usaha. Ideal untuk influencer, fotografer, dan pembuat konten. Coba gratis sekarang!",
+    "keywords": "peningkatan wajah AI, peningkatan foto, pengeditan gambar, penghalusan kulit, peningkatan potret, alat AI kecantikan, alat influencer, perangkat lunak fotografi, alat pembuat konten, peningkatan foto media sosial"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Menghidupkan Kembali Potret Anda",
+    "subHeading": "Tingkatkan Wajah hingga Sempurna",
+    "description": "Ubah foto Anda menjadi potret yang menakjubkan dengan Peningkatan Wajah AI. Kulit yang sempurna, fitur yang lebih tajam, dan tampilan alami hanya dengan satu klik. Rasakan keajaiban AI dan tingkatkan kualitas gambar Anda secara instan.",
+    "tryText": "Coba Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Peningkatan Wajah AI WaveSpeed",
+    "left": {
+      "heading": "Tantangan Retouching Tradisional",
+      "items": [
+        "Layanan profesional yang mahal ($300-1000 per sesi)",
+        "Memerlukan perangkat lunak pengeditan yang mahir",
+        "Proses yang memakan waktu (hingga beberapa hari)",
+        "Revisi dan perubahan yang terbatas",
+        "Kesulitan bagi pemula dan kreator kecil"
+      ]
+    },
+    "right": {
+      "heading": "Solusi Peningkatan WaveSpeed AI",
+      "items": [
+        "Tingkatkan foto Anda dalam hitungan detik",
+        "Tidak memerlukan keterampilan - Cukup unggah gambar Anda",
+        "Hasil instan yang memuaskan dengan teknologi AI",
+        "Editan dan variasi tak terbatas",
+        "Model bayar-per-penggunaan yang terjangkau - Terjangkau untuk semua"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Capai peningkatan yang menakjubkan dalam 4 langkah sederhana",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Gambar",
+        "text": "Unggah potret atau gambar yang memerlukan peningkatan",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Kustomisasi Fitur",
+        "text": "Opsional: Tentukan peningkatan yang Anda inginkan (misalnya, \"kulit halus\")",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Pilih Tingkat Peningkatan",
+        "text": "Pilih antara peningkatan cepat atau peningkatan mendalam",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Unduh Gambar yang Ditingkatkan",
+        "text": "Dapatkan foto resolusi tinggi dalam waktu kurang dari 2 menit",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Tingkatkan Foto Pertama Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Tak Terbatas",
+    "description": "Ideal untuk semua jenis kebutuhan peningkatan foto",
+    "items": [
+      "Foto profil media sosial",
+      "Headshot profesional",
+      "Foto kecantikan untuk portofolio",
+      "Peningkatan foto pernikahan",
+      "Foto mode untuk e-commerce",
+      "Pembuatan konten influencer",
+      "Rekaman acara",
+      "Hadiah pribadi dengan gambar yang ditingkatkan"
+    ]
+  },
+  "successStories": {
+    "heading": "Cerita Sukses Nyata",
+    "description": "Temukan bagaimana kreator meningkatkan gambar mereka dengan AI",
+    "items": [
+      {
+        "tag": "Influencer Kecantikan",
+        "heading": "Peremajaan Portofolio Instagram",
+        "before": {
+          "label": "Sebelum",
+          "text": "Datar dan membosankan"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Berwarna dan menarik"
+        },
+        "value": "85%",
+        "key": "Peningkatan Keterlibatan",
+        "description": "Gambar kami yang baru ditingkatkan menarik lebih banyak pengikut, meningkatkan keterlibatan saya secara signifikan dalam beberapa hari."
+      },
+      {
+        "tag": "Fotografer",
+        "heading": "Peningkatan Foto Pernikahan",
+        "before": {
+          "label": "Sebelum",
+          "text": "Kurang bersemangat"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Kaya dan hidup"
+        },
+        "value": "90%",
+        "key": "Kepuasan Klien",
+        "description": "Klien sangat senang dengan kualitas yang ditingkatkan, yang menyebabkan lebih banyak rujukan dan pemesanan."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Model AI",
+    "description": "Pilih tingkat peningkatan yang tepat untuk kebutuhan Anda",
+    "items": [
+      "Sentuhan Ringan: Perbaikan cepat dan penghalusan, detail minimal yang dipertahankan",
+      "Peningkatan Standar: Hasil seimbang, memperbaiki detail dan kehalusan",
+      "Retouch Mendalam: Peningkatan besar dengan pemulihan detail penuh dan tekstur halus",
+      "Efek Alami: Sentuhan realistik yang mempertahankan karakter asli",
+      "Proses Batch: Tingkatkan beberapa gambar sekaligus",
+      "Hak penggunaan komersial disertakan"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Jelajahi lebih banyak alat AI canggih untuk pengeditan foto"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Semua yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Peningkatan apa yang dapat saya harapkan?",
+        "answer": "Peningkatan Wajah AI dapat memberikan kulit yang halus, fitur yang lebih tajam, dan penyesuaian terhadap pencahayaan dan nada, semuanya sambil mempertahankan tampilan yang alami. Teknologi kami unggul dalam memberikan hasil yang meningkatkan daripada mengubah foto Anda."
+      },
+      {
+        "question": "Dapatkah saya mengkustomisasi tingkat peningkatan?",
+        "answer": "Tentu saja! Anda dapat memilih dari perbaikan cepat hingga opsi retouch mendalam, memungkinkan Anda mengontrol seberapa halus atau dramatis peningkatan tersebut, sesuai dengan kebutuhan spesifik Anda."
+      },
+      {
+        "question": "Format gambar apa yang paling cocok untuk peningkatan?",
+        "answer": "Kami merekomendasikan penggunaan file JPG atau PNG dengan resolusi tinggi. Untuk hasil yang optimal, gambar harus jelas dan diterangi dengan baik, idealnya di atas 800x800 piksel. Namun, format umum lainnya juga didukung."
+      },
+      {
+        "question": "Bagaimana cara ini berbeda dari retouching manual?",
+        "answer": "Teknologi AI memberikan hasil instan dengan kualitas yang konsisten, berbeda dengan retouching manual yang bisa memakan waktu dan bervariasi dalam kualitas. Peningkatan AI menawarkan solusi cepat dan dapat diandalkan untuk gambar yang lebih baik."
+      },
+      {
+        "question": "Dapatkah saya menerapkan efek ke beberapa foto sekaligus?",
+        "answer": "Ya! Alat pemrosesan batch kami memungkinkan Anda untuk meningkatkan beberapa gambar sekaligus, membuatnya efisien untuk proyek atau acara yang lebih besar."
+      },
+      {
+        "question": "Hak apa yang saya miliki setelah peningkatan?",
+        "answer": "Anda memiliki hak komersial atas semua gambar yang ditingkatkan yang dibuat melalui layanan kami tanpa biaya tambahan. Gunakan mereka sesuka Anda di berbagai platform."
+      },
+      {
+        "question": "Berapa lama proses peningkatan ini?",
+        "answer": "Waktu generasi cepat, biasanya kurang dari 2 menit per gambar. Anda akan melihat hasil yang ditingkatkan dalam waktu singkat."
+      },
+      {
+        "question": "Jenis fotografi apa yang dapat diuntungkan dari peningkatan AI?",
+        "answer": "Peningkatan Wajah AI sangat cocok untuk potret, fotografi komersial, gambar media sosial, dan konteks apa pun di mana daya tarik visual sangat penting untuk kesuksesan."
+      },
+      {
+        "question": "Apakah saya perlu memberi kredit kepada WaveSpeed saat menggunakan gambar yang ditingkatkan?",
+        "answer": "Tidak diperlukan atribusi, tetapi kami menghargai jika Anda memberikan kredit kepada layanan kami jika Anda mau! Gambar yang ditingkatkan dapat digunakan secara bebas di semua media."
+      },
+      {
+        "question": "Dukungan apa yang tersedia jika saya mengalami masalah?",
+        "answer": "Kami menawarkan dukungan komprehensif melalui panduan terperinci, tutorial video, dan tim responsif yang siap membantu Anda melalui email atau chat untuk segala kesulitan teknis."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap Mengubah Potret Anda?",
+    "description": "Mulailah meningkatkan gambar Anda hari ini dengan kredit gratis!",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Coba Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap Menganimasikan Foto Anda?",
+    "description": "Rasakan WaveSpeed AI sekarang dan saksikan transformasinya. Tidak perlu mendaftar.",
+    "ctaText": "Tingkatkan Foto Anda Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi."
+  }
+}

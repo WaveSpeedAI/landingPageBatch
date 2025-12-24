@@ -1,0 +1,226 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - KI Video Upscaling",
+  "meta": {
+    "description": "Verbessern Sie Ihre Videos mühelos in atemberaubende hohe Auflösungen mit KI. Perfekt für Content-Ersteller, Vermarkter und Unternehmen, die ihre visuelle Wirkung verstärken möchten. Erleben Sie überlegene Qualität ohne hohe Kosten. 50% Rabatt auf Ihr erstes Upscaling!",
+    "keywords": "KI Video Upscaling, Video-Verbesserungswerkzeug, HD Video-Generator, Verbesserung der Videoqualität, KI Video-Schärfe, Tools für Content-Ersteller, Video-Upscaling für Vermarkter, Premium-Videoqualität, Optimierung visueller Inhalte, erschwingliche Videoverbesserung"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI Werkzeuge",
+        "items": [
+          [
+            "KI Werkzeuge",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt Ausprobieren"
+  },
+  "hero": {
+    "heading": "Video Upscaling Ganz Einfach",
+    "subHeading": "Transformieren Sie Ihr Filmmaterial in hochauflösende Qualität",
+    "description": "Heben Sie die Qualität Ihrer Videos mit unserer modernsten KI Upscaling-Technologie hervor. Erleben Sie atemberaubende Klarheit und Details in nur wenigen Augenblicken. Erleben Sie den Unterschied mit unserer nahtlosen Integration und sofortigen Ergebnissen.",
+    "tryText": "Upscale Ihr Video Jetzt",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI KI Video Upscaling Lösung",
+    "left": {
+      "heading": "Herausforderungen beim traditionellen Upscaling",
+      "items": [
+        "Das Skalieren führt oft zu verschwommenen Bildern",
+        "Teure Software- und Hardwarelösungen",
+        "Manuelle Anpassungen erfordern stundenlange Mühe",
+        "Qualität variiert je nach Originalmaterial",
+        "Eingeschränkter Zugang für kleine Ersteller und Unternehmen"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Lösung",
+      "items": [
+        "Verbessern Sie Videos in atemberaubendem HD in Minuten",
+        "Keine besondere Ausrüstung erforderlich - Einfach Ihr Video hochladen",
+        "Sofortige Verbesserung mit KI-gesteuerten Algorithmen",
+        "Unbegrenzte Versuche, um die gewünschte Qualität zu erreichen",
+        "Kosteneffizientes Preismodell für alle Benutzer"
+      ],
+      "tryText": "Ausprobieren"
+    }
+  },
+  "howItWorks": {
+    "heading": "Wie Es Funktioniert",
+    "description": "Upgrade Ihre Videos in 4 einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Video Hochladen",
+        "text": "Wählen Sie Ihre Videodatei zum Upscaling aus und laden Sie sie hoch",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Auflösung Wählen",
+        "text": "Wählen Sie Ihre gewünschte Ausgabeauflösung (z.B. 1080p, 4K)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Einstellungen Anpassen",
+        "text": "Optional: Parameter für optimale Ergebnisse feinabstimmen",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Verbessertes Video Herunterladen",
+        "text": "Holen Sie sich Ihr hochskaliertes Video bereit zum Teilen in wenigen Minuten",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Verbessern Sie Ihr Video Jetzt →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endlose Möglichkeiten",
+    "description": "Perfekt für jeden Video-Inhalt",
+    "items": [
+      "Verbessern Sie Werbevideos für soziale Medien",
+      "Upgrade Sie YouTube-Inhalte für eine bessere Zuschauerbindung",
+      "Transformieren Sie Online-Kurse mit hochwertigen visuellen Inhalten",
+      "Verbessern Sie Filmmaterial von Veranstaltungen und Webinaren",
+      "Erstellen Sie beeindruckende Präsentationen mit verbesserten Videos",
+      "Lassen Sie Heimvideos professioneller aussehen",
+      "Optimieren Sie Filmmaterial für Fernsehen oder Streaming-Dienste",
+      "Beleben Sie alte Videos für neue Plattformen"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Entdecken Sie, wie Ersteller ihre Videos mit KI verbessern",
+    "items": [
+      {
+        "tag": "Filmproduktion",
+        "heading": "Indie-Filmveröffentlichung",
+        "before": {
+          "label": "Vorher",
+          "text": "Standardauflösung"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Hochauflösung"
+        },
+        "value": "75%",
+        "key": "Qualitätsverbesserung",
+        "description": "Wir haben die audio-visuelle Qualität unseres Films verbessert, was zu einem signifikanten Anstieg des Zuschauerengagements und positiver Bewertungen führte."
+      },
+      {
+        "tag": "Marketingagentur",
+        "heading": "Werbevideo des Kunden",
+        "before": {
+          "label": "Vorher",
+          "text": "Niedrige Auflösung"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Klar und deutlich"
+        },
+        "value": "85%",
+        "key": "Engagementsteigerung",
+        "description": "Das verbesserte Video hat die Markenpräsenz unseres Kunden dramatisch verbessert, was zu einem Anstieg der Anfragen um 50 % führte."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "KI Modellvergleich",
+    "description": "Wählen Sie die richtigen Verbesserungseinstellungen für Ihre Bedürfnisse",
+    "items": [
+      "Standard Upscaler: Erhöht die Auflösung mit moderaten Qualitätsverbesserungen, geeignet für schnelle Anpassungen",
+      "Fortgeschrittener Upscaler: Premiumqualität, hervorragende Detailwiederherstellung, ideal für den professionellen Einsatz",
+      "Echtzeit-Vorschauen von Verbesserungen",
+      "Unterstützung mehrerer Formate für verschiedene Videotypen",
+      "Schnelle Verarbeitungszeit mit hochwertigen Ausgaben",
+      "Einfaches Benutzerinterface für mühelose Navigation"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Verwandte KI Werkzeuge",
+    "description": "Entdecken Sie weitere innovative KI-Tools zur Verbesserung Ihres Inhalts"
+  },
+  "faq": {
+    "heading": "Häufig Gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welche Videoauflösungen kann ich hochskalieren?",
+        "answer": "Sie können Ihre Videos auf verschiedene Auflösungen hochskalieren, einschließlich 1080p, 4K und mehr, abhängig von Ihren Bedürfnissen. Das Upscaling-Tool verwendet fortschrittliche Algorithmen, um optimale Qualität bei gleichzeitiger Beibehaltung natürlicher Details zu gewährleisten."
+      },
+      {
+        "question": "Kann ich alle Videoformate hochskalieren?",
+        "answer": "Ja! Unser KI-Tool unterstützt verschiedene Videoformate einschließlich MP4, AVI und MOV für eine nahtlose Verbesserung. Stellen Sie sicher, dass Ihre Videos in gängigen Formaten vorliegen, um die besten Ergebnisse zu erzielen."
+      },
+      {
+        "question": "Wie lange dauert der Upscaling-Prozess?",
+        "answer": "Typischerweise dauert die Videoverbesserung nur ein paar Minuten, abhängig von der Länge des Videos und der gewählten Auflösung. Unsere Algorithmen arbeiten effizient, um schnell hochwertige Ergebnisse zu liefern."
+      },
+      {
+        "question": "Wird das Upscaling die Videoqualität signifikant verbessern?",
+        "answer": "Absolut! Unsere KI-Technologie verbessert die Video-Klarheit, Schärfe und die gesamte visuelle Qualität, sodass Inhalte mit niedriger Auflösung atemberaubend hochauflösend erscheinen."
+      },
+      {
+        "question": "Benötigt die KI-Verarbeitung große Dateigrößen für beste Ergebnisse?",
+        "answer": "Während höhere Auflösungsdateien zu noch besseren Ergebnissen führen können, ist unsere Technologie darauf ausgelegt, auch kleinere Dateien zu optimieren. Sie werden unabhängig von der Dateigröße eine verbesserte Qualität sehen."
+      },
+      {
+        "question": "Kann ich verbesserte Videos kommerziell nutzen?",
+        "answer": "Ja! Alle durch unsere Plattform verbesserten Videos sind mit vollen kommerziellen Nutzungsrechten ausgestattet, sodass Sie sie für Marketing, Präsentationen und mehr ohne zusätzliche Gebühren nutzen können."
+      },
+      {
+        "question": "Gibt es eine Grenze für die Anzahl der Videos, die ich hochskalieren kann?",
+        "answer": "Nein, es gibt keine Begrenzung für die Anzahl der Videos, die Sie verbessern können. Sie können mehrere Videos gleichzeitig verarbeiten, um einen reibungslosen Arbeitsablauf zu gewährleisten."
+      },
+      {
+        "question": "Welche Unterstützung steht zur Verfügung, wenn ich auf Probleme stoße?",
+        "answer": "Unsere Plattform bietet umfassende Unterstützung, einschließlich FAQs, Video-Tutorials und ein Kundenserviceteam, das per E-Mail und Chat für sofortige Hilfe verfügbar ist."
+      },
+      {
+        "question": "Muss ich Software herunterladen, um den Dienst zu nutzen?",
+        "answer": "Es sind keine Downloads erforderlich! Unsere Video-Upscaling-Dienste werden online gehostet, was für sofortigen Zugriff und einfache Videoverwaltung über Ihren Webbrowser sorgt."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Ihre Videos zu verbessern?",
+    "description": "Beginnen Sie mit kostenlosen Credits und erleben Sie die Transformation hautnah.",
+    "contactUsText": "Kontaktieren Sie Uns",
+    "tryText": "Jetzt Upscale →"
+  },
+  "footer": {
+    "heading": "Bereit, Ihre Videoqualität zu verbessern?",
+    "description": "Probieren Sie WaveSpeed AI noch heute aus und erleben Sie den Unterschied sofort. Keine Anmeldung erforderlich.",
+    "ctaText": "Jetzt Upscaling Starten",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

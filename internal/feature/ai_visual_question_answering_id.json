@@ -1,0 +1,229 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - AI Visual Question Answering",
+  "meta": {
+    "description": "Segera jawab pertanyaan tentang gambar dengan AI Visual Question Answering. Sempurna untuk meningkatkan keterlibatan pelanggan, mengoptimalkan tampilan produk, dan merampingkan pengalaman pengguna. Coba sekarang!",
+    "keywords": "AI Visual Question Answering, Q&A berbasis gambar, AI interaktif, alat keterlibatan pelanggan, optimisasi tampilan produk, solusi AI e-commerce, peningkatan pengalaman pengguna, intelijen visual, interaksi berbasis AI, sistem Q&A dinamis"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Tampilan",
+        "items": [
+          [
+            "Tampilan",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Visual Question Answering",
+    "subHeading": "Revolusi Interaksi dengan Gambar Anda",
+    "description": "Segera hasilkan jawaban untuk pertanyaan pengguna tentang gambar apa pun, meningkatkan keterlibatan dan pemahaman. Manfaatkan kekuatan AI untuk menciptakan pengalaman dinamis dan interaktif. Sempurna untuk e-commerce, pemasaran, dan pendidikan.",
+    "tryText": "Coba Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi AI Visual Question Answering WaveSpeed AI",
+    "left": {
+      "heading": "Tantangan Interaksi Pelanggan Tradisional",
+      "items": [
+        "Keterlibatan terbatas dengan gambar statis",
+        "Waktu respons yang lambat terhadap pertanyaan pengguna",
+        "Memerlukan analisis manual terhadap konten gambar",
+        "Hambatan meningkat untuk dukungan pelanggan",
+        "Ineffisiensi dalam navigasi konten"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeed AI",
+      "items": [
+        "Jawaban instan untuk pertanyaan pengguna berdasarkan gambar",
+        "AI menginterpretasikan dan menganalisis konten gambar secara real-time",
+        "Tangggapan visual interaktif dan menarik",
+        "Dukungan pelanggan yang lebih efisien dengan lebih sedikit sumber daya",
+        "Dapat diakses untuk semua jenis bisnis"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerja",
+    "description": "Ubah interaksi gambar dalam 4 langkah sederhana",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Gambar",
+        "text": "Sediakan gambar yang akan ditanyakan pengguna",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Ajukan Pertanyaan",
+        "text": "Pengguna mengetik pertanyaan yang terkait dengan gambar",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Analisis AI",
+        "text": "AI memproses gambar untuk merumuskan jawaban yang akurat",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Terima Jawaban",
+        "text": "Dapatkan respons instan yang ditampilkan bersamaan dengan gambar",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Mulai Menjawab Pertanyaan →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Tanpa Batas",
+    "description": "Sempurna untuk berbagai aplikasi dan industri",
+    "items": [
+      "Dukungan pelanggan untuk platform e-commerce",
+      "Halaman detail produk yang lebih baik",
+      "Materi edukatif interaktif",
+      "Tampilan virtual real estate dengan wawasan mendalam",
+      "Penjelasan gambar makanan dan resep",
+      "Galeri seni yang memberikan informasi kontekstual",
+      "Forum online dengan kapasitas pertanyaan gambar",
+      "Situs perjalanan yang meningkatkan pertanyaan tujuan"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Temukan bagaimana merek-merek mengubah keterlibatan dengan AI",
+    "items": [
+      {
+        "tag": "E-commerce",
+        "heading": "Interaksi AI Retail Fashion",
+        "before": {
+          "label": "Sebelum",
+          "text": "Gambar statis, tanpa interaksi"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Keterlibatan Q&A dinamis"
+        },
+        "value": "45%",
+        "key": "Peningkatan Keterlibatan Pengguna",
+        "description": "Waktu interaksi meningkat sebesar 40%. Sekarang pelanggan menerima jawaban instan, sangat meningkatkan kepuasan."
+      },
+      {
+        "tag": "Pendidikan",
+        "heading": "Aplikasi Pembelajaran Interaktif",
+        "before": {
+          "label": "Sebelum",
+          "text": "Akses informasi terbatas"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Q&A real-time dengan gambar"
+        },
+        "value": "90%",
+        "key": "Peningkatan Pemahaman",
+        "description": "Siswa menikmati jawaban instan untuk pertanyaan visual, menghasilkan peningkatan retensi pengetahuan sebesar 60%."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Model AI untuk Visual Q&A",
+    "description": "Pilih model yang paling sesuai dengan kebutuhan Anda",
+    "items": [
+      "Model Standar: Waktu respons cepat, cocok untuk pertanyaan dasar",
+      "Model Lanjutan: Analisis mendalam dan jawaban rinci untuk gambar kompleks",
+      "Pemrosesan bahasa alami untuk interaksi yang ramah pengguna",
+      "Kemampuan menangani berbagai jenis dan konten gambar",
+      "Umum umpan balik real-time dan kemampuan pembelajaran berkelanjutan"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Jelajahi lebih banyak kemampuan AI mutakhir untuk bisnis"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Semua yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Jenis pertanyaan apa yang dapat dijawab dengan fitur ini?",
+        "answer": "Sistem dapat menangani berbagai macam pertanyaan, dari identifikasi dasar hingga deskripsi kompleks. Pengguna dapat menanyakan elemen spesifik dalam gambar, makna kontekstual, dan lainnya."
+      },
+      {
+        "question": "Seberapa akurat jawaban yang diberikan?",
+        "answer": "Jawaban dihasilkan berdasarkan analisis AI, memastikan tingkat akurasi yang tinggi. Pembaruan pembelajaran mesin berkelanjutan meningkatkan responsivitas dan detail seiring waktu."
+      },
+      {
+        "question": "Dapatkah saya menyesuaikan AI untuk mengenali item spesifik dalam gambar saya?",
+        "answer": "Ya! Anda dapat melatih AI dengan dataset tertentu untuk meningkatkan pengenalan dan relevansi untuk jenis produk atau industri tertentu."
+      },
+      {
+        "question": "Industri apa yang dapat mengambil keuntungan dari teknologi ini?",
+        "answer": "Hampir semua industri yang mengandalkan konten visual dapat memanfaatkan, terutama e-commerce, pendidikan, dukungan teknis, dan perjalanan."
+      },
+      {
+        "question": "Bagaimana AI memproses dan menganalisis gambar?",
+        "answer": "Dengan memanfaatkan pengenalan gambar canggih dan pemrosesan bahasa alami, AI memecah gambar menjadi komponen yang dapat dipahami untuk menghasilkan respons dinamis."
+      },
+      {
+        "question": "Apakah dukungan teknis tersedia untuk implementasi?",
+        "answer": "Tentu saja! Tim dukungan kami yang berdedikasi menyediakan dokumentasi lengkap, tutorial, dan bantuan langsung untuk semua kebutuhan implementasi."
+      },
+      {
+        "question": "Dapatkah banyak pengguna mengakses fitur ini secara bersamaan?",
+        "answer": "Ya! Sistem dirancang untuk banyak pengguna simultan, memungkinkan mereka untuk bertanya dan menerima jawaban tanpa penundaan."
+      },
+      {
+        "question": "Apakah saya perlu keterampilan teknis untuk mengatur ini?",
+        "answer": "Tidak diperlukan keahlian teknis. Platform kami ramah pengguna, menyediakan dukungan penuh selama proses pengaturan."
+      },
+      {
+        "question": "Jenis gambar apa yang bekerja paling baik untuk analisis AI ini?",
+        "answer": "Gambar berkualitas tinggi dengan komponen yang jelas dan dapat dikenali menghasilkan hasil terbaik. Pastikan pencahayaan dan fokus yang tepat untuk jawaban yang optimal."
+      },
+      {
+        "question": "Apa hak komersial untuk menggunakan konten yang dihasilkan?",
+        "answer": "Semua respons dan konten yang diturunkan dapat digunakan secara komersial, memberikan kebebasan penuh untuk pemasaran dan pertumbuhan bisnis."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Meningkatkan Keterlibatan Gambar Anda?",
+    "description": "Mulai dengan kredit gratis - Rasakan respons instan",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Coba Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap untuk Meningkatkan Interaksi dengan Gambar Anda?",
+    "description": "Coba WaveSpeed AI sekarang dan rasakan inovasinya. Tidak perlu mendaftar.",
+    "ctaText": "Mulai Berinteraksi Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi."
+  }
+}

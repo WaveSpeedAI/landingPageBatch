@@ -1,0 +1,230 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Ringkasan Video AI",
+  "meta": {
+    "description": "Dengan cepat membuat ringkasan video yang ringkas dari konten Anda dengan AI. Menyederhanakan narasi yang terlalu panjang menjadi video yang ringkas dan menarik dengan mudah. Ideal untuk bisnis yang ingin meningkatkan komunikasi dan keterlibatan. Penawaran Black Friday tersedia!",
+    "keywords": "ringkasan video AI, alat ringkasan video, pengeditan video otomatis, pembuat video ringkas, pemasaran konten, ringkasan AI, komunikasi yang efisien, alat video bisnis, peningkat keterlibatan, konverter video pemasaran, ringkasan video media sosial"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Tampilan",
+        "items": [
+          [
+            "Tampilan",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Ringkasan Video AI",
+    "subHeading": "Hidupkan Konten Anda dengan Ringkasan yang Menarik",
+    "description": "Ubah video berdurasi panjang menjadi ringkasan yang menarik dalam beberapa menit. Manfaatkan teknologi AI mutakhir untuk menyederhanakan konten Anda dan mempertahankan perhatian pemirsa. Mulai hari ini!",
+    "tryText": "Buat Ringkasan Saya Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Ringkasan Video AI WaveSpeed AI",
+    "left": {
+      "heading": "Tantangan Tradisional",
+      "items": [
+        "Ringkasan manual memakan waktu",
+        "Biaya produksi tinggi untuk rekap video",
+        "Penyampaian pesan yang tidak konsisten dan jelas",
+        "Kesulitan dalam mempertahankan keterlibatan audiens",
+        "Penggunaan video yang terbatas dalam komunikasi"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeed AI",
+      "items": [
+        "Mengotomatiskan ringkasan video dalam beberapa menit",
+        "Tidak memerlukan keahlian teknis - Cukup unggah",
+        "Keterlibatan cepat melalui konten berbasis AI",
+        "Berbagai gaya ringkasan untuk dipilih",
+        "Harga fleksibel - Ramah anggaran untuk semua"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Ubah video panjang menjadi ringkasan ringkas dalam 4 langkah sederhana",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Video",
+        "text": "Pilih video berdurasi panjang Anda untuk diringkas",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Kustomisasi Ringkasan",
+        "text": "Opsional: Berikan poin atau bagian kunci untuk difokuskan",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Pilih Gaya",
+        "text": "Pilih gaya ringkasan yang sesuai dengan suara merek Anda",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Unduh Video Ringkasan",
+        "text": "Dapatkan ringkasan ringkas Anda dalam beberapa menit, siap untuk dibagikan",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Hasilkan Ringkasan Pertama Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Tanpa Henti",
+    "description": "Sempurna untuk berbagai penggunaan",
+    "items": [
+      "Ringkasan video promosi untuk produk",
+      "Ringkasan posting media sosial",
+      "Rekap pelatihan perusahaan",
+      "Testimoni pengguna dan studi kasus",
+      "Video sorotan acara",
+      "Ringkasan webinar dan presentasi",
+      "Sorotan video YouTube",
+      "Rekap episode podcast"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Bisnis yang merevolusi strategi konten mereka dengan AI",
+    "items": [
+      {
+        "tag": "Industri Teknologi",
+        "heading": "Ringkasan untuk Demo Produk",
+        "before": {
+          "label": "Sebelum",
+          "text": "5 jam untuk mengedit"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "15 menit menggunakan AI"
+        },
+        "value": "90%",
+        "key": "Penghematan Waktu",
+        "description": "Tim kami secara drastis mengurangi waktu pengeditan dan meningkatkan retensi pemirsa dengan ringkasan video yang menarik."
+      },
+      {
+        "tag": "E-learning",
+        "heading": "Video Ikhtisar Kursus",
+        "before": {
+          "label": "Sebelum",
+          "text": "Pengeditan video manual memakan waktu lama"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Ringkasan instan dengan AI"
+        },
+        "value": "95%",
+        "key": "Peningkatan Efisiensi",
+        "description": "Kami meningkatkan cara pembelajar terlibat dengan materi kursus dengan menyajikan ringkasan video yang jelas dan ringkas secara instan."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Model AI",
+    "description": "Pilih model yang paling cocok untuk kebutuhan ringkasan Anda",
+    "items": [
+      "Veo 3.1: Ringkasan rinci dengan visual dan transisi menarik",
+      "Seedance I2V: Ringkasan cepat dan sederhana untuk hasil yang cepat",
+      "Kemampuan ringkasan teks yang memastikan poin utama jelas",
+      "Transisi halus yang mempertahankan keterlibatan pemirsa",
+      "Generasi ringkasan 1-2 menit",
+      "Hak penggunaan komersial termasuk"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Temukan lebih banyak solusi AI inovatif untuk kebutuhan Anda"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Semua yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Video jenis apa yang bisa diringkas?",
+        "answer": "Alat kami bekerja paling baik dengan berbagai jenis video termasuk sesi pelatihan, konten promosi, wawancara, dan presentasi. Video dari yang sederhana hingga yang kompleks dapat disaring menjadi ringkasan yang menarik yang menampilkan poin utama secara efektif."
+      },
+      {
+        "question": "Bisakah saya menyesuaikan tata letak ringkasan?",
+        "answer": "Ya! Anda dapat memilih dari berbagai gaya ringkasan untuk mencocokkan merek dan format yang diinginkan. Sesuaikan fokus dan presentasi untuk memastikan sesuai dengan pesan Anda."
+      },
+      {
+        "question": "Berapa lama proses ringkasan?",
+        "answer": "Biasanya, proses ringkasan hanya memakan waktu 1-2 menit terlepas dari durasi video. Nikmati hasil yang cepat yang sejalan dengan kebutuhan efisiensi Anda."
+      },
+      {
+        "question": "Apakah ada batasan pada durasi video untuk diringkas?",
+        "answer": "Alat kami dapat menangani video dengan berbagai durasi. Namun, untuk hasil optimal, kami merekomendasikan agar mematuhi standar industri umum untuk durasi video saat mengirimkan konten."
+      },
+      {
+        "question": "Bisakah saya mengedit ringkasan setelah dihasilkan?",
+        "answer": "Tentu saja! Sementara AI kami memberikan ringkasan yang halus, Anda memiliki fleksibilitas untuk mengedit dan menyesuaikannya lebih lanjut menggunakan alat pengeditan pilihan Anda untuk dampak maksimal."
+      },
+      {
+        "question": "Apa struktur harga untuk menggunakan alat ringkasan?",
+        "answer": "WaveSpeed beroperasi dengan model bayar sesuai penggunaan. Anda hanya membayar untuk ringkasan yang dihasilkan, memungkinkan pengendalian anggaran dan fleksibilitas tanpa biaya tersembunyi."
+      },
+      {
+        "question": "Apakah saya mempertahankan hak atas ringkasan yang dihasilkan?",
+        "answer": "Ya! Semua ringkasan yang dibuat dengan alat AI kami dilengkapi dengan hak komersial penuh, memungkinkan penggunaan tanpa batas tanpa biaya lisensi tambahan."
+      },
+      {
+        "question": "Apakah ada dukungan pelanggan yang tersedia?",
+        "answer": "Ya! Kami menawarkan dukungan yang komprehensif, termasuk FAQ detail, dokumentasi, dan tim layanan pelanggan yang responsif untuk membantu permintaan dan kebutuhan troubleshooting."
+      },
+      {
+        "question": "Format apa yang dapat saya unggah untuk diringkas?",
+        "answer": "Kami mendukung berbagai format video termasuk MP4, MOV, dan AVI. Pastikan konten Anda jelas dan berkualitas tinggi untuk hasil ringkasan terbaik."
+      },
+      {
+        "question": "Bisakah saya menghasilkan beberapa ringkasan sekaligus?",
+        "answer": "Ya! Alat kami mendukung pemrosesan batch, memungkinkan Anda menghasilkan ringkasan untuk beberapa video secara bersamaan, menjadikannya efisien dan tanpa repot."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Menyederhanakan Konten Anda?",
+    "description": "Mulai dengan kredit gratis - Rasakan perbedaannya hari ini",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Coba Sekarang →"
+  },
+  "footer": {
+    "heading": "Transformasikan Video Anda Sekarang!",
+    "description": "Coba WaveSpeed AI hari ini dan saksikan ringkasan video yang tanpa usaha. Tidak perlu pendaftaran.",
+    "ctaText": "Ringkas Video Saya Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi."
+  }
+}

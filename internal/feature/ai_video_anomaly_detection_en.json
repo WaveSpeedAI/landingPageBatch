@@ -1,0 +1,205 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Video Anomaly Detection",
+  "meta": {
+    "description": "Detect anomalies in video footage effortlessly with cutting-edge AI technology. Enhance security, improve operational efficiency, and gain insights with precise detection capabilities. Ideal for surveillance, quality control, and more.",
+    "keywords": "video anomaly detection, AI video analysis, surveillance technology, security monitoring, operational efficiency, quality control detection, video intelligence, automated anomaly detection, AI solutions for video, real-time alert systems"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Video Anomaly Detection",
+    "subHeading": "Automate Anomaly Detection in Your Videos",
+    "description": "Revolutionize the way you monitor video data by identifying outliers and unusual behavior in real-time. Leverage advanced AI algorithms for instant alerts and actionable insights, streamlining your surveillance and quality control processes. Get started today!",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Video Anomaly Detection Solution",
+    "left": {
+      "heading": "Traditional Monitoring Challenges",
+      "items": [
+        "Manual review of hours of video footage",
+        "High labor costs and time expenditure",
+        "Difficulty in identifying subtle anomalies",
+        "Delays in response to potential issues",
+        "Inconsistent monitoring across multiple feeds"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Automated detection of unusual activity",
+        "Real-time alerts for immediate action",
+        "Enhanced accuracy with AI-driven analysis",
+        "Comprehensive coverage of video feeds",
+        "Cost-effective and scalable monitoring"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "From raw footage to detected anomalies in 3 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Video Footage",
+        "text": "Input your video files for analysis",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Set Detection Parameters",
+        "text": "Define what anomalies to look for (e.g., motion detection, unusual behavior)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Receive Alerts and Reports",
+        "text": "Get notified about detected anomalies with detailed reports",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "Start Detecting Anomalies →"
+  },
+  "endlessPossibilities": {
+    "heading": "Applications Across Industries",
+    "description": "Ideal for a variety of monitoring scenarios",
+    "items": [
+      "Security surveillance for retail and airports",
+      "Quality control in manufacturing processes",
+      "Traffic monitoring and analysis",
+      "Healthcare facility oversight",
+      "Insurance claim investigations",
+      "Event security and crowd management",
+      "Remote site monitoring",
+      "Smart city infrastructure management"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Explore how organizations are leveraging AI for monitoring",
+    "items": [
+      {
+        "tag": "Security",
+        "heading": "Airport Surveillance Optimization",
+        "before": {
+          "label": "Before",
+          "text": "Reactive monitoring"
+        },
+        "after": {
+          "label": "After",
+          "text": "Proactive alerts"
+        },
+        "value": "75%",
+        "key": "Reduction in Incident Response Time",
+        "description": "Automated anomaly detection reduced the time taken to respond to security threats significantly, enhancing overall safety measures."
+      },
+      {
+        "tag": "Manufacturing",
+        "heading": "Quality Control Enhancement",
+        "before": {
+          "label": "Before",
+          "text": "Manual inspections"
+        },
+        "after": {
+          "label": "After",
+          "text": "Automated detection"
+        },
+        "value": "90%",
+        "key": "Increase in Detection Accuracy",
+        "description": "Switching to AI-based monitoring improved our defect detection rates, saving costs and time in production."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Detection Method Comparison",
+    "description": "Choose the right detection model for your needs",
+    "items": [
+      "Real-time analysis: Detects anomalies as they happen",
+      "Batch processing option for analyzing large datasets",
+      "Customizable detection algorithms for specific industries",
+      "Integration with existing security systems",
+      "User-friendly dashboard for monitoring trends"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Discover more AI solutions for enhanced monitoring"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What types of anomalies can be detected?",
+        "answer": "The system can identify a wide range of anomalies including motion detection, unusual behavior, and changes in typical patterns. It's designed to adapt across different environments and use cases."
+      },
+      {
+        "question": "How accurate is the anomaly detection?",
+        "answer": "Our AI models have been trained on diverse datasets to ensure high accuracy rates, reducing false positives significantly. Continuous learning mechanisms improve detection over time."
+      },
+      {
+        "question": "Can I customize detection settings?",
+        "answer": "Absolutely! Users can tailor detection parameters based on specific requirements such as object types, activity significance, and alert thresholds."
+      },
+      {
+        "question": "What formats of video are supported?",
+        "answer": "Our technology supports various common formats including MP4, AVI, and MOV, allowing flexibility in video uploads for analysis."
+      },
+      {
+        "question": "How are alerts delivered?",
+        "answer": "Alerts can be configured to reach users via email, SMS, or within our dedicated app dashboard, ensuring timely notification of detected anomalies."
+      },
+      {
+        "question": "Is historical data analysis possible?",
+        "answer": "Yes! The system allows for the analysis of historical footage, providing insights into past anomalies and trends."
+      },
+      {
+        "question": "Can multiple video feeds be analyzed simultaneously?",
+        "answer": "Yes, our platform allows concurrent analysis of multiple video feeds, streamlining monitoring efforts over broader areas."
+      },
+      {
+        "question": "Do I need to have prior technical expertise?",
+        "answer": "No, the WaveSpeed AI platform is designed to be user-friendly, enabling straightforward setup and operation for users without technical backgrounds."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Enhance Your Video Monitoring?",
+    "description": "Start with free credits and see the transformation firsthand",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Ready to Detect Anomalies in Your Videos?",
+    "description": "Try WaveSpeed AI now and experience the effectiveness for yourself. No sign-up required.",
+    "ctaText": "Start Detecting Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Inpainting",
+  "meta": {
+    "description": "Revitalize your images by removing unwanted objects and filling in the gaps seamlessly with AI Inpainting. Perfect for product photos, e-commerce platforms, and enhancing creativity. Experience intuitive inpainting powered by advanced technology.",
+    "keywords": "AI inpainting, object removal AI, image restoration tool, e-commerce image enhancement, creative editing, product photo enhancement, WaveSpeed inpainting, user-friendly inpainting, adaptive content filling, automated object removal"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "AI Inpainting",
+    "subHeading": "Effortlessly Enhance Your Images",
+    "description": "Transform your images by removing unwanted elements and filling in the background seamlessly, all in just a few clicks. Experience the power of intelligent inpainting. Try it today!",
+    "tryText": "Get Started Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Inpainting Solution",
+    "left": {
+      "heading": "Traditional Editing Challenges",
+      "items": [
+        "Time-consuming image editing (hours of manual work)",
+        "Requires expensive software and skills",
+        "Limited flexibility in object removal",
+        "Not suitable for complex backgrounds",
+        "Frustrating for non-designers"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI Solution",
+      "items": [
+        "Instantly remove unwanted objects from images",
+        "Seamless background filling with AI accuracy",
+        "User-friendly interface; no design skills needed",
+        "Versatile for various image types",
+        "Affordable pricing without hidden fees"
+      ],
+      "tryText": "Try Now"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Effortless image enhancement in 4 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Image",
+        "text": "Choose the image you want to enhance or clean up.",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Select Areas to Remove",
+        "text": "Highlight the objects you wish to eliminate from the image.",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Let AI Work Its Magic",
+        "text": "Watch as our AI fills in the background and completes the photo.",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Enhanced Image",
+        "text": "Receive your polished image, ready for use in minutes.",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Enhance Your First Image →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Ideal for any visual content needs",
+    "items": [
+      "E-commerce product photo enhancement",
+      "Creating captivating marketing visuals",
+      "Restoring old images with missing parts",
+      "Designing social media posts without distractions",
+      "Improving personal photos for parties and events",
+      "Crafting professional images for presentations",
+      "Optimizing visuals for websites and blogs",
+      "Enhancing real estate images to attract buyers"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how businesses are transforming their images with AI",
+    "items": [
+      {
+        "tag": "Fashion Retail",
+        "heading": "E-commerce Image Upgrades",
+        "before": {
+          "label": "Before",
+          "text": "Cluttered images"
+        },
+        "after": {
+          "label": "After",
+          "text": "Clean and professional"
+        },
+        "value": "95%",
+        "key": "Image Quality Improvement",
+        "description": "Our product images now look top-notch! Instant visual improvements led to a 30% increase in online sales."
+      },
+      {
+        "tag": "Travel Industry",
+        "heading": "Hotel Photo Enhancement",
+        "before": {
+          "label": "Before",
+          "text": "Distracting elements"
+        },
+        "after": {
+          "label": "After",
+          "text": "Stunning visuals"
+        },
+        "value": "90%",
+        "key": "Visual Appeal Boost",
+        "description": "Enhanced photos allowed us to showcase our properties more effectively, increasing guest bookings significantly."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Inpainting Model Comparison",
+    "description": "Choose the right approach for your inpainting needs",
+    "items": [
+      "Standard Inpainting: Quick fixes for simple object removal",
+      "Advanced Inpainting: Complex backgrounds and intricate details",
+      "Adaptive Content Filling: Adjusts seamlessly to surroundings",
+      "User-friendly interface for all skill levels",
+      "High-resolution outputs ensuring quality preservation",
+      "Brilliant color matching and texture reproduction"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore powerful AI solutions for your visuals"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What types of images work best for AI Inpainting?",
+        "answer": "AI Inpainting performs optimally on images with clear subjects and backgrounds. High-resolution images give better results, but the AI remains effective on various types, including product photos and personal images."
+      },
+      {
+        "question": "Can I undo changes made during inpainting?",
+        "answer": "Yes! Our platform allows you to easily revert changes if you're not satisfied with the result. You can always re-edit the image for different outcomes."
+      },
+      {
+        "question": "Is it possible to use inpainting for batch image processing?",
+        "answer": "Currently, batch processing is not supported, but we're working to introduce this feature. For now, each image must be processed individually."
+      },
+      {
+        "question": "How detailed can the inpainting process be?",
+        "answer": "The AI is designed to handle both straightforward object removals and more complex backgrounds, allowing for an exceptionally detailed restoration of images."
+      },
+      {
+        "question": "Can I enhance quality after the inpainting is done?",
+        "answer": "Absolutely! You can apply additional enhancements using our suite of tools to further refine your images post-inpainting."
+      },
+      {
+        "question": "What is the pricing model for AI Inpainting?",
+        "answer": "WaveSpeed operates on a pay-as-you-go model, where you pay only for the images you enhance. There are no subscriptions or hidden fees."
+      },
+      {
+        "question": "What is the usual turnaround time for inpainting?",
+        "answer": "The inpainting process typically takes just a few minutes, thanks to the efficiency of our AI technologies."
+      },
+      {
+        "question": "Do I receive commercial licenses for the enhanced images?",
+        "answer": "Yes! All enhanced images through WaveSpeed include full commercial usage rights, allowing you to use them freely for marketing or sales."
+      },
+      {
+        "question": "What kind of support is available if I encounter issues?",
+        "answer": "We provide robust support including comprehensive guides, tutorials, and a responsive support team available via email and chat."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Enhance Your Images with AI?",
+    "description": "Start with our user-friendly platform - Experience the transformation",
+    "contactUsText": "Contact Us",
+    "tryText": "Get Started Now →"
+  },
+  "footer": {
+    "heading": "Transform Your Images Today!",
+    "description": "Try WaveSpeed AI Inpainting and see the difference firsthand. No sign-up required.",
+    "ctaText": "Start Inpainting Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

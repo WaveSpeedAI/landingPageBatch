@@ -1,0 +1,226 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Car Model Generator",
+  "meta": {
+    "description": "Create stunning and realistic car models effortlessly using AI. Perfect for automotive marketing and design, bringing your ideas to life in a fraction of the time. Discover the future of car modeling with WaveSpeed.",
+    "keywords": "AI car model generator, automotive design, 3D car modeling, car marketing tool, WaveSpeed AI, creative vehicle design, automotive visualization, digital car models, rapid prototyping, virtual automotive showcase"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Car Model Generator",
+    "subHeading": "Bring Your Automotive Visions to Life",
+    "description": "Generate breathtaking car models from concept to reality in minutes. No intricate design skills needed. Experience the cutting-edge AI technology that redefines the automotive design process.",
+    "tryText": "Start Creating Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Car Model Generator Solution",
+    "left": {
+      "heading": "Traditional Challenges",
+      "items": [
+        "Car modeling is time-intensive and costly",
+        "Complex software requiring extensive training",
+        "Difficult iterations and revisions",
+        "Limited access to high-quality resources",
+        "High costs make it inaccessible for startups"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Create detailed car models in just a few minutes",
+        "No specialized skills or software required - Just upload ideas",
+        "Rapid, AI-driven results for efficient workflows",
+        "Unlimited design iterations at your fingertips",
+        "Affordable costs tailored for any budget"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "From concept to car model in 4 straightforward steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Concept Art",
+        "text": "Upload sketches or inspiration for your vehicle design",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Add Specifications",
+        "text": "Provide details about dimensions, style, and features",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Select Style Features",
+        "text": "Choose from a variety of customization options and finishes",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Model",
+        "text": "Receive your high-quality 3D model in minutes",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Generate Your First Car Model →"
+  },
+  "endlessPossibilities": {
+    "heading": "Limitless Opportunities",
+    "description": "Ideal for automotive enthusiasts and professionals alike",
+    "items": [
+      "Custom car designs for marketing campaigns",
+      "Realistic prototypes for manufacturer presentations",
+      "Concept designs for automotive expos",
+      "Virtual showrooms and displays",
+      "Collaboration on design ideas with teams",
+      "Enhanced automotive simulations",
+      "Innovative vehicle features visualizations",
+      "Dynamic advertising assets for social media"
+    ]
+  },
+  "successStories": {
+    "heading": "Transformative Success Stories",
+    "description": "Explore how automotive businesses leverage AI for design innovation",
+    "items": [
+      {
+        "tag": "Automotive Design",
+        "heading": "Luxury Car Startup",
+        "before": {
+          "label": "Before",
+          "text": "6 weeks"
+        },
+        "after": {
+          "label": "After",
+          "text": "1 day"
+        },
+        "value": "98%",
+        "key": "Time Saved",
+        "description": "We expedited our model development for five new vehicles within a week. This allowed us to present to investors sooner."
+      },
+      {
+        "tag": "Automobile Retail",
+        "heading": "Online Car Retailer",
+        "before": {
+          "label": "Before",
+          "text": "Costly and slow"
+        },
+        "after": {
+          "label": "After",
+          "text": "Fast and affordable"
+        },
+        "value": "95%",
+        "key": "Cost Reduction",
+        "description": "Implemented AI car models to enhance our listings and saw a dramatic increase in customer engagement."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Model Comparison",
+    "description": "Select the model best suited for your automotive needs",
+    "items": [
+      "Standard Model: Basic design features, 3D rendering, quick turnarounds",
+      "Premium Model: Advanced detailing, realistic textures, longer creation times",
+      "Custom Specifications for unique requests",
+      "Real-time feedback and adjustments during modeling",
+      "Scalable designs for promotional use",
+      "Universal compatibility with 3D platforms"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Discover more innovative AI tools for automotive design"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What level of detail can I expect in the models?",
+        "answer": "The AI produces high-detail models with accurate proportions and customizable features, ready for rendering or integration into various applications."
+      },
+      {
+        "question": "Can I influence the design style of the models?",
+        "answer": "Absolutely! You can specify styles or themes as well as features through your specifications and concept art, allowing for personalized design."
+      },
+      {
+        "question": "What file formats are available for the downloaded models?",
+        "answer": "Generated models can be downloaded in several file formats including OBJ, STL, and FBX, compatible with most 3D software."
+      },
+      {
+        "question": "How fast is the model generation process?",
+        "answer": "Model generation typically takes just a few minutes depending on the complexity of the design. The AI streamlines the workflow significantly."
+      },
+      {
+        "question": "Are there any usage rights for the generated models?",
+        "answer": "Yes, you own full commercial rights to the models created through WaveSpeed, allowing for use in marketing, sales, and product development."
+      },
+      {
+        "question": "What supports are available for using the AI generator?",
+        "answer": "We offer extensive documentation, tutorial videos, and live support options to assist you in maximizing your use of the AI car model generator."
+      },
+      {
+        "question": "How do I get started with the car model generator?",
+        "answer": "Simply sign up and use your free credits to start creating car models. The interface is user-friendly to facilitate quick learning."
+      },
+      {
+        "question": "Can the generator handle requests for complex designs?",
+        "answer": "Yes, the generator is capable of handling complex specifications, though simpler designs will yield faster results. We recommend starting with clearer guidelines."
+      },
+      {
+        "question": "Is there a limit to how many models I can create?",
+        "answer": "There are no strict limits on the number of models you can create, making it easy to explore multiple designs and ideas."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Create Your First AI Car Model?",
+    "description": "Start with free credits - Experience the power of AI in automotive design",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Ready to Design Your Dream Car?",
+    "description": "Try WaveSpeed AI now and experience the transformation firsthand. No sign-up required.",
+    "ctaText": "Create Your Car Model Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

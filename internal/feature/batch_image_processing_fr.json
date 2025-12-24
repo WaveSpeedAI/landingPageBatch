@@ -1,0 +1,229 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Traitement par Lots d'Images",
+  "meta": {
+    "description": "Traitez plusieurs images à la fois sans effort avec WaveSpeed AI. Exploitez l'apprentissage machine avancé pour améliorer le contenu visuel de votre marque. Augmentez la productivité et gagnez du temps sans compromettre la qualité !",
+    "keywords": "traitement d'images par lots, amélioration d'images en vrac, outils d'images AI, logiciel de retouche d'images, solutions d'images pour e-commerce, WaveSpeed AI, traitement d'images rapide, automatiser les flux de travail d'images, affinage d'images professionnel, outil d'optimisation d'images"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils AI",
+        "items": [
+          [
+            "Outils AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Traitement par Lots d'Images",
+    "subHeading": "Boostez Votre Flux de Travail avec l'AI",
+    "description": "Améliorez et optimisez facilement plusieurs images en quelques minutes. Augmentez la productivité et maintenez la qualité sans le tracas de l'édition manuelle. Débloquez tout le potentiel de votre contenu visuel.",
+    "tryText": "Commencez Maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution de Traitement par Lots d'Images WaveSpeed AI",
+    "left": {
+      "heading": "Défis de l'Édition d'Images Traditionnelle",
+      "items": [
+        "Édition manuelle chronophage",
+        "Nécessite des compétences ou des logiciels spécialisés",
+        "Coûts élevés associés aux services professionnels",
+        "Difficulté à maintenir la cohérence entre les images",
+        "Capacité limitée à gérer de gros volumes"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed AI",
+      "items": [
+        "Traitez des centaines d'images en quelques minutes",
+        "Aucune compétence en design requise - Il suffit de télécharger les images",
+        "Résultats cohérents et de haute qualité à chaque fois",
+        "Intégration fluide dans votre flux de travail",
+        "Prix abordables adaptés à toutes les entreprises"
+      ],
+      "tryText": "Essayer"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment Ça Marche",
+    "description": "Rationalisez votre traitement d'images par lots en 4 étapes faciles",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Télécharger des Images",
+        "text": "Sélectionnez plusieurs images que vous souhaitez améliorer",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Choisir les Améliorations",
+        "text": "Sélectionnez les modifications désirées : luminosité, recadrage, filtres, etc.",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Aperçu des Changements",
+        "text": "Examinez les améliorations automatiques avant le traitement",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Télécharger les Images Traitées",
+        "text": "Recevez les images optimisées prêtes à l'emploi en quelques minutes",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Commencer le Traitement de Vos Images →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilités Illimitées",
+    "description": "Parfait pour diverses applications et industries",
+    "items": [
+      "Images de produits e-commerce",
+      "Matériaux marketing et publicités",
+      "Contenu des médias sociaux",
+      "Améliorations de portfolio",
+      "Améliorations de photos immobilières",
+      "Photographie d'événements",
+      "Images de nourriture et de recettes",
+      "Retouches de mode et de lookbooks"
+    ]
+  },
+  "successStories": {
+    "heading": "Vraies Histoires de Succès",
+    "description": "Découvrez comment les marques transforment leur contenu visuel avec l'AI",
+    "items": [
+      {
+        "tag": "E-commerce",
+        "heading": "Optimisation d'Images pour un Détail en Ligne",
+        "before": {
+          "label": "Avant",
+          "text": "Les retouches manuelles prenaient des semaines."
+        },
+        "after": {
+          "label": "Après",
+          "text": "Des centaines de photos traitées en 2 heures."
+        },
+        "value": "95%",
+        "key": "Temps Économisé",
+        "description": "Avec le traitement d'images par lots, nos téléchargements de produits se sont accélérés de manière spectaculaire, augmentant les conversions de ventes de 30%."
+      },
+      {
+        "tag": "Services de Photographie",
+        "heading": "Entreprise de Photographie de Mariage",
+        "before": {
+          "label": "Avant",
+          "text": "Édition lourde."
+        },
+        "after": {
+          "label": "Après",
+          "text": "Traitement d'images rapide et efficace."
+        },
+        "value": "90%",
+        "key": "Efficacité Améliorée",
+        "description": "Le traitement par lots des images nous a permis de livrer des galeries finales plus rapidement et d'augmenter la satisfaction des clients."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Options de Traitement d'Images",
+    "description": "Choisissez le bon traitement par lots pour vos besoins",
+    "items": [
+      "Haute Qualité : Sortie premium avec ajustements de couleur parfaits",
+      "Traitement Rapide : Amélioration rapide pour des besoins immédiats",
+      "Filtres Personnalisables : Adaptez le traitement à l'esthétique de votre marque",
+      "Compatibilité avec tous les formats d'image standard",
+      "Intégration Simple : Intégrez facilement dans les flux de travail existants"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils AI Connexes",
+    "description": "Découvrez d'autres outils AI puissants pour l'amélioration visuelle"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Combien d'images puis-je traiter à la fois ?",
+        "answer": "Vous pouvez traiter des centaines d'images simultanément, ce qui est idéal pour de grands projets ou des téléchargements en vrac."
+      },
+      {
+        "question": "Quels types d'améliorations puis-je appliquer ?",
+        "answer": "Vous pouvez choisir parmi des ajustements tels que la luminosité, le contraste, la netteté, le recadrage et appliquer des filtres."
+      },
+      {
+        "question": "Le traitement par lots affectera-t-il la qualité d'image ?",
+        "answer": "Non, nos algorithmes avancés garantissent que les images traitées conservent une haute qualité et fidélité."
+      },
+      {
+        "question": "Puis-je prévisualiser les changements avant de finaliser ?",
+        "answer": "Oui ! Vous aurez la possibilité de prévisualiser les améliorations avant de procéder au traitement par lots."
+      },
+      {
+        "question": "Quels formats d'image sont supportés ?",
+        "answer": "Nous supportons une large gamme de formats incluant JPG, PNG et TIFF garantissant une flexibilité maximale."
+      },
+      {
+        "question": "Y a-t-il une limite à la taille minimum ou maximum de mes images ?",
+        "answer": "Les images doivent idéalement mesurer au moins 512x512 pixels pour un traitement optimal, mais il n'y a pas de limite de taille maximum."
+      },
+      {
+        "question": "À quelle vitesse puis-je m'attendre à ce que le traitement soit terminé ?",
+        "answer": "Le traitement se termine généralement en quelques minutes, en fonction de la quantité et de la taille des images téléchargées."
+      },
+      {
+        "question": "Y a-t-il des frais cachés associés au service ?",
+        "answer": "Non, la tarification est simple sans frais cachés ni engagements mensuels."
+      },
+      {
+        "question": "Puis-je annuler ma demande de traitement ?",
+        "answer": "Oui, vous pouvez annuler la demande avant de finaliser le traitement à tout moment."
+      },
+      {
+        "question": "Que faire si j'ai des problèmes en utilisant l'outil ?",
+        "answer": "Notre équipe de support est disponible pour vous aider par e-mail ou chat en direct, et nous avons une FAQ complète pour vous guider."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Optimiser Vos Images ?",
+    "description": "Commencez avec vos crédits gratuits et découvrez la commodité du traitement par lots.",
+    "contactUsText": "Contactez-Nous",
+    "tryText": "Commencez le Traitement Maintenant →"
+  },
+  "footer": {
+    "heading": "Transformez Votre Processus d'Édition d'Images !",
+    "description": "Découvrez le traitement par lots d'images de WaveSpeed AI aujourd'hui. Aucune inscription nécessaire.",
+    "ctaText": "Commencez le Traitement Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

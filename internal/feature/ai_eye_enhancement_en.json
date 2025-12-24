@@ -1,0 +1,222 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Eye Enhancement",
+  "meta": {
+    "description": "Elevate your images with advanced AI eye enhancement technology. Perfect for e-commerce, portrait photography, and social media. Transform your visual content effortlessly!",
+    "keywords": "AI eye enhancement, image enhancement tool, photo retouching AI, eyes enhancement software, e-commerce photos, portrait enhancement, social media photo tools, visual content improvement, Shopify photo editing, Instagram photo enhancer, AI photography tools, video enhancement features"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Enhance Your Eye Details",
+    "subHeading": "Revitalize Portraits with Stunning Eye Clarity",
+    "description": "Transform your images with striking eye enhancements that bring life and depth to your visuals. Experience the magic of AI technology to elevate your photos effortlessly. Perfect for portraits, product photography, and social media. Click to start enhancing your images now!",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Eye Enhancement Solution",
+    "left": {
+      "heading": "Traditional Challenges",
+      "items": [
+        "Manual retouching is labor-intensive and time-consuming",
+        "Requires expensive software and expertise",
+        "Inconsistent results across different images",
+        "Difficult to achieve natural-looking enhancements",
+        "High cost and time barrier for small businesses"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Instantly enhance eye details in seconds",
+        "No technical skills required - Just upload images",
+        "Automated enhancements with realistic finishes",
+        "Achieve consistent results across all photos",
+        "Affordable pay-as-you-go pricing for all users"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Enhance eye details with three simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Image",
+        "text": "Upload your photo requiring eye enhancement",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Select Enhancement Level",
+        "text": "Choose from subtle, moderate, or dramatic enhancements",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Download Enhanced Image",
+        "text": "Receive your enhanced photo instantly with improved eye clarity",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "Enhance Your First Image →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Enhancement Opportunities",
+    "description": "Ideal for various photography needs",
+    "items": [
+      "Portrait retouching for photographers",
+      "E-commerce product image enhancements",
+      "Social media profile pictures",
+      "Model portfolios and headshots",
+      "Wedding and event photography",
+      "Fashion lookbooks and catalogs",
+      "Beauty product imagery",
+      "Real estate listing enhancements"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how users are transforming their imagery with AI",
+    "items": [
+      {
+        "tag": "Photography",
+        "heading": "Professional Portrait Enhancement",
+        "before": {
+          "label": "Before",
+          "text": "Standard Quality"
+        },
+        "after": {
+          "label": "After",
+          "text": "Vibrant, Eye-Catching Images"
+        },
+        "value": "95%",
+        "key": "Quality Improvement",
+        "description": "Our portrait shots now attract more clients thanks to stunning eye clarity achieved in moments."
+      },
+      {
+        "tag": "E-commerce",
+        "heading": "Product Photography for Online Store",
+        "before": {
+          "label": "Before",
+          "text": "Dull Images"
+        },
+        "after": {
+          "label": "After",
+          "text": "Enhanced Visual Appeal"
+        },
+        "value": "90%",
+        "key": "Engagement Boost",
+        "description": "The enhanced product images led to higher engagement and conversion rates on our e-commerce platform."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Enhancement Model Comparison",
+    "description": "Choose your enhancement style",
+    "items": [
+      "Subtle Enhancements: Natural looks, minimal adjustments, perfect for everyday use",
+      "Moderate Enhancements: Balanced improvements, ideal for professional photography",
+      "Dramatic Enhancements: Eye-catching details, great for fashion and advertising",
+      "All models include fast processing times and high-quality results",
+      "Commercial usage rights included for all enhanced images"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore more powerful AI tools for image enhancement"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What types of images can I enhance with this feature?",
+        "answer": "You can enhance any portrait or product photograph. Our technology works best with images that have clear eye details and good lighting. Upload high-resolution photos for optimal results."
+      },
+      {
+        "question": "How long does the enhancement process take?",
+        "answer": "The enhancement process is incredibly fast, typically completed in seconds. Depending on your selected enhancement level, results are generated almost instantaneously."
+      },
+      {
+        "question": "Can I control how much the eyes are enhanced?",
+        "answer": "Yes! You can choose from subtle, moderate, or dramatic enhancement levels to match your creative needs and desired outcome."
+      },
+      {
+        "question": "Will the enhancements look natural?",
+        "answer": "Absolutely! Our AI is designed to provide realistic enhancements that maintain the authenticity of the original image while improving the eye details."
+      },
+      {
+        "question": "Is there any software or technical skills required?",
+        "answer": "No technical skills or software are needed. Simply upload your image, select your enhancement level, and the AI handles the rest."
+      },
+      {
+        "question": "Can I use the enhanced images for commercial purposes?",
+        "answer": "Yes! All enhanced images come with full commercial rights, allowing you to use them for marketing, advertisements, and any other commercial needs."
+      },
+      {
+        "question": "What kind of support is available if I have issues?",
+        "answer": "We provide comprehensive support options including documentation, tutorials, and responsive customer service for any technical questions."
+      },
+      {
+        "question": "Are there hidden fees in the pricing model?",
+        "answer": "No hidden fees! We operate on a clear pay-as-you-go model with transparent pricing, so you only pay for the enhancements you need."
+      },
+      {
+        "question": "Can I enhance multiple images at once?",
+        "answer": "Yes! You can batch upload images for simultaneous enhancements, saving you time and effort while ensuring consistent quality."
+      },
+      {
+        "question": "What are the best use cases for eye enhancement technology?",
+        "answer": "This technology is perfect for professional photography, e-commerce, social media, and any scenario that requires attention-grabbing eye detail."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Enhance Your Images?",
+    "description": "Start with free credits - See the remarkable difference for yourself",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Transform Your Photos Today!",
+    "description": "Experience the power of AI eye enhancement now with no sign-up required.",
+    "ctaText": "Enhance Photos Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Talking Head",
+  "meta": {
+    "description": "Create captivating AI-generated talking head videos from text or scripts with WaveSpeed AI. Perfect for video content creators, educators, and marketers looking to enhance engagement and streamline production. Experience the future of video creation.",
+    "keywords": "AI talking head, text to video, video content generator, educational video tool, WaveSpeed AI, virtual presenters, marketing videos, video automation, content creation tool, AI video solutions, e-learning video maker"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Text to Video with AI Talking Head",
+    "subHeading": "Bring Scripts to Life with Realistic Voices",
+    "description": "Transform your written content into engaging talking head videos effortlessly. No filming or complex software required. Leverage our advanced AI technology to create videos that enhance viewer interaction and comprehension. Start creating your own AI talking head video now!",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Talking Head Solution",
+    "left": {
+      "heading": "Traditional Challenges",
+      "items": [
+        "Video production is costly and time-consuming",
+        "Requires actors, filming, and production teams",
+        "Editing and post-production delays (days to weeks)",
+        "Limited ability to customize characters and voices",
+        "High investment barrier for small creators"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Create a talking head video in minutes from your script",
+        "No filming, equipment, or actors necessary",
+        "Instant video generation with customizable avatars",
+        "Choose from diverse voice options and styles",
+        "Flexible pricing that suits all budgets"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Transform text into dynamic video in 4 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Input Text",
+        "text": "Enter your script or dialogue for the talking head",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Select Avatar",
+        "text": "Choose from a variety of customizable character avatars",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Choose Voice",
+        "text": "Pick a voice that matches the tone and style of your content",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Video",
+        "text": "Receive your talking head video in minutes with full rights",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Generate Your First Video →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Ideal for a variety of applications",
+    "items": [
+      "Educational videos for teachers and online courses",
+      "Product demonstrations and tutorials",
+      "Corporate training and onboarding videos",
+      "Engaging marketing content for social media",
+      "Personalized video messages for customers",
+      "Virtual presentations and webinars",
+      "News reports or announcements",
+      "Creative storytelling and animations"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how others are transforming their communication with AI",
+    "items": [
+      {
+        "tag": "Education",
+        "heading": "Online Course Instructor",
+        "before": {
+          "label": "Before",
+          "text": "Static slides"
+        },
+        "after": {
+          "label": "After",
+          "text": "Dynamic videos"
+        },
+        "value": "85%",
+        "key": "Engagement Increase",
+        "description": "Transitioning to talking head videos increased student engagement significantly, making learning experiences more interactive."
+      },
+      {
+        "tag": "Marketing",
+        "heading": "E-commerce Brand",
+        "before": {
+          "label": "Before",
+          "text": "Low conversion"
+        },
+        "after": {
+          "label": "After",
+          "text": "High engagement"
+        },
+        "value": "50%",
+        "key": "Sales Boost",
+        "description": "Utilizing AI talking heads for product showcases boosted our online sales conversion rate remarkably."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Model Comparison",
+    "description": "Select the right model for your needs",
+    "items": [
+      "Standard Avatar: Lifelike representation with basic voice, ideal for simple scripts and presentations",
+      "Premium Avatar: Enhanced realism with customizable features and professional-grade voice options",
+      "Text-to-speech technology provides natural pacing and inflection",
+      "Multiple language support for international content",
+      "Quick generation time for instant results",
+      "Full commercial rights for all generated videos"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore more innovative AI solutions for your content needs"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What type of content works best?",
+        "answer": "The AI model excels with clear and concise scripts, suitable for various topics, ensuring that your video resonates with your target audience."
+      },
+      {
+        "question": "Can I customize the appearance of the avatars?",
+        "answer": "Yes! You can modify facial features, clothing, and accessories to align with your brand or message."
+      },
+      {
+        "question": "How do I ensure the voice sounds natural?",
+        "answer": "Choose from our extensive library of voices, each designed to convey emotion and clarity, ensuring your message is engaging."
+      },
+      {
+        "question": "What formats are available for video download?",
+        "answer": "Videos can be exported in high-quality formats compatible with most platforms including MP4 for easy sharing and distribution."
+      },
+      {
+        "question": "Is there a limit to the length of the script?",
+        "answer": "Scripts can be as short or long as necessary; however, we recommend keeping them concise for optimal engagement."
+      },
+      {
+        "question": "Are there any hidden costs or fees?",
+        "answer": "No hidden fees! Our straightforward pricing model charges only for the videos created, without subscriptions."
+      },
+      {
+        "question": "Can I generate multiple videos simultaneously?",
+        "answer": "Absolutely! You can create numerous talking head videos in parallel, saving you time and increasing productivity."
+      },
+      {
+        "question": "Do I retain ownership of the videos I create?",
+        "answer": "Yes, all videos generated are yours to use commercially without additional licensing fees."
+      },
+      {
+        "question": "What kind of support is available if I need help?",
+        "answer": "We offer extensive support through documentation, tutorials, and a responsive customer service team available via email and chat."
+      },
+      {
+        "question": "How long does it take to receive my video?",
+        "answer": "Most videos are generated and ready for download within minutes, allowing for rapid content creation."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Create Your First AI Talking Head Video?",
+    "description": "Start with free credits and experience the transformation",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Ready to Elevate Your Content?",
+    "description": "Try WaveSpeed AI now and witness the innovation for yourself. No sign-up required.",
+    "ctaText": "Create Your Video Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

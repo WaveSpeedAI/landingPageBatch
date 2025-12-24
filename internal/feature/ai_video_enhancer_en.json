@@ -1,0 +1,230 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Video Enhancer",
+  "meta": {
+    "description": "Enhance video quality effortlessly with WaveSpeed AI. Using cutting-edge algorithms, turn your average footage into cinematic masterpieces. Ideal for businesses and content creators. Black Friday discounts available!",
+    "keywords": "AI video enhancer, video quality improvement, video upscaling AI, cinematic video tool, WaveSpeed, video enhancement, Black Friday video tools, content creator tool, marketing video enhancement, e-commerce video tool"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Video Enhancement Made Easy",
+    "subHeading": "Transform Your Footage into Stunning Visuals",
+    "description": "Lift your videos to the next level with WaveSpeed's AI Video Enhancer. Enhance quality, clarity, and depth in just a few clicks. Perfect for social media creators, marketers, and anyone looking to create impressive content.",
+    "tryText": "Get Started Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Video Enhancer Solution",
+    "left": {
+      "heading": "Traditional Video Enhancement Challenges",
+      "items": [
+        "High costs for professional video editing ($1000-3000 per project)",
+        "Requires expensive software and plugins",
+        "Time-consuming workflows (1-3 weeks)",
+        "Limited processing capabilities",
+        "Inaccessible for smaller content creators"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Instantly enhance videos with AI technology",
+        "No high-end software required - Just upload your video",
+        "Quality improvements in minutes with just a click",
+        "Unlimited upscaling and adjustments",
+        "Flexible pay-as-you-go model that suits all budgets"
+      ],
+      "tryText": "Enhance Video"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Elevate your videos in 4 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Video",
+        "text": "Select the video you want to enhance for quality",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Choose Enhancement Level",
+        "text": "Select the desired enhancement level (e.g., 'Premium' or 'Standard')",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Preview Changes",
+        "text": "Get a quick preview before finalizing the enhancement",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Enhanced Video",
+        "text": "Receive your improved video ready for distribution",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Enhance Your First Video →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Applications",
+    "description": "Enhance videos for every purpose",
+    "items": [
+      "Marketing videos for products",
+      "Social media posts boost",
+      "Corporate training videos",
+      "Event recordings",
+      "Real estate virtual tours",
+      "Film trailers and teasers",
+      "Content creator enhancements",
+      "E-learning video improvement"
+    ]
+  },
+  "successStories": {
+    "heading": "Transformative Success Stories",
+    "description": "Discover how others have supercharged their video projects",
+    "items": [
+      {
+        "tag": "Content Creation",
+        "heading": "YouTube Channel Growth",
+        "before": {
+          "label": "Before",
+          "text": "Standard quality"
+        },
+        "after": {
+          "label": "After",
+          "text": "Cinematic quality"
+        },
+        "value": "85%",
+        "key": "Quality Increase",
+        "description": "We improved our video quality using the AI enhancer. Viewer retention rates soared by 50%."
+      },
+      {
+        "tag": "E-commerce",
+        "heading": "Product Promotional Videos",
+        "before": {
+          "label": "Before",
+          "text": "Basic quality"
+        },
+        "after": {
+          "label": "After",
+          "text": "High-definition quality"
+        },
+        "value": "90%",
+        "key": "Engagement Boost",
+        "description": "Our videos captivated customers, leading to a 30% increase in conversion rates from promotional content."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Enhancement Options Comparison",
+    "description": "Select the best enhancement mode for your needs",
+    "items": [
+      "Standard: Basic quality enhancement, good for casual usage",
+      "Premium: High-definition upgrades for professional projects",
+      "Cinematic: Advanced cinematic quality for movie trailers",
+      "Multiple resolution outputs available",
+      "Quick processing time for efficiency",
+      "Satisfaction guarantee on quality improvements"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Explore Related AI Tools",
+    "description": "Discover more powerful AI features for your video needs"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What video formats are supported for enhancement?",
+        "answer": "We support all major video formats including MP4, AVI, and MOV. Ensure your video is of good quality prior to enhancement for best results."
+      },
+      {
+        "question": "Can I enhance multiple videos at once?",
+        "answer": "Yes! Our platform supports batch processing allowing you to enhance several videos simultaneously for increased efficiency."
+      },
+      {
+        "question": "How long does the enhancement process take?",
+        "answer": "Most enhancements are completed within minutes, but processing time may vary depending on video length and selected quality settings."
+      },
+      {
+        "question": "Is there a limit to how many times I can use the service?",
+        "answer": "No limits! You can enhance as many videos as you need at your convenience, with pricing based only on usage."
+      },
+      {
+        "question": "Do enhanced videos include commercial licensing?",
+        "answer": "Yes! All enhanced videos come with full commercial rights for usage in marketing and personal projects."
+      },
+      {
+        "question": "What support is available if I encounter issues?",
+        "answer": "We provide thorough documentation, FAQs, and a support team accessible via live chat and email for any technical challenges."
+      },
+      {
+        "question": "How does the pricing work for video enhancements?",
+        "answer": "Our pricing is pay-as-you-go, so you pay only for the enhancements you perform. No subscriptions or hidden fees are involved."
+      },
+      {
+        "question": "Can I expect a preview before finalizing enhancements?",
+        "answer": "Absolutely! You will see a preview of enhancements before downloading the final video, ensuring satisfaction with the outcome."
+      },
+      {
+        "question": "What are the best use cases for the AI Video Enhancer?",
+        "answer": "This tool is ideal for businesses creating promotional content, influencers enhancing videos for social media, and educators upgrading online course materials."
+      },
+      {
+        "question": "Will the service keep my videos private?",
+        "answer": "Yes, all uploaded videos are securely processed and will not be shared with third parties without your consent."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Enhance Your Videos?",
+    "description": "Start with free credits today - Experience the transformation yourself",
+    "contactUsText": "Contact Us",
+    "tryText": "Start Enhancing Now →"
+  },
+  "footer": {
+    "heading": "Transform Your Video Quality Today!",
+    "description": "Try WaveSpeed AI's enhancement tool and see the results first-hand. No sign-up needed.",
+    "ctaText": "Enhance Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

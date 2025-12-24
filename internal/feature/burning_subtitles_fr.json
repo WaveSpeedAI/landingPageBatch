@@ -1,0 +1,230 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Générateur de Sous-titres Brûlants",
+  "meta": {
+    "description": "Améliorez vos vidéos en ajoutant des sous-titres brûlants dynamiques qui captivent l'attention des spectateurs. Parfait pour le marketing, les tutoriels et le contenu sur les réseaux sociaux.",
+    "keywords": "sous-titres brûlants, générateur de sous-titres, sous-titres vidéo, sous-titres IA, contenu vidéo engageant, animation de sous-titres, outil vidéo marketing, outil vidéo e-commerce, WaveSpeed AI, amélioration vidéo sur les réseaux sociaux, vidéos tutoriels"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Sous-titres Brûlants pour Vidéos",
+    "subHeading": "Transformez l'Engagement de Votre Vidéo avec des Sous-titres Animés",
+    "description": "Capturez et maintenez l'attention des spectateurs avec notre fonction de sous-titres brûlants accrocheurs. Ajoutez facilement des sous-titres animés à n'importe quelle vidéo, rendant votre contenu accessible et engageant en quelques minutes.",
+    "tryText": "Essayez-le Maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution de Sous-titres Brûlants WaveSpeed AI",
+    "left": {
+      "heading": "Défis des Sous-titres Traditionnels",
+      "items": [
+        "La création manuelle de sous-titres prend du temps",
+        "Les sous-titres statiques n'engagent pas les spectateurs",
+        "Options de design limitées pour les sous-titres",
+        "Difficulté à synchroniser les sous-titres avec l'audio",
+        "Nécessite une expertise en logiciels de montage vidéo"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed AI",
+      "items": [
+        "Générez instantanément des sous-titres brûlants animés pour les vidéos",
+        "Améliorez l'engagement des spectateurs avec un texte dynamique",
+        "Styles de sous-titres entièrement personnalisables et timings",
+        "Intégration fluide avec tout contenu vidéo",
+        "Tarification abordable à l'utilisation pour toutes les entreprises"
+      ],
+      "tryText": "Essayez"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment ça Marche",
+    "description": "Ajoutez des sous-titres brûlants époustouflants à vos vidéos en 4 étapes faciles",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Télécharger la Vidéo",
+        "text": "Téléchargez le fichier vidéo que vous souhaitez améliorer avec des sous-titres",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Ajouter du Texte",
+        "text": "Saisissez le texte pour vos sous-titres brûlants à afficher pendant la vidéo",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Personnaliser le Style",
+        "text": "Choisissez parmi une variété de styles d'animation et d'options de design pour vos sous-titres",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Télécharger la Vidéo",
+        "text": "Recevez votre vidéo avec des sous-titres brûlants dans un format époustouflant",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Générez Votre Première Vidéo →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilités Infinies",
+    "description": "Parfait pour un contenu engageant sur diverses plateformes",
+    "items": [
+      "Améliorez les vidéos marketing pour les réseaux sociaux",
+      "Créez un contenu accessible pour des tutoriels et des guides",
+      "Ajoutez du style aux démos de produits et aux critiques",
+      "Augmentez l'engagement dans le contenu de streaming en direct",
+      "Augmentez la rétention dans les vidéos éducatives",
+      "Transformez les présentations de webinaires pour être plus dynamiques",
+      "Utilisez dans des campagnes publicitaires pour un impact supérieur",
+      "Élevez les vlogs avec des sous-titres captivants"
+    ]
+  },
+  "successStories": {
+    "heading": "Histoires de Succès Réelles",
+    "description": "Découvrez comment les entreprises élèvent leur contenu vidéo avec des sous-titres brûlants",
+    "items": [
+      {
+        "tag": "E-commerce",
+        "heading": "Vidéos Produits Dynamiques",
+        "before": {
+          "label": "Avant",
+          "text": "Engagement faible"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Engagement élevé"
+        },
+        "value": "150%",
+        "key": "Augmentation de l'Engagement",
+        "description": "Nos vidéos produits ont connu une forte augmentation de la rétention des spectateurs après l'ajout de sous-titres brûlants. Les ventes ont suivi le mouvement!"
+      },
+      {
+        "tag": "Éducation",
+        "heading": "Modules d'Apprentissage Interactifs",
+        "before": {
+          "label": "Avant",
+          "text": "Difficile à suivre"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Clair et engageant"
+        },
+        "value": "80%",
+        "key": "Taux de Rétention",
+        "description": "Les étudiants ont signalé une meilleure compréhension des matériaux, beaucoup exprimant une préférence pour notre nouveau format vidéo."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison d'Animation de Sous-titres",
+    "description": "Choisissez le meilleur style d'animation pour vos sous-titres",
+    "items": [
+      "Fondu en Entrée/Sortie : Classique mais efficace pour tous les types de vidéos",
+      "Effet de Rebond : Ajoute de l'énergie à un contenu engageant",
+      "Machine à Écrire : Attire l'attention lentement, idéal pour raconter des histoires",
+      "Glissement : Entrée fluide pour des présentations dynamiques",
+      "Animation de Mise en Évidence : Met en valeur les points clés dans les vidéos éducatives",
+      "Effet de Glitch : Idéal pour le contenu technologique ou de jeu pour une touche moderne"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils IA Connexes",
+    "description": "Explorez d'autres outils IA puissants pour améliorer vos vidéos"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quel format doivent avoir mes vidéos pour les sous-titres ?",
+        "answer": "Nous prenons en charge les formats vidéo courants, y compris MP4, AVI et MOV. Assurez-vous que vos vidéos sont claires et bien structurées pour de meilleurs résultats."
+      },
+      {
+        "question": "Puis-je personnaliser l'apparence des sous-titres ?",
+        "answer": "Absolument ! Notre outil vous permet de choisir parmi plusieurs styles, couleurs et animations pour parfaitement correspondre à l'esthétique de votre vidéo."
+      },
+      {
+        "question": "Combien de temps faut-il pour ajouter des sous-titres brûlants ?",
+        "answer": "Le processus est rapide ; selon la longueur de votre vidéo, attendez-vous à ce que les sous-titres soient prêts en seulement quelques minutes!"
+      },
+      {
+        "question": "Y a-t-il des restrictions sur la longueur de la vidéo ?",
+        "answer": "Aucune restriction sur la longueur de la vidéo, mais les vidéos plus longues peuvent prendre un peu plus de temps à traiter pour la génération de sous-titres."
+      },
+      {
+        "question": "Puis-je modifier les sous-titres après les avoir générés ?",
+        "answer": "Oui ! Vous pouvez apporter des modifications au texte, au timing et aux styles même après la génération initiale."
+      },
+      {
+        "question": "Quels sont les meilleurs cas d'utilisation pour les sous-titres brûlants ?",
+        "answer": "Parfait pour améliorer les vidéos de produits, les tutoriels, le contenu marketing et toute situation où capturer l'attention du spectateur est crucial."
+      },
+      {
+        "question": "Les droits commerciaux sont-ils inclus avec les vidéos générées ?",
+        "answer": "Oui, vous avez des droits commerciaux complets pour utiliser les vidéos avec des sous-titres brûlants dans vos projets sans frais supplémentaires."
+      },
+      {
+        "question": "Quel support est disponible si j'ai des problèmes ?",
+        "answer": "Visitez notre page de support pour des guides de dépannage, ou contactez directement notre équipe de support pour une assistance immédiate."
+      },
+      {
+        "question": "Puis-je essayer cette fonctionnalité gratuitement ?",
+        "answer": "Oui ! Les nouveaux utilisateurs reçoivent des crédits gratuits pour tester la fonctionnalité de sous-titres brûlants dans leurs vidéos."
+      },
+      {
+        "question": "Que se passe-t-il si je dépasse mes crédits ?",
+        "answer": "Vous pouvez facilement acheter des crédits supplémentaires selon vos besoins - notre modèle à l'utilisation vous évite toute tracas."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Améliorer Vos Vidéos avec des Sous-titres Brûlants ?",
+    "description": "Commencez avec des crédits gratuits - Découvrez la différence aujourd'hui !",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Essayez-le Maintenant →"
+  },
+  "footer": {
+    "heading": "Prêt à Transformer Vos Vidéos ?",
+    "description": "Essayez WaveSpeed AI maintenant et constatez la différence par vous-même. Aucun besoin de s'inscrire.",
+    "ctaText": "Sous-titres Brûlants Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

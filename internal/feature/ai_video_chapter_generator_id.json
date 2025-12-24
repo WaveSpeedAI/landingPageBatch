@@ -1,0 +1,230 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Generator Bab Video AI",
+  "meta": {
+    "description": "Dengan mudah buat bab video menarik dengan AI. Sempurna untuk kursus online, webinar, dan pembuat konten. Tingkatkan pengalaman penonton dan tingkatkan retensi!",
+    "keywords": "generator bab video AI, segmentasi video, penanda konten, video pembuatan AI, teknologi video interaktif, alat kursus online, peningkatan keterlibatan, bab video tutorial, alat konten pendidikan, alat video webinar, pembuatan konten"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Buat Bab Video Anda",
+    "subHeading": "Segera Buat Bab Video Menarik",
+    "description": "Ubah video panjang menjadi pengalaman interaktif dengan bab yang dihasilkan AI. Tingkatkan keterlibatan dan navigasi untuk audiens Anda dalam hitungan detik. Coba sekarang!",
+    "tryText": "Coba Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Generator Bab Video AI WaveSpeed AI",
+    "left": {
+      "heading": "Tantangan Pengeditan Video Tradisional",
+      "items": [
+        "Pembuatan bab manual memakan waktu",
+        "Memerlukan keterampilan pengeditan teknis",
+        "Sulit untuk menjaga penonton tetap terlibat sepanjang waktu",
+        "Kustomisasi terbatas untuk segmen berbeda",
+        "Sering menyebabkan penonton meninggalkan"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeed AI",
+      "items": [
+        "Pembuatan otomatis bab video dalam beberapa menit",
+        "Tidak diperlukan keterampilan pengeditan - Cukup unggah video Anda",
+        "Tingkatkan keterlibatan penonton dengan navigasi yang mudah",
+        "Bab yang dapat disesuaikan berdasarkan tema konten",
+        "Model harga terjangkau, bayar per bab"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Dari video penuh hingga bab tersegmentasi dalam 4 langkah mudah",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Video Anda",
+        "text": "Cukup unggah konten video panjang Anda",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Pilih Penanda Bab",
+        "text": "Pilih bagaimana Anda ingin bab didefinisikan (misalnya, topik, interval waktu)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Kustomisasi Bab",
+        "text": "Tambahkan judul dan deskripsi untuk setiap bab agar jelas",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Unduh Video Bab Anda",
+        "text": "Dapatkan video interaktif Anda dengan bab lengkap dalam beberapa saat",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Buat Video Bab Pertama Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Penggunaan Tanpa Batas",
+    "description": "Ideal untuk berbagai aplikasi dan industri",
+    "items": [
+      "Segmen kursus online untuk navigasi siswa",
+      "Sorotan webinar untuk referensi mudah",
+      "Video YouTube dengan pembuatan bab yang ditingkatkan",
+      "Modul pelatihan bisnis dengan topik yang jelas",
+      "Video demo produk dengan fitur tersegmentasi",
+      "Rekaman acara dengan navigasi yang ramah penonton",
+      "Tutorial pendidikan dengan poin kunci yang ditandai",
+      "Konten streaming untuk keterlibatan penonton yang lebih baik"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Temukan bagaimana pengguna merevolusi pengiriman konten mereka dengan AI",
+    "items": [
+      {
+        "tag": "E-Learning",
+        "heading": "Pembuat Kursus Online",
+        "before": {
+          "label": "Sebelum",
+          "text": "Pembuatan bab yang memakan tenaga"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Pembuatan bab instan"
+        },
+        "value": "95%",
+        "key": "Waktu Hemat",
+        "description": "Bab membantu siswa menjelajahi kursus dengan efektif. Umpan balik meningkat secara dramatis!"
+      },
+      {
+        "tag": "Pelatihan Perusahaan",
+        "heading": "Video Pelatihan Perusahaan",
+        "before": {
+          "label": "Sebelum",
+          "text": "Video panjang yang membingungkan"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Terstruktur dengan bab"
+        },
+        "value": "90%",
+        "key": "Peningkatan Keterlibatan",
+        "description": "Karyawan sekarang dengan mudah menemukan bagian yang relevan. Tingkat penyelesaian pelatihan melonjak."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Model AI",
+    "description": "Pilih model terbaik untuk kebutuhan pembuatan bab Anda",
+    "items": [
+      "Pembuatan Bab Standar: Metode pembuatan segmen cepat dengan AI dasar",
+      "Bab Kontekstual Lanjutan: Memahami konteks konten video untuk saran bab yang lebih tersirat",
+      "Tanda waktu yang dapat disesuaikan dengan preferensi yang ditentukan pengguna",
+      "Pembaruan waktu nyata saat video diedit atau diubah",
+      "Bekerja dengan mulus dengan berbagai jenis dan format video",
+      "Alat navigasi bab terintegrasi untuk penonton"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Temukan lebih banyak alat yang didorong AI untuk pembuatan konten yang ditingkatkan"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Semua yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Jenis video apa yang dapat diuntungkan dari pembuatan bab?",
+        "answer": "Konten panjang seperti kursus online, webinar, konferensi, atau tutorial dapat memanfaatkan pembuatan bab untuk meningkatkan pengalaman dan retensi penonton."
+      },
+      {
+        "question": "Dapatkah saya menyesuaikan judul dan deskripsi bab?",
+        "answer": "Ya! Anda memiliki kontrol penuh untuk menyesuaikan judul dan deskripsi setiap bab untuk memastikan kejelasan dan relevansi bagi audiens Anda."
+      },
+      {
+        "question": "Seberapa cepat saya dapat menghasilkan video berbab?",
+        "answer": "Proses pembuatan cepat, biasanya selesai dalam beberapa menit tergantung pada panjang video."
+      },
+      {
+        "question": "Apakah ada batasan jumlah bab yang dapat saya buat?",
+        "answer": "Tidak, Anda dapat membuat sebanyak mungkin bab yang diperlukan untuk konten video Anda!"
+      },
+      {
+        "question": "Format video apa yang didukung untuk diunggah?",
+        "answer": "Kami menerima berbagai format termasuk MP4, AVI, dan MOV untuk integrasi yang mulus."
+      },
+      {
+        "question": "Bagaimana cara kerja penetapan harga untuk pembuatan bab?",
+        "answer": "Harga kami berdasarkan model bayar per bab, memungkinkan Anda mengelola biaya dengan efisien sesuai kebutuhan Anda."
+      },
+      {
+        "question": "Dapatkah saya menggunakan penanda bab untuk siaran langsung?",
+        "answer": "Ya! Anda dapat membuat bab untuk siaran langsung yang direkam, menjadikannya lebih mudah diakses oleh penonton setelah siaran."
+      },
+      {
+        "question": "Apakah ada hak komersial yang terkait dengan video yang dihasilkan?",
+        "answer": "Semua video yang diproses melalui platform kami dilengkapi dengan hak komersial penuh untuk penggunaan tanpa batas di semua media."
+      },
+      {
+        "question": "Sumber daya dukungan apa yang tersedia untuk pemecahan masalah?",
+        "answer": "Kami menawarkan dukungan luas termasuk dokumentasi, tutorial video, dan tim dukungan khusus untuk membantu dengan masalah apapun."
+      },
+      {
+        "question": "Apakah ada opsi untuk pemrosesan batch beberapa video?",
+        "answer": "Ya, Anda dapat memproses beberapa video secara batch untuk memperlancar alur kerja pembuatan konten Anda."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Membuat Bab Video Menarik?",
+    "description": "Mulai dengan kredit gratis untuk mengalaminya sendiri",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Coba Sekarang →"
+  },
+  "footer": {
+    "heading": "Transformasikan Konten Video Anda Hari Ini!",
+    "description": "Rasakan WaveSpeed AI dan tingkatkan bab video Anda. Tidak diperlukan pendaftaran.",
+    "ctaText": "Mulai Membuat Bab Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi."
+  }
+}

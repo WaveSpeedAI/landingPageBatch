@@ -1,0 +1,229 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - AI Meme Generator",
+  "meta": {
+    "description": "Erstellen Sie mühelos lustige, auffällige Memes mit WaveSpeed AI. Perfekt für soziale Medien, Marketing und virale Inhalte. Schließen Sie sich der Meme-Revolution an!",
+    "keywords": "AI Meme Generator, Meme Maker, Memes online erstellen, viralen Meme Creator, soziale Medien Memes, Marketing Memes, Meme Vorlagen, sofortige Meme Erstellung, Meme Editor, Text auf Bild Tool, lustigen Meme Generator"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "Meme Generator",
+    "subHeading": "Erstellen Sie in Sekunden lustige Memes",
+    "description": "Entfesseln Sie Ihre Kreativität mit unserem KI-gestützten Meme-Generator. Produzieren Sie Memes, die resonieren und ansprechen, alles nur wenige Klicks entfernt. Lassen Sie Ihre Inhalte heute viral gehen!",
+    "tryText": "Generieren Sie Ihr erstes Meme jetzt",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI Meme Generator Lösung",
+    "left": {
+      "heading": "Traditionelle Herausforderungen",
+      "items": [
+        "Das richtige Meme-Template finden",
+        "Bearbeitungssoftware kann komplex sein",
+        "Zeitaufwändiger Prozess zur Erstellung von Memes",
+        "Begrenzte Designfähigkeiten oder Ressourcen",
+        "Kostenpflichtige Tools und Abonnements"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Lösung",
+      "items": [
+        "Aus einer umfangreichen Bibliothek von Vorlagen auswählen",
+        "Einfache, intuitive Benutzeroberfläche - Fügen Sie einfach Text hinzu",
+        "Memes in weniger als 1 Minute generieren",
+        "Unbegrenzte Anpassungsmöglichkeiten",
+        "Erschwingliches Preismodell pro Meme"
+      ],
+      "tryText": "Jetzt erstellen"
+    },
+    "howItWorks": {
+      "heading": "So funktioniert es",
+      "description": "Gestalten Sie Ihr Meme in 4 einfachen Schritten",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Vorlage wählen",
+          "text": "Wählen Sie eine Meme-Vorlage aus unserer Bibliothek",
+          "color": "#3b82f6",
+          "icon": "BlueStar"
+        },
+        {
+          "number": "2",
+          "title": "Fügen Sie Ihren Text ein",
+          "text": "Fügen Sie Ihre eigenen Überschriften und Texte zum Meme hinzu",
+          "color": "#a855f7",
+          "icon": "PurpleCircle"
+        },
+        {
+          "number": "3",
+          "title": "Design anpassen",
+          "text": "Passen Sie Textgröße, Schriftart und Farbe nach Ihren Wünschen an",
+          "color": "#14b8a6",
+          "icon": "GreenSquares"
+        },
+        {
+          "number": "4",
+          "title": "Meme herunterladen",
+          "text": "Speichern Sie Ihr Meme sofort und teilen Sie es online",
+          "color": "#fb923c",
+          "icon": "OrangeHex"
+        }
+      ],
+      "generateText": "Generieren Sie Ihr erstes Meme →"
+    },
+    "endlessPossibilities": {
+      "heading": "Endless Meme Möglichkeiten",
+      "description": "Ideal für jeden Anlass",
+      "items": [
+        "Beiträge und Shares in sozialen Medien",
+        "Marketingkampagnen und Werbung",
+        "Veranstaltungsbewerbungen und Ankündigungen",
+        "Reaktionsmemes für aktuelle Themen",
+        "Humorvolle Inhalte für Blogs und Websites",
+        "Fesselnde Memes für Newsletter",
+        "Benutzerdefinierte Memes für Ihre Marke",
+        "Memes zur Community-Interaktion"
+      ]
+    },
+    "successStories": {
+      "heading": "Echte Erfolgsgeschichten",
+      "description": "Sehen Sie, wie andere ihre Inhalte mit KI verbessert haben",
+      "items": [
+        {
+          "tag": "Modemarke",
+          "heading": "Engagement in sozialen Medien",
+          "before": {
+            "label": "Vorher",
+            "text": "Niedrige Interaktionsraten"
+          },
+          "after": {
+            "label": "Nachher",
+            "text": "Engagement gesteigert"
+          },
+          "value": "150%",
+          "key": "Engagement-Steigerung",
+          "description": "Mit unserem Meme-Generator haben wir ansprechende Memes für jeden Kollektionstart erstellt, was zu einem bemerkenswerten Anstieg der Interaktion führte."
+        },
+        {
+          "tag": "Food Blogger",
+          "heading": "Virale Inhaltserstellung",
+          "before": {
+            "label": "Vorher",
+            "text": "Um Shares gekämpft"
+          },
+          "after": {
+            "label": "Nachher",
+            "text": "Wurde viral"
+          },
+          "value": "300%",
+          "key": "Share-Steigerung",
+          "description": "Durch den Einsatz von humorvollen Memes über Essens-Trends wurde mein Inhalt auf mehreren Plattformen viral und führte zu einem erheblichen Wachstum des Publikums."
+        }
+      ]
+    }
+  },
+  "modelComparison": {
+    "heading": "Meme Erstellung Vergleich",
+    "description": "Wählen Sie den richtigen Ansatz für Ihre Memes",
+    "items": [
+      "Vorlagenbibliothek: Tausende von einsatzbereiten Vorlagen",
+      "Sofortige Erstellung: Memes in weniger als einer Minute produzieren",
+      "Textanpassung: Verschiedene Schriftarten und Stile verfügbar",
+      "Bild-Upload: Verwenden Sie Ihre eigenen Bilder und Grafiken",
+      "Soziale Freigabe: Einfache Downloads und einfaches Teilen über Plattformen"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ähnliche KI-Tools",
+    "description": "Entdecken Sie weitere innovative Tools für Ihre Inhaltsbedürfnisse"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welche Arten von Memes kann ich erstellen?",
+        "answer": "Sie können eine Vielzahl von Memes erstellen, einschließlich Reaktionsmemes, beschriftete Bilder und Meme-Vorlagen, die für jedes Thema geeignet sind. Unser Tool unterstützt die Anpassung für jeden Stil, den Sie wünschen."
+      },
+      {
+        "question": "Brauche ich Designfähigkeiten, um den Meme-Generator zu verwenden?",
+        "answer": "Nein! Unser Meme-Generator ist benutzerfreundlich und erfordert keine Design-Erfahrung. Jeder kann mit nur wenigen Klicks professionelle Memes erstellen."
+      },
+      {
+        "question": "Kann ich meine eigenen Bilder für Memes verwenden?",
+        "answer": "Absolut! Sie können Ihre eigenen Bilder hochladen, um sie anzupassen und in Memes umzuwandeln, und dabei persönliche Kreativität mit beliebten Meme-Formaten verbinden."
+      },
+      {
+        "question": "Fallen Kosten für die Nutzung des Meme-Generators an?",
+        "answer": "Wir bieten ein Preismodell pro Meme an, das Ihnen Flexibilität bietet. Sie zahlen nur, wenn Sie Memes erstellen, was es budgetfreundlich macht."
+      },
+      {
+        "question": "Kann ich meine Memes für die spätere Verwendung speichern?",
+        "answer": "Ja, Sie können Ihre Memes sofort herunterladen. Sie werden in einem hochauflösenden Format gespeichert, bereit zum Teilen, wann immer Sie möchten."
+      },
+      {
+        "question": "Gibt es Einschränkungen bei den Meme-Downloads?",
+        "answer": "Nein, Sie können so viele Memes erstellen, wie Sie möchten, ohne Einschränkungen. Denken Sie jedoch daran, dass jedes erstellte Meme mit einem kleinen Kostenaufwand verbunden ist."
+      },
+      {
+        "question": "Wie kann ich meine Memes nach der Erstellung verbessern?",
+        "answer": "Obwohl unser Tool alle notwendigen Funktionen zur Meme-Erstellung bietet, können Sie auch externe Bildbearbeitungssoftware für weitere Verbesserungen verwenden, wenn gewünscht."
+      },
+      {
+        "question": "Was ist, wenn ich die richtige Meme-Vorlage nicht finden kann?",
+        "answer": "Wenn Sie keine Vorlage finden können, die Ihnen gefällt, können Sie ganz einfach Ihre eigene mit unserer Bild-Upload-Funktion anpassen, um einzigartige Memes von Grund auf zu erstellen."
+      },
+      {
+        "question": "Ist die kommerzielle Nutzung für mit diesem Generator erstellte Memes erlaubt?",
+        "answer": "Ja! Sie haben die vollen Rechte, die Memes für persönliche oder kommerzielle Zwecke ohne zusätzliche Lizenzgebühren zu nutzen."
+      },
+      {
+        "question": "Welche Art von Support ist verfügbar, wenn ich Hilfe benötige?",
+        "answer": "Unser Kundenservice umfasst detaillierte Ressourcen, FAQs, Tutorials und direkten Zugang zu unserem Supportteam für technische Probleme, auf die Sie stoßen könnten."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Ihr erstes Meme zu erstellen?",
+    "description": "Beginnen Sie mit der Generierung von Memes mit kostenlosen Credits - Erleben Sie den Spaß jetzt!",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Jetzt ausprobieren →"
+  },
+  "footer": {
+    "heading": "Verwandeln Sie Ihre Ideen in Memes!",
+    "description": "Probieren Sie WaveSpeed AI noch heute aus und entfalten Sie Ihre Kreativität. Keine Anmeldung erforderlich.",
+    "ctaText": "Erstellen Sie jetzt Ihr Meme",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

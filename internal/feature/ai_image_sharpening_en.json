@@ -1,0 +1,230 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Image Sharpening",
+  "meta": {
+    "description": "Enhance your images with AI-powered sharpening for stunning clarity and detail. Ideal for e-commerce, social media, and any visual content. Experience next-level image quality instantly!",
+    "keywords": "AI image sharpening, photo enhancement, image clarity, e-commerce images, AI photo tools, high-resolution images, social media visual content, photo optimization, WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Image Sharpening",
+    "subHeading": "Bring Your Images to Life",
+    "description": "Transform blurry and low-quality images into stunning visuals with advanced AI sharpening. Experience enhanced clarity and detail effortlessly. Perfect for e-commerce, marketing, and personal projects.",
+    "tryText": "Sharpen Your Image Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Image Sharpening Solution",
+    "left": {
+      "heading": "Traditional Image Editing Challenges",
+      "items": [
+        "Manual sharpening tools are complex and time-consuming",
+        "Quality loss during enlargement and adjustments",
+        "Requires knowledge of photo editing software",
+        "Not suitable for bulk image processing",
+        "Limited results without professional skills"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Instantly sharpen multiple images with one click",
+        "AI-driven enhancement that preserves details",
+        "User-friendly interface with no prior skills needed",
+        "Batch processing for seamless workflow",
+        "Cost-effective sharpening service, pay per image"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Achieve crystal-clear images in 4 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Image",
+        "text": "Select the image you want to sharpen",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Adjust Settings",
+        "text": "Fine-tune the sharpening level to your preference",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Preview Changes",
+        "text": "See real-time changes to your image's clarity",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Enhanced Image",
+        "text": "Get your beautifully sharpened image instantly",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Sharpen Your First Image →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Enhance images for any application",
+    "items": [
+      "Product images for Shopify and Amazon",
+      "Social media posts for Instagram and Facebook",
+      "Marketing materials and advertisements",
+      "Real estate listings",
+      "Food photography for menus",
+      "Personal photography projects",
+      "Event and wedding photos",
+      "Art prints and online portfolios"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how users are elevating their images with AI",
+    "items": [
+      {
+        "tag": "E-commerce Photography",
+        "heading": "Amazon Product Listing",
+        "before": {
+          "label": "Before",
+          "text": "Blurry Images"
+        },
+        "after": {
+          "label": "After",
+          "text": "Crystal Clear"
+        },
+        "value": "98.7%",
+        "key": "Image Quality Improvement",
+        "description": "Enhanced image quality boosted our conversion rate by 35% within a week."
+      },
+      {
+        "tag": "Social Media Marketing",
+        "heading": "Instagram Content Creator",
+        "before": {
+          "label": "Before",
+          "text": "Unclear Photos"
+        },
+        "after": {
+          "label": "After",
+          "text": "Stunning Visuals"
+        },
+        "value": "97.5%",
+        "key": "Engagement Rate Boost",
+        "description": "High-quality images increased our followers and likes dramatically."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Sharpening Model Comparison",
+    "description": "Select the right sharpening model for your needs",
+    "items": [
+      "Standard Sharpening: Enhances details while maintaining natural look",
+      "Enhanced Sharpening: Maximizes clarity and contrast for striking images",
+      "Batch Processing: Sharpens multiple images simultaneously",
+      "Adaptive Quality Control: Adjusts sharpening based on image content",
+      "Real-time Preview: Instantly see changes before saving",
+      "PNG and JPG support for all output"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Discover more powerful AI tools for image enhancement"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What types of images can be sharpened?",
+        "answer": "You can sharpen JPG, PNG, and WebP formats. Images should be clear and of decent quality for best results."
+      },
+      {
+        "question": "Can I adjust the level of sharpening?",
+        "answer": "Yes! You can customize the sharpening strength to match your desired outcome and image type."
+      },
+      {
+        "question": "How long does it take to sharpen an image?",
+        "answer": "Most images are enhanced within seconds, making it quick and efficient for any project."
+      },
+      {
+        "question": "Is there a limit to how many images I can sharpen at once?",
+        "answer": "No limits! You can sharpen as many images as you want at once with our batch processing feature."
+      },
+      {
+        "question": "Do I need any special software to use this tool?",
+        "answer": "No special software is needed. Simply upload your images on our platform and start enhancing."
+      },
+      {
+        "question": "Are there any additional fees for sharpening images?",
+        "answer": "We operate on a pay-per-image model with no hidden fees, making it flexible for your budget."
+      },
+      {
+        "question": "Can I cancel my subscription at any time?",
+        "answer": "Yes! There are no subscriptions. You only pay for the images you choose to sharpen."
+      },
+      {
+        "question": "What if I don't like the results?",
+        "answer": "If you're not satisfied, you can adjust settings and sharpen again without any additional charge."
+      },
+      {
+        "question": "Is there support if I encounter issues?",
+        "answer": "Yes! Our customer support team is available via email and live chat for any questions or troubleshooting."
+      },
+      {
+        "question": "Can I use sharpened images commercially?",
+        "answer": "Absolutely! You own the rights to all images sharpened using our tool."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Sharpen Your Images?",
+    "description": "Start enhancing your visuals today!",
+    "contactUsText": "Contact Us",
+    "tryText": "Sharpen Your Image Now →"
+  },
+  "footer": {
+    "heading": "Ready to Enhance Your Images?",
+    "description": "Try WaveSpeed AI now and experience the transformation. No sign-up required.",
+    "ctaText": "Start Sharpening Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

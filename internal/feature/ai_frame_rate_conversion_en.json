@@ -1,0 +1,229 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Frame Rate Conversion",
+  "meta": {
+    "description": "Elevate your video quality with WaveSpeed AI's Frame Rate Conversion feature. Seamlessly adjust the frame rate of your videos to achieve smooth playback and professional-quality visuals. Perfect for filmmakers, content creators, and marketers alike. Discover the future of video production!",
+    "keywords": "AI frame rate conversion, video enhancement, frame rate adjustment, video quality improvement, video production tools, professional video software, content creation, smooth video playback, editing software, filmmaker resources"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Frame Rate Conversion",
+    "subHeading": "Achieve Smooth Video Playback",
+    "description": "Transform your videos with enhanced smoothness and clarity by adjusting the frame rate for optimal viewing experiences. Experience the difference with our AI-powered solution.",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Frame Rate Conversion Solution",
+    "left": {
+      "heading": "Traditional Challenges",
+      "items": [
+        "Inconsistent frame rates causing choppy visuals",
+        "Complex and time-consuming manual adjustments",
+        "High costs for professional software solutions",
+        "Limited flexibility with playback speed",
+        "Frustrating user experience for creators"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Effortlessly convert frame rates in seconds",
+        "AI-driven technology for precise adjustments",
+        "Affordable pricing structure - no hidden fees",
+        "Real-time processing for immediate results",
+        "User-friendly interface for hassle-free experience"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Adjusting video frame rates in 4 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Video",
+        "text": "Upload your video file to the platform",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Select Frame Rate",
+        "text": "Choose your desired frame rate for conversion (e.g., 30fps, 60fps)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Preview Adjustment",
+        "text": "See a preview of your video with the new frame rate applied",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Video",
+        "text": "Get your polished video ready for distribution",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Convert Your Video Now →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Ideal for any video content type",
+    "items": [
+      "Film production",
+      "YouTube video enhancements",
+      "Marketing and promotional content",
+      "Social media storytelling",
+      "Live event recordings",
+      "Virtual presentations",
+      "Gaming highlights",
+      "Educational videos"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "See how users are enhancing their videos with AI",
+    "items": [
+      {
+        "tag": "Film Production",
+        "heading": "Indie Film Project",
+        "before": {
+          "label": "Before",
+          "text": "Variable Frame Rates"
+        },
+        "after": {
+          "label": "After",
+          "text": "Consistent Playback"
+        },
+        "value": "95%",
+        "key": "Visual Quality Improvement",
+        "description": "With frame rate conversion, our film now flows seamlessly, enhancing the viewer's experience dramatically."
+      },
+      {
+        "tag": "Content Creation",
+        "heading": "YouTube Channel",
+        "before": {
+          "label": "Before",
+          "text": "Choppy Videos"
+        },
+        "after": {
+          "label": "After",
+          "text": "Smooth Playback"
+        },
+        "value": "90%",
+        "key": "Engagement Boost",
+        "description": "Converting frame rates revitalized our content, leading to a noticeable increase in viewer retention."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Model Comparison",
+    "description": "Select the right frame rate setting for your needs",
+    "items": [
+      "Standard Conversion: Quick adjustments for common frame rates (30fps, 60fps)",
+      "Advanced Conversion: Smooth transitions between varied frame rates",
+      "High-quality rendering for pristine visuals",
+      "Batch processing for multiple videos simultaneously",
+      "Instant feedback on adjustments and playback"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore more powerful AI tools for video enhancement"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What frame rates can I convert my video to?",
+        "answer": "Our solution allows you to convert to common frame rates like 24fps, 30fps, and 60fps. Custom frame rates are also available for specialized needs."
+      },
+      {
+        "question": "How does AI improve frame rate conversion?",
+        "answer": "AI technology analyzes your video content to ensure smooth transitions, maintain visual integrity, and provide optimal playback without lag."
+      },
+      {
+        "question": "Can I convert multiple videos at once?",
+        "answer": "Yes! Our platform supports batch processing, allowing you to upload and convert multiple videos in one go."
+      },
+      {
+        "question": "Will there be a quality loss during conversion?",
+        "answer": "No, our frame rate conversion preserves the quality of your original video while enhancing playback smoothness."
+      },
+      {
+        "question": "Is there a limit on video length for conversion?",
+        "answer": "There’s no strict limit on video length, though longer videos may require more processing time depending on the chosen frame rate adjustments."
+      },
+      {
+        "question": "What types of videos work best with the frame rate conversion feature?",
+        "answer": "All video types can benefit, particularly those with fast motions or mixed frame rates, such as action sequences or recordings from different sources."
+      },
+      {
+        "question": "Do I need special software to use this feature?",
+        "answer": "No specialized software is needed. The AI Frame Rate Conversion tool is fully accessible online through our WaveSpeed platform."
+      },
+      {
+        "question": "How accurate is the AI in making adjustments?",
+        "answer": "Our AI is highly accurate and is designed to ensure that conversions match the desired specifications while maintaining video quality."
+      },
+      {
+        "question": "Can I undo changes made during the conversion process?",
+        "answer": "Yes, our platform allows you to easily revert any changes before finalizing the download."
+      },
+      {
+        "question": "What support do you provide if I encounter issues?",
+        "answer": "We offer detailed documentation, video tutorials, and customer support through email and chat for any technical issues."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Enhance Your Video Quality?",
+    "description": "Start with free credits - Experience the transformation yourself",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Ready to Upgrade Your Videos?",
+    "description": "Try WaveSpeed AI now and experience smoother video quality. No sign-up required.",
+    "ctaText": "Convert Frame Rate Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

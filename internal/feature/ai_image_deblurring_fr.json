@@ -1,0 +1,226 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Débruitage d'Image IA",
+  "meta": {
+    "description": "Améliorez vos photos en supprimant le flou sans effort grâce à la technologie avancée de débruitage de WaveSpeed AI, parfaite pour le e-commerce, l'impression et les images haute qualité. Découvrez des images d'une clarté cristalline en quelques clics sur WaveSpeed.",
+    "keywords": "débruitage d'image IA, outil d'amélioration photo, restauration de clarté, affûtage d'image, outil photo e-commerce, WaveSpeed AI, traitement d'image haute qualité, amélioration de la photographie, logiciel de clarté d'image, débruitage automatisé"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Débruitage d'Image",
+    "subHeading": "Restaurez la Clarté de Vos Photos Floues",
+    "description": "Revitalisez vos images en supprimant sans effort le flou grâce à notre technologie IA avancée. Parfait pour les annonces de produits, les réseaux sociaux et un usage professionnel. Découvrez une clarté étonnante instantanément.",
+    "tryText": "Essayez-le Maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution de Débruitage d'Image IA WaveSpeed",
+    "left": {
+      "heading": "Défis Traditionnels",
+      "items": [
+        "Les méthodes d'affûtage manuelles peuvent prendre du temps",
+        "Coûts élevés pour les services de retouche d'image professionnels",
+        "Amélioration limitée sur les images sévèrement floues",
+        "Nécessite des compétences et des connaissances logicielles avancées",
+        "Inefficacité dans le traitement de volumes importants de photos"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed AI",
+      "items": [
+        "Supprimez instantanément le flou de n'importe quelle image",
+        "Processus de téléchargement simple - aucune compétence en retouche requise",
+        "Restauration haute qualité même pour un flou extrême",
+        "Traitez des images en masse rapidement et efficacement",
+        "Options de tarification abordables adaptées aux entreprises"
+      ],
+      "tryText": "Essayez"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment Cela Fonctionne",
+    "description": "Obtenez des images d'une clarté cristalline en 4 étapes faciles",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Télécharger l'Image",
+        "text": "Sélectionnez et téléchargez l'image floue que vous souhaitez améliorer",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Sélectionner le Niveau de Débruitage",
+        "text": "Choisissez l'intensité du débruitage en fonction de vos besoins",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Aperçu de l'Ajustement",
+        "text": "Aperçu de votre image améliorée avant de finaliser le changement",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Télécharger l'Image Améliorée",
+        "text": "Récupérez votre image nette et claire en quelques secondes",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Améliorez Votre Première Image →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilités Illimitées",
+    "description": "Idéal pour une variété d'applications",
+    "items": [
+      "Restauration d'images de produits pour les annonces en ligne",
+      "Amélioration de photos pour des campagnes marketing",
+      "Préparation d'images pour des supports imprimés",
+      "Amélioration de photos familiales et personnelles",
+      "Amélioration d'images pour des publications sur les réseaux sociaux",
+      "Renaissance d'images d'archives pour un usage numérique",
+      "Affûtage de la photographie professionnelle",
+      "Rendre les visuels éducatifs plus clairs"
+    ]
+  },
+  "successStories": {
+    "heading": "Vraies Histoires de Succès",
+    "description": "Découvrez comment les utilisateurs transforment leurs images grâce à l'IA",
+    "items": [
+      {
+        "tag": "E-commerce",
+        "heading": "Amélioration de Photos de Produits",
+        "before": {
+          "label": "Avant",
+          "text": "Inutilisable en raison du flou"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Image nette et de haute qualité"
+        },
+        "value": "90%",
+        "key": "Amélioration de la Qualité",
+        "description": "Nous avons transformé nos photos de produits, augmentant les ventes de 25 % avec une meilleure clarté d'image."
+      },
+      {
+        "tag": "Immobilier",
+        "heading": "Annonces Immobilières",
+        "before": {
+          "label": "Avant",
+          "text": "Flou et peu attrayant"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Netteté de qualité professionnelle"
+        },
+        "value": "95%",
+        "key": "Amélioration de la Clarté",
+        "description": "Des images qui éloignaient les clients attirent désormais plus de visites et d'inquiries."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison de Technologie de Débruitage",
+    "description": "Sélectionnez la méthode de traitement optimale pour vos besoins",
+    "items": [
+      "Débruitage Standard : Amélioration rapide pour les images quotidiennes, adapté aux flous mineurs",
+      "Débruitage Avancé : Traitement approfondi pour flou sévère, axé sur la récupération des détails",
+      "Traitement par Lots : Traitez plusieurs images à la fois pour plus d'efficacité",
+      "Retour d'information en temps réel lors des ajustements pour de meilleurs résultats",
+      "Interface conviviale pour une navigation et une utilisation faciles",
+      "Droits d'utilisation commerciale inclus"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils IA Connus",
+    "description": "Découvrez d'autres outils IA innovants pour améliorer vos images"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quels types d'images peuvent être débruitées ?",
+        "answer": "La plupart des images peuvent être traitées, y compris les formats JPEG, PNG et TIFF. Les candidats idéaux incluent les photos de produits, les portraits, les paysages et toute image nécessitant un affûtage."
+      },
+      {
+        "question": "Quelle est l'efficacité de la technologie de débruitage ?",
+        "answer": "Notre technologie IA est conçue pour améliorer considérablement la clarté des images, restaurant des détails qui peuvent être perdus dans le flou. L'efficacité peut varier en fonction de la qualité initiale et de l'étendue du flou."
+      },
+      {
+        "question": "Puis-je comparer les images avant et après ?",
+        "answer": "Oui ! Vous pouvez prévisualiser instantanément les améliorations, ce qui vous permet de voir les améliorations de clarté avant de télécharger l'image finale."
+      },
+      {
+        "question": "Y a-t-il une limite au nombre d'images que je peux débruiter ?",
+        "answer": "Non, vous pouvez débruiter autant d'images que vous le souhaitez. Notre traitement efficace permet des téléchargements par lots pour des projets plus importants."
+      },
+      {
+        "question": "Quel est le délai de traitement pour le débruitage ?",
+        "answer": "En général, le traitement ne prend que quelques secondes. Le temps peut varier légèrement en fonction de la complexité du flou et du nombre d'images traitées."
+      },
+      {
+        "question": "Y a-t-il des frais d'abonnement ?",
+        "answer": "Non, notre service fonctionne sur une base de paiement à l'utilisation, ce qui signifie que vous ne payez que pour les images que vous améliorez."
+      },
+      {
+        "question": "Comment puis-je garantir les meilleurs résultats ?",
+        "answer": "Pour des résultats optimaux, utilisez des images de haute résolution et essayez de fournir le plus d'informations possible sur le type de flou lors du processus de téléchargement."
+      },
+      {
+        "question": "Conserve-t-on la propriété des images améliorées ?",
+        "answer": "Absolument ! Vous conservez tous les droits sur toutes les images traitées via notre plateforme, vous permettant de les utiliser librement pour tout projet."
+      },
+      {
+        "question": "Quel support est disponible si je rencontre des problèmes ?",
+        "answer": "Nous offrons un support étendu, y compris des ressources en ligne, de la documentation et un service client pour aider avec tous les défis que vous pourriez rencontrer."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Raviver Vos Images Floues ?",
+    "description": "Commencez à améliorer vos photos dès aujourd'hui avec notre technologie IA avancée.",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Essayez-le Maintenant →"
+  },
+  "footer": {
+    "heading": "Prêt à Améliorer Vos Images ?",
+    "description": "Découvrez la puissance du débruitage IA maintenant. Aucune inscription requise.",
+    "ctaText": "Supprimez le Flou Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Video Joiner",
+  "meta": {
+    "description": "Seamlessly combine multiple video clips into a cohesive, engaging story with AI. Perfect for content creators, marketers, and educators looking to enhance their video projects effortlessly. Experience the future of video editing with WaveSpeed AI!",
+    "keywords": "video joiner AI, video editing tool, merge video clips, AI video application, content creation tool, marketing video joiner, educational video editor, seamless video transitions, automated video assembly, video storytelling tool"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Video Joiner",
+    "subHeading": "Effortlessly Merge Your Videos",
+    "description": "Combine videos with stunning transitions and effects in a few clicks. No complex editing software required. Perfect for content creators, marketers, and educators. Transform your video projects today!",
+    "tryText": "Join Your Videos Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI Video Joiner Solution",
+    "left": {
+      "heading": "Traditional Editing Hurdles",
+      "items": [
+        "Complex editing software needed",
+        "Time-consuming manual cuts and transitions",
+        "Requires technical skills and experience",
+        "Limited creative flexibility with transitions",
+        "Expensive freelance editing options"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Instantly merge videos with one click",
+        "No editing experience required - Just upload clips",
+        "Automated transitions for a polished finish",
+        "Endless creative possibilities with styles and effects",
+        "Affordable pay-as-you-go pricing - Perfect for everyone"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Merge your videos in 4 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Videos",
+        "text": "Upload the video clips you want to join together",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Choose Transitions",
+        "text": "Select the transitions and effects to apply between clips",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Arrange Clips",
+        "text": "Drag and drop to arrange the clips in your desired order",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Final Video",
+        "text": "Get your merged video in HD quality instantly",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Create Your First Video →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities with Video Joiner",
+    "description": "Ideal for any content style or purpose",
+    "items": [
+      "Vlogs and personal stories",
+      "Marketing promotional videos",
+      "Educational tutorial assemblies",
+      "Event highlights and recaps",
+      "Social media video compilations",
+      "Product demonstrations and showcases",
+      "Travel videos",
+      "YouTube channel content"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how users transform their video content effortlessly",
+    "items": [
+      {
+        "tag": "Social Media Influencer",
+        "heading": "Instagram Video Highlights",
+        "before": {
+          "label": "Before",
+          "text": "Tedious editing process"
+        },
+        "after": {
+          "label": "After",
+          "text": "Seamless video compilation"
+        },
+        "value": "95%",
+        "key": "Time Saved",
+        "description": "With the Video Joiner, I was able to create impactful highlight reels in minutes instead of hours!"
+      },
+      {
+        "tag": "E-Learning",
+        "heading": "Online Course Introductions",
+        "before": {
+          "label": "Before",
+          "text": "Complicated software"
+        },
+        "after": {
+          "label": "After",
+          "text": "Easy video joining"
+        },
+        "value": "98%",
+        "key": "Efficiency Improvement",
+        "description": "Transforming course materials into cohesive video presentations became a breeze. Our student engagement soared!"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Video Joining Method Comparison",
+    "description": "Select the perfect joining style for your needs",
+    "items": [
+      "Standard Join: Quick clip merging with basic transitions",
+      "Smooth Join: Seamless edits with gradual transitions for professional results",
+      "Thematic Join: Unique styles for branded videos",
+      "Smart Join: AI-enhanced adjustments based on content genre",
+      "Batch Join: Combine multiple clips in bulk with automation"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Discover more powerful AI tools for video creation"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What video formats can I use with the Video Joiner?",
+        "answer": "You can upload various formats including MP4, MOV, and AVI. Our platform supports standard resolutions and maintains quality during merging."
+      },
+      {
+        "question": "Are there limits on video length or size when joining?",
+        "answer": "There are no strict limits, but for optimal performance, we recommend clips under 10 minutes and 2GB in size for smooth processing."
+      },
+      {
+        "question": "Can I add background music to my merged videos?",
+        "answer": "Yes! You can upload audio tracks or choose from our library of royalty-free music to enhance your videos."
+      },
+      {
+        "question": "Is it possible to edit the videos after joining them?",
+        "answer": "Currently, the Video Joiner focuses on merging. For edits, you can use our editing tool after merging your clips."
+      },
+      {
+        "question": "How fast is the video joining process?",
+        "answer": "Joining videos typically takes just a few minutes, depending on the length and complexity of the videos being merged."
+      },
+      {
+        "question": "Do I retain ownership of the video content I create?",
+        "answer": "Absolutely! All videos created with our Video Joiner are yours to use, share, and monetize without copyright issues."
+      },
+      {
+        "question": "Can I join videos from different sources?",
+        "answer": "Yes, you can upload videos from various sources, including your device, cloud storage, and more for easy compilation."
+      },
+      {
+        "question": "What kind of support is available if I encounter issues?",
+        "answer": "Our support team is available via chat and email. We also provide guides, FAQs, and a user community for additional help."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Merge Your Videos?",
+    "description": "Start using the Video Joiner today - Experience the simplicity of seamless merging!",
+    "contactUsText": "Contact Us",
+    "tryText": "Join Your Videos Now →"
+  },
+  "footer": {
+    "heading": "Ready to Transform Your Video Projects?",
+    "description": "Try WaveSpeed AI now and see the difference for yourself. No sign-up required.",
+    "ctaText": "Join Your Videos Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Background Noise Remover",
+  "meta": {
+    "description": "Eliminate unwanted background noise from your audio recordings instantly with AI technology. Perfect for podcasters, video creators, and musicians. Enhance your sound quality effortlessly with WaveSpeed AI!",
+    "keywords": "background noise remover, audio enhancement AI, sound quality improvement, podcast editing tools, video audio clean up, noise cancellation, AI audio processing, professional audio tools, music production audio cleaner, sound editing software"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Audio Clarity Redefined",
+    "subHeading": "Remove Background Noise Instantly",
+    "description": "Enhance the quality of your audio recordings by efficiently removing background noise in seconds. Whether for podcasts, videos, or music, our AI technology delivers pristine sound. Say goodbye to distracting sounds and hello to crystal-clear audio.",
+    "tryText": "Remove Noise Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI Background Noise Remover Solution",
+    "left": {
+      "heading": "Traditional Cleaning Methods",
+      "items": [
+        "Time-consuming manual editing",
+        "Requires expensive software",
+        "Complex audio editing skills needed",
+        "Limited effectiveness on stubborn noise",
+        "High cost of professional audio services"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Instantly removes unwanted background noise in seconds",
+        "User-friendly interface - No technical skills required",
+        "Achieve professional-level sound quality automatically",
+        "Effortlessly clean multiple audio tracks at once",
+        "Cost-effective pay-as-you-go model for all users"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Achieve flawless audio in 4 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Audio",
+        "text": "Select your audio file with background noise.",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Choose Noise Profile",
+        "text": "Select the type of noise you want to remove (e.g., hum, hiss).",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Run Processing",
+        "text": "Let the AI analyze and clean your audio in seconds.",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Clean Audio",
+        "text": "Receive your enhanced audio file ready for use!",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Get Started Now →"
+  },
+  "endlessPossibilities": {
+    "heading": "Countless Applications",
+    "description": "Ideal for various projects and industries",
+    "items": [
+      "Podcast production and editing",
+      "Video sound enhancement for creators",
+      "Music production and mastering",
+      "Voiceover audio refinement",
+      "Webinar and online course recordings",
+      "Field recordings and interviews",
+      "Broadcast audio improvement",
+      "Live event sound correction"
+    ]
+  },
+  "successStories": {
+    "heading": "Successful Transformations",
+    "description": "Discover how users are elevating their audio with AI",
+    "items": [
+      {
+        "tag": "Podcasting",
+        "heading": "Popular Podcast Show",
+        "before": {
+          "label": "Before",
+          "text": "Background chatter throughout"
+        },
+        "after": {
+          "label": "After",
+          "text": "Clear, professional sound"
+        },
+        "value": "98.5%",
+        "key": "Noise Reduction",
+        "description": "Our podcast growth skyrocketed after implementing AI noise removal. Listeners love the improved audio experience!"
+      },
+      {
+        "tag": "Music Production",
+        "heading": "Indie Musician",
+        "before": {
+          "label": "Before",
+          "text": "Drowned out by ambient noise"
+        },
+        "after": {
+          "label": "After",
+          "text": "Pure, rich sound quality"
+        },
+        "value": "95%",
+        "key": "Quality Improvement",
+        "description": "Elevating our tracks with AI has transformed our marketability, making us competitive in the industry."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Noise Removal Technology Comparison",
+    "description": "Select the best technology for your needs",
+    "items": [
+      "Adaptive Noise Cancellation: In-depth analysis, optimal for complex sounds",
+      "Simple Reduction: Fast, effective for straightforward background noise",
+      "Customizable settings for personal preferences",
+      "Batch processing for multiple files simultaneously",
+      "Immediate results with lossless audio quality maintained"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore additional AI solutions for enhanced audio quality"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What types of noise can the remover handle?",
+        "answer": "Our technology effectively removes a variety of background noises including hums, hisses, wind noise, and other unwanted sounds in different environments."
+      },
+      {
+        "question": "Can I adjust the sensitivity of the noise removal?",
+        "answer": "Yes! You can customize the noise profile to target specific frequencies for optimal audio clarity based on your recording's needs."
+      },
+      {
+        "question": "Do I need advanced skills to use this feature?",
+        "answer": "No! The user-friendly interface allows anyone, regardless of technical expertise, to enhance their audio effortlessly."
+      },
+      {
+        "question": "What audio formats are supported?",
+        "answer": "We support all standard audio formats including MP3, WAV, AAC, and more, ensuring compatibility with your existing files."
+      },
+      {
+        "question": "How long does it take to process my audio?",
+        "answer": "Processing is usually instantaneous, allowing you to clean your audio files in just seconds!"
+      },
+      {
+        "question": "Can I use the tool for live audio?",
+        "answer": "Yes! Our technology can also be integrated for live sound enhancement in real-time scenarios."
+      },
+      {
+        "question": "Is there a limit on the size of audio files?",
+        "answer": "There are no strict limits, but larger files may take slightly longer to process depending on their complexity."
+      },
+      {
+        "question": "Will the quality of my audio be preserved?",
+        "answer": "Absolutely! Our technology retains the original quality while removing unwanted noise, providing a clean and professional sound."
+      },
+      {
+        "question": "What pricing options are available?",
+        "answer": "We offer a flexible pay-as-you-go pricing model with no hidden fees. You only pay for the audio you process."
+      },
+      {
+        "question": "What support is available if I encounter issues?",
+        "answer": "We provide extensive documentation, tutorials, and customer support to assist you with any challenges you may face."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Clear Your Audio?",
+    "description": "Start transforming your sound quality today with free credits!",
+    "contactUsText": "Contact Us",
+    "tryText": "Remove Noise Now →"
+  },
+  "footer": {
+    "heading": "Transform Your Audio with Ease!",
+    "description": "Experience the clarity of WaveSpeed AI now without a commitment. Just upload your audio.",
+    "ctaText": "Remove Noise Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

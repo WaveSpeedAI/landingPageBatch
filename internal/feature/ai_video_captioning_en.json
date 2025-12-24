@@ -1,0 +1,226 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Video Captioning",
+  "meta": {
+    "description": "Elevate your videos with automatic AI-generated captions. Boost viewer engagement and accessibility effortlessly. Ideal for online content creators and marketers. Discover how WaveSpeed makes captions simple!",
+    "keywords": "AI video captioning, automatic captions, video accessibility, content engagement, WaveSpeed AI, video marketing tools, caption generation, subtitle creator, social media video captions, YouTube captioning, TikTok captions, live video captions"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "AI Video Captioning",
+    "subHeading": "Seamlessly Add Captions to Your Videos",
+    "description": "Enhance viewer experience with automatic caption generation that boosts engagement and accessibility. Just upload your video and let our AI do the rest!",
+    "tryText": "Get Started Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Video Captioning Solution",
+    "left": {
+      "heading": "Traditional Captioning Challenges",
+      "items": [
+        "Manual caption creation is time-consuming",
+        "Requires writing skills and precision",
+        "Editing captions is labor-intensive",
+        "Limited support for multiple languages",
+        "Accessibility barriers for hearing-impaired viewers"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Instant caption generation in minutes",
+        "Supports multiple languages automatically",
+        "No writing skills needed - just upload video",
+        "Editable captions for accuracy and clarity",
+        "Affordable solutions with pay-as-you-go pricing"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Add captions to your videos in 4 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Video",
+        "text": "Upload your video file to our platform",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Select Language",
+        "text": "Choose the language for your captions",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Generate Captions",
+        "text": "Let our AI create accurate captions automatically",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Edit and Download",
+        "text": "Review and edit captions, then download your video",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Generate Your Captions →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Perfect for any video content",
+    "items": [
+      "YouTube videos and vlogs",
+      "Social media clips for Instagram, TikTok",
+      "Webinars and online courses",
+      "Marketing and promotional videos",
+      "Event recordings and live streams",
+      "Corporate training videos",
+      "Video podcasts",
+      "Interviews and discussions"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "See how creators enhance their content with AI",
+    "items": [
+      {
+        "tag": "Educational Content",
+        "heading": "Online Course Provider",
+        "before": {
+          "label": "Before",
+          "text": "Manual Captions"
+        },
+        "after": {
+          "label": "After",
+          "text": "Automated Captions"
+        },
+        "value": "95%",
+        "key": "Time Saved",
+        "description": "We cut down captioning time from hours to minutes, allowing us to focus on content creation."
+      },
+      {
+        "tag": "Social Media",
+        "heading": "TikTok Influencer",
+        "before": {
+          "label": "Before",
+          "text": "Inconsistent captions"
+        },
+        "after": {
+          "label": "After",
+          "text": "Consistently high-quality captions"
+        },
+        "value": "92%",
+        "key": "Engagement Increase",
+        "description": "Our engagement skyrocketed with correctly formatted captions; followers appreciate the accessibility."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Model Comparison",
+    "description": "Choose the right captioning model for your needs",
+    "items": [
+      "Basic Model: Standard accuracy and speed",
+      "Premium Model: Enhanced accuracy, supports more languages",
+      "Real-time captioning for live broadcasts",
+      "Smart punctuation and grammar correction",
+      "User-friendly editing interface for quick adjustments",
+      "Commercial usage rights included"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore more powerful AI tools for video enhancement"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What types of videos can I add captions to?",
+        "answer": "You can add captions to any video format, including MP4, MOV, and AVI files. Our platform supports a wide range of formats, ensuring compatibility for all your video content."
+      },
+      {
+        "question": "How accurate are the automatically generated captions?",
+        "answer": "Our AI models achieve high accuracy with captions based on context and language. You can easily review and edit captions to ensure they meet your standards before finalizing."
+      },
+      {
+        "question": "Can I customize the style of the captions?",
+        "answer": "Absolutely! You can choose from various font styles, sizes, colors, and placements to match your video's aesthetic and improve viewer experience."
+      },
+      {
+        "question": "Do you support multiple languages for captions?",
+        "answer": "Yes, our solution supports automatic generation of captions in multiple languages, making it easy to reach a global audience."
+      },
+      {
+        "question": "How long does it take to generate captions?",
+        "answer": "Caption generation is typically fast, taking just a few minutes, depending on your video's length. The process is designed for efficiency without sacrificing quality."
+      },
+      {
+        "question": "Are there any additional fees for commercial use?",
+        "answer": "No! All captions generated come with commercial rights at no additional cost, allowing you to use them freely across various platforms."
+      },
+      {
+        "question": "Can I edit captions after they are generated?",
+        "answer": "Yes, our platform allows you to edit and refine captions as needed. You can adjust timings and text to ensure perfect synchronization and clarity."
+      },
+      {
+        "question": "What if I encounter issues with the captioning process?",
+        "answer": "Our support team is here to help! We provide resources, tutorials, and direct assistance to resolve any issues quickly."
+      },
+      {
+        "question": "Can I use captions for live streaming?",
+        "answer": "Yes! Our AI includes real-time captioning features for live video broadcasts, improving accessibility for all viewers."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Add Captions to Your Videos?",
+    "description": "Start enhancing your content today with free credits.",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Transform Your Videos Today!",
+    "description": "Try WaveSpeed AI now and experience professional captioning. No sign-up required.",
+    "ctaText": "Start Captions Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

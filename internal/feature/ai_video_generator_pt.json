@@ -1,0 +1,230 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Gerador de Vídeo AI",
+  "meta": {
+    "description": "Crie vídeos impressionantes a partir de imagens sem esforço com nosso Gerador de Vídeo AI. Ideal para profissionais de marketing, educadores e criadores de conteúdo. Experimente uma produção de vídeo rápida adaptada às suas necessidades!",
+    "keywords": "gerador de vídeo AI, imagem para vídeo AI, criação de conteúdo em vídeo, criador de vídeos promocionais, gerador de vídeo para e-commerce, WaveSpeed AI, produção de vídeo automatizada, vídeos de marketing, ferramentas de vídeo para redes sociais, tecnologia de geração de vídeo"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de AI",
+        "items": [
+          [
+            "Ferramentas de AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Demonstração",
+        "items": [
+          [
+            "Demonstração",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Transforme Suas Imagens em Vídeos Atrativos",
+    "subHeading": "Criação de Vídeo sem Esforço na Sua Mão",
+    "description": "Aproveite a tecnologia de AI de ponta para transformar suas fotos estáticas em vídeos cativantes instantaneamente. Sem configuração complexa, basta fazer upload e criar. Comece sua jornada agora!",
+    "tryText": "Comece a Criar",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução do Gerador de Vídeo AI WaveSpeed AI",
+    "left": {
+      "heading": "Dificuldades da Produção de Vídeo Tradicional",
+      "items": [
+        "Altos custos para gravações de vídeo ($2000-5000 por projeto)",
+        "Dependência de equipamentos e pessoal especializados",
+        "Processos de edição que consomem tempo (2-7 dias)",
+        "Revisões criativas limitadas e flexibilidade",
+        "Desafiador para pequenas empresas sem recursos"
+      ]
+    },
+    "right": {
+      "heading": "Vantagem do Gerador de Vídeo WaveSpeed AI",
+      "items": [
+        "Crie vídeos a partir de imagens em minutos",
+        "Não é necessário filmagem ou equipe - Basta fazer upload",
+        "Resultados instantâneos e impulsionados por AI",
+        "Opções criativas ilimitadas",
+        "Preços flexíveis para todos os orçamentos"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "Converta suas imagens em vídeos dinâmicos em 4 passos simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Faça o Upload da Sua Imagem",
+        "text": "Selecione e faça o upload da imagem que você deseja animar",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Personalize os Efeitos de Movimento",
+        "text": "Opcionalmente, especifique como você deseja que seu vídeo se mova (por exemplo, \"aproximar\")",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Escolha Seu Estilo",
+        "text": "Escolha entre diferentes modelos de AI para resultados ideais",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Exporte Seu Vídeo",
+        "text": "Receba seu vídeo em alta definição em apenas momentos",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Crie Seu Vídeo →"
+  },
+  "endlessPossibilities": {
+    "heading": "Aplicações Sem Limites",
+    "description": "Ideal para diversos propósitos e indústrias",
+    "items": [
+      "Vídeos promocionais para lojas online",
+      "Clipes para redes sociais para engajamento",
+      "Conteúdo de treinamento e educacional",
+      "Visuais dinâmicos para apresentações",
+      "Destaques e resumos de eventos",
+      "Exibição de imóveis",
+      "Demonstrações de receitas culinárias",
+      "Tutoriais e avaliações de produtos"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Explore como outros estão aprimorando seu conteúdo com AI",
+    "items": [
+      {
+        "tag": "Varejo Online",
+        "heading": "Vídeos de Marketing para E-commerce",
+        "before": {
+          "label": "Antes",
+          "text": "Demorado"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Produção rápida"
+        },
+        "value": "98%",
+        "key": "Eficiência de Tempo",
+        "description": "Transformamos nosso catálogo de imagens em vídeos envolventes durante a noite, aumentando a interação com os produtos."
+      },
+      {
+        "tag": "Educação",
+        "heading": "Conteúdo de Curso Online",
+        "before": {
+          "label": "Antes",
+          "text": "Criação manual de vídeo"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Produção de vídeo automatizada"
+        },
+        "value": "97%",
+        "key": "Aumento da Velocidade de Entrega",
+        "description": "Agora, conseguimos desenvolver aulas envolventes em minutos ao invés de semanas."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Modelos de AI",
+    "description": "Selecione o modelo ideal para sua criação de vídeo",
+    "items": [
+      "Veo 3.1: Alta definição, 5-10 segundos, rica em detalhes e realismo",
+      "Seedance I2V: Saída rápida, 3-6 segundos, econômica e eficiente",
+      "Parâmetros de movimento flexíveis com prompts definidos pelo usuário",
+      "Transições naturais e movimentos de câmera fluidos",
+      "Retorno rápido em menos de 2 minutos",
+      "Licenciamento para uso comercial incluído"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Explore Ferramentas de AI Relacionadas",
+    "description": "Descubra mais soluções poderosas de AI para criação de conteúdo"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo que você precisa saber",
+    "items": [
+      {
+        "question": "Qual qualidade e duração do vídeo posso esperar?",
+        "answer": "O modelo Veo 3.1 fornece vídeos premium em 1080p com duração de até 10 segundos, enquanto o Seedance I2V oferece vídeos de qualidade padrão de 3-6 segundos para velocidade e custo-benefício. Ambas as opções alcançam resultados profissionais ideais para e-commerce e marketing."
+      },
+      {
+        "question": "Posso direcionar o movimento do vídeo e o comportamento da câmera?",
+        "answer": "Com certeza! Você pode fornecer prompts detalhados sobre as ações desejadas da câmera, como \"pan para a esquerda\", \"aproximar no assunto\" ou \"girar ao redor do item\". A AI interpretará essas instruções para executar movimentos dinâmicos e precisos."
+      },
+      {
+        "question": "Que tipo de imagens funcionam melhor para a geração de vídeo?",
+        "answer": "Imagens de produtos claras com fundos simples produzem resultados ideais. Certifique-se de que suas imagens sejam de alta qualidade e tenham pelo menos 512x512 pixels, com 1024x1024 para melhores resultados. Os formatos suportados incluem JPG, PNG e WebP."
+      },
+      {
+        "question": "O que diferencia essa tecnologia de animações simples?",
+        "answer": "Nossa AI gera movimento real utilizando física realista, criando uma representação viva em vez de transições estáticas. Os vídeos simulam espaço 3D, fazendo com que os movimentos pareçam naturais e envolventes."
+      },
+      {
+        "question": "Posso melhorar a qualidade do vídeo após a criação?",
+        "answer": "Sim, nossa plataforma oferece ferramentas para aumentar a qualidade dos vídeos para resolução e clareza aprimoradas após a geração, garantindo a melhor experiência de visualização para seu público."
+      },
+      {
+        "question": "Qual é o modelo de preços para o Gerador de Vídeo AI?",
+        "answer": "Utilizamos um modelo de pagamento conforme o uso sem assinaturas ou taxas ocultas. Os preços são baseados no modelo de AI escolhido e na duração do vídeo. Todos os novos usuários recebem créditos para começar sua jornada sem compromisso inicial."
+      },
+      {
+        "question": "Quanto tempo leva a geração do vídeo, e posso fazer vários vídeos?",
+        "answer": "Tipicamente, a geração é feita em 1-2 minutos. Você pode até processar solicitações em lote para criar várias variações de vídeo simultaneamente sem tempos de espera."
+      },
+      {
+        "question": "Quais são os melhores usos para essa tecnologia de vídeo?",
+        "answer": "Ideal para exposições de produtos, conteúdo para redes sociais, apresentações educacionais e muito mais - em qualquer lugar onde conteúdo de vídeo dinâmico possa elevar sua mensagem sem extensos recursos."
+      },
+      {
+        "question": "Tenho direitos de uso dos vídeos comercialmente?",
+        "answer": "Sim, todos os vídeos gerados vêm com direitos comerciais completos, permitindo distribuição irrestrita e monetização em várias plataformas."
+      },
+      {
+        "question": "Quais recursos de suporte vocês fornecem?",
+        "answer": "Oferecemos documentação completa, vídeos tutoriais e suporte ao vivo para todos os usuários, com tempos de resposta rápidos e forte engajamento da comunidade para solução de problemas."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Criar Vídeos AI Imbatíveis?",
+    "description": "Comece com créditos grátis - Experimente a transformação hoje!",
+    "contactUsText": "Entre em Contato Conosco",
+    "tryText": "Crie Meu Vídeo Agora →"
+  },
+  "footer": {
+    "heading": "Pronto para Criar Vídeos Incríveis?",
+    "description": "Experimente o WaveSpeed AI hoje - sem necessidade de cadastro para uma demonstração.",
+    "ctaText": "Comece Seu Período Gratuito",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

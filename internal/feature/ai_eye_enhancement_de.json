@@ -1,0 +1,222 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - KI Augenverbesserung",
+  "meta": {
+    "description": "Verbessern Sie Ihre Bilder mit fortschrittlicher KI-Augenverbesserungstechnologie. Perfekt für E-Commerce, Porträtfotografie und soziale Medien. Transformieren Sie Ihre visuellen Inhalte mühelos!",
+    "keywords": "KI Augenverbesserung, Bildverbesserungswerkzeug, Foto-Retusche KI, Augenverbesserungssoftware, E-Commerce-Fotos, Porträtverbesserung, Werkzeuge für soziale Medien, visuelle Inhaltsverbesserung, Shopify-Fotobearbeitung, Instagram-Foto-Enhancer, KI-Fotografiewerkzeuge, Videoverbesserungsfunktionen"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI-Werkzeuge",
+        "items": [
+          [
+            "KI-Werkzeuge",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Schaufenster",
+        "items": [
+          [
+            "Schaufenster",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "Verbessern Sie die Details Ihrer Augen",
+    "subHeading": "Revitalisieren Sie Porträts mit beeindruckender Augenklarheit",
+    "description": "Verwandeln Sie Ihre Bilder mit auffälligen Augenverbesserungen, die Leben und Tiefe in Ihre visuellen Inhalte bringen. Erleben Sie die Magie der KI-Technologie, um Ihre Fotos mühelos zu verbessern. Perfekt für Porträts, Produktfotografie und soziale Medien. Klicken Sie hier, um jetzt mit der Verbesserung Ihrer Bilder zu beginnen!",
+    "tryText": "Jetzt ausprobieren",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI KI Augenverbesserungslösung",
+    "left": {
+      "heading": "Traditionelle Herausforderungen",
+      "items": [
+        "Manuelles Retuschieren ist arbeitsintensiv und zeitaufwendig",
+        "Erfordert teure Software und Expertise",
+        "Inkonsistente Ergebnisse bei verschiedenen Bildern",
+        "Schwierig, natürlich aussehende Verbesserungen zu erzielen",
+        "Hohe Kosten und Zeitbarriere für kleine Unternehmen"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Lösung",
+      "items": [
+        "Augendetails in Sekundenschnelle verbessern",
+        "Keine technischen Fähigkeiten erforderlich - Einfach Bilder hochladen",
+        "Automatisierte Verbesserungen mit realistischen Ergebnissen",
+        "Konsistente Ergebnisse bei allen Fotos erzielen",
+        "Erschwingliche Nutzungspreise für alle Benutzer"
+      ],
+      "tryText": "Versuchen"
+    }
+  },
+  "howItWorks": {
+    "heading": "So funktioniert es",
+    "description": "Verbessern Sie Augendetails in drei einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Bild hochladen",
+        "text": "Laden Sie Ihr Foto hoch, das eine Augenverbesserung benötigt",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Verbesserungsgrad auswählen",
+        "text": "Wählen Sie aus subtilen, moderaten oder dramatischen Verbesserungen",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Verbessertes Bild herunterladen",
+        "text": "Erhalten Sie Ihr verbessertes Foto sofort mit verbesserter Augenklarheit",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "Verbessern Sie Ihr erstes Bild →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endlose Verbesserungschancen",
+    "description": "Ideal für verschiedene fotografische Bedürfnisse",
+    "items": [
+      "Porträtretusche für Fotografen",
+      "E-Commerce-Produktbildverbesserungen",
+      "Profilbilder für soziale Medien",
+      "Modelportfolios und Headshots",
+      "Hochzeits- und Veranstaltungsfotografie",
+      "Mode-Lookbooks und Kataloge",
+      "Bildmaterial für Schönheitsprodukte",
+      "Verbesserungen von Immobilienanzeigen"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Entdecken Sie, wie Benutzer ihre Bilder mit KI transformieren",
+    "items": [
+      {
+        "tag": "Fotografie",
+        "heading": "Professionelle Porträtverbesserung",
+        "before": {
+          "label": "Vorher",
+          "text": "Standardqualität"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Lebendige, auffällige Bilder"
+        },
+        "value": "95%",
+        "key": "Qualitätsverbesserung",
+        "description": "Unsere Porträtaufnahmen ziehen jetzt mehr Kunden an, dank der beeindruckenden Augenklarheit, die in kürzester Zeit erreicht wurde."
+      },
+      {
+        "tag": "E-Commerce",
+        "heading": "Produktfotografie für Online-Shop",
+        "before": {
+          "label": "Vorher",
+          "text": "Fade Bilder"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Verbesserte visuelle Anziehungskraft"
+        },
+        "value": "90%",
+        "key": "Engagement-Steigerung",
+        "description": "Die verbesserten Produktbilder führten zu höheren Engagement- und Konversionsraten auf unserer E-Commerce-Plattform."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Vergleich der KI-Enhancement-Modelle",
+    "description": "Wählen Sie Ihren Verbesserungsstil",
+    "items": [
+      "Subtile Verbesserungen: Natürliche Looks, minimale Anpassungen, perfekt für den täglichen Gebrauch",
+      "Moderate Verbesserungen: Ausgewogene Verbesserungen, ideal für professionelle Fotografie",
+      "Dramatische Verbesserungen: Auffällige Details, großartig für Mode und Werbung",
+      "Alle Modelle enthalten schnelle Verarbeitungszeiten und hochwertige Ergebnisse",
+      "Kommerzielle Nutzungsrechte sind für alle verbesserten Bilder enthalten"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Verwandte KI-Werkzeuge",
+    "description": "Entdecken Sie weitere leistungsstarke KI-Tools zur Bildverbesserung"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welche Arten von Bildern kann ich mit dieser Funktion verbessern?",
+        "answer": "Sie können jedes Porträt oder Produktfoto verbessern. Unsere Technologie funktioniert am besten mit Bildern, die klare Augendetails und gute Beleuchtung haben. Laden Sie hochauflösende Fotos für optimale Ergebnisse hoch."
+      },
+      {
+        "question": "Wie lange dauert der Verbesserungsprozess?",
+        "answer": "Der Verbesserungsprozess ist unglaublich schnell und wird normalerweise in Sekunden abgeschlossen. Je nach gewähltem Verbesserungsgrad werden die Ergebnisse nahezu sofort generiert."
+      },
+      {
+        "question": "Kann ich steuern, wie stark die Augen verbessert werden?",
+        "answer": "Ja! Sie können zwischen subtilen, moderaten oder dramatischen Verbesserungsgraden wählen, um Ihren kreativen Bedürfnissen und gewünschten Ergebnissen gerecht zu werden."
+      },
+      {
+        "question": "Werden die Verbesserungen natürlich aussehen?",
+        "answer": "Absolut! Unsere KI ist so konzipiert, dass sie realistische Verbesserungen bietet, die die Authentizität des ursprünglichen Bildes bewahren und gleichzeitig die Augendetails verbessern."
+      },
+      {
+        "question": "Sind technische Fähigkeiten oder Software erforderlich?",
+        "answer": "Keine technischen Fähigkeiten oder Software sind erforderlich. Laden Sie einfach Ihr Bild hoch, wählen Sie Ihren Verbesserungsgrad und die KI kümmert sich um den Rest."
+      },
+      {
+        "question": "Kann ich die verbesserten Bilder für kommerzielle Zwecke nutzen?",
+        "answer": "Ja! Alle verbesserten Bilder kommen mit vollständigen kommerziellen Rechten, die es Ihnen ermöglichen, sie für Marketing, Werbung und alle anderen kommerziellen Bedürfnisse zu verwenden."
+      },
+      {
+        "question": "Welche Art von Unterstützung ist verfügbar, wenn ich Probleme habe?",
+        "answer": "Wir bieten umfassende Unterstützungsoptionen, einschließlich Dokumentation, Tutorials und reaktionsschnellem Kundenservice für technische Fragen."
+      },
+      {
+        "question": "Gibt es versteckte Gebühren im Preismodell?",
+        "answer": "Keine versteckten Gebühren! Wir arbeiten nach einem klaren Pay-as-you-go-Modell mit transparenten Preisen, sodass Sie nur für die Verbesserungen bezahlen, die Sie benötigen."
+      },
+      {
+        "question": "Kann ich mehrere Bilder gleichzeitig improve?",
+        "answer": "Ja! Sie können Bilder im Batch hochladen, um gleichzeitig Verbesserungen vorzunehmen, was Zeit und Mühe spart und gleichzeitig eine konsistente Qualität gewährleistet."
+      },
+      {
+        "question": "Was sind die besten Anwendungsfälle für die Augenverbesserungstechnologie?",
+        "answer": "Diese Technologie ist perfekt für professionelle Fotografie, E-Commerce, soziale Medien und jede Situation, die auffällige Augendetails erfordert."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Ihre Bilder zu verbessern?",
+    "description": "Starten Sie mit kostenlosen Credits – überzeigen Sie selbst den bemerkenswerten Unterschied.",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Jetzt ausprobieren →"
+  },
+  "footer": {
+    "heading": "Verwandeln Sie Ihre Fotos noch heute!",
+    "description": "Erleben Sie die Kraft der KI-Augenverbesserung jetzt, ohne sich anmelden zu müssen.",
+    "ctaText": "Fotos jetzt verbessern",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

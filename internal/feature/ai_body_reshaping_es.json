@@ -1,0 +1,230 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Remodelación Corporal con IA",
+  "meta": {
+    "description": "Moldea y transforma imágenes corporales sin esfuerzo utilizando tecnología de IA de vanguardia. Ideal para profesionales del fitness, marcas de moda y uso personal. ¡Experimenta el futuro de la edición de imágenes!",
+    "keywords": "remodelación corporal con IA, transformación de imágenes con IA, mejora de imágenes corporales, editor de imágenes de fitness, herramienta de edición de imágenes con IA, modelado corporal virtual, retoque fotográfico, mejora de modelos de moda, soluciones fotográficas para comercio electrónico"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas de IA",
+        "items": [
+          [
+            "Herramientas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrina",
+        "items": [
+          [
+            "Vitrina",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Remodelación Corporal con IA",
+    "subHeading": "Transforma Tus Imágenes Corporales sin Problemas",
+    "description": "Revitaliza tus imágenes corporales con tecnología de IA avanzada que mejora la forma, la proporción y los detalles. ¡Obtén resultados impresionantes en minutos, sin necesidad de habilidades de experto! Experimenta el poder de la transformación hoy mismo.",
+    "tryText": "Pruébalo Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución de Remodelación Corporal con IA de WaveSpeed AI",
+    "left": {
+      "heading": "Desafíos de Edición Tradicional",
+      "items": [
+        "La edición fotográfica profesional puede ser costosa ($1000-3000 por proyecto)",
+        "Requiere habilidades extensas en diseño gráfico",
+        "Procesos que consumen tiempo (3-7 días)",
+        "Experimentación y variedad limitada en las ediciones",
+        "Fuerte dependencia de software costoso"
+      ]
+    },
+    "right": {
+      "heading": "Solución WaveSpeedAI",
+      "items": [
+        "Transforma imágenes corporales instantáneamente con IA",
+        "No se requieren habilidades de diseño, solo sube imágenes",
+        "Mejoras inmediatas impulsadas por IA",
+        "Crea variaciones ilimitadas sin esfuerzo",
+        "Modelo de pago por uso flexible: económico para todos"
+      ],
+      "tryText": "Prueba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "Modela tus imágenes corporales en 4 pasos fáciles",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Sube la Imagen",
+        "text": "Sube tu imagen corporal original para remodelarla",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Agrega Personalizaciones",
+        "text": "Opcional: Especifica cambios deseados (por ejemplo, \"cintura delgada\", \"músculos mejorados\")",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Selecciona Estilo",
+        "text": "Elige entre varios estilos de mejora que se adapten a tu visión",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Descarga el Resultado",
+        "text": "Recibe imágenes pulidas en minutos con todos los derechos",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Genera tu Imagen Mejorada →"
+  },
+  "endlessPossibilities": {
+    "heading": "Posibilidades Infinita",
+    "description": "Ideal para diversas aplicaciones",
+    "items": [
+      "Imágenes de perfil de fitness para redes sociales",
+      "Lookbooks de moda y exhibiciones de productos",
+      "Transformaciones de antes/después para clientes",
+      "Actualizaciones de marca personal y portafolio",
+      "Fotos de productos para comercio electrónico de ropa",
+      "Maquillajes y estilismo virtual",
+      "Creación de contenido para redes sociales",
+      "Materiales promocionales para servicios"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Descubre cómo los usuarios están revolucionando su edición de imágenes con IA",
+    "items": [
+      {
+        "tag": "Transformación Fitness",
+        "heading": "Mejora del Portafolio del Cliente",
+        "before": {
+          "label": "Antes",
+          "text": "Calidad inconsistente"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Acabado consistente y elegante"
+        },
+        "value": "98.5%",
+        "key": "Mejora de Calidad",
+        "description": "Logramos mejoras dramáticas en nuestro portafolio de modelos de fitness, aumentando la participación en un 50 %."
+      },
+      {
+        "tag": "Marca de Moda",
+        "heading": "Revitalización de Fotos para Comercio Electrónico",
+        "before": {
+          "label": "Antes",
+          "text": "Las ediciones manuales tomaron días"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Las mejoras de IA tomaron minutos"
+        },
+        "value": "99.2%",
+        "key": "Eficiencia Temporal",
+        "description": "Un cambio de juego para nuestra tienda en línea, transformar imágenes rápidamente llevó a mayores conversiones de ventas."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Modelos de Mejora con IA",
+    "description": "Selecciona el modelo adecuado para tus necesidades de remodelación",
+    "items": [
+      "Modelo A: Detalles de alta definición, mejoras en tiempo real, perfecto para uso profesional",
+      "Modelo B: Mejoras rápidas, optimizado para un tiempo de respuesta rápido, ideal para uso personal",
+      "Prompts personalizables para ediciones adaptadas",
+      "Ajustes de textura y apariencia realistas",
+      "Retroalimentación instantánea sobre los cambios realizados",
+      "Derechos de uso comercial incluidos"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas de IA Relacionadas",
+    "description": "Descubre más herramientas innovadoras de IA para la mejora de imágenes"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué calidad de imagen puedo esperar después de la remodelación?",
+        "answer": "Espera imágenes en alta resolución con detalles refinados y proporciones realistas. Nuestros modelos aseguran que las imágenes remodeladas mantengan la claridad y la sofisticación adecuadas para cualquier contexto."
+      },
+      {
+        "question": "¿Puedo especificar modificaciones corporales específicas?",
+        "answer": "¡Absolutamente! Puedes proporcionar prompts detallados sobre cómo quieres que se altere la forma del cuerpo, desde redimensionar hasta mejorar la definición muscular."
+      },
+      {
+        "question": "¿Qué tipos de imágenes funcionan mejor para la remodelación?",
+        "answer": "Imágenes claras y de alta resolución ofrecen los mejores resultados. Recomendamos imágenes con buena iluminación y contraste para cambios óptimos."
+      },
+      {
+        "question": "¿Cómo es esto diferente de la edición fotográfica tradicional?",
+        "answer": "La remodelación corporal con IA permite ajustes dinámicos en tiempo real, ofreciendo un nivel de realismo y sofisticación que no se puede lograr con herramientas de edición estándar."
+      },
+      {
+        "question": "¿Puedo mejorar la calidad después de que la imagen esté remodelada?",
+        "answer": "¡Sí! Utiliza nuestras herramientas de mejora después de la remodelación para elevar aún más la resolución y la calidad."
+      },
+      {
+        "question": "¿Qué modelo de precios se utiliza para la remodelación corporal?",
+        "answer": "WaveSpeed sigue un modelo de pago por uso sin tarifas ocultas; solo pagas por las remodelaciones que realmente generas."
+      },
+      {
+        "question": "¿Qué tan rápido se remodelan las imágenes?",
+        "answer": "La remodelación se realiza generalmente en minutos, lo que permite procesar múltiples imágenes rápidamente."
+      },
+      {
+        "question": "¿Cuáles son las mejores aplicaciones para la tecnología de remodelación corporal?",
+        "answer": "Esta tecnología es perfecta para modelado de fitness, marca personal, comercio electrónico y contenido para redes sociales."
+      },
+      {
+        "question": "¿Retengo los derechos sobre las imágenes remodeladas?",
+        "answer": "¡Sí! Retienes todos los derechos comerciales sobre todas las imágenes remodeladas, sin tarifas adicionales."
+      },
+      {
+        "question": "¿Qué soporte está disponible para solución de problemas?",
+        "answer": "Proporcionamos recursos extensos, incluida documentación y soporte al cliente, para ayudar con cualquier pregunta o problema técnico."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Transformar tus Imágenes Corporales?",
+    "description": "Comienza con créditos gratis - Experimenta la revolución de la remodelación",
+    "contactUsText": "Contáctanos",
+    "tryText": "Pruébalo Ahora →"
+  },
+  "footer": {
+    "heading": "¿Listo para Mejorar tus Imágenes Corporales?",
+    "description": "Prueba WaveSpeed AI ahora y presencia el poder transformador de la IA. No se requiere registro.",
+    "ctaText": "Comienza a Remodelar Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

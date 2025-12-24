@@ -1,0 +1,230 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Gerador de Legendas em Chamas",
+  "meta": {
+    "description": "Aprimore seus vídeos adicionando legendas dinâmicas em chamas que cativam a atenção dos espectadores. Perfeito para marketing, tutoriais e conteúdo de redes sociais.",
+    "keywords": "legendas em chamas, gerador de legendas, legendas de vídeo, legendas de IA, conteúdo de vídeo envolvente, animação de legendas, ferramenta de vídeo de marketing, ferramenta de vídeo de e-commerce, WaveSpeed AI, aprimorador de vídeo para redes sociais, vídeos tutoriais"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de IA",
+        "items": [
+          [
+            "Ferramentas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Exposição",
+        "items": [
+          [
+            "Exposição",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Legendas em Chamas para Vídeos",
+    "subHeading": "Transforme o Engajamento do Seu Vídeo com Legendas Animadas",
+    "description": "Capture e mantenha a atenção do espectador com nosso recurso de legendas em chamas chamativas. Adicione facilmente legendas animadas a qualquer vídeo, tornando seu conteúdo acessível e envolvente em poucos minutos.",
+    "tryText": "Experimente Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução de Legendagem em Chamas WaveSpeed AI",
+    "left": {
+      "heading": "Desafios das Legendas Tradicionais",
+      "items": [
+        "A criação manual de legendas é demorada",
+        "Legendas estáticas não envolvem os espectadores",
+        "Opções de design limitadas para legendas",
+        "Dificuldade em sincronizar legendas com áudio",
+        "Requer conhecimento em software de edição de vídeo"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeed AI",
+      "items": [
+        "Gere instantaneamente legendas animadas em chamas para vídeos",
+        "Aprimore o engajamento do espectador com texto dinâmico",
+        "Estilos e horários de legendas totalmente personalizáveis",
+        "Integração perfeita com qualquer conteúdo de vídeo",
+        "Preços acessíveis de pagamento conforme o uso para todas as empresas"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "Adicione legendas impressionantes em chamas aos seus vídeos em 4 etapas fáceis",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Carregar Vídeo",
+        "text": "Carregue o arquivo de vídeo que você deseja aprimorar com legendas",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Adicionar Texto",
+        "text": "Insira o texto para suas legendas em chamas a serem exibidas durante o vídeo",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Personalizar Estilo",
+        "text": "Escolha entre uma variedade de estilos de animação e opções de design para suas legendas",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Baixar Vídeo",
+        "text": "Receba seu vídeo com legendas em chamas em um formato impressionante",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Gere Seu Primeiro Vídeo →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilidades Infinitas",
+    "description": "Perfeito para conteúdo envolvente em várias plataformas",
+    "items": [
+      "Aprimore vídeos de marketing para redes sociais",
+      "Crie conteúdo acessível para tutoriais e guias",
+      "Adicione charme às demonstrações e análises de produtos",
+      "Aumente o engajamento em conteúdo de streaming ao vivo",
+      "Aumente a retenção em vídeos educacionais",
+      "Transforme apresentações de webinars para serem mais dinâmicas",
+      "Use em campanhas publicitárias para maior impacto",
+      "Eleve vlogs com legendas cativantes"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Veja como as empresas estão elevando seu conteúdo de vídeo com legendas em chamas",
+    "items": [
+      {
+        "tag": "E-commerce",
+        "heading": "Vídeos de Produto Dinâmicos",
+        "before": {
+          "label": "Antes",
+          "text": "Engajamento baixo"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Engajamento alto"
+        },
+        "value": "150%",
+        "key": "Aumento de Engajamento",
+        "description": "Nossos vídeos de produtos tiveram um grande aumento na retenção de espectadores após a adição de legendas em chamas. As vendas seguiram o mesmo caminho!"
+      },
+      {
+        "tag": "Educação",
+        "heading": "Módulos de Aprendizagem Interativos",
+        "before": {
+          "label": "Antes",
+          "text": "Difícil de seguir"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Claro e envolvente"
+        },
+        "value": "80%",
+        "key": "Taxa de Retenção",
+        "description": "Os alunos relataram uma melhor compreensão do material, com muitos expressando uma preferência pelo nosso novo formato de vídeo."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Animação de Legendagem",
+    "description": "Escolha o melhor estilo de animação para suas legendas",
+    "items": [
+      "Desvanecer: Clássico, mas eficaz para todos os tipos de vídeos",
+      "Efeito de Quique: Adiciona energia ao conteúdo envolvente",
+      "Máquina de Escrever: Captura a atenção lentamente, ótimo para contar histórias",
+      "Deslizar: Entrada suave para apresentações dinâmicas",
+      "Animação de Destaque: Enfatiza pontos chave em vídeos educacionais",
+      "Efeito de Glitch: Ideal para conteúdo de tecnologia ou jogos com um toque moderno"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Explore mais ferramentas poderosas de IA para aprimorar seus vídeos"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo o que você precisa saber",
+    "items": [
+      {
+        "question": "Qual formato meus vídeos precisam ter para legendas?",
+        "answer": "Apoiamo formatos de vídeo comuns incluindo MP4, AVI e MOV. Certifique-se de que seus vídeos estão claros e bem estruturados para os melhores resultados."
+      },
+      {
+        "question": "Posso personalizar a aparência das legendas?",
+        "answer": "Absolutamente! Nossa ferramenta permite que você escolha entre múltiplos estilos, cores e animações para combinar perfeitamente com a estética do seu vídeo."
+      },
+      {
+        "question": "Quanto tempo leva para adicionar legendas em chamas?",
+        "answer": "O processo é rápido; dependendo da duração do seu vídeo, espere que as legendas estejam prontas em apenas alguns minutos!"
+      },
+      {
+        "question": "Há restrições sobre a duração do vídeo?",
+        "answer": "Sem restrições sobre a duração do vídeo, mas vídeos mais longos podem levar um pouco mais de tempo para processar a geração de legendas."
+      },
+      {
+        "question": "Posso editar as legendas após gerá-las?",
+        "answer": "Sim! Você pode fazer ajustes no texto, no tempo e nos estilos mesmo após a geração inicial ser concluída."
+      },
+      {
+        "question": "Quais são os melhores casos de uso para legendas em chamas?",
+        "answer": "Perfeito para aprimorar vídeos de produtos, tutoriais, conteúdo de marketing e qualquer situação onde capturar a atenção do espectador é crítico."
+      },
+      {
+        "question": "Os direitos comerciais estão incluídos nos vídeos gerados?",
+        "answer": "Sim, você tem todos os direitos comerciais para usar vídeos com legendas em chamas em seus projetos sem taxas adicionais."
+      },
+      {
+        "question": "Que suporte está disponível se eu tiver problemas?",
+        "answer": "Visite nossa página de suporte para guias de solução de problemas ou entre em contato diretamente com nossa equipe de suporte para assistência imediata."
+      },
+      {
+        "question": "Posso experimentar esse recurso gratuitamente?",
+        "answer": "Sim! Novos usuários recebem créditos gratuitos para testar o recurso de legendas em chamas em seus vídeos."
+      },
+      {
+        "question": "O que acontece se eu exceder meus créditos?",
+        "answer": "Você pode facilmente comprar créditos adicionais conforme necessário - nosso modelo de pagamento conforme o uso mantém tudo sem complicações."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Aprimorar Seus Vídeos com Legendas em Chamas?",
+    "description": "Comece com créditos gratuitos - Experimente a diferença hoje!",
+    "contactUsText": "Contate-Nos",
+    "tryText": "Experimente Agora →"
+  },
+  "footer": {
+    "heading": "Pronto para Transformar Seus Vídeos?",
+    "description": "Experimente o WaveSpeed AI agora e veja a diferença por si mesmo. Sem necessidade de cadastro.",
+    "ctaText": "Legendas em Chamas Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

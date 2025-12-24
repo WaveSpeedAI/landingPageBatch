@@ -1,0 +1,230 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Kepala Bicara AI",
+  "meta": {
+    "description": "Buat video kepala bicara yang menarik yang dihasilkan AI dari teks atau skrip dengan WaveSpeed AI. Sempurna untuk pembuat konten video, pendidik, dan pemasar yang ingin meningkatkan keterlibatan dan memperlancar produksi. Rasakan masa depan pembuatan video.",
+    "keywords": "kepala bicara AI, teks ke video, generator konten video, alat video pendidikan, WaveSpeed AI, presenter virtual, video pemasaran, otomatisasi video, alat pembuatan konten, solusi video AI, pembuat video e-learning"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Teks ke Video dengan Kepala Bicara AI",
+    "subHeading": "Hidupkan Skrip dengan Suara yang Realistis",
+    "description": "Ubah konten tertulis Anda menjadi video kepala bicara yang menarik dengan mudah. Tidak perlu syuting atau perangkat lunak yang rumit. Manfaatkan teknologi AI canggih kami untuk membuat video yang meningkatkan interaksi dan pemahaman penonton. Mulailah membuat video kepala bicara AI Anda sekarang!",
+    "tryText": "Coba Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Kepala Bicara AI WaveSpeed AI",
+    "left": {
+      "heading": "Tantangan Tradisional",
+      "items": [
+        "Produksi video mahal dan memakan waktu",
+        "Memerlukan aktor, syuting, dan tim produksi",
+        "Penundaan editing dan pasca produksi (hari hingga minggu)",
+        "Kemampuan terbatas untuk menyesuaikan karakter dan suara",
+        "Hambatan investasi tinggi untuk pembuat kecil"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeed AI",
+      "items": [
+        "Buat video kepala bicara dalam hitungan menit dari skrip Anda",
+        "Tidak perlu syuting, peralatan, atau aktor",
+        "Generasi video instan dengan avatar yang dapat disesuaikan",
+        "Pilih dari berbagai opsi dan gaya suara",
+        "Harga fleksibel yang sesuai dengan semua anggaran"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Ubah teks menjadi video dinamis dalam 4 langkah sederhana",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Masukkan Teks",
+        "text": "Masukkan skrip atau dialog Anda untuk kepala bicara",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Pilih Avatar",
+        "text": "Pilih dari berbagai avatar karakter yang dapat disesuaikan",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Pilih Suara",
+        "text": "Pilih suara yang sesuai dengan nada dan gaya konten Anda",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Unduh Video",
+        "text": "Dapatkan video kepala bicara Anda dalam hitungan menit dengan hak penuh",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Hasilkan Video Pertama Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Tanpa Batas",
+    "description": "Ideal untuk berbagai aplikasi",
+    "items": [
+      "Video edukatif untuk guru dan kursus online",
+      "Demonstrasi produk dan tutorial",
+      "Pelatihan corporate dan video onboarding",
+      "Konten pemasaran yang menarik untuk media sosial",
+      "Pesan video personalisasi untuk pelanggan",
+      "Presentasi virtual dan webinar",
+      "Laporan berita atau pengumuman",
+      "Cerita kreatif dan animasi"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Temukan bagaimana orang lain mengubah komunikasi mereka dengan AI",
+    "items": [
+      {
+        "tag": "Pendidikan",
+        "heading": "Instruktur Kursus Online",
+        "before": {
+          "label": "Sebelum",
+          "text": "Slide statis"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Video dinamis"
+        },
+        "value": "85%",
+        "key": "Peningkatan Keterlibatan",
+        "description": "Transisi ke video kepala bicara meningkatkan keterlibatan siswa secara signifikan, menjadikan pengalaman belajar lebih interaktif."
+      },
+      {
+        "tag": "Pemasaran",
+        "heading": "Merek E-commerce",
+        "before": {
+          "label": "Sebelum",
+          "text": "Konversi rendah"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Keterlibatan tinggi"
+        },
+        "value": "50%",
+        "key": "Peningkatan Penjualan",
+        "description": "Menggunakan kepala bicara AI untuk showcase produk meningkatkan tingkat konversi penjualan online kami secara luar biasa."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Model AI",
+    "description": "Pilih model yang tepat untuk kebutuhan Anda",
+    "items": [
+      "Avatar Standar: Representasi yang nyata dengan suara dasar, ideal untuk skrip dan presentasi sederhana",
+      "Avatar Premium: Realisme yang ditingkatkan dengan fitur yang dapat disesuaikan dan opsi suara tingkat profesional",
+      "Teknologi teks ke ucapan menyediakan pengucapan dan intonasi yang alami",
+      "Dukungan bahasa ganda untuk konten internasional",
+      "Waktu generasi cepat untuk hasil instan",
+      "Hak komersial penuh untuk semua video yang dihasilkan"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Jelajahi lebih banyak solusi AI inovatif untuk kebutuhan konten Anda"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Segala yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Jenis konten apa yang paling cocok?",
+        "answer": "Model AI unggul dengan skrip yang jelas dan ringkas, cocok untuk berbagai topik, memastikan bahwa video Anda sesuai dengan audiens yang dituju."
+      },
+      {
+        "question": "Bisakah saya menyesuaikan penampilan avatar?",
+        "answer": "Ya! Anda dapat memodifikasi fitur wajah, pakaian, dan aksesoris untuk sesuai dengan merek atau pesan Anda."
+      },
+      {
+        "question": "Bagaimana saya memastikan suara terdengar alami?",
+        "answer": "Pilih dari perpustakaan suara kami yang luas, masing-masing dirancang untuk menyampaikan emosi dan kejelasan, memastikan pesan Anda menarik."
+      },
+      {
+        "question": "Format apa yang tersedia untuk unduhan video?",
+        "answer": "Video dapat diekspor dalam format berkualitas tinggi yang kompatibel dengan sebagian besar platform, termasuk MP4 untuk berbagi dan distribusi yang mudah."
+      },
+      {
+        "question": "Apakah ada batasan pada panjang skrip?",
+        "answer": "Skrip dapat dibuat sesingkat atau sepanjang yang diperlukan; namun, kami merekomendasikan untuk menjaganya agar tetap ringkas untuk keterlibatan yang optimal."
+      },
+      {
+        "question": "Apakah ada biaya atau biaya tersembunyi?",
+        "answer": "Tidak ada biaya tersembunyi! Model harga kami yang jelas hanya mengenakan biaya untuk video yang dibuat, tanpa langganan."
+      },
+      {
+        "question": "Bisakah saya menghasilkan beberapa video secara bersamaan?",
+        "answer": "Tentu saja! Anda dapat membuat banyak video kepala bicara secara paralel, menghemat waktu dan meningkatkan produktivitas."
+      },
+      {
+        "question": "Apakah saya tetap memiliki hak atas video yang saya buat?",
+        "answer": "Ya, semua video yang dihasilkan adalah milik Anda untuk digunakan secara komersial tanpa biaya lisensi tambahan."
+      },
+      {
+        "question": "Dukungan apa yang tersedia jika saya memerlukan bantuan?",
+        "answer": "Kami menawarkan dukungan ekstensif melalui dokumentasi, tutorial, dan tim layanan pelanggan yang responsif tersedia melalui email dan chat."
+      },
+      {
+        "question": "Berapa lama waktu yang dibutuhkan untuk menerima video saya?",
+        "answer": "Sebagian besar video dihasilkan dan siap untuk diunduh dalam hitungan menit, memungkinkan penciptaan konten yang cepat."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Membuat Video Kepala Bicara AI Pertama Anda?",
+    "description": "Mulailah dengan kredit gratis dan rasakan transformasinya",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Coba Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap untuk Meningkatkan Konten Anda?",
+    "description": "Coba WaveSpeed AI sekarang dan saksikan inovasinya sendiri. Tidak ada pendaftaran yang diperlukan.",
+    "ctaText": "Buat Video Anda Sekarang",
+    "text": "© 2025 WaveSpeed AI. Seluruh hak dilindungi."
+  }
+}

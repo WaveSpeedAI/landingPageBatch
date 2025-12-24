@@ -1,0 +1,230 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Efeito Boomerang de IA",
+  "meta": {
+    "description": "Aproveite o poder da IA para criar loops de vídeo envolventes e dinâmicos que cativam seu público. O recurso Efeito Boomerang transforma instantaneamente suas imagens em clipes de vídeo vibrantes e atraentes, perfeitos para mídias sociais e campanhas de marketing. Revolucione sua criação de conteúdo com o WaveSpeed AI!",
+    "keywords": "Efeito Boomerang de IA, gerador de loops de vídeo, conteúdo de vídeo envolvente, ferramenta de vídeo para mídias sociais, criação de vídeo dinâmico, ferramenta de vídeo para marketing, Wavespeed, solução de vídeo para e-commerce, clipes de vídeo, criador de vídeo em loop, marketing de conteúdo, engajamento em mídias sociais"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de IA",
+        "items": [
+          [
+            "Ferramentas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Demonstração",
+        "items": [
+          [
+            "Demonstração",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Loops de Vídeo Dinâmicos",
+    "subHeading": "Transforme Imagens em Repetições de Vídeo Cativantes",
+    "description": "Dê vida às suas imagens com o Efeito Boomerang de IA, criando loops de vídeo hipnotizantes que mantêm seu público envolvido. É simples e rápido, projetado para criadores de mídias sociais e profissionais de marketing. Comece agora!",
+    "tryText": "Experimente Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução Efeito Boomerang de IA WaveSpeed AI",
+    "left": {
+      "heading": "Desafios Tradicionais",
+      "items": [
+        "Criar loops de vídeo envolventes é demorado",
+        "Altos custos associados à produção de vídeo",
+        "Ferramentas limitadas para efeitos de looping sem emendas",
+        "Difícil de alcançar qualidade profissional facilmente",
+        "Opções inflexíveis para criadores de pequeno porte"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeedAI",
+      "items": [
+        "Crie loops de vídeo instantaneamente a partir de suas imagens",
+        "Acessível e fácil - Basta fazer upload e começar",
+        "Integração sem esforço com mídias sociais",
+        "Iterações e estilos criativos ilimitados",
+        "Uso flexível sem custos ocultos"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "Crie loops de vídeo deslumbrantes em apenas 4 etapas",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Fazer Upload da Imagem",
+        "text": "Escolha a imagem que você deseja animar",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Selecionar Estilo de Loop",
+        "text": "Escolha o estilo de loop, como bounce ou repeat",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Pré-visualizar Animação",
+        "text": "Assista a uma pré-visualização ao vivo do seu loop envolvente",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Baixar Loop",
+        "text": "Receba seu loop de vídeo deslumbrante em instantes",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Crie Seu Primeiro Loop →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilidades Infinitas",
+    "description": "Ideal para várias aplicações e indústrias",
+    "items": [
+      "Postagens em mídias sociais que se destacam",
+      "Loops de marketing para exibições de produtos",
+      "Promoções de eventos e anúncios",
+      "Transformações de antes/depois para produtos",
+      "Conteúdo de histórias animadas criativamente",
+      "Tours virtuais de imóveis com estilo",
+      "Moda e lookbooks em movimento dinâmico",
+      "Anúncios em vídeo curtos que cativam e envolvem"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Descubra como as marcas estão aprimorando sua visibilidade com IA",
+    "items": [
+      {
+        "tag": "Varejo de Moda",
+        "heading": "Campanha no Instagram",
+        "before": {
+          "label": "Antes",
+          "text": "Engajamento estagnado"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Interação aumentada"
+        },
+        "value": "75%",
+        "key": "Aumento de Engajamento",
+        "description": "Ao implementar loops de vídeo para destaques de produtos, nossas taxas de cliques dispararam nas plataformas sociais."
+      },
+      {
+        "tag": "Decoração para Casa",
+        "heading": "Campanha de Vídeo Promocional",
+        "before": {
+          "label": "Antes",
+          "text": "1 semana"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Menos de 5 minutos"
+        },
+        "value": "98%",
+        "key": "Tempo Economizado",
+        "description": "Podemos criar loops de vídeo bonitos em poucos minutos, maximizando nossa eficiência de marketing."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Modelos de IA",
+    "description": "Selecione o melhor estilo de loop para seu conteúdo",
+    "items": [
+      "Loop Bounce: Cria movimento eficaz e chamativo",
+      "Loop Repeat: Transições sem emendas em ciclos infinitos",
+      "Física natural para animações realistas",
+      "Efeitos de movimento fluido e visuais cativantes",
+      "Tempo de geração rápido para entrega ágil",
+      "Direitos comerciais para todos os loops gerados"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Mergulhe em mais soluções inovadoras de IA para seus projetos"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo o que você precisa saber",
+    "items": [
+      {
+        "question": "Quais tipos de imagens funcionam melhor para o Efeito Boomerang de IA?",
+        "answer": "Imagens de alta qualidade com sujeitos claros produzem os melhores loops. Certifique-se de que estejam bem iluminadas, com pelo menos 512x512 pixels de tamanho, e que contrastem bem com o fundo para resultados ideais."
+      },
+      {
+        "question": "Posso personalizar os efeitos de looping?",
+        "answer": "Absolutamente! Você pode escolher entre diferentes estilos como bounce ou repeat, permitindo criar animações únicas que se encaixam na identidade da sua marca."
+      },
+      {
+        "question": "Quanto tempo leva para gerar um loop de vídeo?",
+        "answer": "Tipicamente, a geração ocorre em 1-3 minutos, permitindo a criação rápida de múltiplos loops de vídeo envolventes para suas campanhas."
+      },
+      {
+        "question": "Existem direitos comerciais para os loops criados?",
+        "answer": "Sim, todos os loops de vídeo gerados incluem direitos comerciais completos, permitindo que você os use livremente para marketing ou fins promocionais."
+      },
+      {
+        "question": "Quais plataformas são compatíveis com o Efeito Boomerang?",
+        "answer": "Os loops de vídeo são projetados para fácil compartilhamento em todas as principais plataformas de mídias sociais, incluindo Instagram, TikTok e Facebook, maximizando seu alcance."
+      },
+      {
+        "question": "Há suporte disponível para resolução de problemas?",
+        "answer": "Sim! Fornecemos documentação extensa, tutoriais e canais de suporte responsivos para auxiliá-lo com quaisquer problemas técnicos que possam surgir."
+      },
+      {
+        "question": "Posso gerar vários loops de vídeo ao mesmo tempo?",
+        "answer": "Sim, você pode facilmente criar vários loops simultaneamente, tornando simples a experimentação com diferentes estilos e animações."
+      },
+      {
+        "question": "Qual é a estrutura de custos para usar o recurso Efeito Boomerang?",
+        "answer": "Utilizamos um modelo de pagamento por uso, onde você só paga pelos loops que cria, com preços variando de acordo com os estilos selecionados."
+      },
+      {
+        "question": "Preciso de habilidades de design para usar esse recurso?",
+        "answer": "Nenhuma habilidade de design é necessária! O Efeito Boomerang de IA é amigável e requer apenas uploads básicos para criar animações deslumbrantes de maneira eficiente."
+      },
+      {
+        "question": "Que tipo de resultados posso esperar ao usar o Efeito Boomerang de IA?",
+        "answer": "Espere loops de vídeo envolventes e de alta qualidade que aprimoram a interação dos espectadores e melhoram enormemente sua presença nas mídias sociais."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Criar Seu Primeiro Loop Dinâmico?",
+    "description": "Comece com créditos gratuitos - Experimente a transformação hoje!",
+    "contactUsText": "Entre em Contato Conosco",
+    "tryText": "Experimente Agora →"
+  },
+  "footer": {
+    "heading": "Pronto para Energizar Seu Conteúdo?",
+    "description": "Explore o Efeito Boomerang de IA agora e crie vídeos cativantes. Nenhum cadastro necessário.",
+    "ctaText": "Crie Seu Loop Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Highlight Detector",
+  "meta": {
+    "description": "Effortlessly identify key highlights in your videos with AI. Boost engagement and focus attention where it matters most in your content. Perfect for marketers, educators, and content creators looking to streamline video production and maximize impact.",
+    "keywords": "AI highlight detector, video highlight extraction, automatic highlight detection, video editing AI, content creation tool, marketing video highlights, social media engagement, video summaries, video content optimization"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Highlight Detection Made Easy",
+    "subHeading": "Pinpoint Key Moments in Your Videos",
+    "description": "Automatically identify and extract highlights from your video content, allowing you to emphasize what matters most. Save time and enhance viewer engagement with our advanced AI algorithms. Start your free trial today!",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Highlight Detector Solution",
+    "left": {
+      "heading": "Traditional Challenges",
+      "items": [
+        "Manual highlight selection is tedious and time-consuming",
+        "Requires extensive video editing skills",
+        "Inconsistent highlight choices can confuse viewers",
+        "Limited ability to focus attention on key moments",
+        "High production costs limit extensive video content"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Instantly detect and extract highlights from videos",
+        "No editing expertise required - Just upload your video",
+        "Consistent and accurate highlight identification",
+        "Optimized for viewer engagement and retention",
+        "Affordable pay-as-you-go pricing for everyone"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Effortlessly find highlights in just 4 steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Video",
+        "text": "Upload your content easily and quickly",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Select Highlight Parameters",
+        "text": "Specify what moments to focus on (e.g., \"best quotes\", \"funniest moments\")",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Analyze and Detect",
+        "text": "Let our AI analyze your video to find key highlights",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Highlights",
+        "text": "Receive your edited highlights in moments, ready to share",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Generate Your Highlight Clips →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Perfect for any video type or industry",
+    "items": [
+      "Event highlight reels",
+      "Sports moment captures",
+      "Educational content summaries",
+      "Corporate training clips",
+      "Social media video teasers",
+      "Vlogs and personal stories",
+      "Webinars and presentations",
+      "Fashion show highlights"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "How creators are revolutionizing their content with AI",
+    "items": [
+      {
+        "tag": "Marketing Agency",
+        "heading": "Brand Campaign Highlights",
+        "before": {
+          "label": "Before",
+          "text": "Manual selection took hours"
+        },
+        "after": {
+          "label": "After",
+          "text": "Automated in minutes"
+        },
+        "value": "97%",
+        "key": "Time Savings",
+        "description": "We reduced highlight editing time from hours to minutes, significantly speeding up our campaign delivery."
+      },
+      {
+        "tag": "Educational Platform",
+        "heading": "Course Video Summaries",
+        "before": {
+          "label": "Before",
+          "text": "Requires 1 week"
+        },
+        "after": {
+          "label": "After",
+          "text": "Finished in 1 hour"
+        },
+        "value": "95%",
+        "key": "Production Time Cut",
+        "description": "Our instructors can now focus on creating content instead of editing, enhancing the overall learning experience."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Model Comparison",
+    "description": "Select the right features for your needs",
+    "items": [
+      "Standard Highlight Detector: Basic moments captured for quick editing",
+      "Advanced Highlight Detector: Encompasses emotional response and engagement metrics",
+      "Custom highlight settings for tailored video outputs",
+      "Supports a variety of video formats and resolutions",
+      "Fast processing time for instant results",
+      "Commercial usage rights included"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore more powerful AI solutions for video production"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What types of videos work best with the highlight detector?",
+        "answer": "Our tool is optimized for all types of video content, including social media clips, vlogs, webinars, and more. It performs best with clear audio and visual cues to identify highlights effectively."
+      },
+      {
+        "question": "Can I set specific criteria for highlights?",
+        "answer": "Absolutely! You can define parameters such as 'most engaging moments', 'key quotes', or 'action-packed scenes' to tailor highlight detection to your content's needs."
+      },
+      {
+        "question": "How long does the highlight detection process take?",
+        "answer": "Detection is incredibly fast, typically taking just a couple of minutes depending on video length. Enjoy efficient turnaround no matter how big or small the project."
+      },
+      {
+        "question": "What formats can I upload?",
+        "answer": "We support a wide range of video formats including MP4, AVI, and MOV for seamless processing. Ensure your videos are adequately compressed for optimal performance."
+      },
+      {
+        "question": "Are the highlights I receive ready for use?",
+        "answer": "Yes! The highlights extracted are fully editable and ready for immediate sharing or integration into other projects."
+      },
+      {
+        "question": "Do I need editing software to refine the highlights?",
+        "answer": "While the highlights are ready to use, you can further enhance them with your preferred editing software if desired."
+      },
+      {
+        "question": "How often is the highlight detection model updated?",
+        "answer": "Our AI models are continuously improved based on user feedback and ongoing research to ensure optimal performance and accuracy."
+      },
+      {
+        "question": "Is there support available if I run into issues?",
+        "answer": "Yes! We offer comprehensive support through documentation, tutorials, and a dedicated support team to assist you with any questions or challenges."
+      },
+      {
+        "question": "What is the pricing structure for using the highlight detector?",
+        "answer": "We operate on a flexible pay-as-you-go model with no monthly fees. Costs are based on the video length and complexity of the highlight detection process."
+      },
+      {
+        "question": "Can I use the highlights commercially?",
+        "answer": "Absolutely! All highlights produced through our platform come with full commercial rights, allowing you to use them in promotions, ads, and any other commercial endeavors."
+      },
+      {
+        "question": "Is there a limit to the number of videos I can process?",
+        "answer": "No, you can process as many videos as you need without limits. Enjoy our robust infrastructure designed to handle multiple video uploads efficiently."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Detect Your Video Highlights?",
+    "description": "Start with free credits and see the power of AI in action!",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Ready to Uncover Key Moments?",
+    "description": "Experience the AI Highlight Detector and transform your video content today. No sign-up required.",
+    "ctaText": "Detect Highlights Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

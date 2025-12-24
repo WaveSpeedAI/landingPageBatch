@@ -1,0 +1,230 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Générateur de Chapitres Vidéo AI",
+  "meta": {
+    "description": "Créez sans effort des chapitres vidéo engageants avec l'IA. Parfait pour les cours en ligne, les webinaires et les créateurs de contenu. Améliorez l'expérience des spectateurs et augmentez la rétention !",
+    "keywords": "générateur de chapitres vidéo AI, segmentation vidéo, marqueurs de contenu, création vidéo AI, technologie vidéo interactive, outils de cours en ligne, amélioration de l'engagement, chapitres vidéo tutoriels, outils de contenu éducatif, outils vidéo pour webinaires, création de contenu"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils AI",
+        "items": [
+          [
+            "Outils AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Chapitrez Vos Vidéos",
+    "subHeading": "Créez Instantanément des Chapitres Vidéo Engagés",
+    "description": "Transformez les vidéos longues en expériences interactives avec des chapitres générés par l'IA. Améliorez l'engagement et la navigation pour votre public en quelques secondes. Essayez-le maintenant !",
+    "tryText": "Essayez-le Maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution Générateur de Chapitres Vidéo AI WaveSpeed",
+    "left": {
+      "heading": "Défis de Montage Vidéo Traditionnel",
+      "items": [
+        "La création manuelle de chapitres est chronophage",
+        "Nécessite des compétences en montage technique",
+        "Difficile de maintenir l'engagement des spectateurs",
+        "Personnalisation limitée pour les différents segments",
+        "Conduit souvent à une perte de spectateurs"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed AI",
+      "items": [
+        "Génération automatique de chapitres vidéo en quelques minutes",
+        "Aucune compétence en montage requise - Il suffit de télécharger votre vidéo",
+        "Augmentez l'engagement des spectateurs avec une navigation facile",
+        "Chapitres personnalisables en fonction des thèmes du contenu",
+        "Modèle de tarification abordable, à payer par chapitre"
+      ],
+      "tryText": "Essayez"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment Ça Marche",
+    "description": "De la vidéo complète aux chapitres segmentés en 4 étapes faciles",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Téléchargez Votre Vidéo",
+        "text": "Téléchargez simplement votre contenu vidéo long",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Sélectionnez les Marqueurs de Chapitre",
+        "text": "Choisissez comment vous souhaitez définir les chapitres (par exemple, sujets, intervalles de temps)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Personnalisez les Chapitres",
+        "text": "Ajoutez des titres et des descriptions à chaque chapitre pour plus de clarté",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Téléchargez Votre Vidéo Chapitrée",
+        "text": "Recevez votre vidéo interactive avec des chapitres complets en quelques instants",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Créez Votre Première Vidéo Chapitrée →"
+  },
+  "endlessPossibilities": {
+    "heading": "Utilisations Illimitées",
+    "description": "Idéal pour diverses applications et industries",
+    "items": [
+      "Segments de cours en ligne pour la navigation des étudiants",
+      "Points forts des webinaires pour une référence facile",
+      "Vidéos YouTube avec un chapitrage amélioré",
+      "Modules de formation en entreprise avec des sujets clairs",
+      "Vidéos de démonstration de produits avec des caractéristiques segmentées",
+      "Enregistrements d'événements avec une navigation conviviale",
+      "Tutoriels éducatifs avec des points clés marqués",
+      "Contenu en streaming pour un meilleur engagement du public"
+    ]
+  },
+  "successStories": {
+    "heading": "Vraies Histoires de Succès",
+    "description": "Découvrez comment les utilisateurs révolutionnent la livraison de leur contenu avec l'IA",
+    "items": [
+      {
+        "tag": "E-Learning",
+        "heading": "Créateur de Cours en Ligne",
+        "before": {
+          "label": "Avant",
+          "text": "Chapitres laborieux"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Création instantanée de chapitres"
+        },
+        "value": "95%",
+        "key": "Temps Économisé",
+        "description": "Les chapitres ont aidé les étudiants à naviguer efficacement dans les cours. Les retours se sont améliorés de manière spectaculaire !"
+      },
+      {
+        "tag": "Formation en Entreprise",
+        "heading": "Vidéos de Formation en Entreprise",
+        "before": {
+          "label": "Avant",
+          "text": "Longues vidéos déroutantes"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Structurées avec des chapitres"
+        },
+        "value": "90%",
+        "key": "Augmentation de l'Engagement",
+        "description": "Les employés trouvent désormais facilement les sections pertinentes. Les taux de complétion des formations ont grimpé en flèche."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison des Modèles AI",
+    "description": "Sélectionnez le meilleur modèle pour vos besoins en chapitrage",
+    "items": [
+      "Chapitres Standard : Méthode de création de segments rapide avec une IA basique",
+      "Chapitres Contextuels Avancés : Comprend le contexte du contenu vidéo pour des suggestions de chapitres nuancées",
+      "Horodatages personnalisables avec préférences définies par l'utilisateur",
+      "Mises à jour en temps réel lorsque les vidéos sont modifiées ou changées",
+      "Fonctionne sans problème avec divers types de vidéos et formats",
+      "Outils de navigation de chapitres intégrés pour les spectateurs"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils AI Connexes",
+    "description": "Découvrez d'autres outils pilotés par l'IA pour améliorer la création de contenu"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quels types de vidéos peuvent bénéficier du chapitrage ?",
+        "answer": "Tout contenu long comme des cours en ligne, des webinaires, des conférences ou des tutoriels peut tirer parti du chapitrage pour améliorer l'expérience des spectateurs et la rétention."
+      },
+      {
+        "question": "Puis-je personnaliser les titres et descriptions des chapitres ?",
+        "answer": "Oui ! Vous avez le contrôle total pour personnaliser le titre et la description de chaque chapitre pour assurer clarté et pertinence pour votre public."
+      },
+      {
+        "question": "Combien de temps faut-il pour générer des vidéos chapitrées ?",
+        "answer": "Le processus de génération est rapide, généralement terminé en quelques minutes selon la longueur de la vidéo."
+      },
+      {
+        "question": "Y a-t-il une limite au nombre de chapitres que je peux créer ?",
+        "answer": "Non, vous pouvez créer autant de chapitres que nécessaire pour votre contenu vidéo !"
+      },
+      {
+        "question": "Quels formats vidéo sont supportés pour le téléchargement ?",
+        "answer": "Nous acceptons divers formats, y compris MP4, AVI et MOV pour une intégration fluide."
+      },
+      {
+        "question": "Comment fonctionne la tarification pour la génération de chapitres ?",
+        "answer": "Notre tarification est basée sur un modèle à payer par chapitre, vous permettant de gérer les coûts efficacement en fonction de vos besoins."
+      },
+      {
+        "question": "Puis-je utiliser des marqueurs de chapitre pour des diffusions en direct ?",
+        "answer": "Oui ! Vous pouvez créer des chapitres pour des diffusions en direct enregistrées, les rendant plus accessibles pour les spectateurs après la diffusion."
+      },
+      {
+        "question": "Y a-t-il des droits commerciaux associés aux vidéos générées ?",
+        "answer": "Toutes les vidéos traitées via notre plateforme viennent avec des droits commerciaux complets pour une utilisation sans restrictions sur tous les médias."
+      },
+      {
+        "question": "Quelles ressources de support sont disponibles pour dépannage ?",
+        "answer": "Nous offrons un support étendu comprenant de la documentation, des tutoriels vidéo et une équipe de support dédiée pour aider avec tout problème."
+      },
+      {
+        "question": "Y a-t-il une option pour le traitement par lots de plusieurs vidéos ?",
+        "answer": "Oui, vous pouvez traiter par lots plusieurs vidéos pour rationaliser votre flux de création de contenu."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Créer des Chapitres Vidéo Engagés ?",
+    "description": "Commencez avec des crédits gratuits pour l'expérimenter par vous-même",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Essayez-le Maintenant →"
+  },
+  "footer": {
+    "heading": "Transformez Votre Contenu Vidéo Aujourd'hui !",
+    "description": "Découvrez WaveSpeed AI et élevez vos chapitres vidéo. Aucune inscription requise.",
+    "ctaText": "Commencez à Chapitrer Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

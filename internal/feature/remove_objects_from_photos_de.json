@@ -1,0 +1,229 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - KI Bild-zu-Video Generator",
+  "meta": {
+    "description": "Entfernen Sie mühelos unerwünschte Objekte aus Ihren Fotos für klarere, professionellere Bilder. Ideal für E-Commerce, Marketing und persönliche Nutzung. Beginnen Sie noch heute, Ihre Fotos mit WaveSpeed AI zu transformieren!",
+    "keywords": "Objekte aus Fotos entfernen KI, Foto-Bearbeitungswerkzeug, E-Commerce Bildverbesserer, professionelle Fotoretusche, KI Bildbereinigung, Wavespeed AI, Fotoverbesserung, Hintergrundentfernung, Online Foto-Bearbeitung"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI-Tools",
+        "items": [
+          [
+            "KI-Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "Unerwünschte Objekte aus Fotos entfernen",
+    "subHeading": "Verbessern Sie Ihre Bilder sofort",
+    "description": "Beseitigen Sie Ablenkungen aus Ihren Fotos und lassen Sie sie in kürzester Zeit professionell aussehen. Unsere KI-Technologie ermöglicht es Ihnen, Ihre Bilder einfach hochzuladen und unerwünschte Elemente mit Präzision zu entfernen. Erleben Sie eine nahtlose Transformation und verbessern Sie noch heute Ihre visuellen Inhalte!",
+    "tryText": "Jetzt ausprobieren",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI Lösung zum Entfernen von Objekten aus Fotos",
+    "left": {
+      "heading": "Traditionelle Bearbeitungsprobleme",
+      "items": [
+        "Manuelle Bearbeitung ist mühsam und zeitaufwendig",
+        "Erfordert fortgeschrittene Fähigkeiten in Software wie Photoshop",
+        "Anfällig für menschliche Fehler und inkonsistente Ergebnisse",
+        "Hohe Kosten für die Einstellung von Fachleuten",
+        "Begrenzt auf kleine Anpassungen und Korrekturen"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI Lösung",
+      "items": [
+        "Objekte in Sekunden mit KI-gesteuerter Technologie entfernen",
+        "Keine Designkompetenzen erforderlich - Einfach hochladen und klicken",
+        "Konstante Qualität mit automatisierter Präzision",
+        "Wirtschaftliche Lösung für jedes Budget",
+        "Unbegrenzte Überarbeitungen für perfekte Ergebnisse"
+      ],
+      "tryText": "Probieren"
+    }
+  },
+  "howItWorks": {
+    "heading": "So funktioniert es",
+    "description": "Erreichen Sie saubere Fotos in 3 einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Bild hochladen",
+        "text": "Laden Sie das Foto hoch, das unerwünschte Objekte enthält",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Objekte auswählen",
+        "text": "Heben Sie die Elemente hervor, die Sie aus dem Bild entfernen möchten",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Modell auswählen",
+        "text": "Wählen Sie Veo 3.1 für Premium-Qualität oder Seedance für Schnelligkeit",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Bearbeitetes Foto herunterladen",
+        "text": "Erhalten Sie das bearbeitete Foto ohne Ablenkungen in nur wenigen Momenten",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Verbessern Sie Ihr erstes Foto →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endlose Möglichkeiten",
+    "description": "Perfekt für eine Vielzahl von Anwendungen",
+    "items": [
+      "E-Commerce Produktbilder",
+      "Soziale Medien Beiträge und Werbung",
+      "Immobilienanzeigen",
+      "Eventfotografie",
+      "Familienporträts",
+      "Modefotografie",
+      "Blogvisuals",
+      "Jedes Bild, das eine Verbesserung benötigt"
+    ]
+  },
+  "successStories": {
+    "heading": "Reale Erfolgsgeschichten",
+    "description": "Entdecken Sie, wie unsere Kunden ihre visuellen Inhalte mit KI perfektionieren",
+    "items": [
+      {
+        "tag": "E-Commerce",
+        "heading": "Online Einzelhandelsgeschäft",
+        "before": {
+          "label": "Vorher",
+          "text": "Überladene Bilder"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Sauberer, professioneller Look"
+        },
+        "value": "80%",
+        "key": "Steigerung der Konversionsrate",
+        "description": "Das Entfernen von Ablenkungen hat unsere Online-Verkäufe erheblich gesteigert, da die Kunden sich auf das Produkt konzentrieren konnten."
+      },
+      {
+        "tag": "Fotografie",
+        "heading": "Eventfotograf",
+        "before": {
+          "label": "Vorher",
+          "text": "Unruhige Hintergründe"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Beeindruckende Porträts"
+        },
+        "value": "90%",
+        "key": "Zeitersparnis",
+        "description": "Die KI-Bearbeitung hat unseren Arbeitsablauf optimiert und eine schnellere Lieferung der bearbeiteten Fotos an die Kunden ermöglicht."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "KI Modellvergleich",
+    "description": "Wählen Sie den besten Ansatz für Ihre Foto-Bearbeitungen",
+    "items": [
+      "Standardentfernung: Schnelle Bearbeitungen für einfache Hintergründe",
+      "Erweiterte Entfernung: Für komplexe Szenen mit mehreren Elementen",
+      "Textgestützte Bearbeitung zur präzisen Objektidentifikation",
+      "Nahtlose Integration in bestehende Arbeitsabläufe",
+      "Schnelle Verarbeitungszeit mit hochwertiger Ausgabe"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ähnliche KI-Tools",
+    "description": "Erforschen Sie weitere leistungsstarke Werkzeuge zur Verbesserung von Fotos"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welche Arten von Bildern eignen sich am besten für die Objektentfernung?",
+        "answer": "Bilder mit klaren Hintergründen liefern die besten Ergebnisse, obwohl unsere KI auch komplexe Szenen effektiv bearbeiten kann. Der Schlüssel ist, hochauflösende Bilder mit minimalen Störungen zu haben."
+      },
+      {
+        "question": "Wie präzise ist der Prozess der Objektentfernung?",
+        "answer": "Unsere KI-Technologie liefert hohe Genauigkeit und sorgt dafür, dass Objekte nahtlos entfernt werden, während die Bildqualität und die Integrität des Hintergrunds erhalten bleiben."
+      },
+      {
+        "question": "Kann ich Änderungen rückgängig machen, wenn ich nicht zufrieden bin?",
+        "answer": "Ja! Sie können jederzeit einfach zum ursprünglichen Foto zurückkehren, was Flexibilität in Ihrem Bearbeitungsprozess ermöglicht."
+      },
+      {
+        "question": "Welche Dateiformate unterstützen Sie?",
+        "answer": "Wir unterstützen JPG-, PNG- und WebP-Formate und gewährleisten Kompatibilität mit den meisten gängigen Bildern."
+      },
+      {
+        "question": "Gibt es eine Grenze für die Anzahl der Bilder, die ich bearbeiten kann?",
+        "answer": "Nein, es gibt keine Grenze! Sie können nach Bedarf mehrere Bilder hochladen und bearbeiten."
+      },
+      {
+        "question": "Brauche ich Design-Erfahrung, um dieses Tool zu verwenden?",
+        "answer": "Ganz und gar nicht! Die benutzerfreundliche Oberfläche ist für jeden konzipiert, unabhängig von Designfähigkeiten."
+      },
+      {
+        "question": "Wie lange dauert es, Objekte aus einem Foto zu entfernen?",
+        "answer": "Der Prozess ist sehr schnell und wird normalerweise in weniger als einer Minute abgeschlossen, abhängig von der Komplexität des Bildes."
+      },
+      {
+        "question": "Gibt es versteckte Gebühren?",
+        "answer": "Keine versteckten Gebühren! Wir arbeiten nach einem transparenten Pay-as-you-go-Modell, bei dem Sie nur für die Bearbeitungen bezahlen, die Sie durchführen."
+      },
+      {
+        "question": "Kann ich die bearbeiteten Bilder für kommerzielle Zwecke verwenden?",
+        "answer": "Ja! Sie besitzen alle Rechte an den Bildern, die Sie mit unserem Tool bearbeitet haben, und können diese kommerziell ohne zusätzliche Gebühren nutzen."
+      },
+      {
+        "question": "Welche Art von Unterstützung ist verfügbar?",
+        "answer": "Wir bieten umfangreiche Unterstützung durch Dokumentationen, Tutorials und ein Support-Team, das bereit ist, Sie bei Fragen oder Problemen zu unterstützen."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Ihre Fotos zu säubern?",
+    "description": "Beginnen Sie mit kostenlosen Credits zu bearbeiten - Transformieren Sie jetzt Ihre Bilder!",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Jetzt ausprobieren →"
+  },
+  "footer": {
+    "heading": "Bereit, Ihre Fotos zu transformieren?",
+    "description": "Probieren Sie WaveSpeed AI jetzt aus und sehen Sie den Unterschied selbst. Keine Anmeldung erforderlich.",
+    "ctaText": "Objekte jetzt entfernen",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

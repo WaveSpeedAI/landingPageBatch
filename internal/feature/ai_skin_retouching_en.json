@@ -1,0 +1,226 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Skin Retouching",
+  "meta": {
+    "description": "Achieve flawless skin in photos with our AI Skin Retouching feature. Perfect for portrait photographers, beauty brands, and social media influencers seeking to enhance their images effortlessly. Black Friday exclusive offers!",
+    "keywords": "AI skin retouching, photo enhancement, beauty filter, portrait editing, professional retouching tool, e-commerce beauty images, social media photo editor, AI image processing, flawless skin editor, Black Friday deals"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "AI Skin Retouching",
+    "subHeading": "Transform Your Photos with Perfect Skin",
+    "description": "Enhance skin tones and textures in your photos automatically. Perfect for photographers and influencers who want eye-catching results in seconds. Say goodbye to manual edits and enjoy professional quality with just one click.",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Skin Retouching Solution",
+    "left": {
+      "heading": "Traditional Challenges",
+      "items": [
+        "Time-consuming manual retouching (over 1 hour per image)",
+        "Requires advanced Photoshop skills",
+        "Inconsistent results across different images",
+        "High costs for professional retouching services",
+        "Difficulties in achieving a natural look"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI Solution",
+      "items": [
+        "Achieve flawless skin in seconds with AI",
+        "User-friendly interface - no skills required",
+        "Consistent and natural results every time",
+        "Affordable pricing with pay-as-you-go model",
+        "Instant retouching and editing capabilities"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Get flawless skin in just 4 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Image",
+        "text": "Upload your portrait or beauty shot",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Select Features",
+        "text": "Choose areas to enhance: smooth skin, reduce blemishes",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Adjust Settings",
+        "text": "Fine-tune skin textures and tones with simple sliders",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Retouched Photo",
+        "text": "Get your enhanced image in seconds, ready for use",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Generate Your First Retouch →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Perfect for any photo context",
+    "items": [
+      "Portraits for models and influencers",
+      "E-commerce beauty product images",
+      "Wedding and event photography",
+      "Social media profile pictures",
+      "Fashion lookbooks and editorials",
+      "Family and group portraits",
+      "Real estate photography",
+      "Professional headshots"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how clients are enhancing their images with AI",
+    "items": [
+      {
+        "tag": "Beauty Brand",
+        "heading": "Promotional Campaign",
+        "before": {
+          "label": "Before",
+          "text": "Hours of manual editing"
+        },
+        "after": {
+          "label": "After",
+          "text": "Flawless results in seconds"
+        },
+        "value": "95%",
+        "key": "Time Saved",
+        "description": "Our campaign images saw a stunning boost in engagement, making our products irresistible."
+      },
+      {
+        "tag": "Photography Studio",
+        "heading": "Client Portraits",
+        "before": {
+          "label": "Before",
+          "text": "Inconsistent quality"
+        },
+        "after": {
+          "label": "After",
+          "text": "Uniform, high-quality results"
+        },
+        "value": "98%",
+        "key": "Quality Improvement",
+        "description": "Quick retouching allowed us to deliver stunning portfolios that impressed all clients."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Model Comparison",
+    "description": "Select the right settings for your needs",
+    "items": [
+      "Skin Smoothing: Natural texture with no shine",
+      "Blemish Removal: Targeted area treatment for a flawless look",
+      "Tone Adjustment: Enhance skin tones to match lighting",
+      "Pro Retouch: Add finishing touches for photography-grade results",
+      "Batch Processing: Edit multiple images simultaneously",
+      "Commercial usage rights included"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore more innovative AI tools for photography"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What type of images works best for skin retouching?",
+        "answer": "High-resolution portraits with good lighting are ideal. Avoid heavily shadowed or overly bright images to ensure the best results."
+      },
+      {
+        "question": "Can I revert changes after retouching?",
+        "answer": "Yes! You can easily undo edits or start over if you're not satisfied with the results."
+      },
+      {
+        "question": "Are there any limitations on image usage post-retouching?",
+        "answer": "No limitations! You retain full rights to any images retouched with our service, allowing for commercial use."
+      },
+      {
+        "question": "How fast is the retouching process?",
+        "answer": "The process typically takes just seconds to complete, making it easy for you to enhance large batches of images."
+      },
+      {
+        "question": "Can I customize the level of enhancement?",
+        "answer": "Absolutely! Use intuitive sliders to adjust skin smoothing, blemish removal, and tone adjustments according to your preference."
+      },
+      {
+        "question": "Is this software compatible with other editing tools?",
+        "answer": "Yes! You can use it as a standalone tool or as an additional layer of enhancement in your preferred editing software."
+      },
+      {
+        "question": "What happens if the AI doesn't meet my expectations?",
+        "answer": "We provide redo options and support to ensure you’re completely satisfied with your results."
+      },
+      {
+        "question": "Is there a subscription fee for using the tool?",
+        "answer": "No subscriptions! You only pay for the retouched images you generate, with flexible pricing."
+      },
+      {
+        "question": "What support resources are available if I run into issues?",
+        "answer": "We offer comprehensive documentation, quick response customer support, and community resources for troubleshooting."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Enhance Your Photos?",
+    "description": "Start with free credits - Experience the power of AI retouching today",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Ready to Transform Your Photos?",
+    "description": "Try WaveSpeed AI now and see the difference for yourself. No sign-up required.",
+    "ctaText": "Remove Blemishes Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

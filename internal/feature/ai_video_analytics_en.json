@@ -1,0 +1,229 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Video Analytics",
+  "meta": {
+    "description": "Unlock powerful insights from your video content with WaveSpeed AI Video Analytics. Analyze viewer engagement, optimize performance, and drive higher conversions with data-driven decisions. Perfect for marketers and content creators!",
+    "keywords": "video analytics, AI analytics tool, viewer engagement analytics, performance tracking, marketing insights, video performance optimization, content analytics, e-commerce video analytics, social media video insights, video conversion rate analysis"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Video Analytics",
+    "subHeading": "Gain Insights from Your Videos Like Never Before",
+    "description": "Transform your approach with AI-powered analytics that monitor viewer behavior and engagement in real-time. Maximize your video strategy and boost conversions effortlessly. Start analyzing today!",
+    "tryText": "Start Analyzing Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI Video Analytics Solution",
+    "left": {
+      "heading": "Traditional Analytics Challenges",
+      "items": [
+        "Manual tracking of viewer metrics is labor-intensive",
+        "Inconsistent data leads to poor decision-making",
+        "Time-consuming reporting processes",
+        "Limited insights on audience engagement",
+        "High costs for complex analytics solutions"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Real-time analytics for immediate insights",
+        "Automated reporting simplifies your workflow",
+        "Deep engagement metrics to refine content strategy",
+        "Affordable subscription plans for all businesses",
+        "Actionable recommendations to improve performance"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Gain actionable insights in 4 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Video",
+        "text": "Upload your video content for analysis",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Set Goals",
+        "text": "Define the analytics metrics that matter most to you",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Analyze Data",
+        "text": "Receive in-depth reports on viewer engagement and behavior",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Optimize Strategy",
+        "text": "Adjust your content based on insights for better results",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Start Analyzing Your Videos →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Perfect for any video content",
+    "items": [
+      "Track engagement on marketing videos",
+      "Analyze performance for social media content",
+      "Measure audience reactions in webinars",
+      "Optimize video strategies in e-learning",
+      "Enhance video content for product launches",
+      "Monitor analytics for live streaming events",
+      "Refine content marketing campaigns",
+      "Gain insights for corporate training videos"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "See how businesses are transforming their analytics with AI",
+    "items": [
+      {
+        "tag": "Marketing",
+        "heading": "E-commerce Video Ads",
+        "before": {
+          "label": "Before",
+          "text": "Low engagement rates"
+        },
+        "after": {
+          "label": "After",
+          "text": "Increased engagement by 50%"
+        },
+        "value": "50%",
+        "key": "Engagement Growth",
+        "description": "Using AI insights, we identified optimal video lengths and enhanced our call-to-action placements, boosting audience engagement significantly."
+      },
+      {
+        "tag": "Education",
+        "heading": "Online Courses",
+        "before": {
+          "label": "Before",
+          "text": "High drop-off rates"
+        },
+        "after": {
+          "label": "After",
+          "text": "Improved retention by 70%"
+        },
+        "value": "70%",
+        "key": "Retention Improvement",
+        "description": "Analytics revealed key moments where learners lost interest, allowing us to refine course content and improve completion rates."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Analytics Model Comparison",
+    "description": "Choose the right analytics model for your goals",
+    "items": [
+      "Standard Model: Basic engagement metrics, real-time tracking, simple reports",
+      "Advanced Model: Comprehensive insights, predictive analytics, customized reporting",
+      "Integration with existing platforms for seamless workflow",
+      "User-friendly dashboard for quick data access",
+      "Real-time alerts for performance spikes or drops"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore more powerful AI tools for content optimization"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What metrics can I track with video analytics?",
+        "answer": "You can track viewer counts, engagement rates, average watch time, click-through rates, and geographic locations, among many other metrics."
+      },
+      {
+        "question": "How frequently are the analytics updated?",
+        "answer": "Analytics are updated in real-time, allowing you to monitor your video's performance as it gathers views."
+      },
+      {
+        "question": "Can I integrate this tool with other platforms?",
+        "answer": "Yes, our solution integrates seamlessly with popular marketing and content management platforms to enhance your workflow."
+      },
+      {
+        "question": "What types of videos can I analyze?",
+        "answer": "You can analyze any video content including marketing videos, webinars, educational content, and more."
+      },
+      {
+        "question": "Is there a limit to the number of videos I can analyze?",
+        "answer": "No, there are no limits on the number of videos you can upload and analyze. Manage as many as you need."
+      },
+      {
+        "question": "Do I need technical skills to use the analytics tools?",
+        "answer": "No, our tools are designed to be user-friendly and accessible, allowing anyone to utilize them without technical expertise."
+      },
+      {
+        "question": "Can I customize the reports generated from video analytics?",
+        "answer": "Yes, you can create customized reports tailored to your specific analytics needs and metrics."
+      },
+      {
+        "question": "What types of support do you offer for users?",
+        "answer": "We provide comprehensive support including documentation, tutorials, and a responsive support team for any inquiries."
+      },
+      {
+        "question": "Do I get commercial usage rights for insights generated?",
+        "answer": "Yes, all insights and analytics reports generated are yours to utilize freely in your business and marketing strategies."
+      },
+      {
+        "question": "What is the pricing model for using video analytics?",
+        "answer": "Our pricing model is flexible, based on the number of videos analyzed and the analytics features utilized, with no hidden fees."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Unlock Video Insights?",
+    "description": "Start with free credits - Experience the power of AI analytics",
+    "contactUsText": "Contact Us",
+    "tryText": "Start Analyzing Now →"
+  },
+  "footer": {
+    "heading": "Ready to Enhance Your Video Strategy?",
+    "description": "Try WaveSpeed AI now and see the difference for yourself. No sign-up required.",
+    "ctaText": "Get Started Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

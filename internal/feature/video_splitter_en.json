@@ -1,0 +1,214 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Video Splitter",
+  "meta": {
+    "description": "Effortlessly split long videos into shareable clips using advanced AI technology. Perfect for social media, marketing, and content creation. Start enhancing your video strategy today!",
+    "keywords": "video splitter, AI video editing, video automation, social media clips, content creation, video marketing, video editing tool, WaveSpeed AI, video management, e-commerce video tools, video sharing, video content strategy"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Video Splitter",
+    "subHeading": "Transform Long Videos into Engaging Clips",
+    "description": "Easily divide lengthy videos into bite-sized segments perfect for social media and marketing. Maximize engagement and reach with AI-driven precision. Start splitting your videos today!",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI Video Splitter Solution",
+    "left": {
+      "heading": "Traditional Video Editing Challenges",
+      "items": [
+        "Time-consuming editing process",
+        "Requires expensive software and skills",
+        "Manual cutting and trimming is tedious",
+        "Limited output options for tailored clips",
+        "Potential loss of video quality during edits"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Automate video splitting in seconds",
+        "No editing skills needed - Just upload your video",
+        "Instant results tailored for social sharing",
+        "Customize clips with preset durations",
+        "Cost-effective subscription with credits for usage"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Efficiently split your videos in three easy steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Video",
+        "text": "Add your video file to the platform",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Set Split Points",
+        "text": "Choose specific timestamps for the clips you want to create",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Download Clips",
+        "text": "Get high-quality video segments ready for sharing",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "Generate Your First Clip →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Ideal for various content strategies",
+    "items": [
+      "Create promotional video snippets",
+      "Shareable social media clips",
+      "Highlight reels for presentations",
+      "Tutorial and demo segments",
+      "Event recap videos",
+      "Customer testimonial snippets",
+      "Influencer collaboration segments",
+      "Live stream highlights"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how brands optimize their video content with AI",
+    "items": [
+      {
+        "tag": "Fashion Retail",
+        "heading": "Quick Ad Clips",
+        "before": {
+          "label": "Before",
+          "text": "5 hours for edits"
+        },
+        "after": {
+          "label": "After",
+          "text": "5 minutes per clip"
+        },
+        "value": "83%",
+        "key": "Time Reduction",
+        "description": "We transformed our advertising strategy and increased social media engagement by 60%."
+      },
+      {
+        "tag": "Tech Startups",
+        "heading": "Product Launch Videos",
+        "before": {
+          "label": "Before",
+          "text": "Expensive services"
+        },
+        "after": {
+          "label": "After",
+          "text": "Affordable in-house production"
+        },
+        "value": "90%",
+        "key": "Cost Savings",
+        "description": "With the split feature, we can quickly create multiple clips for our launches, improving our reach effortlessly."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Model Comparison",
+    "description": "Choose the right features for your splitting needs",
+    "items": [
+      "Automated cutting: Seamlessly divide long videos at precise timestamps",
+      "Dynamic clip generation for various social platforms",
+      "User-friendly interface for intuitive editing",
+      "Batch processing for multiple videos at once",
+      "Export options tailored for each social media platform"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore more powerful AI tools for video enhancement"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What video formats are supported for splitting?",
+        "answer": "We support the most common video formats including MP4, AVI, and MOV, ensuring your files can easily be uploaded and processed without hassle."
+      },
+      {
+        "question": "Can I split videos into custom lengths?",
+        "answer": "Absolutely! You can specify exact timestamps for your clips, allowing for tailored segments that suit your marketing needs."
+      },
+      {
+        "question": "Is there a limit to the video length I can upload?",
+        "answer": "Our platform can handle videos up to 60 minutes in length for splitting, providing flexibility for a variety of content types."
+      },
+      {
+        "question": "How long does it take to split my videos?",
+        "answer": "Video splitting is instant! Depending on the length and complexity, you can expect your clips ready in seconds."
+      },
+      {
+        "question": "Can I re-edit clips after they've been created?",
+        "answer": "Yes, you can revisit your split videos at any time and create new versions or adjust existing segments as needed."
+      },
+      {
+        "question": "Is there a charge for each clip generated?",
+        "answer": "Our pricing is based on a pay-as-you-go model, meaning you only pay for the clips you process, making it budget-friendly."
+      },
+      {
+        "question": "Is there a mobile version available?",
+        "answer": "Currently, our platform is optimized for desktop use, but we are looking into mobile capabilities for future updates."
+      },
+      {
+        "question": "What kind of support does WaveSpeed provide?",
+        "answer": "WaveSpeed offers comprehensive customer support including documentation, tutorials, and direct assistance via chat and email for all your inquiries."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Split Your First Video?",
+    "description": "Utilize free credits - Experience the ease now",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Ready to Transform Your Videos?",
+    "description": "Experience WaveSpeed AI now and enhance your content strategy. No sign-up required.",
+    "ctaText": "Split Videos Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

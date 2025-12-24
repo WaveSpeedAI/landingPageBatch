@@ -1,0 +1,226 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Inpainting IA",
+  "meta": {
+    "description": "Revitalisez vos images en supprimant les objets indésirables et en comblant les lacunes sans couture grâce à l'Inpainting IA. Idéal pour les photos de produits, les plateformes de commerce électronique et l'amélioration de la créativité. Découvrez un inpainting intuitif alimenté par une technologie avancée.",
+    "keywords": "inpainting IA, suppression d'objets IA, outil de restauration d'images, amélioration d'images e-commerce, édition créative, amélioration de photos de produits, inpainting WaveSpeed, inpainting convivial, remplissage de contenu adaptatif, suppression automatisée d'objets"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Inpainting IA",
+    "subHeading": "Améliorez vos images sans effort",
+    "description": "Transformez vos images en supprimant les éléments indésirables et en remplissant l'arrière-plan sans couture, le tout en quelques clics. Découvrez la puissance de l'inpainting intelligent. Essayez-le aujourd'hui !",
+    "tryText": "Commencez maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution d'inpainting IA WaveSpeed",
+    "left": {
+      "heading": "Défis de l'édition traditionnelle",
+      "items": [
+        "Édition d'images chronophage (heures de travail manuel)",
+        "Nécessite des logiciels et des compétences coûteux",
+        "Flexibilité limitée dans la suppression d'objets",
+        "Non adapté aux arrière-plans complexes",
+        "Frustrant pour les non-designers"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeedAI",
+      "items": [
+        "Supprimez instantanément les objets indésirables des images",
+        "Remplissage d'arrière-plan sans couture avec précision IA",
+        "Interface conviviale ; aucune compétence en design requise",
+        "Polyvalent pour différents types d'images",
+        "Tarification abordable sans frais cachés"
+      ],
+      "tryText": "Essayez maintenant"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment ça fonctionne",
+    "description": "Amélioration d'image sans effort en 4 étapes simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Télécharger une image",
+        "text": "Choisissez l'image que vous souhaitez améliorer ou nettoyer.",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Sélectionner les zones à supprimer",
+        "text": "Mettez en surbrillance les objets que vous souhaitez éliminer de l'image.",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Laissez l'IA faire sa magie",
+        "text": "Regardez notre IA remplir l'arrière-plan et compléter la photo.",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Télécharger l'image améliorée",
+        "text": "Recevez votre image polie, prête à être utilisée en quelques minutes.",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Améliorez votre première image →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilités infinies",
+    "description": "Idéal pour tous vos besoins en contenu visuel",
+    "items": [
+      "Amélioration de photos de produits e-commerce",
+      "Création de visuels marketing captivants",
+      "Restauration d'anciennes images avec des parties manquantes",
+      "Conception de publications sur les réseaux sociaux sans distractions",
+      "Amélioration de photos personnelles pour des fêtes et événements",
+      "Création d'images professionnelles pour des présentations",
+      "Optimisation des visuels pour sites Web et blogs",
+      "Amélioration des images immobilières pour attirer des acheteurs"
+    ]
+  },
+  "successStories": {
+    "heading": "Véritables histoires de succès",
+    "description": "Découvrez comment les entreprises transforment leurs images avec l'IA",
+    "items": [
+      {
+        "tag": "Mode de détail",
+        "heading": "Améliorations d'images e-commerce",
+        "before": {
+          "label": "Avant",
+          "text": "Images encombrées"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Propres et professionnelles"
+        },
+        "value": "95%",
+        "key": "Amélioration de la qualité de l'image",
+        "description": "Nos images de produits ont maintenant une apparence de premier ordre ! Des améliorations visuelles instantanées ont entraîné une augmentation de 30 % des ventes en ligne."
+      },
+      {
+        "tag": "Secteur du voyage",
+        "heading": "Amélioration de photos d'hôtels",
+        "before": {
+          "label": "Avant",
+          "text": "Éléments distrayants"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Visuels époustouflants"
+        },
+        "value": "90%",
+        "key": "Augmentation de l'attrait visuel",
+        "description": "Des photos améliorées nous ont permis de présenter nos propriétés plus efficacement, augmentant considérablement les réservations d'invités."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison de modèles d'inpainting",
+    "description": "Choisissez la bonne approche pour vos besoins en inpainting",
+    "items": [
+      "Inpainting standard : réparations rapides pour suppression d'objets simples",
+      "Inpainting avancé : arrière-plans complexes et détails délicats",
+      "Remplissage de contenu adaptatif : s'ajuste sans couture aux alentours",
+      "Interface conviviale pour tous les niveaux de compétence",
+      "Sorties haute résolution garantissant la préservation de la qualité",
+      "Correspondance de couleur brillante et reproduction de texture"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils IA associés",
+    "description": "Explorez des solutions IA puissantes pour vos visuels"
+  },
+  "faq": {
+    "heading": "Questions fréquemment posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quels types d'images fonctionnent le mieux pour l'inpainting IA ?",
+        "answer": "L'inpainting IA fonctionne de manière optimale sur des images avec des sujets et arrière-plans clairs. Les images haute résolution donnent de meilleurs résultats, mais l'IA reste efficace sur divers types, y compris les photos de produits et les images personnelles."
+      },
+      {
+        "question": "Puis-je annuler les modifications apportées lors de l'inpainting ?",
+        "answer": "Oui ! Notre plateforme vous permet de revenir facilement sur les modifications si vous n'êtes pas satisfait du résultat. Vous pouvez toujours rééditer l'image pour différents résultats."
+      },
+      {
+        "question": "Est-il possible d'utiliser l'inpainting pour le traitement par lots d'images ?",
+        "answer": "Actuellement, le traitement par lots n'est pas pris en charge, mais nous travaillons à introduire cette fonctionnalité. Pour l'instant, chaque image doit être traitée individuellement."
+      },
+      {
+        "question": "À quel point le processus d'inpainting peut-il être détaillé ?",
+        "answer": "L'IA est conçue pour gérer à la fois les suppressions d'objets simples et les arrière-plans plus complexes, permettant une restauration d'images exceptionnellement détaillée."
+      },
+      {
+        "question": "Puis-je améliorer la qualité après que l'inpainting soit terminé ?",
+        "answer": "Absolument ! Vous pouvez appliquer des améliorations supplémentaires en utilisant notre suite d'outils pour affiner encore vos images après l'inpainting."
+      },
+      {
+        "question": "Quel est le modèle de tarification pour l'inpainting IA ?",
+        "answer": "WaveSpeed fonctionne sur un modèle de paiement à l'utilisation, où vous ne payez que pour les images que vous améliorez. Il n'y a pas d'abonnements ni de frais cachés."
+      },
+      {
+        "question": "Quel est le temps de traitement habituel pour l'inpainting ?",
+        "answer": "Le processus d'inpainting prend généralement seulement quelques minutes, grâce à l'efficacité de nos technologies IA."
+      },
+      {
+        "question": "Recevez-vous des licences commerciales pour les images améliorées ?",
+        "answer": "Oui ! Toutes les images améliorées via WaveSpeed incluent des droits d'utilisation commerciale complets, vous permettant de les utiliser librement pour le marketing ou la vente."
+      },
+      {
+        "question": "Quel type d'assistance est disponible si je rencontre des problèmes ?",
+        "answer": "Nous fournissons une assistance robuste incluant des guides complets, des tutoriels, et une équipe de support réactive disponible par email et chat."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à améliorer vos images avec l'IA ?",
+    "description": "Commencez avec notre plateforme conviviale - Découvrez la transformation",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Commencez maintenant →"
+  },
+  "footer": {
+    "heading": "Transformez vos images aujourd'hui !",
+    "description": "Essayez l'Inpainting IA WaveSpeed et constatez la différence par vous-même. Aucune inscription requise.",
+    "ctaText": "Commencez l'inpainting maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

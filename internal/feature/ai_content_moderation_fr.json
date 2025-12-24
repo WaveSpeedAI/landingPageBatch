@@ -1,0 +1,212 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Modération de Contenu AI",
+  "meta": {
+    "description": "Exploitez l'IA pour garder votre communauté en ligne sûre et engageante. Filtrez efficacement le contenu nuisible, améliorez l'expérience utilisateur et respectez les réglementations. Parfait pour les plateformes sociales et les sites de commerce électronique.",
+    "keywords": "modération de contenu IA, filtrage de contenu nuisible, sécurité en ligne, amélioration de l'expérience utilisateur, gestion de la communauté, modération des médias sociaux, gestion de contenu e-commerce, filtrage en temps réel, outils de modération automatisés, WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Modération de Contenu IA",
+    "subHeading": "Protégez Votre Communauté avec des Filtres Intelligents",
+    "description": "Utilisez notre IA puissante pour filtrer automatiquement le contenu nuisible et améliorer les interactions des utilisateurs en temps réel. Protégez votre présence en ligne sans effort. Commencez à modérer aujourd'hui !",
+    "tryText": "Essayez-le Maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution de Modération de Contenu IA WaveSpeed AI",
+    "left": {
+      "heading": "Défis Traditionnels",
+      "items": [
+        "La modération manuelle prend du temps",
+        "Risque élevé de contenu nuisible échappant",
+        "Application incohérente des lignes directrices",
+        "Plainte des utilisateurs sur le contenu inapproprié",
+        "Difficulté à répondre aux exigences réglementaires"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed AI",
+      "items": [
+        "Filtrage automatisé du contenu en temps réel",
+        "Application cohérente des politiques de modération",
+        "Réduction du risque d'exposition à du contenu nuisible",
+        "Amélioration de l'expérience utilisateur globale",
+        "Intégration simple aux plateformes existantes"
+      ],
+      "tryText": "Essayer"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment Ça Fonctionne",
+    "description": "Mettez en œuvre une modération efficace en 3 étapes simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Intégrer l'API",
+        "text": "Connectez notre API de modération à votre plateforme en toute fluidité",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Définir les Lignes Directrices",
+        "text": "Définissez quel contenu filtrer en fonction des normes de votre communauté",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Surveiller et Ajuster",
+        "text": "Recevez des rapports en temps réel et ajustez les paramètres de modération si nécessaire",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "Commencez à modérer →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilités Illimitées",
+    "description": "Parfait pour diverses plateformes en ligne",
+    "items": [
+      "Sites de médias sociaux",
+      "Marchés de commerce électronique",
+      "Forums de discussion",
+      "Communautés de jeux",
+      "Plateformes de partage de contenu",
+      "Sections de commentaires de blogs"
+    ]
+  },
+  "successStories": {
+    "heading": "Véritables Histoires de Succès",
+    "description": "Découvrez comment les entreprises assurent des environnements en ligne sûrs avec l'IA",
+    "items": [
+      {
+        "tag": "Réseau Social",
+        "heading": "Plateforme d'Engagement des Jeunes",
+        "before": {
+          "label": "Avant",
+          "text": "Taux de plaintes élevé"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Contenu négatif minimisé"
+        },
+        "value": "85%",
+        "key": "Amélioration de la Sécurité du Contenu",
+        "description": "La modération automatisée a drastiquement réduit les publications nuisibles, sécurisant un espace plus sûr pour les utilisateurs."
+      },
+      {
+        "tag": "Portail de Commerce Électronique",
+        "heading": "Site d'Avis de Produits",
+        "before": {
+          "label": "Avant",
+          "text": "Lignes directrices de contenu confuses"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Processus de modération clair"
+        },
+        "value": "90%",
+        "key": "Augmentation de la Confiance des Utilisateurs",
+        "description": "Une modération améliorée a conduit à un engagement positif et a augmenté la confiance des clients."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison des Modèles IA",
+    "description": "Choisissez la bonne approche de modération pour vos besoins",
+    "items": [
+      "Modèle de Filtrage de Contenu : Haute précision, personnalisable, idéal pour des sujets sensibles",
+      "Modèle de Détection de Spam : Performance rapide, identification en temps réel des publications non pertinentes",
+      "Apprentissage AI : S'améliore continuellement avec les retours des utilisateurs",
+      "Outils de Modération Axés sur les Utilisateurs pour le rapport de communauté",
+      "Analytique du Tableau de Bord : Surveillez les tendances de contenu et l'efficacité de la modération"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils IA Connexes",
+    "description": "Découvrez d'autres outils essentiels pour la sécurité en ligne"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Comment fonctionne la modération de contenu ?",
+        "answer": "Notre IA analyse les publications et les commentaires en temps réel pour identifier et filtrer le contenu nuisible avant qu'il n'atteigne vos utilisateurs. Elle apprend des retours de la communauté pour s'adapter et s'améliorer au fil du temps."
+      },
+      {
+        "question": "Puis-je personnaliser les lignes directrices de modération ?",
+        "answer": "Absolument ! Vous pouvez définir des lignes directrices spécifiques adaptées aux valeurs et normes de votre communauté, garantissant que le contenu pertinent passe tout en filtrant le matériel indésirable."
+      },
+      {
+        "question": "Combien de temps faut-il pour filtrer le contenu nuisible ?",
+        "answer": "L'IA fonctionne en temps réel, ce qui signifie que la plupart des contenus nuisibles sont identifiés et modérés presque instantanément, maintenant votre environnement en ligne sûr."
+      },
+      {
+        "question": "Quels types de contenu peuvent être modérés ?",
+        "answer": "Notre technologie est capable de détecter les discours de haine, le spam, le contenu explicite et d'autres matériaux nuisibles à travers divers médias, y compris le texte, les images et les vidéos."
+      },
+      {
+        "question": "Vais-je recevoir des rapports sur les activités de modération ?",
+        "answer": "Oui ! Vous recevrez des analyses régulières et des rapports sur les actions de modération prises, permettant un meilleur contrôle et des ajustements stratégiques."
+      },
+      {
+        "question": "Ce service est-il évolutif pour de grandes communautés ?",
+        "answer": "Certainement ! Nos solutions sont conçues pour évoluer sans effort avec votre croissance, gérant efficacement les volumes de contenu accrus sans compromettre les performances."
+      },
+      {
+        "question": "Quel support est disponible si je rencontre des problèmes ?",
+        "answer": "Nous offrons un support complet, y compris de la documentation, des tutoriels et un service d'assistance dédié pour vous aider avec toutes les questions ou défis techniques."
+      },
+      {
+        "question": "Les utilisateurs peuvent-ils faire appel des décisions de modération ?",
+        "answer": "Oui, les utilisateurs peuvent soumettre des appels via la plateforme. Chaque cas sera examiné pour assurer un traitement équitable et une transparence dans la modération."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Améliorer la Sécurité de Votre Communauté ?",
+    "description": "Commencez avec des crédits gratuits - Découvrez la modération IA aujourd'hui",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Essayez-le Maintenant →"
+  },
+  "footer": {
+    "heading": "Prêt à Sécuriser Votre Plateforme ?",
+    "description": "Essayez WaveSpeed AI maintenant et constatez la transformation. Aucune inscription requise.",
+    "ctaText": "Commencez à modérer maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

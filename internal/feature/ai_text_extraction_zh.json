@@ -1,0 +1,230 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI文本提取",
+  "meta": {
+    "description": "利用先进的AI技术轻松从图像中提取文本。适用于电子商务、文档扫描等。快速、准确且用户友好的解决方案满足您所有的文本提取需求。",
+    "keywords": "AI文本提取, 图像转文本, OCR技术, 文档扫描, 电子商务解决方案, 文本识别, WaveSpeed AI, 数据提取, 数字化转型, 自动化数据录入"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI工具",
+        "items": [
+          [
+            "AI工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "马上试用"
+  },
+  "hero": {
+    "heading": "图像转文本",
+    "subHeading": "高效地将图像转换为可编辑文本",
+    "description": "瞬间将扫描文档、产品图像或截图转换为可编辑文本。体验由先进的AI技术驱动的无缝文本提取。",
+    "tryText": "立即试用",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI文本提取解决方案",
+    "left": {
+      "heading": "传统挑战",
+      "items": [
+        "人工数据输入速度慢且易出错",
+        "需要大量的人工时间",
+        "外包转录的成本高昂",
+        "大型数据集的可访问性有限",
+        "不同格式之间的质量不一致"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI解决方案",
+      "items": [
+        "从任何图像中在数秒内提取文本",
+        "无需手动输入 - 只需上传图像",
+        "快速结果，准确性高",
+        "支持多种语言和格式",
+        "按需付费的定价模式，适用于各种需求"
+      ],
+      "tryText": "试试"
+    }
+  },
+  "howItWorks": {
+    "heading": "如何运作",
+    "description": "通过4个简单步骤快速将图像转换为文本",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传图像",
+        "text": "上传您的照片或文档图像",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "选择输出格式",
+        "text": "选择您喜欢的文本格式（例如，TXT，DOCX）",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "审核提取文本",
+        "text": "检查AI生成的文本是否准确",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载文本",
+        "text": "几分钟内收到您的可编辑文本文件",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "提取您的第一个文本 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无限可能",
+    "description": "适用于任何行业或应用",
+    "items": [
+      "电子商务的产品描述",
+      "书籍和文档数字化",
+      "办公室数据录入自动化",
+      "学术研究和提取",
+      "法律文件处理",
+      "翻译和本地化",
+      "归档旧照片和笔记",
+      "社交媒体内容再利用"
+    ]
+  },
+  "successStories": {
+    "heading": "真实成功案例",
+    "description": "看看企业如何利用AI优化工作流程",
+    "items": [
+      {
+        "tag": "零售",
+        "heading": "电子商务产品清单",
+        "before": {
+          "label": "之前",
+          "text": "50小时"
+        },
+        "after": {
+          "label": "之后",
+          "text": "2小时"
+        },
+        "value": "96%",
+        "key": "节省的时间",
+        "description": "通过批量提取文本，我们转变了我们的清单。每周节省数天时间。"
+      },
+      {
+        "tag": "教育",
+        "heading": "大学研究项目",
+        "before": {
+          "label": "之前",
+          "text": "手动输入"
+        },
+        "after": {
+          "label": "之后",
+          "text": "自动提取"
+        },
+        "value": "90%",
+        "key": "效率提升",
+        "description": "使团队能够更快访问数据，让研究团队专注于分析。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI模型对比",
+    "description": "选择适合您需求的提取模型",
+    "items": [
+      "标准提取：快速文本转换，准确性良好",
+      "高精度提取：增强手写和复杂字体的准确性",
+      "批处理处理：一次从多个图像中提取文本",
+      "多语言支持：自动检测文本语言",
+      "实时处理：图像上传后立即获得结果",
+      "包括商业使用权"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关AI工具",
+    "description": "探索更多强大的AI工具以满足业务解决方案"
+  },
+  "faq": {
+    "heading": "常见问题解答",
+    "description": "您需要知道的一切",
+    "items": [
+      {
+        "question": "支持哪些类型的图像格式用于文本提取？",
+        "answer": "我们支持多种格式，包括JPG、PNG和PDF。为了获得最佳效果，图像应清晰且分辨率高。"
+      },
+      {
+        "question": "文本提取过程的准确性如何？",
+        "answer": "我们的AI技术旨在实现高准确性，通常在最佳条件下达到超过95%的正确文本提取。"
+      },
+      {
+        "question": "提取的文本是否可编辑？",
+        "answer": "是的！提取的文本可以以可编辑格式（如TXT或DOCX）下载，方便修改。"
+      },
+      {
+        "question": "该工具能处理手写文本吗？",
+        "answer": "是的，我们的高精度提取模型专门设计用于有效识别和提取手写文本。"
+      },
+      {
+        "question": "在提取过程中如何处理用户数据？",
+        "answer": "我们重视数据安全。所有图像都是安全处理的，一旦提取完成，用户数据不会被存储。"
+      },
+      {
+        "question": "我可以一次处理多少图像？",
+        "answer": "没有限制！您可以同时处理多个图像，使大型项目的效率更高。"
+      },
+      {
+        "question": "如果提取失败会发生什么？",
+        "answer": "在不太可能发生失败的情况下，您将收到详细的错误报告，包含可能的原因和改进建议。"
+      },
+      {
+        "question": "我可以将提取的文本用于商业用途吗？",
+        "answer": "当然可以！所有提取的文本都附带完整的商业使用权限，没有额外费用。"
+      },
+      {
+        "question": "如果我需要帮助，提供什么样的支持？",
+        "answer": "我们通过文档、教程以及电子邮件和聊天的客户服务提供全面支持。"
+      },
+      {
+        "question": "是否有任何订阅费用或隐藏费用？",
+        "answer": "没有，WaveSpeed采用按需付费的模式，基于提取的文本量明确定价。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备好从您的图像中提取文本了吗？",
+    "description": "从免费积分开始，亲自看看效果",
+    "contactUsText": "联系我们",
+    "tryText": "立即试用 →"
+  },
+  "footer": {
+    "heading": "准备好提取您的文本了吗？",
+    "description": "现在就尝试WaveSpeed AI，体验轻松的文本提取。无需注册。",
+    "ctaText": "立即提取文本",
+    "text": "© 2025 WaveSpeed AI. 版权所有."
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Audio Muting Feature",
+  "meta": {
+    "description": "Effortlessly mute unwanted audio from your video content with our powerful AI Audio Muting feature. Perfect for e-commerce, social media, and marketing. Elevate your video storytelling!",
+    "keywords": "audio muting AI, background noise removal, video editing tool, e-commerce video enhancement, social media audio tools, seamless audio integration, WaveSpeed audio features, sound optimization, content creation tools, professional video sound"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Audio Muting",
+    "subHeading": "Silence Unwanted Noise for Clearer Narratives",
+    "description": "Enhance your video content by effortlessly removing background noise and unwanted audio. Ensure your message is crystal clear, allowing your audience to focus on what truly matters. Experience the power of AI in audio editing today!",
+    "tryText": "Mute Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI Audio Muting Solution",
+    "left": {
+      "heading": "Traditional Audio Challenges",
+      "items": [
+        "Time-consuming manual editing",
+        "Expensive audio software required",
+        "Complex processes for noise reduction",
+        "Limited options for non-professionals",
+        "Inconsistent sound quality"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Instantly mute unwanted audio in seconds",
+        "No editing experience required",
+        "User-friendly interface for everyone",
+        "High-quality sound restoration",
+        "Cost-effective pay-per-use model"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Easily mute unwanted audio in 3 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Video",
+        "text": "Upload your video file with audio to the platform",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Select Audio Track",
+        "text": "Choose the audio track you want to mute or edit",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Mute Noise",
+        "text": "Apply the AI-powered audio muting feature instantly",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "Mute Your Audio Now →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Applications",
+    "description": "Ideal for various video content needs",
+    "items": [
+      "Vlogs and personal videos",
+      "Marketing campaigns and ads",
+      "Educational content and tutorials",
+      "Social media posts (Instagram, TikTok)",
+      "Corporate presentations",
+      "Event recordings",
+      "Product reviews",
+      "Live stream audio enhancement"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how users are enhancing their audio quality with AI",
+    "items": [
+      {
+        "tag": "E-commerce Creator",
+        "heading": "Product Demo Videos",
+        "before": {
+          "label": "Before",
+          "text": "Distracting background noise"
+        },
+        "after": {
+          "label": "After",
+          "text": "Clear, professional audio"
+        },
+        "value": "95%",
+        "key": "Audio Quality Improvement",
+        "description": "We transformed the audio in our product demos, leading to higher customer engagement. Clarity in the message boosted conversions by 30%."
+      },
+      {
+        "tag": "Social Media Influencer",
+        "heading": "Vlog Production",
+        "before": {
+          "label": "Before",
+          "text": "Hectic sound environment"
+        },
+        "after": {
+          "label": "After",
+          "text": "Polished audio track"
+        },
+        "value": "92%",
+        "key": "Time Saved",
+        "description": "The noise removal process was a game-changer. I can now focus on content rather than worrying about audio quality!"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Audio Processing Comparison",
+    "description": "Select the right audio editing option for your needs",
+    "items": [
+      "Standard Noise Removal: Effective for basic audio issues, affordable, fast processing",
+      "Advanced Audio Filter: For complex sound environments with multiple noise types, premium results",
+      "Real-time audio analysis for accurate sound profiling",
+      "Seamless integration with video to maintain consistency",
+      "Flexible pricing based on usage",
+      "Full commercial rights included"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore more cutting-edge AI tools for audio and video enhancement"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "How quickly can I mute audio from my videos?",
+        "answer": "Audio muting is incredibly fast, usually completed in under a minute depending on the video length. The AI processes the audio in real-time."
+      },
+      {
+        "question": "Can I preview the audio before and after muting?",
+        "answer": "Yes! You can listen to a preview of both the original and edited audio tracks to ensure satisfaction with the result."
+      },
+      {
+        "question": "Is there a limit to the file size I can upload?",
+        "answer": "Currently, our platform supports video file uploads up to 4GB. Make sure your videos meet this requirement for seamless editing."
+      },
+      {
+        "question": "What formats do you support for video uploads?",
+        "answer": "We support various formats including MP4, MOV, and AVI for optimal processing. Ensure your files are in these formats to avoid issues."
+      },
+      {
+        "question": "Can I mute multiple sections of audio in one video?",
+        "answer": "Absolutely! You can choose to mute multiple audio tracks or sections within a video according to your needs."
+      },
+      {
+        "question": "Do I retain ownership of the edited videos?",
+        "answer": "Yes! You maintain full ownership of the videos edited using our platform, including the audio content."
+      },
+      {
+        "question": "What quality can I expect from the audio after muting?",
+        "answer": "The quality remains high, and background noise removal enhances the clarity of your remaining audio. Expect professional-grade sound."
+      },
+      {
+        "question": "Can I edit audio if I'm not a professional?",
+        "answer": "Yes! Our tool is designed for ease of use, so anyone can navigate the audio muting process without prior experience."
+      },
+      {
+        "question": "What technical support is available if I experience issues?",
+        "answer": "We offer comprehensive support via email and live chat, with a detailed FAQ and troubleshooting guides on our website."
+      },
+      {
+        "question": "What if I'm not satisfied with the audio muting results?",
+        "answer": "We encourage users to make full use of the preview feature to ensure satisfaction. If issues arise, our support team is ready to assist."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Enhance Your Video Audio?",
+    "description": "Start with free credits and experience the difference yourself.",
+    "contactUsText": "Contact Us",
+    "tryText": "Mute Now →"
+  },
+  "footer": {
+    "heading": "Transform Your Video Audio Today!",
+    "description": "Try WaveSpeed AI now for professional audio muting. No sign-up required.",
+    "ctaText": "Mute Audio Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

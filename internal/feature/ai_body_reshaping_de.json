@@ -1,0 +1,230 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - KI-Körperformung",
+  "meta": {
+    "description": "Gestalten Sie mühelos Körperbilder neu und transformieren Sie sie mit modernster KI. Ideal für Fitnessprofis, Modemarken und den persönlichen Gebrauch. Erleben Sie die Zukunft der Bildbearbeitung!",
+    "keywords": "KI-Körperformung, Bildtransformation KI, Verbesserung von Körperbildern, Fitness-Bildeditor, KI-Bildbearbeitungswerkzeug, virtuelle Körperformung, Fotoretusche, Verbesserung von Fashion-Modellen, eCommerce-Foto-Lösungen"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI-Tools",
+        "items": [
+          [
+            "KI-Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vorstellung",
+        "items": [
+          [
+            "Vorstellung",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "KI-Körperformung",
+    "subHeading": "Transformieren Sie Ihre Körperbilder nahtlos",
+    "description": "Beleben Sie Ihre Körperbilder mit fortschrittlicher KI-Technologie, die Form, Proportion und Detail verbessert. Erzielen Sie in Minuten erstaunliche Ergebnisse – keine Fachkenntnisse erforderlich. Erleben Sie heute die Kraft der Transformation!",
+    "tryText": "Jetzt ausprobieren",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI KI-Körperformungslösung",
+    "left": {
+      "heading": "Herausforderungen der traditionellen Bearbeitung",
+      "items": [
+        "Professionelle Fotobearbeitung kann kostspielig sein (1000-3000 $ pro Projekt)",
+        "Erfordert umfangreiche Fähigkeiten in Grafikdesign",
+        "Zeitintensive Prozesse (3-7 Tage)",
+        "Begrenzte Experimente und Vielfalt in Bearbeitungen",
+        "Starke Abhängigkeit von teurer Software"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI-Lösung",
+      "items": [
+        "Transformieren Sie Körperbilder sofort mit KI",
+        "Keine Designfähigkeiten erforderlich – einfach Bilder hochladen",
+        "Sofortige Verbesserungen durch KI",
+        "Erstellen Sie mühelos unbegrenzte Variationen",
+        "Flexibles Bezahlmodell pro Nutzung – kosteneffektiv für alle"
+      ],
+      "tryText": "Versuchen"
+    }
+  },
+  "howItWorks": {
+    "heading": "So funktioniert es",
+    "description": "Formen Sie Ihre Körperbilder in 4 einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Bild hochladen",
+        "text": "Laden Sie Ihr originales Körperbild zur Neugestaltung hoch",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Anpassungen hinzufügen",
+        "text": "Optional: Geben Sie gewünschte Änderungen an (z. B. 'schlanker Tailllen', 'verbesserter Muskel')",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Stil auswählen",
+        "text": "Wählen Sie aus verschiedenen Verbesserungsstilen, die Ihrer Vision entsprechen",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Ergebnis herunterladen",
+        "text": "Erhalten Sie in Minuten polierte Bilder mit vollen Rechten",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Generieren Sie Ihr verbessertes Bild →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endlose Möglichkeiten",
+    "description": "Ideal für verschiedene Anwendungen",
+    "items": [
+      "Fitnessprofilbilder für soziale Medien",
+      "Mode-Lookbooks und Produktvorstellungen",
+      "Vorher/Nachher-Transformationen für Kunden",
+      "Persönliche Markenbildung und Portfolio-Updates",
+      "E-Commerce-Produktfotos für Bekleidung",
+      "Virtuelle Umgestaltungen und Stylings",
+      "Inhaltserstellung für soziale Medien",
+      "Werbematerialien für Dienstleistungen"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Entdecken Sie, wie Nutzer ihre Bildbearbeitung mit KI revolutionieren",
+    "items": [
+      {
+        "tag": "Fitness-Transformation",
+        "heading": "Verbesserung des Kundenportfolios",
+        "before": {
+          "label": "Vorher",
+          "text": "Inkonstante Qualität"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Konsistentes, schlankes Finish"
+        },
+        "value": "98,5%",
+        "key": "Qualitätsverbesserung",
+        "description": "Wir erreichten drastische Verbesserungen in unserem Fitnessmodell-Portfolio und steigerten das Engagement um 50 %."
+      },
+      {
+        "tag": "Modemarke",
+        "heading": "E-Commerce-Foto-Renovierung",
+        "before": {
+          "label": "Vorher",
+          "text": "Manuelle Bearbeitungen dauerten Tage"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "KI-Verbesserungen dauerten Minuten"
+        },
+        "value": "99,2%",
+        "key": "Zeiteffizienz",
+        "description": "Änderung unseres Online-Shops, die schnelle Transformation von Bildern führte zu höheren Verkaufsumsetzungen."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Vergleich der KI-Verbesserungsmodelle",
+    "description": "Wählen Sie das richtige Modell für Ihre Neugestaltungsbedürfnisse",
+    "items": [
+      "Modell A: Hochauflösende Detaildarstellung, Echtzeitverbesserungen, perfekt für den professionellen Einsatz",
+      "Modell B: Schnelle Verbesserungen, optimiert für schnelle Bearbeitungszeiten, großartig für den persönlichen Gebrauch",
+      "Anpassbare Eingabeaufforderungen für maßgeschneiderte Bearbeitungen",
+      "Realistische Textur- und Erscheinungsanpassungen",
+      "Sofortiges Feedback zu vorgenommenen Änderungen",
+      "Kommerzielle Nutzungsrechte enthalten"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Verwandte KI-Tools",
+    "description": "Entdecken Sie weitere innovative KI-Tools zur Bildverbesserung"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welche Bildqualität kann ich nach der Neugestaltung erwarten?",
+        "answer": "Erwarten Sie hochauflösende Bilder mit verfeinerten Details und realistischen Proportionen. Unsere Modelle stellen sicher, dass neugestaltete Bilder Klarheit und Raffinesse bewahren, die für jeden Kontext geeignet sind."
+      },
+      {
+        "question": "Kann ich spezifische Körpermodifikationen angeben?",
+        "answer": "Absolut! Sie können detaillierte Vorgaben geben, wie Sie die Körperform ändern möchten, von der Größenanpassung bis zur Verbesserung der Muskeldefinition."
+      },
+      {
+        "question": "Welche Bildtypen eignen sich am besten zur Neugestaltung?",
+        "answer": "Klare, hochauflösende Bilder liefern die besten Ergebnisse. Wir empfehlen Bilder mit guter Beleuchtung und Kontrast für optimale Änderungen."
+      },
+      {
+        "question": "Wie unterscheidet sich das von herkömmlicher Fotobearbeitung?",
+        "answer": "KI-Körperformung ermöglicht dynamische Anpassungen in Echtzeit und bietet ein Maß an Realismus und Raffinesse, das mit herkömmlichen Bearbeitungswerkzeugen nicht erreicht werden kann."
+      },
+      {
+        "question": "Kann ich die Qualität nach der Neugestaltung des Bildes verbessern?",
+        "answer": "Ja! Nutzen Sie unsere Verbesserungswerkzeuge nach der Neugestaltung, um die Auflösung und Qualität weiter zu erhöhen."
+      },
+      {
+        "question": "Welches Preismodell wird für die Körperformung verwendet?",
+        "answer": "WaveSpeed folgt einem Bezahlmodell pro Nutzung ohne versteckte Gebühren; Sie zahlen nur für die Neugestaltungen, die Sie tatsächlich generieren."
+      },
+      {
+        "question": "Wie schnell werden Bilder neugestaltet?",
+        "answer": "Die Neugestaltung erfolgt in der Regel in Minuten, sodass mehrere Bilder schnell verarbeitet werden können."
+      },
+      {
+        "question": "Was sind die besten Anwendungen für die Körperformungstechnologie?",
+        "answer": "Diese Technologie ist perfekt für Fitness-Modelle, persönliche Markenbildung, E-Commerce und Inhalte für soziale Medien."
+      },
+      {
+        "question": "Behalte ich die Rechte an den neugestalteten Bildern?",
+        "answer": "Ja! Sie behalten alle kommerziellen Rechte an allen neugestalteten Bildern ohne zusätzliche Gebühren."
+      },
+      {
+        "question": "Welche Unterstützung steht bei Problemen zur Verfügung?",
+        "answer": "Wir bieten umfangreiche Ressourcen, einschließlich Dokumentation und Kundensupport, um bei Fragen oder technischen Problemen zu helfen."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Ihre Körperbilder zu transformieren?",
+    "description": "Starten Sie mit kostenlosen Credits - Erleben Sie die Revolution der Neugestaltung",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Jetzt ausprobieren →"
+  },
+  "footer": {
+    "heading": "Bereit, Ihre Körperbilder zu verbessern?",
+    "description": "Versuchen Sie jetzt WaveSpeed AI und erleben Sie die transformative Kraft der KI. Keine Anmeldung erforderlich.",
+    "ctaText": "Jetzt mit der Neugestaltung beginnen",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

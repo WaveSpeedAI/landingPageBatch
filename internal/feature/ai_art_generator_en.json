@@ -1,0 +1,230 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Art Generator",
+  "meta": {
+    "description": "Create stunning artworks from your ideas in seconds with AI. Perfect for artists, marketers, and content creators. Unleash creativity effortlessly!",
+    "keywords": "AI art generator, artwork creation, digital art tool, content creation, instant artwork, AI creative tools, artistic rendering, generative art, graphic design AI, artwork generator"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "AI Art Generation",
+    "subHeading": "Transform Ideas into Stunning Artworks",
+    "description": "Convert your concepts into beautiful digital art in no time. No design skills required. Powered by advanced AI technology, create artworks that inspire and engage.",
+    "tryText": "Get Started Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Art Generator Solution",
+    "left": {
+      "heading": "Traditional Art Creation Challenges",
+      "items": [
+        "Art creation can be time-consuming and complex",
+        "Requires specialized skills and tools",
+        "Iterations can take days or weeks",
+        "Limited access for non-artists",
+        "High costs for commissioned artwork"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI Solution",
+      "items": [
+        "Generate unique artworks in minutes from your prompts",
+        "No artistic background needed - Just describe your vision",
+        "Instant results with AI-powered generation",
+        "Unlimited creative variations",
+        "Affordable pay-as-you-go pricing for all"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "From idea to artwork in 4 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Enter Your Idea",
+        "text": "Provide a description of the artwork you envision",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Select Style",
+        "text": "Choose your preferred art style (e.g., surreal, abstract)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Adjust Parameters",
+        "text": "Fine-tune attributes like color schemes and mood",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Your Artwork",
+        "text": "Receive high-resolution art in mere minutes",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Create Your First Art →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Creative Possibilities",
+    "description": "Perfect for every artistic endeavor",
+    "items": [
+      "Unique illustrations for blogs and articles",
+      "Custom digital art for marketing campaigns",
+      "Eye-catching visuals for social media",
+      "Personalized gifts and prints",
+      "Artwork for websites and digital content",
+      "Creative designs for merchandise",
+      "Inspiration for traditional artists",
+      "Concept art for games or films"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "See how creators are transforming their projects with AI",
+    "items": [
+      {
+        "tag": "Graphic Design",
+        "heading": "Freelance Designer",
+        "before": {
+          "label": "Before",
+          "text": "Time-intensive"
+        },
+        "after": {
+          "label": "After",
+          "text": "Instant generation"
+        },
+        "value": "95%",
+        "key": "Time Savings",
+        "description": "Using AI artworks, I reduced my project turnaround time dramatically, allowing me to take on more clients."
+      },
+      {
+        "tag": "Content Creation",
+        "heading": "Social Media Influencer",
+        "before": {
+          "label": "Before",
+          "text": "Outsourced artwork"
+        },
+        "after": {
+          "label": "After",
+          "text": "Created in-house"
+        },
+        "value": "90%",
+        "key": "Cost Reduction",
+        "description": "Generated custom visuals that perfectly matched my brand, saving money and enhancing my unique style."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Model Comparison",
+    "description": "Choose the right art style for your vision",
+    "items": [
+      "Artistic Model A: Vibrant and bold styles, perfect for modern designs",
+      "Artistic Model B: Subtle and classic looks for timeless appeal",
+      "Custom style options with user-defined attributes",
+      "Ability to layer styles for unique creations",
+      "Fast generation time tailored for artists",
+      "Rights included for personal and commercial use"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore more innovative AI tools for creatives"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What styles of artwork can I create?",
+        "answer": "You can choose from a variety of art styles including abstract, realistic, cartoon, and many more. The AI can also blend styles to create something truly unique."
+      },
+      {
+        "question": "Can I fine-tune the art generated?",
+        "answer": "Absolutely! You can adjust colors, themes, and even specify elements to include or exclude in your artworks, allowing for greater customization."
+      },
+      {
+        "question": "What formats can I download my artwork in?",
+        "answer": "Generated artworks are available in high-resolution formats such as PNG and JPEG, perfect for both digital use and printing."
+      },
+      {
+        "question": "How is this different from traditional digital art tools?",
+        "answer": "Unlike traditional tools that require skills and experience, our AI art generator simplifies the process. You describe your idea, and the AI creates it, making art accessible to everyone."
+      },
+      {
+        "question": "Is there a limit to how many artworks I can generate?",
+        "answer": "There’s no limit! You can create as many artworks as you desire, making it easy to explore different creative concepts without restrictions."
+      },
+      {
+        "question": "Can I use the generated artwork commercially?",
+        "answer": "Yes! All generated artworks come with full commercial rights, allowing you to use them in projects, on products, or as part of your business."
+      },
+      {
+        "question": "What if I don’t like the output?",
+        "answer": "You can refine your input and try again until you achieve an artwork that meets your expectations. The AI learns from your preferences with each attempt."
+      },
+      {
+        "question": "Do I need design experience to use this tool?",
+        "answer": "No design experience is necessary! Simply describe your idea and let the AI do the rest, making it easy for anyone to create beautiful art."
+      },
+      {
+        "question": "How do I provide feedback on my created artworks?",
+        "answer": "You can provide feedback directly through the platform which can help us improve the AI's performance and your overall experience."
+      },
+      {
+        "question": "Is there customer support available?",
+        "answer": "Yes! We offer comprehensive support through chat and email, along with tutorials and resources to help you maximize your experience."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Create Your First AI Artwork?",
+    "description": "Start with free credits - Experience the creativity",
+    "contactUsText": "Contact Us",
+    "tryText": "Create Now →"
+  },
+  "footer": {
+    "heading": "Ready to Transform Your Ideas into Art?",
+    "description": "Try WaveSpeed AI now and experience the creativity of AI. No sign-up required.",
+    "ctaText": "Create Art Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

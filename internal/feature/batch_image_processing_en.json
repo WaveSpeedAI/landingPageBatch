@@ -1,0 +1,229 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Batch Image Processing",
+  "meta": {
+    "description": "Effortlessly process multiple images at once with WaveSpeed AI. Leverage advanced machine learning to enhance visual content for your brand. Increase productivity and save time without compromising quality!",
+    "keywords": "batch image processing, bulk image enhancement, AI image tools, image editing software, e-commerce image solutions, WaveSpeed AI, fast image processing, automate image workflows, professional image refinement, image optimization tool"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Batch Image Processing",
+    "subHeading": "Supercharge Your Workflow with AI",
+    "description": "Effortlessly enhance and optimize multiple images in a matter of minutes. Increase productivity and maintain quality without the hassle of manual editing. Unlock the full potential of your visual content.",
+    "tryText": "Get Started Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI Batch Image Processing Solution",
+    "left": {
+      "heading": "Traditional Image Editing Challenges",
+      "items": [
+        "Time-consuming manual editing",
+        "Requires specialized skills or software",
+        "High costs associated with professional services",
+        "Difficulty maintaining consistency across images",
+        "Limited ability to handle large volumes"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Process hundreds of images in minutes",
+        "No design skills needed - Just upload images",
+        "Consistent, high-quality results every time",
+        "Seamless integration into your workflow",
+        "Affordable pricing tailored for all businesses"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Streamline your batch image processing in 4 easy steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Images",
+        "text": "Select multiple images you want to enhance",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Choose Enhancements",
+        "text": "Select the desired edits: brightness, cropping, filters, etc.",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Preview Changes",
+        "text": "Review the automatic enhancements before processing",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Processed Images",
+        "text": "Receive optimized images ready for use in minutes",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Start Processing Your Images →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Perfect for various applications and industries",
+    "items": [
+      "E-commerce product images",
+      "Marketing materials and ads",
+      "Social media content",
+      "Portfolio enhancements",
+      "Real estate photo enhancements",
+      "Event photography",
+      "Food and recipe images",
+      "Fashion and lookbook edits"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how brands are transforming their visual content with AI",
+    "items": [
+      {
+        "tag": "E-commerce",
+        "heading": "Online Retailer Image Optimization",
+        "before": {
+          "label": "Before",
+          "text": "Manual edits took weeks."
+        },
+        "after": {
+          "label": "After",
+          "text": "Processed hundreds of photos in 2 hours."
+        },
+        "value": "95%",
+        "key": "Time Saved",
+        "description": "With batch image processing, our product uploads accelerated dramatically, boosting sales conversions by 30%."
+      },
+      {
+        "tag": "Photography Services",
+        "heading": "Wedding Photography Business",
+        "before": {
+          "label": "Before",
+          "text": "Cumbersome editing."
+        },
+        "after": {
+          "label": "After",
+          "text": "Quick and efficient image processing."
+        },
+        "value": "90%",
+        "key": "Efficiency Improved",
+        "description": "Batch processing images allowed us to deliver final galleries faster and increased client satisfaction."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Image Processing Options",
+    "description": "Choose the right batch processing for your needs",
+    "items": [
+      "High Quality: Premium output with perfect color adjustments",
+      "Fast Processing: Quick enhancement for immediate needs",
+      "Customizable Filters: Tailor processing to your brand's aesthetic",
+      "Compatibility with all standard image formats",
+      "Simple Integration: Easily incorporate into existing workflows"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore additional powerful AI tools for visual enhancement"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "How many images can I process at once?",
+        "answer": "You can process hundreds of images simultaneously, making it ideal for large projects or bulk uploads."
+      },
+      {
+        "question": "What types of enhancements can I apply?",
+        "answer": "You can choose from adjustments like brightness, contrast, sharpness, cropping, and apply filters."
+      },
+      {
+        "question": "Will batch processing affect image quality?",
+        "answer": "No, our advanced algorithms ensure that processed images maintain high quality and fidelity."
+      },
+      {
+        "question": "Can I preview the changes before finalizing?",
+        "answer": "Yes! You will have the option to preview enhancements before proceeding with the batch processing."
+      },
+      {
+        "question": "What image formats are supported?",
+        "answer": "We support a wide range of formats including JPG, PNG, and TIFF ensuring maximum flexibility."
+      },
+      {
+        "question": "Is there a limit to how small or large my images can be?",
+        "answer": "Images should ideally be at least 512x512 pixels for optimal processing, but there's no maximum size limit."
+      },
+      {
+        "question": "How fast can I expect the processing to complete?",
+        "answer": "Processing usually completes within minutes, depending on the quantity and size of images uploaded."
+      },
+      {
+        "question": "Are there any hidden fees associated with the service?",
+        "answer": "No, the pricing is straightforward with no hidden fees or monthly commitments."
+      },
+      {
+        "question": "Can I cancel my processing request?",
+        "answer": "Yes, you can cancel the request before finalizing the processing anytime."
+      },
+      {
+        "question": "What if I encounter issues while using the tool?",
+        "answer": "Our support team is available to help via email or live chat, and we have a comprehensive FAQ for guidance."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Optimize Your Images?",
+    "description": "Start with your free credits and experience the convenience of batch processing.",
+    "contactUsText": "Contact Us",
+    "tryText": "Start Processing Now →"
+  },
+  "footer": {
+    "heading": "Transform Your Image Editing Process!",
+    "description": "Experience WaveSpeed AI's batch image processing today. No sign-up required.",
+    "ctaText": "Start Processing Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

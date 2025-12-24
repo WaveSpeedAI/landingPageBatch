@@ -1,0 +1,230 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI 视频增强器",
+  "meta": {
+    "description": "使用 WaveSpeed AI 轻松提升视频质量。利用先进的算法，将您的普通视频变成电影杰作。非常适合企业和内容创作者。黑色星期五优惠正在进行中！",
+    "keywords": "AI 视频增强器, 视频质量提升, 视频放大 AI, 电影视频工具, WaveSpeed, 视频增强, 黑色星期五视频工具, 内容创作者工具, 营销视频增强, 电子商务视频工具"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI 工具",
+        "items": [
+          [
+            "AI 工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "现在尝试"
+  },
+  "hero": {
+    "heading": "轻松视频增强",
+    "subHeading": "将您的视频变成惊艳的视觉效果",
+    "description": "使用 WaveSpeed 的 AI 视频增强器将您的视频提升到一个新的水平。只需点击几下，即可提高质量、清晰度和深度。非常适合社交媒体创作者、营销人员及任何寻求创造令人印象深刻内容的人。",
+    "tryText": "立即开始",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI 视频增强解决方案",
+    "left": {
+      "heading": "传统视频增强挑战",
+      "items": [
+        "专业视频编辑的高成本（每个项目 $1000-3000）",
+        "需要昂贵的软件和插件",
+        "耗时的工作流程（1-3 周）",
+        "有限的处理能力",
+        "对小型内容创作者不可达"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI 解决方案",
+      "items": [
+        "使用 AI 技术即时增强视频",
+        "无需高端软件 - 只需上传视频",
+        "仅需点击即可在几分钟内提高质量",
+        "无限放大和调整",
+        "灵活的按需付费模式适合所有预算"
+      ],
+      "tryText": "增强视频"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "通过四个简单的步骤提升您的视频",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传视频",
+        "text": "选择您想要提升质量的视频",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "选择增强级别",
+        "text": "选择所需的增强级别（例如，“高级”或“标准”）",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "预览更改",
+        "text": "在最终确定增强之前获取快速预览",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载增强视频",
+        "text": "接收您准备好分发的改进视频",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "增强您的第一个视频 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无尽的应用",
+    "description": "针对每个目的增强视频",
+    "items": [
+      "产品营销视频",
+      "社交媒体帖子提升",
+      "企业培训视频",
+      "活动录制",
+      "房地产虚拟导览",
+      "电影预告片和宣传片",
+      "内容创作者增强",
+      "电子学习视频改进"
+    ]
+  },
+  "successStories": {
+    "heading": "变革性的成功案例",
+    "description": "发现其他人如何增强他们的视频项目",
+    "items": [
+      {
+        "tag": "内容创作",
+        "heading": "YouTube 渠道增长",
+        "before": {
+          "label": "之前",
+          "text": "标准质量"
+        },
+        "after": {
+          "label": "之后",
+          "text": "电影质量"
+        },
+        "value": "85%",
+        "key": "质量提升",
+        "description": "我们使用 AI 增强器改善了视频质量。观众保留率飙升了 50%。"
+      },
+      {
+        "tag": "电子商务",
+        "heading": "产品促销视频",
+        "before": {
+          "label": "之前",
+          "text": "基本质量"
+        },
+        "after": {
+          "label": "之后",
+          "text": "高清质量"
+        },
+        "value": "90%",
+        "key": "参与提升",
+        "description": "我们的视频吸引了客户，导致促销内容的转化率提高了 30%。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "增强选项比较",
+    "description": "选择适合您需求的最佳增强模式",
+    "items": [
+      "标准：基本质量增强，适合随意使用",
+      "高级：专业项目的高清升级",
+      "电影级：电影预告片的先进电影质量",
+      "可提供多个分辨率输出",
+      "高效的快速处理时间",
+      "质量提升有满意保证"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "探索相关 AI 工具",
+    "description": "发现更多强大的 AI 功能以满足您的视频需求"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要知道的一切",
+    "items": [
+      {
+        "question": "支持哪些视频格式的增强？",
+        "answer": "我们支持所有主要视频格式，包括 MP4、AVI 和 MOV。确保您的视频在增强之前具有良好的质量以获得最佳效果。"
+      },
+      {
+        "question": "我可以一次增强多个视频吗？",
+        "answer": "可以！我们的平台支持批量处理，允许您同时增强多个视频，提高效率。"
+      },
+      {
+        "question": "增强过程需要多长时间？",
+        "answer": "大多数增强在几分钟内完成，但处理时间可能会根据视频长度和所选质量设置而有所不同。"
+      },
+      {
+        "question": "使用服务的次数有限制吗？",
+        "answer": "没有限制！您可以在方便的时候增强尽可能多的视频，定价仅基于使用。"
+      },
+      {
+        "question": "增强视频包括商业许可吗？",
+        "answer": "是的！所有增强的视频均附带完整的商业使用权，适用于营销和个人项目。"
+      },
+      {
+        "question": "如果我遇到问题，有什么支持可用？",
+        "answer": "我们提供全面的文档、常见问题和可通过在线聊天和电子邮件访问的支持团队以解决任何技术挑战。"
+      },
+      {
+        "question": "视频增强的定价是如何工作的？",
+        "answer": "我们的定价是按需付费，因此您只需为所进行的增强支付费用。没有订阅费用或隐藏费用。"
+      },
+      {
+        "question": "我可以在最终确定增强之前看到预览吗？",
+        "answer": "当然可以！您将在下载最终视频之前看到增强的预览，以确保对结果满意。"
+      },
+      {
+        "question": "AI 视频增强器的最佳用例是什么？",
+        "answer": "该工具非常适合创建促销内容的企业、为社交媒体增强视频的影响者及升级在线课程材料的教育工作者。"
+      },
+      {
+        "question": "该服务会保护我的视频隐私吗？",
+        "answer": "是的，所有上传的视频都经过安全处理，未经您同意不会与第三方分享。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备好增强您的视频了吗？",
+    "description": "今天开始使用免费积分 - 亲自体验转变",
+    "contactUsText": "联系我们",
+    "tryText": "开始增强现在 →"
+  },
+  "footer": {
+    "heading": "今天就提升您的视频质量！",
+    "description": "尝试 WaveSpeed AI 的增强工具，亲自查看效果。无需注册。",
+    "ctaText": "立即增强",
+    "text": "© 2025 WaveSpeed AI. 保留所有权利。"
+  }
+}

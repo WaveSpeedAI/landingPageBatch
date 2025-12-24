@@ -1,0 +1,226 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Screen Recorder",
+  "meta": {
+    "description": "Capture your screen with ease using WaveSpeed AI’s powerful screen recording feature. Ideal for tutorials, presentations, and streaming, all backed by advanced AI technology. Experience seamless recording without the hassle of complex software.",
+    "keywords": "screen recorder, AI screen capture, video recording tool, tutorial recording, presentation recording, seamless screen capture, streaming, educational video, software demos, online tutorials, marketing videos"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Screen Recording Made Easy",
+    "subHeading": "Capture, Share, and Inspire",
+    "description": "Effortlessly record your screen for tutorials, product demos, or presentations. Utilize WaveSpeed AI’s intelligent features to enhance your recordings and share your knowledge effectively. Start recording now!",
+    "tryText": "Start Recording",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI Screen Recorder Solution",
+    "left": {
+      "heading": "Traditional Recording Challenges",
+      "items": [
+        "Complex software setup",
+        "Expensive recording equipment",
+        "Time-consuming editing",
+        "Laggy performance and low quality",
+        "Limited sharing options"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Instantly record high-quality videos with a single click",
+        "No additional software needed—just start recording",
+        "Seamless operation with AI-enhanced performance",
+        "Easy sharing options to multiple platforms",
+        "Affordable pay-per-use model for everyone"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Record your screen in 4 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Select Area to Record",
+        "text": "Choose full screen or a specific window for recording",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Adjust Settings",
+        "text": "Set audio preferences, quality, and format options",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Start Recording",
+        "text": "One-click initiation for instant screen capturing",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Save and Share",
+        "text": "Download your video or share directly to social media",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Record Your First Video →"
+  },
+  "endlessPossibilities": {
+    "heading": "Versatile Recording Applications",
+    "description": "Perfect for a variety of use cases",
+    "items": [
+      "Create educational tutorials and courses",
+      "Record software demos and presentations",
+      "Stream gaming sessions effortlessly",
+      "Provide customer support through visual guides",
+      "Capture webinars for later viewing",
+      "Generate marketing videos and ads",
+      "Make instructional videos for products",
+      "Document tech setups or troubleshooting tips"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "See how users are leveraging screen recording",
+    "items": [
+      {
+        "tag": "Education",
+        "heading": "Distance Learning Enhancement",
+        "before": {
+          "label": "Before",
+          "text": "Difficult to engage students"
+        },
+        "after": {
+          "label": "After",
+          "text": "Interactive tutorials"
+        },
+        "value": "75%",
+        "key": "Increase in Engagement",
+        "description": "Instructors recorded engaging video lessons that improved student participation and understanding."
+      },
+      {
+        "tag": "Corporate Training",
+        "heading": "Effective Onboarding Process",
+        "before": {
+          "label": "Before",
+          "text": "5 hours per trainee"
+        },
+        "after": {
+          "label": "After",
+          "text": "1 hour per trainee"
+        },
+        "value": "80%",
+        "key": "Time Saved",
+        "description": "Streamlined training with recorded sessions allowed for new hires to learn at their own pace, drastically reducing onboarding time."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Screen Recorder Comparison",
+    "description": "Choose the right recording settings for your needs",
+    "items": [
+      "Standard Recording: 1080p quality, audio capture, and flexible settings",
+      "High Performance Mode: Optimize for high frame rate gaming sessions",
+      "Lightweight Mode: Quick and easy, suitable for short clips and tutorials",
+      "Custom Audio Inputs: Record system audio or microphone separately",
+      "No lagging: Ensure smooth, uninterrupted recordings",
+      "Easy editing features included"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore additional tools for enhanced video creation"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What video quality can I record in?",
+        "answer": "You can record in up to 1080p quality with the option to adjust settings based on your needs. This ensures clear visuals and high-quality audio for any type of recording."
+      },
+      {
+        "question": "Can I include my voice or other audio in the recording?",
+        "answer": "Yes! You have the ability to choose audio sources, including microphone input alongside system audio, allowing for thorough and engaging presentations."
+      },
+      {
+        "question": "Is it easy to share the recordings?",
+        "answer": "Absolutely! After recording, you can easily download your videos, or share straight to social media and other platforms without hassle."
+      },
+      {
+        "question": "Can I record multiple times without losing quality?",
+        "answer": "Yes! You can make as many recordings as you need, each time maintaining the highest quality output without degradation."
+      },
+      {
+        "question": "What is the pricing model for using the screen recorder?",
+        "answer": "We operate on a pay-as-you-go pricing model, ensuring you only pay for the recordings you create without any hidden fees or subscriptions."
+      },
+      {
+        "question": "How long does it take to start recording?",
+        "answer": "Getting started is instantaneous! With just one click, you can begin capturing your screen within seconds."
+      },
+      {
+        "question": "What are the best use cases for screen recording?",
+        "answer": "Screen recording is perfect for educational purposes, product demonstrations, real-time support, marketing videos, and much more!"
+      },
+      {
+        "question": "Do I own the rights to the videos I record?",
+        "answer": "Yes! All videos created are yours with full commercial rights, allowing for usage across various platforms without additional charges."
+      },
+      {
+        "question": "What support is available if I have issues?",
+        "answer": "We provide extensive support including detailed documentation, video tutorials, and a responsive support team ready to assist with any technical questions."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Start Capturing Your Screen?",
+    "description": "Experience the ease of WaveSpeed AI's Screen Recorder today!",
+    "contactUsText": "Contact Us",
+    "tryText": "Start Recording Now →"
+  },
+  "footer": {
+    "heading": "Ready to Transform Your Screen Captures?",
+    "description": "Try WaveSpeed AI now and see the difference for yourself. No sign-up required.",
+    "ctaText": "Start Recording Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

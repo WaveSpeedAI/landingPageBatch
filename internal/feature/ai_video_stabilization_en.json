@@ -1,0 +1,222 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Video Stabilization",
+  "meta": {
+    "description": "Eliminate shaky footage effortlessly with AI-powered stabilization technology. Perfect for content creators, e-commerce, and marketing videos. Achieve smooth, professional-grade results in minutes with WaveSpeed AI.",
+    "keywords": "video stabilization AI, smooth video technology, stabilize shaky footage, cinematic video stabilization, e-commerce video tool, marketing video stabilization, professional video editing, video enhancement, YouTube video quality, social media video stability"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Video Stabilization",
+    "subHeading": "Transform Shaky Videos into Smooth Masterpieces",
+    "description": "Eliminate unwanted shakes and jitters in your videos with our cutting-edge stabilization technology. Achieve professional-quality results quickly with just a few clicks. Experience the difference today!",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Video Stabilization Solution",
+    "left": {
+      "heading": "Traditional Challenges",
+      "items": [
+        "Shaky footage produces unprofessional results",
+        "Time-consuming manual stabilization process",
+        "Expensive editing software needed",
+        "Requires expert video editing skills",
+        "Limited options for real-time stabilization"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Instantly stabilize videos in just minutes",
+        "No need for editing software or expertise",
+        "AI-powered results for smooth footage",
+        "Achieve consistent quality on all devices",
+        "Affordable pay-per-use model available"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Stabilize your videos in 3 easy steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Video",
+        "text": "Upload your shaky video file or footage",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Select Settings",
+        "text": "Customize stabilization preferences if needed",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Download Stabilized Video",
+        "text": "Receive your smooth, stabilized video in minutes",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "Stabilize Your First Video →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Perfect for any video application",
+    "items": [
+      "YouTube content with professional quality",
+      "Social media videos without shakes",
+      "Business presentations and webinars",
+      "Event recordings and livestreams",
+      "Real estate property showcases",
+      "Travel vlogs with smooth transitions",
+      "Sports highlights and action shots",
+      "Tutorial and how-to videos"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "See how users are enhancing their videos with AI",
+    "items": [
+      {
+        "tag": "Travel Vlogs",
+        "heading": "YouTube Channel Improvement",
+        "before": {
+          "label": "Before",
+          "text": "Jittery footage"
+        },
+        "after": {
+          "label": "After",
+          "text": "Sleek and professional"
+        },
+        "value": "95%",
+        "key": "Quality Enhancement",
+        "description": "Viewers loved the smoother look! Engagement rates increased, leading to a 50% boost in subscriptions."
+      },
+      {
+        "tag": "Real Estate",
+        "heading": "Property Showcase Videos",
+        "before": {
+          "label": "Before",
+          "text": "Shaky camera seems unprofessional"
+        },
+        "after": {
+          "label": "After",
+          "text": "Polished and inviting"
+        },
+        "value": "98%",
+        "key": "Client Impressions Improved",
+        "description": "Clients remarked on the clear and inviting presentation, leading to faster sales."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Model Comparison",
+    "description": "Optimize your video stabilization experience",
+    "items": [
+      "Standard Stabilization: Basic correction for minor shakes, quick processing",
+      "Advanced Stabilization: Comprehensive smoothing for extreme jitters, high-quality output",
+      "Real-time preview for instant feedback",
+      "Supports a variety of video formats",
+      "Seamlessly integrates with all video editing software"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore more powerful AI tools for enhancing video quality"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What types of videos can be stabilized?",
+        "answer": "You can stabilize any video, including home videos, professional footage, or content created for social media. Our AI works efficiently across various formats and qualities."
+      },
+      {
+        "question": "Is there a maximum video length for stabilization?",
+        "answer": "No, you can upload videos of any length. However, longer videos may take slightly more time to process. We suggest shorter clips for rapid stabilization."
+      },
+      {
+        "question": "How does AI stabilization work compared to traditional methods?",
+        "answer": "Our AI analyzes each frame of your video to detect movements and stabilizes them automatically, resulting in smoother footage without the need for manual editing."
+      },
+      {
+        "question": "Can I preview the stabilized video before downloading?",
+        "answer": "Yes! You can preview the stabilized video in real-time to see the improvements before finalizing your download."
+      },
+      {
+        "question": "Are there any quality losses after stabilization?",
+        "answer": "We prioritize maintaining your video's quality. While minor artifacts may occur, our advanced technology ensures minimal loss of original clarity."
+      },
+      {
+        "question": "What is the cost associated with stabilization?",
+        "answer": "The service is offered on a pay-as-you-go basis, with pricing based on the duration and complexity of the video. You only pay for the stabilization you need."
+      },
+      {
+        "question": "Can I stabilize videos with background music and voiceovers?",
+        "answer": "Absolutely! Your audio tracks will remain intact during the stabilization process, ensuring a complete viewing experience."
+      },
+      {
+        "question": "Is prior video editing required before stabilization?",
+        "answer": "No prior editing is necessary. Simply upload your footage, and our AI will handle the rest for you."
+      },
+      {
+        "question": "What formats can I upload for stabilization?",
+        "answer": "We support popular video formats including MP4, AVI, and MOV. Most standard formats can be processed with our technology."
+      },
+      {
+        "question": "Do you provide customer support for stabilized videos?",
+        "answer": "Yes! Our customer service team is available 24/7 to assist with any questions or issues regarding your video stabilization experience."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Stabilize Your Videos?",
+    "description": "Start with free credits - Experience the stability yourself",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Ready to Stabilize Your Footage?",
+    "description": "Try WaveSpeed AI now and experience smooth video transformations. No sign-up required.",
+    "ctaText": "Stabilize Videos Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

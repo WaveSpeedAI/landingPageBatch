@@ -1,0 +1,226 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - 人脸互换",
+  "meta": {
+    "description": "凭借我们尖端的AI技术，轻松在图像中进行人脸互换。非常适合社交媒体、营销活动和创意内容。体验无缝集成和令人惊叹的效果，无需任何经验。",
+    "keywords": "AI人脸互换, 人脸替换, 图像编辑AI, 创意内容生成器, 社交媒体工具, 营销自动化, 创新照片编辑, AI摄影, 在线人脸互换, 无缝人脸变更, 趣味照片效果"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI工具",
+        "items": [
+          [
+            "AI工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即试用"
+  },
+  "hero": {
+    "heading": "转换您的图像",
+    "subHeading": "与AI即时互换人脸",
+    "description": "通过精确的人脸互换在几秒钟内增强您的图像。非常适合社交媒体帖子、表情包和只需几次点击的创意项目。",
+    "tryText": "立即试用",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI 人脸互换解决方案",
+    "left": {
+      "heading": "传统人脸互换的挑战",
+      "items": [
+        "劳动密集型的手动编辑",
+        "需要高级编辑技能",
+        "耗时的流程（数小时到数天）",
+        "有限的创意选项",
+        "专业服务的高成本"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI 解决方案",
+      "items": [
+        "只需点击即可在几秒钟内互换人脸",
+        "无需编辑技能 - 只需上传",
+        "即时、高质量的AI结果",
+        "无限的创意可能性",
+        "可承受的按需付费模式"
+      ],
+      "tryText": "试试"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "体验4个简单步骤的人脸互换",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传图像",
+        "text": "通过直接上传选择您想要修改的照片。",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "选择人脸",
+        "text": "从可用选项中选择您想要互换的人脸。",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "确认互换",
+        "text": "审查互换并根据需要进行任何最终调整。",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载图像",
+        "text": "在短短几秒内接收您增强的图像，准备分享。",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "立即开始 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无限的创意用途",
+    "description": "非常适合各种项目和趣味",
+    "items": [
+      "为社交媒体创建有趣的表情包",
+      "为营销活动增强照片",
+      "带有互换脸孔的个性化礼物",
+      "为博客和网站创作创意内容",
+      "为Instagram和TikTok发布引人入胜的帖子",
+      "家庭照片增强和趣味",
+      "主题派对邀请",
+      "社交媒体的独特头像"
+    ]
+  },
+  "successStories": {
+    "heading": "真实的成功故事",
+    "description": "发现用户如何利用AI增强他们的项目",
+    "items": [
+      {
+        "tag": "社交媒体影响者",
+        "heading": "病毒式表情包创建",
+        "before": {
+          "label": "之前",
+          "text": "耗时的编辑"
+        },
+        "after": {
+          "label": "之后",
+          "text": "即时人脸互换"
+        },
+        "value": "节省98%",
+        "key": "节省的时间",
+        "description": "使用AI人脸互换后，我们的表情包游戏飞速提升。用幽默和创意吸引粉丝！"
+      },
+      {
+        "tag": "电子商务",
+        "heading": "营销活动趣味",
+        "before": {
+          "label": "之前",
+          "text": "昂贵的设计师费用"
+        },
+        "after": {
+          "label": "之后",
+          "text": "快速简便的互换"
+        },
+        "value": "节省90%",
+        "key": "成本降低",
+        "description": "面临紧迫的截止日期时，我们生成了独特的宣传图像，吸引了我们的受众。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI模型比较",
+    "description": "为您的项目选择合适的功能",
+    "items": [
+      "标准互换：快速人脸替换，基本准确，适合休闲项目",
+      "高级互换：增强的精度，可自定义元素，完美用于营销",
+      "实时处理：对所做更改的即时反馈",
+      "无缝融合：确保最终图像的真实感",
+      "易于使用的界面：人人可及",
+      "有趣的滤镜和效果：为您的人脸互换增添创意"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关AI工具",
+    "description": "探索您创意项目的创新AI工具"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要了解的所有信息",
+    "items": [
+      {
+        "question": "我可以使用什么图像格式？",
+        "answer": "您可以上传JPG、PNG或BMP格式。确保您的图像清晰且光线良好，以获得最佳效果。"
+      },
+      {
+        "question": "人脸互换的准确度如何？",
+        "answer": "我们的AI确保人脸互换时的高准确性，提供与背景无缝集成的真实效果。"
+      },
+      {
+        "question": "我可以在互换后调整最终图像吗？",
+        "answer": "可以！在进行人脸互换后，您可以应用额外的滤镜或调整，使您的图像真正独特。"
+      },
+      {
+        "question": "我能进行多少次人脸互换？",
+        "answer": "没有限制！您可以在我们的平台上进行任意次数的人脸互换，让创意无限。"
+      },
+      {
+        "question": "有没有关于最佳结果的建议？",
+        "answer": "为了达到最佳效果，请选择脸部清晰可见、光线良好并面向摄像头的图像。"
+      },
+      {
+        "question": "我可以期待多快得到结果？",
+        "answer": "人脸互换几乎是即时处理的。您将在几秒钟内获得修改后的图像。"
+      },
+      {
+        "question": "我需要安装任何软件来使用此功能吗？",
+        "answer": "不需要任何软件安装。通过您的浏览器直接访问我们的AI人脸互换工具。"
+      },
+      {
+        "question": "我可以商业使用互换后的图像吗？",
+        "answer": "可以！所有通过我们工具生成的图像均具有完全的商业使用权。"
+      },
+      {
+        "question": "如果我遇到问题，有哪些支持选项？",
+        "answer": "我们提供广泛的文档、视频教程以及通过电子邮件和在线聊天提供的支持。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备好改变您的图像了吗？",
+    "description": "今天开始使用免费积分，亲自体验魔力！",
+    "contactUsText": "联系我们",
+    "tryText": "立即试用 →"
+  },
+  "footer": {
+    "heading": "您准备好互换人脸了吗？",
+    "description": "深入了解WaveSpeed AI的人脸互换技术，创造惊人的内容。无需注册。",
+    "ctaText": "立即互换人脸",
+    "text": "© 2025 WaveSpeed AI. 保留所有权利。"
+  }
+}

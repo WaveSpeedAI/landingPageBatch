@@ -1,0 +1,229 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI图案生成器",
+  "meta": {
+    "description": "使用WaveSpeed AI轻松创建独特的纺织图案。利用最新的AI技术生成适合时尚、室内等用途的自定义设计。今天体验无与伦比的创造力和效率！",
+    "keywords": "图案生成器AI, 纺织设计AI, 自定义面料图案, 时尚设计工具, 室内设计图案, wave speed AI, 创意设计生成器, 自动化图案创建者, 独特纺织印花, 电子商务设计解决方案"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI工具",
+        "items": [
+          [
+            "AI工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即尝试"
+  },
+  "hero": {
+    "heading": "轻松生成图案",
+    "subHeading": "轻松创造独特设计",
+    "description": "利用尖端AI在几秒钟内生成独一无二的纺织图案。适合设计师、品牌以及任何希望创造突出面料的人。今天就开始你的创意之旅吧！",
+    "tryText": "现在尝试",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI图案生成器解决方案",
+    "left": {
+      "heading": "传统设计挑战",
+      "items": [
+        "耗时的手动设计过程",
+        "有限的设计迭代",
+        "自由职业者和设计软件的高成本",
+        "需要广泛的设计技能",
+        "产品间设计质量不一致"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI解决方案",
+      "items": [
+        "在不到一分钟的时间内即时生成独特图案",
+        "无需设计技能 - 只需输入你的创意",
+        "无限的变化和风格可供探索",
+        "可扩展到任何数量的设计",
+        "为企业量身定制的经济实惠价格"
+      ],
+      "tryText": "尝试"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "在4个简单步骤中创建独特的图案",
+    "steps": [
+      {
+        "number": "1",
+        "title": "输入你的想法",
+        "text": "描述你希望图案的风格或主题",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "选择颜色调色板",
+        "text": "选择最适合你的品牌或项目的颜色",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "自定义选项",
+        "text": "精细调整图案的复杂性和纹理",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载你的图案",
+        "text": "获取准备生产的高分辨率图案",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "生成你的第一幅图案 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无尽的设计机会",
+    "description": "适合每一个创意项目",
+    "items": [
+      "服装的时尚面料设计",
+      "家居装饰纺织品",
+      "床上用品和装饰图案",
+      "独特的壁纸",
+      "产品的创意表面设计",
+      "环保的纺织选择",
+      "活动的定制图案",
+      "艺术项目和手工艺"
+    ]
+  },
+  "successStories": {
+    "heading": "真实成功故事",
+    "description": "了解品牌如何利用AI重新定义他们的设计",
+    "items": [
+      {
+        "tag": "时尚行业",
+        "heading": "创新服装系列",
+        "before": {
+          "label": "之前",
+          "text": "漫长的设计周期"
+        },
+        "after": {
+          "label": "之后",
+          "text": "即时图案生成"
+        },
+        "value": "98%",
+        "key": "时间效率",
+        "description": "通过在几分钟内创建独特图案，我们能够提前几周推出我们的新系列。"
+      },
+      {
+        "tag": "家居用品",
+        "heading": "床上用品系列",
+        "before": {
+          "label": "之前",
+          "text": "标准设计"
+        },
+        "after": {
+          "label": "之后",
+          "text": "自定义图案"
+        },
+        "value": "95%",
+        "key": "设计独特性",
+        "description": "我们的产品现在采用由AI生成的独特图案，使我们的品牌更加吸引人。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI模型比较",
+    "description": "寻找适合你的图案设计的正确选项",
+    "items": [
+      "基础模型：快速生成，标准质量，适合初步设计",
+      "高级模型：增强质量和图案复杂性，适合高级需求",
+      "颜色控制以获得基于品牌要求的最佳效果",
+      "快速生成时间，便于快速原型测试",
+      "所有生成图案均包含商业使用权"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关AI工具",
+    "description": "探索更多创新设计工具，助力创意"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "一切你需要了解的内容",
+    "items": [
+      {
+        "question": "我可以使用图案生成器创建什么类型的设计？",
+        "answer": "你可以创建各种各样的纺织图案，包括花卉、几何、抽象和主题设计，完美适合时尚、室内和艺术项目。"
+      },
+      {
+        "question": "我如何确保图案是独特的？",
+        "answer": "每个图案都是根据你的输入生成的，允许几乎无限的变化。你可以自定义颜色和风格，以实现完全的原创性。"
+      },
+      {
+        "question": "生成的图案可以用什么文件格式获得？",
+        "answer": "图案可以以多种格式提供，包括JPEG、PNG和适合打印和数字使用的矢量文件。"
+      },
+      {
+        "question": "我可以进一步编辑生成的图案吗？",
+        "answer": "可以！一旦下载图案，你可以使用图形设计软件根据你的具体项目需要对其进行修改。"
+      },
+      {
+        "question": "我可以生成多少个图案，有限制吗？",
+        "answer": "没有，你可以生成你需要的任何数量的图案，这使其对小型项目或大型系列可扩展。"
+      },
+      {
+        "question": "图案生成的定价是怎样的？",
+        "answer": "WaveSpeed采用按需付费模式，允许你仅为生成的图案付费，从而经济实惠且灵活。"
+      },
+      {
+        "question": "我可以期待多快收到我的图案？",
+        "answer": "图案生成通常是即时的，让你能够毫不延迟地开始设计过程。"
+      },
+      {
+        "question": "我需要注意使用权吗？",
+        "answer": "是的！所有生成的图案都拥有完整的商业权利，让你在项目中自由使用。"
+      },
+      {
+        "question": "如果我需要帮助，有什么支持可用？",
+        "answer": "我们的支持团队随时通过电子邮件或聊天为你解答任何问题，确保你拥有成功所需的所有资源。"
+      },
+      {
+        "question": "企业可以使用该工具进行大宗设计需求吗？",
+        "answer": "当然可以！该工具非常适合需要大量独特图案的企业，并提供高效的批量生成选项。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备开始创造独特图案了吗？",
+    "description": "立即注册并通过免费积分探索你的创意",
+    "contactUsText": "联系我们",
+    "tryText": "立即尝试 →"
+  },
+  "footer": {
+    "heading": "立即转变你的设计过程！",
+    "description": "现在就尝试WaveSpeed AI，亲自体验生成惊艳图案是多么简单。无需注册。",
+    "ctaText": "立即创建图案",
+    "text": "© 2025 WaveSpeed AI. 版权所有。"
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Mejora de Rostros con IA",
+  "meta": {
+    "description": "Eleva tus fotos con tecnología de Mejora de Rostros con IA de vanguardia. Transforma rasgos faciales, mejora texturas de piel y logra looks pulidos sin esfuerzo. Ideal para influencers, fotógrafos y creadores de contenido. ¡Pruébalo gratis ahora!",
+    "keywords": "mejora de rostros con IA, mejora de fotos, retoque de imágenes, alisado de piel, mejora de retratos, herramienta de belleza con IA, herramientas para influencers, software de fotografía, herramientas para creadores de contenido, mejora de fotos en redes sociales"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas de IA",
+        "items": [
+          [
+            "Herramientas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Muestra",
+        "items": [
+          [
+            "Muestra",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Revitaliza Tus Retratos",
+    "subHeading": "Mejora Rostros a la Perfección",
+    "description": "Transforma tus fotos en retratos impresionantes con Mejora de Rostros mediante IA. Piel perfecta, rasgos más nítidos y looks naturales están a solo un clic de distancia. Experimenta la magia de la IA y eleva la calidad de tu imagen al instante.",
+    "tryText": "Pruébalo Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución de Mejora de Rostros con IA de WaveSpeed",
+    "left": {
+      "heading": "Desafíos del Retoque Tradicional",
+      "items": [
+        "Servicios profesionales caros ($300-1000 por sesión)",
+        "Requiere software de edición hábil",
+        "Procesos que consumen tiempo (hasta varios días)",
+        "Revisiones y cambios limitados",
+        "Dificultades para amateurs y creadores pequeños"
+      ]
+    },
+    "right": {
+      "heading": "Solución de Mejora de WaveSpeed",
+      "items": [
+        "Transforma tus fotos en segundos",
+        "No se requieren habilidades - Solo sube tu imagen",
+        "Resultados instantáneos y satisfactorios con tecnología de IA",
+        "Ediciones y variaciones ilimitadas",
+        "Modelo de pago por uso asequible - Accesible para todos"
+      ],
+      "tryText": "Prueba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "Logra mejoras impresionantes en 4 sencillos pasos",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Sube la Imagen",
+        "text": "Sube tu retrato o imagen que requiera mejora",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Personaliza Características",
+        "text": "Opcional: Especifica las mejoras que deseas (por ejemplo, \"alisar la piel\")",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Selecciona el Nivel de Mejora",
+        "text": "Elige entre retoques rápidos o mejoras profundas",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Descarga la Imagen Mejorada",
+        "text": "Recibe fotos de alta resolución en menos de 2 minutos",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Mejora tu Primera Foto →"
+  },
+  "endlessPossibilities": {
+    "heading": "Posibilidades Infinitas",
+    "description": "Ideal para todo tipo de necesidades de mejora de fotos",
+    "items": [
+      "Fotos de perfil en redes sociales",
+      "Retratos profesionales",
+      "Fotos de belleza para portafolio",
+      "Mejoras en fotografía de bodas",
+      "Fotos de moda para comercio electrónico",
+      "Creación de contenido para influencers",
+      "Capturas de eventos",
+      "Regalos personalizados con imágenes mejoradas"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Descubre cómo los creadores están mejorando sus imágenes con IA",
+    "items": [
+      {
+        "tag": "Influencer de Belleza",
+        "heading": "Renovación del Portafolio en Instagram",
+        "before": {
+          "label": "Antes",
+          "text": "Plano y apagado"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Vibrante y atractivo"
+        },
+        "value": "85%",
+        "key": "Aumento de Compromiso",
+        "description": "Nuestras nuevas imágenes mejoradas atrajeron a más seguidores, aumentando significativamente mi compromiso en pocos días."
+      },
+      {
+        "tag": "Fotógrafo",
+        "heading": "Mejoras en Fotos de Bodas",
+        "before": {
+          "label": "Antes",
+          "text": "Carece de vibrancia"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Ricas y vivas"
+        },
+        "value": "90%",
+        "key": "Satisfacción del Cliente",
+        "description": "Los clientes estaban encantados con la calidad mejorada, lo que llevó a más referidos y reservas."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Modelos de IA",
+    "description": "Selecciona el nivel de mejora adecuado para tus necesidades",
+    "items": [
+      "Toque Ligero: Soluciones rápidas y alisado, detalles mínimos preservados",
+      "Mejora Estándar: Resultados equilibrados, mejorando detalle y suavidad",
+      "Retoque Profundo: Mejoras significativas con recuperación total de detalles y texturas sutiles",
+      "Efectos Naturales: Retoques realistas manteniendo el carácter original",
+      "Proceso por Lotes: Mejora múltiples imágenes simultáneamente",
+      "Derechos de uso comercial incluidos"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas de IA Relacionadas",
+    "description": "Explora más herramientas avanzadas de IA para la edición de fotos"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué tipo de mejoras puedo esperar?",
+        "answer": "La Mejora de Rostros con IA puede proporcionar piel suave, rasgos afilados y ajustes a la iluminación y tonos, todo mientras mantiene un look natural. Nuestra tecnología sobresale en entregar resultados que mejoran en lugar de alterar tus fotos."
+      },
+      {
+        "question": "¿Puedo personalizar el nivel de mejora?",
+        "answer": "¡Absolutamente! Puedes seleccionar entre retoques rápidos y opciones de retoque profundo, permitiéndote controlar cuán sutiles o dramáticas son las mejoras, adaptadas a tus necesidades específicas."
+      },
+      {
+        "question": "¿Qué formatos de imagen funcionan mejor para la mejora?",
+        "answer": "Recomendamos utilizar archivos JPG o PNG de alta resolución. Para obtener resultados óptimos, las imágenes deben ser claras y bien iluminadas, idealmente de más de 800x800 píxeles. Sin embargo, se soportan la mayoría de los formatos comunes."
+      },
+      {
+        "question": "¿En qué se diferencia esto del retoque manual?",
+        "answer": "La tecnología de IA proporciona resultados instantáneos con calidad consistente, a diferencia del retoque manual que puede ser lento y variar en calidad. Las mejoras con IA ofrecen una solución rápida y fiable para imágenes mejoradas."
+      },
+      {
+        "question": "¿Puedo aplicar efectos a múltiples fotos a la vez?",
+        "answer": "¡Sí! Nuestro herramienta de procesamiento por lotes permite mejorar múltiples imágenes simultáneamente, haciéndolo eficiente para proyectos o eventos más grandes."
+      },
+      {
+        "question": "¿Qué derechos tengo después de la mejora?",
+        "answer": "Posees los derechos comerciales de todas las imágenes mejoradas creadas a través de nuestro servicio sin tarifas adicionales. Úsalas como desees en varias plataformas."
+      },
+      {
+        "question": "¿Cuánto tiempo toma el proceso de mejora?",
+        "answer": "El tiempo de generación es rápido, generalmente bajo 2 minutos por imagen. Verás tus resultados mejorados en poco tiempo."
+      },
+      {
+        "question": "¿Qué tipos de fotografía pueden beneficiarse de las mejoras con IA?",
+        "answer": "La Mejora de Rostros con IA es perfecta para retratos, fotografía comercial, imágenes para redes sociales y cualquier contexto donde el atractivo visual sea crucial para el éxito."
+      },
+      {
+        "question": "¿Necesito creditar a WaveSpeed al usar imágenes mejoradas?",
+        "answer": "No se requiere atribución, pero apreciamos si acreditas nuestro servicio si lo deseas. Tus imágenes mejoradas pueden usarse libremente en cualquier medio."
+      },
+      {
+        "question": "¿Qué soporte está disponible si encuentro problemas?",
+        "answer": "Ofrecemos soporte integral a través de guías detalladas, tutoriales en video y un equipo receptivo listo para asistirte por correo electrónico o chat para cualquier dificultad técnica."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Transformar Tus Retratos?",
+    "description": "Comienza a mejorar tus imágenes hoy con créditos gratis!",
+    "contactUsText": "Contáctanos",
+    "tryText": "Pruébalo Ahora →"
+  },
+  "footer": {
+    "heading": "¿Listo para Animar Tus Fotos?",
+    "description": "Experimenta WaveSpeed AI ahora y presencia la transformación. No se requiere registro.",
+    "ctaText": "Mejora Tus Fotos Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

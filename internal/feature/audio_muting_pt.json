@@ -1,0 +1,223 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Recurso de Silenciamento de Áudio com IA",
+  "meta": {
+    "description": "Silencie facilmente o áudio indesejado do seu conteúdo de vídeo com nosso poderoso recurso de Silenciamento de Áudio com IA. Perfeito para e-commerce, redes sociais e marketing. Eleve sua narrativa em vídeo!",
+    "keywords": "silenciamento de áudio IA, remoção de ruído de fundo, ferramenta de edição de vídeo, aprimoramento de vídeo para e-commerce, ferramentas de áudio para redes sociais, integração de áudio sem costura, recursos de áudio WaveSpeed, otimização de som, ferramentas de criação de conteúdo, som profissional de vídeo"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de IA",
+        "items": [
+          [
+            "Ferramentas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Mostruário",
+        "items": [
+          [
+            "Mostruário",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Silenciamento de Áudio",
+    "subHeading": "Silencie Ruídos Indesejados para Narrativas Mais Claras",
+    "description": "Melhore seu conteúdo de vídeo removendo facilmente o ruído de fundo e o áudio indesejado. Garanta que sua mensagem esteja cristalina, permitindo que seu público se concentre no que realmente importa. Experimente o poder da IA na edição de áudio hoje!",
+    "tryText": "Silenciar Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução de Silenciamento de Áudio WaveSpeed AI",
+    "left": {
+      "heading": "Desafios de Áudio Tradicionais",
+      "items": [
+        "Edição manual demorada",
+        "Software de áudio caro necessário",
+        "Processos complexos para redução de ruído",
+        "Opções limitadas para não profissionais",
+        "Qualidade de som inconsistente"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeed AI",
+      "items": [
+        "Silencie instantaneamente o áudio indesejado em segundos",
+        "Nenhuma experiência de edição é necessária",
+        "Interface amigável para todos",
+        "Restauração de som de alta qualidade",
+        "Modelo de pagamento por uso econômico"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "Silencie facilmente o áudio indesejado em 3 passos simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Carregar Vídeo",
+        "text": "Carregue seu arquivo de vídeo com áudio na plataforma",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Selecionar Faixa de Áudio",
+        "text": "Escolha a faixa de áudio que deseja silenciar ou editar",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Silenciar Ruído",
+        "text": "Aplique a função de silenciamento de áudio alimentada por IA instantaneamente",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "Silencie Seu Áudio Agora →"
+  },
+  "endlessPossibilities": {
+    "heading": "Aplicações Sem Fim",
+    "description": "Ideal para diversas necessidades de conteúdo em vídeo",
+    "items": [
+      "Vlogs e vídeos pessoais",
+      "Campanhas de marketing e anúncios",
+      "Conteúdo educacional e tutoriais",
+      "Postagens em redes sociais (Instagram, TikTok)",
+      "Apresentações corporativas",
+      "Gravações de eventos",
+      "Avaliações de produtos",
+      "Aprimoramento de áudio em transmissões ao vivo"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Descubra como os usuários estão melhorando sua qualidade de áudio com IA",
+    "items": [
+      {
+        "tag": "Criador de E-commerce",
+        "heading": "Vídeos de Demonstração de Produtos",
+        "before": {
+          "label": "Antes",
+          "text": "Ruído de fundo distraído"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Áudio claro e profissional"
+        },
+        "value": "95%",
+        "key": "Melhoria na Qualidade do Áudio",
+        "description": "Transformamos o áudio em nossas demonstrações de produtos, levando a um maior envolvimento com os clientes. A clareza na mensagem aumentou as conversões em 30%."
+      },
+      {
+        "tag": "Influenciador de Mídias Sociais",
+        "heading": "Produção de Vlog",
+        "before": {
+          "label": "Antes",
+          "text": "Ambiente sonoro caótico"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Faixa de áudio polida"
+        },
+        "value": "92%",
+        "key": "Tempo Economizado",
+        "description": "O processo de remoção de ruído foi um divisor de águas. Agora posso me concentrar no conteúdo em vez de me preocupar com a qualidade do áudio!"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Processamento de Áudio",
+    "description": "Selecione a opção certa de edição de áudio para suas necessidades",
+    "items": [
+      "Remoção de Ruído Padrão: Eficaz para problemas básicos de áudio, acessível, processamento rápido",
+      "Filtro de Áudio Avançado: Para ambientes sonoros complexos com múltiplos tipos de ruídos, resultados premium",
+      "Análise de áudio em tempo real para perfilamento de som preciso",
+      "Integração sem costura com vídeo para manter consistência",
+      "Preços flexíveis com base no uso",
+      "Direitos comerciais completos incluídos"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Explore mais ferramentas de IA de ponta para aprimoramento de áudio e vídeo"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo que você precisa saber",
+    "items": [
+      {
+        "question": "Com que rapidez posso silenciar o áudio de meus vídeos?",
+        "answer": "O silenciamento de áudio é incrivelmente rápido, geralmente concluído em menos de um minuto, dependendo do comprimento do vídeo. A IA processa o áudio em tempo real."
+      },
+      {
+        "question": "Posso ouvir uma prévia do áudio antes e depois do silenciamento?",
+        "answer": "Sim! Você pode ouvir uma prévia tanto das faixas de áudio originais quanto das editadas para garantir a satisfação com o resultado."
+      },
+      {
+        "question": "Há um limite para o tamanho do arquivo que posso carregar?",
+        "answer": "Atualmente, nossa plataforma suporta uploads de arquivos de vídeo de até 4GB. Certifique-se de que seus vídeos atendam a esse requisito para uma edição sem costura."
+      },
+      {
+        "question": "Quais formatos vocês suportam para uploads de vídeo?",
+        "answer": "Suportamos vários formatos, incluindo MP4, MOV e AVI para processamento ideal. Certifique-se de que seus arquivos estão nesses formatos para evitar problemas."
+      },
+      {
+        "question": "Posso silenciar várias seções de áudio em um único vídeo?",
+        "answer": "Absolutamente! Você pode escolher silenciar várias faixas de áudio ou seções dentro de um vídeo conforme suas necessidades."
+      },
+      {
+        "question": "Eu mantenho a propriedade dos vídeos editados?",
+        "answer": "Sim! Você mantém a propriedade total dos vídeos editados usando nossa plataforma, incluindo o conteúdo de áudio."
+      },
+      {
+        "question": "Que qualidade posso esperar do áudio após o silenciamento?",
+        "answer": "A qualidade permanece alta e a remoção de ruídos de fundo melhora a clareza do seu áudio remanescente. Espere um som de qualidade profissional."
+      },
+      {
+        "question": "Posso editar áudio se não sou um profissional?",
+        "answer": "Sim! Nossa ferramenta foi projetada para facilidade de uso, então qualquer um pode navegar pelo processo de silenciamento de áudio sem experiência prévia."
+      },
+      {
+        "question": "Que suporte técnico está disponível se eu tiver problemas?",
+        "answer": "Oferecemos suporte abrangente via e-mail e chat ao vivo, com um FAQ detalhado e guias de solução de problemas em nosso site."
+      },
+      {
+        "question": "E se eu não estiver satisfeito com os resultados do silenciamento de áudio?",
+        "answer": "Incentivamos os usuários a utilizarem ao máximo o recurso de prévia para garantir a satisfação. Se surgirem problemas, nossa equipe de suporte está pronta para ajudar."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Aprimorar o Áudio do Seu Vídeo?",
+    "description": "Comece com créditos grátis e experimente a diferença você mesmo.",
+    "contactUsText": "Entre em Contato",
+    "tryText": "Silenciar Agora →"
+  },
+  "footer": {
+    "heading": "Transforme o Áudio do Seu Vídeo Hoje!",
+    "description": "Experimente o WaveSpeed AI agora para silenciamento de áudio profissional. Nenhum cadastro necessário.",
+    "ctaText": "Silenciar Áudio Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Generador de Video a partir de Guiones AI",
+  "meta": {
+    "description": "Transforma tus guiones escritos en videos cautivadores sin esfuerzo. Aprovecha la poderosa tecnología de IA para mejorar la narración en campañas de marketing, redes sociales y más. ¡Experimenta el futuro de la creación de contenido!",
+    "keywords": "guion a video AI, generador de video, creador de video AI, herramienta de creación de contenido en video, herramienta de video de marketing, video para redes sociales, producción de video automatizada, video de comercio electrónico, narración en video, automatización de marketing, contenido de video atractivo"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Muestra",
+        "items": [
+          [
+            "Muestra",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Guion a Video",
+    "subHeading": "Transforma Contenido Escritos en Videos Atractivos",
+    "description": "Convierte sin esfuerzo tus guiones en videos dinámicos en solo minutos. No se requiere filmación ni edición. Impulsado por IA de vanguardia, esta herramienta revoluciona la narración y la creación de contenido para empresas y comercializadores. Experimenta una transformación sin problemas de guion a pantalla.",
+    "tryText": "Crea Tu Video Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución WaveSpeed AI AI Guion a Video",
+    "left": {
+      "heading": "Desafíos de la Creación de Video Tradicional",
+      "items": [
+        "Altos costos de producción de video ($2000-5000 por proyecto)",
+        "Requiere actores profesionales y equipos de video",
+        "Tiempos de edición y producción prolongados (varios días)",
+        "Revisiones y ajustes limitados",
+        "Proceso ineficiente para creadores de contenido"
+      ]
+    },
+    "right": {
+      "heading": "Solución WaveSpeedAI",
+      "items": [
+        "Transforma guiones en videos en menos de 5 minutos",
+        "No se necesita equipo - Solo ingresa tu guion",
+        "Generación instantánea de video impulsada por IA con mejoras visuales",
+        "Ediciones y variaciones ilimitadas para necesidades específicas",
+        "Precios asequibles de pago por uso para todas las empresas"
+      ],
+      "tryText": "Prueba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "Conversión fácil de guion a video en 4 pasos",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Ingresar Guion",
+        "text": "Ingresa tu guion o contenido de texto para ser transformado en video",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Elige Temas",
+        "text": "Selecciona entre una variedad de temas visuales y estilos",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Personaliza Visuales",
+        "text": "Agrega imágenes, logotipos y superposiciones de texto para branding",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Descargar Video",
+        "text": "Recibe tu video de alta calidad listo para compartir",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Crea Tu Primer Video →"
+  },
+  "endlessPossibilities": {
+    "heading": "Aplicaciones Creativas Ilimitadas",
+    "description": "Ideal para diversas industrias y propósitos",
+    "items": [
+      "Campañas de marketing y videos promocionales",
+      "Contenido para redes sociales en plataformas como Instagram y TikTok",
+      "Contenido educativo y tutoriales",
+      "Videos explicativos de productos",
+      "Materiales de capacitación interna",
+      "Destacados y resúmenes de eventos",
+      "Listados de videos de bienes raíces",
+      "Creación de contenido para YouTube"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito con Guion a Video",
+    "description": "Descubre cómo las marcas están innovando su creación de contenido",
+    "items": [
+      {
+        "tag": "Comercio Electrónico",
+        "heading": "Aumento de Ventas en Línea",
+        "before": {
+          "label": "Antes",
+          "text": "Bajo compromiso"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Altas tasas de conversión"
+        },
+        "value": "150%",
+        "key": "Aumento de Ventas",
+        "description": "Se utilizó IA para transformar descripciones de productos en videos atractivos, resultando en un aumento significativo de ventas en semanas."
+      },
+      {
+        "tag": "Educación",
+        "heading": "Desarrollo de Cursos en Línea",
+        "before": {
+          "label": "Antes",
+          "text": "Intensivo en tiempo"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Rápido y eficiente"
+        },
+        "value": "80%",
+        "key": "Tiempo Reducido",
+        "description": "Los creadores de cursos convirtieron rápidamente guiones en videos, mejorando drásticamente los tiempos de producción y la calidad de los cursos."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Modelos AI",
+    "description": "Encuentra el modelo ideal para tus necesidades de video",
+    "items": [
+      "Modo Historia: Narración profesional, visuales de alta calidad, ideal para marketing",
+      "Captura Rápida: Procesamiento rápido, visuales dinámicos, perfecto para redes sociales",
+      "Opciones de personalización completas disponibles con voz sintética, música de fondo y visuales temáticos",
+      "Integración sin problemas con medios y recursos existentes",
+      "Tiempos de renderización eficientes de 1-3 minutos",
+      "Derechos de uso comercial incluidos para todos los videos generados"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas AI Relacionadas",
+    "description": "Explora soluciones AI adicionales poderosas para creadores"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Cuál es la calidad de video de los videos generados por IA?",
+        "answer": "Nuestros videos generados por IA ofrecen calidad de alta definición, asegurando una salida de calidad profesional adecuada para todas las plataformas, incluyendo marketing y redes sociales."
+      },
+      {
+        "question": "¿Puedo personalizar el estilo y los visuales del video?",
+        "answer": "¡Sí! Puedes elegir entre varios temas y estilos, así como cargar imágenes y logotipos para propósitos de branding."
+      },
+      {
+        "question": "¿Qué tipos de guiones funcionan mejor para la generación de videos?",
+        "answer": "Los guiones que son concisos y atractivos generalmente funcionan mejor, pero nuestra IA puede adaptarse a varios formatos, incluyendo descripciones detalladas y narraciones."
+      },
+      {
+        "question": "¿Cómo se diferencia esto de la producción de video tradicional?",
+        "answer": "Los videos generados por IA se crean rápidamente y de manera asequible sin necesidad de filmación o edición, proporcionando una solución más eficiente y rentable."
+      },
+      {
+        "question": "¿Existen derechos de uso para los videos generados por IA?",
+        "answer": "Sí, todos los videos creados a través de nuestra plataforma incluyen derechos de uso comercial completos sin cargos adicionales, permitiéndote usarlos libremente en marketing y ventas."
+      },
+      {
+        "question": "¿Cuál es el modelo de precios para la generación de videos?",
+        "answer": "Utilizamos un modelo flexible de pago por uso con precios determinados por la longitud del guion y las características seleccionadas, asegurando que solo pagues por lo que necesitas."
+      },
+      {
+        "question": "¿Qué tan rápido se generan los videos?",
+        "answer": "Típicamente, los videos se generan en 1-3 minutos, permitiendo una creación de contenido rápida sin demoras."
+      },
+      {
+        "question": "¿Cuáles son algunos casos de uso comunes para la función de guion a video?",
+        "answer": "Esta función es ideal para promociones de marketing, videos educativos, presentaciones de productos, contenido para redes sociales y cualquier escenario que requiera narración visual atractiva."
+      },
+      {
+        "question": "¿Qué soporte está disponible para los usuarios?",
+        "answer": "Proporcionamos recursos completos incluyendo tutoriales, documentación y atención al cliente receptiva para ayudar con cualquier pregunta o problema."
+      },
+      {
+        "question": "¿Puedo mejorar mis videos después de que se generan?",
+        "answer": "¡Sí! Puedes personalizar y mejorar tus videos después de la creación con varias opciones de edición disponibles a través de nuestra plataforma."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Transformar Tu Guion en Video?",
+    "description": "Comienza a crear con nuestra herramienta de IA - ¡Experimenta hoy!",
+    "contactUsText": "Contáctanos",
+    "tryText": "Crea Tu Video Ahora →"
+  },
+  "footer": {
+    "heading": "¿Listo para Transformar Tu Contenido?",
+    "description": "Prueba WaveSpeed AI ahora y observa la notable diferencia. No se requiere registro.",
+    "ctaText": "Crea Tu Video Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

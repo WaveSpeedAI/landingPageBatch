@@ -1,0 +1,226 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI 修复",
+  "meta": {
+    "description": "通过去除多余的物体并无缝填补空白，利用 AI 修复使您的图像焕然一新。非常适合产品照片、电子商务平台和提高创造力。体验由先进技术驱动的直观修复。",
+    "keywords": "AI 修复, 物体去除 AI, 图像修复工具, 电子商务图像增强, 创意编辑, 产品照片增强, WaveSpeed 修复, 用户友好型修复, 自适应内容填充, 自动物体去除"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI 工具",
+        "items": [
+          [
+            "AI 工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即试用"
+  },
+  "hero": {
+    "heading": "AI 修复",
+    "subHeading": "轻松增强您的图像",
+    "description": "通过去除不需要的元素并无缝填补背景，迅速转变您的图像，只需几个点击。体验智能修复的力量。今天就来试试！",
+    "tryText": "立即开始",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI 修复解决方案",
+    "left": {
+      "heading": "传统编辑挑战",
+      "items": [
+        "耗时的图像编辑（数小时的手工工作）",
+        "需要昂贵的软件和技能",
+        "物体去除的灵活性有限",
+        "不适合复杂背景",
+        "对非设计师来说令人沮丧"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI 解决方案",
+      "items": [
+        "即时去除图像中的不需要的物体",
+        "AI 精度的无缝背景填充",
+        "用户友好的界面；无需设计技能",
+        "适用于各种类型的图像",
+        "价格实惠，没有隐藏费用"
+      ],
+      "tryText": "立即试用"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "4 个简单步骤轻松增强图像",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传图像",
+        "text": "选择您想要增强或清理的图像。",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "选择要移除的区域",
+        "text": "突出显示您希望从图像中去除的物体。",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "让 AI 施展魔法",
+        "text": "观看我们的 AI 如何填补背景并完成照片。",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载增强图像",
+        "text": "在几分钟内收到您打磨好的图像，随时可以使用。",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "增强您的第一张图像 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无尽的可能性",
+    "description": "适合任何视觉内容需求",
+    "items": [
+      "电子商务产品照片增强",
+      "创建引人注目的营销视觉效果",
+      "修复缺失部分的旧图像",
+      "设计没有干扰的社交媒体帖子",
+      "改善个人照片以用于聚会和活动",
+      "为演示制作专业图像",
+      "优化网站和博客的视觉效果",
+      "增强房地产图像以吸引买家"
+    ]
+  },
+  "successStories": {
+    "heading": "真实成功故事",
+    "description": "发现企业如何利用 AI 转变其图像",
+    "items": [
+      {
+        "tag": "时尚零售",
+        "heading": "电子商务图像升级",
+        "before": {
+          "label": "之前",
+          "text": "杂乱的图像"
+        },
+        "after": {
+          "label": "之后",
+          "text": "清晰专业"
+        },
+        "value": "95%",
+        "key": "图像质量提升",
+        "description": "我们的产品图像现在看起来一流！即时的视觉改进使在线销售增长了 30%。"
+      },
+      {
+        "tag": "旅游业",
+        "heading": "酒店照片增强",
+        "before": {
+          "label": "之前",
+          "text": "分散注意力的元素"
+        },
+        "after": {
+          "label": "之后",
+          "text": "惊艳的视觉效果"
+        },
+        "value": "90%",
+        "key": "视觉吸引力提升",
+        "description": "增强的照片使我们能够更有效地展示我们的物业，显著增加了客户预订。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "修复模型比较",
+    "description": "选择适合您修复需求的正确方法",
+    "items": [
+      "标准修复：快速解决简单物体去除",
+      "高级修复：处理复杂背景和精细细节",
+      "自适应内容填充：与环境无缝协调",
+      "适合所有技能级别的用户友好界面",
+      "高分辨率输出确保质量保留",
+      "卓越的色彩匹配和纹理再现"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关 AI 工具",
+    "description": "探索强大的 AI 解决方案以提升您的视觉效果"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要知道的一切",
+    "items": [
+      {
+        "question": "什么类型的图像最适合 AI 修复？",
+        "answer": "AI 修复在具有清晰主题和背景的图像上表现最佳。高分辨率图像能获得更好的效果，但 AI 对各种类型的图像（包括产品照片和个人图像）仍然有效。"
+      },
+      {
+        "question": "我可以撤销修复期间所做的更改吗？",
+        "answer": "可以！我们的平台允许您轻松撤销更改，如果您对结果不满意。您可以随时重新编辑图像以获得不同的结果。"
+      },
+      {
+        "question": "是否可以使用修复进行批量图像处理？",
+        "answer": "目前不支持批量处理，但我们正在努力推出此功能。目前，每张图像必须单独处理。"
+      },
+      {
+        "question": "修复过程能有多详细？",
+        "answer": "AI 旨在处理简单物体去除和更复杂背景，从而实现异常详细的图像修复。"
+      },
+      {
+        "question": "在修复完成后我可以提升质量吗？",
+        "answer": "绝对可以！您可以使用我们的工具套件进行额外增强，以在修复后进一步细化您的图像。"
+      },
+      {
+        "question": "AI 修复的定价模型是什么？",
+        "answer": "WaveSpeed 采用按需付费模型，您只需为增强的图像付费。没有订阅或隐藏费用。"
+      },
+      {
+        "question": "修复的通常周转时间是多少？",
+        "answer": "得益于我们的 AI 技术，修复过程通常只需几分钟。"
+      },
+      {
+        "question": "我会获得增强图像的商业许可证吗？",
+        "answer": "是的！通过 WaveSpeed 增强的所有图像均包括完整的商业使用权，允许您自由用于营销或销售。"
+      },
+      {
+        "question": "如果遇到问题，有什么支持可用？",
+        "answer": "我们提供强大的支持，包括全面的指南、教程和通过电子邮件和聊天提供的响应式支持团队。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备好使用 AI 增强您的图像了吗？",
+    "description": "从我们用户友好的平台开始 - 体验转变",
+    "contactUsText": "联系我们",
+    "tryText": "立即开始 →"
+  },
+  "footer": {
+    "heading": "今天就转变您的图像！",
+    "description": "试用 WaveSpeed AI 修复，亲身体验差异。无需注册。",
+    "ctaText": "立即开始修复",
+    "text": "© 2025 WaveSpeed AI. 保留所有权利。"
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Image to Video Generator",
+  "meta": {
+    "description": "Effortlessly add dynamic motion tracking to your videos, enhancing product presentations and engaging audiences. Ideal for e-commerce platforms and brand storytelling. Experience the future of visual content creation with WaveSpeed AI!",
+    "keywords": "motion tracking AI, product video enhancement, AI video animation, e-commerce video tool, Google Veo, text to video, dynamic video motion, marketing video creator, Shopify video, Amazon listing video, social media video generator"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Dynamic Motion Tracking",
+    "subHeading": "Bring Your Products to Life with Movement",
+    "description": "Enable captivating motion tracking on your videos, making your products stand out. Elevate your digital content in minutes—no complicated setup needed. Take your first step towards more engaging video marketing today!",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI Motion Tracking Solution",
+    "left": {
+      "heading": "Traditional Challenges",
+      "items": [
+        "Complex filming techniques for movement",
+        "Requires professional crew for motion integration",
+        "High production costs and lengthy timelines",
+        "Limited adjustment capabilities post-production",
+        "Outdated methods that lack flexibility"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI Solution",
+      "items": [
+        "Implement motion tracking instantly with your videos",
+        "No need for filming—just upload your images",
+        "Quick transformation with AI-assisted motion",
+        "Unlimited options for tracking and adjustments",
+        "Cost-effective usage tailored to your needs"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Achieve captivating motion tracking in 4 easy steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Your Media",
+        "text": "Start by uploading a static image or video clip",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Set Motion Parameters",
+        "text": "Define how you want your tracking to behave (e.g., \"follow the object's path\")",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Select Tracking Style",
+        "text": "Pick from various tracking styles to suit your campaign",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Export Your Video",
+        "text": "Receive an enhanced video with motion tracking applied",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Generate Your First Video →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Transform your content across multiple platforms",
+    "items": [
+      "Highlight products for Amazon and Shopify",
+      "Create compelling social media posts",
+      "Impactful marketing ads with motion",
+      "Visual storytelling and brand engagement",
+      "Educational tutorials with dynamic elements",
+      "Real estate showcases with moving elements",
+      "Culinary videos with lively presentations",
+      "Fashion showcases with tracking elegance"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how brands are thriving with motion tracking",
+    "items": [
+      {
+        "tag": "Electronics E-commerce",
+        "heading": "Amazon Product Enhancement",
+        "before": {
+          "label": "Before",
+          "text": "Static presentations"
+        },
+        "after": {
+          "label": "After",
+          "text": "Dynamic tracking"
+        },
+        "value": "85%",
+        "key": "Engagement Increase",
+        "description": "Incorporated motion tracking into 30 listings. Engagement skyrocketed by 50% as visuals came alive."
+      },
+      {
+        "tag": "Fashion Retail",
+        "heading": "Shoppable Video Content",
+        "before": {
+          "label": "Before",
+          "text": "Ordinary style previews"
+        },
+        "after": {
+          "label": "After",
+          "text": "Movement enriched visuals"
+        },
+        "value": "90%",
+        "key": "Sales Boost",
+        "description": "Transformed our promotional videos; conversion rates surged dramatically with motion tracking."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Model Comparison",
+    "description": "Select the best tracking option for your needs",
+    "items": [
+      "Standard Tracking: Basic motion following with limited adjustments",
+      "Advanced Tracking: Enhanced precision and flexible adjustments for seamless integration",
+      "Targeted Motion Control: Focused tracking on specific objects for marketing",
+      "Customizable Parameters: Tailored motion settings for different visual styles",
+      "1-2 minutes to generate a fully tracked video",
+      "Commercial rights included for all generated content"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Discover more advanced AI solutions for your projects"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What types of media are compatible with motion tracking?",
+        "answer": "Utilize both static images and video clips for motion tracking, maximizing the potential of your visual assets. Ensure your media is well-prepared for optimal results."
+      },
+      {
+        "question": "Can I customize the motion tracking settings?",
+        "answer": "Absolutely! You can fully customize movement parameters including speed, direction, and path to achieve the desired visual effect for your project."
+      },
+      {
+        "question": "What are the best practices for media preparation?",
+        "answer": "Use clear and high-resolution images or videos to ensure the best tracking results. The cleaner your backgrounds and focused your subjects are, the better the motion tracking will perform."
+      },
+      {
+        "question": "How does motion tracking enhance my videos?",
+        "answer": "Motion tracking creates a dynamic interaction that draws viewers' attention. It can emphasize products and create a visually appealing experience, enhancing user engagement."
+      },
+      {
+        "question": "Can I add multiple tracking points to a single video?",
+        "answer": "Yes! You can designate multiple points for motion tracking, leading to more complex and engaging video outputs that capture viewer interest."
+      },
+      {
+        "question": "Are there any limits on video generation speed?",
+        "answer": "Typically, video generation occurs within 1-2 minutes, allowing you to quickly utilize and share high-quality content without delay."
+      },
+      {
+        "question": "What licensing rights come with generated videos?",
+        "answer": "All videos generated through our platform include commercial rights, allowing unhindered usage across various platforms and applications without extra fees."
+      },
+      {
+        "question": "How do updates or changes affect generated videos?",
+        "answer": "Any adjustments can be easily applied, enabling you to refine the motion tracking to suit different campaigns or marketing materials."
+      },
+      {
+        "question": "Is technical support available for users?",
+        "answer": "Yes! We provide full support with resources, tutorials, and a dedicated help team to ensure you make the most out of our motion tracking feature."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Excited to Bring Your Videos to Life?",
+    "description": "Start with free credits - Experience the motion magic yourself",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Ready to Elevate Your Video Content?",
+    "description": "Try WaveSpeed AI now and transform your videos with motion tracking, no sign-up required.",
+    "ctaText": "Start Tracking Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

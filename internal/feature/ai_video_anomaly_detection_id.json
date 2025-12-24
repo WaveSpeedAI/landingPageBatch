@@ -1,0 +1,205 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Deteksi Anomali Video AI",
+  "meta": {
+    "description": "Deteksi anomali dalam rekaman video dengan mudah menggunakan teknologi AI mutakhir. Tingkatkan keamanan, perbaiki efisiensi operasional, dan dapatkan wawasan dengan kemampuan deteksi yang tepat. Idealis untuk pengawasan, kontrol kualitas, dan lainnya.",
+    "keywords": "deteksi anomali video, analisis video AI, teknologi pengawasan, pemantauan keamanan, efisiensi operasional, deteksi kontrol kualitas, kecerdasan video, deteksi anomali otomatis, solusi AI untuk video, sistem peringatan waktu nyata"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Deteksi Anomali Video",
+    "subHeading": "Otomatisasi Deteksi Anomali di Video Anda",
+    "description": "Revolusi cara Anda memantau data video dengan mengidentifikasi data yang menyimpang dan perilaku tidak biasa secara waktu nyata. Manfaatkan algoritma AI canggih untuk peringatan instan dan wawasan yang dapat ditindaklanjuti, menyederhanakan proses pengawasan dan kontrol kualitas Anda. Mulai hari ini!",
+    "tryText": "Coba Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Deteksi Anomali Video AI WaveSpeed AI",
+    "left": {
+      "heading": "Tantangan Pemantauan Tradisional",
+      "items": [
+        "Tinjauan manual terhadap jam rekaman video",
+        "Biaya tenaga kerja yang tinggi dan pengeluaran waktu",
+        "Kesulitan dalam mengidentifikasi anomali halus",
+        "Penundaan dalam menanggapi masalah potensial",
+        "Pemantauan yang tidak konsisten di berbagai sumber"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeed AI",
+      "items": [
+        "Deteksi otomatis aktivitas tidak biasa",
+        "Peringatan waktu nyata untuk tindakan segera",
+        "Akurasi yang lebih baik dengan analisis berbasis AI",
+        "Cakupan komprehensif dari rekaman video",
+        "Pemantauan yang hemat biaya dan dapat diskalakan"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerja",
+    "description": "Dari rekaman mentah hingga anomali yang terdeteksi dalam 3 langkah sederhana",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Rekaman Video",
+        "text": "Masukkan file video Anda untuk analisis",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Tetapkan Parameter Deteksi",
+        "text": "Tentukan anomali apa yang dicari (misalnya, deteksi gerakan, perilaku tidak biasa)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Terima Peringatan dan Laporan",
+        "text": "Dapatkan pemberitahuan tentang anomali yang terdeteksi dengan laporan terperinci",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "Mulai Deteksi Anomali →"
+  },
+  "endlessPossibilities": {
+    "heading": "Aplikasi di Berbagai Industri",
+    "description": "Idealis untuk berbagai skenario pemantauan",
+    "items": [
+      "Pengawasan keamanan untuk ritel dan bandara",
+      "Kontrol kualitas dalam proses produksi",
+      "Pemantauan dan analisis lalu lintas",
+      "Pengawasan fasilitas layanan kesehatan",
+      "Investigasi klaim asuransi",
+      "Keamanan acara dan manajemen kerumunan",
+      "Pemantauan lokasi jarak jauh",
+      "Manajemen infrastruktur kota pintar"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Jelajahi bagaimana organisasi memanfaatkan AI untuk pemantauan",
+    "items": [
+      {
+        "tag": "Keamanan",
+        "heading": "Optimisasi Pengawasan Bandara",
+        "before": {
+          "label": "Sebelum",
+          "text": "Pemantauan reaktif"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Peringatan proaktif"
+        },
+        "value": "75%",
+        "key": "Pengurangan Waktu Tanggapan Insiden",
+        "description": "Deteksi anomali otomatis mengurangi waktu yang diperlukan untuk merespons ancaman keamanan secara signifikan, meningkatkan langkah-langkah keselamatan secara keseluruhan."
+      },
+      {
+        "tag": "Manufacturing",
+        "heading": "Peningkatan Kontrol Kualitas",
+        "before": {
+          "label": "Sebelum",
+          "text": "Inspeksi manual"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Deteksi otomatis"
+        },
+        "value": "90%",
+        "key": "Peningkatan Akurasi Deteksi",
+        "description": "Beralih ke pemantauan berbasis AI meningkatkan tingkat deteksi cacat kami, menghemat biaya dan waktu dalam produksi."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Metode Deteksi AI",
+    "description": "Pilih model deteksi yang tepat untuk kebutuhan Anda",
+    "items": [
+      "Analisis waktu nyata: Mendeteksi anomali saat terjadi",
+      "Opsi pemrosesan batch untuk menganalisis dataset besar",
+      "Algoritma deteksi yang dapat disesuaikan untuk industri tertentu",
+      "Integrasi dengan sistem keamanan yang ada",
+      "Dasbor ramah pengguna untuk memantau tren"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Temukan lebih banyak solusi AI untuk pemantauan yang lebih baik"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Segala yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Jenis anomali apa yang dapat dideteksi?",
+        "answer": "Sistem dapat mengidentifikasi berbagai anomali termasuk deteksi gerakan, perilaku tidak biasa, dan perubahan dalam pola tipikal. Dirancang untuk beradaptasi di berbagai lingkungan dan kasus penggunaan."
+      },
+      {
+        "question": "Seberapa akurat deteksi anomali tersebut?",
+        "answer": "Model AI kami telah dilatih pada dataset yang beragam untuk memastikan tingkat akurasi tinggi, mengurangi positif palsu secara signifikan. Mekanisme pembelajaran terus menerus meningkatkan deteksi seiring waktu."
+      },
+      {
+        "question": "Bisakah saya menyesuaikan pengaturan deteksi?",
+        "answer": "Tentu saja! Pengguna dapat menyesuaikan parameter deteksi berdasarkan kebutuhan spesifik seperti jenis objek, signifikansi aktivitas, dan ambang peringatan."
+      },
+      {
+        "question": "Format video apa yang didukung?",
+        "answer": "Teknologi kami mendukung berbagai format umum termasuk MP4, AVI, dan MOV, memungkinkan fleksibilitas dalam mengunggah video untuk analisis."
+      },
+      {
+        "question": "Bagaimana cara pengiriman peringatan?",
+        "answer": "Peringatan dapat dikonfigurasi untuk menjangkau pengguna melalui email, SMS, atau dalam dasbor aplikasi kami yang khusus, memastikan pemberitahuan tepat waktu tentang anomali yang terdeteksi."
+      },
+      {
+        "question": "Apakah analisis data historis mungkin?",
+        "answer": "Ya! Sistem memungkinkan untuk analisis rekaman historis, memberikan wawasan tentang anomali dan tren masa lalu."
+      },
+      {
+        "question": "Bisakah beberapa aliran video dianalisis secara bersamaan?",
+        "answer": "Ya, platform kami memungkinkan analisis simultan dari beberapa aliran video, menyederhanakan upaya pemantauan di area yang lebih luas."
+      },
+      {
+        "question": "Apakah saya perlu memiliki keahlian teknis sebelumnya?",
+        "answer": "Tidak, platform WaveSpeed AI dirancang agar ramah pengguna, memungkinkan pengaturan dan operasi yang sederhana bagi pengguna tanpa latar belakang teknis."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap Meningkatkan Pemantauan Video Anda?",
+    "description": "Mulai dengan kredit gratis dan lihat transformasinya secara langsung",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Coba Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap Mendeteksi Anomali di Video Anda?",
+    "description": "Coba WaveSpeed AI sekarang dan alami efektivitasnya sendiri. Tidak perlu pendaftaran.",
+    "ctaText": "Mulai Mendeteksi Sekarang",
+    "text": "© 2025 WaveSpeed AI. Hak Cipta Dilindungi."
+  }
+}

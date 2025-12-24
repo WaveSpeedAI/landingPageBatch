@@ -1,0 +1,222 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Shadow Generator",
+  "meta": {
+    "description": "Enhance your product images with realistic shadows using AI technology. Perfect for e-commerce and digital marketing, creating professional-quality visuals effortlessly.",
+    "keywords": "AI shadow generator, product image enhancement, realistic shadowing, e-commerce graphics, marketing image tool, photo editing AI, Shopify images, Amazon product photos, digital marketing visuals, visual content creation"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Transform Your Images with Shadows",
+    "subHeading": "Add Realistic Shadows to Any Photo",
+    "description": "Instantly give your product images a professional touch with our AI Shadow Generator. Enhance visuals for e-commerce listings or marketing campaigns effortlessly. Try it now and elevate your brand's presentation!",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Shadow Generator Solution",
+    "left": {
+      "heading": "Traditional Challenges",
+      "items": [
+        "Creating realistic shadows requires advanced skills",
+        "Manual editing is labor-intensive and time-consuming",
+        "Complex software can be overwhelming",
+        "High costs for professional graphic design",
+        "Limited flexibility in customization"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI Solution",
+      "items": [
+        "Generate realistic shadows in seconds with AI",
+        "No design skills needed - Just upload your images",
+        "Instant enhancements with just a click",
+        "Unlimited customization options available",
+        "Affordable pay-as-you-go model, no subscriptions"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Add stunning shadows to your images in 4 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Image",
+        "text": "Upload your product photo or image requiring shadow enhancement",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Select Shadow Type",
+        "text": "Choose from various shadow styles to match your product's feel",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Adjust Settings",
+        "text": "Fine-tune the size, opacity, and angle of the shadow",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Image",
+        "text": "Receive your enhanced image with realistic shadows in minutes",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Generate Your First Shadowed Image →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Ideal for a variety of applications",
+    "items": [
+      "Product images for online retailers",
+      "Social media posts for engaging visuals",
+      "Promotional graphics and ads",
+      "Enhanced portfolios for photographers",
+      "Blog images that stand out",
+      "Real estate listings with depth",
+      "Fashion lookbooks with mood",
+      "Food photography that looks appetizing"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how businesses are elevating their images with AI",
+    "items": [
+      {
+        "tag": "Fashion E-commerce",
+        "heading": "Online Boutique",
+        "before": {
+          "label": "Before",
+          "text": "Flat images"
+        },
+        "after": {
+          "label": "After",
+          "text": "Lifelong shadows"
+        },
+        "value": "85%",
+        "key": "Conversion Boost",
+        "description": "With improved images featuring shadows, our product appeal soared, resulting in an impressive 30% increase in sales."
+      },
+      {
+        "tag": "Home & Living",
+        "heading": "Home Furnishings Store",
+        "before": {
+          "label": "Before",
+          "text": "Basic photos"
+        },
+        "after": {
+          "label": "After",
+          "text": "Stunning visuals"
+        },
+        "value": "90%",
+        "key": "Perception Improvement",
+        "description": "Our customers now see the quality in our images, significantly elevating brand perception and trust."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Shadow Model Comparison",
+    "description": "Choose the right shadow effect for your needs",
+    "items": [
+      "Realistic Shadows: Adjustable opacity and angles, enhances depth",
+      "Soft Shadows: Gentle touch to create subtle effects",
+      "High-Impact Shadows: Bold and dramatic for standout visuals",
+      "Customizable Presets for various styles",
+      "One-click generation for speed and efficiency",
+      "Commercial usage rights included"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore more innovative AI tools for image enhancement"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What types of images work best with the shadow generator?",
+        "answer": "The shadow generator works best with clear product images and scenes that require depth. High-resolution images provide the most realistic results, especially those with clean backgrounds."
+      },
+      {
+        "question": "Can I customize shadow features such as angle and opacity?",
+        "answer": "Yes! You have full control to adjust the angle, size, and opacity of the shadows, allowing you to tailor the effect to match your product presentation."
+      },
+      {
+        "question": "Is there a limit to how many images I can process at once?",
+        "answer": "No, there are no limits! You can upload multiple images simultaneously, making it easy to enhance a whole collection in one go."
+      },
+      {
+        "question": "How does this differ from manual shadow editing?",
+        "answer": "Our AI Shadow Generator streamlines the process, enabling rapid production without the need for extensive graphic design skills or software expertise. Manual editing can be tedious and time-consuming, while our tool delivers instant results."
+      },
+      {
+        "question": "What pricing model is used for the AI Shadow Generator?",
+        "answer": "WaveSpeed operates on a flexible pay-as-you-go model with no monthly subscriptions. You only pay for the shadows you generate, ensuring you get value for your investment."
+      },
+      {
+        "question": "What is the expected time for shadow generation?",
+        "answer": "Shadow generation is quick, typically taking just a few moments per image regardless of the number processed. Enjoy fast enhancements without the wait."
+      },
+      {
+        "question": "Do I receive commercial rights for the enhanced images?",
+        "answer": "Absolutely! All images processed through our Shadow Generator come with full commercial usage rights, allowing you to use them for any business purposes."
+      },
+      {
+        "question": "What support is available if I encounter issues?",
+        "answer": "WaveSpeed provides comprehensive support, including documentation and live chat for technical issues. We ensure users receive prompt assistance with any queries during their experience."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Elevate Your Images?",
+    "description": "Start with free credits - Experience the transformation now",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Ready to Transform Your Photos?",
+    "description": "Try WaveSpeed AI now and see the difference for yourself. No sign-up required.",
+    "ctaText": "Add Shadows Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

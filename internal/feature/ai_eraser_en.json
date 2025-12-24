@@ -1,0 +1,230 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Eraser",
+  "meta": {
+    "description": "Effortlessly remove unwanted elements from your images in seconds with AI technology. Enhance your visuals for e-commerce, social media, and more. Experience seamless editing with WaveSpeed AI's Eraser tool!",
+    "keywords": "AI image editing, remove background, photo retouching, image enhancement tool, e-commerce photo editing, WaveSpeed Eraser, AI-powered photo editor, digital asset management, photo manipulation, marketing visuals, clean images, product photography"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "AI Eraser",
+    "subHeading": "Effortlessly Clean Your Images",
+    "description": "Instantly remove unwanted items from your images, enhancing their quality and focus. Perfect for e-commerce listings, social media posts, and more. See the difference AI can make - start editing now!",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Eraser Solution",
+    "left": {
+      "heading": "Traditional Editing Challenges",
+      "items": [
+        "Manual editing is time-consuming and labor-intensive",
+        "Requires complex software knowledge",
+        "High costs associated with hiring professionals",
+        "Limited accessibility for quick changes",
+        "Frustrating for beginners and non-designers"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Remove distractions from images in seconds",
+        "User-friendly interface - no experience needed",
+        "Cost-effective with flexible pricing",
+        "Create polished visuals without hassle",
+        "Fast processing allows for instant edits"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Achieve flawless images in 4 easy steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Image",
+        "text": "Choose the photo you want to enhance by removing unwanted elements",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Select Areas to Erase",
+        "text": "Highlight the parts of the image you want to remove in just a few clicks",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Apply AI Processing",
+        "text": "Let our AI intelligently analyze and erase the selected areas",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Edited Image",
+        "text": "Save your newly cleaned image in seconds, ready to use",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Start Your Editing Journey →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Perfect for various applications",
+    "items": [
+      "E-commerce product images",
+      "Social media graphics",
+      "Blog and website visuals",
+      "Marketing materials like flyers",
+      "Before and after photo comparisons",
+      "Personal and family photos",
+      "Real estate showcases",
+      "Event photography enhancements"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how businesses are revolutionizing their images with AI technology",
+    "items": [
+      {
+        "tag": "Fashion Retail",
+        "heading": "Online Boutique",
+        "before": {
+          "label": "Before",
+          "text": "Images cluttered with distractions"
+        },
+        "after": {
+          "label": "After",
+          "text": "Clean, focus-driven visuals"
+        },
+        "value": "97%",
+        "key": "Visual Quality Improvement",
+        "description": "Our product images transformed, leading to a 50% increase in engagement on social media."
+      },
+      {
+        "tag": "Real Estate",
+        "heading": "Property Listings",
+        "before": {
+          "label": "Before",
+          "text": "Unappealing photos"
+        },
+        "after": {
+          "label": "After",
+          "text": "Stunning, clear presentations"
+        },
+        "value": "95%",
+        "key": "Appeal Enhancement",
+        "description": "Clean photos resulted in quicker sales, showcasing properties at their best."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Model Comparison",
+    "description": "Select the ideal approach for your image editing needs",
+    "items": [
+      "Basic Edit: Quick and easy removal of simple objects",
+      "Advanced Edit: Detailed editing for intricate scenes",
+      "Background Removal: Complete erasure of backgrounds",
+      "Element Reconstruction: Smart fill techniques for seamless results",
+      "Multi-Layer Editing: Handle multiple edits in one go",
+      "Speed vs. Quality: Choose based on your urgency or need"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore more powerful AI solutions for image editing"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What types of images can I enhance with AI Eraser?",
+        "answer": "You can upload various image types including JPG, PNG, and WebP. Clear images with good lighting yield the best results."
+      },
+      {
+        "question": "How accurate is the AI in removing selected areas?",
+        "answer": "Our AI is designed to recognize and erase objects with high precision. It can replicate background patterns where necessary for a natural look."
+      },
+      {
+        "question": "Can I undo changes if I’m not satisfied?",
+        "answer": "Yes! You can easily revert your edits and start over at any point in the editing process."
+      },
+      {
+        "question": "Is any software installation needed to use AI Eraser?",
+        "answer": "No software installation is required. The tool is fully web-based, allowing you to access it from any device with an internet connection."
+      },
+      {
+        "question": "How long does it take to process my images?",
+        "answer": "Processing time is typically very fast, usually just a few seconds per image, depending on the complexity of the edits."
+      },
+      {
+        "question": "Is there a limit to how many images I can edit?",
+        "answer": "There is no limit to the number of images you can edit, allowing for efficient workflows whether you have a few or many to enhance."
+      },
+      {
+        "question": "Do I retain copyright to edited images?",
+        "answer": "Absolutely! All images edited using our tools remain your property, allowing you to use them commercially without restrictions."
+      },
+      {
+        "question": "What support is available if I encounter issues?",
+        "answer": "We offer comprehensive support, including documentation, tutorials, and responsive customer service for any technical questions."
+      },
+      {
+        "question": "How can I start using the AI Eraser?",
+        "answer": "Simply upload your images and follow the easy steps to start editing. New users can take advantage of initial free credits!"
+      },
+      {
+        "question": "Is there a subscription fee to use this tool?",
+        "answer": "No subscription is needed! We operate on a pay-as-you-go model, letting you pay only for the services you use."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Transform Your Images?",
+    "description": "Start with free credits and see the magic of AI Eraser in action!",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Ready to Clean Up Your Images?",
+    "description": "Experience WaveSpeed AI today and elevate your visuals. No sign-up required.",
+    "ctaText": "Remove Objects Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

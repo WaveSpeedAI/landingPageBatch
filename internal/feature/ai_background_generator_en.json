@@ -1,0 +1,229 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Background Generator",
+  "meta": {
+    "description": "Effortlessly create stunning backgrounds for any image using AI technology. Ideal for enhancing product photos, enhancing social media visuals, and improving e-commerce listings. Experience the power of intelligent background generation today!",
+    "keywords": "AI background generator, image background removal, background creation AI, e-commerce photo enhancement, WaveSpeed AI, product photo backgrounds, social media background tools, automated image editing, Shopify image solutions, Amazon listing enhancements"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Background Generation Made Easy",
+    "subHeading": "Transform Your Images with Stunning New Backgrounds",
+    "description": "Elevate your photos by creating captivating backgrounds in seconds. No design skills needed. Experience the effortless AI-driven background generator now!",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Background Generator Solution",
+    "left": {
+      "heading": "Traditional Background Editing Challenges",
+      "items": [
+        "Hiring graphic designers is costly ($100-300 per image)",
+        "Manual editing can take hours per image",
+        "Requires design software expertise",
+        "Limited customization options",
+        "Inflexibility for rapid content needs"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Instantly generate beautiful backgrounds in seconds",
+        "No design experience necessary - Just upload images",
+        "Customizable background styles and colors",
+        "Unlimited variations and edits at your fingertips",
+        "Affordable, pay-as-you-go model for all users"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Create stunning backgrounds in 4 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Image",
+        "text": "Upload the image you want to enhance",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Choose Background",
+        "text": "Select from a variety of AI-generated backgrounds",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Customize Styles",
+        "text": "Adjust colors, styles, or effects to fit your vision",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Image",
+        "text": "Get your enhanced image ready for use in minutes",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Generate Your First Background →"
+  },
+  "endlessPossibilities": {
+    "heading": "Versatile Use Cases",
+    "description": "Perfect for a variety of needs",
+    "items": [
+      "E-commerce product images with professional backgrounds",
+      "Social media posts that stand out",
+      "Marketing materials that capture attention",
+      "Website graphics for an enhanced appearance",
+      "Blog visuals that engage readers",
+      "Real estate listings that showcase properties",
+      "Event and promotional flyers",
+      "Creative artwork for personal projects"
+    ]
+  },
+  "successStories": {
+    "heading": "Success Stories in Background Optimization",
+    "description": "Discover how brands improved their imagery with AI",
+    "items": [
+      {
+        "tag": "Fashion Retail",
+        "heading": "Website Product Listings",
+        "before": {
+          "label": "Before",
+          "text": "Standard backgrounds"
+        },
+        "after": {
+          "label": "After",
+          "text": "Stunning custom scenes"
+        },
+        "value": "85%",
+        "key": "Visual Appeal Improvement",
+        "description": "Our images transformed our online store's appearance, resulting in a 50% increase in sales."
+      },
+      {
+        "tag": "Real Estate",
+        "heading": "Online Property Showcases",
+        "before": {
+          "label": "Before",
+          "text": "Plain property images"
+        },
+        "after": {
+          "label": "After",
+          "text": "Vibrant enriched backgrounds"
+        },
+        "value": "90%",
+        "key": "Engagement Boost",
+        "description": "The enhanced visuals led to quicker sales and increased inquiries."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Background Generation Features",
+    "description": "Find the right options for your needs",
+    "items": [
+      "Standard Backgrounds: Basic styles suitable for product images",
+      "Premium Backgrounds: Enhanced designs for standout visuals",
+      "Customizable Background Effects: Tailored adjustments to match brand identity",
+      "Instant Processing: Backgrounds are generated in just seconds",
+      "User-Friendly Interface: Simple steps create complex designs easily"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Discover more innovative AI solutions for image enhancement"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What types of images work best for background generation?",
+        "answer": "Images with clear subjects and simple backgrounds yield the best results. Ensure your uploads are well-lit, high-resolution, and focused on the main subject for optimal AI processing."
+      },
+      {
+        "question": "Can I customize the backgrounds created by AI?",
+        "answer": "Yes! After generating a background, you can easily customize styles, colors, and effects to perfectly align with your branding or personal preferences."
+      },
+      {
+        "question": "How long does background generation take?",
+        "answer": "Generation is remarkably fast, usually completed in under a minute. You can process multiple images simultaneously, streamlining your workflow."
+      },
+      {
+        "question": "Is there a limit to the variations I can create?",
+        "answer": "No! You can create unlimited variations of backgrounds, allowing for a wide range of styles to suit every project or purpose."
+      },
+      {
+        "question": "Do I need design skills to use the background generator?",
+        "answer": "Not at all! Our tool is designed to be user-friendly, enabling anyone to create professional-looking backgrounds without prior design experience."
+      },
+      {
+        "question": "What is the pricing model for background generation?",
+        "answer": "Our pricing is based on a pay-as-you-go system, where you only pay for the images you generate. There are no subscriptions or hidden fees."
+      },
+      {
+        "question": "Can I use the generated backgrounds for commercial purposes?",
+        "answer": "Yes! All images created through our platform come with full commercial rights, allowing you to use them in marketing, sales, and any commercial applications."
+      },
+      {
+        "question": "What kind of support is available?",
+        "answer": "We offer extensive support through documentation, tutorials, and customer service options to help you maximize your experience with our AI tools."
+      },
+      {
+        "question": "How can I contact customer support if I have an issue?",
+        "answer": "You can reach our support team via email or live chat, and we typically respond within 24 hours to assist with any queries."
+      },
+      {
+        "question": "Are there any free trials or credits available for new users?",
+        "answer": "Yes! New users receive free credits to test our services, giving you the chance to experience the capabilities of our background generator without upfront costs."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Transform Your Images?",
+    "description": "Start with free credits and watch your photos become extraordinary!",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Transform Your Backgrounds Today!",
+    "description": "Experience the future of image enhancement with WaveSpeed AI. No sign-up required.",
+    "ctaText": "Create Stunning Backgrounds Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

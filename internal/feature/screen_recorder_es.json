@@ -1,0 +1,226 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Grabador de Pantalla AI",
+  "meta": {
+    "description": "Captura tu pantalla con facilidad utilizando la potente función de grabación de pantalla de WaveSpeed AI. Ideal para tutoriales, presentaciones y streaming, todo respaldado por tecnología avanzada de IA. Experimenta una grabación fluida sin las complicaciones de software complejo.",
+    "keywords": "grabador de pantalla, captura de pantalla con IA, herramienta de grabación de video, grabación de tutoriales, grabación de presentaciones, captura de pantalla fluida, streaming, video educativo, demostraciones de software, tutoriales en línea, videos de marketing"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas AI",
+        "items": [
+          [
+            "Herramientas AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrina",
+        "items": [
+          [
+            "Vitrina",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Grabación de Pantalla Hecha Fácil",
+    "subHeading": "Captura, Comparte e Inspira",
+    "description": "Graba tu pantalla sin esfuerzo para tutoriales, demostraciones de productos o presentaciones. Utiliza las características inteligentes de WaveSpeed AI para mejorar tus grabaciones y compartir tu conocimiento de manera efectiva. ¡Empieza a grabar ahora!",
+    "tryText": "Comenzar a Grabar",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución Grabador de Pantalla WaveSpeed AI",
+    "left": {
+      "heading": "Desafíos de Grabación Tradicional",
+      "items": [
+        "Configuración de software compleja",
+        "Equipamiento de grabación costoso",
+        "Edición que consume tiempo",
+        "Rendimiento lento y baja calidad",
+        "Opciones de compartir limitadas"
+      ]
+    },
+    "right": {
+      "heading": "Solución WaveSpeed AI",
+      "items": [
+        "Graba videos de alta calidad al instante con un solo clic",
+        "No se necesita software adicional: solo empieza a grabar",
+        "Operación fluida con rendimiento mejorado por IA",
+        "Opciones de compartir fáciles en múltiples plataformas",
+        "Modelo de pago por uso asequible para todos"
+      ],
+      "tryText": "Probar"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "Graba tu pantalla en 4 pasos sencillos",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Seleccionar Área para Grabar",
+        "text": "Elige pantalla completa o una ventana específica para grabar",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Ajustar Configuraciones",
+        "text": "Configura preferencias de audio, calidad y opciones de formato",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Comenzar a Grabar",
+        "text": "Inicio con un clic para captura instantánea de pantalla",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Guardar y Compartir",
+        "text": "Descarga tu video o comparte directamente en redes sociales",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Graba Tu Primer Video →"
+  },
+  "endlessPossibilities": {
+    "heading": "Aplicaciones de Grabación Versátiles",
+    "description": "Perfecto para una variedad de casos de uso",
+    "items": [
+      "Crea tutoriales y cursos educativos",
+      "Graba demostraciones y presentaciones de software",
+      "Transmite sesiones de juego sin esfuerzo",
+      "Brinda soporte al cliente a través de guías visuales",
+      "Captura seminarios web para visualización posterior",
+      "Genera videos y anuncios de marketing",
+      "Crea videos instructivos para productos",
+      "Documenta configuraciones tecnológicas o consejos de solución de problemas"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Ve cómo los usuarios están aprovechando la grabación de pantalla",
+    "items": [
+      {
+        "tag": "Educación",
+        "heading": "Mejora del Aprendizaje a Distancia",
+        "before": {
+          "label": "Antes",
+          "text": "Difícil involucrar a los estudiantes"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Tutoriales interactivos"
+        },
+        "value": "75%",
+        "key": "Aumento en el Compromiso",
+        "description": "Los instructores grabaron lecciones en video atractivas que mejoraron la participación y comprensión de los estudiantes."
+      },
+      {
+        "tag": "Capacitación Corporativa",
+        "heading": "Proceso de Integración Efectivo",
+        "before": {
+          "label": "Antes",
+          "text": "5 horas por aprendiz"
+        },
+        "after": {
+          "label": "Después",
+          "text": "1 hora por aprendiz"
+        },
+        "value": "80%",
+        "key": "Tiempo Ahorrado",
+        "description": "La capacitación optimizada con sesiones grabadas permitió que los nuevos empleados aprendieran a su propio ritmo, reduciendo drásticamente el tiempo de integración."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Grabadores de Pantalla",
+    "description": "Elige la configuración de grabación adecuada para tus necesidades",
+    "items": [
+      "Grabación Estándar: calidad 1080p, captura de audio y configuraciones flexibles",
+      "Modo de Alto Rendimiento: optimiza para sesiones de juegos a alta velocidad de fotogramas",
+      "Modo Liviano: rápido y fácil, adecuado para clips cortos y tutoriales",
+      "Entradas de Audio Personalizadas: graba audio del sistema o micrófono por separado",
+      "Sin retrasos: asegura grabaciones fluidas e ininterrumpidas",
+      "Características de edición fáciles incluidas"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas AI Relacionadas",
+    "description": "Explora herramientas adicionales para una creación de video mejorada"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿En qué calidad de video puedo grabar?",
+        "answer": "Puedes grabar en hasta calidad 1080p con la opción de ajustar configuraciones según tus necesidades. Esto asegura visuales claros y audio de alta calidad para cualquier tipo de grabación."
+      },
+      {
+        "question": "¿Puedo incluir mi voz u otro audio en la grabación?",
+        "answer": "¡Sí! Tienes la capacidad de elegir fuentes de audio, incluyendo la entrada del micrófono junto con el audio del sistema, lo que permite presentaciones completas y atractivas."
+      },
+      {
+        "question": "¿Es fácil compartir las grabaciones?",
+        "answer": "¡Absolutamente! Después de grabar, puedes descargar tus videos fácilmente o compartir directamente en redes sociales y otras plataformas sin complicaciones."
+      },
+      {
+        "question": "¿Puedo grabar varias veces sin perder calidad?",
+        "answer": "¡Sí! Puedes hacer tantas grabaciones como necesites, manteniendo siempre la mejor calidad de salida sin degradación."
+      },
+      {
+        "question": "¿Cuál es el modelo de precios para utilizar el grabador de pantalla?",
+        "answer": "Operamos con un modelo de precios por uso, asegurando que solo pagues por las grabaciones que creas sin tarifas ocultas ni suscripciones."
+      },
+      {
+        "question": "¿Cuánto tiempo se tarda en empezar a grabar?",
+        "answer": "¡Comenzar es instantáneo! Con solo un clic, puedes comenzar a capturar tu pantalla en segundos."
+      },
+      {
+        "question": "¿Cuáles son los mejores casos de uso para la grabación de pantalla?",
+        "answer": "La grabación de pantalla es perfecta para fines educativos, demostraciones de productos, soporte en tiempo real, videos de marketing y mucho más."
+      },
+      {
+        "question": "¿Soy propietario de los derechos sobre los videos que grabo?",
+        "answer": "¡Sí! Todos los videos creados son tuyos con derechos comerciales completos, permitiendo su uso en diversas plataformas sin cargos adicionales."
+      },
+      {
+        "question": "¿Qué soporte está disponible si tengo problemas?",
+        "answer": "Ofrecemos un amplio soporte que incluye documentación detallada, tutoriales en video y un equipo de soporte receptivo listo para ayudar con cualquier pregunta técnica."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Comenzar a Capturar Tu Pantalla?",
+    "description": "¡Experimenta la facilidad del Grabador de Pantalla de WaveSpeed AI hoy!",
+    "contactUsText": "Contáctanos",
+    "tryText": "Comienza a Grabar Ahora →"
+  },
+  "footer": {
+    "heading": "¿Listo para Transformar Tus Capturas de Pantalla?",
+    "description": "Prueba WaveSpeed AI ahora y ve la diferencia por ti mismo. No se requiere registro.",
+    "ctaText": "Comienza a Grabar Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

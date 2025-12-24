@@ -1,0 +1,229 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Visual Question Answering",
+  "meta": {
+    "description": "Instantly answer questions about images with AI Visual Question Answering. Perfect for enhancing customer engagement, optimizing product displays, and streamlining user experience. Try it now!",
+    "keywords": "AI Visual Question Answering, image-based Q&A, interactive AI, customer engagement tool, product display optimization, e-commerce AI solutions, user experience enhancement, visual intelligence, AI-powered interaction, dynamic Q&A system"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Visual Question Answering",
+    "subHeading": "Revolutionize Interaction with Your Images",
+    "description": "Instantly generate answers to user questions about any image, enhancing engagement and comprehension. Leverage the power of AI to create dynamic, interactive experiences. Perfect for e-commerce, marketing, and education.",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Visual Question Answering Solution",
+    "left": {
+      "heading": "Traditional Customer Interaction Challenges",
+      "items": [
+        "Limited engagement with static images",
+        "Slow response time to user inquiries",
+        "Requires manual analysis of image content",
+        "Increased barriers for customer support",
+        "Inefficiencies in content navigation"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Instant answers to user queries based on images",
+        "AI interprets and analyzes image content in real-time",
+        "Engaging, interactive visual responses",
+        "Streamlined customer support with fewer resources",
+        "Accessible for all types of businesses"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Transform image interaction in 4 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Image",
+        "text": "Provide the image users will inquire about",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Ask Questions",
+        "text": "Users type in questions related to the image",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "AI Analysis",
+        "text": "The AI processes the image to formulate accurate answers",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Receive Answers",
+        "text": "Get instant responses displayed alongside the image",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Start Answering Questions →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Ideal for diverse applications and industries",
+    "items": [
+      "Customer support for e-commerce platforms",
+      "Enhanced product detail pages",
+      "Interactive educational materials",
+      "Real estate virtual tours with detailed insights",
+      "Food and recipe imagery explanations",
+      "Art galleries providing contextual information",
+      "Online forums with image inquiry capacity",
+      "Travel websites enhancing destination queries"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how brands are transforming engagement with AI",
+    "items": [
+      {
+        "tag": "E-commerce",
+        "heading": "Fashion Retail AI Interaction",
+        "before": {
+          "label": "Before",
+          "text": "Static image, no interaction"
+        },
+        "after": {
+          "label": "After",
+          "text": "Dynamic Q&A engagement"
+        },
+        "value": "45%",
+        "key": "User Engagement Boost",
+        "description": "Increased interaction time by 40%. Customers now receive instant answers, greatly enhancing satisfaction."
+      },
+      {
+        "tag": "Education",
+        "heading": "Interactive Learning App",
+        "before": {
+          "label": "Before",
+          "text": "Limited information access"
+        },
+        "after": {
+          "label": "After",
+          "text": "Real-time Q&A with images"
+        },
+        "value": "90%",
+        "key": "Understanding Improvement",
+        "description": "Students enjoy immediate answers to visual queries, resulting in a 60% increase in knowledge retention."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Model Comparison for Visual Q&A",
+    "description": "Select the model that best suits your needs",
+    "items": [
+      "Standard Model: Quick response times, suitable for basic inquiries",
+      "Advanced Model: In-depth analysis and detailed answers for complex images",
+      "Natural language processing for user-friendly interaction",
+      "Ability to handle diverse image types and content",
+      "Real-time feedback and continuous learning capabilities"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore more cutting-edge AI capabilities for business"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What type of questions can be answered with this feature?",
+        "answer": "The system can handle a wide range of inquiries, from basic identification to complex descriptions. Users can ask about specific elements within the image, contextual meanings, and more."
+      },
+      {
+        "question": "How accurate are the answers provided?",
+        "answer": "The answers are generated based on AI analysis, ensuring a high accuracy rate. Continuous machine learning updates improve responsiveness and detail over time."
+      },
+      {
+        "question": "Can I customize the AI to recognize specific items in my images?",
+        "answer": "Yes! You can train the AI with specific datasets to enhance recognition and relevance for particular product types or industries."
+      },
+      {
+        "question": "What industries can benefit from this technology?",
+        "answer": "Virtually any industry that relies on visual content can benefit, especially e-commerce, education, tech support, and travel."
+      },
+      {
+        "question": "How does the AI process and analyze images?",
+        "answer": "Utilizing advanced image recognition and natural language processing, the AI dissects images into understandable components to generate dynamic responses."
+      },
+      {
+        "question": "Is technical support available for implementation?",
+        "answer": "Absolutely! Our dedicated support team provides comprehensive documentation, tutorials, and direct assistance for all implementation needs."
+      },
+      {
+        "question": "Can multiple users access this feature simultaneously?",
+        "answer": "Yes! The system is designed for multiple concurrent users, allowing them to inquire and receive answers without delay."
+      },
+      {
+        "question": "Do I need technical skills to set this up?",
+        "answer": "No technical expertise is required. Our platform is user-friendly, providing full support throughout the setup process."
+      },
+      {
+        "question": "What kind of images work best for this AI analysis?",
+        "answer": "High-quality images with clear, identifiable components yield the best results. Ensure proper lighting and focus for optimal answers."
+      },
+      {
+        "question": "What are the commercial rights for using the generated content?",
+        "answer": "All responses and derived content can be used commercially, giving complete freedom for marketing and business growth."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Enhance Your Image Engagement?",
+    "description": "Start with free credits - Experience instant responses",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Ready to Enhance Interaction with Your Images?",
+    "description": "Try WaveSpeed AI now and experience the innovation. No sign-up required.",
+    "ctaText": "Start Interacting Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

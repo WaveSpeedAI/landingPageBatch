@@ -1,0 +1,222 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - KI-Video-Stabilisierung",
+  "meta": {
+    "description": "Beseitigen Sie shaky Aufnahmen mühelos mit KI-gestützter Stabilisierungstechnologie. Perfekt für Inhalte, E-Commerce und Marketingvideos. Erreichen Sie innerhalb von Minuten glatte, professionelle Ergebnisse mit WaveSpeed AI.",
+    "keywords": "video stabilisierung KI, glatte video technologie, shaky aufnahmen stabilisieren, cinematografische video stabilisierung, e-commerce video werkzeug, marketing video stabilisierung, professionelle video bearbeitung, video verbesserung, YouTube video qualität, soziale medien video stabilität"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI-Werkzeuge",
+        "items": [
+          [
+            "KI-Werkzeuge",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Präsentation",
+        "items": [
+          [
+            "Präsentation",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "Video-Stabilisierung",
+    "subHeading": "Verwandeln Sie shaky Videos in glatte Meisterwerke",
+    "description": "Beseitigen Sie unerwünschte Erschütterungen und Zittern in Ihren Videos mit unserer hochmodernen Stabilisierungstechnologie. Erreichen Sie schnell professionelle Ergebnisse mit nur wenigen Klicks. Erleben Sie den Unterschied noch heute!",
+    "tryText": "Jetzt ausprobieren",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI KI-Video-Stabilisierungs-Lösung",
+    "left": {
+      "heading": "Traditionelle Herausforderungen",
+      "items": [
+        "Shaky Aufnahmen erzeugen unprofessionelle Ergebnisse",
+        "Zeitaufwendiger manueller Stabilisierungprozess",
+        "Teure Bearbeitungssoftware benötigt",
+        "Benötigt Expertenfähigkeiten in der Video-Bearbeitung",
+        "Begrenzte Optionen für die Echtzeit-Stabilisierung"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI-Lösung",
+      "items": [
+        "Videos sofort in nur wenigen Minuten stabilisieren",
+        "Keine Bearbeitungssoftware oder Fachkenntnisse erforderlich",
+        "KI-gestützte Ergebnisse für glatte Aufnahmen",
+        "Konsistente Qualität auf allen Geräten erreichen",
+        "Erschwingliches Pay-per-Use-Modell verfügbar"
+      ],
+      "tryText": "Ausprobieren"
+    }
+  },
+  "howItWorks": {
+    "heading": "So funktioniert es",
+    "description": "Stabilisieren Sie Ihre Videos in 3 einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Video hochladen",
+        "text": "Laden Sie Ihre shaky Videodatei oder Aufnahme hoch",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Einstellungen auswählen",
+        "text": "Passen Sie die Stabilisierungseinstellungen nach Bedarf an",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Stabiles Video herunterladen",
+        "text": "Erhalten Sie Ihr glattes, stabiles Video in wenigen Minuten",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "Stabilisieren Sie Ihr erstes Video →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endlose Möglichkeiten",
+    "description": "Perfekt für jede Videoanwendung",
+    "items": [
+      "YouTube-Inhalte mit professioneller Qualität",
+      "Soziale Medienvideos ohne Erschütterungen",
+      "Geschäftspräsentationen und Webinare",
+      "Eventaufzeichnungen und Livestreams",
+      "Immobilienpräsentationen",
+      "Reise-Vlogs mit glatten Übergängen",
+      "Sport-Highlights und Actionszenen",
+      "Tutorials und Anleitungsvideos"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Sehen Sie, wie Benutzer ihre Videos mit KI verbessern",
+    "items": [
+      {
+        "tag": "Reise-Vlogs",
+        "heading": "Verbesserung des YouTube-Kanals",
+        "before": {
+          "label": "Vorher",
+          "text": "Zitternde Aufnahmen"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Eleganz und Professionalität"
+        },
+        "value": "95%",
+        "key": "Qualitätsverbesserung",
+        "description": "Die Zuschauer mochten das glattere Aussehen! Die Engagement-Rate stieg, was zu einem Anstieg der Abonnements um 50 % führte."
+      },
+      {
+        "tag": "Immobilien",
+        "heading": "Immobilienpräsentationsvideos",
+        "before": {
+          "label": "Vorher",
+          "text": "Zitternde Kamera wirkt unprofessionell"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Poliert und einladend"
+        },
+        "value": "98%",
+        "key": "Verbesserte Kunden-Eindrücke",
+        "description": "Die Kunden bemerkten die klare und einladende Präsentation, was zu schnelleren Verkäufen führte."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "KI-Modellvergleich",
+    "description": "Optimieren Sie Ihr Video-Stabilisierungserlebnis",
+    "items": [
+      "Standardstabilisierung: Grundlegende Korrektur für kleinere Erschütterungen, schnelle Verarbeitung",
+      "Erweiterte Stabilisierung: Umfassendes Glätten für extreme Zitterbewegungen, hochwertige Ausgabe",
+      "Echtzeitvorschau für sofortiges Feedback",
+      "Unterstützt eine Vielzahl von Videoformaten",
+      "Integriert sich nahtlos in alle Video-Bearbeitungssoftware"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Verwandte KI-Werkzeuge",
+    "description": "Entdecken Sie weitere leistungsstarke KI-Werkzeuge zur Verbesserung der Videoqualität"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welche Arten von Videos können stabilisiert werden?",
+        "answer": "Sie können jedes Video stabilisieren, einschließlich Heimvideos, professionellen Aufnahmen oder für soziale Medien erstellten Inhalten. Unsere KI arbeitet effizient mit verschiedenen Formaten und Qualitäten."
+      },
+      {
+        "question": "Gibt es eine maximale Videolänge für die Stabilisierung?",
+        "answer": "Nein, Sie können Videos jeder Länge hochladen. Längere Videos benötigen jedoch etwas mehr Zeit zur Verarbeitung. Wir empfehlen kürzere Clips für eine schnelle Stabilisierung."
+      },
+      {
+        "question": "Wie funktioniert die KI-Stabilisierung im Vergleich zu traditionellen Methoden?",
+        "answer": "Unsere KI analysiert jeden Frame Ihres Videos, um Bewegungen zu erkennen und stabilisiert sie automatisch, was zu glatteren Aufnahmen ohne manuelle Bearbeitung führt."
+      },
+      {
+        "question": "Kann ich das stabilisierte Video vor dem Herunterladen ansehen?",
+        "answer": "Ja! Sie können das stabilisierte Video in Echtzeit ansehen, um die Verbesserungen zu sehen, bevor Sie den Download abschließen."
+      },
+      {
+        "question": "Gibt es nach der Stabilisierung Qualitätsverluste?",
+        "answer": "Wir legen Wert darauf, die Qualität Ihres Videos zu erhalten. Während kleine Artefakte auftreten können, stellt unsere fortschrittliche Technologie sicher, dass der Verlust der ursprünglichen Klarheit minimal ist."
+      },
+      {
+        "question": "Welche Kosten sind mit der Stabilisierung verbunden?",
+        "answer": "Der Service wird nach dem Pay-as-you-go-Prinzip angeboten, wobei die Preise auf der Dauer und Komplexität des Videos basieren. Sie zahlen nur für die Stabilisierung, die Sie benötigen."
+      },
+      {
+        "question": "Kann ich Videos mit Hintergrundmusik und Sprachübertragungen stabilisieren?",
+        "answer": "Absolut! Ihre Audiotracks bleiben während des Stabilisierungsvorgangs intakt, um ein komplettes Seherlebnis zu gewährleisten."
+      },
+      {
+        "question": "Ist eine vorherige Video-Bearbeitung vor der Stabilisierung erforderlich?",
+        "answer": "Es ist keine vorherige Bearbeitung erforderlich. Laden Sie einfach Ihr Material hoch, und unsere KI übernimmt den Rest für Sie."
+      },
+      {
+        "question": "Welche Formate kann ich für die Stabilisierung hochladen?",
+        "answer": "Wir unterstützen gängige Videoformate wie MP4, AVI und MOV. Die meisten Standardformate können mit unserer Technologie verarbeitet werden."
+      },
+      {
+        "question": "Bieten Sie Kundenunterstützung für stabilisierte Videos an?",
+        "answer": "Ja! Unser Kundenserviceteam steht Ihnen rund um die Uhr zur Verfügung, um bei Fragen oder Problemen bezüglich Ihres Video-Stabilisierungserlebnisses zu helfen."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Ihre Videos zu stabilisieren?",
+    "description": "Beginnen Sie mit kostenlosen Credits - Erleben Sie die Stabilität selbst",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Jetzt ausprobieren →"
+  },
+  "footer": {
+    "heading": "Bereit, Ihr Material zu stabilisieren?",
+    "description": "Probieren Sie WaveSpeed AI jetzt aus und erleben Sie glatte Video-Transformationen. Keine Anmeldung erforderlich.",
+    "ctaText": "Videos jetzt stabilisieren",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

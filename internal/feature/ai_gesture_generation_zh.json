@@ -1,0 +1,221 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI 手势生成",
+  "meta": {
+    "description": "通过 AI 手势生成提升您的产品展示。将静态图像转化为引人注目的动画手势，非常适合电子商务和市场营销。体验 WaveSpeed 带来的无与伦比的创意。",
+    "keywords": "AI 手势生成, 动态产品手势, 电子商务动画工具, AI 营销解决方案, 产品展示动画, 互动视频功能, 用户参与工具, 社交媒体动画, AI 驱动的演示, WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI 工具",
+        "items": [
+          [
+            "AI 工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "现在试用"
+  },
+  "hero": {
+    "heading": "静态图像到动画手势",
+    "subHeading": "通过手势动画使您的产品生动起来",
+    "description": "即时将您的产品图像转化为生动的手势，吸引并参与您的观众。无需复杂的软件。只需上传，让 AI 施展魔法。与 WaveSpeed 一起发现动画的力量。",
+    "tryText": "立即开始",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI 手势生成解决方案",
+    "left": {
+      "heading": "传统动画挑战",
+      "items": [
+        "动画通常需要大量资源和时间",
+        "需要专业软件或技能",
+        "高制作成本和漫长的时间线",
+        "静态定义导致创意受限",
+        "小企业或初创公司无法获得"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI 解决方案",
+      "items": [
+        "秒内生成动画手势",
+        "无需软件专业知识 - 简单上传",
+        "由先进 AI 驱动的即时动画",
+        "无限创意表达和变化",
+        "对所有人都实惠的按需付费模式"
+      ],
+      "tryText": "试用"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "将您的静态图像在 4 个简单步骤中转化为动画手势",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传图像",
+        "text": "上传展示产品或服务的图像",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "定义手势",
+        "text": "描述所需手势（例如，\"轻轻挥手\"或\"弹跳\"）",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "选择动画风格",
+        "text": "从多种风格中选择以匹配您的品牌氛围",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "预览动画",
+        "text": "实时观看动画的生动展现",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "为您的第一张图像动画 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无尽的动画可能性",
+    "description": "非常适合增强各行业的演示",
+    "items": [
+      "电子商务的产品演示",
+      "互动社交媒体帖子",
+      "动画教程和指南",
+      "吸引人的营销活动",
+      "前后动画展示",
+      "活动推广和广告",
+      "时尚画册动画",
+      "品牌的动态故事讲述"
+    ]
+  },
+  "successStories": {
+    "heading": "真实成功案例",
+    "description": "发现品牌如何通过 AI 提升参与度",
+    "items": [
+      {
+        "tag": "电子商务",
+        "heading": "时尚零售商动画",
+        "before": {
+          "label": "之前",
+          "text": "静态图像"
+        },
+        "after": {
+          "label": "之后",
+          "text": "动画手势"
+        },
+        "value": "150%",
+        "key": "参与度提升",
+        "description": "我们的产品页面发生了转变。手势提高了用户互动和网站停留时间 150%。"
+      },
+      {
+        "tag": "科技小工具",
+        "heading": "小工具展示动画",
+        "before": {
+          "label": "之前",
+          "text": "停滞不前的视觉效果"
+        },
+        "after": {
+          "label": "之后",
+          "text": "动态动画"
+        },
+        "value": "200%",
+        "key": "转化率提升",
+        "description": "动画手势显著提升了转化率，使我们能够以互动方式展示功能。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI 动画风格比较",
+    "description": "选择适合您需求的动画风格",
+    "items": [
+      "流畅手势：自然动作，逼真的物理效果",
+      "快速动画：快速生动的手势，提高参与度",
+      "多样风格：从易用到高级动画",
+      "互动反馈：对观众反应的手势",
+      "适合任何场合的简单到复杂动画"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关 AI 工具",
+    "description": "探索为您的业务提供的其他强大 AI 解决方案"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要了解的一切",
+    "items": [
+      {
+        "question": "什么类型的图像最适合手势生成？",
+        "answer": "高质量的产品图像，背景清晰，效果最佳。图像越清晰、光线越好，生成的动画手势效果越佳。"
+      },
+      {
+        "question": "我可以自定义手势和动画吗？",
+        "answer": "当然可以！您可以描述想要的动画外观，专门为您的产品和品牌需求量身定制。"
+      },
+      {
+        "question": "是否需要之前的动画经验？",
+        "answer": "不需要任何经验。我们的直观界面使任何人都可以轻松创建惊艳的动画。"
+      },
+      {
+        "question": "我可以多快生成动画手势？",
+        "answer": "生成时间非常快 - 通常在几秒内，允许高效的工作流程和快速迭代。"
+      },
+      {
+        "question": "生成的动画是否拥有商业权利？",
+        "answer": "是的！您保留创建的动画的全部商业权利，可以在各种平台上使用而没有限制。"
+      },
+      {
+        "question": "动画以什么格式导出？",
+        "answer": "动画可以以多种格式导出，适合于网络、社交媒体和其他数字平台。"
+      },
+      {
+        "question": "我可以一次创建多个手势吗？",
+        "answer": "可以，我们的平台支持批量处理，允许您同时设计和生成多个动画手势。"
+      },
+      {
+        "question": "有哪些支持服务可用？",
+        "answer": "我们提供全面的文档、教程和支持团队，帮助解决任何技术问题或咨询。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备好为您的图像动画吗？",
+    "description": "立即开始使用您的免费积分，见证动画魔法的展开",
+    "contactUsText": "联系我们",
+    "tryText": "立即开始 →"
+  },
+  "footer": {
+    "heading": "准备好提升您的演示了吗？",
+    "description": "试用 WaveSpeed AI，见证今天的转变。不需要注册。",
+    "ctaText": "现在生成手势",
+    "text": "© 2025 WaveSpeed AI. 保留所有权利。"
+  }
+}

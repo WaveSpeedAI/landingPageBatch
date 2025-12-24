@@ -1,0 +1,226 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Peningkatan Gambar AI",
+  "meta": {
+    "description": "Tingkatkan gambar Anda dengan teknologi peningkatan canggih dari WaveSpeed AI. Sempurna untuk e-commerce dan proyek kreatif. Dapatkan kualitas menakjubkan tanpa usaha!",
+    "keywords": "peningkatan gambar AI, peningkatan gambar, perbaikan kualitas foto, gambar e-commerce, editor foto AI, gambar resolusi tinggi, restorasi foto, pemulihan detail, penguat gambar Shopify, gambar produk Amazon"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Galeri",
+        "items": [
+          [
+            "Galeri",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Peningkatan Gambar",
+    "subHeading": "Tingkatkan Kualitas Foto Anda Instan",
+    "description": "Ubah foto standar Anda menjadi gambar resolusi tinggi yang menakjubkan dalam hitungan detik. Tidak perlu perangkat lunak yang rumit. Rasakan kebebasan untuk meningkatkan setiap detail tanpa usaha.",
+    "tryText": "Coba Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Peningkatan Gambar AI WaveSpeed AI",
+    "left": {
+      "heading": "Tantangan Peningkatan Tradisional",
+      "items": [
+        "Perangkat lunak dan plugin mahal",
+        "Memerlukan keterampilan teknis yang canggih",
+        "Penyesuaian manual yang memakan waktu",
+        "Hasil terbatas dengan peningkatan dasar",
+        "Alur kerja rumit untuk peningkatan gambar"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeed AI",
+      "items": [
+        "Tingkatkan gambar dalam hitungan detik hanya dengan satu klik",
+        "Tidak diperlukan keahlian - Upload dan tingkatkan dengan mudah",
+        "Hasil resolusi tinggi instan yang didukung oleh AI",
+        "Penyesuaian dan peningkatan tak terbatas tersedia",
+        "Model bayar sesuai pemakaian - Akses untuk semua"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Tingkatkan foto Anda dalam 4 langkah mudah",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Gambar",
+        "text": "Unggah gambar yang ingin Anda tingkatkan",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Pilih Tingkat Peningkatan",
+        "text": "Pilih tingkat peningkatan yang Anda inginkan",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Prabaca Perubahan",
+        "text": "Lihat perbandingan berdampingan gambar yang ditingkatkan",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Unduh Gambar yang Ditingkatkan",
+        "text": "Dapatkan gambar berkualitas tinggi Anda siap digunakan",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Tingkatkan Gambar Pertama Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Tanpa Batas",
+    "description": "Ideal untuk berbagai aplikasi",
+    "items": [
+      "Gambar produk e-commerce untuk toko online",
+      "Grafis dan posting media sosial",
+      "Materi pemasaran digital",
+      "Peningkatan portofolio untuk kreatif",
+      "Media cetak dan periklanan",
+      "Presentasi profesional",
+      "Gambar blog atau situs web",
+      "Visual berkualitas tinggi untuk proyek pribadi"
+    ]
+  },
+  "successStories": {
+    "heading": "Cerita Sukses Nyata",
+    "description": "Temukan bagaimana bisnis meningkatkan visual mereka dengan AI",
+    "items": [
+      {
+        "tag": "E-commerce",
+        "heading": "Meningkatkan Kualitas Gambar Produk",
+        "before": {
+          "label": "Sebelum",
+          "text": "Resolusi rendah"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Resolusi tinggi yang menakjubkan"
+        },
+        "value": "97%",
+        "key": "Perbaikan Kualitas",
+        "description": "Gambar produk kami berubah, yang menyebabkan peningkatan 30% dalam penjualan dalam minggu pertama."
+      },
+      {
+        "tag": "Desain Grafis",
+        "heading": "Perbaikan Desainer Freelance",
+        "before": {
+          "label": "Sebelum",
+          "text": "Pengeditan yang memakan waktu"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Peningkatan instan"
+        },
+        "value": "95%",
+        "key": "Waktu Disimpan",
+        "description": "Proses pengeditan kami telah disederhanakan secara signifikan, memungkinkan kami untuk menangani lebih banyak klien."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Model AI",
+    "description": "Temukan pendekatan peningkatan terbaik untuk kebutuhan Anda",
+    "items": [
+      "Model Standar: Peningkatan cepat, kualitas baik, cocok untuk sebagian besar gambar",
+      "Model Lanjutan: Kualitas superior, ideal untuk penggunaan profesional, lebih banyak waktu pemrosesan",
+      "Mendukung pemrosesan batch untuk banyak gambar sekaligus",
+      "Peningkatan resolusi hingga 8K",
+      "Mempertahankan fidelitas warna dan detail",
+      "Proses yang disederhanakan dengan hak penggunaan komersial termasuk"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Jelajahi lebih banyak alat AI untuk perbaikan visual"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Semua yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Kualitas gambar apa yang dapat saya harapkan setelah peningkatan?",
+        "answer": "Model AI kami memberikan peningkatan menakjubkan, menghasilkan gambar resolusi tinggi hingga 8K, memastikan setiap detail terdefinisi dengan tajam dan menarik secara visual."
+      },
+      {
+        "question": "Dapatkah saya meningkatkan berbagai jenis gambar?",
+        "answer": "Tentu saja! AI kami dapat menangani berbagai gambar termasuk foto produk, potret, dan pemandangan, mengubah semuanya menjadi konten visual berkualitas tinggi."
+      },
+      {
+        "question": "Format file apa yang didukung untuk unggahan gambar?",
+        "answer": "Kami mendukung beberapa format termasuk JPG, PNG, dan TIFF. Pastikan gambar Anda jelas dan terang untuk hasil terbaik."
+      },
+      {
+        "question": "Bagaimana AI menentukan peningkatan terbaik?",
+        "answer": "Teknologi kami menganalisis pola dan detail gambar asli Anda untuk secara efektif memulihkan dan meningkatkan resolusi sambil mempertahankan tampilan dan nuansa yang alami."
+      },
+      {
+        "question": "Apakah ada batasan jumlah gambar yang dapat saya tingkatkan?",
+        "answer": "Tidak ada batasan! Anda dapat meningkatkan sebanyak mungkin gambar yang Anda mau, dan fitur pemrosesan batch kami memungkinkan peningkatan bersamaan untuk efisiensi."
+      },
+      {
+        "question": "Model harga apa yang digunakan layanan ini?",
+        "answer": "Kami beroperasi dengan strategi bayar sesuai pemakaian yang fleksibel, di mana Anda hanya membayar untuk gambar yang Anda tingkatkan. Tidak ada langganan atau biaya tersembunyi!"
+      },
+      {
+        "question": "Seberapa cepat saya dapat mengharapkan gambar saya ditingkatkan?",
+        "answer": "Waktu peningkatan bervariasi, tetapi sebagian besar gambar diproses dalam hitungan detik, memungkinkan Anda untuk segera melihat kualitas yang ditingkatkan."
+      },
+      {
+        "question": "Apakah saya akan memiliki hak atas gambar saya yang ditingkatkan?",
+        "answer": "Ya! Anda memiliki hak komersial penuh atas semua gambar yang ditingkatkan melalui platform kami, tanpa biaya tambahan atau royalti."
+      },
+      {
+        "question": "Opsi dukungan apa yang tersedia jika saya menemui masalah?",
+        "answer": "Kami menawarkan dukungan luas melalui dokumentasi, tutorial, dan tim dukungan responsif yang siap membantu dengan pertanyaan atau kekhawatiran."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Meningkatkan Gambar Anda?",
+    "description": "Mulai sekarang dengan kredit gratis - Rasakan peningkatannya!",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Coba Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap untuk Mengubah Foto Anda?",
+    "description": "Coba WaveSpeed AI sekarang dan lihat perbedaannya sendiri. Tanpa pendaftaran diperlukan.",
+    "ctaText": "Tingkatkan Gambar Anda Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi."
+  }
+}

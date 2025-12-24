@@ -1,0 +1,230 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Voiceover Recording Feature",
+  "meta": {
+    "description": "Elevate your audiovisual content with professional voiceovers effortlessly. Leverage cutting-edge AI technology to generate voiceovers from text, enhancing engagement and storytelling. Ideal for videos, audiobooks, and marketing materials. Experience the future of audio production with WaveSpeed AI.",
+    "keywords": "voiceover recording AI, audio generation, text to voice, professional voiceovers, AI voice generator, e-commerce audio tool, marketing audio production, audiobook narration, video voiceover, social media audio enhancements, WaveSpeed audio tools"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Voiceover Recording",
+    "subHeading": "Transform Text into Engaging Voiceovers",
+    "description": "Instantly convert your scripts into high-quality voiceovers with our AI-powered solution. No need for professional recording equipment or voice actors. Enhance your videos, podcasts, and presentations effortlessly.",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI Voiceover Recording Solution",
+    "left": {
+      "heading": "Traditional Challenges",
+      "items": [
+        "Voiceover production typically expensive and time-consuming",
+        "Requires recording studios and professional talent",
+        "Limited revision options for recorded audio",
+        "High ongoing costs for voice actors",
+        "Inefficient for fast-paced project deadlines"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Generate voiceovers in seconds from written text",
+        "No studio or professional actor required - Just input text",
+        "High-quality, natural-sounding voice output",
+        "Unlimited adjustments and variations for every script",
+        "Flexible pricing - Pay only for what you use"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "From text to voiceover in 4 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Enter Your Script",
+        "text": "Type or paste the text you want to convert to audio",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Select Voice Style",
+        "text": "Choose from a variety of voices and accents to match your tone",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Adjust Settings",
+        "text": "Fine-tune pitch, speed, and emotion for your voiceover",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Audio File",
+        "text": "Get your high-quality voiceover in seconds",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Generate Your Voiceover Now →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Perfect for every audio need",
+    "items": [
+      "Voiceovers for promotional videos",
+      "Narration for e-learning courses",
+      "Geared for podcasts and webinars",
+      "Audiobook recordings",
+      "Explainer videos and tutorials",
+      "In-store announcements",
+      "Advertising jingles",
+      "Social media video content"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how businesses are revolutionizing their audio content with AI",
+    "items": [
+      {
+        "tag": "E-learning",
+        "heading": "Online Course Narration",
+        "before": {
+          "label": "Before",
+          "text": "3-4 weeks"
+        },
+        "after": {
+          "label": "After",
+          "text": "5 minutes"
+        },
+        "value": "99%",
+        "key": "Time Saved",
+        "description": "Our course production turned around in record time. We can now update modules instantly with fresh voiceovers."
+      },
+      {
+        "tag": "Marketing",
+        "heading": "Social Media Advertisements",
+        "before": {
+          "label": "Before",
+          "text": "High costs"
+        },
+        "after": {
+          "label": "After",
+          "text": "Budget-friendly"
+        },
+        "value": "95%",
+        "key": "Cost Reduction",
+        "description": "Audio production costs decreased dramatically, enabling us to launch campaigns more frequently."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Voiceover Model Comparison",
+    "description": "Choose the right voice for your project",
+    "items": [
+      "Standard Voice: Natural tone, suitable for casual content, optimal for most applications",
+      "Professional Voice: Polished style, ideal for formal presentations and brand storytelling",
+      "Male/Female options available for diverse needs",
+      "Customization options to specify emotional tone and pace",
+      "Fast turnaround time for urgent projects",
+      "Commercial rights included - use in any context"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore more innovative AI tools for audio production"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What audio quality can I expect from the voiceovers?",
+        "answer": "Our AI generates high-quality audio that is clear, natural, and optimized for various applications. Output maintains clarity across different formats, ensuring a professional finish suitable for all media."
+      },
+      {
+        "question": "Can I choose different voices and accents?",
+        "answer": "Absolutely! You can select from a range of voices and accents, allowing you to match the tone of your content perfectly. This customization helps your message resonate better with your audience."
+      },
+      {
+        "question": "How long does it take to generate a voiceover?",
+        "answer": "Voiceover generation is incredibly fast, typically completed in seconds, regardless of the length of your text. This efficiency allows you to produce content at a remarkable pace."
+      },
+      {
+        "question": "Can I edit the voiceover adjustments after generating?",
+        "answer": "Yes! You can modify the pitch, speed, and emotional tone as needed, allowing you to refine the voiceover to meet your specific requirements for any project."
+      },
+      {
+        "question": "What formats do you support for audio files?",
+        "answer": "We support several audio file formats, including MP3 and WAV, ensuring compatibility with various platforms and media. Choose the format that best fits your distribution needs."
+      },
+      {
+        "question": "Are there any limits on how I can use the generated voiceovers?",
+        "answer": "No! All voiceovers generated through WaveSpeed include full commercial usage rights. You are free to use them in advertising, social media, e-learning, personal projects, and more."
+      },
+      {
+        "question": "Can I generate multiple voiceovers at once?",
+        "answer": "Yes, our platform supports batch processing, allowing you to generate multiple voiceovers simultaneously. Perfect for large projects that require consistent audio output."
+      },
+      {
+        "question": "What should I do if I have technical issues?",
+        "answer": "WaveSpeed offers extensive documentation, video tutorials, and responsive support via email or live chat to assist you with any technical queries or issues you may encounter."
+      },
+      {
+        "question": "Is there a trial period or free credits for new users?",
+        "answer": "Yes, all new users receive free credits to explore our voiceover capabilities. Test the service risk-free and experience the quality for yourself."
+      },
+      {
+        "question": "How is pricing structured for voiceover generation?",
+        "answer": "We operate on a pay-as-you-go model with flexible pricing based on features used and audio length. This structure ensures you only pay for the voiceovers you create."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Create Your First Voiceover?",
+    "description": "Start with free credits - Experience the quality yourself",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Ready to Enhance Your Content?",
+    "description": "Try WaveSpeed AI now and elevate your audio experience. No sign-up required.",
+    "ctaText": "Start Recording Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

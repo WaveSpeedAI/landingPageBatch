@@ -1,0 +1,230 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Cabeça Falante de IA",
+  "meta": {
+    "description": "Crie vídeos envolventes com cabeças falantes gerados por IA a partir de texto ou roteiros com o WaveSpeed AI. Perfeito para criadores de conteúdo em vídeo, educadores e profissionais de marketing que buscam aumentar o engajamento e simplificar a produção. Experimente o futuro da criação de vídeos.",
+    "keywords": "cabeça falante de IA, texto para vídeo, gerador de conteúdo em vídeo, ferramenta de vídeo educacional, WaveSpeed AI, apresentadores virtuais, vídeos de marketing, automação de vídeo, ferramenta de criação de conteúdo, soluções de vídeo de IA, criador de vídeo e-learning"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de IA",
+        "items": [
+          [
+            "Ferramentas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Demonstração",
+        "items": [
+          [
+            "Demonstração",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Texto para Vídeo com Cabeça Falante de IA",
+    "subHeading": "Dê Vida aos Roteiros com Vozes Realistas",
+    "description": "Transforme seu conteúdo escrito em vídeos envolventes com cabeças falantes sem esforço. Nenhuma filmagem ou software complexo necessário. Aproveite nossa tecnologia avançada de IA para criar vídeos que melhoram a interação e a compreensão dos espectadores. Comece a criar seu próprio vídeo de cabeça falante de IA agora!",
+    "tryText": "Experimente Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução de Cabeça Falante de IA WaveSpeed AI",
+    "left": {
+      "heading": "Desafios Tradicionais",
+      "items": [
+        "A produção de vídeo é cara e demorada",
+        "Requer atores, filmagens e equipes de produção",
+        "Atrasos na edição e pós-produção (dias a semanas)",
+        "Capacidade limitada de personalizar personagens e vozes",
+        "Alto custo de investimento para pequenos criadores"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeed AI",
+      "items": [
+        "Crie um vídeo com cabeça falante em minutos a partir do seu roteiro",
+        "Nenhuma filmagem, equipamento ou atores necessário",
+        "Geração instantânea de vídeo com avatares personalizáveis",
+        "Escolha entre diversas opções e estilos de voz",
+        "Preços flexíveis que atendem a todos os orçamentos"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "Transforme texto em vídeo dinâmico em 4 passos simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Inserir Texto",
+        "text": "Digite seu roteiro ou diálogo para a cabeça falante",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Selecionar Avatar",
+        "text": "Escolha entre uma variedade de avatares de personagem personalizáveis",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Escolher Voz",
+        "text": "Escolha uma voz que corresponda ao tom e estilo do seu conteúdo",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Baixar Vídeo",
+        "text": "Receba seu vídeo com cabeça falante em minutos com todos os direitos",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Gere Seu Primeiro Vídeo →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilidades Infinitas",
+    "description": "Ideal para uma variedade de aplicações",
+    "items": [
+      "Vídeos educacionais para professores e cursos online",
+      "Demonstrações e tutoriais de produtos",
+      "Treinamento corporativo e vídeos de integração",
+      "Conteúdo de marketing envolvente para mídias sociais",
+      "Mensagens de vídeo personalizadas para clientes",
+      "Apresentações virtuais e webinars",
+      "Relatórios de notícias ou anúncios",
+      "Contação de histórias criativas e animações"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Descubra como outros estão transformando sua comunicação com IA",
+    "items": [
+      {
+        "tag": "Educação",
+        "heading": "Instrutor de Curso Online",
+        "before": {
+          "label": "Antes",
+          "text": "Slides estáticos"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Vídeos dinâmicos"
+        },
+        "value": "85%",
+        "key": "Aumento de Engajamento",
+        "description": "A transição para vídeos com cabeça falante aumentou significativamente o engajamento dos alunos, tornando as experiências de aprendizado mais interativas."
+      },
+      {
+        "tag": "Marketing",
+        "heading": "Marca de E-commerce",
+        "before": {
+          "label": "Antes",
+          "text": "Baixa conversão"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Alto engajamento"
+        },
+        "value": "50%",
+        "key": "Impulso nas Vendas",
+        "description": "Utilizar cabeças falantes de IA para mostras de produtos aumentou nossa taxa de conversão de vendas online de maneira notável."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Modelos de IA",
+    "description": "Selecione o modelo certo para suas necessidades",
+    "items": [
+      "Avatar Padrão: Representação realista com voz básica, ideal para roteiros e apresentações simples",
+      "Avatar Premium: Realismo aprimorado com recursos personalizáveis e opções de voz de qualidade profissional",
+      "Tecnologia de texto para fala oferece ritmo e inflexão naturais",
+      "Suporte a múltiplos idiomas para conteúdo internacional",
+      "Tempo de geração rápido para resultados instantâneos",
+      "Plenos direitos comerciais para todos os vídeos gerados"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA relacionadas",
+    "description": "Explore mais soluções inovadoras de IA para suas necessidades de conteúdo"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo o que você precisa saber",
+    "items": [
+      {
+        "question": "Que tipo de conteúdo funciona melhor?",
+        "answer": "O modelo de IA se destaca com roteiros claros e concisos, adequados para vários tópicos, garantindo que seu vídeo ressoe com seu público-alvo."
+      },
+      {
+        "question": "Posso personalizar a aparência dos avatares?",
+        "answer": "Sim! Você pode modificar características faciais, roupas e acessórios para alinhar com sua marca ou mensagem."
+      },
+      {
+        "question": "Como posso garantir que a voz soe natural?",
+        "answer": "Escolha entre nossa vasta biblioteca de vozes, cada uma projetada para transmitir emoção e clareza, garantindo que sua mensagem seja envolvente."
+      },
+      {
+        "question": "Quais formatos estão disponíveis para download de vídeo?",
+        "answer": "Os vídeos podem ser exportados em formatos de alta qualidade compatíveis com a maioria das plataformas, incluindo MP4 para fácil compartilhamento e distribuição."
+      },
+      {
+        "question": "Há um limite para a duração do roteiro?",
+        "answer": "Os roteiros podem ser tão curtos ou longos quanto necessário; no entanto, recomendamos mantê-los concisos para um engajamento ideal."
+      },
+      {
+        "question": "Existem custos ou taxas ocultas?",
+        "answer": "Sem taxas ocultas! Nosso modelo de preços transparente cobra apenas pelos vídeos criados, sem assinaturas."
+      },
+      {
+        "question": "Posso gerar vários vídeos simultaneamente?",
+        "answer": "Absolutamente! Você pode criar numerosos vídeos com cabeça falante em paralelo, economizando tempo e aumentando a produtividade."
+      },
+      {
+        "question": "Eu mantenho a propriedade dos vídeos que crio?",
+        "answer": "Sim, todos os vídeos gerados são seus para usar comercialmente sem taxas de licenciamento adicionais."
+      },
+      {
+        "question": "Que tipo de suporte está disponível se eu precisar de ajuda?",
+        "answer": "Oferecemos suporte extensivo através de documentação, tutoriais e uma equipe de atendimento ao cliente disponível via e-mail e chat."
+      },
+      {
+        "question": "Quanto tempo leva para receber meu vídeo?",
+        "answer": "A maioria dos vídeos é gerada e pronta para download em minutos, permitindo uma criação de conteúdo rápida."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Criar Seu Primeiro Vídeo com Cabeça Falante de IA?",
+    "description": "Comece com créditos gratuitos e experimente a transformação",
+    "contactUsText": "Entre em Contato Conosco",
+    "tryText": "Experimente Agora →"
+  },
+  "footer": {
+    "heading": "Pronto para Elevar Seu Conteúdo?",
+    "description": "Experimente o WaveSpeed AI agora e testemunhe a inovação por si mesmo. Nenhum registro necessário.",
+    "ctaText": "Crie Seu Vídeo Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

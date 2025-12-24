@@ -1,0 +1,230 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Face Enhancement",
+  "meta": {
+    "description": "Elevate your photos with cutting-edge AI Face Enhancement technology. Transform facial features, improve skin textures, and achieve polished looks effortlessly. Ideal for influencers, photographers, and content creators. Try for free now!",
+    "keywords": "AI face enhancement, photo enhancement, image retouching, skin smoothing, portrait enhancement, beauty AI tool, influencer tools, photography software, content creator tools, social media photo enhancement"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Revitalize Your Portraits",
+    "subHeading": "Enhance Faces to Perfection",
+    "description": "Transform your photos into stunning portraits with AI Face Enhancement. Perfect skin, sharper features, and natural looks are just a click away. Experience the magic of AI and elevate your image quality instantly.",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Face Enhancement Solution",
+    "left": {
+      "heading": "Traditional Retouching Challenges",
+      "items": [
+        "Expensive professional services ($300-1000 per session)",
+        "Requires skillful editing software",
+        "Time-consuming processes (up to several days)",
+        "Limited revisions and changes",
+        "Struggles for amateurs and small creators"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Enhancement Solution",
+      "items": [
+        "Skyrocket your photos in seconds",
+        "No skills required - Just upload your image",
+        "Instant and satisfying results with AI tech",
+        "Unlimited edits and variations",
+        "Affordable pay-per-use model - Accessible for everyone"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Achieve stunning enhancements in 4 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Image",
+        "text": "Upload your portrait or image requiring enhancement",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Customize Features",
+        "text": "Optional: Specify the enhancements you desire (e.g., \"smooth skin\")",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Select Enhancement Level",
+        "text": "Choose between quick touch-up or deep enhancement",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Enhanced Image",
+        "text": "Receive high-resolution photos in under 2 minutes",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Enhance Your First Photo →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Ideal for all types of photo enhancement needs",
+    "items": [
+      "Social media profile pictures",
+      "Professional headshots",
+      "Beauty shots for portfolio",
+      "Wedding photography enhancements",
+      "Fashion photos for e-commerce",
+      "Influencer content creation",
+      "Event captures",
+      "Personalized gifts with enhanced images"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how creators are enhancing their images with AI",
+    "items": [
+      {
+        "tag": "Beauty Influencer",
+        "heading": "Instagram Portfolio Revamp",
+        "before": {
+          "label": "Before",
+          "text": "Flat and dull"
+        },
+        "after": {
+          "label": "After",
+          "text": "Vibrant and engaging"
+        },
+        "value": "85%",
+        "key": "Engagement Increase",
+        "description": "Our new enhanced images drew in more followers, boosting my engagement significantly within days."
+      },
+      {
+        "tag": "Photographer",
+        "heading": "Wedding Photo Enhancements",
+        "before": {
+          "label": "Before",
+          "text": "Lacks vibrance"
+        },
+        "after": {
+          "label": "After",
+          "text": "Rich and lively"
+        },
+        "value": "90%",
+        "key": "Client Satisfaction",
+        "description": "Clients were thrilled with the enhanced quality, leading to more referrals and bookings."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Model Comparison",
+    "description": "Select the right enhancement level for your needs",
+    "items": [
+      "Light Touch: Quick fixes and smoothing, minimal details preserved",
+      "Standard Enhance: Balanced results, improving detail and smoothness",
+      "Deep Retouch: Major enhancements with full detail recovery and subtle textures",
+      "Natural Effects: Realistic touch-ups retaining original character",
+      "Batch Process: Enhance multiple images simultaneously",
+      "Commercial usage rights included"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore more advanced AI tools for photo editing"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What kind of enhancements can I expect?",
+        "answer": "AI Face Enhancement can provide smooth skin, sharpened features, and adjustments to lighting and tones, all while keeping a natural look. Our technology excels in delivering results that enhance rather than alter your photos."
+      },
+      {
+        "question": "Can I customize the enhancement level?",
+        "answer": "Absolutely! You can select from quick touch-ups to deep retouch options, allowing you to control how subtle or dramatic the enhancements are, tailored to your specific needs."
+      },
+      {
+        "question": "What image formats work best for enhancement?",
+        "answer": "We recommend using high-resolution JPG or PNG files. For optimal results, images should be clear and well-lit, ideally above 800x800 pixels. However, most common formats are supported."
+      },
+      {
+        "question": "How is this different from manual retouching?",
+        "answer": "The AI technology provides instant results with consistent quality, unlike manual retouching which can be time-consuming and may vary in quality. AI enhancements offer a quick and reliable solution for improved images."
+      },
+      {
+        "question": "Can I apply effects to multiple photos at once?",
+        "answer": "Yes! Our batch processing tool allows you to enhance multiple images simultaneously, making it efficient for larger projects or events."
+      },
+      {
+        "question": "What rights do I have after enhancement?",
+        "answer": "You own the commercial rights to all enhanced images created through our service without additional fees. Use them as you please across various platforms."
+      },
+      {
+        "question": "How long does the enhancement process take?",
+        "answer": "The generation time is swift, usually under 2 minutes per image. You'll see your enhanced results in no time."
+      },
+      {
+        "question": "What types of photography can benefit from AI enhancements?",
+        "answer": "AI Face Enhancement is perfect for portraits, commercial photography, social media images, and any context where visual appeal is crucial to success."
+      },
+      {
+        "question": "Do I need to credit WaveSpeed when using enhanced images?",
+        "answer": "No attribution is required, but we appreciate crediting our service if you wish! Your enhanced images can be used freely across any media."
+      },
+      {
+        "question": "What support is available if I encounter issues?",
+        "answer": "We offer comprehensive support through detailed guides, video tutorials, and a responsive team ready to assist you via email or chat for any technical difficulties."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Transform Your Portraits?",
+    "description": "Start enhancing your images today with free credits!",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Ready to Animate Your Photos?",
+    "description": "Experience WaveSpeed AI now and witness the transformation. No sign-up needed.",
+    "ctaText": "Enhance Your Photos Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

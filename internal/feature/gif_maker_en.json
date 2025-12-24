@@ -1,0 +1,230 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI GIF Maker",
+  "meta": {
+    "description": "Create stunning GIFs from images effortlessly with AI. Ideal for social media, marketing, and e-commerce. Discover fast, seamless GIF creation with WaveSpeed AI.",
+    "keywords": "GIF maker, AI GIF creator, image to GIF, animated GIF generator, e-commerce GIF tool, social media GIFs, marketing GIFs, Shopify GIF creator, Amazon GIF tool, GIF animation, AI tools for GIFs"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Image to GIF",
+    "subHeading": "Transform Still Images into Animated GIFs",
+    "description": "Easily convert your product images into delightful GIFs in moments. No complex software required. Experience the speed and creativity that WaveSpeed AI offers.",
+    "tryText": "Create Your GIF Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI GIF Maker Solution",
+    "left": {
+      "heading": "Traditional GIF Creation Challenges",
+      "items": [
+        "Manual creation is time-consuming and tedious",
+        "Requires graphic design skills or software",
+        "Often ends up with low-quality results",
+        "Limited customization options",
+        "High costs for professional services"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI Solution",
+      "items": [
+        "Create GIFs in seconds from static images",
+        "No design skills required - Just upload images",
+        "Instantly generated with high-quality output",
+        "Fully customizable animations",
+        "Affordable pay-as-you-go pricing for all"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "From static image to animated GIF in 4 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Image",
+        "text": "Upload your product photo or scene image",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Add Effects",
+        "text": "Optional: Choose animation effects (e.g., \"fade in\")",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Select Size",
+        "text": "Choose GIF dimensions that fit your needs",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download GIF",
+        "text": "Get your animated GIF in just a few moments",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Generate Your First GIF →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Perfect for any industry or use case",
+    "items": [
+      "Product promotions for e-commerce",
+      "Engaging social media posts",
+      "Email marketing campaigns",
+      "Event highlights and memories",
+      "Before/after transformations",
+      "Creative storytelling and branding",
+      "Animated tutorials",
+      "Fashion showcases and lookbooks"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "See how businesses are transforming their workflow with AI",
+    "items": [
+      {
+        "tag": "Electronics E-commerce",
+        "heading": "GIFs for Product Listings",
+        "before": {
+          "label": "Before",
+          "text": "Low engagement"
+        },
+        "after": {
+          "label": "After",
+          "text": "Increased interaction"
+        },
+        "value": "75%",
+        "key": "Engagement Boost",
+        "description": "We started using GIFs for our listings. Overall interaction surged, leading to a 30% increase in sales."
+      },
+      {
+        "tag": "Home & Living",
+        "heading": "Home Decor Store",
+        "before": {
+          "label": "Before",
+          "text": "Static images"
+        },
+        "after": {
+          "label": "After",
+          "text": "Dynamic GIFs"
+        },
+        "value": "80%",
+        "key": "Visibility Increase",
+        "description": "Switching to GIFs allowed us to showcase our products vibrantly, leading to much higher visibility on social media."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "GIF Creation Options Comparison",
+    "description": "Choose the right options for your GIFs",
+    "items": [
+      "Standard Quality: Ideal for quick, everyday GIFs with basic effects",
+      "High Quality: For professional-grade GIFs with advanced animations",
+      "Custom Triggers: Control GIF playback and effects based on user interaction",
+      "Multiple Format Support: Include GIF, APNG, and more",
+      "Flexible dimension options for web or mobile",
+      "Fast processing speeds to meet your needs"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore more powerful AI tools for e-commerce"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What GIF quality and sizes can I create?",
+        "answer": "You can generate high-quality GIFs optimized for both web and mobile platforms. We support various dimensions and aspect ratios, ensuring your GIFs look great wherever they're displayed."
+      },
+      {
+        "question": "Can I control the animation speed and style?",
+        "answer": "Absolutely! You can adjust the frame rate, animation duration, and style directly within the tool, allowing you to create exactly what you envision."
+      },
+      {
+        "question": "What image types and formats work best for GIF creation?",
+        "answer": "We recommend using clear, high-resolution images for the best GIF output. Common formats like JPG, PNG, and more are supported to simplify your process."
+      },
+      {
+        "question": "How does this compare to traditional GIF creation?",
+        "answer": "Using our AI GIF Maker, you get immediate results without the need for complex software. It allows for vibrant animations that are difficult to achieve with standard tools, giving your business an edge."
+      },
+      {
+        "question": "Can I enhance or modify GIFs after creation?",
+        "answer": "Yes, our platform provides tools for further editing and enhancement of your GIFs even after they've been created, giving you flexibility for adjustments."
+      },
+      {
+        "question": "What pricing model does GIF creation use?",
+        "answer": "Our service follows a pay-as-you-go model with no hidden fees. You only pay for the GIFs you create and can choose from various pricing tiers depending on the quality and specifications."
+      },
+      {
+        "question": "How long does it take to create a GIF?",
+        "answer": "GIF generation is extremely fast - typically just a few seconds. You can generate multiple GIFs simultaneously without encountering delays."
+      },
+      {
+        "question": "What are the most popular use cases for the GIF Maker?",
+        "answer": "This tool is ideal for creating engaging content for social media, ads, product showcases, marketing campaigns, and more where animated visuals draw attention."
+      },
+      {
+        "question": "Do I own the rights to the GIFs I create?",
+        "answer": "Yes! All GIFs created through WaveSpeed include full commercial rights, allowing you to use them freely across platforms without extra fees."
+      },
+      {
+        "question": "What support resources are available for troubleshooting?",
+        "answer": "We offer extensive documentation, video guides, and access to our support team for any technical questions you may have. You can also find help in our community forums."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Create Your First Animated GIF?",
+    "description": "Start with free credits - Unleash your creativity",
+    "contactUsText": "Contact Us",
+    "tryText": "Create Your GIF Now →"
+  },
+  "footer": {
+    "heading": "Ready to Bring Your Images to Life?",
+    "description": "Try WaveSpeed AI now and experience the ease of GIF creation. No sign-up required.",
+    "ctaText": "Create GIFs Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

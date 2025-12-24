@@ -1,0 +1,221 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Background Changer for Video",
+  "meta": {
+    "description": "Seamlessly replace backgrounds in your videos with cutting-edge AI technology. Transform scenes effortlessly while enhancing your visual storytelling. Ideal for content creators and marketers. Experience the future of video production!",
+    "keywords": "AI background changer, video editing tool, AI video background removal, video production, content creation, video marketing, background replacement, WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Background Changer for Video",
+    "subHeading": "Transform Your Scenes Instantly",
+    "description": "Easily replace video backgrounds with stunning visuals powered by advanced AI technology. Create captivating content without the hassle of traditional editing tools. Join the revolution in video production today!",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Background Changer for Video Solution",
+    "left": {
+      "heading": "Traditional Editing Pitfalls",
+      "items": [
+        "Time-consuming background removal process",
+        "Requires expensive software and advanced skills",
+        "Limited flexibility for quick edits",
+        "Manual adjustments often lead to inconsistent results",
+        "High costs for small productions"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Transform backgrounds in just seconds",
+        "No special skills needed - Just upload your video",
+        "Instantly generate high-quality results with AI",
+        "Unlimited creativity with endless background options",
+        "Pay-per-use model that fits all budgets"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "From ordinary to extraordinary in 4 easy steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Your Video",
+        "text": "Start by uploading the video you want to edit",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Choose New Background",
+        "text": "Select from our extensive library of backgrounds or upload your own",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Customize Effects",
+        "text": "Optionally, fine-tune the integration and effects for a seamless look",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Your Video",
+        "text": "Receive your transformed video with the new background in minutes",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Create Your First Video →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Creative Possibilities",
+    "description": "Perfect for any video project",
+    "items": [
+      "Marketing videos with stunning visuals",
+      "Vlogs enhanced with memorable backgrounds",
+      "E-learning content made more engaging",
+      "Social media clips with dynamic scenes",
+      "Event highlight reels with customized settings",
+      "Brand storytelling with unique environments",
+      "Tutorials that captivate and inform",
+      "Real estate showcases with impactful locations"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how creators are enhancing their videos with AI",
+    "items": [
+      {
+        "tag": "Digital Content Creator",
+        "heading": "YouTube Vlog Transformation",
+        "before": {
+          "label": "Before",
+          "text": "Time-consuming and dull"
+        },
+        "after": {
+          "label": "After",
+          "text": "Engaging and professional"
+        },
+        "value": "90%",
+        "key": "Efficiency Improved",
+        "description": "In just hours, I transformed my videos with eye-catching backgrounds, which boosted viewer engagement!"
+      },
+      {
+        "tag": "E-learning Provider",
+        "heading": "Interactive Online Courses",
+        "before": {
+          "label": "Before",
+          "text": "Static presentations"
+        },
+        "after": {
+          "label": "After",
+          "text": "Dynamic learning experiences"
+        },
+        "value": "85%",
+        "key": "Engagement Increased",
+        "description": "Students are more focused with visually appealing backgrounds, significantly improving retention rates."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Model Comparison",
+    "description": "Select the right background integration for your project",
+    "items": [
+      "Standard Model: Basic background replacement, fast processing",
+      "Premium Model: High-definition backgrounds with intricate details",
+      "Custom Background Integration for tailored needs",
+      "Quick rendering time for efficient workflows",
+      "Supports 4K video output for top-tier quality"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore additional AI tools for your video projects"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What video formats are supported for background changing?",
+        "answer": "We support various video formats including MP4, MOV, and AVI. Ensure videos are of good quality for best results when changing backgrounds."
+      },
+      {
+        "question": "Can I use custom backgrounds?",
+        "answer": "Absolutely! Users can upload their own images or videos as backgrounds for complete creative freedom."
+      },
+      {
+        "question": "How fast can I expect my videos to be processed?",
+        "answer": "The background changing is remarkably quick, usually done within a few minutes depending on the video's length and complexity."
+      },
+      {
+        "question": "Is there a limit on the number of videos I can process?",
+        "answer": "No limits! You can process as many videos as you need, all under our flexible pricing structure."
+      },
+      {
+        "question": "Are there any specific system requirements?",
+        "answer": "Our platform is web-based and works on most modern browsers. However, a stable internet connection will provide the best experience."
+      },
+      {
+        "question": "Can I use the finished videos commercially?",
+        "answer": "Yes! All videos created through WaveSpeed come with commercial usage rights, allowing you to use them freely across various platforms."
+      },
+      {
+        "question": "What if I encounter issues during processing?",
+        "answer": "We offer comprehensive support including tutorials and a responsive support team available to assist with any concerns."
+      },
+      {
+        "question": "Can I share my finished videos directly on social media?",
+        "answer": "Yes! Once your video is processed, you can easily download it and share it directly on your preferred social media platforms."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Transform Your Videos?",
+    "description": "Start with free credits - Experience the AI magic today!",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Ready to Change Your Video Backgrounds?",
+    "description": "Try WaveSpeed AI now and see the impact for yourself. No sign-up needed.",
+    "ctaText": "Start Changing Backgrounds Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

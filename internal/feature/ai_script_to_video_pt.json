@@ -1,0 +1,221 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Gerador de Vídeo a partir de Roteiro com IA",
+  "meta": {
+    "description": "Transforme seus roteiros escritos em vídeos cativantes sem esforço. Aproveite a poderosa tecnologia de IA para aprimorar a narrativa em campanhas de marketing, redes sociais e muito mais. Experimente o futuro da criação de conteúdo!",
+    "keywords": "roteiro para vídeo IA, gerador de vídeo, criador de vídeo IA, ferramenta de criação de conteúdo em vídeo, ferramenta de vídeo para marketing, vídeo para redes sociais, produção de vídeo automatizada, vídeo para comércio eletrônico, narrativa em vídeo, automação de marketing, conteúdo de vídeo envolvente"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Mostruário",
+        "items": [
+          [
+            "Mostruário",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Roteiro para Vídeo",
+    "subHeading": "Transforme Conteúdo Escrito em Vídeos Envolventes",
+    "description": "Converta seus roteiros em vídeos dinâmicos em apenas alguns minutos. Sem filmagens ou edições necessárias. Impulsionado por uma IA de ponta, esta ferramenta revoluciona a narrativa e a criação de conteúdo para empresas e profissionais de marketing. Experimente uma transformação perfeita de roteiro para tela.",
+    "tryText": "Crie Seu Vídeo Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução de Roteiro para Vídeo da WaveSpeed AI",
+    "left": {
+      "heading": "Desafios da Criação de Vídeo Tradicional",
+      "items": [
+        "Altos custos de produção de vídeo ($2000-5000 por projeto)",
+        "Requer atores profissionais e equipes de vídeo",
+        "Longos tempos de edição e produção (vários dias)",
+        "Revisões e ajustes limitados",
+        "Processo ineficiente para criadores de conteúdo"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeedAI",
+      "items": [
+        "Transforme roteiros em vídeos em menos de 5 minutos",
+        "Sem equipe ou equipamentos necessários - Apenas insira seu roteiro",
+        "Geração instantânea de vídeo impulsionada por IA com aprimoramentos visuais",
+        "Edições e variações ilimitadas para necessidades específicas",
+        "Preços acessíveis de pagamento conforme o uso para todas as empresas"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "Conversão fácil de roteiro para vídeo em 4 etapas",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Inserir Roteiro",
+        "text": "Insira seu roteiro ou conteúdo de texto a ser transformado em vídeo",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Escolher Temas",
+        "text": "Selecione entre uma variedade de temas e estilos visuais",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Personalizar Visuais",
+        "text": "Adicione imagens, logotipos e sobreposições de texto para branding",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Baixar Vídeo",
+        "text": "Receba seu vídeo de alta qualidade pronto para compartilhar",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Crie Seu Primeiro Vídeo →"
+  },
+  "endlessPossibilities": {
+    "heading": "Aplicações Criativas Ilimitadas",
+    "description": "Ideal para diversas indústrias e propósitos",
+    "items": [
+      "Campanhas de marketing e vídeos promocionais",
+      "Conteúdo para redes sociais em plataformas como Instagram e TikTok",
+      "Conteúdo educacional e tutoriais",
+      "Vídeos explicativos de produtos",
+      "Materiais de treinamento interno",
+      "Destaques e recapitulações de eventos",
+      "Listagens de vídeo imobiliário",
+      "Criação de conteúdo para YouTube"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso com Roteiro para Vídeo",
+    "description": "Descubra como marcas estão inovando na criação de conteúdo",
+    "items": [
+      {
+        "tag": "Comércio Eletrônico",
+        "heading": "Aumentando Vendas Online",
+        "before": {
+          "label": "Antes",
+          "text": "Baixo envolvimento"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Altas taxas de conversão"
+        },
+        "value": "150%",
+        "key": "Aumento de Vendas",
+        "description": "Utilizou IA para transformar descrições de produtos em vídeos envolventes, resultando em um aumento significativo nas vendas em semanas."
+      },
+      {
+        "tag": "Educação",
+        "heading": "Desenvolvimento de Cursos Online",
+        "before": {
+          "label": "Antes",
+          "text": "Intensivo em tempo"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Rápido e eficiente"
+        },
+        "value": "80%",
+        "key": "Tempo Reduzido",
+        "description": "Criadores de cursos converteram rapidamente roteiros em vídeos, melhorando drasticamente os prazos de produção e a qualidade do curso."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Modelos de IA",
+    "description": "Encontre o modelo ideal para suas necessidades de vídeo",
+    "items": [
+      "Modo História: Narração profissional, visuais de alta qualidade, ideal para marketing",
+      "Captura Rápida: Processamento rápido, visuais dinâmicos, perfeito para redes sociais",
+      "Opções de personalização completas disponíveis com voz sintética, música de fundo e visuais temáticos",
+      "Integração perfeita com mídias e recursos existentes",
+      "Tempos de renderização eficientes de 1-3 minutos",
+      "Direitos de uso comercial incluídos para todos os vídeos gerados"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Explore soluções de IA adicionais poderosas para criadores"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo o que você precisa saber",
+    "items": [
+      {
+        "question": "Qual é a qualidade dos vídeos gerados pela IA?",
+        "answer": "Nossos vídeos gerados pela IA oferecem qualidade em alta definição, garantindo produção de qualidade profissional adequada para todas as plataformas, incluindo marketing e redes sociais."
+      },
+      {
+        "question": "Posso personalizar o estilo e os visuais do vídeo?",
+        "answer": "Sim! Você pode escolher entre vários temas e estilos, além de fazer upload de imagens e logotipos para fins de branding."
+      },
+      {
+        "question": "Quais tipos de roteiros funcionam melhor para geração de vídeo?",
+        "answer": "Roteiros que são concisos e envolventes geralmente funcionam melhor, mas nossa IA pode se adaptar a vários formatos, incluindo descrições detalhadas e narração."
+      },
+      {
+        "question": "Como isso difere da produção de vídeo tradicional?",
+        "answer": "Vídeos gerados por IA são criados de forma rápida e acessível, sem a necessidade de filmagens ou edições, proporcionando uma solução mais eficiente e econômica."
+      },
+      {
+        "question": "Existem direitos de uso para os vídeos gerados pela IA?",
+        "answer": "Sim, todos os vídeos feitos por meio de nossa plataforma incluem direitos de uso comercial completos sem taxas adicionais, permitindo que você os utilize livremente em marketing e vendas."
+      },
+      {
+        "question": "Qual é o modelo de preços para a geração de vídeo?",
+        "answer": "Usamos um modelo flexível de pagamento conforme o uso, com preços determinados pelo comprimento do roteiro e recursos selecionados, garantindo que você pague apenas pelo que precisa."
+      },
+      {
+        "question": "Com que rapidez os vídeos são gerados?",
+        "answer": "Normalmente, os vídeos são gerados dentro de 1-3 minutos, permitindo uma criação de conteúdo rápida sem atrasos."
+      },
+      {
+        "question": "Quais são alguns casos de uso comuns para a funcionalidade de roteiro para vídeo?",
+        "answer": "Esta funcionalidade é ideal para promoções de marketing, vídeos educacionais, apresentações de produtos, conteúdo para redes sociais e qualquer cenário que exija uma narrativa visual envolvente."
+      },
+      {
+        "question": "Que suporte está disponível para os usuários?",
+        "answer": "Oferecemos recursos abrangentes, incluindo tutoriais, documentação e suporte ao cliente responsivo para auxiliar com quaisquer perguntas ou resolução de problemas."
+      },
+      {
+        "question": "Posso melhorar meus vídeos após serem gerados?",
+        "answer": "Sim! Você pode personalizar e aprimorar seus vídeos após a criação com várias opções de edição disponíveis em nossa plataforma."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Transformar Seu Roteiro em Vídeo?",
+    "description": "Comece a criar com nossa ferramenta de IA - Experimente hoje!",
+    "contactUsText": "Entre em Contato",
+    "tryText": "Crie Seu Vídeo Agora →"
+  },
+  "footer": {
+    "heading": "Pronto para Transformar Seu Conteúdo?",
+    "description": "Experimente o WaveSpeed AI agora e veja a notável diferença. Sem necessidade de cadastro.",
+    "ctaText": "Crie Seu Vídeo Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

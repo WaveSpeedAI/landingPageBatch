@@ -1,0 +1,230 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - AI Video Face Swap",
+  "meta": {
+    "description": "Tukarkan wajah dalam video dengan mudah menggunakan teknologi AI canggih. Sempurna untuk membuat konten yang menarik dan dipersonalisasi dengan cepat dan mudah. Rasakan masa depan pengeditan video dengan WaveSpeed AI.",
+    "keywords": "AI video face swap, penggantian wajah, video editing AI, konten video yang dipersonalisasi, pertukaran wajah instan, alat pemasaran video, pertukaran wajah waktu nyata, video media sosial, video promosi, AI pembuatan konten"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Video Face Swap",
+    "subHeading": "Transformasi Wajah dalam Video Anda Secara Instan",
+    "description": "Tukarkan wajah dalam video dengan mudah untuk membuat konten yang dinamis dan menarik. Sempurna untuk pemasar dan pembuat konten yang ingin mempersonalisasi video mereka tanpa keterampilan teknis. Mulai hari ini!",
+    "tryText": "Coba Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi WaveSpeed AI Video Face Swap",
+    "left": {
+      "heading": "Tantangan Tradisional",
+      "items": [
+        "Pertukaran wajah memerlukan perangkat lunak yang rumit",
+        "Proses pengeditan manual yang memakan tenaga",
+        "Terbatas pada keterampilan dan pengalaman profesional",
+        "Penyesuaian dan pengeditan yang memakan waktu",
+        "Biaya tinggi untuk tim produksi video"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeed AI",
+      "items": [
+        "Tukarkan wajah dalam video secara instan dengan satu klik",
+        "Tidak diperlukan keterampilan pengeditan sebelumnya - Cukup unggah video",
+        "Hasil berbasis AI siap dalam beberapa saat",
+        "Uji berbagai pertukaran wajah dengan mudah",
+        "Solusi hemat biaya cocok untuk semua anggaran"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Tukarkan wajah dengan mulus dalam 4 langkah mudah",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Video",
+        "text": "Unggah video Anda di mana Anda ingin menukar wajah",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Pilih Wajah",
+        "text": "Pilih wajah yang ingin ditukar dalam bingkai video",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Sesuaikan Pengaturan",
+        "text": "Perhalus preferensi dan efek pertukaran wajah",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Unduh Hasil",
+        "text": "Dapatkan video Anda yang baru diedit dalam beberapa saat",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Buat Video Pertukaran Wajah Pertama Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Tanpa Batas",
+    "description": "Buka potensi kreatif untuk proyek video apapun",
+    "items": [
+      "Video pemasaran yang dipersonalisasi",
+      "Klip media sosial yang menyenangkan",
+      "Presentasi interaktif",
+      "Kampanye iklan yang berkesan",
+      "Cerita kreatif dan sketsa",
+      "Pameran talenta yang unik",
+      "Kenangan keluarga atau acara yang menarik",
+      "Pesan video yang disesuaikan"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Temukan bagaimana pengguna merevolusi proyek video mereka dengan AI",
+    "items": [
+      {
+        "tag": "Industri Hiburan",
+        "heading": "Konten Media Sosial Viral",
+        "before": {
+          "label": "Sebelum",
+          "text": "Pengeditan yang memakan waktu"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Hasil instan"
+        },
+        "value": "95%",
+        "key": "Waktu yang Dihemat",
+        "description": "Kami membuat video yang menarik dengan pertukaran wajah dalam waktu singkat, menghasilkan keterlibatan dan berbagi yang viral."
+      },
+      {
+        "tag": "Pemasaran",
+        "heading": "Kampanye yang Dipersonalisasi",
+        "before": {
+          "label": "Sebelum",
+          "text": "Produksi yang dialihdayakan"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Pengeditan internal"
+        },
+        "value": "90%",
+        "key": "Pengurangan Biaya",
+        "description": "Dengan AI, kami kini memproduksi video yang disesuaikan dengan cepat dan terjangkau, memperbaiki strategi pemasaran kami."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Model AI",
+    "description": "Pilih model yang tepat untuk kebutuhan pertukaran wajah Anda",
+    "items": [
+      "Model Standar: Pertukaran wajah cepat dengan kualitas yang layak",
+      "Model Premium: Retensi detail dan fidelitas tinggi",
+      "Kemampuan pemrosesan waktu nyata",
+      "Teknologi pemetaan wajah yang alami",
+      "Mendukung beberapa pertukaran wajah dalam satu video",
+      "Integrasi mulus dengan platform video yang ada"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Jelajahi lebih banyak solusi AI inovatif untuk kebutuhan video Anda"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Semua yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Kualitas video seperti apa yang dapat saya harapkan dengan pertukaran wajah?",
+        "answer": "AI kami memastikan video berkualitas tinggi dengan pertukaran wajah yang jelas dan realistis yang mempertahankan tampilan dan nuansa alami konten Anda. Harapkan hasil profesional siap untuk berbagai platform."
+      },
+      {
+        "question": "Bisakah saya menyesuaikan efek pertukaran wajah?",
+        "answer": "Tentu saja! Anda dapat menyesuaikan derajat pertukaran wajah, menerapkan filter unik, dan mengatur preferensi tentang bagaimana pertukaran terintegrasi dengan video asli."
+      },
+      {
+        "question": "Jenis video apa yang paling cocok untuk pertukaran wajah?",
+        "answer": "Video dengan visibilitas wajah yang jelas memberikan hasil terbaik, meskipun AI dapat menangani berbagai adegan. Pastikan video Anda terang dan fokus untuk kualitas optimal."
+      },
+      {
+        "question": "Bagaimana ini berbeda dari pengeditan video tradisional?",
+        "answer": "Pertukaran wajah berbasis AI mengotomatisasi dan menyederhanakan proses, menawarkan hasil cepat dengan teknologi canggih yang bersaing dengan presisi pengeditan manual, menghemat waktu dan usaha Anda."
+      },
+      {
+        "question": "Bisakah saya menyesuaikan atau meningkatkan video yang ditukar setelah generasi?",
+        "answer": "Ya! Anda dapat memperhalus keluaran menggunakan alat pengeditan kami untuk meningkatkan hasil akhir, menerapkan efek tambahan atau penyesuaian sesuai kebutuhan."
+      },
+      {
+        "question": "Apa model harga untuk pertukaran wajah?",
+        "answer": "WaveSpeed beroperasi dengan model bayar sesuai pemakaian, hanya dikenakan biaya untuk video yang Anda hasilkan tanpa biaya tersembunyi. Harga bervariasi berdasarkan durasi video dan model yang dipilih."
+      },
+      {
+        "question": "Berapa lama proses pertukaran wajah?",
+        "answer": "Biasanya, pertukaran wajah diselesaikan dalam hitungan detik, memungkinkan Anda bekerja secara efisien tanpa waktu tunggu yang lama. Beberapa pertukaran dapat diproses secara bersamaan."
+      },
+      {
+        "question": "Apa aplikasi terbaik untuk teknologi pertukaran wajah?",
+        "answer": "Ideal untuk video pemasaran, konten media sosial, pesan yang dipersonalisasi, dan proyek kreatif lainnya di mana elemen video yang disesuaikan meningkatkan keterlibatan pemirsa."
+      },
+      {
+        "question": "Apakah saya memiliki hak atas video yang dibuat dengan pertukaran wajah?",
+        "answer": "Ya! Semua video yang diproduksi dengan layanan kami dilengkapi dengan hak penggunaan komersial penuh—gunakan dengan bebas dalam iklan, media sosial, atau pengaturan komersial lainnya."
+      },
+      {
+        "question": "Sumber daya dukungan apa yang tersedia?",
+        "answer": "Kami menyediakan panduan rinci, tutorial, dan dukungan khusus melalui email dan obrolan untuk membantu dengan masalah teknis apa pun, memastikan Anda mendapatkan yang terbaik dari platform kami."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Membuat Video Pertukaran Wajah Pertama Anda?",
+    "description": "Mulai dengan kredit gratis - Temukan kekuatan pengeditan video AI hari ini",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Coba Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap untuk Mengubah Video Anda?",
+    "description": "Rasakan masa depan pengeditan video dengan WaveSpeed AI hari ini. Tanpa perlu mendaftar.",
+    "ctaText": "Mulai Tukar Wajah Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi undang-undang."
+  }
+}

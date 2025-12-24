@@ -1,0 +1,214 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Auto Tagging",
+  "meta": {
+    "description": "Seamlessly tag products in your images with AI-driven auto tagging. Enhance your e-commerce workflow with precision and speed. Perfect for online retailers looking to optimize their product listings and improve searchability. Sign up and experience the efficiency!",
+    "keywords": "auto tagging, AI tagging, product tagging, e-commerce automation, AI image labeling, workflow optimization, Shopify tagging, Amazon product management, digital asset management"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "AI Auto Tagging",
+    "subHeading": "Effortlessly Tag Your Products with Precision",
+    "description": "Automatically generate accurate tags for your product images in seconds. Eliminate manual tagging efforts and enhance your product discoverability. Revolutionize your e-commerce processes with our state-of-the-art technology.",
+    "tryText": "Start Tagging Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Auto Tagging Solution",
+    "left": {
+      "heading": "Traditional Tagging Challenges",
+      "items": [
+        "Manual tagging is time-consuming and labor-intensive",
+        "High potential for human error in tagging",
+        "Inconsistent tagging across different products",
+        "Difficult to manage large inventories effectively",
+        "Limited scalability for growing businesses"
+      ]
+    },
+    "right": {
+      "heading": "Streamlined AI Auto Tagging Solution",
+      "items": [
+        "Instantly generate relevant tags for product images",
+        "Reduce manual effort and minimize errors",
+        "Consistent and accurate tagging across your catalog",
+        "Easily manage extensive product inventories",
+        "Scalable solution that grows with your business"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Achieve automated tagging in 4 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Image",
+        "text": "Submit your product image for tagging solutions",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "AI Processing",
+        "text": "Let the AI analyze the image and determine optimal tags",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Review Tags",
+        "text": "Examine and modify suggested tags for accuracy",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Apply Tags",
+        "text": "Implement the tags directly into your product listings",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Start Automated Tagging →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Tagging Possibilities",
+    "description": "Perfect for various e-commerce applications",
+    "items": [
+      "Product inventory management",
+      "Improving search results in online stores",
+      "Enhanced customer browsing experience",
+      "Faster listing updates for seasonal offers",
+      "Streamlining digital asset organization",
+      "Facilitating multi-platform listings"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "See how businesses have transformed with AI",
+    "items": [
+      {
+        "tag": "Fashion Retail",
+        "heading": "E-commerce Clothing Store",
+        "before": {
+          "label": "Before",
+          "text": "10 hours weekly"
+        },
+        "after": {
+          "label": "After",
+          "text": "1 hour weekly"
+        },
+        "value": "90%",
+        "key": "Time Saved",
+        "description": "With automated tagging, we reduced our product update time significantly, resulting in quicker go-to-market for new items."
+      },
+      {
+        "tag": "Home Goods",
+        "heading": "Online Home Decor Store",
+        "before": {
+          "label": "Before",
+          "text": "Inconsistent tags"
+        },
+        "after": {
+          "label": "After",
+          "text": "Accurate tagging"
+        },
+        "value": "99.7%",
+        "key": "Tag Accuracy",
+        "description": "The AI improved our tag consistency, which boosts our search rankings and customer satisfaction."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Tagging Model Comparison",
+    "description": "Choose the right tagging solutions for your needs",
+    "items": [
+      "Standard Tagger: General quality tags for multiple product types",
+      "Premium Tagger: High-quality, niche-specific tags for better accuracy",
+      "In-built semantic analysis for contextual tagging",
+      "Supports integration with popular e-commerce platforms",
+      "Fast processing times with real-time tagging updates"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore more powerful AI tools for e-commerce"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "How accurate are the auto-generated tags?",
+        "answer": "Our AI provides high accuracy in tag generation. Continuous improvement through machine learning ensures relevance to your product catalog."
+      },
+      {
+        "question": "Can I edit the automatically generated tags?",
+        "answer": "Yes! After AI processing, you can review and modify the tags to fit your specific needs."
+      },
+      {
+        "question": "What types of images work best for tagging?",
+        "answer": "Clear, well-lit product images yield the best results for accurate tagging. The AI can also work with a variety of product types."
+      },
+      {
+        "question": "Is there a limit to the number of images I can upload?",
+        "answer": "No! You can upload as many images as you need for tagging. The system handles batch uploads seamlessly."
+      },
+      {
+        "question": "Do I need to provide descriptions or context for tagging?",
+        "answer": "No, the AI analyzes the image independently to generate relevant tags, making the process incredibly efficient."
+      },
+      {
+        "question": "What if I have a large inventory?",
+        "answer": "Our solution scales effectively, allowing efficient tagging for extensive product listings without slowing down."
+      },
+      {
+        "question": "How quickly can I expect my images to be tagged?",
+        "answer": "Tagging typically occurs in seconds per image, allowing you to update your listings in real time."
+      },
+      {
+        "question": "What are the commercial rights for auto-generated tags?",
+        "answer": "You retain full rights to use, modify, and apply the tags in any manner for your business."
+      },
+      {
+        "question": "What support resources are available?",
+        "answer": "We provide documentation, tutorials, and customer support to help you maximize your tagging efficiency."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Optimize Your Product Tagging?",
+    "description": "Start using AI Auto Tagging today - Sign up for free credits!",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Ready to Enhance Your E-commerce Listings?",
+    "description": "Experience the power of AI Auto Tagging today. No sign-up required.",
+    "ctaText": "Start Tagging Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Resumo de Vídeo com IA",
+  "meta": {
+    "description": "Crie rapidamente resumos concisos dos seus vídeos com IA. Simplifique narrativas longas em vídeos envolventes de forma fácil. Ideal para empresas que buscam aprimorar a comunicação e o engajamento. Promoções de Black Friday disponíveis!",
+    "keywords": "resumo de vídeo com IA, ferramenta de resumo de vídeo, edição de vídeo automatizada, criador de vídeos concisos, marketing de conteúdo, resumos de IA, comunicação eficiente, ferramenta de vídeo empresarial, impulsionador de engajamento, conversor de vídeo para marketing, resumo de vídeo para mídias sociais"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de IA",
+        "items": [
+          [
+            "Ferramentas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Demonstração",
+        "items": [
+          [
+            "Demonstração",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Resumo de Vídeo com IA",
+    "subHeading": "Dê Vida ao Seu Conteúdo com Resumos Envolventes",
+    "description": "Transforme vídeos longos em resumos cativantes em apenas minutos. Utilize tecnologia de IA de ponta para simplificar seu conteúdo e manter a atenção dos espectadores. Comece hoje mesmo!",
+    "tryText": "Crie Meu Resumo Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução de Resumo de Vídeo com IA WaveSpeed AI",
+    "left": {
+      "heading": "Desafios Tradicionais",
+      "items": [
+        "A sumarização manual consome muito tempo",
+        "Altos custos de produção para recapitulações em vídeo",
+        "Entrega e clareza de mensagem inconsistentes",
+        "Dificuldade em manter o público engajado",
+        "Uso limitado de vídeo na comunicação"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeed AI",
+      "items": [
+        "Automatize a sumarização de vídeo em minutos",
+        "Sem necessidade de expertise técnica - Basta fazer o upload",
+        "Engajamento rápido através de conteúdo impulsionado por IA",
+        "Múltiplos estilos de resumo para escolher",
+        "Preços flexíveis - Acessível para todos"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "Transforme vídeos longos em resumos concisos em 4 etapas simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Carregar Vídeo",
+        "text": "Escolha seu vídeo longo para resumir",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Personalizar Resumo",
+        "text": "Opcional: Forneça pontos ou seções-chave para focar",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Selecionar Estilo",
+        "text": "Escolha um estilo de resumo que se encaixe na voz da sua marca",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Baixar Vídeo Resumido",
+        "text": "Receba seu resumo conciso em minutos, pronto para compartilhar",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Gere Seu Primeiro Resumo →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilidades Infinitas",
+    "description": "Perfeito para uma variedade de casos de uso",
+    "items": [
+      "Resumos de vídeo promocionais para produtos",
+      "Resumos de postagens em mídias sociais",
+      "Recapitulações de treinamentos corporativos",
+      "Depoimentos de usuários e estudos de caso",
+      "Vídeos de destaques de eventos",
+      "Resumos de webinars e apresentações",
+      "Destaques de vídeos do YouTube",
+      "Recapitulações de episódios de podcasts"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias Reais de Sucesso",
+    "description": "Empresas revolucionando sua estratégia de conteúdo com IA",
+    "items": [
+      {
+        "tag": "Indústria de Tecnologia",
+        "heading": "Resumo para Demonstrações de Produtos",
+        "before": {
+          "label": "Antes",
+          "text": "5 horas para edição"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "15 minutos usando IA"
+        },
+        "value": "90%",
+        "key": "Economia de Tempo",
+        "description": "Nossa equipe reduziu drasticamente o tempo de edição e melhorou a retenção de espectadores com resumos de vídeo envolventes."
+      },
+      {
+        "tag": "E-learning",
+        "heading": "Vídeos de Visão Geral de Cursos",
+        "before": {
+          "label": "Antes",
+          "text": "Edições manuais de vídeo levavam muito tempo"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Resumos instantâneos com IA"
+        },
+        "value": "95%",
+        "key": "Ganho de Eficiência",
+        "description": "Aprimoramos a forma como os alunos interagem com o material do curso ao entregar resumos de vídeo claros e concisos instantaneamente."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Modelos de IA",
+    "description": "Escolha o modelo mais adequado para suas necessidades de sumarização",
+    "items": [
+      "Veo 3.1: Resumos detalhados com visuais envolventes e transições",
+      "Seedance I2V: Resumos rápidos e diretos para entrega ágil",
+      "Capacidades de sumarização de texto que garantem clareza nos pontos principais",
+      "Transições suaves que mantêm o engajamento do espectador",
+      "Geração de resumos em 1-2 minutos",
+      "Direitos de uso comercial incluídos"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Descubra mais soluções inovadoras de IA para suas necessidades"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo o que você precisa saber",
+    "items": [
+      {
+        "question": "Que tipo de vídeos podem ser resumidos?",
+        "answer": "Nossa ferramenta funciona melhor com vários tipos de vídeos, incluindo sessões de treinamento, conteúdo promocional, entrevistas e apresentações. Vídeos simples a complexos podem ser destilados em resumos envolventes que destacam os pontos principais de forma eficaz."
+      },
+      {
+        "question": "Posso personalizar o layout do resumo?",
+        "answer": "Sim! Você pode escolher entre vários estilos de resumo para combinar com sua marca e formato desejado. Personalize o foco e a apresentação para garantir que esteja alinhado com sua mensagem."
+      },
+      {
+        "question": "Quanto tempo leva para fazer a sumarização?",
+        "answer": "Normalmente, o processo de sumarização leva apenas 1-2 minutos, independentemente da duração do vídeo. Aproveite resultados rápidos que acompanham suas necessidades de eficiência."
+      },
+      {
+        "question": "Existem limitações no comprimento do vídeo para sumarização?",
+        "answer": "Nossa ferramenta pode lidar com vídeos de diversos comprimentos. No entanto, para melhores resultados, recomendamos seguir padrões típicos da indústria para a duração dos vídeos ao enviar conteúdo."
+      },
+      {
+        "question": "Posso editar o resumo após a geração?",
+        "answer": "Absolutamente! Embora nossa IA forneça um resumo refinado, você tem a flexibilidade de ajustar e modificar ainda mais usando suas ferramentas de edição preferidas para maior impacto."
+      },
+      {
+        "question": "Qual é a estrutura de preços para usar a ferramenta de sumarização?",
+        "answer": "A WaveSpeed opera em um modelo de pagamento conforme o uso. Você paga apenas pelos resumos gerados, permitindo controle orçamentário e flexibilidade, sem custos ocultos."
+      },
+      {
+        "question": "Eu mantenho os direitos sobre os resumos gerados?",
+        "answer": "Sim! Todos os resumos criados com nossa ferramenta de IA vêm com direitos comerciais completos, permitindo uso irrestrito sem taxas adicionais de licenciamento."
+      },
+      {
+        "question": "Há suporte ao cliente disponível?",
+        "answer": "Sim! Oferecemos suporte abrangente, incluindo FAQs detalhadas, documentação e uma equipe de atendimento ao cliente responsiva para ajudar com perguntas e necessidades de solução de problemas."
+      },
+      {
+        "question": "Quais formatos posso fazer upload para sumarização?",
+        "answer": "Suportamos uma variedade de formatos de vídeo, incluindo MP4, MOV e AVI. Certifique-se de que seu conteúdo esteja claro e de alta qualidade para obter os melhores resultados de sumarização."
+      },
+      {
+        "question": "Posso gerar vários resumos ao mesmo tempo?",
+        "answer": "Sim! Nossa ferramenta suporta processamento em lote, permitindo que você gere resumos para vários vídeos simultaneamente, tornando-o eficiente e sem complicações."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Simplificar Seu Conteúdo?",
+    "description": "Comece com créditos gratuitos - Experimente a diferença hoje",
+    "contactUsText": "Entre em Contato",
+    "tryText": "Experimente Agora →"
+  },
+  "footer": {
+    "heading": "Transforme Seus Vídeos Agora!",
+    "description": "Experimente a WaveSpeed AI hoje e testemunhe a sumarização de vídeo sem esforço. Não é necessário cadastro.",
+    "ctaText": "Resumir Meu Vídeo Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Generator Desain Interior AI",
+  "meta": {
+    "description": "Revolusioner proyek desain interior Anda dengan generator yang didorong oleh AI kami. Visualisasikan ruang Anda secara instan dengan desain ruangan yang menakjubkan yang disesuaikan dengan gaya dan preferensi Anda. Permudah proses desain Anda dengan teknologi inovatif WaveSpeed.",
+    "keywords": "desain interior AI, visualisasi ruangan, inspirasi dekorasi rumah, desainer interior virtual, alat perencanaan ruang, generator desain interior, perangkat lunak penataan rumah, solusi desain otomatis, tata letak ruangan kustom, ide perbaikan rumah, mockup desain"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Tampilkan",
+        "items": [
+          [
+            "Tampilkan",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Generator Desain Interior AI",
+    "subHeading": "Hidupkan Imajinasi Anda dalam Hitungan Detik",
+    "description": "Ubah ruang apa pun menjadi interior impian Anda dengan generator AI kami. Unggah foto ruangan Anda, dan biarkan teknologi kami membuat desain menakjubkan yang sesuai dengan estetika Anda. Mulai mendesain ruang ideal Anda hari ini!",
+    "tryText": "Mulai Mendesain Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Generator Desain Interior AI WaveSpeed AI",
+    "left": {
+      "heading": "Tantangan Desain Tradisional",
+      "items": [
+        "Biaya tinggi untuk desainer interior ($2000-8000 per proyek)",
+        "Revisi terbatas dan waktu penyelesaian yang lambat",
+        "Ketergantungan pada sampel fisik dan showroom",
+        "Alat desain yang rumit yang memerlukan pelatihan",
+        "Pilihan yang berlebihan dapat membuat pengambilan keputusan terhambat"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeedAI",
+      "items": [
+        "Konsep desain instan yang dihasilkan dalam hitungan menit",
+        "Tidak perlu pengetahuan ahli—cukup unggah gambar",
+        "Iterasi tak terbatas untuk menyempurnakan visi Anda",
+        "Jelajahi berbagai gaya dan opsi desain",
+        "Model bayar-per-desain yang terjangkau untuk semua anggaran"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Buat ruang sempurna Anda dalam 4 langkah sederhana",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Foto Ruang",
+        "text": "Unggah gambar ruangan yang ingin Anda desain",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Pilih Gaya Anda",
+        "text": "Pilih gaya desain yang Anda sukai (misalnya, modern, nyaman, industri)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Kustomisasi Elemen",
+        "text": "Tambahkan atau hilangkan furnitur, warna, dan barang dekor yang Anda bayangkan",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Unduh Mockup Desain",
+        "text": "Dapatkan tata letak desain kustom Anda dalam hitungan menit",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Hasilkan Desain Pertama Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Desain Tanpa Batas",
+    "description": "Sempurna untuk ruang atau kebutuhan desain apa pun",
+    "items": [
+      "Transformasi ruang tamu",
+      "Ide dekorasi kamar tidur",
+      "Perubahan dapur",
+      "Optimasi ruang kantor",
+      "Desain apartemen kecil",
+      "Area luar ruangan yang bergaya",
+      "Perencanaan ruang acara",
+      "Penataan ruang bayi"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Lihat bagaimana klien mengubah interior mereka dengan AI",
+    "items": [
+      {
+        "tag": "Renovasi Rumah",
+        "heading": "Perubahan Kecil yang Nyaman",
+        "before": {
+          "label": "Sebelum",
+          "text": "Ketinggalan zaman dan sempit"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Luas dan mengundang"
+        },
+        "value": "150%",
+        "key": "Kepuasan Klien",
+        "description": "Dengan Generator AI, kami menghidupkan kembali pondok kami dalam sehari! Keluarga menyukai desain baru."
+      },
+      {
+        "tag": "Kantor Modern",
+        "heading": "Desain Ulang Ruang Kerja Korporat",
+        "before": {
+          "label": "Sebelum",
+          "text": "Datar dan tidak menginspirasi"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Cerah dan modern"
+        },
+        "value": "120%",
+        "key": "Kebahagiaan Karyawan",
+        "description": "Tata letak kantor baru meningkatkan produktivitas dan kreativitas, semua berkat WaveSpeed!"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Model AI",
+    "description": "Pilih model desain yang tepat untuk kebutuhan Anda",
+    "items": [
+      "Gaya Modern: Garis ramping, pendekatan minimalis, serbaguna",
+      "Gaya Nyaman: Warna hangat, tekstur lembut, suasana nyaman",
+      "Gaya Industri: Elemen mentah, finishing modern, pernyataan berani",
+      "Gaya Bohemian: Campuran eklektik, warna cerah, sentuhan artistik",
+      "Gaya Tradisional: Dekor klasik, furnitur elegan, daya tarik yang abadi",
+      "Gaya Transisi: Campuran seimbang antara tradisional dan modern",
+      "Gaya Kontemporer: Tren terkini, ruang terbuka, estetika segar"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Temukan lebih banyak solusi AI untuk rumah dan desain"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Semua yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Gaya desain apa yang dapat saya buat?",
+        "answer": "Generator AI kami menawarkan berbagai gaya termasuk modern, nyaman, industri, bohemian, dan tradisional—memungkinkan Anda untuk dengan mudah menciptakan tampilan sempurna untuk ruangan mana pun."
+      },
+      {
+        "question": "Dapatkah saya mengubah tata letak furnitur?",
+        "answer": "Ya! Anda dapat menarik dan menjatuhkan elemen furnitur dalam mockup desain untuk menemukan pengaturan yang sempurna sesuai ruang Anda."
+      },
+      {
+        "question": "Jenis gambar apa yang paling baik untuk diunggah?",
+        "answer": "Foto ruang Anda yang jelas dan terang memberikan hasil terbaik. Sebaiknya, gambar harus menangkap seluruh ruangan dengan sedikit kekacauan."
+      },
+      {
+        "question": "Berapa banyak desain yang dapat sayahasilkan sekaligus?",
+        "answer": "Anda dapat menghasilkan beberapa desain secara bersamaan, memungkinkan Anda untuk bereksperimen dengan berbagai gaya dan tata letak dengan mudah."
+      },
+      {
+        "question": "Apakah ada batasan pada revisi desain?",
+        "answer": "Tidak, Anda dapat melakukan sebanyak mungkin revisi yang Anda inginkan sampai Anda sepenuhnya puas dengan desain Anda!"
+      },
+      {
+        "question": "Apa model harga untuk Generator Desain Interior AI?",
+        "answer": "WaveSpeed beroperasi dengan model bayar-sesuai-penggunaan, memungkinkan Anda untuk membayar hanya untuk desain yang Anda hasilkan tanpa langganan."
+      },
+      {
+        "question": "Seberapa cepat saya akan mendapatkan desain saya?",
+        "answer": "Desain dihasilkan dalam waktu sesingkat beberapa menit, membuatnya mudah untuk memvisualisasikan ide-ide Anda dengan cepat!"
+      },
+      {
+        "question": "Dapatkah saya menyimpan desain saya untuk digunakan nanti?",
+        "answer": "Tentu saja! Anda dapat menyimpan desain Anda untuk dilihat dan dimodifikasi kapan saja."
+      },
+      {
+        "question": "Apakah ada hak komersial untuk desain yang dihasilkan?",
+        "answer": "Ya! Semua desain yang dihasilkan melalui WaveSpeed mencakup hak penuh untuk penggunaan pribadi dan komersial."
+      },
+      {
+        "question": "Dukungan apa yang tersedia untuk pemecahan masalah?",
+        "answer": "Kami menyediakan dukungan komprehensif termasuk tutorial, FAQ, dan layanan pelanggan untuk membantu Anda dengan masalah apa pun."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Mendesain Ruang Impian Anda?",
+    "description": "Mulai dengan kredit gratis - Alami transformasi untuk diri Anda sendiri",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Mulai Mendesain Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap untuk Merombak Ruang Anda?",
+    "description": "Coba WaveSpeed AI sekarang dan saksikan ide interior Anda hidup. Tidak perlu mendaftar.",
+    "ctaText": "Perbarui Ruang Anda Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi."
+  }
+}

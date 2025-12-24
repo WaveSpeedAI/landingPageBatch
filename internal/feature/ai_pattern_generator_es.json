@@ -1,0 +1,229 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Generador de Patrones AI",
+  "meta": {
+    "description": "Crea patrones textiles únicos sin esfuerzo con WaveSpeed AI. Utiliza lo último en tecnología AI para generar diseños personalizados adecuados para la moda, interiores y más. ¡Experimenta una creatividad y eficiencia incomparables hoy!",
+    "keywords": "generador de patrones AI, diseño textil AI, patrones de tela personalizados, herramienta de diseño de moda, patrones de diseño de interiores, wave speed AI, generador de diseño creativo, creador de patrones automatizado, impresiones textiles únicas, soluciones de diseño para comercio electrónico"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas AI",
+        "items": [
+          [
+            "Herramientas AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Muestra",
+        "items": [
+          [
+            "Muestra",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Generación de Patrones Hecha Fácil",
+    "subHeading": "Crea Diseños Únicos sin Esfuerzo",
+    "description": "Genera patrones textiles únicos en segundos utilizando IA de vanguardia. Perfecto para diseñadores, marcas y cualquier persona que busque crear telas destacadas. ¡Comienza tu viaje creativo hoy!",
+    "tryText": "Pruébalo Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución Generador de Patrones AI WaveSpeed",
+    "left": {
+      "heading": "Desafíos de Diseño Tradicional",
+      "items": [
+        "Proceso de diseño manual que consume tiempo",
+        "Iteraciones de diseño limitadas",
+        "Altos costos para freelancers y software de diseño",
+        "Necesidad de amplias habilidades de diseño",
+        "Calidad inconsistente del diseño en productos"
+      ]
+    },
+    "right": {
+      "heading": "Solución WaveSpeed AI",
+      "items": [
+        "Genera patrones únicos en menos de un minuto",
+        "No se requieren habilidades de diseño - Solo ingresa tus ideas",
+        "Variaciones y estilos ilimitados para explorar",
+        "Escalable para cualquier número de diseños",
+        "Precios asequibles adaptados a empresas"
+      ],
+      "tryText": "Prueba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "Crea patrones distintivos en 4 pasos simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Ingresa Tu Idea",
+        "text": "Describe el estilo o el tema que deseas para tus patrones",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Selecciona la Paleta de Colores",
+        "text": "Elige los colores que mejor se adapten a tu marca o proyecto",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Opciones de Personalización",
+        "text": "Refina la complejidad y textura de tus patrones",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Descarga Tu Patrón",
+        "text": "Recibe patrones en alta resolución listos para la producción",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Genera Tu Primer Patrón →"
+  },
+  "endlessPossibilities": {
+    "heading": "Oportunidades de Diseño Sin Fin",
+    "description": "Ideal para cada proyecto creativo",
+    "items": [
+      "Diseños de tela de moda para prendas",
+      "Textiles para decoración del hogar",
+      "Patrones de ropa de cama y tapicería",
+      "Papeles pintados únicos",
+      "Diseños de superficie creativos para productos",
+      "Opciones de textiles ecológicos",
+      "Patrones personalizados para eventos",
+      "Proyectos artísticos y manualidades"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Descubre cómo las marcas están redefiniendo sus diseños con IA",
+    "items": [
+      {
+        "tag": "Industria de la Moda",
+        "heading": "Línea de Ropa Innovadora",
+        "before": {
+          "label": "Antes",
+          "text": "Ciclos de diseño largos"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Generación de patrones instantánea"
+        },
+        "value": "98%",
+        "key": "Eficiencia del Tiempo",
+        "description": "Pudimos lanzar nuestra nueva colección semanas antes de lo previsto creando patrones únicos en minutos."
+      },
+      {
+        "tag": "Artículos para el Hogar",
+        "heading": "Colección de Ropa de Cama",
+        "before": {
+          "label": "Antes",
+          "text": "Diseños estándar"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Patrones personalizados"
+        },
+        "value": "95%",
+        "key": "Singularidad del Diseño",
+        "description": "Nuestros productos ahora se destacan con patrones exclusivos generados por la IA, haciendo que nuestra marca sea más atractiva."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Modelos AI",
+    "description": "Encuentra las opciones adecuadas para tus diseños de patrones",
+    "items": [
+      "Modelo Básico: Generación rápida, calidad estándar, adecuado para diseños iniciales",
+      "Modelo Premium: Calidad mejorada y complejidad de patrones para necesidades avanzadas",
+      "Control de color para los mejores resultados según los requisitos de la marca",
+      "Tiempo de generación rápido para pruebas de prototipos rápidas",
+      "Derechos de uso comercial incluidos para todos los patrones generados"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas AI Relacionadas",
+    "description": "Explora más herramientas de diseño innovadoras para creativos"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué tipo de diseños puedo crear con el generador de patrones?",
+        "answer": "Puedes crear una amplia gama de patrones textiles, incluyendo florales, geométricos, abstractos y diseños temáticos, perfectos para la moda, interiores y proyectos artísticos."
+      },
+      {
+        "question": "¿Cómo aseguro que los patrones sean únicos?",
+        "answer": "Cada patrón se genera en función de tu entrada, lo que permite variaciones prácticamente ilimitadas. Puedes personalizar colores y estilos para completa originalidad."
+      },
+      {
+        "question": "¿En qué formatos de archivo están disponibles los patrones generados?",
+        "answer": "Los patrones están disponibles en varios formatos, incluyendo JPEG, PNG y archivos vectoriales adecuados para impresión y uso digital."
+      },
+      {
+        "question": "¿Puedo editar los patrones generados aún más?",
+        "answer": "¡Sí! Una vez que descargues los patrones, puedes utilizar software de diseño gráfico para modificarlos según sea necesario para tus proyectos específicos."
+      },
+      {
+        "question": "¿Hay un límite en cuántos patrones puedo generar?",
+        "answer": "No, puedes generar tantos patrones como necesites, lo que lo hace escalable para pequeños proyectos o grandes colecciones."
+      },
+      {
+        "question": "¿Cómo funciona el precio para la generación de patrones?",
+        "answer": "WaveSpeed utiliza un modelo de pago por uso, lo que te permite pagar solo por los patrones que generas, haciéndolo económico y flexible."
+      },
+      {
+        "question": "¿Con qué rapidez puedo esperar recibir mis patrones?",
+        "answer": "La generación de patrones es típicamente instantánea, lo que te permite comenzar tu proceso de diseño sin demoras."
+      },
+      {
+        "question": "¿Hay derechos de uso que deba tener en cuenta?",
+        "answer": "¡Sí! Todos los patrones generados vienen con plenos derechos comerciales, dándote completa libertad para usarlos en tus proyectos."
+      },
+      {
+        "question": "¿Qué soporte está disponible si necesito ayuda?",
+        "answer": "Nuestro equipo de soporte está aquí para asistirte con cualquier pregunta a través de correo electrónico o chat, asegurando que tengas todos los recursos que necesitas para tener éxito."
+      },
+      {
+        "question": "¿Las empresas pueden usar la herramienta para necesidades de diseño a gran escala?",
+        "answer": "¡Absolutamente! La herramienta es perfecta para empresas que requieren un alto volumen de patrones únicos y ofrece opciones eficientes de generación en lotes."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Empezar a Crear Patrones Únicos?",
+    "description": "Regístrate ahora y explora tu creatividad con créditos gratis",
+    "contactUsText": "Contáctanos",
+    "tryText": "Pruébalo Ahora →"
+  },
+  "footer": {
+    "heading": "¡Transforma Tu Proceso de Diseño Hoy!",
+    "description": "Prueba WaveSpeed AI ahora y ve de primera mano cuán fácil es generar patrones impresionantes. No se requiere registro.",
+    "ctaText": "Crea Patrones Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

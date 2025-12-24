@@ -1,0 +1,221 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Penggabungan Video AI",
+  "meta": {
+    "description": "Gabungkan beberapa klip video menjadi cerita yang kohesif dan menarik dengan AI. Sempurna untuk pembuat konten, pemasar, dan pendidik yang ingin meningkatkan proyek video mereka dengan mudah. Alami masa depan pengeditan video dengan WaveSpeed AI!",
+    "keywords": "penggabungan video AI, alat pengeditan video, menggabungkan klip video, aplikasi video AI, alat pembuatan konten, penggabungan video pemasaran, editor video pendidikan, transisi video yang mulus, perakitan video otomatis, alat penceritaan video"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Penggabungan Video",
+    "subHeading": "Gabungkan Video Anda dengan Mudah",
+    "description": "Gabungkan video dengan transisi dan efek yang menakjubkan hanya dalam beberapa klik. Tidak perlu perangkat lunak pengeditan yang rumit. Sempurna untuk pembuat konten, pemasar, dan pendidik. Ubah proyek video Anda hari ini!",
+    "tryText": "Gabungkan Video Anda Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Penggabungan Video WaveSpeed AI",
+    "left": {
+      "heading": "Hambatan Pengeditan Tradisional",
+      "items": [
+        "Perangkat lunak pengeditan yang rumit diperlukan",
+        "Pemotongan dan transisi manual yang memakan waktu",
+        "Memerlukan keterampilan teknis dan pengalaman",
+        "Keterbatasan fleksibilitas kreatif dengan transisi",
+        "Opsi pengeditan lepas yang mahal"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeed AI",
+      "items": [
+        "Gabungkan video secara instan dengan satu klik",
+        "Tidak perlu pengalaman pengeditan - Cukup unggah klip",
+        "Transisi otomatis untuk hasil yang rapi",
+        "Kemungkinan kreatif tanpa batas dengan gaya dan efek",
+        "Harga terjangkau bayar sesuai pemakaian - Sempurna untuk semua orang"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Gabungkan video Anda dalam 4 langkah sederhana",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Video",
+        "text": "Unggah klip video yang ingin Anda gabungkan",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Pilih Transisi",
+        "text": "Pilih transisi dan efek yang akan diterapkan di antara klip",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Atur Klip",
+        "text": "Seret dan jatuhkan untuk mengatur klip dalam urutan yang diinginkan",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Unduh Video Akhir",
+        "text": "Dapatkan video gabungan Anda dalam kualitas HD secara instan",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Buat Video Pertama Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Tanpa Batas dengan Penggabungan Video",
+    "description": "Ideal untuk setiap gaya konten atau tujuan",
+    "items": [
+      "Vlog dan cerita pribadi",
+      "Video promosi pemasaran",
+      "Rangkaian tutorial pendidikan",
+      "Sorotan dan rekap acara",
+      "Kompilasi video media sosial",
+      "Demonstrasi produk dan pameran",
+      "Video perjalanan",
+      "Konten saluran YouTube"
+    ]
+  },
+  "successStories": {
+    "heading": "Cerita Sukses Nyata",
+    "description": "Temukan bagaimana pengguna mengubah konten video mereka dengan mudah",
+    "items": [
+      {
+        "tag": "Pemberi Pengaruh Media Sosial",
+        "heading": "Sorotan Video Instagram",
+        "before": {
+          "label": "Sebelum",
+          "text": "Proses pengeditan yang membosankan"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Kompilasi video yang mulus"
+        },
+        "value": "95%",
+        "key": "Waktu Hemat",
+        "description": "Dengan Penggabungan Video, saya dapat membuat video sorotan yang berdampak dalam hitungan menit alih-alih jam!"
+      },
+      {
+        "tag": "E-Learning",
+        "heading": "Introduksi Kursus Online",
+        "before": {
+          "label": "Sebelum",
+          "text": "Perangkat lunak yang rumit"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Penggabungan video yang mudah"
+        },
+        "value": "98%",
+        "key": "Peningkatan Efisiensi",
+        "description": "Mengubah materi kursus menjadi presentasi video yang kohesif menjadi lebih mudah. Keterlibatan siswa kami meningkat pesat!"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Metode Penggabungan Video",
+    "description": "Pilih gaya penggabungan yang sempurna untuk kebutuhan Anda",
+    "items": [
+      "Gabungan Standar: Penggabungan klip yang cepat dengan transisi dasar",
+      "Gabungan Halus: Pengeditan mulus dengan transisi bertahap untuk hasil profesional",
+      "Gabungan Tematik: Gaya unik untuk video bermerek",
+      "Gabungan Pintar: Penyesuaian yang ditingkatkan AI berdasarkan genre konten",
+      "Gabungan Batch: Gabungkan beberapa klip secara massal dengan otomatisasi"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Temukan lebih banyak alat AI yang kuat untuk pembuatan video"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Segala yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Format video apa yang bisa saya gunakan dengan Penggabungan Video?",
+        "answer": "Anda dapat mengunggah berbagai format termasuk MP4, MOV, dan AVI. Platform kami mendukung resolusi standar dan menjaga kualitas selama penggabungan."
+      },
+      {
+        "question": "Apakah ada batasan pada panjang atau ukuran video saat menggabungkan?",
+        "answer": "Tidak ada batasan yang ketat, tetapi untuk kinerja optimal, kami merekomendasikan klip di bawah 10 menit dan ukuran 2GB untuk pemrosesan yang mulus."
+      },
+      {
+        "question": "Bisakah saya menambahkan musik latar ke video gabungan saya?",
+        "answer": "Ya! Anda dapat mengunggah trek audio atau memilih dari perpustakaan musik bebas royalti kami untuk meningkatkan video Anda."
+      },
+      {
+        "question": "Apakah mungkin untuk mengedit video setelah menggabungkannya?",
+        "answer": "Saat ini, Penggabungan Video fokus pada penggabungan. Untuk pengeditan, Anda dapat menggunakan alat pengeditan kami setelah menggabungkan klip Anda."
+      },
+      {
+        "question": "Seberapa cepat proses penggabungan video?",
+        "answer": "Menggabungkan video biasanya memakan waktu beberapa menit, tergantung pada panjang dan kompleksitas video yang digabungkan."
+      },
+      {
+        "question": "Apakah saya tetap memiliki hak atas konten video yang saya buat?",
+        "answer": "Tentu saja! Semua video yang dibuat dengan Penggabungan Video kami adalah milik Anda untuk digunakan, dibagikan, dan dimonetisasi tanpa masalah hak cipta."
+      },
+      {
+        "question": "Bisakah saya menggabungkan video dari sumber yang berbeda?",
+        "answer": "Ya, Anda dapat mengunggah video dari berbagai sumber, termasuk perangkat Anda, penyimpanan cloud, dan lainnya untuk kompilasi yang mudah."
+      },
+      {
+        "question": "Dukungan jenis apa yang tersedia jika saya mengalami masalah?",
+        "answer": "Tim dukungan kami tersedia melalui chat dan email. Kami juga menyediakan panduan, FAQ, dan komunitas pengguna untuk bantuan tambahan."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Menggabungkan Video Anda?",
+    "description": "Mulai menggunakan Penggabungan Video hari ini - Alami kesederhanaan penggabungan yang mulus!",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Gabungkan Video Anda Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap untuk Mengubah Proyek Video Anda?",
+    "description": "Coba WaveSpeed AI sekarang dan lihat perbedaannya sendiri. Tidak perlu mendaftar.",
+    "ctaText": "Gabungkan Video Anda Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi."
+  }
+}

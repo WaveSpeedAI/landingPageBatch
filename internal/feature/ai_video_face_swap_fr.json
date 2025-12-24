@@ -1,0 +1,230 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Échange de visages vidéo AI",
+  "meta": {
+    "description": "Échangez facilement des visages dans des vidéos en utilisant une technologie AI avancée. Idéal pour créer rapidement et facilement du contenu engageant et personnalisé. Découvrez l'avenir du montage vidéo avec WaveSpeed AI.",
+    "keywords": "échange de visages vidéo AI, remplacement de visage, montage vidéo AI, contenu vidéo personnalisé, échange de visage instantané, outil de marketing vidéo, échange de visage en temps réel, vidéo sur les réseaux sociaux, vidéos promotionnelles, AI de création de contenu"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils AI",
+        "items": [
+          [
+            "Outils AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Échange de Visages Vidéo",
+    "subHeading": "Transformez les Visages de Vos Vidéos Instantanément",
+    "description": "Échangez facilement des visages dans des vidéos pour créer un contenu dynamique et engageant. Parfait pour les spécialistes du marketing et les créateurs de contenu cherchant à personnaliser leurs vidéos sans compétences techniques. Commencez dès aujourd'hui !",
+    "tryText": "Essayez-le maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution d'Échange de Visages Vidéo AI WaveSpeed",
+    "left": {
+      "heading": "Défis Traditionnels",
+      "items": [
+        "L'échange de visages nécessite des logiciels compliqués",
+        "Processus de montage manuel laborieux",
+        "Limité aux compétences professionnelles et à l'expérience",
+        "Ajustements et montages longs",
+        "Coûts élevés pour les équipes de production vidéo"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed AI",
+      "items": [
+        "Échangez instantanément des visages dans des vidéos d'un simple clic",
+        "Pas de compétences d'édition préalables nécessaires - Il suffit de télécharger la vidéo",
+        "Résultats pilotés par l'IA prêts en quelques instants",
+        "Testez différents échanges de visages facilement",
+        "Solution économique adaptée à tous les budgets"
+      ],
+      "tryText": "Essayez"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment Cela Fonctionne",
+    "description": "Échangez des visages en 4 étapes simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Télécharger la Vidéo",
+        "text": "Téléchargez votre vidéo où vous souhaitez échanger des visages",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Sélectionnez les Visages",
+        "text": "Choisissez les visages à échanger dans les images vidéo",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Ajustez les Paramètres",
+        "text": "Affinez les préférences et les effets de l'échange de visages",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Téléchargez le Résultat",
+        "text": "Recevez votre vidéo nouvellement éditée en quelques instants",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Créez Votre Première Vidéo d'Échange de Visages →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilités Sans Fin",
+    "description": "Déverrouillez le potentiel créatif pour tout projet vidéo",
+    "items": [
+      "Vidéos marketing personnalisées",
+      "Clips amusants pour les réseaux sociaux",
+      "Présentations interactives",
+      "Campagnes publicitaires mémorables",
+      "Récits créatifs et sketches",
+      "Vitrines de talents uniques",
+      "Souvenirs engageants en famille ou lors d'événements",
+      "Messages vidéo personnalisés"
+    ]
+  },
+  "successStories": {
+    "heading": "Vraies Histoires de Succès",
+    "description": "Découvrez comment les utilisateurs révolutionnent leurs projets vidéo avec l'IA",
+    "items": [
+      {
+        "tag": "Industrie du Divertissement",
+        "heading": "Contenu Viral sur les Réseaux Sociaux",
+        "before": {
+          "label": "Avant",
+          "text": "Montages longs"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Résultats instantanés"
+        },
+        "value": "95%",
+        "key": "Temps Gagné",
+        "description": "Nous avons créé des vidéos échangées de visages engageantes en un temps record, entraînant un engagement viral et des partages."
+      },
+      {
+        "tag": "Marketing",
+        "heading": "Campagnes Personnalisées",
+        "before": {
+          "label": "Avant",
+          "text": "Production sous-traitée"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Montage en interne"
+        },
+        "value": "90%",
+        "key": "Réduction de Coûts",
+        "description": "Avec l'IA, nous produisons désormais des vidéos personnalisées rapidement et à moindre coût, améliorant nos stratégies marketing."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison des Modèles d'IA",
+    "description": "Sélectionnez le bon modèle pour vos besoins d'échange de visages",
+    "items": [
+      "Modèle Standard : Échanges de visages rapides avec une qualité décente",
+      "Modèle Premium : Haute fidélité et conservation des détails",
+      "Capacités de traitement en temps réel",
+      "Technologie de cartographie faciale naturelle",
+      "Prend en charge plusieurs échanges de visages dans une seule vidéo",
+      "Intégration transparente avec les plateformes vidéo existantes"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils AI Connus",
+    "description": "Explorez d'autres solutions AI innovantes pour vos besoins vidéo"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quelle qualité de vidéo puis-je attendre avec l'échange de visages ?",
+        "answer": "Notre IA garantit des vidéos de haute qualité avec des échanges de visages clairs et réalistes qui conservent le look et la sensation naturels de votre contenu. Attendez-vous à des résultats professionnels prêts pour diverses plateformes."
+      },
+      {
+        "question": "Puis-je personnaliser les effets d'échange de visages ?",
+        "answer": "Absolument ! Vous pouvez ajuster le degré d'échange de visages, appliquer des filtres uniques et définir des préférences pour la façon dont l'échange s'intègre à la vidéo d'origine."
+      },
+      {
+        "question": "Quels types de vidéos fonctionnent le mieux pour l'échange de visages ?",
+        "answer": "Les vidéos avec une bonne visibilité faciale donnent les meilleurs résultats, bien que l'IA puisse gérer une variété de scènes. Assurez-vous que vos vidéos sont bien éclairées et focalisées pour une qualité optimale."
+      },
+      {
+        "question": "En quoi cela diffère-t-il du montage vidéo traditionnel ?",
+        "answer": "L'échange de visages piloté par l'IA automatise et simplifie le processus, offrant des résultats rapides avec une technologie avancée qui rivalise avec la précision du montage manuel, vous faisant gagner du temps et des efforts."
+      },
+      {
+        "question": "Puis-je ajuster ou améliorer les vidéos échangées après génération ?",
+        "answer": "Oui ! Vous pouvez affiner le résultat à l'aide de nos outils d'édition pour améliorer le résultat final, en appliquant des effets ou ajustements supplémentaires si nécessaire."
+      },
+      {
+        "question": "Quel est le modèle tarifaire pour l'échange de visages ?",
+        "answer": "WaveSpeed fonctionne sur une base de paiement à l'utilisation, facturant uniquement pour les vidéos que vous générez sans frais cachés. Les prix varient en fonction de la longueur de la vidéo et du modèle choisi."
+      },
+      {
+        "question": "Combien de temps prend le processus d'échange de visages ?",
+        "answer": "En général, les échanges de visages sont terminés en quelques instants, vous permettant de travailler efficacement sans temps d'attente long. Plusieurs échanges peuvent être traités simultanément."
+      },
+      {
+        "question": "Quelles sont les meilleures applications pour la technologie d'échange de visages ?",
+        "answer": "Idéale pour les vidéos marketing, le contenu sur les réseaux sociaux, les messages personnalisés et tout projet créatif où les éléments vidéo sur mesure améliorent l'engagement du public."
+      },
+      {
+        "question": "Possède-je les droits des vidéos créées avec l'échange de visages ?",
+        "answer": "Oui ! Toutes les vidéos produites avec notre service sont accompagnées de droits d'utilisation commerciale complets—utilisez-les librement dans la publicité, les réseaux sociaux, ou tout cadre commercial."
+      },
+      {
+        "question": "Quelles ressources de support sont disponibles ?",
+        "answer": "Nous fournissons des guides détaillés, des tutoriels, et un support dédié par e-mail et chat pour vous aider avec tout problème technique, garantissant que vous tirez le meilleur parti de notre plateforme."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Créer Votre Première Vidéo d'Échange de Visages ?",
+    "description": "Commencez avec des crédits gratuits - Découvrez le pouvoir du montage vidéo AI aujourd'hui",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Essayez-le maintenant →"
+  },
+  "footer": {
+    "heading": "Prêt à Transformer Vos Vidéos ?",
+    "description": "Découvrez l'avenir du montage vidéo avec WaveSpeed AI aujourd'hui. Aucune inscription requise.",
+    "ctaText": "Commencez à Échanger des Visages Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

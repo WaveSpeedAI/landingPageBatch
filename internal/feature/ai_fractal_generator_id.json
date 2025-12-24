@@ -1,0 +1,221 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - AI Generator Fraktal",
+  "meta": {
+    "description": "Buat gambar fraktal yang menakjubkan dan rumit tanpa batas dengan AI. Ideal untuk seni digital, proyek desain, dan grafis latar belakang. Sempurna untuk seniman dan kreatif yang ingin meningkatkan karya mereka dengan mudah.",
+    "keywords": "generator fraktal AI, seni fraktal, generator seni digital, seni generatif, alat desain AI, fraktal kustom, generator latar belakang artistik, alat kreatif AI, fraktal WaveSpeed, pembuat gambar artistik, pembuat konten visual"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Pembuatan Seni Fraktal",
+    "subHeading": "Lepaskan Fraktal Menakjubkan di Ujung Jari Anda",
+    "description": "Hasilkan desain fraktal yang menakjubkan dengan mudah menggunakan alat bertenaga AI kami. Buat karya seni yang memukau dan unik dalam sekejap. Ideal untuk seniman, desainer, dan siapa pun yang ingin meningkatkan konten visual mereka.",
+    "tryText": "Coba Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Generator Fraktal AI WaveSpeed AI",
+    "left": {
+      "heading": "Tantangan Tradisional",
+      "items": [
+        "Pembuatan fraktal memerlukan pengetahuan pemrograman yang kompleks",
+        "Penyesuaian manual yang memakan waktu",
+        "Pilihan kreativitas dan desain yang terbatas",
+        "Hasil yang kurang memuaskan dari perangkat lunak tradisional",
+        "Biaya tinggi untuk alat generatif yang ada"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeedAI",
+      "items": [
+        "Segera buat desain fraktal unik dalam hitungan detik",
+        "Tidak perlu keterampilan pemrograman - Cukup dengan beberapa klik",
+        "AI meningkatkan kreativitas dengan variasi tak terbatas",
+        "Model pembayaran yang terjangkau",
+        "Hasilkan seni berkualitas tinggi dengan cepat dan mudah"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Hasilkan fraktal yang menawan dalam 4 langkah sederhana",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Pilih Parameter Dasar",
+        "text": "Pilih pengaturan awal untuk desain fraktal Anda",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Kustomisasi Desain Anda",
+        "text": "Atur warna, bentuk, dan kompleksitas sesuai keinginan",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Prabaca Fraktal Anda",
+        "text": "Lihat prabaca langsung dari kreasi fraktal Anda",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Unduh Karya Seni",
+        "text": "Dapatkan gambar fraktal yang menakjubkan siap digunakan",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Hasilkan Fraktal Pertama Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Tanpa Henti",
+    "description": "Inspirasi untuk setiap upaya artistik",
+    "items": [
+      "Latar belakang unik untuk situs web dan presentasi",
+      "Cetakan artistik untuk barang dagangan",
+      "Seni digital untuk pos media sosial",
+      "Aset kreatif untuk konten video",
+      "Komponen visual untuk desain grafis",
+      "Karya seni yang ditingkatkan untuk pameran",
+      "Polanya inovatif untuk desain tekstil",
+      "Wallpaper dan dekorasi kustom"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Lihat bagaimana kreatif merevolusi karya seni mereka dengan AI",
+    "items": [
+      {
+        "tag": "Seniman Digital",
+        "heading": "Karya Unik untuk Portofolio Daring",
+        "before": {
+          "label": "Sebelum",
+          "text": "Desain dasar"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Fraktal yang cerah dan rumit"
+        },
+        "value": "150%",
+        "key": "Peningkatan Keterlibatan",
+        "description": "Visibilitas portofolio saya meroket setelah menyertakan fraktal yang dihasilkan AI. Klien takjub dengan desain yang unik."
+      },
+      {
+        "tag": "Desainer Grafis",
+        "heading": "Polanya Kustom untuk Branding",
+        "before": {
+          "label": "Sebelum",
+          "text": "Desain yang repetitif"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Grafis yang menarik dan sesuai pesanan"
+        },
+        "value": "120%",
+        "key": "Peningkatan Kepuasan Klien",
+        "description": "Fraktal memungkinkan saya untuk menciptakan desain yang menonjol dan secara jelas mewakili merek klien saya."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Model Fraktal",
+    "description": "Pilih pengaturan fraktal yang tepat untuk proyek Anda",
+    "items": [
+      "Tipe Fraktal A: Pola kompleks, detail kaya, proses pembuatan lambat",
+      "Tipe Fraktal B: Bentuk sederhana, proses pembuatan cepat, ideal untuk latar belakang",
+      "Pilihan kustomisasi tak terbatas untuk setiap proyek",
+      "Pemrosesan waktu nyata untuk prabaca instan",
+      "Hasil resolusi tinggi untuk penggunaan profesional"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Jelajahi lebih banyak solusi kreatif AI yang canggih"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Semua yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Jenis desain fraktal apa yang bisa saya buat?",
+        "answer": "Anda dapat membuat berbagai fraktal, mulai dari desain sederhana hingga pola rumit. Alat ini memungkinkan Anda untuk mengkustomisasi warna, bentuk, dan kompleksitas untuk kemungkinan tanpa batas."
+      },
+      {
+        "question": "Apakah saya perlu keterampilan artistik untuk menggunakan generator?",
+        "answer": "Tidak! AI menyederhanakan pembuatan fraktal, membuatnya dapat diakses oleh semua orang, terlepas dari latar belakang artistik mereka. Cukup atur parameter Anda dan biarkan AI melakukan sisanya."
+      },
+      {
+        "question": "Bisakah saya menggunakan fraktal secara komersial?",
+        "answer": "Ya! Semua fraktal yang dihasilkan melalui WaveSpeed dilengkapi dengan hak komersial penuh, memungkinkan Anda untuk menggunakannya untuk pemasaran, penjualan, atau proyek pribadi tanpa biaya tambahan."
+      },
+      {
+        "question": "Seberapa cepat saya dapat menghasilkan fraktal?",
+        "answer": "Fraktal dapat dihasilkan dalam hitungan detik, tergantung pada kompleksitas desain Anda. Sebagian besar desain siap untuk diunduh hampir secara instan!"
+      },
+      {
+        "question": "Format file apa yang saya terima untuk fraktal saya?",
+        "answer": "Anda dapat mengunduh fraktal Anda dalam format PNG dan JPEG berkualitas tinggi, ideal untuk penggunaan digital dan cetak."
+      },
+      {
+        "question": "Apakah ada batasan jumlah fraktal yang bisa saya buat?",
+        "answer": "Tidak ada batasan! Anda dapat membuat sebanyak mungkin fraktal yang Anda inginkan, memungkinkan kebebasan kreatif yang lengkap."
+      },
+      {
+        "question": "Apa yang jika saya ingin melakukan penyesuaian pada fraktal?",
+        "answer": "Anda dapat dengan mudah kembali untuk mengatur parameter dan menghasilkan ulang fraktal untuk mendapatkan desain sempurna yang Anda inginkan."
+      },
+      {
+        "question": "Apakah ada dukungan tersedia jika saya mengalami masalah?",
+        "answer": "Tentu! Tim dukungan kami siap membantu Anda dengan pertanyaan atau kekhawatiran yang mungkin Anda miliki saat menggunakan generator."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Membuat Fraktal Pertama Anda?",
+    "description": "Mulai dengan kredit gratis - Pengalaman kreativitas sendiri",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Coba Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap untuk Membuat Fraktal Menakjubkan?",
+    "description": "Cobalah WaveSpeed AI sekarang dan saksikan inovasi itu sendiri. Tidak perlu pendaftaran.",
+    "ctaText": "Buat Fraktal Anda Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi."
+  }
+}

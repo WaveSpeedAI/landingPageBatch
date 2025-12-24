@@ -1,0 +1,230 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Dance Generation",
+  "meta": {
+    "description": "Ignite engagement with dynamic dance performances generated from your images using state-of-the-art AI technology. Perfect for marketing, entertainment, and social media content creation. Experience it free today!",
+    "keywords": "AI dance generation, motion creation AI, dancing video generator, AI performance maker, engagement tools, social media video, marketing creativity, interactive video content, WaveSpeed AI, image to dance video, entertainment video creator"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Dance Video Generation",
+    "subHeading": "Transform Static Images into Lively Dance Performances",
+    "description": "Turn your images into captivating dance videos in minutes. No choreography or filming required. Powered by leading AI technologies to create mesmerizing visual performances.",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Dance Generation Solution",
+    "left": {
+      "heading": "Traditional Dance Production Challenges",
+      "items": [
+        "Costly production costs (up to $5000 per project)",
+        "Requires dancers and choreography expertise",
+        "Time-consuming planning and rehearsal (up to 2 weeks)",
+        "Limited creativity and adaptability in performances",
+        "High entry barrier for small creators"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Generate dance videos in 1-2 minutes from still images",
+        "No dance crew or choreography involved - Just upload images",
+        "Instant creation with powerful AI-driven motion",
+        "Limitless styles and variations for every concept",
+        "Affordable pricing model suited for all creators"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "From still image to dance performance in 4 easy steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Image",
+        "text": "Upload an image of the subject you want to showcase dancing",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Describe Movement",
+        "text": "Optional: Define the dance style or movements (e.g., \"hip-hop moves\")",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Choose Dance Style",
+        "text": "Select from various dance genres available for rendering",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Dance Video",
+        "text": "Receive HD dance performance video in just minutes",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Generate Your First Dance Video →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Creative Opportunities",
+    "description": "Perfect for enhancing various industries and uses",
+    "items": [
+      "Viral social media dance clips and challenges",
+      "Marketing and promotional dance videos",
+      "Engaging content for music tracks",
+      "Dancing animations for game development",
+      "Dance tutorials and instructional content",
+      "Live performance visuals for events",
+      "Creative storytelling through movement",
+      "Custom animations for brands and products"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how creators are revolutionizing their content with AI",
+    "items": [
+      {
+        "tag": "Performing Arts",
+        "heading": "Viral Dance Challenge",
+        "before": {
+          "label": "Before",
+          "text": "Challenging and time-consuming"
+        },
+        "after": {
+          "label": "After",
+          "text": "Fast and dynamic"
+        },
+        "value": "95%",
+        "key": "Time Reduction",
+        "description": "We transformed our promotional strategy by generating stunning dance videos from our artist images, increasing engagement by 50% overnight."
+      },
+      {
+        "tag": "Music Industry",
+        "heading": "Artist Promotion",
+        "before": {
+          "label": "Before",
+          "text": "1 week"
+        },
+        "after": {
+          "label": "After",
+          "text": "2 minutes"
+        },
+        "value": "99.5%",
+        "key": "Efficiency Gain",
+        "description": "Revolutionized our music video launches. With this tool, we can create quick dance visuals that resonate with our audience instantaneously."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Model Comparison",
+    "description": "Select the optimal model for your dance video needs",
+    "items": [
+      "Standard Dance Model: Basic quality, 5-10 seconds, quick and fun results",
+      "Premium Dance Model: Enhanced quality, 10-15 seconds, detailed and photorealistic",
+      "Custom choreography options based on user prompts",
+      "Diverse styles from ballet to hip-hop available",
+      "Fast rendering times for live content",
+      "Commercial usage rights included"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore more innovative tools for video creation"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What video quality and duration can I expect?",
+        "answer": "The standard model generates quality videos around 720p and 5-10 seconds long, while the premium model offers enhanced 1080p quality up to 15 seconds. Both ensure smooth transitions and motion to captivate your audience."
+      },
+      {
+        "question": "Can I control the style and movements of the dance?",
+        "answer": "Yes! You can specify dance styles and movements using natural text prompts. Describe the choreography you'd like, and the AI will apply fluid motion dynamics to create an impressive performance."
+      },
+      {
+        "question": "What image types work best for dance video generation?",
+        "answer": "Clear images focusing on the subject deliver the best results. Images should be well-lit and ideally capture the full body for richer movement generation. Formats like JPG and PNG are recommended."
+      },
+      {
+        "question": "How does this differ from traditional dance videos?",
+        "answer": "AI-generated dance videos incorporate dynamic movement and engaging choreography derived from still images. Unlike traditional methods requiring extensive time and resources, our solution is instantaneous and requires no prior dance expertise."
+      },
+      {
+        "question": "Can I enhance the quality of the generated dance video?",
+        "answer": "Absolutely! Use our video enhancement tool to upscale AI-generated dance performances to higher resolutions, ensuring clarity and sharpness for all viewing platforms."
+      },
+      {
+        "question": "What is the pricing model for dance video generation?",
+        "answer": "We operate on a flexible pay-as-you-go model without subscriptions. Payment is based on the format and length of the dance videos generated, ensuring affordability. Free trial credits are available for new users."
+      },
+      {
+        "question": "How long does it take to generate a dance video, and can I create multiple at once?",
+        "answer": "Typically, video generation is completed in 1-2 minutes. Users can create multiple dance videos simultaneously through batch processing, allowing for easy customization of styles and formats."
+      },
+      {
+        "question": "What are popular use cases for AI dance generation?",
+        "answer": "This technology excels in creating engaging content for social media, promotional advertisements, and music videos, providing users the ability to generate quick, catchy dance performances for various purposes."
+      },
+      {
+        "question": "Do I own the commercial rights to the dance videos?",
+        "answer": "Yes! All generated videos come with full commercial rights, allowing you to use them across platforms for your projects without additional licensing fees."
+      },
+      {
+        "question": "What support is available for troubleshooting?",
+        "answer": "WaveSpeed offers comprehensive resources including documentation, tutorials, and customer support via email and live chat, ensuring assistance is available for any technical questions or issues."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Create Your First Dance Video?",
+    "description": "Start with free credits - Experience the excitement yourself",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Ready to Transform Your Vision?",
+    "description": "Try WaveSpeed AI now and witness the transformation. No sign-up required.",
+    "ctaText": "Create Dance Video Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

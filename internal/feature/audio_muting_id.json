@@ -1,0 +1,223 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Fitur Mute Audio AI",
+  "meta": {
+    "description": "Dengan mudah mematikan audio yang tidak diinginkan dari konten video Anda dengan fitur Mute Audio AI kami yang kuat. Sempurna untuk e-commerce, media sosial, dan pemasaran. Tingkatkan cerita video Anda!",
+    "keywords": "mute audio AI, penghapusan noise latar, alat pengeditan video, peningkatan video e-commerce, alat audio media sosial, integrasi audio yang mulus, fitur audio WaveSpeed, optimisasi suara, alat pembuatan konten, suara video profesional"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Mute Audio",
+    "subHeading": "Diamkan Noise yang Tidak Diinginkan untuk Narasi yang Lebih Jelas",
+    "description": "Tingkatkan konten video Anda dengan menghapus noise latar dan audio yang tidak diinginkan dengan mudah. Pastikan pesan Anda jelas, memungkinkan audiens Anda fokus pada apa yang benar-benar penting. Rasakan kekuatan AI dalam pengeditan audio hari ini!",
+    "tryText": "Mute Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Mute Audio AI WaveSpeed",
+    "left": {
+      "heading": "Tantangan Audio Tradisional",
+      "items": [
+        "Pengeditan manual yang memakan waktu",
+        "Perangkat lunak audio yang mahal diperlukan",
+        "Proses kompleks untuk pengurangan noise",
+        "Opsi terbatas bagi non-profesional",
+        "Kualitas suara yang tidak konsisten"
+      ]
+    },
+    "right": {
+      "heading": "Solusi AI WaveSpeed",
+      "items": [
+        "Mute audio yang tidak diinginkan dalam hitungan detik",
+        "Tidak ada pengalaman pengeditan yang diperlukan",
+        "Antarmuka ramah pengguna untuk semua orang",
+        "Restorasi suara berkualitas tinggi",
+        "Model bayar-per-penggunaan yang terjangkau"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Dengan mudah mute audio yang tidak diinginkan dalam 3 langkah sederhana",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Video",
+        "text": "Unggah file video Anda dengan audio ke platform",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Pilih Jalur Audio",
+        "text": "Pilih jalur audio yang ingin Anda mute atau edit",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Mute Noise",
+        "text": "Terapkan fitur mute audio bertenaga AI secara instan",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "Mute Audio Anda Sekarang →"
+  },
+  "endlessPossibilities": {
+    "heading": "Aplikasi Tanpa Batas",
+    "description": "Ideal untuk berbagai kebutuhan konten video",
+    "items": [
+      "Vlog dan video pribadi",
+      "Kampanye pemasaran dan iklan",
+      "Konten edukasi dan tutorial",
+      "Postingan media sosial (Instagram, TikTok)",
+      "Presentasi perusahaan",
+      "Rekaman acara",
+      "Ulasan produk",
+      "Peningkatan audio livestream"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Temukan bagaimana pengguna meningkatkan kualitas audio mereka dengan AI",
+    "items": [
+      {
+        "tag": "Pembuat E-commerce",
+        "heading": "Video Demo Produk",
+        "before": {
+          "label": "Sebelum",
+          "text": "Noise latar yang mengganggu"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Audio yang jelas dan profesional"
+        },
+        "value": "95%",
+        "key": "Perbaikan Kualitas Audio",
+        "description": "Kami mengubah audio dalam demo produk kami, yang mengarah pada keterlibatan pelanggan yang lebih tinggi. Kejelasan dalam pesan meningkatkan konversi sebesar 30%."
+      },
+      {
+        "tag": "Influencer Media Sosial",
+        "heading": "Produksi Vlog",
+        "before": {
+          "label": "Sebelum",
+          "text": "Lingkungan suara yang ramai"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Jalur audio yang halus"
+        },
+        "value": "92%",
+        "key": "Waktu yang Dihematkan",
+        "description": "Proses penghapusan noise adalah pengubah permainan. Saya sekarang bisa fokus pada konten daripada khawatir tentang kualitas audio!"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Pemrosesan Audio",
+    "description": "Pilih opsi pengeditan audio yang tepat untuk kebutuhan Anda",
+    "items": [
+      "Penghapusan Noise Standar: Efektif untuk masalah audio dasar, terjangkau, pemrosesan cepat",
+      "Filter Audio Lanjutan: Untuk lingkungan suara kompleks dengan berbagai jenis noise, hasil premium",
+      "Analisis audio waktu nyata untuk profil suara yang akurat",
+      "Integrasi mulus dengan video untuk menjaga konsistensi",
+      "Penetapan harga fleksibel berdasarkan penggunaan",
+      "Hak komersial penuh termasuk"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Jelajahi lebih banyak alat AI canggih untuk peningkatan audio dan video"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Segala yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Seberapa cepat saya bisa mematikan audio dari video saya?",
+        "answer": "Mute audio sangat cepat, biasanya selesai dalam waktu kurang dari satu menit tergantung pada panjang video. AI memproses audio secara waktu nyata."
+      },
+      {
+        "question": "Bisakah saya mendengarkan preview audio sebelum dan setelah dipadamkan?",
+        "answer": "Ya! Anda dapat mendengarkan preview dari jalur audio asli dan yang diedit untuk memastikan kepuasan dengan hasil."
+      },
+      {
+        "question": "Apakah ada batasan ukuran file yang bisa saya unggah?",
+        "answer": "Saat ini, platform kami mendukung unggahan file video hingga 4GB. Pastikan video Anda memenuhi persyaratan ini untuk pengeditan yang mulus."
+      },
+      {
+        "question": "Format apa yang Anda dukung untuk unggahan video?",
+        "answer": "Kami mendukung berbagai format termasuk MP4, MOV, dan AVI untuk pemrosesan optimal. Pastikan file Anda dalam format ini untuk menghindari masalah."
+      },
+      {
+        "question": "Bisakah saya mematikan beberapa bagian audio dalam satu video?",
+        "answer": "Tentu saja! Anda dapat memilih untuk mematikan beberapa jalur audio atau bagian dalam video sesuai kebutuhan Anda."
+      },
+      {
+        "question": "Apakah saya tetap memiliki kepemilikan atas video yang diedit?",
+        "answer": "Ya! Anda mempertahankan kepemilikan penuh atas video yang diedit menggunakan platform kami, termasuk konten audio."
+      },
+      {
+        "question": "Kualitas apa yang dapat saya harapkan dari audio setelah dipadamkan?",
+        "answer": "Kualitasnya tetap tinggi, dan penghapusan noise latar meningkatkan kejernihan audio Anda yang tersisa. Harapkan suara berkualitas profesional."
+      },
+      {
+        "question": "Bisakah saya mengedit audio jika saya bukan profesional?",
+        "answer": "Ya! Alat kami dirancang untuk kemudahan penggunaan, jadi siapa pun dapat menavigasi proses mute audio tanpa pengalaman sebelumnya."
+      },
+      {
+        "question": "Dukungan teknis apa yang tersedia jika saya mengalami masalah?",
+        "answer": "Kami menawarkan dukungan komprehensif melalui email dan obrolan langsung, dengan FAQ rinci dan panduan pemecahan masalah di situs web kami."
+      },
+      {
+        "question": "Apa yang harus saya lakukan jika saya tidak puas dengan hasil mute audio?",
+        "answer": "Kami mendorong pengguna untuk memanfaatkan fitur preview sepenuhnya untuk memastikan kepuasan. Jika ada masalah, tim dukungan kami siap membantu."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Meningkatkan Audio Video Anda?",
+    "description": "Mulai dengan kredit gratis dan rasakan perbedaan sendiri.",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Mute Sekarang →"
+  },
+  "footer": {
+    "heading": "Ubah Audio Video Anda Hari Ini!",
+    "description": "Coba WaveSpeed AI sekarang untuk mute audio profesional. Tidak perlu pendaftaran.",
+    "ctaText": "Mute Audio Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi."
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Text Extraction",
+  "meta": {
+    "description": "Effortlessly extract text from images with cutting-edge AI technology. Perfect for e-commerce, document scanning, and more. Quick, accurate, and user-friendly solutions for all your text extraction needs.",
+    "keywords": "AI text extraction, image to text, OCR technology, document scanning, e-commerce solutions, text recognition, WaveSpeed AI, data extraction, digital transformation, automated data entry"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Image to Text",
+    "subHeading": "Transform Images into Editable Text Efficiently",
+    "description": "Convert scanned documents, product images, or screenshots into editable text instantly. Experience seamless text extraction powered by advanced AI technology.",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Text Extraction Solution",
+    "left": {
+      "heading": "Traditional Challenges",
+      "items": [
+        "Manual data entry is slow and error-prone",
+        "Requires significant labor hours",
+        "High costs from outsourcing transcription",
+        "Limited accessibility for large datasets",
+        "Inconsistent quality across different formats"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI Solution",
+      "items": [
+        "Extract text in seconds from any image",
+        "No manual entry required - Just upload images",
+        "Rapid results with high accuracy",
+        "Supports multiple languages and formats",
+        "Pay-as-you-go pricing perfect for varied needs"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Quickly convert images to text in 4 easy steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Image",
+        "text": "Upload your photo or document image",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Select Output Format",
+        "text": "Choose your preferred text format (e.g., TXT, DOCX)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Review Extracted Text",
+        "text": "Check the AI-generated text for accuracy",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Text",
+        "text": "Receive your editable text file in moments",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Extract Your First Text →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Perfect for any industry or application",
+    "items": [
+      "Product descriptions for e-commerce",
+      "Book and document digitization",
+      "Data entry automation in offices",
+      "Academic research and extraction",
+      "Legal document processing",
+      "Translation and localization",
+      "Archiving old photos and notes",
+      "Social media content repurposing"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "See how businesses optimize their workflows with AI",
+    "items": [
+      {
+        "tag": "Retail",
+        "heading": "E-commerce Product Listings",
+        "before": {
+          "label": "Before",
+          "text": "50 hours"
+        },
+        "after": {
+          "label": "After",
+          "text": "2 hours"
+        },
+        "value": "96%",
+        "key": "Time Saved",
+        "description": "We transformed our listings by extracting text in bulk. Saves us days every week."
+      },
+      {
+        "tag": "Education",
+        "heading": "University Research Project",
+        "before": {
+          "label": "Before",
+          "text": "Manual entry"
+        },
+        "after": {
+          "label": "After",
+          "text": "Automated extraction"
+        },
+        "value": "90%",
+        "key": "Efficiency Gain",
+        "description": "Enabled quicker access to data, allowing research teams to focus on analysis."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Model Comparison",
+    "description": "Choose the right extraction model for your needs",
+    "items": [
+      "Standard Extraction: Fast text conversion with good accuracy",
+      "High Precision Extraction: Enhanced accuracy for handwritten and complex fonts",
+      "Batch Processing: Extract text from multiple images in one go",
+      "Multi-language Support: Automatic detection of text language",
+      "Real-time Processing: Instant results as images are uploaded",
+      "Commercial usage rights included"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore more powerful AI tools for business solutions"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What types of image formats are supported for text extraction?",
+        "answer": "We support various formats including JPG, PNG, and PDF. For optimal results, images should be clear and high-resolution."
+      },
+      {
+        "question": "How accurate is the text extraction process?",
+        "answer": "Our AI technology is designed for high accuracy, typically achieving over 95% correct text extraction under optimal conditions."
+      },
+      {
+        "question": "Is the extracted text editable?",
+        "answer": "Yes! The extracted text can be downloaded in editable formats such as TXT or DOCX for easy modification."
+      },
+      {
+        "question": "Can the tool handle handwritten text?",
+        "answer": "Yes, our High Precision Extraction model is specifically designed to recognize and extract handwritten text effectively."
+      },
+      {
+        "question": "How is user data handled during the extraction process?",
+        "answer": "We prioritize data security. All images are processed securely, and user data is not stored once extraction is complete."
+      },
+      {
+        "question": "Is there a limit to how many images I can process at once?",
+        "answer": "No limit! You can process multiple images simultaneously, making it efficient for large projects."
+      },
+      {
+        "question": "What happens if the extraction fails?",
+        "answer": "In the unlikely event of a failure, you will receive a detailed error report with possible reasons and recommendations for improvement."
+      },
+      {
+        "question": "Can I use the extracted text for commercial purposes?",
+        "answer": "Absolutely! All extracted text comes with full rights for commercial use, no additional fees involved."
+      },
+      {
+        "question": "What kind of support is available if I need help?",
+        "answer": "We offer comprehensive support through documentation, tutorials, and customer service via email and chat."
+      },
+      {
+        "question": "Are there any subscription fees or hidden costs?",
+        "answer": "No, WaveSpeed operates on a pay-as-you-go model with clear pricing based on the volume of text extracted."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Extract Text from Your Images?",
+    "description": "Start with free credits and see the results for yourself",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Ready to Extract Your Text?",
+    "description": "Try WaveSpeed AI now and experience effortless text extraction. No sign-up required.",
+    "ctaText": "Extract Text Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

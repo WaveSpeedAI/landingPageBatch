@@ -1,0 +1,226 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Video Upscaling",
+  "meta": {
+    "description": "Enhance your videos to stunning high resolutions effortlessly using AI. Perfect for content creators, marketers, and businesses looking to amplify their visual impact. Experience superior quality without the hefty costs. 50% off on your first upscale!",
+    "keywords": "AI video upscaling, video enhancement tool, HD video generator, video quality improvement, AI video sharpness, content creator tools, video upscaling for marketers, premium video quality, visual content optimization, affordable video enhancement"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Video Upscaling Made Easy",
+    "subHeading": "Transform Your Footage to High Definition",
+    "description": "Elevate the quality of your videos with our cutting-edge AI upscaling technology. Achieve breathtaking clarity and detail in just moments. Experience the difference with our seamless integration and instant results.",
+    "tryText": "Upscale Your Video Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Video Upscaling Solution",
+    "left": {
+      "heading": "Traditional Upscaling Challenges",
+      "items": [
+        "Scaling often results in blurry images",
+        "Expensive software and hardware solutions",
+        "Manual adjustments take hours of effort",
+        "Quality varies depending on original footage",
+        "Limited access for small creators and businesses"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Enhance videos to stunning HD in minutes",
+        "No special equipment required - Just upload your video",
+        "Instant improvement with AI-driven algorithms",
+        "Unlimited retries to achieve your desired quality",
+        "Cost-effective pricing model for all users"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Upgrade your videos in 4 straightforward steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Video",
+        "text": "Select and upload your video file for upscaling",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Choose Resolution",
+        "text": "Select your desired output resolution (e.g., 1080p, 4K)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Adjust Settings",
+        "text": "Optional: Fine-tune parameters for optimal results",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Enhanced Video",
+        "text": "Get your upscaled video ready for sharing in minutes",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Enhance Your Video Now →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Perfect for any video content",
+    "items": [
+      "Enhance promotional videos for social media",
+      "Upgrade YouTube content for better viewer engagement",
+      "Transform online courses with higher quality visuals",
+      "Improve footage from events and webinars",
+      "Create stunning presentations with upgraded videos",
+      "Make home videos look more professional",
+      "Optimize footage for TV or streaming services",
+      "Revitalize old videos for new platforms"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how creators are enhancing their videos with AI",
+    "items": [
+      {
+        "tag": "Film Production",
+        "heading": "Indie Film Release",
+        "before": {
+          "label": "Before",
+          "text": "Standard definition"
+        },
+        "after": {
+          "label": "After",
+          "text": "High definition"
+        },
+        "value": "75%",
+        "key": "Quality Improvement",
+        "description": "We enhanced our film's audio-visual quality, leading to a significant increase in audience engagement and positive reviews."
+      },
+      {
+        "tag": "Marketing Agency",
+        "heading": "Client's Promotional Video",
+        "before": {
+          "label": "Before",
+          "text": "Low resolution"
+        },
+        "after": {
+          "label": "After",
+          "text": "Crisp and clear"
+        },
+        "value": "85%",
+        "key": "Engagement Boost",
+        "description": "The upgraded video dramatically improved our client's brand presence, resulting in a 50% increase in inquiries."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Model Comparison",
+    "description": "Choose the right enhancement settings for your needs",
+    "items": [
+      "Standard Upscaler: Increases resolution with moderate quality improvement, suitable for quick tweaks",
+      "Advanced Upscaler: Premium quality, excellent detail recovery, ideal for professional use",
+      "Real-time enhancement previews",
+      "Multiple format support for various video types",
+      "Fast processing time with high-quality output",
+      "Simple user interface for effortless navigation"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore more innovative AI tools to enhance your content"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What video resolutions can I upscale to?",
+        "answer": "You can upscale your videos to various resolutions including 1080p, 4K, and more based on your needs. The upscaling tool uses advanced algorithms to ensure optimal quality while maintaining natural detail."
+      },
+      {
+        "question": "Can I upscale any video formats?",
+        "answer": "Yes! Our AI tool supports various video formats including MP4, AVI, and MOV for seamless enhancement. Ensure your videos are in common formats for the best results."
+      },
+      {
+        "question": "How long does the upscaling process take?",
+        "answer": "Typically, video enhancement takes just a few minutes depending on the video's length and selected resolution. Our algorithms work efficiently to deliver high-quality results quickly."
+      },
+      {
+        "question": "Will upscaling improve the video quality significantly?",
+        "answer": "Absolutely! Our AI technology enhances video clarity, sharpness, and overall visual quality, making low-resolution content appear stunningly high-definition."
+      },
+      {
+        "question": "Does AI processing require large file sizes for best results?",
+        "answer": "While higher resolution files may lead to even better outcomes, our technology is designed to optimize smaller files as well. You will see improved quality regardless of file size."
+      },
+      {
+        "question": "Can I use enhanced videos commercially?",
+        "answer": "Yes! All videos enhanced through our platform come with full commercial usage rights, allowing you to utilize them for marketing, presentations, and more without additional fees."
+      },
+      {
+        "question": "Is there a limit to how many videos I can upscale?",
+        "answer": "No, there are no limits on the number of videos you can enhance. You can process multiple videos concurrently for a streamlined workflow."
+      },
+      {
+        "question": "What support is available if I encounter issues?",
+        "answer": "Our platform provides extensive support including FAQs, video tutorials, and a customer service team available via email and chat for prompt assistance."
+      },
+      {
+        "question": "Do I need to download software to use the service?",
+        "answer": "No downloads are necessary! Our video upscaling services are hosted online, allowing for immediate access and easy video management via your web browser."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Enhance Your Videos?",
+    "description": "Start with free credits and witness the transformation firsthand.",
+    "contactUsText": "Contact Us",
+    "tryText": "Upscale Now →"
+  },
+  "footer": {
+    "heading": "Ready to Improve Your Video Quality?",
+    "description": "Try WaveSpeed AI today and experience the difference instantly. No sign-up needed.",
+    "ctaText": "Start Upscaling Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

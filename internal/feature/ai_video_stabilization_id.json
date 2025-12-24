@@ -1,0 +1,222 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Stabilisasi Video AI",
+  "meta": {
+    "description": "Hilangkan footage goyang dengan mudah menggunakan teknologi stabilisasi bertenaga AI. Sempurna untuk pencipta konten, e-commerce, dan video pemasaran. Dapatkan hasil halus berkualitas profesional dalam beberapa menit dengan WaveSpeed AI.",
+    "keywords": "stabilisasi video AI, teknologi video halus, menstabilkan footage goyang, stabilisasi video sinematik, alat video e-commerce, stabilisasi video pemasaran, pengeditan video profesional, peningkatan video, kualitas video YouTube, stabilitas video media sosial"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Stabilisasi Video",
+    "subHeading": "Ubah Video Goyang Menjadi Karya Halus",
+    "description": "Hilangkan goyangan dan getaran yang tidak diinginkan dalam video Anda dengan teknologi stabilisasi mutakhir kami. Dapatkan hasil berkualitas profesional dengan cepat hanya dalam beberapa klik. Rasakan perbedaannya hari ini!",
+    "tryText": "Coba Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Stabilisasi Video AI WaveSpeed AI",
+    "left": {
+      "heading": "Tantangan Tradisional",
+      "items": [
+        "Footage goyang menghasilkan hasil yang tidak profesional",
+        "Proses stabilisasi manual yang memakan waktu",
+        "Perangkat lunak pengeditan yang mahal dibutuhkan",
+        "Memerlukan keterampilan pengeditan video ahli",
+        "Opsi terbatas untuk stabilisasi waktu nyata"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeed AI",
+      "items": [
+        "Stabilisasi video secara instan hanya dalam beberapa menit",
+        "Tidak perlu perangkat lunak pengeditan atau keahlian",
+        "Hasil bertenaga AI untuk footage yang halus",
+        "Mendapatkan kualitas konsisten di semua perangkat",
+        "Model bayar-per-pakai yang terjangkau tersedia"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Stabilkan video Anda dalam 3 langkah mudah",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Video",
+        "text": "Unggah file video goyang Anda",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Pilih Pengaturan",
+        "text": "Kustomisasi preferensi stabilisasi jika diperlukan",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Unduh Video yang Stabilisasi",
+        "text": "Terima video Anda yang halus dan distabilkan dalam beberapa menit",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "Stabilkan Video Pertama Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Tanpa Batas",
+    "description": "Sempurna untuk aplikasi video apa pun",
+    "items": [
+      "Konten YouTube dengan kualitas profesional",
+      "Video media sosial tanpa goyangan",
+      "Presentasi bisnis dan webinar",
+      "Rekaman acara dan siaran langsung",
+      "Pameran properti real estate",
+      "Vlog perjalanan dengan transisi halus",
+      "Sorotan olahraga dan bidikan aksi",
+      "Video tutorial dan cara"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Lihat bagaimana pengguna meningkatkan video mereka dengan AI",
+    "items": [
+      {
+        "tag": "Vlog Perjalanan",
+        "heading": "Perbaikan Saluran YouTube",
+        "before": {
+          "label": "Sebelum",
+          "text": "Footage bergetar"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Ramping dan profesional"
+        },
+        "value": "95%",
+        "key": "Peningkatan Kualitas",
+        "description": "Penonton menyukai penampilan yang lebih halus! Tingkat keterlibatan meningkat, yang mengarah pada peningkatan 50% dalam langganan."
+      },
+      {
+        "tag": "Real Estate",
+        "heading": "Video Pameran Properti",
+        "before": {
+          "label": "Sebelum",
+          "text": "Kamera goyang tampak tidak profesional"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Halus dan menarik"
+        },
+        "value": "98%",
+        "key": "Tanggapan Klien Ditingkatkan",
+        "description": "Klien mengomentari presentasi yang jelas dan menarik, yang mengarah pada penjualan yang lebih cepat."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Model AI",
+    "description": "Optimalkan pengalaman stabilisasi video Anda",
+    "items": [
+      "Stabilisasi Standar: Koreksi dasar untuk goyangan kecil, pemrosesan cepat",
+      "Stabilisasi Lanjutan: Pelunakan komprehensif untuk getaran ekstrem, keluaran berkualitas tinggi",
+      "Prabaca waktu nyata untuk umpan balik instan",
+      "Mendukung berbagai format video",
+      "Integrasi mulus dengan semua perangkat lunak pengeditan video"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Jelajahi lebih banyak alat AI bertenaga untuk meningkatkan kualitas video"
+  },
+  "faq": {
+    "heading": "Pertanyaan Umum",
+    "description": "Segala yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Jenis video apa yang dapat distabilkan?",
+        "answer": "Anda dapat menstabilkan video apa pun, termasuk video rumah, footage profesional, atau konten yang dibuat untuk media sosial. AI kami bekerja secara efisien di berbagai format dan kualitas."
+      },
+      {
+        "question": "Apakah ada batasan panjang video untuk stabilisasi?",
+        "answer": "Tidak, Anda dapat mengunggah video dengan panjang berapa pun. Namun, video yang lebih panjang mungkin memerlukan sedikit lebih banyak waktu untuk diproses. Kami menyarankan klip yang lebih pendek untuk stabilisasi cepat."
+      },
+      {
+        "question": "Bagaimana cara kerja stabilisasi AI dibandingkan dengan metode tradisional?",
+        "answer": "AI kami menganalisis setiap frame video Anda untuk mendeteksi gerakan dan menstabilkannya secara otomatis, menghasilkan footage yang lebih halus tanpa perlu pengeditan manual."
+      },
+      {
+        "question": "Bisakah saya melihat prabaca video yang distabilkan sebelum mengunduh?",
+        "answer": "Ya! Anda dapat melihat prabaca video yang distabilkan secara waktu nyata untuk melihat perbaikan sebelum menyelesaikan unduhan Anda."
+      },
+      {
+        "question": "Apakah ada kehilangan kualitas setelah stabilisasi?",
+        "answer": "Kami memprioritaskan pemeliharaan kualitas video Anda. Meskipun artefak kecil mungkin terjadi, teknologi canggih kami memastikan kehilangan kejernihan asli yang minimal."
+      },
+      {
+        "question": "Apa biaya yang terkait dengan stabilisasi?",
+        "answer": "Layanan ini ditawarkan dengan model bayar sesuai pemakaian, dengan harga berdasarkan durasi dan kompleksitas video. Anda hanya membayar untuk stabilisasi yang Anda butuhkan."
+      },
+      {
+        "question": "Bisakah saya menstabilkan video dengan musik latar dan suara?",
+        "answer": "Tentu saja! Trek audio Anda akan tetap utuh selama proses stabilisasi, memastikan pengalaman menonton yang lengkap."
+      },
+      {
+        "question": "Apakah diperlukan pengeditan video sebelumnya sebelum stabilisasi?",
+        "answer": "Tidak perlu pengeditan sebelumnya. Cukup unggah footage Anda, dan AI kami akan menangani sisanya untuk Anda."
+      },
+      {
+        "question": "Format apa yang bisa saya unggah untuk stabilisasi?",
+        "answer": "Kami mendukung format video populer termasuk MP4, AVI, dan MOV. Kebanyakan format standar dapat diproses dengan teknologi kami."
+      },
+      {
+        "question": "Apakah Anda menyediakan dukungan pelanggan untuk video yang distabilkan?",
+        "answer": "Ya! Tim layanan pelanggan kami tersedia 24/7 untuk membantu dengan pertanyaan atau masalah apa pun mengenai pengalaman stabilisasi video Anda."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Menstabilkan Video Anda?",
+    "description": "Mulailah dengan kredit gratis - Rasakan stabilitasnya sendiri",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Coba Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap untuk Menstabilkan Footage Anda?",
+    "description": "Coba WaveSpeed AI sekarang dan rasakan transformasi video yang halus. Tidak diperlukan pendaftaran.",
+    "ctaText": "Stabilkan Video Sekarang",
+    "text": "© 2025 WaveSpeed AI. Hak cipta dilindungi."
+  }
+}

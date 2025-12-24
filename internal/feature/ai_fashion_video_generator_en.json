@@ -1,0 +1,230 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Fashion Video Generator",
+  "meta": {
+    "description": "Create stunning fashion videos automatically from your images. Harness the power of cutting-edge AI to enhance your marketing strategies. Ideal for fashion brands and e-commerce. Experience the future of visual storytelling!",
+    "keywords": "fashion video generator, AI fashion videos, product video maker, e-commerce video solutions, fashion marketing tools, video automation, Shopify fashion, social media marketing for fashion"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Fashion Video Generation",
+    "subHeading": "Breathe Life into Fashion Imagery",
+    "description": "Transform your fashion product photos into captivating videos effortlessly. No filming needed — just upload your images. Powered by the latest AI technology, it delivers professional-grade fashion videos in minutes.",
+    "tryText": "Get Started Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Fashion Video Generator Solution",
+    "left": {
+      "heading": "Traditional Fashion Video Production Challenges",
+      "items": [
+        "High costs ($3000-7000 per video)",
+        "Requires professional models and setups",
+        "Lengthy editing and production times (up to 10 days)",
+        "Limited creative options",
+        "Inaccessible for small fashion brands"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Fashion Video Solution",
+      "items": [
+        "Generate fashion videos in 1-3 minutes from images",
+        "No models or setup required - Simply upload photos",
+        "Instant AI-powered results with creative flair",
+        "Limitless styles and edits available",
+        "Flexible pay-per-use model suitable for all budgets"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "From image to fashion video in 4 easy steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Fashion Image",
+        "text": "Add your product image or outfit photo",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Add Style Description",
+        "text": "Optional: Describe your desired video style (e.g., \"dynamic runway\" or \"casual wear\")",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Choose AI Model",
+        "text": "Select from our tailored fashion models for best results",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Fashion Video",
+        "text": "Receive your high-quality fashion video in 1-3 minutes with full usage rights",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Create Your Fashion Video →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Fashion Video Opportunities",
+    "description": "Ideal for various fashion applications",
+    "items": [
+      "Lookbook videos showcasing new collections",
+      "Styling videos for social media platforms",
+      "Marketing content for online fashion stores",
+      "Fashion trend highlights",
+      "Product demonstrations and showcases",
+      "Virtual styling sessions",
+      "Fashion influencer collaborations",
+      "Behind-the-scenes and promotional clips"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how fashion brands are revolutionizing their video marketing",
+    "items": [
+      {
+        "tag": "Fashion Retail",
+        "heading": "Online Fashion Boutique",
+        "before": {
+          "label": "Before",
+          "text": "Time-consuming"
+        },
+        "after": {
+          "label": "After",
+          "text": "Instant videos"
+        },
+        "value": "97.5%",
+        "key": "Efficiency Improvement",
+        "description": "Transformed our marketing approach, enabling rapid video creation for new arrivals and boosting engagement by 50%."
+      },
+      {
+        "tag": "Athleisure Brand",
+        "heading": "Direct-to-Consumer Fashion",
+        "before": {
+          "label": "Before",
+          "text": "Weak video content"
+        },
+        "after": {
+          "label": "After",
+          "text": "Vibrant fashion videos"
+        },
+        "value": "100%",
+        "key": "Content Quality",
+        "description": "Significantly enhanced our visual marketing, resulting in more click-through rates and increased sales."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Model Comparison",
+    "description": "Select the best model for your fashion needs",
+    "items": [
+      "Fashion Creator Pro: Premium video quality, artistic edits, tailored for high-end fashion",
+      "Fast Fashion Render: Optimized for quick output, ideal for promotional videos",
+      "AI-driven styling effects for trendy presentations",
+      "Smooth transitions and animated highlights",
+      "1-3 minute video creation time",
+      "Commercial rights included for promotional use"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Fashion Tools",
+    "description": "Explore other powerful AI tools for the fashion industry"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What video quality and duration can I expect?",
+        "answer": "Fashion Creator Pro offers stunning video quality up to 4K, lasting up to 15 seconds, while Fast Fashion Render provides high-quality 10-15 seconds videos. Both ensure engaging visuals and smooth motion suitable for your fashion brand."
+      },
+      {
+        "question": "Can I customize the style of the videos?",
+        "answer": "Absolutely! You can provide descriptive prompts to dictate the style, pace, and ambiance of the video, allowing for an authentic representation of your brand."
+      },
+      {
+        "question": "What image types and formats work best for video generation?",
+        "answer": "Clear, high-resolution images work best, ideally photos of your products on a plain background. Formats like JPG, PNG, and WebP are all supported for optimal video output."
+      },
+      {
+        "question": "How is this different from traditional fashion videos?",
+        "answer": "Our AI generates genuine motion and artistic edits that traditional videos simply cannot match. This technology allows you to produce dynamic content in a fraction of the time with professional quality."
+      },
+      {
+        "question": "Can I upscale or enhance the video quality after generation?",
+        "answer": "Yes! You can enhance any generated video using our editing tools to improve clarity, detail, and overall quality following the initial generation."
+      },
+      {
+        "question": "What pricing model applies to the fashion video generation?",
+        "answer": "We operate on a flexible pay-as-you-go model with no monthly fees. Pricing is based on the chosen model and video length, ensuring affordability for all fashion brands."
+      },
+      {
+        "question": "How long does video generation take and can I create multiple videos at once?",
+        "answer": "Typically, video generation takes 1-3 minutes, and you can create multiple videos simultaneously through batch processing effortlessly."
+      },
+      {
+        "question": "What are the best use cases for the fashion video generator?",
+        "answer": "This generator is perfect for lookbook videos, social media content, promotional campaigns, and any scenario where engaging fashion visuals enhance brand visibility."
+      },
+      {
+        "question": "Do I own the commercial rights to the generated videos?",
+        "answer": "Yes! All videos produced with WaveSpeed come with full commercial rights, giving you freedom to use them across all marketing platforms without restrictions."
+      },
+      {
+        "question": "What support resources are available?",
+        "answer": "We offer extensive documentation, tutorials, and active customer support for any technical queries, ensuring you benefit from our service to the fullest."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Create Your First Fashion Video?",
+    "description": "Start with free credits and showcase your collection like never before.",
+    "contactUsText": "Contact Us",
+    "tryText": "Get Started Now →"
+  },
+  "footer": {
+    "heading": "Ready to Bring Your Fashion Images to Life?",
+    "description": "Experience the WaveSpeed AI Fashion Video Generator today. No sign-up needed.",
+    "ctaText": "Create Fashion Videos Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

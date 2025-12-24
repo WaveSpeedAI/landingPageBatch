@@ -1,0 +1,230 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Pemurnian Gambar AI",
+  "meta": {
+    "description": "Tingkatkan gambar Anda dengan pemurnian bertenaga AI untuk kejernihan dan detail yang menakjubkan. Ideal untuk e-commerce, media sosial, dan konten visual lainnya. Rasakan kualitas gambar tingkat berikutnya secara instan!",
+    "keywords": "pemurnian gambar AI, peningkatan foto, kejernihan gambar, gambar e-commerce, alat foto AI, gambar resolusi tinggi, konten visual media sosial, optimasi foto, WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Pemurnian Gambar",
+    "subHeading": "Hidupkan Gambar Anda",
+    "description": "Ubah gambar yang buram dan berkualitas rendah menjadi visual yang menakjubkan dengan pemurnian AI yang canggih. Rasakan kejernihan dan detail yang ditingkatkan dengan mudah. Sempurna untuk e-commerce, pemasaran, dan proyek pribadi.",
+    "tryText": "Purnikan Gambar Anda Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Pemurnian Gambar AI WaveSpeed AI",
+    "left": {
+      "heading": "Tantangan Pengeditan Gambar Tradisional",
+      "items": [
+        "Alat pemurnian manual kompleks dan memakan waktu",
+        "Kehilangan kualitas saat pembesaran dan penyesuaian",
+        "Memerlukan pengetahuan tentang perangkat lunak pengeditan foto",
+        "Tidak cocok untuk pemrosesan gambar secara massal",
+        "Hasil terbatas tanpa keterampilan profesional"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeed AI",
+      "items": [
+        "Purnikan banyak gambar secara instan dengan satu klik",
+        "Peningkatan berbasis AI yang menjaga detail",
+        "Antarmuka ramah pengguna tanpa keterampilan sebelumnya dibutuhkan",
+        "Pemrosesan batch untuk alur kerja yang mulus",
+        "Layanan pemurnian yang hemat biaya, bayar per gambar"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Capai gambar yang jernih dalam 4 langkah sederhana",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Gambar",
+        "text": "Pilih gambar yang ingin Anda purnikan",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Sesuaikan Pengaturan",
+        "text": "Sesuaikan level pemurnian sesuai preferensi Anda",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Pratinjau Perubahan",
+        "text": "Lihat perubahan waktu nyata pada kejernihan gambar Anda",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Unduh Gambar yang Ditingkatkan",
+        "text": "Dapatkan gambar Anda yang telah dipurnikan dengan indah secara instan",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Purnikan Gambar Pertama Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Tak Terbatas",
+    "description": "Tingkatkan gambar untuk aplikasi apapun",
+    "items": [
+      "Gambar produk untuk Shopify dan Amazon",
+      "Posting media sosial untuk Instagram dan Facebook",
+      "Materi pemasaran dan iklan",
+      "Daftar real estat",
+      "Fotografi makanan untuk menu",
+      "Proyek fotografi pribadi",
+      "Foto acara dan pernikahan",
+      "Cetakan seni dan portofolio online"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Temukan bagaimana pengguna meningkatkan gambar mereka dengan AI",
+    "items": [
+      {
+        "tag": "Fotografi E-commerce",
+        "heading": "Daftar Produk Amazon",
+        "before": {
+          "label": "Sebelum",
+          "text": "Gambar Buram"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Jernih"
+        },
+        "value": "98.7%",
+        "key": "Peningkatan Kualitas Gambar",
+        "description": "Kualitas gambar yang ditingkatkan meningkatkan tingkat konversi kami sebesar 35% dalam satu minggu."
+      },
+      {
+        "tag": "Pemasaran Media Sosial",
+        "heading": "Pembuat Konten Instagram",
+        "before": {
+          "label": "Sebelum",
+          "text": "Foto Tidak Jelas"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Visual Menakjubkan"
+        },
+        "value": "97.5%",
+        "key": "Peningkatan Tingkat Keterlibatan",
+        "description": "Gambar berkualitas tinggi meningkatkan followers dan suka kami secara dramatis."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Model Pemurnian AI",
+    "description": "Pilih model pemurnian yang tepat untuk kebutuhan Anda",
+    "items": [
+      "Pemurnian Standar: Meningkatkan detail sambil mempertahankan tampilan alami",
+      "Pemurnian Ditingkatkan: Memaksimalkan kejernihan dan kontras untuk gambar yang mencolok",
+      "Pemrosesan Batch: Memurnikan banyak gambar sekaligus",
+      "Pengendalian Kualitas Adaptif: Menyesuaikan pemurnian berdasarkan konten gambar",
+      "Pratinjau waktu nyata: Lihat perubahan secara instan sebelum menyimpan",
+      "Dukungan PNG dan JPG untuk semua output"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Temukan lebih banyak alat AI yang kuat untuk peningkatan gambar"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Segala yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Jenis gambar apa yang bisa dipurnikan?",
+        "answer": "Anda dapat memurnikan format JPG, PNG, dan WebP. Gambar harus jelas dan berkualitas baik untuk hasil terbaik."
+      },
+      {
+        "question": "Bisakah saya menyesuaikan level pemurnian?",
+        "answer": "Ya! Anda dapat menyesuaikan kekuatan pemurnian untuk mencocokkan hasil yang diinginkan dan jenis gambar."
+      },
+      {
+        "question": "Berapa lama waktu yang dibutuhkan untuk memurnikan gambar?",
+        "answer": "Sebagian besar gambar ditingkatkan dalam beberapa detik, sehingga cepat dan efisien untuk proyek apapun."
+      },
+      {
+        "question": "Apakah ada batasan berapa banyak gambar yang dapat saya purnikan sekaligus?",
+        "answer": "Tidak ada batasan! Anda dapat memurnikan sebanyak yang Anda inginkan sekaligus dengan fitur pemrosesan batch kami."
+      },
+      {
+        "question": "Apakah saya perlu perangkat lunak khusus untuk menggunakan alat ini?",
+        "answer": "Tidak ada perangkat lunak khusus yang diperlukan. Cukup unggah gambar Anda di platform kami dan mulai tingkatkan."
+      },
+      {
+        "question": "Apakah ada biaya tambahan untuk memurnikan gambar?",
+        "answer": "Kami beroperasi dengan model bayar per gambar tanpa biaya tersembunyi, sehingga fleksibel untuk anggaran Anda."
+      },
+      {
+        "question": "Bisakah saya membatalkan langganan saya kapan saja?",
+        "answer": "Ya! Tidak ada langganan. Anda hanya membayar untuk gambar yang Anda pilih untuk dipurnikan."
+      },
+      {
+        "question": "Apa yang terjadi jika saya tidak suka hasilnya?",
+        "answer": "Jika Anda tidak puas, Anda dapat menyesuaikan pengaturan dan memurnikan lagi tanpa biaya tambahan."
+      },
+      {
+        "question": "Apakah ada dukungan jika saya mengalami masalah?",
+        "answer": "Ya! Tim dukungan pelanggan kami tersedia melalui email dan obrolan langsung untuk pertanyaan atau pemecahan masalah."
+      },
+      {
+        "question": "Bisakah saya menggunakan gambar yang dipurnikan untuk keperluan komersial?",
+        "answer": "Sangat bisa! Anda memiliki hak atas semua gambar yang dipurnikan menggunakan alat kami."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Memurnikan Gambar Anda?",
+    "description": "Mulai tingkatkan visual Anda hari ini!",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Purnikan Gambar Anda Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap untuk Meningkatkan Gambar Anda?",
+    "description": "Coba WaveSpeed AI sekarang dan rasakan transformasinya. Tanpa perlu mendaftar.",
+    "ctaText": "Mulai Memurnikan Sekarang",
+    "text": "© 2025 WaveSpeed AI. Hak cipta dilindungi undang-undang."
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - KI-Porträtgenerator",
+  "meta": {
+    "description": "Erstellen Sie atemberaubende, hochwertige KI-generierte Porträts, die Ihren einzigartigen Stil widerspiegeln. Nutzen Sie modernste KI-Technologie, um Ihre Kreativität zu entfesseln und in kürzester Zeit fesselnde Werke zu schaffen. Ideal für Künstler, Influencer in sozialen Medien und Vermarkter. Erleben Sie die Zukunft der digitalen Kunst!",
+    "keywords": "KI-Porträtgenerator, KI-Kunstwerk-Ersteller, digitales Porträtwerkzeug, benutzerdefinierte Porträts, künstlerische KI, Foto zu Porträt KI, WaveSpeed AI, sofortige Kunstwerke, Branding-Visuals, Social-Media-Kunst, kreative digitale Lösungen"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI-Tools",
+        "items": [
+          [
+            "KI-Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "Porträtgenerierung leicht gemacht",
+    "subHeading": "Verwandeln Sie Ihre Fotos in schöne KI-Porträts",
+    "description": "Erstellen Sie atemberaubende Porträts aus Ihren Bildern in nur wenigen Minuten. Keine künstlerischen Fähigkeiten erforderlich. Mit unserer fortschrittlichen KI-Technologie entfesseln Sie Ihre Kreativität und personalisieren Ihre Kunstwerke mühelos.",
+    "tryText": "Jetzt ausprobieren",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI KI-Porträtgenerator Lösung",
+    "left": {
+      "heading": "Herausforderungen traditioneller Porträts",
+      "items": [
+        "Teure Aufträge (500-2000 $ pro Porträt)",
+        "Erfordert künstlerische Fähigkeiten und Werkzeuge",
+        "Lange Bearbeitungszeit (Wochen)",
+        "Begrenzte Stile und Anpassungen",
+        "Hohe Einstiegshürden für aufstrebende Künstler"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Lösung",
+      "items": [
+        "Generieren Sie atemberaubende Porträts in 1-5 Minuten aus Ihren Fotos",
+        "Keine künstlerischen Fähigkeiten erforderlich - Einfach Ihr Bild hochladen",
+        "Sofortige Ergebnisse mit KI-unterstützter Kunst",
+        "Unbegrenzte Stile und Iterationen verfügbar",
+        "Erschwingliche Preise mit Bezahloptionen nach Verbrauch"
+      ],
+      "tryText": "Versuchen"
+    }
+  },
+  "howItWorks": {
+    "heading": "So funktioniert es",
+    "description": "Erstellen Sie Ihr KI-Porträt in 4 einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Foto hochladen",
+        "text": "Laden Sie Ihr Lieblingsfoto hoch, das transformiert werden soll",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Stil wählen",
+        "text": "Wählen Sie einen künstlerischen Stil für Ihr Porträt (z. B. klassisch, modern, abstrakt)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Merkmale anpassen",
+        "text": "Passen Sie Details wie Farbschema und Gesichtszüge nach Ihren Wünschen an",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Porträt herunterladen",
+        "text": "Erhalten Sie Ihr KI-generiertes Porträt in hoher Auflösung",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Erstellen Sie Ihr erstes Porträt →"
+  },
+  "endlessPossibilities": {
+    "heading": "Unendliche Möglichkeiten",
+    "description": "Verwandeln Sie jedes Bild in ein Kunstwerk",
+    "items": [
+      "Personalisierte Profilbilder für soziale Medien",
+      "Kunstwerke für Marketingkampagnen",
+      "Benutzerdefinierte Illustrationen für Branding",
+      "Einzigartige Geschenke und Andenken",
+      "Stilisierte Avatare für Spiele",
+      "Kreative Visuals für Websites",
+      "Künstlerische Drucke für Wohnkultur",
+      "Visuals für Geschäftsbranding"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Erfahren Sie, wie Einzelpersonen ihre Kreativität mit KI-Porträts steigern",
+    "items": [
+      {
+        "tag": "Social Media Persönlichkeit",
+        "heading": "Instagram Kunstprofil",
+        "before": {
+          "label": "Vorher",
+          "text": "Einfache Fotos"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Atemberaubende KI-Porträts"
+        },
+        "value": "150%",
+        "key": "Engagement-Steigerung",
+        "description": "Unsere Followerzahlen sind explodiert, nachdem wir auf KI-generierte Porträts umgestiegen sind, die unseren einzigartigen Stil einfangen."
+      },
+      {
+        "tag": "Startup-Gründer",
+        "heading": "Benutzerdefiniertes Branding für Unternehmen",
+        "before": {
+          "label": "Vorher",
+          "text": "Teure Designer"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Erschwingliche KI-Porträts"
+        },
+        "value": "90%",
+        "key": "Kosteneinsparungen",
+        "description": "Mit KI haben wir unser Markenimage zu einem Bruchteil der Kosten transformiert. Unsere Marketingstrategie innoviert!"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "KI-Modellvergleich",
+    "description": "Wählen Sie den richtigen Stil für Ihre Porträtbedürfnisse",
+    "items": [
+      "Klassisches Porträt: Zeitloser Stil mit fotorealistischen Ergebnissen",
+      "Moderne Kunst: Kräftige Farben und zeitgenössisches Design",
+      "Abstraktes Porträt: Einzigartige Muster und künstlerisches Flair",
+      "Benutzerdefinierte Stile: Passen Sie Ihr Porträt mit einzigartigen Merkmalen an",
+      "Geschwindigkeitsoptionen: Schnelle Generierung für zeitliche Bedürfnisse",
+      "Kommerzielle Rechte: Vollständige Nutzungsrechte für Ihre Kreationen"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ähnliche KI-Tools",
+    "description": "Entdecken Sie weitere innovative KI-Tools für Ihre kreativen Projekte"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welche Arten von Bildern eignen sich am besten zur Porträtgenerierung?",
+        "answer": "Klare, hochauflösende Bilder mit guter Beleuchtung erzielen die besten Ergebnisse. Wir empfehlen, Bilder zu verwenden, die sich auf das Gesicht konzentrieren, und geschäftige Hintergründe zu vermeiden, um optimale Ausgaben zu erzielen."
+      },
+      {
+        "question": "Kann ich meine Porträts nach der Generierung bearbeiten?",
+        "answer": "Ja! Sie können Anpassungen vornehmen, um Aspekte Ihres Porträts zu verfeinern oder es mit unterschiedlichen Stilen neu zu generieren, um das gewünschte Aussehen zu erreichen."
+      },
+      {
+        "question": "Welche Formate kann ich für Porträts hochladen?",
+        "answer": "Wir unterstützen die Formate JPG, PNG und WebP. Achten Sie darauf, dass die Bilder gut beleuchtet sind und mindestens 512x512 Pixel für die beste Qualität haben."
+      },
+      {
+        "question": "Wie lange dauert es, ein Porträt zu generieren?",
+        "answer": "Die Generierung dauert normalerweise zwischen 1 und 5 Minuten, abhängig von der Komplexität des gewählten Stils und der Anpassung."
+      },
+      {
+        "question": "Gibt es Nutzungsrechte für die generierten Porträts?",
+        "answer": "Absolut! Alle generierten Porträts kommen mit vollen kommerziellen Rechten, die es Ihnen ermöglichen, sie ohne zusätzliche Gebühren für persönliche oder geschäftliche Zwecke zu verwenden."
+      },
+      {
+        "question": "Was sind die besten Anwendungsfälle für KI-Porträts?",
+        "answer": "Ideal für Social-Media-Profile, Marketingmaterialien, Branding und jedes kreative Projekt, bei dem personalisierte Kunstwerke gewünscht sind."
+      },
+      {
+        "question": "Brauche ich spezielle Fähigkeiten, um Porträts zu erstellen?",
+        "answer": "Nein! Das KI-Tool ist für jeden konzipiert, unabhängig von künstlerischen Fähigkeiten. Laden Sie einfach hoch, wählen Sie aus und passen Sie an, um Ihr einzigartiges Porträt zu erstellen."
+      },
+      {
+        "question": "Wie kann ich Feedback geben, wenn etwas schiefgeht?",
+        "answer": "Wir haben ein robustes Unterstützungssystem; bitte kontaktieren Sie uns über unsere Kontaktmöglichkeiten für Hilfe, und wir werden helfen, eventuelle Probleme zu lösen."
+      },
+      {
+        "question": "Welche Zahlungsmöglichkeiten gibt es für den Service?",
+        "answer": "Wir bieten flexible Preise mit Bezahlung nach Verbrauch ohne versteckte Gebühren an. Genießen Sie die Freiheit, nur für die Porträts zu bezahlen, die Sie erstellen."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Ihr erstes KI-Porträt zu erstellen?",
+    "description": "Beginnen Sie mit kostenlosen Credits - Entfesseln Sie jetzt Ihre Kreativität",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Jetzt ausprobieren →"
+  },
+  "footer": {
+    "heading": "Bereit, Ihre Fotos zu verwandeln?",
+    "description": "Probieren Sie WaveSpeed AI jetzt aus und sehen Sie den Unterschied selbst. Keine Anmeldung erforderlich.",
+    "ctaText": "Generieren Sie jetzt Ihr Porträt",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

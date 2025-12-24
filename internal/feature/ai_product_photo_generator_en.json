@@ -1,0 +1,230 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Product Photo Generator",
+  "meta": {
+    "description": "Revolutionize your e-commerce experience with AI-generated product photos that captivate and convert. Ideal for online stores, social media marketing, and promotional materials. Experience seamless automation, high-quality results, and no technical skills required!",
+    "keywords": "AI product photo generator, e-commerce product images, marketing photos, automated photo enhancement, online store images, social media visuals, AI image creator, product photography tool, Shopify images, Amazon product photos, quick photo generation"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "AI Product Photo Generator",
+    "subHeading": "Elevate Your Product Photography Effortlessly",
+    "description": "Transform your ordinary product images into stunning visuals in just minutes. No photography skills required! Unlock the power of advanced AI to generate captivating product photos that enhance your brand. Ready to get started?",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Product Photo Generator Solution",
+    "left": {
+      "heading": "Traditional Photography Challenges",
+      "items": [
+        "High costs of professional photography services ($1500-3000 per session)",
+        "Need for specialized equipment and lighting",
+        "Time-consuming editing and post-processing (3-5 days)",
+        "Limited options for unique and varied images",
+        "Inaccessible for small business owners"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Generate stunning product images in under 5 minutes",
+        "No equipment or photography skills necessary - Just upload your images",
+        "Instant high-quality results driven by AI technology",
+        "Unlimited adaptations and styles to fit your brand",
+        "Cost-effective solutions - Affordable for all businesses"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "From basic photo to standout product image in 4 easy steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Your Photo",
+        "text": "Choose your product photo or any image you want enhanced",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Customize Your Style",
+        "text": "Optional: Select style preferences and enhancements",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "AI Processing",
+        "text": "Let our AI analyze and transform your image",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Your Image",
+        "text": "Receive your enhanced product photo in minutes",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Generate Your First Photo →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Transform any product image for various platforms",
+    "items": [
+      "Professional images for Shopify and Amazon listings",
+      "Social media content (Instagram, Facebook, Pinterest)",
+      "Marketing materials and promotional visuals",
+      "Visuals for online ads and campaigns",
+      "Brand consistency across all digital platforms",
+      "Email marketing graphics and newsletters",
+      "Enhanced visuals for blogs and websites",
+      "Creative concepts for product launches"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how businesses are enhancing their visuals with AI",
+    "items": [
+      {
+        "tag": "Fashion Retail",
+        "heading": "E-Commerce Clothing Brand",
+        "before": {
+          "label": "Before",
+          "text": "High costs"
+        },
+        "after": {
+          "label": "After",
+          "text": "Affordable AI generation"
+        },
+        "value": "98%",
+        "key": "Cost Reduction",
+        "description": "We transformed the presentation of our products overnight, boosting sales by 45%."
+      },
+      {
+        "tag": "Home Goods",
+        "heading": "Online Decor Store",
+        "before": {
+          "label": "Before",
+          "text": "Need for a full photoshoot"
+        },
+        "after": {
+          "label": "After",
+          "text": "Instant image improvements"
+        },
+        "value": "99%",
+        "key": "Time Saved",
+        "description": "Our turnaround on marketing campaigns has greatly improved thanks to the speed of AI-generated visuals."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Method Comparison",
+    "description": "Select the best approach for your needs",
+    "items": [
+      "High-Resolution Output: Stunning images at 300 DPI",
+      "Smart Optimizations: Enhance color and detail automatically",
+      "Custom Style Options for branding consistency",
+      "Quick Turnaround: Ideal for time-sensitive campaigns",
+      "Compatible File Formats: JPEG, PNG, and more",
+      "Batch Processing Available: For handling multiple images at once"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore more advanced AI solutions for e-commerce"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What image quality can I expect?",
+        "answer": "Expect high-quality images with sharpness and vibrant color. Our AI ensures your product images are polished and ready for any platform."
+      },
+      {
+        "question": "Can I customize the output style?",
+        "answer": "Absolutely! You can select from various styles and enhancements to match your brand identity and product type."
+      },
+      {
+        "question": "What types of images work best for generation?",
+        "answer": "Clear and well-lit images give optimal results, but our technology can enhance a variety of photos to meet your needs."
+      },
+      {
+        "question": "How does this differ from traditional photography?",
+        "answer": "Unlike traditional photography, our AI eliminates the need for expensive equipment and lengthy shoots while providing high-quality results."
+      },
+      {
+        "question": "Can I download my enhanced images instantly?",
+        "answer": "Yes! Once processing is complete, you can download your enhanced images immediately."
+      },
+      {
+        "question": "What pricing model do you use for photo enhancement?",
+        "answer": "We operate on a flexible pay-as-you-go basis, meaning you only pay for the images you generate without hidden fees."
+      },
+      {
+        "question": "How long does image generation take?",
+        "answer": "Typically under 5 minutes per image, regardless of complexity."
+      },
+      {
+        "question": "What use cases does AI product photo generation suit best?",
+        "answer": "It's perfect for online stores, social media marketing, promotional materials, and more!"
+      },
+      {
+        "question": "Do I own the rights to generated images?",
+        "answer": "Yes! All images generated include full commercial rights with no extra costs involved."
+      },
+      {
+        "question": "What support does WaveSpeed offer?",
+        "answer": "We provide extensive support through documentation, tutorials, and a responsive team available for any issues."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Transform Your Product Images?",
+    "description": "Start with free credits and experience the magic of AI-enhanced photography.",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Ready to Enhance Your Photos?",
+    "description": "Experience WaveSpeed AI now and witness the transformation. No sign-up required.",
+    "ctaText": "Enhance My Image Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

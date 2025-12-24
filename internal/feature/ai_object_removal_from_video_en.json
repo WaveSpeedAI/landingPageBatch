@@ -1,0 +1,225 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Object Removal from Video",
+  "meta": {
+    "description": "Effortlessly enhance your videos by removing unwanted objects with AI. Streamline your editing process and create polished content instantly. Perfect for marketers, videographers, and content creators. Experience seamless video editing with WaveSpeed AI!",
+    "keywords": "AI object removal, video editing AI, unwanted object removal, content creation tool, video enhancement, AI video editing, marketing video solutions, video production, visual content optimization, professional video editing"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Object Removal from Video",
+    "subHeading": "Eliminate Unwanted Elements Effortlessly",
+    "description": "Remove distractions and enhance your video content in seconds. Utilizing cutting-edge AI technology, you can achieve a clean, professional look without manual editing labor. Experience the freedom of flawless visuals today!",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Object Removal from Video Solution",
+    "left": {
+      "heading": "Traditional Editing Challenges",
+      "items": [
+        "Time-consuming manual object removal",
+        "Expensive editing software and tools",
+        "Requires professional skills and experience",
+        "Cumbersome processes with limited accuracy",
+        "High cost for small projects"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Instant removal of objects in just minutes",
+        "No technical skills required - Just upload videos",
+        "AI-powered accuracy and efficiency",
+        "Unlimited revisions at no extra cost",
+        "Pay-as-you-go pricing makes it accessible for all"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Effortless object removal in 4 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Video",
+        "text": "Upload your video file containing unwanted objects",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Select Objects",
+        "text": "Identify the objects you want to remove from the scene",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Confirm Removal",
+        "text": "Review the selection and confirm the removal process",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Video",
+        "text": "Receive your edited video without unwanted elements in minutes",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Remove Objects Now →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Tailor your videos for any scenario",
+    "items": [
+      "Promotional videos free of distractions",
+      "Social media ads polished to perfection",
+      "Content creation without visual clutter",
+      "Professional presentations refined for clarity",
+      "Tutorials focused solely on key elements",
+      "Real estate listings showcasing properties flawlessly",
+      "Event footage free from obstructions",
+      "Brand storytelling with enhanced visuals"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how businesses are refining their video content with AI",
+    "items": [
+      {
+        "tag": "Marketing Agency",
+        "heading": "Ad Campaign Video",
+        "before": {
+          "label": "Before",
+          "text": "Messy backgrounds"
+        },
+        "after": {
+          "label": "After",
+          "text": "Clean and professional"
+        },
+        "value": "98%",
+        "key": "Visual Quality Improvement",
+        "description": "Using AI object removal, we transformed our client’s ad videos, boosting engagement by 50% in just a week."
+      },
+      {
+        "tag": "Event Organizer",
+        "heading": "Promotional Video",
+        "before": {
+          "label": "Before",
+          "text": "Difficult to follow"
+        },
+        "after": {
+          "label": "After",
+          "text": "Seamless storytelling"
+        },
+        "value": "97%",
+        "key": "Viewer Retention",
+        "description": "Removed unwanted distractions from our event highlights, resulting in a much higher viewer retention rate."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Model Comparison",
+    "description": "Select the most suitable model for your needs",
+    "items": [
+      "AI Precision: Flawless object detection and removal",
+      "Speed Enhancement: Fast processing without compromising quality",
+      "User-friendly interface for effortless navigation",
+      "Seamless integration with existing video projects",
+      "Commercial usage rights included for all output"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore more powerful AI tools for content enhancement"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What types of videos can I use for object removal?",
+        "answer": "You can upload a variety of video formats including MP4, AVI, and MOV. Ensure your videos are clear and well-lit for best results."
+      },
+      {
+        "question": "How accurate is the object removal process?",
+        "answer": "The AI technology is designed for high accuracy, closely mimicking professional editing outcomes by seamlessly blending surrounding areas after removal."
+      },
+      {
+        "question": "Is there a limit to how many objects I can remove?",
+        "answer": "No, there is no limit! You can remove as many objects as needed in a single video, though more complex removals may require more time."
+      },
+      {
+        "question": "What happens if I'm not satisfied with the removal results?",
+        "answer": "We offer unlimited revisions, so you can refine the outcome until it meets your expectations. Just re-upload the video with your feedback."
+      },
+      {
+        "question": "Are there commercial rights for videos processed with AI?",
+        "answer": "Yes! All videos processed through our platform come with full commercial usage rights, allowing you to utilize them in any marketing effort."
+      },
+      {
+        "question": "How long does it take to process a video for object removal?",
+        "answer": "Most videos are processed in just a few minutes, depending on the complexity and length of the footage."
+      },
+      {
+        "question": "Can I edit parts of the video while removing objects?",
+        "answer": "While the primary focus is on object removal, you can enhance the video with additional editing tools available in our platform."
+      },
+      {
+        "question": "Are there tutorials available for using this feature?",
+        "answer": "Absolutely! We provide extensive documentation and video tutorials to guide you through the entire process of object removal."
+      },
+      {
+        "question": "Is it possible to integrate this tool with other video editing software?",
+        "answer": "Yes! Our tool is designed for easy integration, allowing you to complement your existing video editing process effortlessly."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Clean Up Your Videos?",
+    "description": "Start with free credits - Experience the magic of AI object removal today!",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Ready to Revitalize Your Videos?",
+    "description": "Try WaveSpeed AI now and see the transformation. No sign-up required.",
+    "ctaText": "Remove Objects Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

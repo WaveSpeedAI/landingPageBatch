@@ -1,0 +1,231 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Gerador de Design de Interiores com IA",
+  "meta": {
+    "description": "Revolucione seus projetos de design de interiores com nosso gerador impulsionado por IA. Visualize instantaneamente seus espaços com designs deslumbrantes adaptados ao seu estilo e preferências. Agilize seu processo de design com a tecnologia inovadora da WaveSpeed.",
+    "keywords": "design de interiores com IA, visualização de ambientes, inspiração para decoração de casa, designer de interiores virtual, ferramenta de planejamento de espaço, gerador de design de interiores, software de estilização de casa, soluções de design automatizadas, layouts personalizados de ambientes, ideias de melhorias para casa, maquetes de design"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de IA",
+        "items": [
+          [
+            "Ferramentas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Mostra",
+        "items": [
+          [
+            "Mostra",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Gerador de Design de Interiores com IA",
+    "subHeading": "Dê Vida à Sua Imaginação em Segundos",
+    "description": "Transforme qualquer espaço no interior dos seus sonhos com nosso gerador de IA. Faça o upload de fotos do seu ambiente e deixe nossa tecnologia criar designs deslumbrantes que combinem com sua estética. Comece a projetar seu espaço ideal hoje!",
+    "tryText": "Comece a Projetar Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução do Gerador de Design de Interiores com IA da WaveSpeed",
+    "left": {
+      "heading": "Desafios do Design Tradicional",
+      "items": [
+        "Altos custos para designers de interiores ($2000-8000 por projeto)",
+        "Revisões limitadas e tempo de resposta lento",
+        "Dependência de amostras físicas e showrooms",
+        "Ferramentas de design complicadas que requerem treinamento",
+        "Escolhas esmagadoras podem paralisar a tomada de decisão"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeedAI",
+      "items": [
+        "Conceitos de design gerados em minutos",
+        "Nenhum conhecimento especializado necessário—basta fazer upload de imagens",
+        "Iterações ilimitadas para refinar sua visão",
+        "Explore estilos e opções de design infinitos",
+        "Modelo de pagamento por design acessível para todos os orçamentos"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "Crie seu espaço perfeito em 4 passos simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Faça o Upload da Foto do Ambiente",
+        "text": "Faça o upload de uma imagem do ambiente que você deseja projetar",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Escolha Seu Estilo",
+        "text": "Selecione seu estilo de design preferido (por exemplo, moderno, aconchegante, industrial)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Personalize Elementos",
+        "text": "Adicione ou remova móveis, cores e itens de decoração que você imagina",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Baixe a Maquete do Design",
+        "text": "Receba sua disposição de design personalizada em minutos",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Gere Seu Primeiro Design →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilidades de Design Infinitas",
+    "description": "Ideal para qualquer espaço ou necessidade de design",
+    "items": [
+      "Transformações de sala de estar",
+      "Ideias para decoração de quartos",
+      "Reformas de cozinha",
+      "Otimização de espaço de escritório",
+      "Designs de apartamentos pequenos",
+      "Áreas externas elegantes",
+      "Planejamento de espaços para eventos",
+      "Estilização de berçários"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Veja como os clientes estão transformando seus interiores com IA",
+    "items": [
+      {
+        "tag": "Renovação de Casa",
+        "heading": "Reforma Aconchegante de um Chalé",
+        "before": {
+          "label": "Antes",
+          "text": "Ultrapassado e apertado"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Espaçoso e convidativo"
+        },
+        "value": "150%",
+        "key": "Satisfação do Cliente",
+        "description": "Com o Gerador de IA, revitalizamos nosso chalé em um dia! A família adorou o novo design."
+      },
+      {
+        "tag": "Escritório Moderno",
+        "heading": "Redesign de Espaço Corporativo",
+        "before": {
+          "label": "Antes",
+          "text": "Sem graça e sem inspiração"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Brilhante e moderno"
+        },
+        "value": "120%",
+        "key": "Felicidade dos Funcionários",
+        "description": "A nova disposição do escritório melhorou a produtividade e a criatividade, tudo graças à WaveSpeed!"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Modelos de IA",
+    "description": "Selecione o modelo de design certo para suas necessidades",
+    "items": [
+      "Estilo Moderno: Linhas elegantes, abordagem minimalista, versátil",
+      "Estilo Aconchegante: Cores quentes, texturas suaves, ambiente confortável",
+      "Estilo Industrial: Elementos crus, acabamentos modernos, declarações ousadas",
+      "Estilo Boêmio: Misturas ecléticas, cores vibrantes, toque artístico",
+      "Estilo Tradicional: Decoração clássica, móveis elegantes, apelo atemporal",
+      "Estilo Transicional: Mistura equilibrada de tradicional e moderno",
+      "Estilo Contemporâneo: Tendências atuais, espaços abertos, estética fresca"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Descubra mais soluções de IA para casa e design"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo o que você precisa saber",
+    "items": [
+      {
+        "question": "Quais estilos de design posso criar?",
+        "answer": "Nosso gerador de IA oferece vários estilos, incluindo moderno, aconchegante, industrial, boêmio e tradicional—permitindo que você crie facilmente a aparência perfeita para qualquer ambiente."
+      },
+      {
+        "question": "Posso mudar a disposição dos móveis?",
+        "answer": "Sim! Você pode arrastar e soltar os elementos de móveis dentro da maquete do design para encontrar a disposição perfeita que se adapte ao seu espaço."
+      },
+      {
+        "question": "Quais tipos de imagens funcionam melhor para upload?",
+        "answer": "Fotos claras e bem iluminadas do seu espaço produzem os melhores resultados. Idealmente, as imagens devem capturar todo o ambiente com pouca desordem."
+      },
+      {
+        "question": "Quantos designs posso gerar de uma vez?",
+        "answer": "Você pode gerar vários designs simultaneamente, permitindo que experimente diversos estilos e layouts com facilidade."
+      },
+      {
+        "question": "Há um limite para revisões de design?",
+        "answer": "Não, você pode fazer quantas revisões quiser até ficar totalmente satisfeito com seu design!"
+      },
+      {
+        "question": "Qual é o modelo de preços para o Gerador de Design de Interiores com IA?",
+        "answer": "A WaveSpeed opera em um modelo de pagamento conforme o uso, permitindo que você pague apenas pelos designs que gerar, sem assinaturas."
+      },
+      {
+        "question": "Quão rápido receberei os meus designs?",
+        "answer": "Os designs são gerados em apenas alguns minutos, facilitando a visualização rápida de suas ideias!"
+      },
+      {
+        "question": "Posso salvar meus designs para uso posterior?",
+        "answer": "Com certeza! Você pode salvar seus designs para revisitar e modificá-los a qualquer momento."
+      },
+      {
+        "question": "Existem direitos comerciais para designs gerados?",
+        "answer": "Sim! Todos os designs gerados através da WaveSpeed incluem direitos completos para uso pessoal e comercial."
+      },
+      {
+        "question": "Que suporte está disponível para solução de problemas?",
+        "answer": "Oferecemos suporte abrangente, incluindo tutoriais, perguntas frequentes e atendimento ao cliente para ajudá-lo com quaisquer problemas."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Projetar Seu Espaço dos Sonhos?",
+    "description": "Comece com créditos grátis - Experimente a transformação por si mesmo",
+    "contactUsText": "Entre em Contato Conosco",
+    "tryText": "Comece a Projetar Agora →"
+  },
+  "footer": {
+    "heading": "Pronto para Redesigner Seu Espaço?",
+    "description": "Experimente a WaveSpeed AI agora e veja suas ideias de interiores ganharem vida. Nenhum cadastro necessário.",
+    "ctaText": "Renovação de Seu Espaço Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

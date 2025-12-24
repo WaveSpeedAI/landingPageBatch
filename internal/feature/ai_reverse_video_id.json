@@ -1,0 +1,229 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Generator Video Balik AI",
+  "meta": {
+    "description": "Membalikkan waktu dalam video Anda dengan mudah dan menciptakan konten menarik dengan AI. Sempurna untuk keterlibatan media sosial dan kampanye pemasaran yang unik. Alami masa depan pembuatan video dengan WaveSpeed AI.",
+    "keywords": "video balik AI, alat pengeditan video, generator video AI, pembuat video media sosial, video pembalikan waktu, konten video menarik, pembuat video pemasaran, peningkatan video, solusi video kreatif, pengeditan video bertenaga AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Membalik Video dengan Mudah",
+    "subHeading": "Transformasi Konten Video Anda dalam Sekejap",
+    "description": "Membalikkan aksi dalam video Anda secara instan untuk menciptakan konten menarik dan menarik perhatian. Sempurna untuk media sosial dan pemasaran. Coba sekarang untuk melihat betapa mudahnya menarik perhatian audiens Anda!",
+    "tryText": "Coba Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Video Balik AI WaveSpeed",
+    "left": {
+      "heading": "Kesulitan Pengeditan Video Tradisional",
+      "items": [
+        "Pengeditan manual diperlukan untuk membalikkan rekaman",
+        "Proses yang memakan waktu dan teknis",
+        "Kemampuan terbatas untuk membuat efek unik",
+        "Memerlukan langganan perangkat lunak yang mahal",
+        "Hambatan keterampilan yang tinggi bagi non-profesional"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeed AI",
+      "items": [
+        "Membalikkan video dengan mudah dalam hitungan menit",
+        "Tidak memerlukan pengalaman pengeditan sebelumnya—cukup unggah!",
+        "Efek menarik dengan teknologi AI yang canggih",
+        "Kreativitas tak terbatas dengan kontrol yang sederhana",
+        "Harga terjangkau sesuai penggunaan untuk semua"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Membalikkan rekaman video Anda dalam 4 langkah sederhana",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Video",
+        "text": "Pilih video yang ingin Anda balik",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Pilih Opsi Balik",
+        "text": "Klik opsi untuk membalikkan rekaman Anda",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Prabaca Video Anda",
+        "text": "Tampilkan video yang dibalik secara langsung",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Unduh & Bagikan",
+        "text": "Dapatkan video yang dibalik dalam HD siap untuk dibagikan",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Buat Video Balik Pertama Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Aplikasi Kreatif Tak Terbatas",
+    "description": "Sempurna untuk konten menarik di semua niche",
+    "items": [
+      "Cuplikan media sosial yang menonjol",
+      "Iklan pemasaran unik",
+      "Video penceritaan kreatif",
+      "Konten lucu untuk keterlibatan viral",
+      "Potongan video artistik untuk influencer",
+      "Pameran produk dinamis",
+      "Tutorial menarik dengan sentuhan unik",
+      "Kenangan video pribadi dengan gaya yang unik"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Temukan bagaimana bisnis menginovasi konten mereka dengan AI",
+    "items": [
+      {
+        "tag": "Industri Kebugaran",
+        "heading": "Video Latihan Viral",
+        "before": {
+          "label": "Sebelum",
+          "text": "Cuplikan statis"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Pembalikan dinamis yang menarik perhatian pemirsa"
+        },
+        "value": "150%",
+        "key": "Peningkatan Keterlibatan Audiens",
+        "description": "Dengan membalikkan momen kunci latihan, video kami melihat lonjakan besar dalam berbagi dan suka, menjadikannya perbincangan di kota."
+      },
+      {
+        "tag": "E-commerce",
+        "heading": "Iklan Produk Kreatif",
+        "before": {
+          "label": "Sebelum",
+          "text": "Iklan video standar"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Pameran yang menarik perhatian"
+        },
+        "value": "75%",
+        "key": "Peningkatan Penjualan",
+        "description": "Menggunakan video yang dibalik dari produk kami menghasilkan tingkat klik yang jauh lebih tinggi dan konversi penjualan."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Model AI",
+    "description": "Pilih model pembalikan yang tepat untuk kebutuhan Anda",
+    "items": [
+      "Pembalikan Standar: Pembalikan video yang cepat dan efektif dengan pengeditan dasar",
+      "Pembalikan Premium: Kualitas ditingkatkan dengan transisi dan efek yang mulus",
+      "Mendukung berbagai format video untuk fleksibilitas",
+      "Ideal untuk penggunaan media sosial dan pemasaran",
+      "Waktu pemrosesan cepat dengan hasil yang efisien sesuai permintaan"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Jelajahi lebih banyak alat AI inovatif untuk strategi video Anda"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Segala yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Tipe video apa yang bisa saya balik?",
+        "answer": "Anda dapat membalikkan format file video apa pun yang didukung oleh platform kami, termasuk MP4, AVI, dan MOV. Apakah itu cuplikan sederhana atau urutan video yang kompleks, AI kami dapat menangani dengan mudah."
+      },
+      {
+        "question": "Berapa lama proses pembalikan berlangsung?",
+        "answer": "Biasanya, pembalikan video hanya memerlukan waktu beberapa menit. Durasi tergantung pada panjang video, tetapi sistem kami dioptimalkan untuk pemrosesan yang cepat."
+      },
+      {
+        "question": "Bisakah saya mengedit video yang telah dibalik setelahnya?",
+        "answer": "Tentu saja! Setelah Anda membalikkan video Anda, Anda dapat melakukan pengeditan lebih lanjut menggunakan rangkaian alat kami, memungkinkan tambahan peningkatan dan modifikasi."
+      },
+      {
+        "question": "Apakah ada batasan ukuran video yang bisa saya unggah?",
+        "answer": "Kami mendukung berbagai ukuran video; namun, untuk kinerja optimal, kami merekomendasikan mengunggah video di bawah 2GB untuk pengalaman pengguna yang terbaik."
+      },
+      {
+        "question": "Apakah saya tetap memiliki hak atas video saya?",
+        "answer": "Ya! Semua video yang diproses melalui platform kami tetap menjadi hak kekayaan intelektual Anda. Anda dapat menggunakannya secara bebas untuk tujuan apa pun."
+      },
+      {
+        "question": "Apa yang harus saya lakukan jika video yang dibalik tidak terlihat benar?",
+        "answer": "AI kami dirancang untuk memberikan pembalikan berkualitas tinggi, tetapi jika Anda mengalami masalah, tim dukungan kami siap membantu mengoreksi masalah tersebut. Cukup hubungi kami!"
+      },
+      {
+        "question": "Apa saja sumber dukungan yang Anda tawarkan?",
+        "answer": "Kami menyediakan sumber daya komprehensif, termasuk tutorial, FAQ, dan dukungan obrolan langsung untuk memandu Anda melalui pertanyaan atau masalah teknis apa pun."
+      },
+      {
+        "question": "Apa struktur harga yang Anda gunakan untuk pembalikan video?",
+        "answer": "Harga kami fleksibel; Anda membayar per pembalikan video tanpa langganan bulanan atau biaya tersembunyi. Coba layanan kami hari ini dan lihat tarif yang kompetitif!"
+      },
+      {
+        "question": "Bisakah saya membalikkan beberapa video sekaligus?",
+        "answer": "Ya! Sistem kami mendukung pemrosesan batch, memungkinkan Anda untuk membalikkan beberapa video secara bersamaan, meningkatkan efisiensi Anda!"
+      },
+      {
+        "question": "Bisakah saya mengunduh video yang telah dibalik dalam format yang berbeda?",
+        "answer": "Ya, setelah pembalikan, Anda dapat memilih format keluaran yang Anda inginkan, memastikan kompatibilitas dengan berbagai platform dan penggunaan."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Merevolusi Video Anda?",
+    "description": "Mulai dengan kredit gratis dan buka kemungkinan",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Coba Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap untuk Mengubah Konten Video Anda?",
+    "description": "Rasakan WaveSpeed AI hari ini dan inovasi strategi video Anda. Tidak perlu mendaftar.",
+    "ctaText": "Balik Video Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi undang-undang."
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Image Generator",
+  "meta": {
+    "description": "Effortlessly produce stunning images for your projects using AI. Elevate your visuals instantly with enhanced creativity and efficiency. Perfect for marketers, designers, and content creators. Discover the potential of AI-driven imagery!",
+    "keywords": "AI image generator, create images with AI, visual content creator, digital image enhancement, graphic design AI tools, marketing imagery, creative visuals, photography enhancement, design automation, e-commerce imagery, social media visuals"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Image Generation Made Easy",
+    "subHeading": "Create Stunning Visuals Instantly",
+    "description": "Transform your creative ideas into beautiful images within moments. No need for professional software or design skills. Harness the power of advanced AI to bring your visions to life effortlessly. Get started and witness the magic!",
+    "tryText": "Get Started Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Image Generator Solution",
+    "left": {
+      "heading": "Traditional Image Creation Challenges",
+      "items": [
+        "Requires extensive design skills",
+        "Time-intensive manual processes",
+        "Expensive software licenses",
+        "Limited creativity and customization",
+        "Inconsistent image quality"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Generate images in seconds from descriptions",
+        "No design experience necessary - Just describe",
+        "Instant high-quality results with AI",
+        "Endless creative options and variations",
+        "Flexible pricing - Accessible for all"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Transform your ideas into images in 4 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Describe Your Idea",
+        "text": "Provide a text prompt detailing what you want to create",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Select Style",
+        "text": "Choose from a variety of artistic styles and themes",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Review Options",
+        "text": "Explore AI-generated images and select your favorites",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Image",
+        "text": "Get your stunning image in no time with full rights",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Create Your First Image →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Ideal for any project or campaign",
+    "items": [
+      "Marketing visuals for ads and social media",
+      "Website graphics and digital assets",
+      "Content for blogs and articles",
+      "Social media posts and stories",
+      "Print materials like posters and brochures",
+      "Product showcases and catalogs",
+      "Creative artwork for personal projects",
+      "Visuals for presentations and pitches"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how users are revolutionizing their creative process with AI",
+    "items": [
+      {
+        "tag": "Fashion Brand",
+        "heading": "Promotional Campaigns",
+        "before": {
+          "label": "Before",
+          "text": "Manual and costly"
+        },
+        "after": {
+          "label": "After",
+          "text": "Quick and budget-friendly"
+        },
+        "value": "85%",
+        "key": "Cost Efficiency",
+        "description": "We launched our campaign with fresh visuals within hours. Audience engagement improved by 50%!"
+      },
+      {
+        "tag": "E-commerce Store",
+        "heading": "Product Images for Listings",
+        "before": {
+          "label": "Before",
+          "text": "Days to create"
+        },
+        "after": {
+          "label": "After",
+          "text": "Minutes to generate"
+        },
+        "value": "95%",
+        "key": "Time Saved",
+        "description": "This tool allowed us to quickly produce unique images, driving higher sales instantly."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Model Comparison",
+    "description": "Select the ideal model for your needs",
+    "items": [
+      "Basic Model: Standard quality, quick generation, perfect for social media content",
+      "Advanced Model: High-quality images with customizable details, suited for marketing",
+      "Wide-ranging styles to match any branding needs",
+      "Quick turnaround time with minimal adjustments needed",
+      "User-friendly interface for seamless experience",
+      "Commercial usage rights for all generated images"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore additional powerful AI tools for visual creation"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What types of images can I create?",
+        "answer": "You can generate a wide range of images from product visuals to artistic illustrations, making it suitable for various applications including marketing, social media, and personal projects."
+      },
+      {
+        "question": "Can I customize the style of the images?",
+        "answer": "Absolutely! You can choose from various styles and artistic themes, tailoring the output to fit your specific vision."
+      },
+      {
+        "question": "How does the AI understand my text prompts?",
+        "answer": "Our AI leverages advanced natural language processing to interpret your descriptions, translating them into unique visual outputs that match your intent."
+      },
+      {
+        "question": "What file formats can I download my images in?",
+        "answer": "Images can be downloaded in multiple formats such as JPG, PNG, and others for versatility in use across platforms."
+      },
+      {
+        "question": "Do I have commercial rights for the generated images?",
+        "answer": "Yes, all generated images come with commercial usage rights, allowing you to use them freely for your projects without additional licensing fees."
+      },
+      {
+        "question": "Is there a limit to the number of images I can generate?",
+        "answer": "There are no limits on image generation! You can create as many images as you need, making sure you have access to endless creative options."
+      },
+      {
+        "question": "Can I enhance the images after generation?",
+        "answer": "Yes, you can further refine the images using various editing tools and features available within our platform."
+      },
+      {
+        "question": "What pricing structure do you offer for image generation?",
+        "answer": "We offer flexible pay-as-you-go pricing with no subscriptions required. You only pay for the images you generate, ensuring cost-efficiency."
+      },
+      {
+        "question": "How quickly can I expect my images to be generated?",
+        "answer": "Image generation typically takes seconds, allowing for rapid prototyping and creative exploration."
+      },
+      {
+        "question": "What support resources do you provide for troubleshooting?",
+        "answer": "We offer extensive documentation, tutorials, and a supportive community to assist you with any questions or technical issues."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Create Your First AI Image?",
+    "description": "Start with free credits - Experience the transformation yourself",
+    "contactUsText": "Contact Us",
+    "tryText": "Get Started Now →"
+  },
+  "footer": {
+    "heading": "Ready to Enhance Your Visuals?",
+    "description": "Try WaveSpeed AI now and unleash your creativity. No sign-up required.",
+    "ctaText": "Start Generating Images Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Générateur d'Arrière-Plan IA",
+  "meta": {
+    "description": "Créez facilement des arrière-plans époustouflants pour n'importe quelle image en utilisant la technologie IA. Idéal pour améliorer les photos de produits, les visuels des réseaux sociaux et les listes e-commerce. Découvrez la puissance de la génération d'arrière-plan intelligente aujourd'hui !",
+    "keywords": "générateur d'arrière-plan IA, suppression d'arrière-plan d'image, création d'arrière-plan IA, amélioration de photo e-commerce, WaveSpeed AI, arrière-plans de photo de produit, outils d'arrière-plan pour réseaux sociaux, édition d'image automatisée, solutions image Shopify, améliorations de liste Amazon"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Génération d'Arrière-Plan Facile",
+    "subHeading": "Transformez Vos Images avec de Nouveaux Arrière-Plans Époustouflants",
+    "description": "Élevez vos photos en créant des arrière-plans captivants en quelques secondes. Pas de compétences en design nécessaires. Découvrez le générateur d'arrière-plan propulsé par IA maintenant !",
+    "tryText": "Essayez-le maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution Générateur d'Arrière-Plan IA WaveSpeed AI",
+    "left": {
+      "heading": "Défis de la Retouche d'Arrière-Plan Traditionnelle",
+      "items": [
+        "Embaucher des designers graphiques est coûteux (100-300 $ par image)",
+        "La retouche manuelle peut prendre des heures par image",
+        "Nécessite une expertise en logiciels de design",
+        "Options de personnalisation limitées",
+        "Rigidité pour répondre aux besoins de contenu rapide"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed AI",
+      "items": [
+        "Générez instantanément de magnifiques arrière-plans en quelques secondes",
+        "Pas d'expérience en design nécessaire - Il vous suffit de télécharger des images",
+        "Styles et couleurs d'arrière-plan personnalisables",
+        "Variations et retouches illimitées à portée de main",
+        "Modèle abordable, payez au fur et à mesure pour tous les utilisateurs"
+      ],
+      "tryText": "Essayer"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment Cela Fonctionne",
+    "description": "Créez des arrière-plans époustouflants en 4 étapes simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Télécharger l'Image",
+        "text": "Téléchargez l'image que vous souhaitez améliorer",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Choisir l'Arrière-Plan",
+        "text": "Sélectionnez parmi une variété d'arrière-plans générés par IA",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Personnaliser les Styles",
+        "text": "Ajustez les couleurs, styles ou effets pour correspondre à votre vision",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Télécharger l'Image",
+        "text": "Obtenez votre image améliorée prête à l'emploi en quelques minutes",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Générez Votre Premier Arrière-Plan →"
+  },
+  "endlessPossibilities": {
+    "heading": "Cas d'Utilisation Polyvalents",
+    "description": "Parfait pour une variété de besoins",
+    "items": [
+      "Images de produits e-commerce avec des arrière-plans professionnels",
+      "Publications sur les réseaux sociaux qui se démarquent",
+      "Matériaux marketing qui captent l'attention",
+      "Graphiques de site web pour une apparence améliorée",
+      "Visuels de blog qui engagent les lecteurs",
+      "Annonces immobilières qui mettent en valeur les propriétés",
+      "Flyers d'événements et promotions",
+      "Œuvres d'art créatives pour des projets personnels"
+    ]
+  },
+  "successStories": {
+    "heading": "Histoires de Succès dans l'Optimisation des Arrière-Plans",
+    "description": "Découvrez comment les marques ont amélioré leurs images avec l'IA",
+    "items": [
+      {
+        "tag": "Vente au Détail de Mode",
+        "heading": "Listes de Produits sur le Site Web",
+        "before": {
+          "label": "Avant",
+          "text": "Arrière-plans standards"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Scènes personnalisées époustouflantes"
+        },
+        "value": "85%",
+        "key": "Amélioration de l'Attractivité Visuelle",
+        "description": "Nos images ont transformé l'apparence de notre magasin en ligne, entraînant une augmentation de 50 % des ventes."
+      },
+      {
+        "tag": "Immobilier",
+        "heading": "Vitrines de Propriétés en Ligne",
+        "before": {
+          "label": "Avant",
+          "text": "Images de propriétés simples"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Arrière-plans enrichis et vibrants"
+        },
+        "value": "90%",
+        "key": "Augmentation de l'Engagement",
+        "description": "Les visuels améliorés ont conduit à des ventes plus rapides et à une augmentation des demandes."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Fonctionnalités de Génération d'Arrière-Plan IA",
+    "description": "Trouvez les bonnes options pour vos besoins",
+    "items": [
+      "Arrière-plans Standards : Styles de base adaptés pour des images de produits",
+      "Arrière-plans Premium : Designs améliorés pour des visuels marquants",
+      "Effets d'Arrière-Plan Personnalisables : Ajustements sur mesure pour correspondre à l'identité de votre marque",
+      "Traitement Instantané : Les arrière-plans sont générés en quelques secondes",
+      "Interface Utilisateur Amicale : Des étapes simples créent facilement des designs complexes"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils IA Connexes",
+    "description": "Découvrez d'autres solutions IA innovantes pour l'amélioration d'image"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quels types d'images fonctionnent le mieux pour la génération d'arrière-plan ?",
+        "answer": "Les images avec des sujets clairs et des arrière-plans simples donnent les meilleurs résultats. Assurez-vous que vos téléchargements sont bien éclairés, en haute résolution et centrés sur le sujet principal pour un traitement optimal par l'IA."
+      },
+      {
+        "question": "Puis-je personnaliser les arrière-plans créés par l'IA ?",
+        "answer": "Oui ! Après avoir généré un arrière-plan, vous pouvez facilement personnaliser les styles, couleurs et effets pour s'aligner parfaitement avec votre marque ou vos préférences personnelles."
+      },
+      {
+        "question": "Combien de temps prend la génération d'arrière-plan ?",
+        "answer": "La génération est remarquablement rapide, généralement réalisée en moins d'une minute. Vous pouvez traiter plusieurs images simultanément, rationalisant ainsi votre flux de travail."
+      },
+      {
+        "question": "Y a-t-il une limite aux variations que je peux créer ?",
+        "answer": "Non ! Vous pouvez créer des variations illimitées d'arrière-plan, permettant une large gamme de styles pour convenir à chaque projet ou objectif."
+      },
+      {
+        "question": "Ai-je besoin de compétences en design pour utiliser le générateur d'arrière-plan ?",
+        "answer": "Pas du tout ! Notre outil est conçu pour être convivial, permettant à quiconque de créer des arrière-plans professionnels sans expérience préalable en design."
+      },
+      {
+        "question": "Quel est le modèle tarifaire pour la génération d'arrière-plan ?",
+        "answer": "Notre tarification est basée sur un système de paiement à l'utilisation, où vous ne payez que pour les images que vous générez. Il n'y a pas d'abonnements ni de frais cachés."
+      },
+      {
+        "question": "Puis-je utiliser les arrière-plans générés à des fins commerciales ?",
+        "answer": "Oui ! Toutes les images créées à travers notre plateforme sont accompagnées de droits commerciaux complets, vous permettant de les utiliser dans le marketing, les ventes et toute application commerciale."
+      },
+      {
+        "question": "Quel type de soutien est disponible ?",
+        "answer": "Nous offrons un support étendu via de la documentation, des tutoriels et des options de service client pour vous aider à maximiser votre expérience avec nos outils IA."
+      },
+      {
+        "question": "Comment puis-je contacter le support client si j'ai un problème ?",
+        "answer": "Vous pouvez contacter notre équipe de support par e-mail ou par chat en direct, et nous répondons généralement dans un délai de 24 heures pour aider avec toutes les questions."
+      },
+      {
+        "question": "Y a-t-il des essais gratuits ou des crédits disponibles pour les nouveaux utilisateurs ?",
+        "answer": "Oui ! Les nouveaux utilisateurs reçoivent des crédits gratuits pour tester nos services, vous donnant la chance de découvrir les capacités de notre générateur d'arrière-plan sans frais initiaux."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Transformer Vos Images ?",
+    "description": "Commencez avec des crédits gratuits et regardez vos photos devenir extraordinaires !",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Essayez-le maintenant →"
+  },
+  "footer": {
+    "heading": "Transformez Vos Arrière-Plans Aujourd'hui !",
+    "description": "Découvrez l'avenir de l'amélioration d'image avec WaveSpeed AI. Aucune inscription requise.",
+    "ctaText": "Créez des Arrière-Plans Époustouflants Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

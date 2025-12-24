@@ -1,0 +1,222 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Noise Generator",
+  "meta": {
+    "description": "Generate tailored soundscapes and audio effects with our AI Noise Generator. Perfect for enhancing videos, creating ambient soundscapes, or enriching online content. Experience seamless integration with your projects.",
+    "keywords": "AI noise generator, sound effects AI, ambient audio creator, video sound enhancement, customizable soundscapes, audio automation, enriching video content, e-commerce audio tool, Shopify sound effects, Amazon video audio, social media sound enhancement"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Noise Generation Made Easy",
+    "subHeading": "Create Custom Soundscapes Instantly",
+    "description": "Transform your audio projects with the power of AI. Generate unique noise patterns tailored to your needs in seconds. Perfect for videos, games, and ambient settings. Start enhancing your content today!",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Noise Generator Solution",
+    "left": {
+      "heading": "Traditional Sound Design Challenges",
+      "items": [
+        "High costs for professional audio production",
+        "Requires extensive audio editing experience",
+        "Time-consuming sound creation process",
+        "Limited customization options",
+        "Not accessible for small content creators"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Generate unique noise profiles in under a minute",
+        "No audio engineering skills needed - Just select options",
+        "Instant audio outputs with AI-driven technology",
+        "Unlimited customization for specialized needs",
+        "Affordable pricing - Suitable for all creators"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Generate your perfect noise in 4 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Choose Sound Type",
+        "text": "Select the type of noise or soundscape you want to create",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Customize Parameters",
+        "text": "Adjust settings like volume, pitch, and texture to fit your project",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Preview Your Creation",
+        "text": "Listen to your generated sound before finalizing it",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download or Integrate",
+        "text": "Save your noise file or directly use it in your project",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Generate Your First Sound →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Applications",
+    "description": "Ideal for every audio need",
+    "items": [
+      "Background music for videos",
+      "Game sound effects",
+      "Relaxation and meditation sounds",
+      "Podcast audio enhancements",
+      "Environmental soundscapes",
+      "Advertising audio layers",
+      "Training and instructional audio",
+      "Creative projects requiring unique sounds"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Learn how creators elevate their projects with AI",
+    "items": [
+      {
+        "tag": "Media Production",
+        "heading": "YouTube Channel Enhancement",
+        "before": {
+          "label": "Before",
+          "text": "Generic audio clips"
+        },
+        "after": {
+          "label": "After",
+          "text": "Custom AI noise"
+        },
+        "value": "85%",
+        "key": "Audio Quality Improvement",
+        "description": "Integrating tailored soundscapes increased audience retention and engagement significantly."
+      },
+      {
+        "tag": "Gaming Industry",
+        "heading": "Indie Game Sound Design",
+        "before": {
+          "label": "Before",
+          "text": "Stock sounds"
+        },
+        "after": {
+          "label": "After",
+          "text": "Unique AI generated sounds"
+        },
+        "value": "90%",
+        "key": "Time Efficiency",
+        "description": "Our sound design process accelerated, allowing for faster game updates and a distinctive audio identity."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Noise Generation Comparison",
+    "description": "Find the ideal sound model for your project",
+    "items": [
+      "Ambient Noise: Soft, continuous sound ideal for background",
+      "Cinematic Sound: Epic audio profiles for dramatic effects",
+      "Organic Soundscapes: Nature-inspired sounds for relaxation",
+      "Industrial Noise: Unique and gritty textures for urban experiences",
+      "Interactive Effects: Real-time audio adjustments for immersive experiences",
+      "Sound Layering: Combine multiple noises for custom mixes"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Discover more AI audio tools for your projects"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What types of sounds can I generate?",
+        "answer": "You can create a variety of sounds including ambient noises, sound effects, and unique audio profiles tailored to your specifications. Whether it's a gentle rain sound or an industrial ambiance, the options are vast."
+      },
+      {
+        "question": "How do I customize the generated sounds?",
+        "answer": "Customizing sounds is straightforward. After selecting the sound type, you can adjust parameters like volume, pitch, and intensity to fit your precise requirements, ensuring the output matches your vision."
+      },
+      {
+        "question": "Can I use these sounds commercially?",
+        "answer": "Yes! All sounds generated through WaveSpeed come with full commercial rights, allowing you to use them in videos, games, and other projects without any additional fees."
+      },
+      {
+        "question": "What file types are available for download?",
+        "answer": "You can download your generated sounds in popular formats such as MP3, WAV, or AAC, making them easy to integrate into your projects."
+      },
+      {
+        "question": "Is there a limit to how many sounds I can create?",
+        "answer": "There is no limit! You can generate as many unique sounds as you desire, making it a scalable solution for users."
+      },
+      {
+        "question": "How quickly can I generate sounds?",
+        "answer": "Sound generation is typically completed in seconds, allowing you to produce and utilize audio swiftly during your projects."
+      },
+      {
+        "question": "What support is available if I encounter issues?",
+        "answer": "Our support team is here to help! Reach out via email or chat for assistance. Additionally, we provide documentation and video tutorials to enhance your experience."
+      },
+      {
+        "question": "Can I provide feedback on generated sounds?",
+        "answer": "Absolutely! Your feedback is valuable. We encourage users to share their experiences to help us improve and innovate our offerings further."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Generate Your Custom Sound?",
+    "description": "Start exploring with free credits today and transform your audio experience!",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Ready to Elevate Your Sound?",
+    "description": "Experience WaveSpeed AI now and transform your audio projects. No sign-up required.",
+    "ctaText": "Generate Noise Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

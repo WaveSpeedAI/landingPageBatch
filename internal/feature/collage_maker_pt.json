@@ -1,0 +1,231 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Criador de Colagens com IA",
+  "meta": {
+    "description": "Crie colagens fotográficas impressionantes sem esforço com IA. Perfeito para redes sociais, marketing e projetos pessoais. Transforme suas imagens em colagens bonitas rapidamente!",
+    "keywords": "criador de colagens com IA, ferramenta de colagem de fotos, imagem para colagem, colagem para redes sociais, visuais para marketing, geração de colagens, layouts criativos de fotos, colagem WaveSpeed, design de colagens, criação de conteúdo para e-commerce, projetos pessoais de fotos"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de IA",
+        "items": [
+          [
+            "Ferramentas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Demonstração",
+        "items": [
+          [
+            "Demonstração",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Criador de Colagens Fotográficas",
+    "subHeading": "Transforme Suas Imagens em Colagens Impressionantes",
+    "description": "Crie colagens bonitas a partir de suas fotos em minutos—sem precisar de habilidades de design! Impulsionado por tecnologia avançada de IA, crie layouts que cativam e envolvem seu público. Liberte sua criatividade agora!",
+    "tryText": "Crie Sua Colagem Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução de Criador de Colagens WaveSpeed AI",
+    "left": {
+      "heading": "Desafios da Colagem Tradicional",
+      "items": [
+        "O design manual é demorado e complexo",
+        "Exige habilidades ou software de design gráfico",
+        "Terceirização cara para designs profissionais",
+        "Limitado a modelos e formatos rígidos",
+        "Difícil de alcançar estilos únicos e personalizados"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeed AI",
+      "items": [
+        "Gere colagens personalizadas instantaneamente com IA",
+        "Nenhuma experiência em design necessária—basta fazer upload das imagens",
+        "Layouts únicos adaptados ao seu estilo",
+        "Criatividade ilimitada com edições e variações fáceis",
+        "Preços acessíveis para qualquer projeto"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "De fotos a colagens impressionantes em 4 passos simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Faça Upload das Fotos",
+        "text": "Selecione e faça upload de suas imagens favoritas",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Escolha o Estilo",
+        "text": "Escolha entre vários estilos e layouts de colagem",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Personalize o Design",
+        "text": "Ajuste o espaçamento, adicione texto ou aplique filtros facilmente",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Baixe a Colagem",
+        "text": "Salve sua obra-prima em alta resolução para compartilhar",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Crie Sua Primeira Colagem →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilidades Criativas Sem Fim",
+    "description": "Perfeito para qualquer ocasião ou plataforma",
+    "items": [
+      "Montagens de imagens para redes sociais como Instagram ou Facebook",
+      "Materiais de marketing para anúncios e promoções",
+      "Memórias e convites de eventos",
+      "Presentes e lembranças personalizadas",
+      "Demonstrações e apresentações de portfólio",
+      "Conteúdo visual para blogs e sites",
+      "Colagens para casamentos e ocasiões especiais",
+      "Coleções e histórias de fotos de viagens"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Descubra como outros estão aprimorando seus visuais com IA",
+    "items": [
+      {
+        "tag": "Projetos Pessoais",
+        "heading": "Colagem de Reunião de Família",
+        "before": {
+          "label": "Antes",
+          "text": "Complicado e demorado"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Rápido e fácil com IA"
+        },
+        "value": "95%",
+        "key": "Tempo Economizado",
+        "description": "Criamos uma colagem incrível para nossa reunião de família em minutos! Todos adoraram."
+      },
+      {
+        "tag": "Campanhas de Marketing",
+        "heading": "Promoção de Vendas de E-commerce",
+        "before": {
+          "label": "Antes",
+          "text": "Limitações nos visuais"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Gráficos dinâmicos e chamativos"
+        },
+        "value": "90%",
+        "key": "Impacto Visual",
+        "description": "Nossos visuais de marketing melhoraram drasticamente, aumentando as taxas de engajamento significativamente."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Estilos de Colagem",
+    "description": "Escolha o estilo certo para o seu projeto",
+    "items": [
+      "Layout em Grade: Arranjo clássico para várias imagens",
+      "Sobreposição Artística: Fusão criativa de fotos",
+      "Colagem Temática: Designs personalizados baseados em temas",
+      "Slideshow Dinâmico: Opções de colagem animada",
+      "Integrações de Texto: Adição perfeita de legendas",
+      "Personalização de Fundo: Escolha cores ou padrões",
+      "Flexibilidade de Modelo: Ajuste facilmente para atender às suas necessidades"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Explore mais ferramentas inovadoras de IA para criação de conteúdo visual"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo que você precisa saber",
+    "items": [
+      {
+        "question": "Quais tipos de imagens funcionam melhor para criar colagens?",
+        "answer": "Qualquer imagem de alta resolução funciona bem. Recomendamos usar fotos claras e bem iluminadas. Quanto mais variadas suas imagens, mais dinâmica será sua colagem."
+      },
+      {
+        "question": "Posso personalizar os layouts e designs?",
+        "answer": "Absolutamente! Escolha entre vários estilos incorporados e personalize layouts, espaçamento e cores para corresponder à sua visão."
+      },
+      {
+        "question": "Qual é o número máximo de imagens que posso fazer upload?",
+        "answer": "Você pode fazer upload de até 20 imagens por colagem, proporcionando muitas opções para criar um design impressionante."
+      },
+      {
+        "question": "Preciso de habilidades de design gráfico para usar o criador de colagens?",
+        "answer": "Não, nossa ferramenta de IA é amigável e projetada para qualquer pessoa usar, independentemente de seu histórico em design."
+      },
+      {
+        "question": "Posso baixar minha colagem em diferentes formatos?",
+        "answer": "Sim! Você pode salvar suas colagens em vários formatos, incluindo JPEG, PNG e PDF para impressão e compartilhamento online."
+      },
+      {
+        "question": "Com que rapidez posso criar uma colagem?",
+        "answer": "A maioria das colagens pode ser criada em apenas alguns minutos após o upload das suas imagens e seleção de um estilo!"
+      },
+      {
+        "question": "Há alguma taxa associada ao uso do criador de colagens?",
+        "answer": "Oferecemos um modelo de pagamento conforme o uso, permitindo que você crie colagens conforme necessário, sem custos de assinatura contínuos."
+      },
+      {
+        "question": "Há um limite para quantas colagens posso criar?",
+        "answer": "Sem limites! Você pode criar quantas colagens desejar usando nossa plataforma."
+      },
+      {
+        "question": "Posso editar minha colagem após baixá-la?",
+        "answer": "Embora você não possa editar a colagem baixada diretamente, você sempre pode voltar ao criador de colagens para fazer ajustes ou criar uma nova versão."
+      },
+      {
+        "question": "Que tipo de suporte está disponível se eu precisar de ajuda?",
+        "answer": "Oferecemos suporte abrangente, incluindo tutoriais, documentação e serviço ao cliente para ajudar com quaisquer perguntas."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Criar Sua Colagem Impressionante?",
+    "description": "Comece com créditos gratuitos e deixe sua criatividade fluir!",
+    "contactUsText": "Entre em Contato Conosco",
+    "tryText": "Crie Sua Colagem Agora →"
+  },
+  "footer": {
+    "heading": "Pronto para Fazer Belas Colagens?",
+    "description": "Experimente WaveSpeed AI agora e veja suas fotos se transformarem. Sem necessidade de inscrição.",
+    "ctaText": "Comece a Criar Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

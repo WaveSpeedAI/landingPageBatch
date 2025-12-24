@@ -1,0 +1,226 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Sketch to Image Generator",
+  "meta": {
+    "description": "Transform your sketches into stunning images in moments. Perfect for artists, designers, and creatives. Unleash your imagination with AI-powered generation. Explore endless artistic possibilities!",
+    "keywords": "sketch to image AI, artwork generator, AI image creator, creative design tool, art transformation, digital art, visual storytelling, e-commerce imagery, product design, social media visuals"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Sketch to Image",
+    "subHeading": "Transform Your Ideas into Visual Masterpieces",
+    "description": "Turn your hand-drawn sketches into breathtaking digital images within minutes. No artistic skills required. Powered by cutting-edge AI technology, unlock your creative potential.",
+    "tryText": "Start Creating Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Sketch to Image Solution",
+    "left": {
+      "heading": "Traditional Challenges",
+      "items": [
+        "Artwork creation often requires advanced skills",
+        "Expensive tools and software necessary",
+        "Time-consuming process (days to weeks)",
+        "Limited customization and adjustments",
+        "High entry barrier for aspiring artists"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI Solution",
+      "items": [
+        "Generate stunning images from sketches in seconds",
+        "No artistic experience needed - Just upload sketches",
+        "Instant results with AI-driven creation",
+        "Unlimited variations of your artwork",
+        "Affordable pay-as-you-go pricing for all users"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Create beautiful images from sketches in 4 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Sketch",
+        "text": "Upload your hand-drawn artwork or digital sketch",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Add Title",
+        "text": "Optionally: Give a title or description for your piece",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Select Style",
+        "text": "Choose the art style you want to apply",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Image",
+        "text": "Receive your high-resolution image in moments",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Generate Your First Image →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Artistic Possibilities",
+    "description": "Ideal for a variety of creative projects",
+    "items": [
+      "Illustrations for children's books",
+      "Concept art for games and films",
+      "Social media graphics and posts",
+      "Digital artwork for merchandise",
+      "Custom designs for branding",
+      "Artistic prints for home decor",
+      "Visual content for presentations",
+      "Unique product designs for e-commerce"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how creators are enhancing their artistry with AI",
+    "items": [
+      {
+        "tag": "Fashion & Design",
+        "heading": "Custom Clothing Line",
+        "before": {
+          "label": "Before",
+          "text": "Time-Intensive"
+        },
+        "after": {
+          "label": "After",
+          "text": "Instant Creation"
+        },
+        "value": "95%",
+        "key": "Time Saved",
+        "description": "We transformed our design process, allowing for rapid prototyping of fashion sketches into finished visuals, increasing our output."
+      },
+      {
+        "tag": "Gaming",
+        "heading": "Indie Game Art Development",
+        "before": {
+          "label": "Before",
+          "text": "Weeks of Iteration"
+        },
+        "after": {
+          "label": "After",
+          "text": "Minutes of Creation"
+        },
+        "value": "90%",
+        "key": "Efficiency Improvement",
+        "description": "The ability to visualize concepts quickly has revolutionized our game's artistic development, saving us valuable time."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Model Comparison",
+    "description": "Select the perfect model for your artistic needs",
+    "items": [
+      "Vivid Creator: High resolution, detailed artistic output, ideal for prints",
+      "Speed Artist: Standard quality, faster generation, perfect for drafts",
+      "Style Selector: Choose styles for various artistic aesthetics",
+      "Integrated art motion effects for dynamic imagery",
+      "1-2 minute generation time for quick results",
+      "Full usage rights for commercial applications"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Discover more powerful AI tools for creatives"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What image quality can I expect from the sketch conversion?",
+        "answer": "Our AI generates high-quality images based on your sketches, enabling professional-level results that can be used for various applications, from social media to print."
+      },
+      {
+        "question": "Can I modify the generated images?",
+        "answer": "Absolutely! Once your image is generated, you'll have the option to make further modifications or enhancements using our intuitive editing tools."
+      },
+      {
+        "question": "What types of sketches work best for the conversion?",
+        "answer": "Hand-drawn sketches or clean digital drawings work best. Ensure your sketches are clear and detailed for optimal results."
+      },
+      {
+        "question": "How does this differ from traditional digital art creation?",
+        "answer": "This technology automates and streamlines the artistic process, allowing you to quickly generate images from simple sketches without extensive artistic training."
+      },
+      {
+        "question": "Are there any limitations on the types of images I can create?",
+        "answer": "No, you can create a wide range of images across various styles, themes, and subjects; the only limit is your imagination."
+      },
+      {
+        "question": "What pricing model do you use for sketch to image generation?",
+        "answer": "We operate on a pay-as-you-go model, allowing you to pay only for the images you generate without hidden fees or subscriptions."
+      },
+      {
+        "question": "How quickly can I generate images using this tool?",
+        "answer": "Most images are generated within 1-2 minutes, ensuring you can quickly move from idea to execution."
+      },
+      {
+        "question": "Do I have rights to the images I generate?",
+        "answer": "Yes! All images created through our platform come with full commercial usage rights, giving you the freedom to use your artwork however you like."
+      },
+      {
+        "question": "What resources are available for support?",
+        "answer": "We offer comprehensive support, including tutorials, extensive documentation, and customer service to assist with any issues you encounter."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Transform Your Sketches into Stunning Images?",
+    "description": "Start with free credits - Experience the creativity yourself",
+    "contactUsText": "Contact Us",
+    "tryText": "Get Started Now →"
+  },
+  "footer": {
+    "heading": "Ready to Transform Your Ideas?",
+    "description": "Try WaveSpeed AI now and see the magic for yourself. No sign-up required.",
+    "ctaText": "Create Images Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

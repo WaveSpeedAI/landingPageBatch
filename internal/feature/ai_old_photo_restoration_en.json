@@ -1,0 +1,225 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Old Photo Restoration",
+  "meta": {
+    "description": "Revive your cherished memories with AI-powered old photo restoration. Enhance, colorize, and repair images effortlessly. Perfect for personal archives and professional restorations. Experience the transformation today!",
+    "keywords": "AI old photo restoration, photo enhancement AI, image repair technology, vintage photo colorization, memory preservation, digital photo restoration, historical photo enhancement, retro image restoration, photography tools, personal archiving"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Old Photo Restoration",
+    "subHeading": "Bring Your Memories Back to Life",
+    "description": "Transform deteriorated and faded photographs into stunning, vibrant images with AI technology. Enhance detail, restore original colors, and preserve your memories effortlessly. Start restoring your old photos today!",
+    "tryText": "Start Restoring Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Old Photo Restoration Solution",
+    "left": {
+      "heading": "Traditional Restoration Challenges",
+      "items": [
+        "Manual restoration is labor-intensive and slow",
+        "High costs for professional services ($300-1000 per photo)",
+        "Limited skills for amateur restorers",
+        "Difficulties in colorizing or enhancing deeply damaged images",
+        "Unsatisfactory results using basic software tools"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Instant restoration of old photos in minutes",
+        "Affordable pay-as-you-go model",
+        "User-friendly interface requires no expertise",
+        "Advanced colorization and detail enhancement",
+        "High-quality results suitable for printing"
+      ],
+      "tryText": "Restore Now"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Revitalize your old photos in 4 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Photo",
+        "text": "Select the old photo you wish to restore",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Choose Restoration Options",
+        "text": "Select enhancement features like colorization and detail sharpening",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Preview Changes",
+        "text": "See instant previews of your restored image",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Restored Photo",
+        "text": "Get your high-resolution restored image ready for sharing or print",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Restore Your First Photo →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Restoration Possibilities",
+    "description": "Perfect for any cherished memory or project",
+    "items": [
+      "Family heirlooms and archives",
+      "Historical photographs for museums",
+      "Wedding and event memories",
+      "Restoration for albums and scrapbooks",
+      "Artistic projects requiring vintage aesthetics",
+      "Enhanced portraits for personal display",
+      "Gift ideas with restored family photos",
+      "Digital preservation of aging images"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "See how people are revitalizing their old memories with AI",
+    "items": [
+      {
+        "tag": "Family Memories",
+        "heading": "Grandparents' Wedding Photo",
+        "before": {
+          "label": "Before",
+          "text": "Faded and Damaged"
+        },
+        "after": {
+          "label": "After",
+          "text": "Vibrant Restoration"
+        },
+        "value": "95%",
+        "key": "Satisfaction Rate",
+        "description": "Transformed a treasured wedding photo that was nearly unrecognizable into a beautiful keepsake."
+      },
+      {
+        "tag": "Historical Record",
+        "heading": "Museum Archive Restoration",
+        "before": {
+          "label": "Before",
+          "text": "Worn and Unreadable"
+        },
+        "after": {
+          "label": "After",
+          "text": "Restored and Clear"
+        },
+        "value": "98%",
+        "key": "Quality Improvement",
+        "description": "Successfully restored crucial documents ensuring historical records remain accessible for future generations."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Restoration Method Comparison",
+    "description": "Select the best restoration method for your needs",
+    "items": [
+      "AI Colorization: Automatic vintage color application for realistic look",
+      "Detail Restoration: Advanced algorithms restore intricate details",
+      "Standard Enhancement: Quick fixes for basic repairs",
+      "High-Resolution Output: Quality suitable for large prints",
+      "User-Friendly Controls: Easy for all skill levels"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore more powerful AI tools for photo enhancement"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What quality can I expect from restored photos?",
+        "answer": "Expect excellent quality with enhancements improving both color accuracy and detail preservation. Our AI solution excels at repairing and revitalizing old images, providing a professional finish that captures the essence of your memories."
+      },
+      {
+        "question": "Can I restore severely damaged photos?",
+        "answer": "Yes! Our AI technology is designed to handle a range of damages, from minor wear to significant deterioration. It intelligently predicts colors and restores details, ensuring the best possible results."
+      },
+      {
+        "question": "What formats can I use for photo restoration?",
+        "answer": "We support various image formats including JPG, PNG, and TIFF. Ensure that your image is of adequate resolution for optimal restoration results."
+      },
+      {
+        "question": "Is the restoration process reversible?",
+        "answer": "Once you download the restored image, it is a final output. We recommend keeping your original files safe to ensure you can always return to them if needed."
+      },
+      {
+        "question": "How long does restoration take?",
+        "answer": "Most restorations are completed in just a few minutes, depending on the complexity of the image and the options selected."
+      },
+      {
+        "question": "What are the pricing options for photo restoration?",
+        "answer": "Our pricing is flexible with a pay-as-you-go model. You only pay for the images you restore, and costs can vary based on the selected restoration features."
+      },
+      {
+        "question": "Can I restore multiple photos at once?",
+        "answer": "Yes! You can batch upload and restore multiple images simultaneously for efficient processing."
+      },
+      {
+        "question": "Do I retain rights to the restored images?",
+        "answer": "Absolutely! All restored images come with full commercial usage rights, allowing you to use them for personal or professional purposes without additional fees."
+      },
+      {
+        "question": "What support is available if I have issues?",
+        "answer": "We offer comprehensive support, including detailed FAQs, video tutorials, and customer service to assist with any questions or technical issues."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Restore Your Old Photos?",
+    "description": "Start now with free credits and see the magic firsthand!",
+    "contactUsText": "Contact Us",
+    "tryText": "Restore Now →"
+  },
+  "footer": {
+    "heading": "Ready to Transform Your Photos?",
+    "description": "Try WaveSpeed AI now and see the difference for yourself. No sign-up required.",
+    "ctaText": "Restore My Photos",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

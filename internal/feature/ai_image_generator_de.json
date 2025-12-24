@@ -1,0 +1,221 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - KI-Bilderzeuger",
+  "meta": {
+    "description": "Erzeugen Sie mühelos beeindruckende Bilder für Ihre Projekte mit KI. Steigern Sie Ihre visuellen Inhalte sofort mit gesteigerter Kreativität und Effizienz. Perfekt für Vermarkter, Designer und Inhaltshersteller. Entdecken Sie das Potenzial von KI-gesteuerten Bildern!",
+    "keywords": "KI-Bilderzeuger, Bilder mit KI erstellen, visueller Inhaltshersteller, digitale Bildverbesserung, Grafikdesign-KI-Tools, Marketingbilder, kreative Visuals, Fotografieverbesserung, Designautomatisierung, E-Commerce-Bilder, Social-Media-Visuals"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "Bildgenerierung leicht gemacht",
+    "subHeading": "Erstellen Sie sofort beeindruckende Visuals",
+    "description": "Verwandeln Sie Ihre kreativen Ideen in wunderschöne Bilder in wenigen Augenblicken. Keine professionelle Software oder Designfähigkeiten erforderlich. Nutzen Sie die Kraft fortschrittlicher KI, um Ihre Visionen mühelos zum Leben zu erwecken. Legen Sie los und erleben Sie die Magie!",
+    "tryText": "Jetzt starten",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI KI-Bilderzeuger Lösung",
+    "left": {
+      "heading": "Herausforderungen bei der traditionellen Bilderstellung",
+      "items": [
+        "Benötigt umfassende Designfähigkeiten",
+        "Zeitaufwändige manuelle Prozesse",
+        "Teure Softwarelizenzen",
+        "Begrenzte Kreativität und Anpassungsfähigkeit",
+        "Inkonsistente Bildqualität"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Lösung",
+      "items": [
+        "Bilder in Sekunden aus Beschreibungen generieren",
+        "Keine Design-Erfahrung notwendig - einfach beschreiben",
+        "Sofortige Ergebnisse in hoher Qualität mit KI",
+        "Unendliche kreative Optionen und Variationen",
+        "Flexible Preisgestaltung - für alle zugänglich"
+      ],
+      "tryText": "Probieren"
+    }
+  },
+  "howItWorks": {
+    "heading": "Wie es funktioniert",
+    "description": "Verwandeln Sie Ihre Ideen in 4 einfachen Schritten in Bilder",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Beschreiben Sie Ihre Idee",
+        "text": "Geben Sie einen Textprompt an, der detailliert beschreibt, was Sie erstellen möchten",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Stil auswählen",
+        "text": "Wählen Sie aus einer Vielzahl von künstlerischen Stilen und Themen",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Optionen überprüfen",
+        "text": "Durchsuchen Sie die KI-generierten Bilder und wählen Sie Ihre Favoriten aus",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Bild herunterladen",
+        "text": "Erhalten Sie Ihr beeindruckendes Bild im Handumdrehen mit vollen Rechten",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Erstellen Sie Ihr erstes Bild →"
+  },
+  "endlessPossibilities": {
+    "heading": "Unendliche Möglichkeiten",
+    "description": "Ideal für jedes Projekt oder jede Kampagne",
+    "items": [
+      "Marketingvisuals für Anzeigen und soziale Medien",
+      "Webseitengrafiken und digitale Assets",
+      "Inhalte für Blogs und Artikel",
+      "Beiträge und Geschichten in sozialen Medien",
+      "Druckmaterialien wie Poster und Broschüren",
+      "Produktpräsentationen und Kataloge",
+      "Kreative Kunstwerke für persönliche Projekte",
+      "Visuals für Präsentationen und Pitchs"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Entdecken Sie, wie Benutzer ihren kreativen Prozess mit KI revolutionieren",
+    "items": [
+      {
+        "tag": "Mode Marke",
+        "heading": "Werbekampagnen",
+        "before": {
+          "label": "Vorher",
+          "text": "Manuell und kostspielig"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Schnell und budgetfreundlich"
+        },
+        "value": "85%",
+        "key": "Kostenersparnis",
+        "description": "Wir haben unsere Kampagne mit frischen Visuals innerhalb weniger Stunden gestartet. Die Interaktion des Publikums verbesserte sich um 50%!"
+      },
+      {
+        "tag": "E-Commerce-Shop",
+        "heading": "Produktbilder für Auflistungen",
+        "before": {
+          "label": "Vorher",
+          "text": "Tage zur Erstellung"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Minuten zur Erstellung"
+        },
+        "value": "95%",
+        "key": "Zeitersparnis",
+        "description": "Dieses Tool ermöglichte es uns, schnell einzigartige Bilder zu erstellen, wodurch sofort höhere Verkäufe erzielt wurden."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "KI-Modellvergleich",
+    "description": "Wählen Sie das ideale Modell für Ihre Bedürfnisse",
+    "items": [
+      "Basis Modell: Standardqualität, schnelle Generierung, perfekt für Inhalte in sozialen Medien",
+      "Erweitertes Modell: Hochwertige Bilder mit anpassbaren Details, geeignet für Marketing",
+      "Vielfältige Stile, um alle Branding-Anforderungen zu erfüllen",
+      "Schnelle Bearbeitungszeit mit minimalen Anpassungen erforderlich",
+      "Benutzerfreundliche Oberfläche für nahtloses Erlebnis",
+      "Kommerzielle Nutzungsrechte für alle generierten Bilder"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ähnliche KI-Tools",
+    "description": "Entdecken Sie weitere leistungsstarke KI-Tools zur visuellen Erstellung"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welche Arten von Bildern kann ich erstellen?",
+        "answer": "Sie können eine Vielzahl von Bildern von Produktvisualisierungen bis hin zu künstlerischen Illustrationen generieren, die für verschiedene Anwendungen geeignet sind, einschließlich Marketing, soziale Medien und persönliche Projekte."
+      },
+      {
+        "question": "Kann ich den Stil der Bilder anpassen?",
+        "answer": "Absolut! Sie können aus verschiedenen Stilen und künstlerischen Themen wählen und das Ergebnis an Ihre spezifische Vision anpassen."
+      },
+      {
+        "question": "Wie versteht die KI meine Textprompts?",
+        "answer": "Unsere KI nutzt fortschrittliche natürliche Sprachverarbeitung, um Ihre Beschreibungen zu interpretieren und sie in einzigartige visuelle Ergebnisse zu übersetzen, die Ihrer Absicht entsprechen."
+      },
+      {
+        "question": "Welche Dateiformate kann ich meine Bilder herunterladen?",
+        "answer": "Bilder können in mehreren Formaten wie JPG, PNG und anderen heruntergeladen werden, um Vielseitigkeit auf verschiedenen Plattformen zu gewährleisten."
+      },
+      {
+        "question": "Habe ich kommerzielle Rechte für die generierten Bilder?",
+        "answer": "Ja, alle generierten Bilder kommen mit kommerziellen Nutzungsrechten, die es Ihnen ermöglichen, sie frei für Ihre Projekte ohne zusätzliche Lizenzgebühren zu nutzen."
+      },
+      {
+        "question": "Gibt es eine Begrenzung für die Anzahl der Bilder, die ich generieren kann?",
+        "answer": "Es gibt keine Begrenzungen für die Bildgenerierung! Sie können so viele Bilder erstellen, wie Sie benötigen, und sichergehen, dass Sie Zugang zu unendlichen kreativen Optionen haben."
+      },
+      {
+        "question": "Kann ich die Bilder nach der Generierung verbessern?",
+        "answer": "Ja, Sie können die Bilder mit verschiedenen Bearbeitungswerkzeugen und -funktionen, die auf unserer Plattform verfügbar sind, weiter verfeinern."
+      },
+      {
+        "question": "Welche Preisstruktur bieten Sie für die Bildgenerierung an?",
+        "answer": "Wir bieten flexible Preise nach Nutzung an, keine Abonnements erforderlich. Sie bezahlen nur für die Bilder, die Sie generieren, was Kostenersparnis gewährleistet."
+      },
+      {
+        "question": "Wie schnell kann ich mit der Generierung meiner Bilder rechnen?",
+        "answer": "Die Bildgenerierung dauert typischerweise Sekunden und ermöglicht schnelles Prototyping und kreative Erkundung."
+      },
+      {
+        "question": "Welche Unterstützungsressourcen bieten Sie für Troubleshooting an?",
+        "answer": "Wir bieten umfangreiche Dokumentation, Tutorials und eine unterstützende Community, um Ihnen bei Fragen oder technischen Problemen zu helfen."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Ihr erstes KI-Bild zu erstellen?",
+    "description": "Beginnen Sie mit kostenlosen Krediten - Erleben Sie die Transformation selbst",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Jetzt starten →"
+  },
+  "footer": {
+    "heading": "Bereit, Ihre Visuals zu verbessern?",
+    "description": "Probieren Sie WaveSpeed AI jetzt aus und entfalten Sie Ihre Kreativität. Keine Anmeldung erforderlich.",
+    "ctaText": "Jetzt Bilder generieren",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

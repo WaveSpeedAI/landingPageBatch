@@ -1,0 +1,229 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Background Remover",
+  "meta": {
+    "description": "Effortlessly remove backgrounds from your images with WaveSpeed AI. Perfect for enhancing product photos for e-commerce, marketing, and more. Experience seamless results in minutes!",
+    "keywords": "AI background remover, image background removal, product photo editor, photography tools, e-commerce image enhancement, automated background removal, photo editing AI, online background remover, WaveSpeed, image editing tools"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Background Removal Made Easy",
+    "subHeading": "Transform Your Images with Precision",
+    "description": "Instantly eliminate backgrounds from your photos to create stunning visuals. Ideal for product images, social media posts, and advertising. Experience the power of automated editing.  Start now to see the difference!",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI Background Remover Solution",
+    "left": {
+      "heading": "Traditional Challenges",
+      "items": [
+        "Manual editing is time-consuming (up to 1 hour per image)",
+        "Requires advanced software skills",
+        "Inconsistent results from different methods",
+        "High costs for professional services",
+        "Limited flexibility in adjusting backgrounds"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Remove backgrounds in seconds",
+        "No design skills needed - Just upload your image",
+        "Consistent, high-quality results every time",
+        "Affordable pay-as-you-go model",
+        "Easily switch backgrounds or create transparent effects"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Effortless background removal in 4 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Image",
+        "text": "Drag and drop your image needing a background removal",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Automatic Processing",
+        "text": "Our AI analyzes your image and detects the background",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Review & Edit",
+        "text": "Preview the removal and fine-tune if needed",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Result",
+        "text": "Get your finished image ready for use in seconds",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Start Editing Your Images →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Perfect for various applications",
+    "items": [
+      "E-commerce product photos",
+      "Social media graphics",
+      "Marketing materials",
+      "Event and party flyers",
+      "Real estate listings",
+      "Blog and website images",
+      "Digital art projects",
+      "Professional portfolios"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "See how users are enhancing their visuals with AI",
+    "items": [
+      {
+        "tag": "E-commerce",
+        "heading": "Online Fashion Retailer",
+        "before": {
+          "label": "Before",
+          "text": "Hassle with editing"
+        },
+        "after": {
+          "label": "After",
+          "text": "Effortless background removal"
+        },
+        "value": "90%",
+        "key": "Time Saved",
+        "description": "Our team can now process images in minutes instead of hours, leading to faster product launches."
+      },
+      {
+        "tag": "Marketing Agency",
+        "heading": "Social Media Campaigns",
+        "before": {
+          "label": "Before",
+          "text": "Subpar visuals"
+        },
+        "after": {
+          "label": "After",
+          "text": "Professional quality images"
+        },
+        "value": "95%",
+        "key": "Quality Improvement",
+        "description": "The impact on our engagement rates has been phenomenal since switching to AI background removal."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Technology Comparison",
+    "description": "Choose the right method for your needs",
+    "items": [
+      "Standard Background Removal: Quick processing, ideal for general images",
+      "Advanced Edge Detection: High precision for complex backgrounds",
+      "Automatic Background Replacement: Easily replace the background with any image or color",
+      "Batch Processing Capability: Remove backgrounds from multiple images simultaneously",
+      "Commercial Usage Rights Included for all outputs"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore more powerful AI tools for image editing"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What types of images work best for background removal?",
+        "answer": "Clear images with distinct subject-background separation provide the best results. High-resolution images are preferred to ensure clean and accurate removal."
+      },
+      {
+        "question": "Can I edit the background after removal?",
+        "answer": "Yes! After the background is removed, you can easily replace it with any background of your choice or leave it transparent for your projects."
+      },
+      {
+        "question": "Is the service suitable for bulk image processing?",
+        "answer": "Absolutely! Our batch processing feature allows you to remove backgrounds from multiple images at once, significantly speeding up your workflow."
+      },
+      {
+        "question": "Are there any limitations on image types?",
+        "answer": "Our tool supports various image formats including JPG, PNG, and TIFF. However, overly complex or low-resolution images may yield less satisfactory results."
+      },
+      {
+        "question": "How does the pricing work for the background removal service?",
+        "answer": "We offer a flexible pay-as-you-go model. You only pay for the images you process, with a tiered pricing system based on volume."
+      },
+      {
+        "question": "What should I do if the background removal isn't perfect?",
+        "answer": "You can manually edit the output using our simple in-app tools to ensure the results meet your expectations."
+      },
+      {
+        "question": "Can I use the images for commercial purposes?",
+        "answer": "Yes! All images processed through our tool come with full commercial rights for use in advertising, social media, and online sales."
+      },
+      {
+        "question": "How long does the background removal process take?",
+        "answer": "The process typically takes just a few seconds per image, allowing you to work efficiently and make quick updates."
+      },
+      {
+        "question": "What kind of support is available if I encounter issues?",
+        "answer": "Our support team provides assistance via email and chat, along with a library of tutorials and documentation to help you maximize your use of the platform."
+      },
+      {
+        "question": "Is there a trial or free credits available to test the feature?",
+        "answer": "Yes! New users receive free credits to try out the background removal service before committing to any purchases."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Remove Backgrounds Effortlessly?",
+    "description": "Start with free credits - Experience the power of AI",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Transform Your Images Today!",
+    "description": "Try WaveSpeed AI now and see the difference for yourself. No sign-up required.",
+    "ctaText": "Remove Backgrounds Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

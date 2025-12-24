@@ -1,0 +1,226 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Aumento de Imagem por IA",
+  "meta": {
+    "description": "Melhore suas imagens com a tecnologia avançada de aumento de imagem da WaveSpeed AI. Perfeito para e-commerce e projetos criativos. Alcance uma qualidade impressionante sem esforço!",
+    "keywords": "aumento de imagem por IA, melhoria de imagem, melhoria de qualidade de foto, imagens de e-commerce, editor de fotos por IA, imagens de alta resolução, restauração de fotos, recuperação de detalhes, aprimorador de imagens Shopify, imagens de produtos Amazon"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de IA",
+        "items": [
+          [
+            "Ferramentas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Demonstração",
+        "items": [
+          [
+            "Demonstração",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Aumento de Imagem",
+    "subHeading": "Eleve a Qualidade de Suas Fotos Instantaneamente",
+    "description": "Transforme suas fotos comuns em imagens impressionantes de alta resolução em segundos. Nenhum software complexo necessário. Experimente a liberdade de aprimorar cada detalhe sem esforço.",
+    "tryText": "Experimente Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução de Aumento de Imagem por IA da WaveSpeed",
+    "left": {
+      "heading": "Desafios do Aumento Tradicional",
+      "items": [
+        "Software e plugins caros",
+        "Exige habilidades técnicas avançadas",
+        "Ajustes manuais que consomem tempo",
+        "Resultados limitados com aumento básico",
+        "Fluxos de trabalho complicados para melhoria de imagem"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeed AI",
+      "items": [
+        "Melhore imagens em segundos com apenas um clique",
+        "Nenhuma experiência necessária - Fácil upload e melhoria",
+        "Resultados instantâneos de alta resolução impulsionados por IA",
+        "Ajustes e melhorias ilimitados disponíveis",
+        "Modelo pay-as-you-go - Acessível para todos"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "Atualize suas fotos em 4 etapas fáceis",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Enviar Imagem",
+        "text": "Envie a imagem que você deseja aprimorar",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Selecionar Nível de Aprimoramento",
+        "text": "Escolha o nível de aprimoramento que prefere",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Visualizar Alterações",
+        "text": "Veja uma comparação lado a lado da imagem aprimorada",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Baixar Imagem Aprimorada",
+        "text": "Obtenha sua imagem de alta qualidade pronta para uso",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Aprimore Sua Primeira Imagem →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilidades Infinitas",
+    "description": "Ideal para várias aplicações",
+    "items": [
+      "Imagens de produtos de e-commerce para lojas online",
+      "Gráficos e postagens para mídias sociais",
+      "Materiais de marketing digital",
+      "Aprimoramentos de portfólio para criativos",
+      "Mídia impressa e publicidade",
+      "Apresentações profissionais",
+      "Imagens para blogs ou sites",
+      "Visuais de alta qualidade para projetos pessoais"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Descubra como as empresas aprimoram seus visuais com IA",
+    "items": [
+      {
+        "tag": "E-commerce",
+        "heading": "Aumentando a Qualidade da Imagem do Produto",
+        "before": {
+          "label": "Antes",
+          "text": "Baixa resolução"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Impressionante alta-res"
+        },
+        "value": "97%",
+        "key": "Melhoria de Qualidade",
+        "description": "Nossas imagens de produtos foram transformadas, resultando em um aumento de 30% nas vendas na primeira semana."
+      },
+      {
+        "tag": "Design Gráfico",
+        "heading": "Melhorias de Designer Freelancer",
+        "before": {
+          "label": "Antes",
+          "text": "Edições que consomem tempo"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Aprimoramentos instantâneos"
+        },
+        "value": "95%",
+        "key": "Tempo Economizado",
+        "description": "Nosso processo de edição foi significativamente simplificado, permitindo que assumíssemos mais clientes."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Modelos de IA",
+    "description": "Descubra a melhor abordagem de aprimoramento para suas necessidades",
+    "items": [
+      "Modelo Padrão: Aprimoramento rápido, boa qualidade, adequado para a maioria das imagens",
+      "Modelo Avançado: Qualidade superior, ideal para uso profissional, mais tempo de processamento",
+      "Suporta processamento em lote para múltiplas imagens de uma só vez",
+      "Resoluções de aumento de até 8K",
+      "Preserva a fidelidade de cores e detalhes",
+      "Processo simplificado com direitos de uso comercial incluídos"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Explore mais ferramentas de IA para melhoria visual"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo que você precisa saber",
+    "items": [
+      {
+        "question": "Que qualidade de imagem posso esperar após o aumento?",
+        "answer": "Nossos modelos de IA fornecem aprimoramentos impressionantes, resultando em imagens de alta resolução de até 8K, garantindo que cada detalhe esteja nitidamente definido e visualmente atraente."
+      },
+      {
+        "question": "Posso aumentar diferentes tipos de imagens?",
+        "answer": "Absolutamente! Nossa IA pode lidar com uma variedade de imagens, incluindo fotos de produtos, retratos e paisagens, transformando todas elas em conteúdo visual de alta qualidade."
+      },
+      {
+        "question": "Quais formatos de arquivo são suportados para uploads de imagem?",
+        "answer": "Apoiamo múltiplos formatos, incluindo JPG, PNG e TIFF. Apenas certifique-se de que suas imagens estão claras e bem iluminadas para obter os melhores resultados."
+      },
+      {
+        "question": "Como a IA determina o melhor aprimoramento?",
+        "answer": "Nossa tecnologia analisa os padrões e detalhes da sua imagem original para restaurar e melhorar efetivamente a resolução enquanto mantém uma aparência e sensação naturais."
+      },
+      {
+        "question": "Há um limite para o número de imagens que posso aumentar?",
+        "answer": "Sem limites! Você pode aumentar quantas imagens quiser, e nosso recurso de processamento em lote permite aprimoramentos simultâneos para eficiência."
+      },
+      {
+        "question": "Qual modelo de preços o serviço utiliza?",
+        "answer": "Operamos em uma estratégia flexível pay-as-you-go, onde você paga apenas pelas imagens que aumenta. Sem assinaturas ou custos ocultos!"
+      },
+      {
+        "question": "Quão rápido posso esperar que minhas imagens sejam aprimoradas?",
+        "answer": "Os tempos de aprimoramento variam, mas a maioria das imagens é processada em segundos, permitindo que você veja instantaneamente a qualidade melhorada."
+      },
+      {
+        "question": "Eu manterei os direitos das minhas imagens aprimoradas?",
+        "answer": "Sim! Você tem direitos comerciais totais sobre todas as imagens aprimoradas através da nossa plataforma, sem taxas ou royalties adicionais."
+      },
+      {
+        "question": "Quais opções de suporte estão disponíveis caso eu encontre problemas?",
+        "answer": "Oferecemos suporte extenso através de documentação, tutoriais e uma equipe de suporte responsiva pronta para ajudar com qualquer pergunta ou preocupação."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Aprimorar Suas Imagens?",
+    "description": "Comece agora com créditos gratuitos - Experimente a atualização!",
+    "contactUsText": "Entre em Contato Conosco",
+    "tryText": "Experimente Agora →"
+  },
+  "footer": {
+    "heading": "Pronto para Transformar Suas Fotos?",
+    "description": "Experimente a WaveSpeed AI agora e veja a diferença por si mesmo. Nenhum cadastro necessário.",
+    "ctaText": "Aumente Suas Imagens Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

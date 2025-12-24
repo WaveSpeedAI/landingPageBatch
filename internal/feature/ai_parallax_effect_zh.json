@@ -1,0 +1,221 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI 视差效果",
+  "meta": {
+    "description": "通过 AI 视差效果提升您的图像，创造迷人的 3D 体验。非常适合增强在线商店、促销材料和社交媒体内容。使用 WaveSpeed 的强大技术轻松释放创造力。",
+    "keywords": "AI 视差效果, 3D 图像效果, 图像增强工具, 在线营销视觉, 促销图形, 电子商务图像, 社交媒体内容创作, 动态视觉效果, WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI 工具",
+        "items": [
+          [
+            "AI 工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即尝试"
+  },
+  "hero": {
+    "heading": "3D 视差效果",
+    "subHeading": "让您的图像栩栩如生",
+    "description": "将平面图像转化为引人入胜的 3D 视觉效果，瞬间吸引和吸引您的观众。非常适合在线营销材料，无需复杂软件。通过我们 AI 驱动的工具体验增强的深度。",
+    "tryText": "立即尝试",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI 视差效果解决方案",
+    "left": {
+      "heading": "传统挑战",
+      "items": [
+        "创建深度通常需要复杂软件和技能",
+        "专业设计师和动画师的高成本",
+        "耗时的制作过程",
+        "静态视觉内容的有限覆盖面",
+        "并非所有企业规模均可访问"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI 解决方案",
+      "items": [
+        "在几分钟内生成惊艳的 3D 视差效果",
+        "无需设计技能 - 只需上传图像",
+        "借助 AI 技术即时转化",
+        "无限自定义和样式",
+        "经济实惠，按使用付费的模式适合所有人"
+      ],
+      "tryText": "尝试"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "在 4 个简单步骤中将图像转化为惊艳的 3D 视觉效果",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传图像",
+        "text": "选择您想要增强的平面图像",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "定义层次",
+        "text": "可选：指定深度感的层次（例如，前景，背景）",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "调整运动",
+        "text": "选择视差的运动效果（例如，“向左滑动”）",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载效果",
+        "text": "在几分钟内收到您的增强视觉，准备使用",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "创建您的第一个 3D 效果 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无限可能",
+    "description": "适合任何应用或行业",
+    "items": [
+      "电子商务网站的产品摄影",
+      "引人入胜的社交媒体帖子",
+      "活动的促销材料",
+      "动态博客视觉",
+      "创造性的广告活动",
+      "互动教程",
+      "房地产展示",
+      "艺术演示"
+    ]
+  },
+  "successStories": {
+    "heading": "真实的成功故事",
+    "description": "发现企业如何通过 AI 吸引观众",
+    "items": [
+      {
+        "tag": "摄影",
+        "heading": "电子商务产品列表",
+        "before": {
+          "label": "之前",
+          "text": "静态图像"
+        },
+        "after": {
+          "label": "之后",
+          "text": "引人入胜的 3D 效果"
+        },
+        "value": "85%",
+        "key": "互动提升",
+        "description": "在产品列表中实施动态视差效果，导致用户互动和销售增加 85%。"
+      },
+      {
+        "tag": "营销",
+        "heading": "社交媒体活动",
+        "before": {
+          "label": "之前",
+          "text": "平面图形"
+        },
+        "after": {
+          "label": "之后",
+          "text": "生动的 3D 内容"
+        },
+        "value": "70%",
+        "key": "分享率提升",
+        "description": "将标准图形转变为引人入胜的 3D 视觉，导致社交媒体上的分享和覆盖面提高 70%。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "3D 效果比较",
+    "description": "选择适合您视觉效果的理想增强",
+    "items": [
+      "真实层次：使用真实的 3D 视觉创建深度",
+      "运动效果：可自定义的滑动、缩放和平移选项",
+      "用户友好的界面：为所有人设计，无需专业知识",
+      "快速处理：在几分钟内收到抛光视觉",
+      "包含商业权利：自由使用生成的内容"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关 AI 工具",
+    "description": "探索更多创新解决方案以实现有影响力的视觉效果"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要知道的一切",
+    "items": [
+      {
+        "question": "哪种类型的图像最适合视差效果？",
+        "answer": "高分辨率图像，具有清晰的主题和明确的背景，可以产生最佳效果。图像理想情况下应至少为 512x512 像素，以正确突出深度。"
+      },
+      {
+        "question": "我可以自定义视差的运动效果吗？",
+        "answer": "当然可以！您可以指定不同的运动，如平移或缩放，以创建符合您需求的独特视觉体验。"
+      },
+      {
+        "question": "视差效果适合所有类型的内容吗？",
+        "answer": "是的！视差效果可以增强产品图像、促销图形和社交媒体视觉，使它们在所有平台上更具吸引力。"
+      },
+      {
+        "question": "生成视差效果的平均时间是多少？",
+        "answer": "通常，生成视差效果需要 1-2 分钟，使其快速有效，便于立即使用。"
+      },
+      {
+        "question": "使用此功能需要设计技能吗？",
+        "answer": "无需设计技能！我们的界面直观，任何人都可以轻松创建动态视觉效果。"
+      },
+      {
+        "question": "生成的内容是否有使用权？",
+        "answer": "是的！通过我们的平台生成的所有视觉效果都附带完整的商业权利，允许您无需额外费用使用它们。"
+      },
+      {
+        "question": "我可以使用不同的图像进行效果吗？",
+        "answer": "是的！您可以使用多种图像创建多个效果，以满足不同项目或需求。"
+      },
+      {
+        "question": "如果遇到问题，有哪些支持资源可用？",
+        "answer": "我们提供全面的文档、教程以及通过电子邮件和在线聊天提供的客户支持，以解答任何问题或进行故障排除。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备好使用 3D 效果增强您的图像了吗？",
+    "description": "从免费积分开始 - 立即转变您的视觉效果",
+    "contactUsText": "联系我们",
+    "tryText": "立即尝试 →"
+  },
+  "footer": {
+    "heading": "准备好体验 3D 效果了吗？",
+    "description": "今天就试试 WaveSpeed AI，亲自感受惊人的效果。无需注册。",
+    "ctaText": "立即创建您的效果",
+    "text": "© 2025 WaveSpeed AI。保留所有权利。"
+  }
+}

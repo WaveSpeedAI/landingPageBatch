@@ -1,0 +1,230 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Video Generator",
+  "meta": {
+    "description": "Create stunning videos from images effortlessly with our AI Video Generator. Ideal for marketers, educators, and content creators. Experience rapid video production tailored to your needs!",
+    "keywords": "AI video generator, image to video AI, video content creation, promotional video maker, e-commerce video generator, WaveSpeed AI, automated video production, marketing videos, social media video tools, video generation technology"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Transform Your Images into Engaging Videos",
+    "subHeading": "Effortless Video Creation at Your Fingertips",
+    "description": "Leverage cutting-edge AI technology to turn your static photos into captivating videos instantly. No complex setup, just upload and create. Start your journey now!",
+    "tryText": "Start Creating",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Video Generator Solution",
+    "left": {
+      "heading": "Traditional Video Production Struggles",
+      "items": [
+        "High costs for video shoots ($2000-5000 per project)",
+        "Dependence on specialized equipment and personnel",
+        "Time-intensive editing processes (2-7 days)",
+        "Limited creative revisions and flexibility",
+        "Challenging for small businesses without resources"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Video Generator Advantage",
+      "items": [
+        "Create videos from images in minutes",
+        "No filming or crew needed - Just upload",
+        "Instant, AI-driven results",
+        "Unlimited creative options",
+        "Flexible pricing for every budget"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Convert your images into dynamic videos in 4 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Your Image",
+        "text": "Select and upload the image you want to animate",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Customize Motion Effects",
+        "text": "Optionally, specify how you want your video to move (e.g., \"zoom in\")",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Choose Your Style",
+        "text": "Pick from different AI models for optimal results",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Export Your Video",
+        "text": "Receive your video in high definition in just moments",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Create Your Video →"
+  },
+  "endlessPossibilities": {
+    "heading": "Limitless Applications",
+    "description": "Ideal for diverse purposes and industries",
+    "items": [
+      "Promotional videos for online stores",
+      "Social media clips for engagement",
+      "Training and educational content",
+      "Dynamic presentation visuals",
+      "Event highlights and recaps",
+      "Real estate showcasing",
+      "Culinary recipe demonstrations",
+      "Product tutorials and reviews"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Explore how others are enhancing their content with AI",
+    "items": [
+      {
+        "tag": "Online Retail",
+        "heading": "E-commerce Marketing Videos",
+        "before": {
+          "label": "Before",
+          "text": "Time-consuming"
+        },
+        "after": {
+          "label": "After",
+          "text": "Rapid production"
+        },
+        "value": "98%",
+        "key": "Time Efficiency",
+        "description": "We transformed our image catalog into engaging videos overnight, boosting product interaction."
+      },
+      {
+        "tag": "Education",
+        "heading": "Online Course Content",
+        "before": {
+          "label": "Before",
+          "text": "Manual video creation"
+        },
+        "after": {
+          "label": "After",
+          "text": "Automated video production"
+        },
+        "value": "97%",
+        "key": "Improved Delivery Speed",
+        "description": "Now, we're able to develop engaging lessons in minutes rather than weeks."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Model Comparison",
+    "description": "Select the ideal model for your video creation",
+    "items": [
+      "Veo 3.1: High definition, 5-10 seconds, rich detail and realism",
+      "Seedance I2V: Quick output, 3-6 seconds, economical and efficient",
+      "Flexible motion parameters with user-defined prompts",
+      "Natural transitions and fluid camera movements",
+      "Fast turnaround under 2 minutes",
+      "Licensing for commercial use included"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Explore Related AI Tools",
+    "description": "Discover more powerful AI solutions for content creation"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What video quality and length can I expect?",
+        "answer": "The Veo 3.1 model provides premium 1080p videos lasting up to 10 seconds, while Seedance I2V offers standard quality 3-6 second videos for speed and cost-effectiveness. Both options achieve professional results ideal for e-commerce and marketing."
+      },
+      {
+        "question": "Can I direct the video motion and camera behavior?",
+        "answer": "Absolutely! You can provide detailed prompts regarding the desired camera actions such as \"pan left\",\"zoom on the subject\", or \"rotate around the item\". The AI will interpret these instructions to execute accurate, dynamic movements."
+      },
+      {
+        "question": "What type of images work best for video generation?",
+        "answer": "Clear product images with simple backgrounds yield optimal outcomes. Ensure your images are high-quality and at least 512x512 pixels, with 1024x1024 for best results. Supported formats include JPG, PNG, and WebP."
+      },
+      {
+        "question": "What sets this technology apart from simple animations?",
+        "answer": "Our AI generates actual motion utilizing realistic physics, creating a lifelike representation rather than static transitions. The videos simulate 3D space, making movements appear natural and engaging."
+      },
+      {
+        "question": "Can I enhance video quality post-creation?",
+        "answer": "Yes, our platform offers tools to upscale videos for enhanced resolution and clarity after generation, ensuring the best viewing experience for your audience."
+      },
+      {
+        "question": "What is the pricing model for the AI Video Generator?",
+        "answer": "We use a pay-as-you-go model with no subscriptions or hidden fees. Pricing is based on the chosen AI model and video duration. All new users receive credits to start their journey without any upfront commitment."
+      },
+      {
+        "question": "How long does the video generation take, and can I make multiple videos?",
+        "answer": "Typically, generation is achieved in 1-2 minutes. You can even batch process requests to create multiple video variations simultaneously without wait times."
+      },
+      {
+        "question": "What are the best uses for this video technology?",
+        "answer": "Ideal for product showcases, social media content, educational presentations, and more - anywhere dynamic video content can elevate your message without extensive resources."
+      },
+      {
+        "question": "Do I have rights to use the videos commercially?",
+        "answer": "Yes, all generated videos come with full commercial rights, allowing unrestricted distribution and monetization across platforms."
+      },
+      {
+        "question": "What support resources do you provide?",
+        "answer": "We offer comprehensive documentation, tutorial videos, and live support for all users, with fast response times and robust community engagement for troubleshooting."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Create Compelling AI Videos?",
+    "description": "Start with free credits - Experience the transformation today!",
+    "contactUsText": "Contact Us",
+    "tryText": "Create My Video Now →"
+  },
+  "footer": {
+    "heading": "Ready to Create Amazing Videos?",
+    "description": "Try WaveSpeed AI today - no sign-up needed for a demo.",
+    "ctaText": "Start Your Free Trial",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

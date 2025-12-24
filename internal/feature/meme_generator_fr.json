@@ -1,0 +1,229 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Générateur de Mèmes IA",
+  "meta": {
+    "description": "Créez des mèmes hilarants et accrocheurs sans effort avec WaveSpeed AI. Parfait pour les réseaux sociaux, le marketing et le contenu viral. Rejoignez la révolution des mèmes !",
+    "keywords": "générateur de mèmes IA, créateur de mèmes, créer des mèmes en ligne, créateur de mèmes viraux, mèmes pour les réseaux sociaux, mèmes marketing, modèles de mèmes, création instantanée de mèmes, éditeur de mèmes, outil de texte sur image, générateur de mèmes drôles"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Générateur de Mèmes",
+    "subHeading": "Créez des Mèmes Hilarants en Quelques Secondes",
+    "description": "Libérez votre créativité avec notre générateur de mèmes alimenté par IA. Produisez des mèmes qui résonnent et engagent, le tout en quelques clics. Faites virer votre contenu dès aujourd'hui !",
+    "tryText": "Générez Votre Premier Mème Maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution Générateur de Mèmes WaveSpeed AI",
+    "left": {
+      "heading": "Défis Traditionnels",
+      "items": [
+        "Trouver le bon modèle de mème",
+        "Les logiciels d’édition peuvent être complexes",
+        "Processus de création de mèmes long",
+        "Compétences ou ressources de conception limitées",
+        "Outils et abonnements coûteux"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed AI",
+      "items": [
+        "Sélectionnez parmi une vaste bibliothèque de modèles",
+        "Interface simple et intuitive - Ajoutez juste du texte",
+        "Générez des mèmes en moins d'une minute",
+        "Options de personnalisation illimitées",
+        "Modèle de tarification abordable par mème"
+      ],
+      "tryText": "Créez Maintenant"
+    },
+    "howItWorks": {
+      "heading": "Comment Ça Marche",
+      "description": "Créez votre mème en 4 étapes faciles",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Choisir un Modèle",
+          "text": "Sélectionnez un modèle de mème dans notre bibliothèque",
+          "color": "#3b82f6",
+          "icon": "BlueStar"
+        },
+        {
+          "number": "2",
+          "title": "Insérer Votre Texte",
+          "text": "Ajoutez vos propres légendes et textes au mème",
+          "color": "#a855f7",
+          "icon": "PurpleCircle"
+        },
+        {
+          "number": "3",
+          "title": "Personnaliser le Design",
+          "text": "Ajustez la taille du texte, la police et la couleur à votre goût",
+          "color": "#14b8a6",
+          "icon": "GreenSquares"
+        },
+        {
+          "number": "4",
+          "title": "Télécharger le Mème",
+          "text": "Enregistrez votre mème instantanément et partagez-le en ligne",
+          "color": "#fb923c",
+          "icon": "OrangeHex"
+        }
+      ],
+      "generateText": "Générez Votre Premier Mème →"
+    },
+    "endlessPossibilities": {
+      "heading": "Possibilités de Mèmes Infinies",
+      "description": "Idéal pour chaque occasion",
+      "items": [
+        "Publications et partages sur les réseaux sociaux",
+        "Campagnes marketing et publicités",
+        "Promotions et annonces d'événements",
+        "Mèmes de réaction pour des sujets tendance",
+        "Contenu humoristique pour blogs et sites web",
+        "Mèmes engageants pour bulletins d'informations",
+        "Mèmes personnalisés pour votre marque",
+        "Mèmes pour l'engagement communautaire"
+      ]
+    },
+    "successStories": {
+      "heading": "Véritables Histoires de Succès",
+      "description": "Découvrez comment d'autres ont amélioré leur contenu avec l'IA",
+      "items": [
+        {
+          "tag": "Marque de Mode",
+          "heading": "Engagement sur les Réseaux Sociaux",
+          "before": {
+            "label": "Avant",
+            "text": "Taux d'interaction faibles"
+          },
+          "after": {
+            "label": "Après",
+            "text": "Engagement renforcé"
+          },
+          "value": "150%",
+          "key": "Augmentation de l'Engagement",
+          "description": "Grâce à notre générateur de mèmes, nous avons créé des mèmes pertinents pour chaque lancement de collection, entraînant un remarquable accroissement de l'interaction."
+        },
+        {
+          "tag": "Blogueur Culinaire",
+          "heading": "Création de Contenu Viral",
+          "before": {
+            "label": "Avant",
+            "text": "Difficultés à obtenir des partages"
+          },
+          "after": {
+            "label": "Après",
+            "text": "Est devenu viral"
+          },
+          "value": "300%",
+          "key": "Augmentation des Partages",
+          "description": "En utilisant des mèmes humoristiques sur les tendances alimentaires, mon contenu est devenu viral sur plusieurs plateformes, entraînant une croissance significative de mon public."
+        }
+      ]
+    }
+  },
+  "modelComparison": {
+    "heading": "Comparaison de la Création de Mèmes",
+    "description": "Choisissez la bonne approche pour vos mèmes",
+    "items": [
+      "Bibliothèque de Modèles : Des milliers de modèles prêts à l'emploi",
+      "Création Instantanée : Produisez des mèmes en moins d'une minute",
+      "Personnalisation du Texte : Polices et styles variés disponibles",
+      "Téléchargement d'Images : Utilisez vos propres images et graphiques",
+      "Partage Social : Téléchargement facile et partage simple sur les plateformes"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils IA Associés",
+    "description": "Explorez d'autres outils innovants pour vos besoins de création de contenu"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quels types de mèmes puis-je créer ?",
+        "answer": "Vous pouvez créer une variété de mèmes, y compris des mèmes de réaction, des images légendées et des modèles de mèmes adaptés à n'importe quel sujet. Notre outil prend en charge la personnalisation pour tous les styles que vous souhaitez."
+      },
+      {
+        "question": "Ai-je besoin de compétences en design pour utiliser le générateur de mèmes ?",
+        "answer": "Non ! Notre générateur de mèmes est convivial et ne nécessite aucune expérience en design. Tout le monde peut créer des mèmes au look professionnel en quelques clics."
+      },
+      {
+        "question": "Puis-je utiliser mes propres images pour les mèmes ?",
+        "answer": "Absolument ! Vous pouvez télécharger vos propres images pour les personnaliser et les transformer en mèmes, combinant créativité personnelle avec des formats de mèmes populaires."
+      },
+      {
+        "question": "Y a-t-il un coût pour utiliser le générateur de mèmes ?",
+        "answer": "Nous proposons un modèle de tarification par mème, vous offrant flexibilité. Vous ne payez que lorsque vous créez des mèmes, ce qui le rend économique."
+      },
+      {
+        "question": "Puis-je sauvegarder mes mèmes pour une utilisation ultérieure ?",
+        "answer": "Oui, vous pouvez télécharger vos mèmes instantanément. Ils sont enregistrés dans un format haute résolution, prêts à être partagés quand vous le souhaitez."
+      },
+      {
+        "question": "Y a-t-il des restrictions sur les téléchargements de mèmes ?",
+        "answer": "Non, vous pouvez créer autant de mèmes que vous le souhaitez sans aucune limite. Cependant, n'oubliez pas que chaque mème généré a un petit coût associé."
+      },
+      {
+        "question": "Comment puis-je améliorer mes mèmes après la création ?",
+        "answer": "Bien que notre outil fournisse toutes les fonctionnalités nécessaires à la création de mèmes, vous pouvez également utiliser un logiciel de retouche d'images externe pour d'autres améliorations si vous le souhaitez."
+      },
+      {
+        "question": "Que faire si je ne trouve pas le bon modèle de mème ?",
+        "answer": "Si vous ne trouvez pas un modèle que vous aimez, vous pouvez facilement personnaliser le vôtre en utilisant notre fonction de téléchargement d'images pour créer des mèmes uniques à partir de zéro."
+      },
+      {
+        "question": "L'utilisation commerciale des mèmes créés avec ce générateur est-elle autorisée ?",
+        "answer": "Oui ! Vous avez tous les droits pour utiliser les mèmes à des fins personnelles ou commerciales sans frais de licence supplémentaires."
+      },
+      {
+        "question": "Quel type de support est disponible si j'ai besoin d'aide ?",
+        "answer": "Notre support client comprend des ressources détaillées, des FAQ, des tutoriels, et un accès direct à notre équipe de support pour tout problème technique que vous pourriez rencontrer."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Créer Votre Premier Mème ?",
+    "description": "Commencez à générer des mèmes avec des crédits gratuits - Faites l'expérience du plaisir maintenant !",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Essayez-le Maintenant →"
+  },
+  "footer": {
+    "heading": "Transformez vos idées en mèmes !",
+    "description": "Essayez WaveSpeed AI aujourd'hui et libérez votre créativité. Inscription non requise.",
+    "ctaText": "Créez Votre Mème Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

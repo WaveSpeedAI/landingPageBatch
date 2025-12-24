@@ -1,0 +1,229 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Generador de Videos Invertidos con IA",
+  "meta": {
+    "description": "Invierta el tiempo en sus videos sin esfuerzo y cree contenido cautivador con IA. Perfecto para el compromiso en redes sociales y campañas de marketing únicas. Experimente el futuro de la creación de videos con WaveSpeed AI.",
+    "keywords": "video invertido IA, herramienta de edición de video, generador de video con IA, creador de video para redes sociales, video de inversión, contenido de video atractivo, creador de videos de marketing, mejora de video, soluciones creativas de video, edición de video impulsada por IA"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas de IA",
+        "items": [
+          [
+            "Herramientas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Muestra",
+        "items": [
+          [
+            "Muestra",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Invierte Videos Sin Esfuerzo",
+    "subHeading": "Transforma Tu Contenido de Video en Segundos",
+    "description": "Invierte instantáneamente la acción en tus videos para crear contenido atractivo y llamativo. Perfecto para redes sociales y marketing. ¡Pruébalo ahora para ver lo fácil que es captar la atención de tu audiencia!",
+    "tryText": "Pruébalo Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución de Video Invertido WaveSpeed AI",
+    "left": {
+      "heading": "Dificultades de Edición de Video Tradicional",
+      "items": [
+        "Edición manual requerida para invertir metraje",
+        "Proceso lento y técnico",
+        "Capacidad limitada para crear efectos únicos",
+        "Requiere suscripciones de software costosas",
+        "Alto barrera de habilidades para no profesionales"
+      ]
+    },
+    "right": {
+      "heading": "Solución WaveSpeed AI",
+      "items": [
+        "Invierte videos fácilmente en solo minutos",
+        "No se necesita experiencia previa en edición, ¡solo sube!",
+        "Efectos atractivos con tecnología avanzada de IA",
+        "Creatividad ilimitada con controles simples",
+        "Precios asequibles de pago por uso para todos"
+      ],
+      "tryText": "Pruébalo"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "Invierte tu metraje de video en 4 pasos simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Subir Video",
+        "text": "Elige el video que deseas invertir",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Selecciona la Opción de Inversión",
+        "text": "Haz clic en la opción para invertir tu metraje",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Previsualiza Tu Video",
+        "text": "Mira instantáneamente el video invertido en tiempo real",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Descargar y Compartir",
+        "text": "Obtén el video invertido en HD listo para compartir",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Crea Tu Primer Video Invertido →"
+  },
+  "endlessPossibilities": {
+    "heading": "Aplicaciones Creativas Ilimitadas",
+    "description": "Perfecto para contenido cautivador en cualquier nicho",
+    "items": [
+      "Clips de redes sociales que destacan",
+      "Anuncios de marketing únicos",
+      "Videos creativos de narración",
+      "Contenido divertido para un compromiso viral",
+      "Porciones artísticas de video para influenciadores",
+      "Demostraciones de productos dinámicas",
+      "Tutoriales atractivos con un giro",
+      "Recuerdos de video personalizados con un toque único"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Descubre cómo las empresas están innovando su contenido con IA",
+    "items": [
+      {
+        "tag": "Industria del Fitness",
+        "heading": "Videos de Ejercicio Virales",
+        "before": {
+          "label": "Antes",
+          "text": "Clips estáticos"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Inversiones dinámicas que involucran a los espectadores"
+        },
+        "value": "150%",
+        "key": "Aumento de Compromiso de la Audiencia",
+        "description": "Al invertir momentos clave de ejercicio, nuestros videos vieron un aumento masivo en compartidos y 'me gusta', convirtiéndolos en el tema de conversación."
+      },
+      {
+        "tag": "Comercio Electrónico",
+        "heading": "Anuncios de Productos Creativos",
+        "before": {
+          "label": "Antes",
+          "text": "Anuncios de video estándar"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Demostraciones invertidas llamativas"
+        },
+        "value": "75%",
+        "key": "Aumento en Ventas",
+        "description": "Usar videos invertidos de nuestros productos resultó en tasas de clics y conversiones de ventas significativamente más altas."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Modelos de IA",
+    "description": "Selecciona el modelo de inversión adecuado para tus necesidades",
+    "items": [
+      "Inversión Estándar: Inversión de video rápida y efectiva con ediciones básicas",
+      "Inversión Premium: Calidad mejorada con transiciones y efectos fluidos",
+      "Soporta múltiples formatos de video para versatilidad",
+      "Ideal para uso en redes sociales y marketing",
+      "Tiempos de procesamiento rápidos con resultados eficientes bajo demanda"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas de IA Relacionadas",
+    "description": "Explora más herramientas innovadoras de IA para tu estrategia de video"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué tipos de videos puedo invertir?",
+        "answer": "Puedes invertir cualquier formato de archivo de video compatible con nuestra plataforma, incluidos MP4, AVI y MOV. Ya sea un clip simple o una secuencia de video compleja, nuestra IA puede manejarlo sin esfuerzo."
+      },
+      {
+        "question": "¿Cuánto tiempo toma el proceso de inversión?",
+        "answer": "Típicamente, la inversión de video toma solo unos minutos. La duración depende de la longitud del video, pero nuestro sistema está optimizado para un procesamiento rápido."
+      },
+      {
+        "question": "¿Puedo editar el video invertido después?",
+        "answer": "¡Absolutamente! Una vez que hayas invertido tu video, puedes editarlo más utilizando nuestro conjunto de herramientas, lo que permite mejoras y modificaciones adicionales."
+      },
+      {
+        "question": "¿Hay un límite al tamaño del video que puedo subir?",
+        "answer": "Acogemos varios tamaños de video; sin embargo, para un rendimiento óptimo, recomendamos subir videos de menos de 2GB para la mejor experiencia de usuario."
+      },
+      {
+        "question": "¿Conservo la propiedad de mis videos?",
+        "answer": "¡Sí! Todos los videos procesados a través de nuestra plataforma siguen siendo tu propiedad intelectual. Puedes usarlos libremente para cualquier propósito."
+      },
+      {
+        "question": "¿Qué pasa si el video invertido no se ve bien?",
+        "answer": "Nuestra IA está diseñada para ofrecer inversiones de alta calidad, pero si encuentras problemas, nuestro equipo de soporte está listo para ayudar a corregir cualquier inconveniente. ¡Simplemente contáctanos!"
+      },
+      {
+        "question": "¿Qué recursos de soporte ofrecen?",
+        "answer": "Proporcionamos recursos completos, incluidos tutoriales, preguntas frecuentes y soporte de chat en vivo para guiarte en cualquier duda o problema técnico."
+      },
+      {
+        "question": "¿Qué estructura de precios utilizan para las inversiones de video?",
+        "answer": "Nuestra estructura de precios es flexible; pagas por cada inversión de video sin suscripciones mensuales ni tarifas ocultas. ¡Prueba nuestro servicio hoy y descubre las tarifas competitivas!"
+      },
+      {
+        "question": "¿Puedo invertir varios videos a la vez?",
+        "answer": "¡Sí! Nuestro sistema admite procesamiento por lotes, lo que te permite invertir varios videos simultáneamente, mejorando tu eficiencia!"
+      },
+      {
+        "question": "¿Puedo descargar mi video invertido en diferentes formatos?",
+        "answer": "Sí, después de la inversión, puedes elegir tu formato de salida preferido, asegurando la compatibilidad con diversas plataformas y usos."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Revolucionar Tus Videos?",
+    "description": "Comienza con créditos gratuitos y desbloquea las posibilidades",
+    "contactUsText": "Contáctanos",
+    "tryText": "Pruébalo Ahora →"
+  },
+  "footer": {
+    "heading": "¿Listo para Transformar Tu Contenido de Video?",
+    "description": "Experimenta WaveSpeed AI hoy e innova tu estrategia de video. No se requiere registro.",
+    "ctaText": "Invierte Video Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

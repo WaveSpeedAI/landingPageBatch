@@ -1,0 +1,229 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Meme Generator",
+  "meta": {
+    "description": "Create hilarious, eye-catching memes effortlessly with WaveSpeed AI. Perfect for social media, marketing, and viral content. Join the meme revolution!",
+    "keywords": "AI meme generator, meme maker, create memes online, viral meme creator, social media memes, marketing memes, meme templates, instant meme creation, meme editor, text on image tool, funny meme generator"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Meme Generator",
+    "subHeading": "Create Hilarious Memes in Seconds",
+    "description": "Unleash your creativity with our AI-powered meme generator. Produce memes that resonate and engage, all in just a few clicks. Make your content go viral today!",
+    "tryText": "Generate Your First Meme Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI Meme Generator Solution",
+    "left": {
+      "heading": "Traditional Challenges",
+      "items": [
+        "Finding the right meme template",
+        "Editing software can be complex",
+        "Time-consuming meme creation process",
+        "Limited design skills or resources",
+        "Costly tools and subscriptions"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Select from a vast library of templates",
+        "Simple, intuitive interface - Just add text",
+        "Generate memes in under 1 minute",
+        "Unlimited customization options",
+        "Affordable pay-per-meme pricing model"
+      ],
+      "tryText": "Create Now"
+    },
+    "howItWorks": {
+      "heading": "How It Works",
+      "description": "Craft your meme in 4 easy steps",
+      "steps": [
+        {
+          "number": "1",
+          "title": "Choose Template",
+          "text": "Select a meme template from our library",
+          "color": "#3b82f6",
+          "icon": "BlueStar"
+        },
+        {
+          "number": "2",
+          "title": "Insert Your Text",
+          "text": "Add your own captions and text to the meme",
+          "color": "#a855f7",
+          "icon": "PurpleCircle"
+        },
+        {
+          "number": "3",
+          "title": "Customize Design",
+          "text": "Adjust text size, font, and color to your liking",
+          "color": "#14b8a6",
+          "icon": "GreenSquares"
+        },
+        {
+          "number": "4",
+          "title": "Download Meme",
+          "text": "Save your meme instantly and share it online",
+          "color": "#fb923c",
+          "icon": "OrangeHex"
+        }
+      ],
+      "generateText": "Generate Your First Meme →"
+    },
+    "endlessPossibilities": {
+      "heading": "Endless Meme Possibilities",
+      "description": "Ideal for every occasion",
+      "items": [
+        "Social media posts and shares",
+        "Marketing campaigns and ads",
+        "Event promotions and announcements",
+        "Reaction memes for trending topics",
+        "Humorous content for blogs and websites",
+        "Engaging memes for newsletters",
+        "Custom memes for your brand",
+        "Memes for community engagement"
+      ]
+    },
+    "successStories": {
+      "heading": "Real Success Stories",
+      "description": "See how others have leveled up their content with AI",
+      "items": [
+        {
+          "tag": "Fashion Brand",
+          "heading": "Social Media Engagement",
+          "before": {
+            "label": "Before",
+            "text": "Low interaction rates"
+          },
+          "after": {
+            "label": "After",
+            "text": "Boosted engagement"
+          },
+          "value": "150%",
+          "key": "Engagement Increase",
+          "description": "Using our meme generator, we created relatable memes for every collection launch, leading to a remarkable interaction boost."
+        },
+        {
+          "tag": "Food Blogger",
+          "heading": "Viral Content Creation",
+          "before": {
+            "label": "Before",
+            "text": "Struggled for shares"
+          },
+          "after": {
+            "label": "After",
+            "text": "Went viral"
+          },
+          "value": "300%",
+          "key": "Share Increase",
+          "description": "By leveraging humorous memes about food trends, my content went viral across multiple platforms, driving significant audience growth."
+        }
+      ]
+    }
+  },
+  "modelComparison": {
+    "heading": "Meme Creation Comparison",
+    "description": "Choose the right approach for your memes",
+    "items": [
+      "Template Library: Thousands of ready-to-use templates",
+      "Instant Creation: Produce memes in under a minute",
+      "Text Customization: Varying fonts and styles available",
+      "Image Upload: Use your own pictures and graphics",
+      "Social Sharing: Easy download and easy to share across platforms"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore more innovative tools for your content creation needs"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What types of memes can I create?",
+        "answer": "You can create a variety of memes including reaction memes, captioned images, and meme templates suitable for any topic. Our tool supports customization for any style you desire."
+      },
+      {
+        "question": "Do I need design skills to use the meme generator?",
+        "answer": "No! Our meme generator is user-friendly and requires no design experience. Anyone can create professional-looking memes with just a few clicks."
+      },
+      {
+        "question": "Can I use my own images for memes?",
+        "answer": "Absolutely! You can upload your own images to customize and turn into memes, blending personal creativity with popular meme formats."
+      },
+      {
+        "question": "Is there a cost to use the meme generator?",
+        "answer": "We offer a pay-per-meme pricing model allowing you flexibility. You only pay when you create memes, making it budget-friendly."
+      },
+      {
+        "question": "Can I save my memes for later use?",
+        "answer": "Yes, you can download your memes instantly. They are saved in a high-resolution format, ready to be shared whenever you want."
+      },
+      {
+        "question": "Are there any limitations on meme downloads?",
+        "answer": "No, you can create as many memes as you like without any limits. However, remember that each generated meme has a small associated cost."
+      },
+      {
+        "question": "How can I enhance my memes after creation?",
+        "answer": "While our tool provides all the necessary features for meme creation, you can also use external image editing software for further enhancements if desired."
+      },
+      {
+        "question": "What if I can't find the right meme template?",
+        "answer": "If you can’t find a template you love, you can easily customize your own using our image upload feature to create unique memes from scratch."
+      },
+      {
+        "question": "Is commercial use allowed for memes created with this generator?",
+        "answer": "Yes! You have full rights to use the memes for personal or commercial purposes without any additional licensing fees."
+      },
+      {
+        "question": "What kind of support is available if I need help?",
+        "answer": "Our customer support includes detailed resources, FAQs, tutorials, and direct access to our support team for any technical issues you might encounter."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Create Your First Meme?",
+    "description": "Start generating memes with free credits - Experience the fun now!",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Transform Your Ideas into Memes!",
+    "description": "Try WaveSpeed AI today and unleash your creativity. No sign-up required.",
+    "ctaText": "Create Your Meme Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

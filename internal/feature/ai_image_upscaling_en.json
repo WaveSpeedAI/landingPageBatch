@@ -1,0 +1,226 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Image Upscaling",
+  "meta": {
+    "description": "Enhance your images with WaveSpeed AI's advanced upscaling technology. Perfect for e-commerce and creative projects. Achieve stunning quality effortlessly!",
+    "keywords": "AI image upscaling, image enhancement, photo quality improvement, e-commerce images, AI photo editor, high-resolution images, photo restoration, detail recovery, Shopify image enhancer, Amazon product images"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Image Upscaling",
+    "subHeading": "Elevate Your Photo Quality Instantly",
+    "description": "Transform your standard photos into stunning high-resolution images in seconds. No complex software needed. Experience the freedom to enhance every detail effortlessly.",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Image Upscaling Solution",
+    "left": {
+      "heading": "Traditional Upscaling Challenges",
+      "items": [
+        "Expensive software and plugins",
+        "Requires advanced technical skills",
+        "Time-consuming manual adjustments",
+        "Limited results with basic upscaling",
+        "Complicated workflows for image enhancement"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Enhance images in seconds with just one click",
+        "No expertise required - Easy upload and enhance",
+        "Instant high-resolution results powered by AI",
+        "Unlimited tweaks and enhancements available",
+        "Pay-as-you-go model - Accessible for all"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Upgrade your photos in 4 easy steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Image",
+        "text": "Upload the image you want to enhance",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Select Enhancement Level",
+        "text": "Choose the level of enhancement you prefer",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Preview Changes",
+        "text": "See a side-by-side comparison of the enhanced image",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Enhanced Image",
+        "text": "Get your high-quality image ready for use",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Enhance Your First Image →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Ideal for various applications",
+    "items": [
+      "E-commerce product images for online stores",
+      "Social media graphics and posts",
+      "Digital marketing materials",
+      "Portfolio enhancements for creatives",
+      "Print media and advertising",
+      "Professional presentations",
+      "Blog or website imagery",
+      "High-quality visuals for personal projects"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how businesses enhance their visuals with AI",
+    "items": [
+      {
+        "tag": "E-commerce",
+        "heading": "Boosting Product Image Quality",
+        "before": {
+          "label": "Before",
+          "text": "Low resolution"
+        },
+        "after": {
+          "label": "After",
+          "text": "Stunning high-res"
+        },
+        "value": "97%",
+        "key": "Quality Improvement",
+        "description": "Our product images transformed, leading to a 30% increase in sales within the first week."
+      },
+      {
+        "tag": "Graphic Design",
+        "heading": "Freelance Designer Improvements",
+        "before": {
+          "label": "Before",
+          "text": "Time-consuming edits"
+        },
+        "after": {
+          "label": "After",
+          "text": "Instant enhancements"
+        },
+        "value": "95%",
+        "key": "Time Saved",
+        "description": "Our editing process has been streamlined significantly, allowing us to take on more clients."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Model Comparison",
+    "description": "Discover the best enhancement approach for your needs",
+    "items": [
+      "Standard Model: Quick enhancement, good quality, suitable for most images",
+      "Advanced Model: Superior quality, ideal for professional use, more processing time",
+      "Supports batch processing for multiple images at once",
+      "Resolutions upscaling up to 8K",
+      "Preserves color fidelity and detail",
+      "Streamlined process with commercial usage rights included"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore more AI tools for visual improvement"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What image quality can I expect after upscaling?",
+        "answer": "Our AI models provide stunning enhancements, resulting in high-resolution images up to 8K, ensuring that every detail is sharply defined and visually appealing."
+      },
+      {
+        "question": "Can I upscale different types of images?",
+        "answer": "Absolutely! Our AI can handle a variety of images including product photos, portraits, and landscapes, transforming them all into high-quality visual content."
+      },
+      {
+        "question": "What file formats are supported for image uploads?",
+        "answer": "We support multiple formats including JPG, PNG, and TIFF. Just ensure your images are clear and well-lit for best results."
+      },
+      {
+        "question": "How does the AI determine the best enhancement?",
+        "answer": "Our technology analyzes your original image's patterns and details to effectively restore and enhance resolution while maintaining natural look and feel."
+      },
+      {
+        "question": "Is there a limit to the number of images I can upscale?",
+        "answer": "No limits! You can upscale as many images as you want, and our batch processing feature allows concurrent enhancements for efficiency."
+      },
+      {
+        "question": "What pricing model does the service use?",
+        "answer": "We operate on a flexible pay-as-you-go strategy, where you pay only for the images you upscale. No subscriptions or hidden costs!"
+      },
+      {
+        "question": "How fast can I expect my images to be enhanced?",
+        "answer": "Enhancement times vary, but most images are processed in seconds, allowing you to instantly see the improved quality."
+      },
+      {
+        "question": "Will I retain rights to my enhanced images?",
+        "answer": "Yes! You have full commercial rights to all images enhanced through our platform, with no additional fees or royalties."
+      },
+      {
+        "question": "What support options are available if I encounter issues?",
+        "answer": "We offer extensive support through documentation, tutorials, and a responsive support team ready to assist with any questions or concerns."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Enhance Your Images?",
+    "description": "Start now with free credits - Experience the upgrade!",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Ready to Transform Your Photos?",
+    "description": "Try WaveSpeed AI now and see the difference for yourself. No sign-up required.",
+    "ctaText": "Upscale Your Images Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Video Face Swap",
+  "meta": {
+    "description": "Effortlessly swap faces in videos using advanced AI technology. Perfect for creating engaging, personalized content quickly and easily. Experience the future of video editing with WaveSpeed AI.",
+    "keywords": "AI video face swap, face replacement, video editing AI, personalized video content, instant face swap, video marketing tool, real-time face swap, social media video, promotional videos, content creation AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Video Face Swap",
+    "subHeading": "Transform Faces in Your Videos Instantly",
+    "description": "Easily swap faces in videos to create dynamic, engaging content. Perfect for marketers and content creators looking to personalize their videos without technical skills. Get started today!",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Video Face Swap Solution",
+    "left": {
+      "heading": "Traditional Challenges",
+      "items": [
+        "Face swapping requires complicated software",
+        "Labor-intensive manual editing processes",
+        "Limited to professional skills and experience",
+        "Time-consuming adjustments and edits",
+        "High costs for video production teams"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Instantly swap faces in videos with a single click",
+        "No prior editing skills necessary - Just upload the video",
+        "AI-driven results ready in moments",
+        "Test out various face swaps effortlessly",
+        "Cost-effective solution suitable for all budgets"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Seamlessly swap faces in 4 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Video",
+        "text": "Upload your video where you'd like to swap faces",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Select Faces",
+        "text": "Choose the faces to swap within the video frames",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Adjust Settings",
+        "text": "Fine-tune the face swap preferences and effects",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Result",
+        "text": "Receive your newly edited video in just moments",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Create Your First Face Swap Video →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Unlock creative potential for any video project",
+    "items": [
+      "Personalized marketing videos",
+      "Fun social media clips",
+      "Interactive presentations",
+      "Memorable advertising campaigns",
+      "Creative storytelling and skits",
+      "Unique talent showcases",
+      "Engaging family or event memories",
+      "Customized video messages"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how users are revolutionizing their video projects with AI",
+    "items": [
+      {
+        "tag": "Entertainment Industry",
+        "heading": "Viral Social Media Content",
+        "before": {
+          "label": "Before",
+          "text": "Time-consuming edits"
+        },
+        "after": {
+          "label": "After",
+          "text": "Instant results"
+        },
+        "value": "95%",
+        "key": "Time Saved",
+        "description": "We created engaging face-swapped videos in record time, leading to viral engagement and shares."
+      },
+      {
+        "tag": "Marketing",
+        "heading": "Personalized Campaigns",
+        "before": {
+          "label": "Before",
+          "text": "Outsourced production"
+        },
+        "after": {
+          "label": "After",
+          "text": "In-house editing"
+        },
+        "value": "90%",
+        "key": "Cost Reduction",
+        "description": "With AI, we now produce customized videos quickly and affordably, enhancing our marketing strategies."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Model Comparison",
+    "description": "Select the right model for your face swapping needs",
+    "items": [
+      "Standard Model: Quick face swaps with decent quality",
+      "Premium Model: High fidelity and detail retention",
+      "Real-time processing capabilities",
+      "Natural face mapping technology",
+      "Supports multiple face swaps in a single video",
+      "Seamless integration with existing video platforms"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore more innovative AI solutions for your video needs"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What quality of video can I expect with face swap?",
+        "answer": "Our AI ensures high-quality videos with clear, realistic face swaps that maintain the natural look and feel of your content. Expect professional results ready for various platforms."
+      },
+      {
+        "question": "Can I customize the face swap effects?",
+        "answer": "Absolutely! You can adjust the degree of face swapping, apply unique filters, and set preferences for how the swap integrates with the original video."
+      },
+      {
+        "question": "What types of videos work best for face swapping?",
+        "answer": "Videos with clear facial visibility yield the best results, though the AI can handle a variety of scenes. Ensure your videos are well-lit and focused for optimum quality."
+      },
+      {
+        "question": "How does this differ from traditional video editing?",
+        "answer": "AI-driven face swapping automates and simplifies the process, offering quick results with advanced technology that rivals manual editing precision, saving you time and effort."
+      },
+      {
+        "question": "Can I adjust or enhance the swapped videos after generation?",
+        "answer": "Yes! You can refine the output using our editing tools to improve the final result, applying additional effects or adjustments as needed."
+      },
+      {
+        "question": "What is the pricing model for face swapping?",
+        "answer": "WaveSpeed operates on a pay-as-you-go basis, charging only for the videos you generate with no hidden fees. Pricing varies based on video length and model chosen."
+      },
+      {
+        "question": "How long does the face swapping process take?",
+        "answer": "Typically, face swaps are completed within moments, allowing you to work efficiently without long wait times. Multiple swaps can be processed simultaneously."
+      },
+      {
+        "question": "What are the best applications for face swapping technology?",
+        "answer": "Ideal for marketing videos, social media content, personalized messages, and any creative projects where tailored video elements enhance viewer engagement."
+      },
+      {
+        "question": "Do I own the rights to videos created with face swap?",
+        "answer": "Yes! All videos produced with our service come with full commercial usage rights—use them freely in advertising, social media, or any commercial setting."
+      },
+      {
+        "question": "What support resources are available?",
+        "answer": "We provide detailed guides, tutorials, and dedicated support via email and chat to assist with any technical issues, ensuring you get the most from our platform."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Create Your First Face Swap Video?",
+    "description": "Start with free credits - Discover the power of AI video editing today",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Ready to Transform Your Videos?",
+    "description": "Experience the future of video editing with WaveSpeed AI today. No sign-up required.",
+    "ctaText": "Start Swapping Faces Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

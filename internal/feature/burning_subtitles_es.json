@@ -1,0 +1,230 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Generador de Subtítulos en Llamas",
+  "meta": {
+    "description": "Mejora tus videos añadiendo subtítulos en llamas dinámicos que cautivan la atención de los espectadores. Perfecto para marketing, tutoriales y contenido de redes sociales.",
+    "keywords": "subtítulos en llamas, generador de subtítulos, subtítulos de video, subtítulos AI, contenido de video atractivo, animación de subtítulos, herramienta de video de marketing, herramienta de video de comercio electrónico, WaveSpeed AI, mejorador de videos de redes sociales, videos tutoriales"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas AI",
+        "items": [
+          [
+            "Herramientas AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrina",
+        "items": [
+          [
+            "Vitrina",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Subtítulos en Llamas para Videos",
+    "subHeading": "Transforma el Engagement de Tu Video con Subtítulos Animados",
+    "description": "Captura y retén la atención de los espectadores con nuestra función de subtítulos en llamas llamativa. Agrega fácilmente subtítulos animados a cualquier video, haciendo que tu contenido sea accesible y atractivo en cuestión de minutos.",
+    "tryText": "Pruébalo Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución de Subtítulos en Llamas de WaveSpeed AI",
+    "left": {
+      "heading": "Retos de Subtítulos Tradicionales",
+      "items": [
+        "La creación de subtítulos manual es lenta",
+        "Los subtítulos estáticos no atraen a los espectadores",
+        "Opciones de diseño limitadas para los subtítulos",
+        "Dificultad para sincronizar subtítulos con audio",
+        "Requiere experiencia en software de edición de video"
+      ]
+    },
+    "right": {
+      "heading": "Solución WaveSpeed AI",
+      "items": [
+        "Genera instantáneamente subtítulos animados en llamas para videos",
+        "Incrementa el engagement de los espectadores con texto dinámico",
+        "Estilos y tiempos de subtítulos totalmente personalizables",
+        "Integración sin problemas con cualquier contenido de video",
+        "Precios asequibles por uso para todos los negocios"
+      ],
+      "tryText": "Inténtalo"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "Agrega impresionantes subtítulos en llamas a tus videos en 4 pasos fáciles",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Sube el Video",
+        "text": "Sube el archivo de video que deseas mejorar con subtítulos",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Agrega Texto",
+        "text": "Ingresa el texto para tus subtítulos en llamas que se mostrarán durante el video",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Personaliza el Estilo",
+        "text": "Elige entre una variedad de estilos de animación y opciones de diseño para tus subtítulos",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Descarga el Video",
+        "text": "Recibe tu video con subtítulos en llamas en un formato impresionante",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Genera Tu Primer Video →"
+  },
+  "endlessPossibilities": {
+    "heading": "Posibilidades Infinita",
+    "description": "Perfecto para contenido atractivo en diversas plataformas",
+    "items": [
+      "Mejora videos de marketing para redes sociales",
+      "Crea contenido accesible para tutoriales y guías",
+      "Agrega estilo a demostraciones de productos y reseñas",
+      "Aumenta el engagement en contenido de transmisión en vivo",
+      "Incrementa la retención en videos educativos",
+      "Transforma presentaciones de webinars para que sean más dinámicas",
+      "Utiliza en campañas publicitarias para mayor impacto",
+      "Eleva vlogs con subtítulos cautivadores"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Witness how businesses are elevating their video content with burning subtitles",
+    "items": [
+      {
+        "tag": "Comercio Electrónico",
+        "heading": "Videos de Producto Dinámicos",
+        "before": {
+          "label": "Antes",
+          "text": "Compromiso bajo"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Compromiso alto"
+        },
+        "value": "150%",
+        "key": "Incremento de Compromiso",
+        "description": "Nuestros videos de producto vieron un gran aumento en la retención de espectadores después de agregar subtítulos en llamas. ¡Las ventas siguieron el mismo camino!"
+      },
+      {
+        "tag": "Educación",
+        "heading": "Módulos de Aprendizaje Interactivos",
+        "before": {
+          "label": "Antes",
+          "text": "Difícil de seguir"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Claro y atractivo"
+        },
+        "value": "80%",
+        "key": "Tasa de Retención",
+        "description": "Los estudiantes informaron una mejor comprensión del material, considerando muchos que preferían nuestro nuevo formato de video."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Animación de Subtítulos",
+    "description": "Elige el mejor estilo de animación para tus subtítulos",
+    "items": [
+      "Desvanecer: Clásico pero eficaz para todo tipo de videos",
+      "Efecto Rebote: Añade energía al contenido atractivo",
+      "Máquina de Escribir: Captura la atención lentamente, excelente para contar historias",
+      "Deslizar: Entrada suave para presentaciones dinámicas",
+      "Animación de Resaltado: Enfatiza puntos clave en videos educativos",
+      "Efecto Glitch: Ideal para contenido de tecnología o juegos para un toque moderno"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas AI Relacionadas",
+    "description": "Explora más poderosas herramientas AI para mejorar tus videos"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿En qué formato deben estar mis videos para subtítulos?",
+        "answer": "Soportamos formatos de video comunes incluyendo MP4, AVI y MOV. Asegúrate de que tus videos sean claros y bien estructurados para los mejores resultados."
+      },
+      {
+        "question": "¿Puedo personalizar la apariencia de los subtítulos?",
+        "answer": "¡Absolutamente! Nuestra herramienta te permite elegir entre múltiples estilos, colores y animaciones para que coincida perfectamente con la estética de tu video."
+      },
+      {
+        "question": "¿Cuánto tiempo tarda en agregar subtítulos en llamas?",
+        "answer": "El proceso es rápido; dependiendo de la longitud de tu video, espera que los subtítulos estén listos en solo unos minutos."
+      },
+      {
+        "question": "¿Hay restricciones en la longitud del video?",
+        "answer": "No hay restricciones en la longitud del video, pero videos más largos pueden tardar un poco más en procesar la generación de subtítulos."
+      },
+      {
+        "question": "¿Puedo editar los subtítulos después de generarlos?",
+        "answer": "¡Sí! Puedes hacer ajustes al texto, los tiempos y los estilos incluso después de que la generación inicial esté completa."
+      },
+      {
+        "question": "¿Cuáles son los mejores casos de uso para subtítulos en llamas?",
+        "answer": "Perfecto para realzar videos de productos, tutoriales, contenido de marketing y cualquier situación donde capturar la atención del espectador sea crítico."
+      },
+      {
+        "question": "¿Se incluyen derechos comerciales con los videos generados?",
+        "answer": "Sí, tienes plenos derechos comerciales para usar videos con subtítulos en llamas en tus proyectos sin cargos adicionales."
+      },
+      {
+        "question": "¿Qué soporte está disponible si tengo problemas?",
+        "answer": "Visita nuestra página de soporte para guías de solución de problemas, o contacta a nuestro equipo de soporte directamente para asistencia inmediata."
+      },
+      {
+        "question": "¿Puedo probar esta función gratis?",
+        "answer": "¡Sí! Los nuevos usuarios reciben créditos gratis para probar la función de subtítulos en llamas en sus videos."
+      },
+      {
+        "question": "¿Qué sucede si excedo mis créditos?",
+        "answer": "Puedes comprar créditos adicionales fácilmente según sea necesario - nuestro modelo de pago por uso lo hace sin complicaciones."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Mejorar Tus Videos con Subtítulos en Llamas?",
+    "description": "Comienza con créditos gratis - ¡Experimenta la diferencia hoy!",
+    "contactUsText": "Contáctanos",
+    "tryText": "Pruébalo Ahora →"
+  },
+  "footer": {
+    "heading": "¿Listo para Transformar Tus Videos?",
+    "description": "Prueba WaveSpeed AI ahora y ve la diferencia por ti mismo. No se requiere registro.",
+    "ctaText": "Subtítulos en Llamas Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Burning Subtitles Generator",
+  "meta": {
+    "description": "Enhance your videos by adding dynamic burning subtitles that captivate viewers' attention. Perfect for marketing, tutorials, and social media content.",
+    "keywords": "burning subtitles, caption generator, video subtitles, AI subtitles, engaging video content, subtitle animation, marketing video tool, e-commerce video tool, WaveSpeed AI, social media video enhancer, tutorial videos"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Burning Subtitles for Videos",
+    "subHeading": "Transform Your Video Engagement with Animated Subtitles",
+    "description": "Capture and retain viewer attention with our eye-catching burning subtitles feature. Easily add animated captions to any video, making your content accessible and engaging within minutes.",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI Burning Subtitles Solution",
+    "left": {
+      "heading": "Traditional Subtitle Challenges",
+      "items": [
+        "Manual subtitle creation is time-consuming",
+        "Static captions don't engage viewers",
+        "Limited design options for captions",
+        "Difficulty in syncing subtitles with audio",
+        "Requires video editing software expertise"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Instantly generate animated burning subtitles for videos",
+        "Enhance viewer engagement with dynamic text",
+        "Fully customizable subtitle styles and timings",
+        "Seamless integration with any video content",
+        "Affordable pay-as-you-go pricing for all businesses"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Add stunning burning subtitles to your videos in 4 easy steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Video",
+        "text": "Upload the video file you want to enhance with subtitles",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Add Text",
+        "text": "Input the text for your burning subtitles to display during the video",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Customize Style",
+        "text": "Choose from a variety of animation styles and design options for your captions",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Video",
+        "text": "Receive your video with burning subtitles in a stunning format",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Generate Your First Video →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Perfect for engaging content across various platforms",
+    "items": [
+      "Enhance marketing videos for social media",
+      "Create accessible content for tutorials and guides",
+      "Add flair to product demos and reviews",
+      "Boost engagement in live streaming content",
+      "Increase retention in educational videos",
+      "Transform webinar presentations to be more dynamic",
+      "Use in advertising campaigns for higher impact",
+      "Elevate vlogs with captivating subtitles"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Witness how businesses are elevating their video content with burning subtitles",
+    "items": [
+      {
+        "tag": "E-commerce",
+        "heading": "Dynamic Product Videos",
+        "before": {
+          "label": "Before",
+          "text": "Engagement low"
+        },
+        "after": {
+          "label": "After",
+          "text": "Engagement high"
+        },
+        "value": "150%",
+        "key": "Engagement Increase",
+        "description": "Our product videos saw a huge rise in viewer retention after adding burning subtitles. Sales followed suit!"
+      },
+      {
+        "tag": "Education",
+        "heading": "Interactive Learning Modules",
+        "before": {
+          "label": "Before",
+          "text": "Difficult to follow"
+        },
+        "after": {
+          "label": "After",
+          "text": "Clear and engaging"
+        },
+        "value": "80%",
+        "key": "Retention Rate",
+        "description": "Students reported better understanding of materials, with many expressing a preference for our new video setup."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Subtitle Animation Comparison",
+    "description": "Choose the best animation style for your subtitles",
+    "items": [
+      "Fade In/Out: Classic yet effective for all types of videos",
+      "Bounce Effect: Adds energy to engaging content",
+      "Typewriter: Captures attention slowly, great for storytelling",
+      "Slide In: Smooth entry for dynamic presentations",
+      "Highlight Animation: Emphasizes key points in educational videos",
+      "Glitch Effect: Ideal for tech or gaming content for a modern twist"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore more powerful AI tools for enhancing your videos"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What format do my videos need to be in for subtitles?",
+        "answer": "We support common video formats including MP4, AVI, and MOV. Ensure your videos are clear and well-structured for the best results."
+      },
+      {
+        "question": "Can I customize the look of the subtitles?",
+        "answer": "Absolutely! Our tool allows you to choose from multiple styles, colors, and animations to perfectly match your video aesthetic."
+      },
+      {
+        "question": "How long does it take to add burning subtitles?",
+        "answer": "The process is quick; depending on your video's length, expect subtitles to be ready in just a few minutes!"
+      },
+      {
+        "question": "Are there any restrictions on video length?",
+        "answer": "No restrictions on video length, but longer videos may take slightly longer to process for subtitle generation."
+      },
+      {
+        "question": "Can I edit the subtitles after generating them?",
+        "answer": "Yes! You can make adjustments to the text, timing, and styles even after the initial generation is complete."
+      },
+      {
+        "question": "What are the best use cases for burning subtitles?",
+        "answer": "Perfect for enhancing product videos, tutorials, marketing content, and any situation where capturing viewer attention is critical."
+      },
+      {
+        "question": "Are there commercial rights included with generated videos?",
+        "answer": "Yes, you have full commercial rights to use videos with burning subtitles in your projects without additional fees."
+      },
+      {
+        "question": "What support is available if I have issues?",
+        "answer": "Visit our support page for troubleshooting guides, or contact our support team directly for immediate assistance."
+      },
+      {
+        "question": "Can I try this feature for free?",
+        "answer": "Yes! New users receive free credits to test the burning subtitles feature in their videos."
+      },
+      {
+        "question": "What happens if I exceed my credits?",
+        "answer": "You can easily purchase additional credits as needed - our pay-as-you-go model keeps it hassle-free."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Enhance Your Videos with Burning Subtitles?",
+    "description": "Start with free credits - Experience the difference today!",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Ready to Transform Your Videos?",
+    "description": "Try WaveSpeed AI now and see the difference for yourself. No sign-up required.",
+    "ctaText": "Burning Subtitles Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

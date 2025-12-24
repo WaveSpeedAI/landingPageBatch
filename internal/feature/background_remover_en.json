@@ -1,0 +1,225 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Background Remover",
+  "meta": {
+    "description": "Effortlessly remove backgrounds from images to create clean, professional visuals in seconds. Ideal for e-commerce, marketing, and personal use. Experience the power of AI-driven image editing today!",
+    "keywords": "background remover, AI image editing, e-commerce images, image background removal, AI photo tools, product photography, clean visuals, marketing images, professional photos, WaveSpeed AI, fast image editing"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Background Remover",
+    "subHeading": "Instantly Create Professional Images",
+    "description": "Transform your photos by removing unwanted backgrounds in seconds. Perfect for enhancing product images and creating stunning visuals with just a click.",
+    "tryText": "Remove Background Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI Background Remover Solution",
+    "left": {
+      "heading": "Traditional Challenges",
+      "items": [
+        "Time-consuming manual editing",
+        "Complex software interfaces",
+        "Costs for professional services can run high",
+        "Limited editing skills required for quality results",
+        "Inconsistent output quality across projects"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI Solution",
+      "items": [
+        "Instant background removal in seconds",
+        "User-friendly interface accessible to everyone",
+        "Cost-effective solution - no hidden fees",
+        "Consistent, high-quality results every time",
+        "Pay-as-you-go pricing for flexible use"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Remove backgrounds in just 4 easy steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Image",
+        "text": "Simply upload the image you want to edit",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Automatic Processing",
+        "text": "Let AI analyze and remove the background automatically",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Preview Result",
+        "text": "Check your image with the background removed and make adjustments if needed",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Image",
+        "text": "Get your edited image in high resolution instantly",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Remove Your First Background →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Transform your images for any use case",
+    "items": [
+      "Product images for e-commerce listings",
+      "Social media posts and advertisements",
+      "Professional presentations and reports",
+      "Marketing materials and brochures",
+      "Blog and website visuals",
+      "Event flyers and promotional graphics",
+      "Personalized gifts and projects",
+      "Real estate listing photos"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how users are enhancing their images with AI",
+    "items": [
+      {
+        "tag": "E-commerce Industry",
+        "heading": "Product Listing Improvement",
+        "before": {
+          "label": "Before",
+          "text": "Cluttered backgrounds"
+        },
+        "after": {
+          "label": "After",
+          "text": "Crisp, clear images"
+        },
+        "value": "97%",
+        "key": "Quality Increase",
+        "description": "Our product images look professional, boosting sales by 35% after enhancing them with the background remover."
+      },
+      {
+        "tag": "Photography",
+        "heading": "Freelance Photographer",
+        "before": {
+          "label": "Before",
+          "text": "Manual edits took hours"
+        },
+        "after": {
+          "label": "After",
+          "text": "Fast processing"
+        },
+        "value": "90%",
+        "key": "Time Saved",
+        "description": "The background remover has streamlined my workflow, allowing me to serve more clients efficiently."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Editing Model Comparison",
+    "description": "Choose the right mode for your project",
+    "items": [
+      "Basic Mode: Quick background removal with standard precision",
+      "Advanced Mode: Enhanced algorithms for complex images",
+      "Custom Adjustments: Manually tweak the removal edges as needed",
+      "High-resolution output for all images",
+      "No watermarks or limits on usage"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore more innovative AI tools for your image needs"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What types of images can be processed?",
+        "answer": "You can upload JPG, PNG, and WebP images. The tool works best with clear, well-lit images that have distinct subjects."
+      },
+      {
+        "question": "Is it easy to use for beginners?",
+        "answer": "Absolutely! The platform is designed for ease of use, allowing anyone, regardless of tech skills, to remove backgrounds effortlessly."
+      },
+      {
+        "question": "How long does it take to process an image?",
+        "answer": "Processing is typically instant, with results available within seconds."
+      },
+      {
+        "question": "Can I edit the output after background removal?",
+        "answer": "Yes! You can make adjustments as needed before downloading your final image."
+      },
+      {
+        "question": "Are there any size limits for the images?",
+        "answer": "Currently, we support images up to 10MB. Larger files may require compression before uploading."
+      },
+      {
+        "question": "Is there a subscription fee?",
+        "answer": "No, we offer a pay-as-you-go model, meaning you only pay for what you use without any subscription obligations."
+      },
+      {
+        "question": "What is the quality of the output images?",
+        "answer": "All processed images are high-resolution, ensuring crisp clarity for any application."
+      },
+      {
+        "question": "Can I use the edited images for commercial purposes?",
+        "answer": "Yes, all images edited with our tool can be used for commercial projects without any additional licensing fees."
+      },
+      {
+        "question": "What if I encounter an issue with the service?",
+        "answer": "Our support team is available via email and live chat to assist you with any questions or technical difficulties."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Enhance Your Images?",
+    "description": "Start removing backgrounds today - Experience the ease of AI editing firsthand!",
+    "contactUsText": "Contact Us",
+    "tryText": "Remove Background Now →"
+  },
+  "footer": {
+    "heading": "Ready to Transform Your Photos?",
+    "description": "Try WaveSpeed AI now and see the difference for yourself. No sign-up required.",
+    "ctaText": "Remove Objects Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

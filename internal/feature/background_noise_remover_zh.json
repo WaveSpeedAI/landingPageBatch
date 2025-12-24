@@ -1,0 +1,229 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - 背景噪音去除器",
+  "meta": {
+    "description": "通过 AI 技术瞬间消除您音频录音中的不必要背景噪音。非常适合播客主持人、视频创作者和音乐人。使用 WaveSpeed AI 轻松提升音质！",
+    "keywords": "背景噪音去除器, 音频增强 AI, 音质改善, 播客编辑工具, 视频音频清理, 噪音消除, AI 音频处理, 专业音频工具, 音乐制作音频清理器, 音频编辑软件"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "主页",
+        "items": [
+          [
+            "主页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI 工具",
+        "items": [
+          [
+            "AI 工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即试用"
+  },
+  "hero": {
+    "heading": "音频清晰度重新定义",
+    "subHeading": "瞬间去除背景噪音",
+    "description": "通过高效去除几秒钟内的背景噪音来提升您音频录音的质量。无论是播客、视频还是音乐，我们的 AI 技术都能提供纯净的声音。告别干扰音，迎接清晰的音频。",
+    "tryText": "立即去除噪音",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI 背景噪音去除器解决方案",
+    "left": {
+      "heading": "传统清理方法",
+      "items": [
+        "耗时的手动编辑",
+        "需要昂贵的软件",
+        "需要复杂的音频编辑技能",
+        "对顽固噪音的效果有限",
+        "专业音频服务的高成本"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI 解决方案",
+      "items": [
+        "瞬间去除几秒钟内的不必要背景噪音",
+        "用户友好的界面 - 不需要技术技能",
+        "自动实现专业水平的音质",
+        "轻松同时清理多个音轨",
+        "对所有用户都具成本效益的按需付费模式"
+      ],
+      "tryText": "试用"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "通过四个简单步骤实现完美音频",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传音频",
+        "text": "选择带有背景噪音的音频文件。",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "选择噪音轮廓",
+        "text": "选择您想去除的噪音类型（例如，嗡嗡声、嘶嘶声）。",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "运行处理",
+        "text": "让 AI 在几秒钟内分析和清理您的音频。",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载清洁音频",
+        "text": "接收您准备使用的增强音频文件！",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "立即开始 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无尽的应用",
+    "description": "适用于各种项目和行业",
+    "items": [
+      "播客制作与编辑",
+      "创作者的视频音频增强",
+      "音乐制作与母带处理",
+      "配音音频精细化",
+      "网络研讨会和在线课程录音",
+      "实地录音和访谈",
+      "广播音频改善",
+      "现场活动声音校正"
+    ]
+  },
+  "successStories": {
+    "heading": "成功的转变",
+    "description": "发现用户如何利用 AI 提升他们的音频",
+    "items": [
+      {
+        "tag": "播客",
+        "heading": "热门播客节目",
+        "before": {
+          "label": "之前",
+          "text": "背景聊天声不断"
+        },
+        "after": {
+          "label": "之后",
+          "text": "清晰、专业的声音"
+        },
+        "value": "98.5%",
+        "key": "噪音减少",
+        "description": "实施 AI 噪音去除后，我们的播客增长迅猛。听众喜欢改进的音频体验！"
+      },
+      {
+        "tag": "音乐制作",
+        "heading": "独立音乐人",
+        "before": {
+          "label": "之前",
+          "text": "被环境噪音淹没"
+        },
+        "after": {
+          "label": "之后",
+          "text": "纯粹、丰富的音质"
+        },
+        "value": "95%",
+        "key": "质量改善",
+        "description": "通过 AI 提升我们的曲目使我们在行业中变得更具竞争力。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "噪音去除技术比较",
+    "description": "选择最适合您需求的技术",
+    "items": [
+      "自适应噪音取消：深入分析，最适合复杂声音",
+      "简单减少：快速、有效针对简单背景噪音",
+      "可自定义设置以满足个人偏好",
+      "支持同时批量处理多个文件",
+      "即时结果保持无损音质"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关 AI 工具",
+    "description": "探索其他 AI 解决方案以增强音质"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要知道的一切",
+    "items": [
+      {
+        "question": "去除器可以处理哪些类型的噪音？",
+        "answer": "我们的技术能够有效去除各种背景噪音，包括嗡嗡声、嘶嘶声、风噪音以及不同环境下的其他不必要声音。"
+      },
+      {
+        "question": "我可以调整噪音去除的灵敏度吗？",
+        "answer": "可以！您可以自定义噪音轮廓，以根据录音的需要定位特定频率，从而实现最佳音频清晰度。"
+      },
+      {
+        "question": "我需要高级技能来使用此功能吗？",
+        "answer": "不需要！用户友好的界面允许任何人，无论其技术专长如何，都能轻松增强他们的音频。"
+      },
+      {
+        "question": "支持哪些音频格式？",
+        "answer": "我们支持所有标准音频格式，包括 MP3、WAV、AAC 等，确保与您现有文件的兼容性。"
+      },
+      {
+        "question": "处理我的音频需要多长时间？",
+        "answer": "处理通常是即时的，允许您在几秒钟内清理音频文件！"
+      },
+      {
+        "question": "我可以将工具用于实时音频吗？",
+        "answer": "可以！我们的技术也可以集成用于实时场景中的音频增强。"
+      },
+      {
+        "question": "音频文件的大小有上限吗？",
+        "answer": "没有严格的限制，但较大的文件可能根据其复杂性处理所需的时间稍长。"
+      },
+      {
+        "question": "我的音频质量会被保留吗？",
+        "answer": "绝对可以！我们的技术在去除不必要噪音的同时保留原始质量，提供清晰和专业的声音。"
+      },
+      {
+        "question": "有哪些定价选项？",
+        "answer": "我们提供灵活的按需付费定价模式，没有隐藏费用。您只需为处理的音频支付费用。"
+      },
+      {
+        "question": "如果我遇到问题，是否有支持可用？",
+        "answer": "我们提供丰富的文档、教程和客户支持，以帮助您解决可能遇到的任何挑战。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备清理您的音频了吗？",
+    "description": "立即开始转变您的音质，享受免费积分！",
+    "contactUsText": "联系我们",
+    "tryText": "立即去除噪音 →"
+  },
+  "footer": {
+    "heading": "轻松转变您的音频！",
+    "description": "立即体验 WaveSpeed AI 的清晰度，无需承诺。只需上传您的音频。",
+    "ctaText": "立即去除噪音",
+    "text": "© 2025 WaveSpeed AI. 版权所有。"
+  }
+}

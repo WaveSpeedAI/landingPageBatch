@@ -1,0 +1,223 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Video Trimmer",
+  "meta": {
+    "description": "Effortlessly cut, edit, and enhance your videos with our AI-powered Video Trimmer. Perfect for creators, marketers, and businesses looking to streamline video production. Experience the ease of video editing today!",
+    "keywords": "video trimmer, AI video editing, video cutter, video enhancement tool, WaveSpeed AI, video solutions, e-commerce video editing, social media video trimming, online video editor, fast video editing"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Trim Your Videos",
+    "subHeading": "Edit and Enhance with AI Precision",
+    "description": "Instantly cut your videos for social media, marketing, or personal projects. Experience seamless editing and enhance your storytelling with the power of WaveSpeed AI. Get started today!",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI Video Trimmer Solution",
+    "left": {
+      "heading": "Traditional Challenges",
+      "items": [
+        "Manual editing is time-consuming and complex",
+        "Requires costly editing software",
+        "Limited to basic trimming features",
+        "High learning curve for beginners",
+        "Inconsistent output quality"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Trim and cut videos in seconds with AI assistance",
+        "No technical skills or expensive software needed",
+        "User-friendly interface for all skill levels",
+        "Consistent, professional output every time",
+        "Affordable pricing without hidden fees"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Effortlessly trim videos in 3 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Video",
+        "text": "Choose the video you want to trim or edit",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Select Trim Points",
+        "text": "Mark the start and end points for your edit",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Preview and Save",
+        "text": "Preview your trimmed video and download in seconds",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "Trim Your First Video →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Ideal for various video projects",
+    "items": [
+      "Social media snippets for Instagram and TikTok",
+      "Promotional videos for online shops",
+      "Video highlights for event recaps",
+      "Personalized video messages and greetings",
+      "YouTube content editing",
+      "Educational and tutorial video enhancements",
+      "Marketing campaign adjustments",
+      "Creative storytelling segments"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "See how users are transforming their video editing with AI",
+    "items": [
+      {
+        "tag": "Content Creation",
+        "heading": "Social Media Influencer",
+        "before": {
+          "label": "Before",
+          "text": "Hours of editing"
+        },
+        "after": {
+          "label": "After",
+          "text": "Minutes of tweaking"
+        },
+        "value": "95%",
+        "key": "Time Saved",
+        "description": "I trimmed a week's worth of content in under an hour, keeping my audience engaged consistently."
+      },
+      {
+        "tag": "E-commerce",
+        "heading": "Product Promotion",
+        "before": {
+          "label": "Before",
+          "text": "Costly edits"
+        },
+        "after": {
+          "label": "After",
+          "text": "Affordable solutions"
+        },
+        "value": "98%",
+        "key": "Cost Reduction",
+        "description": "Using the Video Trimmer, we produced sharp, attractive product clips that doubled our engagement rate."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Trimming Comparison",
+    "description": "Choose optimal settings for your video needs",
+    "items": [
+      "Automatic trimming suggestions based on content",
+      "Precision editing with fine-tuner option",
+      "Quick export options available for various platforms",
+      "Real-time feedback for adjustments",
+      "Cloud processing for fast generation",
+      "Commercial usage rights included"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Discover more innovative AI tools for your video needs"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What video formats are supported for trimming?",
+        "answer": "We support most popular video formats including MP4, MOV, and AVI. Upload your videos easily and start trimming right away."
+      },
+      {
+        "question": "Can I combine multiple clips after trimming?",
+        "answer": "Yes! Our platform allows you to trim and then combine multiple clips seamlessly into one video, perfect for creating highlights."
+      },
+      {
+        "question": "What if I make a mistake while trimming?",
+        "answer": "No worries! You can easily undo changes and revert to previous versions before saving your edits."
+      },
+      {
+        "question": "Is there a limit on video length for trimming?",
+        "answer": "Our Video Trimmer can handle videos up to 60 minutes long, giving you flexibility to edit longer content."
+      },
+      {
+        "question": "Can I apply effects after trimming?",
+        "answer": "Absolutely! Once your video is trimmed, you can add effects, text overlays, and music to enhance your final edit."
+      },
+      {
+        "question": "What is the cost of using the Video Trimmer?",
+        "answer": "We operate on a pay-as-you-go model. You only pay for the trims you make, ensuring great value without unwanted subscriptions."
+      },
+      {
+        "question": "How fast can I expect my trimmed videos?",
+        "answer": "You can expect near-instant processing times. Most trims are completed within minutes, making it efficient for quick edits."
+      },
+      {
+        "question": "Do I need special software to use the Video Trimmer?",
+        "answer": "No special software is needed! All you need is a browser to access our online Video Trimmer tool."
+      },
+      {
+        "question": "Are there tutorials available to help me get started?",
+        "answer": "Yes! We provide an extensive library of tutorials and guides to help you maximize the potential of the Video Trimmer."
+      },
+      {
+        "question": "Can I share my trimmed videos directly from the platform?",
+        "answer": "Yes, once your video is trimmed, you can share it directly to various social media platforms or download it to your device."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Edit Your First Video?",
+    "description": "Start with free credits - Discover the ease of AI trimming",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Ready to Trim Your Videos?",
+    "description": "Try WaveSpeed AI now and experience seamless editing. No sign-up required.",
+    "ctaText": "Trim Videos Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

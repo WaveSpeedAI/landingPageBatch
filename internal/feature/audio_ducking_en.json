@@ -1,0 +1,229 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Audio Ducking Feature",
+  "meta": {
+    "description": "Optimize your audio effortlessly with WaveSpeed AI's Audio Ducking feature. Achieve professional sound quality by dynamically balancing background music and voiceovers. Perfect for content creators, podcasters, and video producers. Experience the difference now!",
+    "keywords": "audio ducking, sound optimization, AI audio tools, voiceover enhancement, podcast audio editing, dynamic audio balancing, professional sound quality, video production audio, background music control, content creator tools"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Audio Ducking",
+    "subHeading": "Enhance Your Audio with Precision Control",
+    "description": "Effortlessly balance your background music and voiceovers with our Audio Ducking feature. Ideal for podcasters and video creators looking for professional audio quality. Take your sound to the next level!",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI Audio Ducking Solution",
+    "left": {
+      "heading": "Traditional Audio Challenges",
+      "items": [
+        "Manual mixing takes hours",
+        "Difficulty balancing music and voice",
+        "Inconsistent audio levels across different tracks",
+        "Requires professional audio software",
+        "Complicated processes for beginners"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI Audio Ducking Solution",
+      "items": [
+        "Automated background music adjustments in real-time",
+        "Perfect balance between voice and sound effects",
+        "Seamless integration with your audio workflow",
+        "Instant results with AI-driven technology",
+        "Accessible for everyone, regardless of experience"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Achieve perfect audio balance in 4 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Audio",
+        "text": "Upload your audio tracks including voiceovers and music",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Select Parameters",
+        "text": "Choose the level of ducking and adjustments needed",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Preview Adjustments",
+        "text": "Listen to the changes and refine settings as necessary",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Export Final Audio",
+        "text": "Download your polished audio track ready for use",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Optimize Your Audio →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Audio Possibilities",
+    "description": "Perfect for any audio project",
+    "items": [
+      "Podcast production and editing",
+      "Video soundtracks for YouTube",
+      "Commercial audio for advertisements",
+      "Live event audio management",
+      "Game sound balancing",
+      "Background music for presentations",
+      "Audiobooks and narrated content",
+      "Music production and remixing"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how users are elevating their audio with AI",
+    "items": [
+      {
+        "tag": "Podcasting",
+        "heading": "Gain More Listeners",
+        "before": {
+          "label": "Before",
+          "text": "Unbalanced audio"
+        },
+        "after": {
+          "label": "After",
+          "text": "Professional sound"
+        },
+        "value": "50%",
+        "key": "Listener Growth",
+        "description": "Enhancing our podcast audio with Ducking led to a significant drop in listener complaints regarding audio quality."
+      },
+      {
+        "tag": "Video Production",
+        "heading": "YouTube Channel Growth",
+        "before": {
+          "label": "Before",
+          "text": "Feedback on audio issues"
+        },
+        "after": {
+          "label": "After",
+          "text": "High-quality sound"
+        },
+        "value": "70%",
+        "key": "Increase in Engagement",
+        "description": "With balanced audio, our viewer retention improved drastically, allowing more viewers to enjoy our content."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Audio Processing Comparison",
+    "description": "Choose the right settings for your needs",
+    "items": [
+      "Standard Ducking: Basic background music adjustment for amateurs",
+      "Advanced Ducking: Precise voice focus with customizable settings",
+      "Auto-mixing features for effortless editing",
+      "Instant feedback with audio previews",
+      "Export directly to multiple formats"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore more powerful audio solutions for creators"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What is audio ducking?",
+        "answer": "Audio ducking is a technique that automatically lowers the volume of background music or sound effects when a voiceover is detected, ensuring clarity in spoken content."
+      },
+      {
+        "question": "How does the AI determine when to duck audio?",
+        "answer": "The AI analyzes audio levels in real-time, detecting voice frequencies to adjust the volume of background sounds precisely when the voice is heard."
+      },
+      {
+        "question": "Can I customize the ducking levels?",
+        "answer": "Yes! You can set specific levels of adjustment for both music and voice to fit your project requirements."
+      },
+      {
+        "question": "Is this tool suitable for beginners?",
+        "answer": "Absolutely! Our user-friendly interface makes it easy for anyone to achieve professional sound quality without prior audio editing experience."
+      },
+      {
+        "question": "What audio formats are supported?",
+        "answer": "We support various audio formats including MP3, WAV, and AAC, ensuring compatibility with most audio projects."
+      },
+      {
+        "question": "Can I use this feature for live events?",
+        "answer": "Yes! The audio ducking feature works well for real-time adjustments during live events, providing optimal audio balance on the fly."
+      },
+      {
+        "question": "What kind of projects can benefit from audio ducking?",
+        "answer": "Projects ranging from podcasts, videos, commercials, and live presentations can all benefit from improved sound clarity provided by ducking."
+      },
+      {
+        "question": "Is there any post-processing available?",
+        "answer": "Yes! You can apply additional enhancements and effects after ducking your audio for a polished final output."
+      },
+      {
+        "question": "How much does it cost to use the audio ducking feature?",
+        "answer": "Our pricing is flexible, allowing you to pay only for the audio processing you conduct with no hidden fees or subscriptions."
+      },
+      {
+        "question": "How can I contact support if I need help?",
+        "answer": "Our support team is available via email and live chat for any technical assistance, typically responding within 24 hours."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Enhance Your Audio?",
+    "description": "Start with free credits and experience professional sound quality today",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Ready to Transform Your Audio?",
+    "description": "Try WaveSpeed AI now and experience the difference for yourself. No sign-up required.",
+    "ctaText": "Optimize Audio Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Video Chapter Generator",
+  "meta": {
+    "description": "Effortlessly create engaging video chapters with AI. Perfect for online courses, webinars, and content creators. Enhance viewer experience and increase retention!",
+    "keywords": "AI video chapter generator, video segmentation, content markers, video creation AI, interactive video technology, online course tools, engagement enhancement, tutorial video chapters, educational content tools, webinar video tools, content creation"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Chapterize Your Videos",
+    "subHeading": "Instantly Create Engaging Video Chapters",
+    "description": "Transform long-form videos into interactive experiences with AI-generated chapters. Improve engagement and navigation for your audience in seconds. Try it out now!",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Video Chapter Generator Solution",
+    "left": {
+      "heading": "Traditional Video Editing Challenges",
+      "items": [
+        "Manual chapter creation is time-consuming",
+        "Requires technical editing skills",
+        "Difficult to keep viewers engaged throughout",
+        "Limited customization for different segments",
+        "Often leads to viewer drop-off"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Automatic generation of video chapters in minutes",
+        "No editing skills required - Just upload your video",
+        "Boost viewer engagement with easy navigation",
+        "Customizable chapters based on content themes",
+        "Affordable, pay-per-chapter pricing model"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "From full video to segmented chapters in 4 easy steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Your Video",
+        "text": "Simply upload your long-form video content",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Select Chapter Markers",
+        "text": "Choose how you want chapters defined (e.g., topics, time intervals)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Customize Chapters",
+        "text": "Add titles and descriptions to each chapter for clarity",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Your Chapterized Video",
+        "text": "Receive your interactive video with complete chapters in moments",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Create Your First Chapterized Video →"
+  },
+  "endlessPossibilities": {
+    "heading": "Limitless Uses",
+    "description": "Ideal for various applications and industries",
+    "items": [
+      "Online course segments for student navigation",
+      "Webinar highlights for easy reference",
+      "YouTube videos with enhanced chaptering",
+      "Business training modules with clear topics",
+      "Product demo videos with segmented features",
+      "Event recordings with viewer-friendly navigation",
+      "Educational tutorials with key points marked",
+      "Streaming content for better audience engagement"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how users are revolutionizing their content delivery with AI",
+    "items": [
+      {
+        "tag": "E-Learning",
+        "heading": "Online Course Creator",
+        "before": {
+          "label": "Before",
+          "text": "Labor-intensive chaptering"
+        },
+        "after": {
+          "label": "After",
+          "text": "Instant chapter creation"
+        },
+        "value": "95%",
+        "key": "Time Saved",
+        "description": "Chapters helped students navigate courses effectively. Feedback improved dramatically!"
+      },
+      {
+        "tag": "Corporate Training",
+        "heading": "Company Training Videos",
+        "before": {
+          "label": "Before",
+          "text": "Confusing long videos"
+        },
+        "after": {
+          "label": "After",
+          "text": "Structured with chapters"
+        },
+        "value": "90%",
+        "key": "Engagement Boost",
+        "description": "Employees now easily find relevant sections. Training completion rates soared."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Model Comparison",
+    "description": "Select the best model for your chaptering needs",
+    "items": [
+      "Standard Chapterization: Quick segment creation method with basic AI",
+      "Advanced Contextual Chapters: Understands video content context for nuanced chapter suggestions",
+      "Customizable timestamps with user-defined preferences",
+      "Real-time updates as videos are edited or changed",
+      "Works seamlessly with various video types and formats",
+      "Integrated chapter navigation tools for viewers"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Discover more AI-driven tools for enhanced content creation"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What types of videos can benefit from chapterization?",
+        "answer": "Any long-form content such as online courses, webinars, conferences, or tutorials can leverage chapterization to enhance viewer experience and retention."
+      },
+      {
+        "question": "Can I customize chapter titles and descriptions?",
+        "answer": "Yes! You have full control to customize each chapter's title and description to ensure clarity and relevance for your audience."
+      },
+      {
+        "question": "How quickly can I generate chapterized videos?",
+        "answer": "The generation process is fast, typically completed within minutes depending on the video length."
+      },
+      {
+        "question": "Is there a limit to how many chapters I can create?",
+        "answer": "No, you can create as many chapters as needed for your video content!"
+      },
+      {
+        "question": "What video formats are supported for uploading?",
+        "answer": "We accept various formats including MP4, AVI, and MOV for seamless integration."
+      },
+      {
+        "question": "How does the pricing work for chapter generation?",
+        "answer": "Our pricing is based on a pay-per-chapter model, allowing you to manage costs efficiently based on your needs."
+      },
+      {
+        "question": "Can I use chapter markers for live streams?",
+        "answer": "Yes! You can create chapters for recorded live streams, making them more accessible for viewers post-broadcast."
+      },
+      {
+        "question": "Are there any commercial rights associated with generated videos?",
+        "answer": "All videos processed through our platform come with full commercial rights for unrestricted use across all media."
+      },
+      {
+        "question": "What support resources are available for troubleshooting?",
+        "answer": "We offer extensive support including documentation, video tutorials, and a dedicated support team to assist with any issues."
+      },
+      {
+        "question": "Is there an option for batch processing multiple videos?",
+        "answer": "Yes, you can batch process multiple videos to streamline your content creation workflow."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Create Engaging Video Chapters?",
+    "description": "Start with free credits to experience it for yourself",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Transform Your Video Content Today!",
+    "description": "Experience WaveSpeed AI and elevate your video chapters. No sign-up required.",
+    "ctaText": "Start Chapterizing Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

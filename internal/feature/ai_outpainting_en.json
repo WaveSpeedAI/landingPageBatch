@@ -1,0 +1,222 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Outpainting",
+  "meta": {
+    "description": "Revolutionize your creative process with AI Outpainting. Effortlessly extend your images and create breathtaking visuals. Ideal for artists, designers, and marketers seeking to enhance their imagery with AI technology. Unleash your creativity now!",
+    "keywords": "AI outpainting, image extension, creative enhancement, AI image tools, artistic design, digital art, marketing visuals, e-commerce imagery, artwork transformation, WaveSpeed AI tools"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "AI Outpainting",
+    "subHeading": "Transform Your Images Like Never Before",
+    "description": "Enhance your images by seamlessly extending them with AI. Create stunning visuals that captivate and inspire without the need for advanced design skills. Experience the power of AI Outpainting – perfect for artists, marketers, and creators. Take your images further!",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Outpainting Solution",
+    "left": {
+      "heading": "Traditional Challenges",
+      "items": [
+        "Image editing requires extensive skill and software",
+        "Time-consuming processes with limited results",
+        "High costs associated with professional design",
+        "Struggles to create cohesive visuals across formats",
+        "Creative blocks hinder the workflow"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Effortlessly extend images to create expansive visuals",
+        "No design skills needed - Just upload your image",
+        "Instant AI-generated enhancements for breathtaking results",
+        "Unlimited creative possibilities and iterations",
+        "Affordable pricing for every budget"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Transform your images in 4 straightforward steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Your Image",
+        "text": "Choose the image you wish to enhance or extend",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Define Your Vision",
+        "text": "Optional: Describe what you want to add or extend",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Select Art Style",
+        "text": "Choose from various artistic styles that suit your needs",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Your Enhanced Image",
+        "text": "Receive your transformed image within minutes",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Generate Your First Image →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Perfect for every creative endeavor",
+    "items": [
+      "Artwork or mural extensions",
+      "E-commerce product images enhancement",
+      "Graphic design projects",
+      "Social media content expansion",
+      "Print materials and publications",
+      "Website visuals and banners",
+      "Event and advertising imagery",
+      "Concept art and illustrations"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how creators are transforming their images with AI",
+    "items": [
+      {
+        "tag": "Gaming Art",
+        "heading": "Epic Game Concept Art",
+        "before": {
+          "label": "Before",
+          "text": "Basic backgrounds"
+        },
+        "after": {
+          "label": "After",
+          "text": "Vibrant, extended landscapes"
+        },
+        "value": "150%",
+        "key": "Visual Appeal",
+        "description": "Enhancements brought life to our environments, leading to higher engagement and interest in our game."
+      },
+      {
+        "tag": "E-commerce",
+        "heading": "Product Photography Extension",
+        "before": {
+          "label": "Before",
+          "text": "Simple product images"
+        },
+        "after": {
+          "label": "After",
+          "text": "Dynamic, detailed visuals"
+        },
+        "value": "200%",
+        "key": "Sales Increase",
+        "description": "We transformed product shots into immersive experiences, increasing customer purchases significantly."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Outpainting Style Comparison",
+    "description": "Choose the right style for your visionary needs",
+    "items": [
+      "Impressionist: Soft, blended strokes for a dreamy look",
+      "Realistic: Sharp edges and vibrant colors for lifelike enhancement",
+      "Surreal: Unique designs with imaginative elements",
+      "Fantasy: Otherworldly scenes that captivate viewers",
+      "Minimalist: Clean, understated enhancements that focus on the subject",
+      "Abstract: Creative expressions that push boundaries"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore more innovative tools for your creative projects"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What image file types can I use with AI Outpainting?",
+        "answer": "AI Outpainting supports JPG, PNG, and WebP formats. For best results, images should be large and clear, ideally 1024x1024 pixels or higher."
+      },
+      {
+        "question": "Can I customize how the AI enhances my image?",
+        "answer": "Yes! You can provide descriptions of what you wish to add or how you'd like the image to be extended for tailored results."
+      },
+      {
+        "question": "How quickly can I expect my enhanced image?",
+        "answer": "Most transformations are completed within minutes, allowing an efficient workflow to maximize your productivity."
+      },
+      {
+        "question": "Are there any limitations on output quality?",
+        "answer": "The output quality will maintain the resolution of your original image while enhancing it to create visually stunning effects."
+      },
+      {
+        "question": "Can I use the enhanced images commercially?",
+        "answer": "Yes! All images generated through WaveSpeed AI include commercial usage rights, allowing full creative freedom for your projects."
+      },
+      {
+        "question": "What support is available if I encounter issues?",
+        "answer": "We offer comprehensive documentation, tutorials, and support via email and live chat to assist with any technical challenges."
+      },
+      {
+        "question": "Is there a way to test the software before committing?",
+        "answer": "Yes! New users receive free credits to explore AI Outpainting, allowing you to experience its capabilities without any commitment."
+      },
+      {
+        "question": "How can AI Outpainting benefit my workflow?",
+        "answer": "This technology allows for rapid creative enhancements, significantly reducing the time and effort needed for traditional image editing."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Transform Your Images?",
+    "description": "Start creating stunning visuals now with free credits",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Ready to Enhance Your Photos?",
+    "description": "Try WaveSpeed AI now and experience the magic. No sign-up required.",
+    "ctaText": "Start Outpainting Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

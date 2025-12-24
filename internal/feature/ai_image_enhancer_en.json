@@ -1,0 +1,225 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Image Enhancer",
+  "meta": {
+    "description": "Enhance your product images effortlessly with WaveSpeed AI. Our cutting-edge technology boosts image quality, color vibrancy, and detail, making your visuals stand out. Perfect for e-commerce and marketing use!",
+    "keywords": "image enhancer AI, photo enhancement tool, product image optimizer, image quality boost, e-commerce image tool, picture improvement, visual marketing solution, online image editor, professional photo enhancement, WaveSpeed AI, social media image enhancement"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "AI Image Enhancer",
+    "subHeading": "Elevate Your Images to the Next Level",
+    "description": "Transform your product images into stunning visuals with just a few clicks. Achieve vibrant colors, sharp details, and an appealing look without the need for complex editing software. Try it now and watch your images shine!",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Image Enhancer Solution",
+    "left": {
+      "heading": "Traditional Image Enhancement Challenges",
+      "items": [
+        "Expensive professional editing services",
+        "Requires technical skills and complex software",
+        "Time-consuming processes (days to weeks)",
+        "Limited creative options for average users",
+        "High costs for small businesses"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI Solution",
+      "items": [
+        "Enhance images in seconds with AI technology",
+        "User-friendly interface - No expertise needed",
+        "Instant, high-quality results with one click",
+        "Unlimited editing options and styles",
+        "Affordable pay-per-use pricing model"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Enhance your images in just 4 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Image",
+        "text": "Choose the image you want to enhance",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Select Enhancement",
+        "text": "Select desired enhancements like color boost or detail sharpening",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Preview Changes",
+        "text": "Instantly see the transformations applied to your image",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Enhanced Image",
+        "text": "Save your enhanced image in high quality, ready for use",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Enhance Your First Image →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Perfect for any image enhancement need",
+    "items": [
+      "E-commerce product images",
+      "Social media posts and ads",
+      "Website graphics",
+      "Marketing materials and brochures",
+      "Portfolio images for creative professionals",
+      "Event photography enhancements",
+      "Real estate listings",
+      "Food photography"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how businesses are enhancing their visuals with AI",
+    "items": [
+      {
+        "tag": "E-commerce",
+        "heading": "Fashion Retailer",
+        "before": {
+          "label": "Before",
+          "text": "Low-quality visuals"
+        },
+        "after": {
+          "label": "After",
+          "text": "Stunning product images"
+        },
+        "value": "80%",
+        "key": "Image Quality Improvement",
+        "description": "After using the enhancer, our visuals captured attention, leading to a 30% boost in online sales."
+      },
+      {
+        "tag": "Real Estate",
+        "heading": "Property Listings",
+        "before": {
+          "label": "Before",
+          "text": "Dim and dull photos"
+        },
+        "after": {
+          "label": "After",
+          "text": "Vibrant and inviting images"
+        },
+        "value": "70%",
+        "key": "Engagement Increase",
+        "description": "Enhancing our listings resulted in a 50% increase in inquiries for properties."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Enhancement Options Comparison",
+    "description": "Choose the right enhancement for your images",
+    "items": [
+      "Standard Enhancement: Basic quality improvement, brilliant colors, and sharp details",
+      "Premium Enhancement: Advanced processing for superior quality, texture enhancement, and color accuracy",
+      "Batch Processing: Enhance multiple images simultaneously to save time",
+      "Real-time previews for adjustments before finalizing enhancements",
+      "Compatible with JPG, PNG, and WebP image formats"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore more powerful AI tools for image optimization and enhancement"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What types of images can I enhance?",
+        "answer": "You can enhance various types of images, including product photos, marketing visuals, social media graphics, and more. The AI works best with clear, well-lit images."
+      },
+      {
+        "question": "How long does the enhancement process take?",
+        "answer": "Enhancement is typically completed in seconds, allowing you to get high-quality images quickly for your needs."
+      },
+      {
+        "question": "Can I adjust the level of enhancement?",
+        "answer": "Yes! The enhancement levels can be adjusted to suit your preferences, giving you complete control over the final look of your images."
+      },
+      {
+        "question": "What is the quality of the enhanced images?",
+        "answer": "The enhanced images maintain high resolution and clarity, ensuring they are suitable for professional use, including printing and digital platforms."
+      },
+      {
+        "question": "Is there a limit to the number of images I can enhance?",
+        "answer": "There is no limit! You can enhance as many images as you need, and our batch processing feature makes it easy to work with multiple files at once."
+      },
+      {
+        "question": "Do I own the rights to enhanced images?",
+        "answer": "Yes! All images enhanced through WaveSpeed AI come with full ownership rights, allowing you to use them for any commercial purpose without restrictions."
+      },
+      {
+        "question": "What support is available if I encounter issues?",
+        "answer": "We offer extensive support through documentation, tutorials, and a responsive customer service team available for any inquiries."
+      },
+      {
+        "question": "Is there a free trial available for new users?",
+        "answer": "Yes, new users receive free credits to test the enhancement features without any commitment or subscription."
+      },
+      {
+        "question": "What formats are supported for image uploads?",
+        "answer": "You can upload images in JPG, PNG, and WebP formats to be enhanced with our tool."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Enhance Your Images?",
+    "description": "Get started with free credits and see the transformation for yourself.",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Ready to Improve Your Visuals?",
+    "description": "Try the AI Image Enhancer now and witness the transformation. No sign-up required.",
+    "ctaText": "Enhance Images Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

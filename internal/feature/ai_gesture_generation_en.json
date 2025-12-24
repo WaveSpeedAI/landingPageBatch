@@ -1,0 +1,221 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Gesture Generation",
+  "meta": {
+    "description": "Elevate your product presentations with AI Gesture Generation. Transform static imagery into captivating animated gestures, perfect for e-commerce and marketing. Experience unparalleled creativity with WaveSpeed.",
+    "keywords": "AI gesture generation, animated product gestures, e-commerce animation tools, AI marketing solutions, product showcase animation, interactive video features, user engagement tools, social media animations, AI-driven presentations, WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Static Image to Animated Gesture",
+    "subHeading": "Bring Your Products to Life with Gesture Animation",
+    "description": "Instantly turn your product images into lively gestures that captivate and engage your audience. No complicated software needed. Just upload and let AI do the magic. Discover the power of animation with WaveSpeed.",
+    "tryText": "Get Started Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Gesture Generation Solution",
+    "left": {
+      "heading": "Traditional Animation Challenges",
+      "items": [
+        "Animation often requires extensive resources and time",
+        "Need for specialized software or skills",
+        "High production costs and lengthy timelines",
+        "Limited creativity due to static definitions",
+        "Inaccessible for small businesses or startups"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI Solution",
+      "items": [
+        "Generate animated gestures in seconds",
+        "No need for software expertise - Easy upload",
+        "Instant animations powered by advanced AI",
+        "Unlimited creative expression and variations",
+        "Affordable pay-per-use model for all"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Transform your static images into animated gestures in 4 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Image",
+        "text": "Upload your image showcasing the product or service",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Define Gesture",
+        "text": "Describe the desired gesture (e.g., \"wave gently\" or \"bounce\")",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Choose Animation Style",
+        "text": "Select from various styles to match your brand’s vibe",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Preview Animation",
+        "text": "Watch the animation come to life in real-time",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Animate Your First Image →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Animation Possibilities",
+    "description": "Perfect for enhancing presentations across industries",
+    "items": [
+      "Product demonstrations for e-commerce",
+      "Interactive social media posts",
+      "Animated tutorials and guides",
+      "Engaging marketing campaigns",
+      "Before/after animated showcases",
+      "Event promotions and advertisements",
+      "Fashion lookbook animations",
+      "Dynamic storytelling for brands"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how brands are enhancing engagement with AI",
+    "items": [
+      {
+        "tag": "E-commerce",
+        "heading": "Fashion Retailer Animation",
+        "before": {
+          "label": "Before",
+          "text": "Static images"
+        },
+        "after": {
+          "label": "After",
+          "text": "Animated gestures"
+        },
+        "value": "150%",
+        "key": "Engagement Increase",
+        "description": "Our product pages transformed. Gestures increased user interaction and time spent on site by 150%."
+      },
+      {
+        "tag": "Tech Gadgets",
+        "heading": "Gadget Showcase Animation",
+        "before": {
+          "label": "Before",
+          "text": "Stagnant visuals"
+        },
+        "after": {
+          "label": "After",
+          "text": "Dynamic animations"
+        },
+        "value": "200%",
+        "key": "Conversion Improvement",
+        "description": "The animated gestures significantly boosted conversions, allowing us to showcase features interactively."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Animation Style Comparison",
+    "description": "Choose the right animation style for your needs",
+    "items": [
+      "Fluid Gestures: Natural movements with realistic physics",
+      "Quick Animations: Fast and snappy gestures for high engagement",
+      "Diverse Styles: From ease-of-use to advanced animations",
+      "Interactive Feedback: Gestures that react to audiences",
+      "Simple to complex animations fit for any context"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore additional powerful AI solutions for your business"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What type of images work best for gesture generation?",
+        "answer": "High-quality product images with clear backgrounds yield the best results. The more precise and well-lit, the better the animated gesture."
+      },
+      {
+        "question": "Can I customize the gestures and animations?",
+        "answer": "Absolutely! You can describe how you want the animation to look, tailoring it specifically to your product and branding needs."
+      },
+      {
+        "question": "Is prior animation experience necessary?",
+        "answer": "No prior experience is required. Our intuitive interface makes it easy for anyone to create stunning animations."
+      },
+      {
+        "question": "How quickly can I generate animated gestures?",
+        "answer": "The generation time is rapid—typically within seconds, allowing for efficient workflows and quick iterations."
+      },
+      {
+        "question": "Do the generated animations have commercial rights?",
+        "answer": "Yes! You retain full commercial rights to the animations created, enabling you to use them across various platforms without restrictions."
+      },
+      {
+        "question": "What formats do the animations come in?",
+        "answer": "Animations can be exported in multiple formats suitable for web, social media, and other digital platforms."
+      },
+      {
+        "question": "Can I create multiple gestures at once?",
+        "answer": "Yes, our platform supports batch processing, allowing you to design and generate multiple animated gestures simultaneously."
+      },
+      {
+        "question": "What support services are available?",
+        "answer": "We offer comprehensive documentation, tutorials, and a support team to assist with any technical issues or inquiries."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Animate Your Images?",
+    "description": "Start using your free credits today and see the animation magic unfold",
+    "contactUsText": "Contact Us",
+    "tryText": "Get Started Now →"
+  },
+  "footer": {
+    "heading": "Ready to Enhance Your Presentations?",
+    "description": "Try WaveSpeed AI and witness the transformation today. No sign-up needed.",
+    "ctaText": "Generate Gestures Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

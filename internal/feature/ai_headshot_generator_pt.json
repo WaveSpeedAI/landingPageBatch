@@ -1,0 +1,230 @@
+{
+  "language": "pt-BR",
+  "title": "WaveSpeed AI - Gerador de Retratos com IA",
+  "meta": {
+    "description": "Crie instantaneamente retratos profissionais com tecnologia de IA. Melhore sua marca pessoal e presença online sem esforço. Perfeito para perfis do LinkedIn, sites corporativos e muito mais!",
+    "keywords": "gerador de retratos com IA, retratos profissionais, ferramenta de retrato com IA, branding pessoal, foto de perfil do LinkedIn, retratos virtuais, fotografia corporativa, presença online, gerador de fotos inteligente, identidade digital, foto de perfil em redes sociais"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de IA",
+        "items": [
+          [
+            "Ferramentas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Demonstração",
+        "items": [
+          [
+            "Demonstração",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Gerador de Retratos com IA",
+    "subHeading": "Crie Retratos Impressionantes em Momentos",
+    "description": "Produza retratos profissionais de alta qualidade com apenas alguns cliques. Sem fotógrafos, sem estúdios necessários. Melhore sua imagem online e destaque-se na multidão hoje!",
+    "tryText": "Crie Seu Retrato Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução de Gerador de Retratos com IA WaveSpeed",
+    "left": {
+      "heading": "Desafios de Retratos Tradicionais",
+      "items": [
+        "Fotógrafos podem ser caros (R$ 1.500 - R$ 5.000 por sessão)",
+        "Logística de agendamento e local",
+        "Múltiplas re-gravações para perfeição",
+        "Estilos e fundos limitados",
+        "Alto custo para imagens rápidas e profissionais"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeedAI",
+      "items": [
+        "Gere retratos impressionantes em menos de 2 minutos",
+        "Sem necessidade de fotógrafo - Basta enviar sua foto",
+        "Edição instantânea e opções de personalização",
+        "Estilos e fundos ilimitados para escolher",
+        "Preços acessíveis - Ideal para todos"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "De uma foto simples a um retrato polido em 4 passos",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Carregar Imagem",
+        "text": "Envie sua foto ou selfie clara",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Selecionar Estilo",
+        "text": "Escolha o estilo de retrato que você preferir (ex.: corporativo, casual)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Personalizar Aparência",
+        "text": "Ajuste iluminação, fundo e outros elementos",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Baixar Retrato",
+        "text": "Receba seu retrato polido em alta resolução",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Obtenha Seu Retrato Profissional →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilidades Infinitas",
+    "description": "Perfeito para profissionais de qualquer área",
+    "items": [
+      "Fotos de perfil do LinkedIn",
+      "Retratos da equipe corporativa",
+      "Branding pessoal para empreendedores",
+      "Fotos de perfil em redes sociais",
+      "Elencos e audições",
+      "Perfis de palestras em conferências",
+      "Perfis de encontros online",
+      "Fotos de integração de funcionários"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Descubra como os profissionais melhoram sua imagem com IA",
+    "items": [
+      {
+        "tag": "Profissionais Corporativos",
+        "heading": "Atualização de Perfil no LinkedIn",
+        "before": {
+          "label": "Antes",
+          "text": "Fotos amadoras"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Retrato profissional"
+        },
+        "value": "250%",
+        "key": "Aumento de Visualizações de Perfil",
+        "description": "Depois de usar nosso gerador de retratos, minhas visualizações de perfil dispararam. Consegui 3 entrevistas em uma semana!"
+      },
+      {
+        "tag": "Freelancers",
+        "heading": "Branding Pessoal",
+        "before": {
+          "label": "Antes",
+          "text": "Imagens não profissionais"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Retratos atualizados e elegantes"
+        },
+        "value": "300%",
+        "key": "Engajamento de Clientes",
+        "description": "Transformar meus visuais ajudou a aumentar minhas consultas de clientes. Eu parecia credível e confiável."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Modelos de IA",
+    "description": "Selecione o estilo ideal para seu retrato",
+    "items": [
+      "Padrão: Retratos realistas de alta qualidade para perfis",
+      "Premium: Recursos aprimorados com efeitos avançados de iluminação e sombra",
+      "Estilos modernos com fundos únicos",
+      "Mistura casual e profissional para versatilidade",
+      "Entrega instantânea com várias variações para escolher",
+      "Otimizado para uso online com alta resolução disponível"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Explore mais ferramentas inovadoras de IA para branding pessoal"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo o que você precisa saber",
+    "items": [
+      {
+        "question": "Que qualidade posso esperar do retrato?",
+        "answer": "Nosso gerador produz retratos em alta resolução que são vibrantes e profissionais. Você pode escolher entre qualidade padrão para downloads rápidos ou opções premium para maior profundidade e detalhes."
+      },
+      {
+        "question": "Posso personalizar o estilo do meu retrato?",
+        "answer": "Absolutamente! Nossa ferramenta permite que você selecione entre vários estilos e ajuste fundos, iluminação e mais para atender às suas necessidades."
+      },
+      {
+        "question": "Que tipos de imagens funcionam melhor para o gerador de retratos?",
+        "answer": "Imagens claras e bem iluminadas funcionam melhor. Recomendamos usar fotos com boa resolução, idealmente acima de 512x512 pixels, para resultados ideais."
+      },
+      {
+        "question": "Como faço para usar o retrato em perfis online?",
+        "answer": "Uma vez que seu retrato é gerado, você pode baixá-lo e facilmente fazer o upload para a plataforma desejada, incluindo LinkedIn, sites de empresas e muito mais."
+      },
+      {
+        "question": "Há um custo para gerar retratos?",
+        "answer": "Operamos em um modelo flexível de pagamento conforme o uso, sem assinaturas. Você paga apenas pelos retratos que cria, tornando acessível a todos."
+      },
+      {
+        "question": "Quanto tempo leva para gerar um retrato?",
+        "answer": "Normalmente, a geração do retrato leva de 1 a 2 minutos. Você pode criar múltiplos retratos nesse intervalo de tempo, se necessário."
+      },
+      {
+        "question": "E se eu precisar de ajuda ou suporte?",
+        "answer": "Oferecemos recursos extensivos, incluindo tutoriais, melhores práticas e suporte ao cliente via chat e e-mail para todas as suas perguntas."
+      },
+      {
+        "question": "Eu possuo os direitos dos retratos gerados?",
+        "answer": "Sim! Você tem plenos direitos comerciais para usar seus retratos livremente em todas as plataformas sem taxas adicionais."
+      },
+      {
+        "question": "Posso editar os retratos gerados depois?",
+        "answer": "Sim! Você pode baixar seu retrato e usar ferramentas externas para edições adicionais, se desejar."
+      },
+      {
+        "question": "Quais são os melhores casos de uso para o gerador de retratos com IA?",
+        "answer": "Essa tecnologia é perfeita para criar imagens profissionais para LinkedIn, sites corporativos, redes sociais e qualquer contexto onde as primeiras impressões importam."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Criar Seu Retrato Profissional?",
+    "description": "Comece com créditos gratuitos - Experimente por si mesmo",
+    "contactUsText": "Entre em Contato Conosco",
+    "tryText": "Crie Seu Retrato Agora →"
+  },
+  "footer": {
+    "heading": "Pronto para Melhorar Sua Imagem?",
+    "description": "Experimente o WaveSpeed AI agora e veja a diferença por si mesmo. Sem necessidade de cadastro.",
+    "ctaText": "Criar Retratos Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

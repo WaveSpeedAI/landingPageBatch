@@ -1,0 +1,219 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - Hintergrundentferner",
+  "meta": {
+    "description": "Entfernen Sie mühelos Hintergründe von Ihren Bildern mit dem Hintergrundentferner von WaveSpeed AI. Ideal für professionelle Videos, Produktbilder und Social-Media-Beiträge. Verwandeln Sie Ihre visuellen Inhalte in wenigen Augenblicken!",
+    "keywords": "hintergrundentferner, hintergrundentfernungstool, AI grün Bildschirm, videobearbeitung AI, produktbildbearbeitung, soziale Medieninhalte, professionelle Videotools, e-commerce bildverbesserung, schnelle hintergrundentfernung"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI-Tools",
+        "items": [
+          [
+            "AI-Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "Nahtlose Hintergrundentfernung",
+    "subHeading": "Verwandeln Sie Ihre Bilder sofort",
+    "description": "Entfernen Sie mühelos Hintergründe von Ihren Fotos für einen saubereren, professionelleren Look. Perfekt für Vermarkter, Content-Ersteller und E-Commerce-Shops. Beginnen Sie noch heute!",
+    "tryText": "Jetzt ausprobieren",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI Hintergrundentferner-Lösung",
+    "left": {
+      "heading": "Traditionelle Herausforderungen",
+      "items": [
+        "Manuelle Entfernung ist zeitaufwendig und mühsam",
+        "Bearbeitungssoftware erfordert technische Fähigkeiten",
+        "Eingeschränkte Präzision führt zu ungleichmäßigen Ergebnissen",
+        "Hohe Kosten für professionelle Dienstleistungen",
+        "Komplizierte Workflows verlangsamen die Produktion"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Lösung",
+      "items": [
+        "Entfernen Sie Hintergründe in Sekundenschnelle",
+        "Keine Bearbeitungsfähigkeiten erforderlich, einfach hochladen",
+        "Erzielen Sie präzise und konsistente Ergebnisse",
+        "Kostenwirksam mit nutzungsabhängiger Preisgestaltung",
+        "Vereinfachter Prozess erhöht die Produktivität"
+      ],
+      "tryText": "Versuchen"
+    }
+  },
+  "howItWorks": {
+    "heading": "So funktioniert es",
+    "description": "Entfernen Sie Hintergründe in 3 einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Bild hochladen",
+        "text": "Laden Sie Ihr Foto mit einem grünen Hintergrund hoch",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Hintergrund auswählen",
+        "text": "Wählen Sie einen neuen Hintergrund oder lassen Sie ihn transparent",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Bild herunterladen",
+        "text": "Erhalten Sie Ihr bearbeitetes Bild in hoher Auflösung",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "Hintergrund jetzt entfernen →"
+  },
+  "endlessPossibilities": {
+    "heading": "Unendliche Möglichkeiten",
+    "description": "Perfekt für jedes visuelle Inhalt",
+    "items": [
+      "Produktbilder für E-Commerce-Shops",
+      "Professionelle Porträtfotos und Profile",
+      "Grafiken und Beiträge für soziale Medien",
+      "YouTube-Videovorschaubilder",
+      "Werbematerialien und Flyer",
+      "Präsentationsvisualisierungen",
+      "Event-Marketing",
+      "Website-Banner"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Entdecken Sie, wie Benutzer ihre Bilder mit AI revolutionieren",
+    "items": [
+      {
+        "tag": "E-Commerce",
+        "heading": "Verbesserte Produktlisten",
+        "before": {
+          "label": "Vorher",
+          "text": "Inkonsistente visuelle Darstellungen"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Kohärentes Branding"
+        },
+        "value": "80%",
+        "key": "Visuelle Konsistenz",
+        "description": "Wir haben unsere Produktbilder über 200 Angebote in weniger als einem Tag verbessert, was zu einem Anstieg von 50% bei den Konversionen führte."
+      },
+      {
+        "tag": "Inhaltserstellung",
+        "heading": "Kreative Social Media-Kampagne",
+        "before": {
+          "label": "Vorher",
+          "text": "Zeitaufwendige Bearbeitungen"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Schnelle und einfache Entfernung"
+        },
+        "value": "95%",
+        "key": "Gesparte Zeit",
+        "description": "Wir haben den Hintergrundentferner genutzt, um qualitativ hochwertige Inhalte für unsere Kampagnen in Rekordzeit zu erstellen, was unser Publikum engagiert hielt."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI-Modellvergleich",
+    "description": "Wählen Sie das richtige Tool für die Hintergrundentfernung",
+    "items": [
+      "Standardmodell: Schnelle Verarbeitung, geeignet für die meisten Bilder, behält Details genau bei",
+      "Erweitertes Modell: Hohe Präzision für komplexe Hintergründe, verbesserte Glätte und Klarheit",
+      "Benutzerfreundliche Oberfläche mit Drag-and-Drop-Funktionalität",
+      "Nahtlose Integration mit beliebter Designsoftware",
+      "Kompatibel mit verschiedenen Bildformaten",
+      "Gewerbliche Nutzungsrechte enthalten"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Verwandte AI-Tools",
+    "description": "Entdecken Sie mehr leistungsstarke AI-Tools zur visuellen Verbesserung"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welche Arten von Bildern eignen sich am besten zur Hintergrundentfernung?",
+        "answer": "Bilder mit einfarbigem grünen Hintergrund ergeben die besten Ergebnisse, aber unser Tool kann auch mit gemusterten oder texturierten Hintergründen umgehen. Für optimale Leistung stellen Sie sicher, dass das Motiv gut beleuchtet und deutlich vom Hintergrund abgegrenzt ist."
+      },
+      {
+        "question": "Kann ich den Hintergrund behalten oder ersetzen?",
+        "answer": "Absolut! Sie können wählen, ob Sie den Hintergrund vollständig entfernen oder einen neuen Hintergrund Ihrer Wahl auswählen möchten, um Ihre visuellen Inhalte zu verbessern. Diese Flexibilität ermöglicht Kreativität in Ihren Präsentationen."
+      },
+      {
+        "question": "Gibt es eine Begrenzung für die Bildgröße oder das Format?",
+        "answer": "Wir unterstützen verschiedene Formate, darunter JPG, PNG und WebP. Während es keine strenge Begrenzung für die Bildgröße gibt, empfehlen wir, Bilder mit mindestens 512x512 Pixeln für die besten Ergebnisse hochzuladen."
+      },
+      {
+        "question": "Wie stellen Sie Präzision bei der Hintergrundentfernung sicher?",
+        "answer": "Unsere KI verwendet fortschrittliche Algorithmen zur Analyse von Bildern und stellt sicher, dass feine Details um das Motiv herum erhalten bleiben, während der Hintergrund sauber entfernt wird. Dies führt zu professionell aussehenden Bildern mit minimalen manuellen Anpassungen."
+      },
+      {
+        "question": "Kann ich die entfernten Hintergründe kommerziell nutzen?",
+        "answer": "Ja! Alle Bilder, die über unsere Plattform verarbeitet werden, werden mit kommerziellen Nutzungsrechten geliefert. Nutzen Sie sie gerne für jeden kommerziellen Zweck ohne zusätzliche Lizenzgebühren."
+      },
+      {
+        "question": "Wie schnell kann ich meine Bilder zurückbekommen?",
+        "answer": "Die Hintergrundentfernung dauert normalerweise nur wenige Sekunden pro Bild, sodass Sie Inhalte schnell erstellen können, ohne lange Wartezeiten."
+      },
+      {
+        "question": "Was ist, wenn ich die Bilder weiter bearbeiten muss?",
+        "answer": "Sie können die bearbeiteten Bilder einfach herunterladen und in Ihrer bevorzugten Grafikdesignsoftware für weitere Bearbeitungen verwenden, um die volle Kontrolle über Ihre Inhalte zu haben."
+      },
+      {
+        "question": "Welcher Support ist verfügbar, wenn ich auf Probleme stoße?",
+        "answer": "Wir bieten umfassenden Support, einschließlich eines robusten Hilfecenters, Videoanleitungen und Live-Chat-Unterstützung. Unser Team ist hier, um Ihnen bei Fragen oder Herausforderungen zu helfen."
+      },
+      {
+        "question": "Muss ich mich anmelden, um den Service zu nutzen?",
+        "answer": "Sie können den Hintergrundentferner ausprobieren, ohne sich anzumelden! Wenn Sie jedoch ein Konto erstellen, haben Sie Zugriff auf zusätzliche Funktionen und Vorteile."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Hintergründe mühelos zu entfernen?",
+    "description": "Starten Sie mit kostenlosen Credits und erleben Sie die Leichtigkeit der professionellen Bildbearbeitung.",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Jetzt ausprobieren →"
+  },
+  "footer": {
+    "heading": "Verwandeln Sie Ihre visuellen Inhalte noch heute!",
+    "description": "Nutzen Sie WaveSpeed AI und sehen Sie, wie einfache Hintergrundentfernung Ihre Inhalte verbessern kann. Keine Anmeldung erforderlich.",
+    "ctaText": "Hintergründe jetzt entfernen",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

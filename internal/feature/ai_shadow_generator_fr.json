@@ -1,0 +1,222 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Générateur d'Ombres AI",
+  "meta": {
+    "description": "Améliorez vos images de produits avec des ombres réalistes grâce à la technologie AI. Parfait pour le commerce électronique et le marketing numérique, créez des visuels de qualité professionnelle sans effort.",
+    "keywords": "générateur d'ombre AI, amélioration d'images de produits, ombrage réaliste, graphiques e-commerce, outil d'image marketing, AI de retouche photo, images Shopify, photos de produits Amazon, visuels de marketing numérique, création de contenu visuel"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils AI",
+        "items": [
+          [
+            "Outils AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez maintenant"
+  },
+  "hero": {
+    "heading": "Transformez Vos Images avec des Ombres",
+    "subHeading": "Ajoutez des Ombres Réalistes à N'importe Quelle Photo",
+    "description": "Apportez instantanément une touche professionnelle à vos images de produits avec notre Générateur d'Ombres AI. Améliorez les visuels pour les listes de commerce électronique ou les campagnes marketing sans effort. Essayez maintenant et élevez la présentation de votre marque !",
+    "tryText": "Essayez Maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution Générateur d'Ombres AI WaveSpeed",
+    "left": {
+      "heading": "Défis Traditionnels",
+      "items": [
+        "Créer des ombres réalistes nécessite des compétences avancées",
+        "L'édition manuelle est intensive en main-d'œuvre et chronophage",
+        "Les logiciels complexes peuvent être écrasants",
+        "Coûts élevés pour le design graphique professionnel",
+        "Flexibilité limitée dans la personnalisation"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeedAI",
+      "items": [
+        "Générez des ombres réalistes en quelques secondes avec l'IA",
+        "Aucune compétence en design nécessaire - Il suffit de télécharger vos images",
+        "Améliorations instantanées en un clic",
+        "Options de personnalisation illimitées disponibles",
+        "Modèle de paiement à l'utilisation abordable, sans abonnements"
+      ],
+      "tryText": "Essayer"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment Ça Marche",
+    "description": "Ajoutez des ombres époustouflantes à vos images en 4 étapes simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Télécharger l'Image",
+        "text": "Téléchargez votre photo de produit ou image nécessitant une amélioration d'ombre",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Sélectionner le Type d'Ombre",
+        "text": "Choisissez parmi divers styles d'ombre pour correspondre à l'ambiance de votre produit",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Ajuster les Paramètres",
+        "text": "Affinez la taille, l'opacité et l'angle de l'ombre",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Télécharger l'Image",
+        "text": "Recevez votre image améliorée avec des ombres réalistes en quelques minutes",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Générez Votre Première Image Ombree →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilités Infinies",
+    "description": "Idéal pour une variété d'applications",
+    "items": [
+      "Images de produits pour détaillants en ligne",
+      "Publications sur les réseaux sociaux pour des visuels engageants",
+      "Graphiques promotionnels et publicités",
+      "Portefeuilles améliorés pour photographes",
+      "Images de blog qui se démarquent",
+      "Annonces immobilières avec profondeur",
+      "Lookbooks de mode avec une ambiance",
+      "Photographie culinaire qui donne envie"
+    ]
+  },
+  "successStories": {
+    "heading": "Histoires de Succès Réelles",
+    "description": "Découvrez comment les entreprises élèvent leurs images avec l'IA",
+    "items": [
+      {
+        "tag": "E-commerce de Mode",
+        "heading": "Boutique en Ligne",
+        "before": {
+          "label": "Avant",
+          "text": "Images plates"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Ombres durables"
+        },
+        "value": "85%",
+        "key": "Augmentation de Conversion",
+        "description": "Avec des images améliorées comportant des ombres, l'attrait de notre produit a augmenté, entraînant une impressionnante augmentation de 30 % des ventes."
+      },
+      {
+        "tag": "Maison & Décoration",
+        "heading": "Magasin de Meubles",
+        "before": {
+          "label": "Avant",
+          "text": "Photos basiques"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Visuels époustouflants"
+        },
+        "value": "90%",
+        "key": "Amélioration de la Perception",
+        "description": "Nos clients voient maintenant la qualité dans nos images, élevant considérablement la perception et la confiance envers notre marque."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison de Modèle d'Ombre AI",
+    "description": "Choisissez le bon effet d'ombre pour vos besoins",
+    "items": [
+      "Ombres Réalistes : Opacité et angles ajustables, améliore la profondeur",
+      "Ombres Douces : Touche délicate pour créer des effets subtils",
+      "Ombres à Fort Impact : Audacieuses et dramatiques pour des visuels marquants",
+      "Préréglages personnalisables pour divers styles",
+      "Génération en un clic pour rapidité et efficacité",
+      "Droits d'utilisation commerciale inclus"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils AI Connexes",
+    "description": "Explorez plus d'outils AI innovants pour l'amélioration d'image"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quels types d'images fonctionnent le mieux avec le générateur d'ombre ?",
+        "answer": "Le générateur d'ombre fonctionne le mieux avec des images de produits claires et des scènes nécessitant de la profondeur. Les images haute résolution offrent les résultats les plus réalistes, en particulier celles avec des arrière-plans clairs."
+      },
+      {
+        "question": "Puis-je personnaliser des caractéristiques d'ombre comme l'angle et l'opacité ?",
+        "answer": "Oui ! Vous avez un contrôle total pour ajuster l'angle, la taille et l'opacité des ombres, vous permettant d'adapter l'effet à la présentation de votre produit."
+      },
+      {
+        "question": "Y a-t-il une limite au nombre d'images que je peux traiter en même temps ?",
+        "answer": "Non, il n'y a pas de limites ! Vous pouvez télécharger plusieurs images simultanément, ce qui facilite l'amélioration d'une collection entière en une seule fois."
+      },
+      {
+        "question": "En quoi cela diffère-t-il de l'édition manuelle d'ombres ?",
+        "answer": "Notre Générateur d'Ombres AI simplifie le processus, permettant une production rapide sans avoir besoin de compétences approfondies en design graphique ou d'expertise logicielle. L'édition manuelle peut être fastidieuse et prendre du temps, tandis que notre outil fournit des résultats instantanés."
+      },
+      {
+        "question": "Quel modèle de tarification est utilisé pour le Générateur d'Ombres AI ?",
+        "answer": "WaveSpeed fonctionne sur un modèle flexible de paiement à l'utilisation sans abonnements mensuels. Vous ne payez que pour les ombres que vous générez, assurant que vous obtenez de la valeur pour votre investissement."
+      },
+      {
+        "question": "Quel est le temps attendu pour la génération d'ombres ?",
+        "answer": "La génération d'ombres est rapide, prenant généralement juste quelques instants par image, peu importe le nombre traité. Profitez d'améliorations rapides sans attente."
+      },
+      {
+        "question": "Reçois-je des droits commerciaux pour les images améliorées ?",
+        "answer": "Absolument ! Toutes les images traitées via notre Générateur d'Ombres sont accompagnées de droits d'utilisation commerciale complets, vous permettant de les utiliser pour tout objectif commercial."
+      },
+      {
+        "question": "Quel support est disponible si je rencontre des problèmes ?",
+        "answer": "WaveSpeed fournit un support complet, y compris de la documentation et un chat en direct pour des problèmes techniques. Nous veillons à ce que les utilisateurs reçoivent une assistance rapide avec toute question rencontrée lors de leur expérience."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Élever Vos Images ?",
+    "description": "Commencez avec des crédits gratuits - Découvrez la transformation maintenant",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Essayez-le Maintenant →"
+  },
+  "footer": {
+    "heading": "Prêt à Transformer Vos Photos ?",
+    "description": "Essayez WaveSpeed AI maintenant et voyez la différence par vous-même. Aucune inscription requise.",
+    "ctaText": "Ajoutez des Ombres Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

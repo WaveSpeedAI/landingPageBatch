@@ -1,0 +1,230 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Konverter Gambar ke Teks AI",
+  "meta": {
+    "description": "Dengan mudah mengubah gambar Anda menjadi teks dengan WaveSpeed AI. Sempurna untuk pembuatan konten, aksesibilitas, dan digitalisasi dokumen. Tingkatkan produktivitas Anda sekarang!",
+    "keywords": "gambar ke teks AI, teknologi OCR, ekstraksi teks, digitalisasi dokumen, alat aksesibilitas, pembuatan konten AI, generator teks AI, WaveSpeed AI, solusi e-commerce, otomatisasi alur kerja, analisis gambar"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Gambar ke Teks",
+    "subHeading": "Ubah Gambar Menjadi Teks yang Dapat Diedit Secara Instan",
+    "description": "Maksimalkan potensi gambar Anda dengan teknologi AI canggih kami. Ubah dokumen yang dipindai, foto, dan lainnya menjadi teks dalam hitungan detik. Cobalah hari ini dan permudah alur kerja Anda!",
+    "tryText": "Ubah Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Gambar ke Teks WaveSpeed AI",
+    "left": {
+      "heading": "Tantangan Tradisional",
+      "items": [
+        "Transkripsi manual lambat dan memakan banyak tenaga",
+        "Peluang tinggi kesalahan dalam pengetikan atau pemindaian",
+        "Memerlukan perangkat lunak khusus untuk mengubah gambar",
+        "Akses terbatas terhadap informasi dalam format gambar",
+        "Tidak dapat diakses oleh individu dengan disabilitas"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeed AI",
+      "items": [
+        "Mengubah gambar menjadi teks secara instan dengan akurasi tinggi",
+        "Tidak memerlukan input manual - Cukup unggah gambar",
+        "Hasil cepat menggunakan teknologi OCR canggih",
+        "Aksesibel untuk semua, meningkatkan inklusivitas",
+        "Solusi hemat biaya untuk ekstraksi teks"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Ubah gambar menjadi teks dalam 4 langkah sederhana",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Gambar",
+        "text": "Pilih file gambar Anda untuk diubah",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Pilih Bahasa",
+        "text": "Tentukan bahasa teks untuk akurasi yang lebih baik",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Tinjau Hasil Teks",
+        "text": "Periksa dan edit teks yang diekstrak sesuai kebutuhan",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Unduh File Teks",
+        "text": "Dapatkan teks yang telah Anda ubah dalam format sederhana",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Ubah Gambar Pertama Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Tanpa Batas",
+    "description": "Sempurna untuk aplikasi apapun",
+    "items": [
+      "Digitalisasi dokumen cetak",
+      "Ekstraksi informasi dari kwitansi",
+      "Transkripsi catatan tangan",
+      "Meningkatkan aksesibilitas untuk penyandang disabilitas visual",
+      "Membuat arsip gambar yang dapat dicari",
+      "Memfasilitasi tugas penerjemahan bahasa",
+      "Mempermudah proses input data",
+      "Mengotomatiskan alur kerja pembuatan konten"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Temukan bagaimana pengguna menyederhanakan tugas mereka dengan AI",
+    "items": [
+      {
+        "tag": "Pendidikan",
+        "heading": "Catatan Universitas",
+        "before": {
+          "label": "Sebelum",
+          "text": "Pemasukan manual yang memakan waktu"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Catatan digital yang cepat"
+        },
+        "value": "90%",
+        "key": "Waktu yang Dihemat",
+        "description": "Catatan kuliah yang ditranskripsi dari gambar dalam beberapa menit; mahasiswa melaporkan produktivitas yang lebih tinggi."
+      },
+      {
+        "tag": "E-commerce",
+        "heading": "Transformasi Katalog Produk",
+        "before": {
+          "label": "Sebelum",
+          "text": "Daftar produk secara manual"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Ekstraksi teks otomatis"
+        },
+        "value": "85%",
+        "key": "Peningkatan Efisiensi",
+        "description": "Semua teks deskripsi produk diubah dari gambar dalam waktu rekor, meningkatkan manajemen inventaris."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Model AI",
+    "description": "Pilih model yang tepat untuk hasil optimal",
+    "items": [
+      "OCR Standar: Ekstraksi teks akurat dari gambar yang jelas",
+      "OCR AI Canggih: Kinerja lebih baik dengan tata letak kompleks",
+      "Dukungan multi-bahasa untuk aplikasi yang beragam",
+      "Format output yang dapat disesuaikan berdasarkan kebutuhan pengguna",
+      "Pemrosesan cepat dengan sedikit waktu tunggu",
+      "Keamanan tinggi untuk konten sensitif"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Jelajahi lebih banyak solusi AI transformatif untuk kebutuhan Anda"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Segalanya yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Jenis gambar apa yang bisa saya ubah?",
+        "answer": "Anda dapat mengubah berbagai jenis gambar, termasuk dokumen yang dipindai, foto, dan tangkapan layar. Pastikan gambar jelas dan terlumuri cahaya untuk hasil terbaik."
+      },
+      {
+        "question": "Apakah data saya aman selama proses konversi?",
+        "answer": "Ya, semua gambar dan data yang diunggah ke platform kami dienkripsi dan dilindungi untuk memastikan privasi dan keamanan yang lengkap."
+      },
+      {
+        "question": "Bisakah saya mengedit teks yang diekstrak setelah konversi?",
+        "answer": "Tentu saja! Setelah teks diekstrak, Anda dapat meninjau dan mengeditnya sesuai kebutuhan sebelum mengunduh."
+      },
+      {
+        "question": "Bahasa apa saja yang didukung oleh konversi gambar ke teks?",
+        "answer": "Kami mendukung beberapa bahasa. Cukup pilih bahasa yang diinginkan selama proses unggah untuk akurasi yang optimal."
+      },
+      {
+        "question": "Seberapa akurat ekstraksi teksnya?",
+        "answer": "Teknologi OCR canggih kami mencapai akurasi tinggi, terutama dengan gambar yang jelas. Gambar yang kompleks mungkin bervariasi hasilnya, dan ditinjau disarankan."
+      },
+      {
+        "question": "Bisakah saya menggunakan layanan ini untuk tujuan komersial?",
+        "answer": "Ya, Anda dapat menggunakan teks yang diekstrak untuk tujuan komersial tanpa biaya lisensi tambahan."
+      },
+      {
+        "question": "Apakah ada batasan jumlah gambar yang dapat saya ubah?",
+        "answer": "Saat ini, tidak ada batasan jumlah gambar yang dapat Anda ubah. Unggahan massal dianjurkan untuk efisiensi."
+      },
+      {
+        "question": "Format apa saja yang didukung oleh file teks keluaran?",
+        "answer": "Teks yang diekstrak dapat disimpan dalam berbagai format, termasuk TXT, PDF, dan DOCX, tergantung pada preferensi Anda."
+      },
+      {
+        "question": "Bagaimana cara mendapatkan dukungan teknis jika saya mengalami masalah?",
+        "answer": "Kami menyediakan dukungan yang luas melalui dokumentasi, tutorial, dan tim dukungan khusus yang tersedia melalui email dan obrolan."
+      },
+      {
+        "question": "Apakah saya perlu mendaftar untuk akun untuk menggunakan fitur ini?",
+        "answer": "Tidak perlu mendaftar untuk mengubah gambar. Cukup unggah dan mulai mengubah segera!"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Mengubah Gambar Anda Menjadi Teks?",
+    "description": "Mulai hari ini dengan AI intuitif kami dan lihat hasilnya segera!",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Ubah Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap untuk Membuka Teks Anda?",
+    "description": "Coba WaveSpeed AI hari ini dan rasakan konversi yang mudah sendiri. Tidak perlu mendaftar.",
+    "ctaText": "Ubah Gambar Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi."
+  }
+}

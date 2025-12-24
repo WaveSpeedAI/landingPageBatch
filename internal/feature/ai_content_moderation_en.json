@@ -1,0 +1,212 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Content Moderation",
+  "meta": {
+    "description": "Leverage AI to keep your online community safe and engaging. Effectively filter harmful content, enhance user experience, and comply with regulations. Perfect for social platforms and e-commerce websites.",
+    "keywords": "AI content moderation, harmful content filtering, online safety, user experience enhancement, community management, social media moderation, e-commerce content management, real-time filtering, automated moderation tools, WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "AI Content Moderation",
+    "subHeading": "Safeguard Your Community with Smart Filters",
+    "description": "Utilize our powerful AI to automatically filter out harmful content and enhance user interactions in real-time. Protect your online presence effortlessly. Start moderating today!",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Content Moderation Solution",
+    "left": {
+      "heading": "Traditional Challenges",
+      "items": [
+        "Manual moderation is time-consuming",
+        "High risk of harmful content slipping through",
+        "Inconsistent enforcement of guidelines",
+        "User complaints on inappropriate content",
+        "Difficulty meeting regulatory requirements"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Automated content filtering in real-time",
+        "Consistent application of moderation policies",
+        "Reducing risk of harmful content exposure",
+        "Enhancing overall user experience",
+        "Simple integration into existing platforms"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Implement effective moderation in 3 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Integrate API",
+        "text": "Connect our moderation API to your platform seamlessly",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Set Guidelines",
+        "text": "Define what content to filter based on your community standards",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Monitor and Adjust",
+        "text": "Receive real-time reports and adjust moderation parameters as needed",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "Start Moderating →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Perfect for various online platforms",
+    "items": [
+      "Social media sites",
+      "E-commerce marketplaces",
+      "Discussion forums",
+      "Gaming communities",
+      "Content-sharing platforms",
+      "Blog comment sections"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how businesses ensure safe online environments with AI",
+    "items": [
+      {
+        "tag": "Social Media Network",
+        "heading": "Youth Engagement Platform",
+        "before": {
+          "label": "Before",
+          "text": "High complaint rate"
+        },
+        "after": {
+          "label": "After",
+          "text": "Negative content minimized"
+        },
+        "value": "85%",
+        "key": "Content Safety Improvement",
+        "description": "Automated moderation drastically reduced harmful posts, securing a safer space for users."
+      },
+      {
+        "tag": "E-commerce Portal",
+        "heading": "Product Review Site",
+        "before": {
+          "label": "Before",
+          "text": "Confusing content guidelines"
+        },
+        "after": {
+          "label": "After",
+          "text": "Clear moderation process"
+        },
+        "value": "90%",
+        "key": "User Trust Boost",
+        "description": "Enhanced moderation led to positive engagement and increased customer trust."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Model Comparison",
+    "description": "Choose the right moderation approach for your needs",
+    "items": [
+      "Content Filtering Model: High accuracy, customizable, ideal for sensitive topics",
+      "Spam Detection Model: Fast performance, real-time identification of irrelevant posts",
+      "AI Learning: Continuously improves over time with user feedback",
+      "User-Driven Moderation Tools for community reporting",
+      "Dashboard Analytics: Monitor content trends and moderation effectiveness"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Discover more essential tools for online safety"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "How does content moderation work?",
+        "answer": "Our AI analyzes posts and comments in real-time to identify and filter harmful content before it reaches your users. It learns from community feedback to adapt and improve over time."
+      },
+      {
+        "question": "Can I customize the moderation guidelines?",
+        "answer": "Absolutely! You can set specific guidelines tailored to your community's values and standards, ensuring relevant content gets through while unwanted material is filtered out."
+      },
+      {
+        "question": "How quickly can harmful content be filtered?",
+        "answer": "The AI works in real-time, meaning most harmful content is identified and moderated almost instantaneously, keeping your online environment safe."
+      },
+      {
+        "question": "What types of content can be moderated?",
+        "answer": "Our technology is capable of detecting hate speech, spam, explicit content, and other harmful materials across various media, including text, images, and videos."
+      },
+      {
+        "question": "Will I receive reports on moderation activities?",
+        "answer": "Yes! You’ll receive regular analytics and reporting on moderation actions taken, allowing for enhanced oversight and strategy adjustments."
+      },
+      {
+        "question": "Is this service scalable for large communities?",
+        "answer": "Certainly! Our solutions are designed to scale seamlessly with your growth, efficiently handling increased content volumes without compromising performance."
+      },
+      {
+        "question": "What support is available if I encounter issues?",
+        "answer": "We offer comprehensive support including documentation, tutorials, and a dedicated helpdesk to assist with any technical inquiries or challenges."
+      },
+      {
+        "question": "Can users appeal moderation decisions?",
+        "answer": "Yes, users can submit appeals through the platform. Each case will be reviewed to ensure fair treatment and transparency in moderation."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Enhance Your Community Safety?",
+    "description": "Start with free credits - Experience AI moderation today",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Ready to Secure Your Platform?",
+    "description": "Try WaveSpeed AI now and witness the transformation. No sign-up required.",
+    "ctaText": "Start Moderating Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

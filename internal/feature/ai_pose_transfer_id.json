@@ -1,0 +1,222 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Transfer Pose AI",
+  "meta": {
+    "description": "Revolusi animasi karakter dengan Transfer Pose AI. Terapkan pose dinamis ke gambar statis secara instan untuk meningkatkan penceritaan dalam game, iklan, dan seni. Alami transformasi gerakan yang mulus berkat teknologi AI canggih. Ubah gambar statis menjadi urutan animasi yang menawan dengan mudah!",
+    "keywords": "Transfer Pose AI, animasi karakter, pose statis ke dinamis, alat animasi AI, animasi game, visual iklan, animasi seni, aplikasi pose instan, perangkat lunak animasi"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Transformasikan Pose Secara Instan",
+    "subHeading": "Hidupkan Gambar Statis",
+    "description": "Terapkan pose realistis pada gambar Anda dengan mudah. Saksikan AI mengubah visual statis Anda menjadi ekspresi animasi hanya dengan beberapa klik. Sempurna untuk meningkatkan penceritaan dan keterlibatan dalam proyek Anda. Coba sekarang dan buka kemungkinan kreatif tanpa batas!",
+    "tryText": "Coba Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Transfer Pose AI WaveSpeed",
+    "left": {
+      "heading": "Tantangan Animasi Tradisional",
+      "items": [
+        "Proses animasi yang memakan waktu (hari hingga minggu)",
+        "Memerlukan animator terampil dan perangkat lunak mahal",
+        "Fleksibilitas terbatas untuk penyesuaian pose",
+        "Biaya tinggi untuk mengulang animasi",
+        "Kesulitan dalam mempertahankan konsistensi karakter"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeed AI",
+      "items": [
+        "Aplikasi pose instan dalam detik dari gambar statis",
+        "Tidak memerlukan keahlian animasi - Cukup unggah gambar",
+        "Hasil waktu nyata dengan transfer pose berbasis AI",
+        "Penyesuaian tak terbatas dengan perintah sederhana",
+        "Model bayar sesuai penggunaan yang terjangkau untuk semua"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerja",
+    "description": "Ubah gambar Anda menjadi pose animasi dalam 4 langkah sederhana",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Gambar",
+        "text": "Unggah gambar statis karakter atau subjek Anda",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Pilih Pose",
+        "text": "Pilih dari berbagai pose dinamis untuk diterapkan secara instan",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Sesuaikan Parameter",
+        "text": "Tuning pose dan efek gerakan sesuai keinginan Anda",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Unduh Animasi",
+        "text": "Terima urutan animasi Anda dalam beberapa saat, siap digunakan",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Hasilkan Animasi Pertama Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Aplikasi Kreatif Tanpa Batas",
+    "description": "Ideal untuk berbagai industri dan penggunaan",
+    "items": [
+      "Animasi karakter untuk video game",
+      "Visual iklan dinamis",
+      "Animasi artistik untuk materi promosi",
+      "Penceritaan interaktif untuk aplikasi",
+      "Konten media sosial dengan animasi menarik",
+      "Animasi untuk materi pendidikan",
+      "Kartu ucapan yang dipersonalisasi",
+      "Animasi kustom untuk acara dan presentasi"
+    ]
+  },
+  "successStories": {
+    "heading": "Keberhasilan Terbukti dengan Transfer Pose AI",
+    "description": "Temukan bagaimana klien meningkatkan proyek mereka dengan AI",
+    "items": [
+      {
+        "tag": "Pengembang Video Game",
+        "heading": "Animasi Karakter Baru",
+        "before": {
+          "label": "Sebelum",
+          "text": "Minggu untuk menganimasi"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Detik untuk menerapkan pose"
+        },
+        "value": "95%",
+        "key": "Efisiensi Waktu",
+        "description": "Tim desain game kami mempercepat produksi dengan menerapkan pose secara instan, mengurangi siklus animasi kami secara signifikan."
+      },
+      {
+        "tag": "Agensi Pemasaran",
+        "heading": "Kampanye Iklan Dinamis",
+        "before": {
+          "label": "Sebelum",
+          "text": "Visual kaku"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Animasi halus"
+        },
+        "value": "80%",
+        "key": "Peningkatan Keterlibatan",
+        "description": "Kami menerima umpan balik luar biasa tentang iklan animasi baru kami, menggandakan keterlibatan audiens kami di semua platform."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Teknik Transfer Pose",
+    "description": "Pilih pendekatan yang tepat untuk kebutuhan animasi Anda",
+    "items": [
+      "Transformasi Pose Cepat: Penyesuaian cepat untuk aplikasi instan",
+      "Peleburan Gerakan Halus: Transisi alami antara pose",
+      "Antarmuka Ramah Pengguna: Sederhana untuk pengguna dari semua tingkat keterampilan",
+      "Gerakan Karakter Realistis: Representasi akurat dari gerakan manusia",
+      "Waktu Pemrosesan Cepat: Mempersiapkan animasi lebih cepat daripada metode tradisional",
+      "Cocok untuk Semua Media: Bekerja di berbagai platform digital"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Jelajahi lebih banyak alat AI canggih untuk profesional kreatif"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Semua yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Jenis gambar apa yang paling cocok untuk transfer pose?",
+        "answer": "Untuk hasil optimal, gambar berkualitas tinggi dari karakter atau objek dengan garis tepi jelas dan latar belakang minimal sangat ideal. Gambar harus beresolusi tinggi agar AI dapat menangkap dan menerapkan detail dengan efektif."
+      },
+      {
+        "question": "Bisakah saya menggunakan pose saya sendiri?",
+        "answer": "Saat ini, Anda dapat memilih dari perpustakaan pose yang telah ditentukan. Kami secara terus-menerus memperbarui perpustakaan pose kami untuk memasukkan berbagai opsi yang sesuai dengan berbagai gaya dan aplikasi."
+      },
+      {
+        "question": "Berapa lama waktu yang dibutuhkan untuk menghasilkan animasi?",
+        "answer": "Transfer pose biasanya dirender dalam detik. Waktu mungkin sedikit bervariasi berdasarkan kompleksitas pose dan kualitas gambar."
+      },
+      {
+        "question": "Apakah ada batasan dalam animasi?",
+        "answer": "AI dapat menerapkan berbagai pose; namun, animasi yang sangat kompleks mungkin tidak sehalus yang dibuat dengan metode tradisional. Kami terus bekerja untuk meningkatkan teknologi."
+      },
+      {
+        "question": "Hak komersial apa yang menyertai animasi?",
+        "answer": "Semua animasi yang dihasilkan melalui platform kami dilengkapi dengan hak komersial penuh, memungkinkan Anda untuk menggunakannya dalam proyek Anda tanpa biaya lisensi tambahan."
+      },
+      {
+        "question": "Bisakah saya mengedit ulang pose setelah dihasilkan?",
+        "answer": "Ya! Anda dapat memodifikasi parameter dan menerapkan pose berbeda bahkan setelah transformasi awal, memungkinkan fleksibilitas dalam proses kreatif Anda."
+      },
+      {
+        "question": "Perangkat lunak atau format apa yang Anda dukung?",
+        "answer": "Animasi yang dihasilkan dapat diekspor dalam beberapa format yang kompatibel dengan perangkat lunak populer, memastikan integrasi yang mulus ke dalam alur kerja yang sudah ada."
+      },
+      {
+        "question": "Apakah pelatihan tersedia untuk pengguna baru?",
+        "answer": "Tentu saja! Kami menawarkan sumber daya komprehensif, termasuk tutorial video dan webinar, untuk membantu pengguna memulai dengan alat kami."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Mengubah Gambar Anda dengan AI?",
+    "description": "Mulai buat animasi menakjubkan dengan kredit gratis hari ini",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Coba Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap untuk Menganimasi Ide Anda?",
+    "description": "Coba WaveSpeed AI sekarang dan rasakan masa depan animasi. Tidak perlu pendaftaran.",
+    "ctaText": "Mulai Menganimasi Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi."
+  }
+}

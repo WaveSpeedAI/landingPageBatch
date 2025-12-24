@@ -1,0 +1,230 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Apagador de IA",
+  "meta": {
+    "description": "Remova facilmente elementos indesejados de suas imagens em segundos com a tecnologia de IA. Melhore seus visuais para e-commerce, redes sociais e muito mais. Experimente a edição sem esforço com a ferramenta Apagador do WaveSpeed AI!",
+    "keywords": "edição de imagem com IA, remover fundo, retoque de foto, ferramenta de aprimoramento de imagem, edição de fotos para e-commerce, Apagador WaveSpeed, editor de fotos com IA, gerenciamento de ativos digitais, manipulação de fotos, visuais de marketing, imagens limpas, fotografia de produtos"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de IA",
+        "items": [
+          [
+            "Ferramentas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Mostra",
+        "items": [
+          [
+            "Mostra",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Apagador de IA",
+    "subHeading": "Limpe suas Imagens Facilmente",
+    "description": "Remova instantaneamente itens indesejados de suas imagens, aprimorando sua qualidade e foco. Perfeito para listas de e-commerce, postagens em redes sociais e mais. Veja a diferença que a IA pode fazer - comece a editar agora!",
+    "tryText": "Experimente Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução Apagador de IA do WaveSpeed AI",
+    "left": {
+      "heading": "Desafios da Edição Tradicional",
+      "items": [
+        "Edição manual é demorada e trabalhosa",
+        "Exige conhecimento complexo de software",
+        "Altos custos associados à contratação de profissionais",
+        "Acessibilidade limitada para mudanças rápidas",
+        "Frustrante para iniciantes e não-designers"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeed AI",
+      "items": [
+        "Remova distrações de imagens em segundos",
+        "Interface amigável - sem experiência necessária",
+        "Custo-benefício com preços flexíveis",
+        "Crie visuais polidos sem complicações",
+        "Processamento rápido permite edições instantâneas"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "Conquiste imagens perfeitas em 4 passos fáceis",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Enviar Imagem",
+        "text": "Escolha a foto que deseja aprimorar removendo elementos indesejados",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Selecionar Áreas para Apagar",
+        "text": "Destacar as partes da imagem que você deseja remover em apenas alguns cliques",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Aplicar Processamento de IA",
+        "text": "Deixe nossa IA analisar e apagar inteligentemente as áreas selecionadas",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Baixar Imagem Editada",
+        "text": "Salve sua imagem recém-limpa em segundos, pronta para uso",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Comece sua jornada de edição →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilidades Sem Fim",
+    "description": "Perfeito para várias aplicações",
+    "items": [
+      "Imagens de produtos para e-commerce",
+      "Gráficos para redes sociais",
+      "Visuais para blogs e sites",
+      "Materiais de marketing como folhetos",
+      "Comparações de fotos de antes e depois",
+      "Fotos pessoais e familiares",
+      "Demonstrações de imóveis",
+      "Melhorias na fotografia de eventos"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Descubra como as empresas estão revolucionando suas imagens com a tecnologia de IA",
+    "items": [
+      {
+        "tag": "Moda Varejo",
+        "heading": "Boutique Online",
+        "before": {
+          "label": "Antes",
+          "text": "Imagens abarrotadas de distrações"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Visuais limpos e focados"
+        },
+        "value": "97%",
+        "key": "Melhoria na Qualidade Visual",
+        "description": "Nossas imagens de produtos foram transformadas, levando a um aumento de 50% no engajamento nas redes sociais."
+      },
+      {
+        "tag": "Imóveis",
+        "heading": "Anúncios de Propriedades",
+        "before": {
+          "label": "Antes",
+          "text": "Fotos pouco atraentes"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Apresentações impressionantes e claras"
+        },
+        "value": "95%",
+        "key": "Aprimoramento da Atração",
+        "description": "Fotos limpas resultaram em vendas mais rápidas, apresentando propriedades em seu melhor."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Modelos de IA",
+    "description": "Selecione a abordagem ideal para suas necessidades de edição de imagem",
+    "items": [
+      "Edição Básica: Remoção rápida e fácil de objetos simples",
+      "Edição Avançada: Edição detalhada para cenários complexos",
+      "Remoção de Fundo: Apagamento completo de fundos",
+      "Reconstrução de Elementos: Técnicas de preenchimento inteligente para resultados sem costura",
+      "Edição em Múltiplas Camadas: Realize várias edições de uma só vez",
+      "Velocidade vs. Qualidade: Escolha com base em sua urgência ou necessidade"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Explore mais soluções poderosas de IA para edição de imagens"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo o que você precisa saber",
+    "items": [
+      {
+        "question": "Que tipos de imagens posso aprimorar com o Apagador de IA?",
+        "answer": "Você pode enviar vários tipos de imagem, incluindo JPG, PNG e WebP. Imagens claras com boa iluminação produzem os melhores resultados."
+      },
+      {
+        "question": "Quão precisa é a IA na remoção de áreas selecionadas?",
+        "answer": "Nossa IA é projetada para reconhecer e apagar objetos com alta precisão. Ela pode replicar padrões de fundo onde necessário para um visual natural."
+      },
+      {
+        "question": "Posso desfazer alterações se não estiver satisfeito?",
+        "answer": "Sim! Você pode reverter facilmente suas edições e começar de novo a qualquer momento no processo de edição."
+      },
+      {
+        "question": "É necessário instalar algum software para usar o Apagador de IA?",
+        "answer": "Nenhum software é necessário. A ferramenta é totalmente baseada na web, permitindo que você a acesse de qualquer dispositivo com conexão à internet."
+      },
+      {
+        "question": "Quanto tempo leva para processar minhas imagens?",
+        "answer": "O tempo de processamento é tipicamente muito rápido, geralmente apenas alguns segundos por imagem, dependendo da complexidade das edições."
+      },
+      {
+        "question": "Há um limite para quantas imagens posso editar?",
+        "answer": "Não há limite para o número de imagens que você pode editar, permitindo fluxos de trabalho eficientes, seja você tenha poucas ou muitas para aprimorar."
+      },
+      {
+        "question": "Eu mantenho os direitos autorais das imagens editadas?",
+        "answer": "Absolutamente! Todas as imagens editadas usando nossas ferramentas permanecem sua propriedade, permitindo que você as use comercialmente sem restrições."
+      },
+      {
+        "question": "Que suporte está disponível se eu encontrar problemas?",
+        "answer": "Oferecemos suporte abrangente, incluindo documentação, tutoriais e atendimento ao cliente responsivo para quaisquer questões técnicas."
+      },
+      {
+        "question": "Como posso começar a usar o Apagador de IA?",
+        "answer": "Basta enviar suas imagens e seguir os passos fáceis para começar a editar. Novos usuários podem aproveitar créditos iniciais gratuitos!"
+      },
+      {
+        "question": "Há uma taxa de assinatura para usar essa ferramenta?",
+        "answer": "Nenhuma assinatura é necessária! Operamos com um modelo de pagamento conforme o uso, permitindo que você pague apenas pelos serviços que utiliza."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Transformar Suas Imagens?",
+    "description": "Comece com créditos gratuitos e veja a mágica do Apagador de IA em ação!",
+    "contactUsText": "Entre em Contato",
+    "tryText": "Experimente Agora →"
+  },
+  "footer": {
+    "heading": "Pronto para Limpar Suas Imagens?",
+    "description": "Experimente o WaveSpeed AI hoje e eleve seus visuais. Sem necessidade de inscrição.",
+    "ctaText": "Remover Objetos Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

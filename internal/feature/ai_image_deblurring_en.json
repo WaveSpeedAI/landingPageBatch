@@ -1,0 +1,226 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Image Deblurring",
+  "meta": {
+    "description": "Enhance your photos by removing blurriness effortlessly with WaveSpeed AI's advanced deblurring technology, perfect for e-commerce, printing, and high-quality images. Experience crystal-clear images with just a few clicks at WaveSpeed.",
+    "keywords": "AI image deblurring, photo enhancement tool, clarity restoration, image sharpening, e-commerce photo tool, WaveSpeed AI, high-quality image processing, photography improvement, image clarity software, automated deblurring"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Image Deblurring",
+    "subHeading": "Restore Clarity to Your Blurry Photos",
+    "description": "Revitalize your images by effortlessly removing blurriness with our advanced AI technology. Perfect for product listings, social media, and professional use. Experience stunning clarity instantly.",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Image Deblurring Solution",
+    "left": {
+      "heading": "Traditional Challenges",
+      "items": [
+        "Manual sharpening methods can be time-consuming",
+        "High costs for professional image editing services",
+        "Limited improvement on severely blurred images",
+        "Requires advanced skills and software knowledge",
+        "Inefficiency in processing large volumes of photos"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Instantly remove blurriness from any image",
+        "Simple upload process - no editing skills required",
+        "High-quality restoration even for extreme blur",
+        "Process bulk images quickly and efficiently",
+        "Affordable pricing options tailored for businesses"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Achieve crystal-clear images in 4 easy steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Image",
+        "text": "Select and upload the blurry image you want to enhance",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Select Deblurring Level",
+        "text": "Choose the intensity of deblurring based on your needs",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Preview Adjustment",
+        "text": "Preview your enhanced image before finalizing the change",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Enhanced Image",
+        "text": "Retrieve your sharp, clear image in seconds",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Enhance Your First Image →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Ideal for a variety of applications",
+    "items": [
+      "Restoring product images for online listings",
+      "Enhancing photos for marketing campaigns",
+      "Preparing images for print materials",
+      "Improving family and personal photos",
+      "Enhancing images for social media posts",
+      "Reviving archival images for digital use",
+      "Sharpening professional photography",
+      "Making educational visuals clearer"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how users are transforming their images with AI",
+    "items": [
+      {
+        "tag": "E-commerce",
+        "heading": "Product Photo Enhancement",
+        "before": {
+          "label": "Before",
+          "text": "Unusable due to blurriness"
+        },
+        "after": {
+          "label": "After",
+          "text": "High-quality, sharp image"
+        },
+        "value": "90%",
+        "key": "Improvement in Quality",
+        "description": "We transformed our product photos, increasing sales by 25% with improved image clarity."
+      },
+      {
+        "tag": "Real Estate",
+        "heading": "Property Listings",
+        "before": {
+          "label": "Before",
+          "text": "Blurry and unappealing"
+        },
+        "after": {
+          "label": "After",
+          "text": "Professional-grade sharpness"
+        },
+        "value": "95%",
+        "key": "Clarity Improvement",
+        "description": "Images that used to deter clients now attract more viewings and inquiries."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Deblurring Technology Comparison",
+    "description": "Select the optimal processing method for your needs",
+    "items": [
+      "Standard Deblur: Quick enhancement for everyday images, suitable for minor blur",
+      "Advanced Deblur: In-depth processing for severe blur, focusing on detail recovery",
+      "Batch Processing: Handle multiple images at once for efficiency",
+      "Real-time feedback during adjustments for best results",
+      "User-friendly interface for easy navigation and usage",
+      "Commercial usage rights included"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Discover more innovative AI tools to enhance your images"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What types of images can be deblurred?",
+        "answer": "Most images can be processed, including JPEG, PNG, and TIFF formats. Ideal candidates include product photos, portraits, landscapes, and any image in need of sharpening."
+      },
+      {
+        "question": "How effective is the deblurring technology?",
+        "answer": "Our AI technology is designed to significantly improve image clarity, restoring details that may be lost in blur. The effectiveness may vary based on the initial quality and extent of blurriness."
+      },
+      {
+        "question": "Can I compare before and after images?",
+        "answer": "Yes! You can preview the enhancements instantly, allowing you to see the improvements in clarity before downloading the final image."
+      },
+      {
+        "question": "Is there a limit to the number of images I can deblur?",
+        "answer": "No, you can deblur as many images as you wish. Our efficient processing allows batch uploads for larger projects."
+      },
+      {
+        "question": "What is the turnaround time for deblurring?",
+        "answer": "Typically, processing takes just seconds. The time may vary slightly depending on the complexity of the blur and the number of images processed."
+      },
+      {
+        "question": "Are there any subscription fees?",
+        "answer": "No, our service operates on a pay-as-you-go basis, meaning you only pay for the images you enhance."
+      },
+      {
+        "question": "How can I ensure the best results?",
+        "answer": "For optimal results, use high-resolution images and try to provide as much information on the blur type during the upload process."
+      },
+      {
+        "question": "Do I retain ownership of the enhanced images?",
+        "answer": "Absolutely! You maintain full rights to all images processed through our platform, allowing you to use them freely for any project."
+      },
+      {
+        "question": "What support is available if I encounter issues?",
+        "answer": "We offer extensive support, including online resources, documentation, and customer support to assist with any challenges you may face."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Revive Your Blurry Images?",
+    "description": "Start enhancing your photos today with our advanced AI technology.",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Ready to Enhance Your Images?",
+    "description": "Experience the power of AI deblurring now. No sign-up required.",
+    "ctaText": "Remove Blurriness Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

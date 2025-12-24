@@ -1,0 +1,230 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Headshot Generator",
+  "meta": {
+    "description": "Instantly create professional headshots with AI technology. Enhance your personal brand and online presence effortlessly. Perfect for LinkedIn profiles, corporate websites, and more!",
+    "keywords": "AI headshot generator, professional headshots, AI portrait tool, personal branding, LinkedIn profile photo, virtual headshots, corporate photography, online presence, smart photo generator, digital identity, social media profile picture"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "AI Headshot Generator",
+    "subHeading": "Create Stunning Headshots in Moments",
+    "description": "Produce high-quality, professional headshots with just a few clicks. No photographers, no studios required. Enhance your online image and stand out from the crowd today!",
+    "tryText": "Create Your Headshot Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Headshot Generator Solution",
+    "left": {
+      "heading": "Traditional Portrait Challenges",
+      "items": [
+        "Photographers can be costly ($300-1000 per session)",
+        "Scheduling and location logistics",
+        "Multiple retakes for perfection",
+        "Limited styles and backgrounds",
+        "High barrier for quick, professional images"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI Solution",
+      "items": [
+        "Generate stunning headshots in under 2 minutes",
+        "No need for a photographer - Just upload your photo",
+        "Instant editing and customization options",
+        "Unlimited styles and backgrounds to choose from",
+        "Affordable pricing - Ideal for everyone"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "From a simple photo to a polished headshot in 4 steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Image",
+        "text": "Upload your clear photo or selfie",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Select Style",
+        "text": "Choose your preferred headshot style (e.g., corporate, casual)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Customize Appearance",
+        "text": "Adjust lighting, background, and other elements",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Headshot",
+        "text": "Receive your polished headshot in high resolution",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Get Your Professional Headshot →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Perfect for professionals in any field",
+    "items": [
+      "LinkedIn profile photos",
+      "Corporate team headshots",
+      "Personal branding for entrepreneurs",
+      "Social media profile pictures",
+      "Casting and auditions",
+      "Conference speaking profiles",
+      "Online dating profiles",
+      "Employee onboarding photos"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how professionals enhance their image with AI",
+    "items": [
+      {
+        "tag": "Corporate Professionals",
+        "heading": "LinkedIn Profile Upgrade",
+        "before": {
+          "label": "Before",
+          "text": "Amateur photos"
+        },
+        "after": {
+          "label": "After",
+          "text": "Professional headshot"
+        },
+        "value": "250%",
+        "key": "Profile Views Increase",
+        "description": "After using our headshot generator, my profile views skyrocketed. I secured 3 interviews in one week!"
+      },
+      {
+        "tag": "Freelancers",
+        "heading": "Personal Branding",
+        "before": {
+          "label": "Before",
+          "text": "Unprofessional images"
+        },
+        "after": {
+          "label": "After",
+          "text": "Updated sleek headshots"
+        },
+        "value": "300%",
+        "key": "Client Engagement",
+        "description": "Transforming my visuals helped increase my client inquiries. I looked credible and trustworthy."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Model Comparison",
+    "description": "Select the ideal style for your headshot",
+    "items": [
+      "Standard: High-quality, realistic headshots for profiles",
+      "Premium: Enhanced features with advanced lighting and shadow effects",
+      "Fashion-forward styles with unique backgrounds",
+      "Casual and professional blend for versatility",
+      "Instant delivery with multiple variations to choose from",
+      "Optimized for online use with high resolution available"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore more innovative AI tools for personal branding"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What quality can I expect from the headshot?",
+        "answer": "Our generator produces high-resolution headshots that are vibrant and professional. You can choose between standard quality for quick downloads or premium options for added depth and detail."
+      },
+      {
+        "question": "Can I customize my headshot style?",
+        "answer": "Absolutely! Our tool allows you to select from various styles and adjust backgrounds, lighting, and more to fit your needs."
+      },
+      {
+        "question": "What types of images work best for the headshot generator?",
+        "answer": "Clear, well-lit images work best. We recommend using photos with good resolution, ideally above 512x512 pixels, for optimal results."
+      },
+      {
+        "question": "How do I use the headshot for online profiles?",
+        "answer": "Once your headshot is generated, you can download it and easily upload it to your desired platform, including LinkedIn, company websites, and more."
+      },
+      {
+        "question": "Is there a cost for generating headshots?",
+        "answer": "We operate on a flexible pay-as-you-go model with no subscriptions. You pay only for the headshots you create, making it accessible for everyone."
+      },
+      {
+        "question": "How long does it take to generate a headshot?",
+        "answer": "Typically, headshot generation takes 1-2 minutes. You can create multiple headshots in this timeframe if needed."
+      },
+      {
+        "question": "What if I need help or support?",
+        "answer": "We provide extensive resources including tutorials, best practices, and customer support via chat and email for all your inquiries."
+      },
+      {
+        "question": "Do I own the rights to the generated headshots?",
+        "answer": "Yes! You have full commercial rights to use your headshots freely across all platforms without additional fees."
+      },
+      {
+        "question": "Can I edit the generated headshots afterward?",
+        "answer": "Yes! You can download your headshot and use external tools for additional editing, if desired."
+      },
+      {
+        "question": "What are the best use cases for the AI headshot generator?",
+        "answer": "This technology is perfect for creating professional images for LinkedIn, corporate websites, social media, and any context where first impressions matter."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Create Your Professional Headshot?",
+    "description": "Start with free credits - Experience it for yourself",
+    "contactUsText": "Contact Us",
+    "tryText": "Create Your Headshot Now →"
+  },
+  "footer": {
+    "heading": "Ready to Upgrade Your Image?",
+    "description": "Try WaveSpeed AI now and see the difference for yourself. No sign-up required.",
+    "ctaText": "Create Headshots Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

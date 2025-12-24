@@ -1,0 +1,229 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Compressor de Vídeo",
+  "meta": {
+    "description": "Otimize seus vídeos de forma simples com a tecnologia de compressão avançada da WaveSpeed AI. Alcance resultados de alta qualidade com tamanhos de arquivo mínimos, ideal para streaming e compartilhamento online. Perfeito para criadores de conteúdo e empresas que buscam melhorar a eficiência na entrega de vídeos.",
+    "keywords": "compressor de vídeo, otimização de vídeo, qualidade de vídeo, redução de tamanho de arquivo, ferramentas de vídeo AI, ferramentas de vídeo para streaming, compartilhamento de vídeo online, vídeo de alta qualidade, ferramentas para criadores de conteúdo, edição de vídeo, melhoria de vídeo, software de compressão de vídeo"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas AI",
+        "items": [
+          [
+            "Ferramentas AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Compressão de Vídeo sem Esforço",
+    "subHeading": "Reduza o Tamanho do Arquivo Sem Perder Qualidade",
+    "description": "Comprime rapidamente grandes vídeos em arquivos compactos sem sacrificar a qualidade. Perfeito para todas as suas necessidades de compartilhamento online. Experimente nossa ferramenta impulsionada por AI hoje para uma compressão de vídeo rápida e eficiente.",
+    "tryText": "Experimente Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução de Compressor de Vídeo WaveSpeed AI",
+    "left": {
+      "heading": "Desafios Tradicionais",
+      "items": [
+        "Arquivos de vídeo grandes desaceleram o envio e o download",
+        "Perda de qualidade durante a compressão é comum",
+        "Ajustes manuais que consomem tempo",
+        "Incompatibilidade com algumas plataformas",
+        "Altos custos para ferramentas de compressão profissionais"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeed AI",
+      "items": [
+        "Compressão instantânea com algoritmos avançados",
+        "Manter a qualidade original em cada arquivo",
+        "Tempo de processamento rápido - segundos, não minutos",
+        "Compatível com todas as principais plataformas",
+        "Preços acessíveis de pagamento conforme o uso"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "Compressão de vídeo sem esforço em 4 etapas fáceis",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Carregar Vídeo",
+        "text": "Selecione o arquivo de vídeo que deseja comprimir",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Escolha as Configurações de Compressão",
+        "text": "Selecione o equilíbrio desejado entre qualidade e tamanho de arquivo",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Iniciar Compressão",
+        "text": "Deixe nossa AI trabalhar sua mágica em apenas alguns segundos",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Baixar Vídeo Comprimido",
+        "text": "Receba seu vídeo otimizado pronto para compartilhar",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Comprimir Seu Vídeo Agora →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilidades Infinitas",
+    "description": "Ideal para qualquer aplicativo de vídeo",
+    "items": [
+      "Carregar vídeos para plataformas de mídia social",
+      "Otimizar conteúdo para sites e blogs",
+      "Melhorar a qualidade de streaming de vídeo",
+      "Facilitar o compartilhamento rápido por e-mail",
+      "Comprimir vídeos para reuniões virtuais",
+      "Preparar anúncios em vídeo para campanhas de marketing",
+      "Reduzir tamanhos de arquivos para apresentações",
+      "Armazenar e arquivar conteúdo de vídeo de forma eficiente"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Descubra como os usuários estão simplificando seus fluxos de trabalho de vídeo",
+    "items": [
+      {
+        "tag": "Criação de Conteúdo",
+        "heading": "Canal do YouTube",
+        "before": {
+          "label": "Antes",
+          "text": "Arquivos grandes"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Envios rápidos"
+        },
+        "value": "95%",
+        "key": "Redução de Tamanho de Arquivo",
+        "description": "Com a compressão melhorada, nossos tempos de envio caíram significativamente, permitindo que postássemos conteúdo com mais frequência."
+      },
+      {
+        "tag": "Apresentações Empresariais",
+        "heading": "Vídeos de Treinamento Corporativo",
+        "before": {
+          "label": "Antes",
+          "text": "2 horas para editar"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "20 minutos"
+        },
+        "value": "90%",
+        "key": "Tempo Economizado",
+        "description": "Nossos vídeos de treinamento agora são fáceis de compartilhar e consumir, tornando nossos programas de treinamento mais eficientes."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Métodos de Compressão",
+    "description": "Selecione a compressão certa para suas necessidades",
+    "items": [
+      "Compressão Sem Perdas: Mantenha a qualidade original, redução mínima de tamanho",
+      "Compressão Com Perdas: Ideal para redução significativa de tamanho de arquivo, ajustes de qualidade visíveis",
+      "Processamento em Lote: Comprimir vários vídeos simultaneamente, aumentando a produtividade",
+      "Interface Amigável: Controles simples para todos os usuários, independentemente do nível de experiência",
+      "Processamento Rápido: Tempo típico de compressão abaixo de 30 segundos por vídeo"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de AI Relacionadas",
+    "description": "Explore mais ferramentas de AI para aprimorar sua experiência de vídeo"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo o que você precisa saber",
+    "items": [
+      {
+        "question": "Qual qualidade de compressão posso esperar?",
+        "answer": "Nossa AI oferece taxas de compressão impressionantes enquanto preserva a qualidade original do vídeo, garantindo um aspecto profissional para todo o seu conteúdo."
+      },
+      {
+        "question": "Posso escolher diferentes níveis de compressão?",
+        "answer": "Sim! Você pode selecionar várias configurações para priorizar qualidade ou tamanho de arquivo de acordo com suas necessidades."
+      },
+      {
+        "question": "Quais formatos de arquivo são suportados?",
+        "answer": "Suportamos todos os formatos de vídeo populares, incluindo MP4, MOV e AVI para sua conveniência."
+      },
+      {
+        "question": "Quanto tempo leva o processo de compressão?",
+        "answer": "A maioria das compressões de vídeo é concluída em segundos, tornando-a rápida e eficiente para os usuários."
+      },
+      {
+        "question": "Posso comprimir vários vídeos ao mesmo tempo?",
+        "answer": "Absolutamente! Nossa funcionalidade de processamento em lote permite que você comprima vários vídeos simultaneamente."
+      },
+      {
+        "question": "Vou perder dados durante a compressão?",
+        "answer": "Com compressão sem perdas, você não perderá dados. A compressão com perdas pode reduzir a qualidade ligeiramente, mas a redução de tamanho é significativa."
+      },
+      {
+        "question": "Preciso me registrar para usar a ferramenta?",
+        "answer": "Nenhum registro é necessário; você pode começar a comprimir vídeos imediatamente."
+      },
+      {
+        "question": "Há um limite para o tamanho do vídeo?",
+        "answer": "Nossa plataforma lida com arquivos grandes, mas para um desempenho ideal, recomendamos manter os uploads individuais abaixo de 2GB."
+      },
+      {
+        "question": "Posso acessar meus vídeos comprimidos depois?",
+        "answer": "Vídeos comprimidos estão disponíveis para download imediato após o processamento. Salve-os em seu dispositivo para uso futuro."
+      },
+      {
+        "question": "Há suporte ao cliente disponível?",
+        "answer": "Sim! A WaveSpeed oferece suporte por e-mail e chat ao vivo para ajudá-lo com quaisquer perguntas ou problemas."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Comprimir Seus Vídeos?",
+    "description": "Comece com compressão de alta qualidade usando nossa tecnologia avançada de AI.",
+    "contactUsText": "Entre em Contato",
+    "tryText": "Experimente Agora →"
+  },
+  "footer": {
+    "heading": "Transforme Sua Experiência de Vídeo!",
+    "description": "Experimente uma compressão sem esforço com a WaveSpeed AI agora. Nenhum cadastro necessário.",
+    "ctaText": "Comece a Comprimir Vídeos Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

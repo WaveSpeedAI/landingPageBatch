@@ -1,0 +1,231 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Interior Design Generator",
+  "meta": {
+    "description": "Revolutionize your interior design projects with our AI-driven generator. Instantly visualize your spaces with stunning room designs tailored to your style and preferences. Streamline your design process with WaveSpeed's innovative technology.",
+    "keywords": "AI interior design, room visualization, home decor inspiration, virtual interior designer, space planning tool, interior design generator, home styling software, automated design solutions, custom room layouts, home improvement ideas, design mockups"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "AI Interior Design Generator",
+    "subHeading": "Bring Your Imagination to Life in Seconds",
+    "description": "Transform any space into your dream interior with our AI generator. Upload your room photos, and let our technology create stunning designs that match your aesthetic. Start designing your ideal space today!",
+    "tryText": "Start Designing Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Interior Design Generator Solution",
+    "left": {
+      "heading": "Traditional Design Challenges",
+      "items": [
+        "High costs for interior designers ($2000-8000 per project)",
+        "Limited revisions and slow turnaround time",
+        "Dependency on physical samples and showrooms",
+        "Complicated design tools that require training",
+        "Overwhelming choices can paralyze decision-making"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI Solution",
+      "items": [
+        "Instant design concepts generated in minutes",
+        "No expert knowledge needed—just upload images",
+        "Unlimited iterations to refine your vision",
+        "Explore countless design styles and options",
+        "Affordable pay-per-design model for all budgets"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Create your perfect space in 4 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Room Photo",
+        "text": "Upload an image of the room you want to design",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Choose Your Style",
+        "text": "Select your preferred design style (e.g., modern, cozy, industrial)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Customize Elements",
+        "text": "Add or remove furniture, colors, and decor items that you envision",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Design Mockup",
+        "text": "Receive your customized design layout in minutes",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Generate Your First Design →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Design Possibilities",
+    "description": "Ideal for any space or design need",
+    "items": [
+      "Living room transformations",
+      "Bedroom decor ideas",
+      "Kitchen makeovers",
+      "Office space optimization",
+      "Small apartment designs",
+      "Stylish outdoor areas",
+      "Event space planning",
+      "Baby nursery styling"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "See how clients are transforming their interiors with AI",
+    "items": [
+      {
+        "tag": "Home Renovation",
+        "heading": "Cozy Cottage Makeover",
+        "before": {
+          "label": "Before",
+          "text": "Outdated and cramped"
+        },
+        "after": {
+          "label": "After",
+          "text": "Spacious and inviting"
+        },
+        "value": "150%",
+        "key": "Client Satisfaction",
+        "description": "With the AI Generator, we revitalized our cottage in a day! The family loves the new design."
+      },
+      {
+        "tag": "Modern Office",
+        "heading": "Corporate Workspace Redesign",
+        "before": {
+          "label": "Before",
+          "text": "Bland and uninspiring"
+        },
+        "after": {
+          "label": "After",
+          "text": "Bright and modern"
+        },
+        "value": "120%",
+        "key": "Employee Happiness",
+        "description": "The new office layout improved productivity and creativity, all thanks to WaveSpeed!"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Model Comparison",
+    "description": "Select the right design model for your needs",
+    "items": [
+      "Modern Style: Sleek lines, minimalistic approach, versatile",
+      "Cozy Style: Warm colors, soft textures, comfortable ambiance",
+      "Industrial Style: Raw elements, modern finishes, bold statements",
+      "Bohemian Style: Eclectic mixes, vibrant colors, artistic flair",
+      "Traditional Style: Classic decor, elegant furnishings, timeless appeal",
+      "Transitional Style: Balanced blend of traditional and modern",
+      "Contemporary Style: Current trends, open spaces, fresh aesthetics"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Discover more AI solutions for home and design"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What design styles can I create?",
+        "answer": "Our AI generator offers various styles including modern, cozy, industrial, bohemian, and traditional—allowing you to easily create the perfect look for any room."
+      },
+      {
+        "question": "Can I change the layout of the furniture?",
+        "answer": "Yes! You can drag and drop furniture elements within the design mockup to find the perfect arrangement that suits your space."
+      },
+      {
+        "question": "What types of images work best for uploading?",
+        "answer": "Clear, well-lit photos of your space yield the best results. Ideally, images should capture the entire room with minimal clutter."
+      },
+      {
+        "question": "How many designs can I generate at once?",
+        "answer": "You can generate multiple designs simultaneously, allowing you to experiment with various styles and layouts effortlessly."
+      },
+      {
+        "question": "Is there a limit on design revisions?",
+        "answer": "No, you can make as many revisions as you like until you're completely satisfied with your design!"
+      },
+      {
+        "question": "What is the pricing model for the AI Interior Design Generator?",
+        "answer": "WaveSpeed operates on a pay-as-you-go model, allowing you to pay only for the designs you generate with no subscriptions."
+      },
+      {
+        "question": "How fast will I get my designs?",
+        "answer": "Designs are generated in as little as a few minutes, making it easy to visualize your ideas quickly!"
+      },
+      {
+        "question": "Can I save my designs for later use?",
+        "answer": "Absolutely! You can save your designs to revisit and modify them at any time."
+      },
+      {
+        "question": "Are there commercial rights for generated designs?",
+        "answer": "Yes! All designs generated through WaveSpeed include full rights for personal and commercial use."
+      },
+      {
+        "question": "What support is available for troubleshooting?",
+        "answer": "We provide comprehensive support including tutorials, FAQs, and customer service to help you with any issues."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Design Your Dream Space?",
+    "description": "Start with free credits - Experience the transformation for yourself",
+    "contactUsText": "Contact Us",
+    "tryText": "Start Designing Now →"
+  },
+  "footer": {
+    "heading": "Ready to Redesign Your Space?",
+    "description": "Try WaveSpeed AI now and watch your interior ideas come alive. No sign-up required.",
+    "ctaText": "Revamp Your Space Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

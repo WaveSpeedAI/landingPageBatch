@@ -1,0 +1,221 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Generator Gambar AI",
+  "meta": {
+    "description": "Hasilkan gambar menakjubkan untuk proyek Anda dengan mudah menggunakan AI. Tingkatkan visual Anda secara instan dengan kreativitas dan efisiensi yang ditingkatkan. Sempurna untuk pemasar, desainer, dan pembuat konten. Temukan potensi gambar yang digerakkan oleh AI!",
+    "keywords": "generator gambar AI, buat gambar dengan AI, pembuat konten visual, peningkatan gambar digital, alat desain grafis AI, gambar pemasaran, visual kreatif, peningkatan fotografi, otomatisasi desain, gambar e-commerce, visual media sosial"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Pembuatan Gambar Menjadi Mudah",
+    "subHeading": "Buat Visual Menakjubkan Secara Instan",
+    "description": "Transformasikan ide kreatif Anda menjadi gambar yang indah dalam sekejap. Tidak perlu perangkat lunak profesional atau keterampilan desain. Manfaatkan kekuatan AI canggih untuk menghidupkan visi Anda dengan mudah. Mulai sekarang dan saksikan sihirnya!",
+    "tryText": "Mulai Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Generator Gambar AI WaveSpeed AI",
+    "left": {
+      "heading": "Tantangan Pembuatan Gambar Tradisional",
+      "items": [
+        "Memerlukan keterampilan desain yang luas",
+        "Proses manual yang memakan waktu",
+        "Lisensi perangkat lunak yang mahal",
+        "Kreativitas dan kustomisasi yang terbatas",
+        "Kualitas gambar yang tidak konsisten"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeed AI",
+      "items": [
+        "Hasilkan gambar dalam hitungan detik dari deskripsi",
+        "Tidak perlu pengalaman desain - Cukup deskripsikan",
+        "Hasil berkualitas tinggi instan dengan AI",
+        "Pilihan dan variasi kreatif tanpa batas",
+        "Harga fleksibel - Terjangkau untuk semua"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Ubah ide Anda menjadi gambar dalam 4 langkah sederhana",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Deskripsikan Ide Anda",
+        "text": "Berikan teks yang merinci apa yang ingin Anda buat",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Pilih Gaya",
+        "text": "Pilih dari berbagai gaya seni dan tema",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Tinjau Opsi",
+        "text": "Jelajahi gambar yang dihasilkan AI dan pilih favorit Anda",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Unduh Gambar",
+        "text": "Dapatkan gambar menakjubkan Anda dalam waktu singkat dengan hak penuh",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Buat Gambar Pertama Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Tak Terbatas",
+    "description": "Ideal untuk setiap proyek atau kampanye",
+    "items": [
+      "Visual pemasaran untuk iklan dan media sosial",
+      "Grafis situs web dan aset digital",
+      "Konten untuk blog dan artikel",
+      "Posting dan cerita media sosial",
+      "Materi cetak seperti poster dan brosur",
+      "Pameran produk dan katalog",
+      "Karya seni kreatif untuk proyek pribadi",
+      "Visual untuk presentasi dan penawaran"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Temukan bagaimana pengguna merevolusi proses kreatif mereka dengan AI",
+    "items": [
+      {
+        "tag": "Merek Fashion",
+        "heading": "Kampanye Promosi",
+        "before": {
+          "label": "Sebelum",
+          "text": "Manual dan mahal"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Cepat dan ramah anggaran"
+        },
+        "value": "85%",
+        "key": "Efisiensi Biaya",
+        "description": "Kami meluncurkan kampanye kami dengan visual baru dalam hitungan jam. Keterlibatan audiens meningkat 50%!"
+      },
+      {
+        "tag": "Toko E-commerce",
+        "heading": "Gambar Produk untuk Listing",
+        "before": {
+          "label": "Sebelum",
+          "text": "Hari untuk membuat"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Menit untuk menghasilkan"
+        },
+        "value": "95%",
+        "key": "Waktu yang Dihemat",
+        "description": "Alat ini memungkinkan kami untuk dengan cepat menghasilkan gambar unik, yang mendorong penjualan lebih tinggi seketika."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Model AI",
+    "description": "Pilih model yang tepat untuk kebutuhan Anda",
+    "items": [
+      "Model Dasar: Kualitas standar, generasi cepat, sempurna untuk konten media sosial",
+      "Model Lanjutan: Gambar berkualitas tinggi dengan detail yang dapat disesuaikan, cocok untuk pemasaran",
+      "Berbagai gaya untuk mencocokkan kebutuhan merek apa pun",
+      "Waktu penyelesaian cepat dengan sedikit penyesuaian yang diperlukan",
+      "Antarmuka ramah pengguna untuk pengalaman yang mulus",
+      "Hak penggunaan komersial untuk semua gambar yang dihasilkan"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Jelajahi alat AI kuat tambahan untuk kreasi visual"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Segala yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Jenis gambar apa yang bisa saya buat?",
+        "answer": "Anda dapat menghasilkan berbagai gambar mulai dari visual produk hingga ilustrasi artistik, membuatnya cocok untuk berbagai aplikasi termasuk pemasaran, media sosial, dan proyek pribadi."
+      },
+      {
+        "question": "Dapatkah saya menyesuaikan gaya gambar?",
+        "answer": "Tentu saja! Anda dapat memilih dari berbagai gaya dan tema artistik, menyesuaikan output untuk sesuai dengan visi spesifik Anda."
+      },
+      {
+        "question": "Bagaimana AI memahami prompt teks saya?",
+        "answer": "AI kami memanfaatkan pemrosesan bahasa alami yang canggih untuk menginterpretasikan deskripsi Anda, menerjemahkannya menjadi output visual unik yang sesuai dengan niat Anda."
+      },
+      {
+        "question": "Format file apa yang dapat saya unduh untuk gambar saya?",
+        "answer": "Gambar dapat diunduh dalam berbagai format seperti JPG, PNG, dan lainnya untuk fleksibilitas penggunaan di berbagai platform."
+      },
+      {
+        "question": "Apakah saya memiliki hak komersial untuk gambar yang dihasilkan?",
+        "answer": "Ya, semua gambar yang dihasilkan disertai dengan hak penggunaan komersial, memungkinkan Anda menggunakannya secara bebas untuk proyek Anda tanpa biaya lisensi tambahan."
+      },
+      {
+        "question": "Apakah ada batasan jumlah gambar yang bisa saya hasilkan?",
+        "answer": "Tidak ada batasan pada pembuatan gambar! Anda dapat membuat sebanyak mungkin gambar yang Anda butuhkan, memastikan Anda memiliki akses ke pilihan kreatif tanpa batas."
+      },
+      {
+        "question": "Dapatkah saya meningkatkan gambar setelah dihasilkan?",
+        "answer": "Ya, Anda dapat lebih menyempurnakan gambar menggunakan berbagai alat pengeditan dan fitur yang tersedia di platform kami."
+      },
+      {
+        "question": "Apa struktur harga yang Anda tawarkan untuk pembuatan gambar?",
+        "answer": "Kami menawarkan harga fleksibel bayar sesuai pemakaian tanpa perlu berlangganan. Anda hanya membayar untuk gambar yang Anda hasilkan, memastikan efisiensi biaya."
+      },
+      {
+        "question": "Seberapa cepat saya dapat mengharapkan gambar saya dihasilkan?",
+        "answer": "Pembuatan gambar umumnya membutuhkan waktu detik, memungkinkan prototyping cepat dan eksplorasi kreatif."
+      },
+      {
+        "question": "Sumber daya dukungan apa yang Anda sediakan untuk pemecahan masalah?",
+        "answer": "Kami menawarkan dokumentasi yang luas, tutorial, dan komunitas yang mendukung untuk membantu Anda dengan segala pertanyaan atau masalah teknis."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Membuat Gambar AI Pertama Anda?",
+    "description": "Mulai dengan kredit gratis - Alami transformasinya sendiri",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Mulai Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap untuk Meningkatkan Visual Anda?",
+    "description": "Coba WaveSpeed AI sekarang dan lepaskan kreativitas Anda. Tidak perlu pendaftaran.",
+    "ctaText": "Mulai Menghasilkan Gambar Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi."
+  }
+}

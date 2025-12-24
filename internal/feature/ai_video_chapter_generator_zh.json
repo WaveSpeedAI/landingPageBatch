@@ -1,0 +1,230 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI 视频章节生成器",
+  "meta": {
+    "description": "轻松使用 AI 创建引人入胜的视频章节。非常适合在线课程、网络研讨会和内容创作者。提升观众体验，提高保留率！",
+    "keywords": "AI 视频章节生成器, 视频分段, 内容标记, 视频创作 AI, 交互式视频技术, 在线课程工具, 互动增强, 教程视频章节, 教育内容工具, 网络研讨会视频工具, 内容创作"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI 工具",
+        "items": [
+          [
+            "AI 工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即试用"
+  },
+  "hero": {
+    "heading": "为您的视频添加章节",
+    "subHeading": "即时创建引人入胜的视频章节",
+    "description": "使用 AI 生成的章节将长视频转变为互动体验。在几秒钟内改善观众的参与度和导航。现在就试试！",
+    "tryText": "立即试用",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI 视频章节生成器解决方案",
+    "left": {
+      "heading": "传统视频编辑挑战",
+      "items": [
+        "手动创建章节耗时",
+        "需要技术编辑技能",
+        "难以让观众全程保持参与",
+        "对不同片段自定义有限",
+        "常常导致观众流失"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI 解决方案",
+      "items": [
+        "在几分钟内自动生成视频章节",
+        "无需编辑技能 - 只需上传视频",
+        "通过简单导航提升观众参与度",
+        "根据内容主题自定义章节",
+        "价格实惠，按章收费"
+      ],
+      "tryText": "试试"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "从完整视频到分段章节仅需 4 个简单步骤",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传您的视频",
+        "text": "只需上传您的长视频内容",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "选择章节标记",
+        "text": "选择您希望如何定义章节（例如，主题、时间间隔）",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "自定义章节",
+        "text": "为每个章节添加标题和描述以确保清晰",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载您的章节视频",
+        "text": "在几分钟内接收包含完整章节的互动视频",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "创建您的第一个章节视频 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无限用途",
+    "description": "非常适合各种应用和行业",
+    "items": [
+      "在线课程片段以便学生导航",
+      "网络研讨会亮点以便于参考",
+      "具有增强章节功能的 YouTube 视频",
+      "业务培训模块具有明确主题",
+      "产品演示视频具有分段特点",
+      "事件录制提供便捷的观众导航",
+      "教育教程标记关键点",
+      "流媒体内容以提高观众参与度"
+    ]
+  },
+  "successStories": {
+    "heading": "真实成功案例",
+    "description": "发现用户如何通过 AI 改革内容传递",
+    "items": [
+      {
+        "tag": "在线学习",
+        "heading": "在线课程创建者",
+        "before": {
+          "label": "之前",
+          "text": "劳动力密集型的章节创建"
+        },
+        "after": {
+          "label": "之后",
+          "text": "即时章节创建"
+        },
+        "value": "95%",
+        "key": "节省时间",
+        "description": "章节帮助学生有效导航课程。反馈显著改善！"
+      },
+      {
+        "tag": "企业培训",
+        "heading": "公司培训视频",
+        "before": {
+          "label": "之前",
+          "text": "混乱的长视频"
+        },
+        "after": {
+          "label": "之后",
+          "text": "按章节结构化"
+        },
+        "value": "90%",
+        "key": "参与度提升",
+        "description": "员工现在可以轻松找到相关部分。培训完成率飙升。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI 模型比较",
+    "description": "选择适合您章节需求的最佳模型",
+    "items": [
+      "标准章节化：快速分段创建方法，使用基本 AI",
+      "高级上下文章节：理解视频内容上下文，提供细致的章节建议",
+      "可自定义的时间戳，用户定义偏好",
+      "编辑或更改视频时实时更新",
+      "与各种视频类型和格式无缝工作",
+      "为观众提供集成的章节导航工具"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关 AI 工具",
+    "description": "探索更多 AI 驱动的工具，增强内容创作"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要了解的一切",
+    "items": [
+      {
+        "question": "哪些类型的视频可以受益于章节化？",
+        "answer": "任何长形式内容，例如在线课程、网络研讨会、会议或教程，都可以利用章节化提升观众体验和保留率。"
+      },
+      {
+        "question": "我可以自定义章节标题和描述吗？",
+        "answer": "可以！您可以完全自定义每个章节的标题和描述，以确保内容对观众的清晰和相关性。"
+      },
+      {
+        "question": "我能多快生成章节视频？",
+        "answer": "生成过程快速，通常在几分钟内完成，具体取决于视频长度。"
+      },
+      {
+        "question": "我可以创建多少章节？",
+        "answer": "没有限制，您可以根据需要为视频内容创建任意数量的章节！"
+      },
+      {
+        "question": "支持哪些视频格式上传？",
+        "answer": "我们接受多种格式，包括 MP4、AVI 和 MOV，便于顺畅集成。"
+      },
+      {
+        "question": "章节生成的定价是如何工作的？",
+        "answer": "我们的定价基于按章节收费的模型，使您能够根据需求有效管理成本。"
+      },
+      {
+        "question": "我可以为直播创建章节标记吗？",
+        "answer": "当然可以！您可以为录制的直播创建章节，使其在播出后对观众更易获取。"
+      },
+      {
+        "question": "生成视频是否具备商业使用权？",
+        "answer": "所有通过我们平台处理的视频均附带完整商业使用权，可在所有媒体中无限制使用。"
+      },
+      {
+        "question": "有哪些支持资源可用于故障排除？",
+        "answer": "我们提供广泛的支持，包括文档、视频教程和专门的支持团队，以协助处理任何问题。"
+      },
+      {
+        "question": "是否有批量处理多个视频的选项？",
+        "answer": "是的，您可以批量处理多个视频，以简化内容创作工作流程。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备好创建引人入胜的视频章节了吗？",
+    "description": "使用免费积分开始亲自体验",
+    "contactUsText": "联系我们",
+    "tryText": "立即试用 →"
+  },
+  "footer": {
+    "heading": "今天就转换您的视频内容！",
+    "description": "体验 WaveSpeed AI，提升您的视频章节。无需注册。",
+    "ctaText": "开始章节化",
+    "text": "© 2025 WaveSpeed AI 保留所有权利。"
+  }
+}

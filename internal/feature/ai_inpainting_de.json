@@ -1,0 +1,226 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - KI Inpainting",
+  "meta": {
+    "description": "Revitalisieren Sie Ihre Bilder, indem Sie unerwünschte Objekte entfernen und die Lücken nahtlos mit KI Inpainting füllen. Perfekt für Produktfotos, E-Commerce-Plattformen und zur Verbesserung der Kreativität. Erleben Sie intuitives Inpainting, das von fortschrittlicher Technologie unterstützt wird.",
+    "keywords": "KI Inpainting, Objekterkennung KI, Bildwiederherstellungstool, E-Commerce-Bildverbesserung, kreative Bearbeitung, Produktfotoverbesserung, WaveSpeed Inpainting, benutzerfreundliches Inpainting, adaptive Inhaltsfüllung, automatisierte Objekterkennung"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI-Tools",
+        "items": [
+          [
+            "KI-Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Schaufenster",
+        "items": [
+          [
+            "Schaufenster",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "KI Inpainting",
+    "subHeading": "Ihr Bilder mühelos verbessern",
+    "description": "Transformieren Sie Ihre Bilder, indem Sie unerwünschte Elemente entfernen und den Hintergrund nahtlos füllen, alles in nur wenigen Klicks. Erleben Sie die Kraft des intelligenten Inpaintings. Probieren Sie es noch heute aus!",
+    "tryText": "Jetzt loslegen",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI KI Inpainting Lösung",
+    "left": {
+      "heading": "Herausforderungen bei traditionellen Bearbeitungen",
+      "items": [
+        "Zeitaufwendige Bildbearbeitung (Stunden manueller Arbeit)",
+        "Benötigt teure Software und Fähigkeiten",
+        "Begrenzte Flexibilität bei der Objekterkennung",
+        "Nicht geeignet für komplexe Hintergründe",
+        "Frustrierend für Nicht-Designer"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI Lösung",
+      "items": [
+        "Unerwünschte Objekte sofort aus Bildern entfernen",
+        "Nahtlose Hintergrundfüllung mit KI-Genauigkeit",
+        "Benutzerfreundliche Oberfläche; keine Designfähigkeiten erforderlich",
+        "Vielseitig für verschiedene Bildtypen",
+        "Erschwingliche Preise ohne verborgene Gebühren"
+      ],
+      "tryText": "Jetzt ausprobieren"
+    }
+  },
+  "howItWorks": {
+    "heading": "Wie es funktioniert",
+    "description": "Mühelose Bildverbesserung in 4 einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Bild hochladen",
+        "text": "Wählen Sie das Bild aus, das Sie verbessern oder überarbeiten möchten.",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Bereiche zum Entfernen auswählen",
+        "text": "Markieren Sie die Objekte, die Sie aus dem Bild entfernen möchten.",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Lassen Sie KI ihre Magie wirken",
+        "text": "Sehen Sie zu, wie unsere KI den Hintergrund ausfüllt und das Foto vervollständigt.",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Verbessertes Bild herunterladen",
+        "text": "Erhalten Sie Ihr perfektes Bild, bereit zur Verwendung in wenigen Minuten.",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Verbessern Sie Ihr erstes Bild →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endlose Möglichkeiten",
+    "description": "Ideal für alle visuelle Inhaltsbedürfnisse",
+    "items": [
+      "E-Commerce-Produktfotoverbesserung",
+      "Erstellen von ansprechenden Marketingvisuals",
+      "Wiederherstellung alter Bilder mit fehlenden Teilen",
+      "Gestaltung von Social-Media-Beiträgen ohne Ablenkungen",
+      "Verbesserung persönlicher Fotos für Partys und Veranstaltungen",
+      "Erstellung professioneller Bilder für Präsentationen",
+      "Optimierung von Visualisierungen für Webseiten und Blogs",
+      "Verbesserung von Immobilienbildern zur Käufergewinnung"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Entdecken Sie, wie Unternehmen ihre Bilder mit KI transformieren",
+    "items": [
+      {
+        "tag": "Modeeinzelhandel",
+        "heading": "E-Commerce-Bild-Upgrades",
+        "before": {
+          "label": "Vorher",
+          "text": "Unordentliche Bilder"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Sauber und professionell"
+        },
+        "value": "95%",
+        "key": "Verbesserung der Bildqualität",
+        "description": "Unsere Produktbilder sehen jetzt erstklassig aus! Sofortige visuelle Verbesserungen führten zu einem Anstieg der Online-Verkäufe um 30%."
+      },
+      {
+        "tag": "Tourismusindustrie",
+        "heading": "Hotelphoto-Verbesserung",
+        "before": {
+          "label": "Vorher",
+          "text": "Ablenkende Elemente"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Atemberaubende Visuals"
+        },
+        "value": "90%",
+        "key": "Steigerung der visuellen Anziehungskraft",
+        "description": "Verbesserte Fotos ermöglichten es uns, unsere Objekte effektiver zu präsentieren, was die Buchungen der Gäste erheblich steigerte."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Inpainting-Modellvergleich",
+    "description": "Wählen Sie den richtigen Ansatz für Ihre Inpainting-Bedürfnisse",
+    "items": [
+      "Standard Inpainting: Schnelle Lösungen für einfache Objekterkennung",
+      "Fortgeschrittenes Inpainting: Komplexe Hintergründe und verzierte Details",
+      "Adaptive Inhaltsfüllung: Passt sich nahtlos an die Umgebung an",
+      "Benutzerfreundliche Oberfläche für alle Fähigkeitsstufen",
+      "Hochauflösende Ausgaben zur Sicherstellung der Qualität",
+      "Brillantes Farbmapping und Texturwiedergabe"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ähnliche KI-Tools",
+    "description": "Entdecken Sie leistungsstarke KI-Lösungen für Ihre Visualisierungen"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welche Arten von Bildern funktionieren am besten für KI Inpainting?",
+        "answer": "KI Inpainting funktioniert optimal mit Bildern, die klare Objekte und Hintergründe haben. Hochauflösende Bilder liefern bessere Ergebnisse, aber die KI bleibt effektiv bei verschiedenen Bildarten, einschließlich Produktfotos und persönlichen Bildern."
+      },
+      {
+        "question": "Kann ich Änderungen, die während des Inpaintings vorgenommen wurden, rückgängig machen?",
+        "answer": "Ja! Unsere Plattform ermöglicht es Ihnen, Änderungen leicht rückgängig zu machen, wenn Sie mit dem Ergebnis nicht zufrieden sind. Sie können das Bild jederzeit erneut bearbeiten, um unterschiedliche Ergebnisse zu erzielen."
+      },
+      {
+        "question": "Ist es möglich, Inpainting für die Batch-Bildverarbeitung zu verwenden?",
+        "answer": "Aktuell wird die Batch-Verarbeitung nicht unterstützt, aber wir arbeiten daran, dieses Feature einzuführen. Derzeit muss jedes Bild einzeln verarbeitet werden."
+      },
+      {
+        "question": "Wie detailliert kann der Inpainting-Prozess sein?",
+        "answer": "Die KI ist darauf ausgelegt, sowohl einfache Objekterkennung als auch komplexe Hintergründe zu bearbeiten, sodass eine außergewöhnlich detaillierte Wiederherstellung von Bildern möglich ist."
+      },
+      {
+        "question": "Kann ich die Qualität nach dem Inpainting verbessern?",
+        "answer": "Absolut! Sie können zusätzliche Verbesserungen mit unserem Toolset anwenden, um Ihre Bilder nach dem Inpainting weiter zu verfeinern."
+      },
+      {
+        "question": "Wie sieht das Preismodell für KI Inpainting aus?",
+        "answer": "WaveSpeed arbeitet nach einem Bezahl-nach-Nutzung-Modell, bei dem Sie nur für die Bilder bezahlen, die Sie verbessern. Es gibt keine Abonnements oder versteckten Gebühren."
+      },
+      {
+        "question": "Wie lange dauert in der Regel das Inpainting?",
+        "answer": "Der Inpainting-Prozess dauert normalerweise nur wenige Minuten, dank der Effizienz unserer KI-Technologien."
+      },
+      {
+        "question": "Erhalte ich kommerzielle Lizenzen für die verbesserten Bilder?",
+        "answer": "Ja! Alle verbesserten Bilder über WaveSpeed beinhalten vollständige kommerzielle Nutzungsrechte, sodass Sie sie frei für Marketing oder Verkauf verwenden können."
+      },
+      {
+        "question": "Welche Art von Unterstützung ist verfügbar, wenn ich auf Probleme stoße?",
+        "answer": "Wir bieten umfassende Unterstützung, einschließlich umfassender Anleitungen, Tutorials und einem reaktionsschnellen Support-Team, das per E-Mail und Chat verfügbar ist."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Ihre Bilder mit KI zu verbessern?",
+    "description": "Starten Sie mit unserer benutzerfreundlichen Plattform - Erleben Sie die Transformation",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Jetzt loslegen →"
+  },
+  "footer": {
+    "heading": "Verwandeln Sie Ihre Bilder noch heute!",
+    "description": "Probieren Sie WaveSpeed KI Inpainting aus und sehen Sie den Unterschied aus erster Hand. Keine Anmeldung erforderlich.",
+    "ctaText": "Jetzt Inpainting starten",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

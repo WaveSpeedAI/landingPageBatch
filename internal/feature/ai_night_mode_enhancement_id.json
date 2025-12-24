@@ -1,0 +1,230 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Peningkatan Mode Malam AI",
+  "meta": {
+    "description": "Tingkatkan foto Anda dengan efek mode malam yang menakjubkan menggunakan AI. Optimalkan gambar berkualitas rendah untuk e-commerce dan media sosial. Rasakan perbedaannya dengan teknologi inovatif WaveSpeed!",
+    "keywords": "Mode Malam AI, peningkatan gambar cahaya rendah, pengeditan foto AI, optimisasi gambar e-commerce, fotografi malam, peningkatan foto media sosial, pengolahan gambar otomatis, WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Peningkatan Mode Malam AI",
+    "subHeading": "Transformasi Gambar Cahaya Rendah Anda Secara Instan",
+    "description": "Tingkatkan gambar Anda yang diambil dalam kondisi cahaya rendah dengan Peningkatan Mode Malam AI kami. Sempurna untuk memamerkan produk Anda dan memikat audiens Anda. Tingkatkan visual Anda tanpa usaha. Coba sekarang!",
+    "tryText": "Coba Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Peningkatan Mode Malam AI WaveSpeed",
+    "left": {
+      "heading": "Tantangan Tradisional",
+      "items": [
+        "Foto berkualitas rendah dalam pencahayaan redup",
+        "Penyuntingan manual yang memakan waktu",
+        "Perangkat lunak kompleks yang dibutuhkan untuk peningkatan",
+        "Hasil yang tidak konsisten di seluruh gambar",
+        "Biaya tinggi untuk layanan pengeditan profesional"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeed AI",
+      "items": [
+        "Peningkatan instan foto cahaya rendah",
+        "Tidak diperlukan keterampilan teknis - Cukup unggah gambar Anda",
+        "Hasil bertenaga AI dengan kualitas yang konsisten",
+        "Penyesuaian dan variasi tanpa batas tersedia",
+        "Harga terjangkau tanpa biaya tersembunyi"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Tingkatkan gambar Anda dalam 4 langkah mudah",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Gambar",
+        "text": "Unggah foto cahaya rendah Anda untuk peningkatan",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Pilih Peningkatan",
+        "text": "Pilih peningkatan yang diinginkan seperti kecerahan dan kontras",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Prabaca Perubahan",
+        "text": "Lihat prabaca real-time dari gambar yang ditingkatkan",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Unduh Gambar",
+        "text": "Dapatkan foto yang ditingkatkan siap digunakan dalam hitungan menit",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Tingkatkan Gambar Pertama Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Tak Terbatas",
+    "description": "Transformasikan gambar apa pun menjadi visual yang menakjubkan di bawah cahaya redup",
+    "items": [
+      "Foto produk e-commerce untuk visibilitas yang lebih baik",
+      "Posting media sosial yang mencolok di malam hari",
+      "Visual pemasaran untuk acara malam",
+      "Perbandingan sebelum/setelah untuk efek dramatis",
+      "Peningkatan fotografi artistik",
+      "Foto malam real estat untuk daftar yang berdampak",
+      "Fotografi makanan dengan warna yang mencolok",
+      "Fotografi fesyen di bawah cahaya malam"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Temukan bagaimana Mode Malam AI mengubah permainan bagi bisnis",
+    "items": [
+      {
+        "tag": "Fotografi",
+        "heading": "Peningkatan Pemotretan Malam E-commerce",
+        "before": {
+          "label": "Sebelum",
+          "text": "Kusam dan tidak menarik"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Kekinian dan menarik perhatian"
+        },
+        "value": "95%",
+        "key": "Peningkatan Daya Tarik",
+        "description": "Peningkatan mode malam kami meningkatkan daya tarik produk, yang mengarah pada peningkatan 30% dalam tingkat konversi semalam."
+      },
+      {
+        "tag": "Real Estat",
+        "heading": "Daftar Mewah dengan Peningkatan Malam",
+        "before": {
+          "label": "Sebelum",
+          "text": "Visibilitas buruk"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Visual malam yang menakjubkan"
+        },
+        "value": "90%",
+        "key": "Peningkatan Pertanyaan",
+        "description": "Visual malam yang dipoles mengubah daftar kami, mendapatkan 50% lebih banyak pertanyaan dari calon pembeli."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Model AI",
+    "description": "Pilih pengaturan terbaik untuk peningkatan mode malam Anda",
+    "items": [
+      "Mode Standar: Penyesuaian seimbang untuk pemotretan malam umum",
+      "Mode Ahli: Penyesuaian lanjutan untuk hasil profesional",
+      "Umpan balik peningkatan waktu nyata selama pemrosesan",
+      "Penyesuaian prediktif berdasarkan spesifikasi foto",
+      "Waktu pemrosesan 1-2 menit",
+      "Hak penuh untuk menggunakan gambar yang ditingkatkan secara komersial"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Temukan lebih banyak alat AI inovatif untuk fotografi"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Semua yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Bagaimana cara kerja Peningkatan Mode Malam AI?",
+        "answer": "AI kami menganalisis gambar cahaya rendah Anda dan menerapkan algoritme canggih untuk meningkatkan kecerahan, kontras, dan warna, memberikan hasil visual yang mencolok yang terlihat profesional."
+      },
+      {
+        "question": "Jenis gambar apa yang paling diuntungkan dari fitur ini?",
+        "answer": "Foto yang diambil dalam kondisi cahaya rendah, seperti acara, foto luar ruangan di malam hari, dan pengambilan gambar dalam pencahayaan redup, mendapatkan manfaat terbesar dari Peningkatan Mode Malam kami."
+      },
+      {
+        "question": "Bisakah saya menyesuaikan pengaturan peningkatan?",
+        "answer": "Ya! Anda dapat memilih berbagai tingkat dan parameter peningkatan untuk memenuhi kebutuhan dan preferensi spesifik Anda sambil melihat prabaca perubahan secara real-time."
+      },
+      {
+        "question": "Apakah ini mudah digunakan untuk pemula?",
+        "answer": "Tentu saja! Prosesnya ramah pengguna, dirancang untuk siapa saja yang ingin mengunggah gambar dan mendapatkan hasil yang menakjubkan tanpa pengalaman pengeditan sebelumnya."
+      },
+      {
+        "question": "Format gambar apa yang didukung untuk peningkatan?",
+        "answer": "Kami mendukung berbagai format termasuk JPG, PNG, dan TIFF. Pastikan gambar Anda berkualitas tinggi untuk hasil terbaik."
+      },
+      {
+        "question": "Apakah ada batasan jumlah gambar yang dapat saya tingkatkan?",
+        "answer": "Tidak! Anda dapat meningkatkan beberapa gambar sekaligus, dan AI kami menangani pemrosesan batch dengan efisien."
+      },
+      {
+        "question": "Apakah saya memiliki hak komersial penuh atas gambar yang ditingkatkan?",
+        "answer": "Ya! Semua gambar yang ditingkatkan melalui layanan kami datang dengan hak komersial penuh, yang memungkinkan Anda menggunakannya dengan bebas dalam proyek apa pun."
+      },
+      {
+        "question": "Bagaimana jika saya mengalami masalah saat menggunakan alat?",
+        "answer": "Kami menyediakan sumber daya yang luas termasuk tutorial, FAQ, dan tim dukungan khusus untuk membantu Anda dengan tantangan apa pun."
+      },
+      {
+        "question": "Bagaimana saya bisa melacak perubahan yang dibuat pada gambar saya?",
+        "answer": "Anda akan melihat perbandingan sebelum dan sesudah yang jelas untuk setiap peningkatan gambar, memungkinkan Anda menilai dampak dari penyesuaian yang dibuat."
+      },
+      {
+        "question": "Apakah ada biaya berlangganan untuk menggunakan peningkatan mode malam?",
+        "answer": "Tidak! Harga kami sangat jelas dan berdasarkan pada gambar yang Anda tingkatkan, tanpa biaya berulang."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Meningkatkan Gambar Anda?",
+    "description": "Mulai dengan kredit gratis dan temukan keajaiban Peningkatan Mode Malam AI",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Coba Sekarang →"
+  },
+  "footer": {
+    "heading": "Transformasikan Foto Cahaya Rendah Anda Sekarang!",
+    "description": "Rasakan kekuatan Peningkatan Mode Malam AI dengan WaveSpeed. Tanpa perlu mendaftar.",
+    "ctaText": "Tingkatkan Foto Sekarang",
+    "text": "© 2025 WaveSpeed AI. Seluruh hak dilindungi."
+  }
+}

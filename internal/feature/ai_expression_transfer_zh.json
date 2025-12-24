@@ -1,0 +1,226 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI 表情转移",
+  "meta": {
+    "description": "通过使用 AI 为您的产品图像添加动态表情和交互来进行转换。由 Google Veo 和字节跳动提供支持。非常适合在市场营销活动中吸引观众。黑色星期五优惠！",
+    "keywords": "AI 表情转移, 交互式产品图像, 图像动画, 电子商务营销工具, Google Veo, 表情动画, 黑色星期五视频工具, 产品互动, 营销视频创作者, Shopify 动画, 亚马逊列表增强, 社交媒体内容"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI 工具",
+        "items": [
+          [
+            "AI 工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即尝试"
+  },
+  "hero": {
+    "heading": "图像表情转移",
+    "subHeading": "用动态表情让您的图像栩栩如生",
+    "description": "通过引人入胜的动画提升您的产品照片。无需额外的软件。由 Google Veo 3.1 和字节跳动 Seedance 提供支持，体验 AI 将静态图像转变为动态交互的魔力。",
+    "tryText": "立即尝试",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI 表情转移解决方案",
+    "left": {
+      "heading": "传统挑战",
+      "items": [
+        "静态图像的视觉吸引力有限",
+        "动画的高成本和复杂性",
+        "耗时的手动动画",
+        "表达情感或动作的困难",
+        "对小型企业不切实际"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI 解决方案",
+      "items": [
+        "即时为产品图像动画表情",
+        "无需任何经验或动画技能",
+        "利用 AI 技术快速转变",
+        "无限创造可能性",
+        "为所有企业设计的价格结构"
+      ],
+      "tryText": "尝试"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "从静态图像到生动表情的 4 个简单步骤",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传图像",
+        "text": "选择您的产品照片进行动画",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "选择表情",
+        "text": "选择预定义的表情或创建自定义动画",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "预览动画",
+        "text": "观看选择的表情让您的图像栩栩如生",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载结果",
+        "text": "接收准备使用的高清动画图像",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "转换您的第一张图像 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无限可能",
+    "description": "将创造力带入任何领域",
+    "items": [
+      "电子商务的交互式产品广告",
+      "Instagram、TikTok 上吸引人的社交媒体帖子",
+      "带有动画视觉效果的营销活动",
+      "生动的客户推荐",
+      "动态教育内容",
+      "房地产图像增强",
+      "食品和食谱促销图像",
+      "充满活力表现的时尚画册"
+    ]
+  },
+  "successStories": {
+    "heading": "真实成功故事",
+    "description": "发现企业如何利用 AI 释放创造力",
+    "items": [
+      {
+        "tag": "电子商务创新",
+        "heading": "产品互动提升",
+        "before": {
+          "label": "之前",
+          "text": "静态和单调"
+        },
+        "after": {
+          "label": "之后",
+          "text": "生动和吸引人"
+        },
+        "value": "75%",
+        "key": "互动增加",
+        "description": "我们转变了产品图像，使在线商店的客户互动提高了 50%。"
+      },
+      {
+        "tag": "食品与饮料",
+        "heading": "动态食谱展示",
+        "before": {
+          "label": "之前",
+          "text": "标准图像"
+        },
+        "after": {
+          "label": "之后",
+          "text": "动画组件"
+        },
+        "value": "80%",
+        "key": "点击率提升",
+        "description": "我们的动画食谱图像吸引了观众并使社交媒体平台上的互动增加了三倍。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI 模型比较",
+    "description": "选择适合您需求的动画模型",
+    "items": [
+      "Veo 3.1：具有互动表情的高级真实感动画",
+      "Seedance I2V：快速且具有成本效益的快速动画",
+      "具有真实物理的自然运动模拟",
+      "无缝的过渡和效果",
+      "1-2 分钟生成时间",
+      "所有用法都包含商业权益"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关 AI 工具",
+    "description": "探索额外的创新 AI 工具以增强创造力"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要了解的一切",
+    "items": [
+      {
+        "question": "我可以动画什么类型的图像？",
+        "answer": "您可以使用多种产品图像，包括背景清晰的照片，以获得最佳的动画效果。图像应光线充足，最好是 512x512 像素或更大。"
+      },
+      {
+        "question": "我如何自定义动画中使用的表情？",
+        "answer": "从预定义的表情选择中选择，或使用我们的自定义动画设置添加独特的动作。AI 会处理复杂的细节！"
+      },
+      {
+        "question": "动画图像的预期质量是什么？",
+        "answer": "动画以高清质量生成，保持原始图像的分辨率，同时使其栩栩如生，呈现出逼真的动作。"
+      },
+      {
+        "question": "使用 AI 工具进行动画是否容易？",
+        "answer": "是的！我们的用户界面友好，允许快速上传图像和轻松自定义动画，无需任何特殊技能。"
+      },
+      {
+        "question": "动画图像生成的定价是如何工作的？",
+        "answer": "WaveSpeed 采用简单的按需付费模式，让您仅为创建的动画付费。新用户可以利用免费积分！"
+      },
+      {
+        "question": "可以同时动画多个图像吗？",
+        "answer": "是的！您可以批量上传图像并对多个照片同时应用动画，从而优化工作流程。"
+      },
+      {
+        "question": "动画图像的最佳应用场景是什么？",
+        "answer": "非常适合电子商务产品列表、社交媒体营销、广告以及任何需要视觉互动的场景。"
+      },
+      {
+        "question": "动画中是否包含商业权益？",
+        "answer": "绝对包含！所有生成的动画都附带完整的商业权利，允许您自由使用而无需任何许可费用。"
+      },
+      {
+        "question": "如果我遇到问题，提供什么支持？",
+        "answer": "我们提供全面的支持，包括详细指南、视频教程和专门的支持团队，以解决任何问题。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备为您的图像动画吗？",
+    "description": "今天开始使用免费积分，亲自体验动态表情的影响",
+    "contactUsText": "联系我们",
+    "tryText": "立即尝试 →"
+  },
+  "footer": {
+    "heading": "准备转变您的图像吗？",
+    "description": "今天使用 WaveSpeed AI，体验无压力的动态表情。无需注册。",
+    "ctaText": "立即开始动画",
+    "text": "© 2025 WaveSpeed AI。保留所有权利。"
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Générateur de motifs AI",
+  "meta": {
+    "description": "Créez des motifs textiles uniques sans effort avec WaveSpeed AI. Utilisez les dernières technologies AI pour générer des designs personnalisés adaptés à la mode, aux intérieurs et plus encore. Découvrez une créativité et une efficacité sans égal dès aujourd'hui !",
+    "keywords": "générateur de motifs AI, design textile AI, motifs de tissu personnalisés, outil de design de mode, motifs de design d'intérieur, wave speed AI, générateur de design créatif, créateur de motifs automatisé, impressions textiles uniques, solutions de design pour le commerce électronique"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils AI",
+        "items": [
+          [
+            "Outils AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Génération de motifs facilitée",
+    "subHeading": "Créez des designs uniques sans effort",
+    "description": "Générez des motifs textiles uniques en quelques secondes en utilisant une AI de pointe. Parfait pour les designers, les marques et quiconque cherchant à créer des tissus remarquables. Commencez votre parcours créatif aujourd'hui !",
+    "tryText": "Essayez-le maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution de générateur de motifs IA WaveSpeed AI",
+    "left": {
+      "heading": "Défis de conception traditionnels",
+      "items": [
+        "Processus de conception manuel chronophage",
+        "Itérations de design limitées",
+        "Coûts élevés pour les freelances et les logiciels de design",
+        "Nécessité de compétences en design étendues",
+        "Qualité de design incohérente à travers les produits"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed AI",
+      "items": [
+        "Générez instantanément des motifs uniques en moins d'une minute",
+        "Aucune compétence en design requise - Il suffit d'entrer vos idées",
+        "Variations et styles illimités à explorer",
+        "Scalable pour un nombre quelconque de designs",
+        "Tarification économique adaptée aux entreprises"
+      ],
+      "tryText": "Essayer"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment ça marche",
+    "description": "Créez des motifs distinctifs en 4 étapes simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Entrez votre idée",
+        "text": "Décrivez le style ou le thème que vous souhaitez pour vos motifs",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Sélectionnez la palette de couleurs",
+        "text": "Choisissez les couleurs qui correspondent le mieux à votre marque ou à votre projet",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Options de personnalisation",
+        "text": "Affinez la complexité et la texture de vos motifs",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Téléchargez votre motif",
+        "text": "Recevez des motifs haute résolution prêts à être produits",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Générez votre premier motif →"
+  },
+  "endlessPossibilities": {
+    "heading": "Opportunités de design infinies",
+    "description": "Idéal pour chaque projet créatif",
+    "items": [
+      "Designs de tissu de mode pour vêtements",
+      "Textiles de décoration intérieure",
+      "Motifs de literie et de rembourrage",
+      "Papiers peints uniques",
+      "Designs de surfaces créatives pour des produits",
+      "Options textiles écologiques",
+      "Motifs personnalisés pour des événements",
+      "Projets artistiques et loisirs créatifs"
+    ]
+  },
+  "successStories": {
+    "heading": "Vraies histoires de succès",
+    "description": "Découvrez comment les marques redéfinissent leurs designs avec l'IA",
+    "items": [
+      {
+        "tag": "Industrie de la mode",
+        "heading": "Ligne de vêtements innovante",
+        "before": {
+          "label": "Avant",
+          "text": "Cycles de design longs"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Génération de motifs instantanée"
+        },
+        "value": "98%",
+        "key": "Efficacité temporelle",
+        "description": "Nous avons pu lancer notre nouvelle collection plusieurs semaines avant la date prévue en créant des motifs uniques en quelques minutes."
+      },
+      {
+        "tag": "Articles pour la maison",
+        "heading": "Collection de literie",
+        "before": {
+          "label": "Avant",
+          "text": "Designs standard"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Motifs personnalisés"
+        },
+        "value": "95%",
+        "key": "Originalité du design",
+        "description": "Nos produits se démarquent maintenant avec des motifs exclusifs générés par l'IA, rendant notre marque plus attrayante."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison des modèles IA",
+    "description": "Trouvez les bonnes options pour vos designs de motifs",
+    "items": [
+      "Modèle basique : génération rapide, qualité standard, adapté pour des designs initiaux",
+      "Modèle premium : qualité améliorée et complexité de motifs pour des besoins avancés",
+      "Contrôle des couleurs pour les meilleurs résultats selon les exigences de la marque",
+      "Temps de génération rapide pour des tests de prototypes rapides",
+      "Droits d'utilisation commerciale inclus pour tous les motifs générés"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils AI connexes",
+    "description": "Découvrez plus d'outils de design innovants pour les créatifs"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quel type de designs puis-je créer avec le générateur de motifs ?",
+        "answer": "Vous pouvez créer une large gamme de motifs textiles y compris floraux, géométriques, abstraits et thématiques parfaits pour la mode, les intérieurs et les projets artistiques."
+      },
+      {
+        "question": "Comment puis-je m'assurer que les motifs sont uniques ?",
+        "answer": "Chaque motif est généré en fonction de votre entrée, permettant pratiquement des variations illimitées. Vous pouvez personnaliser les couleurs et les styles pour une originalité complète."
+      },
+      {
+        "question": "Quels formats de fichiers sont disponibles pour les motifs générés ?",
+        "answer": "Les motifs sont disponibles dans divers formats y compris JPEG, PNG et fichiers vectoriels adaptés pour l'impression et une utilisation numérique."
+      },
+      {
+        "question": "Puis-je modifier les motifs générés ?",
+        "answer": "Oui ! Une fois que vous téléchargez les motifs, vous pouvez utiliser des logiciels de design graphique pour les modifier selon vos projets spécifiques."
+      },
+      {
+        "question": "Y a-t-il une limite au nombre de motifs que je peux générer ?",
+        "answer": "Non, vous pouvez générer autant de motifs que vous en avez besoin, ce qui le rend évolutif pour de petits projets ou de grandes collections."
+      },
+      {
+        "question": "Comment fonctionne la tarification pour la génération de motifs ?",
+        "answer": "WaveSpeed utilise un modèle de paiement à l'utilisation, vous permettant de ne payer que pour les motifs que vous générez, ce qui le rend économique et flexible."
+      },
+      {
+        "question": "Dans combien de temps puis-je m'attendre à recevoir mes motifs ?",
+        "answer": "La génération de motifs est généralement instantanée, vous permettant de commencer votre processus de design sans délais."
+      },
+      {
+        "question": "Y a-t-il des droits d'utilisation dont je dois être conscient ?",
+        "answer": "Oui ! Tous les motifs générés sont accompagnés de droits commerciaux complets, vous donnant la liberté totale de les utiliser pour vos projets."
+      },
+      {
+        "question": "Quel support est disponible si j'ai besoin d'aide ?",
+        "answer": "Notre équipe de support est là pour vous assister avec toutes vos questions par email ou chat, s'assurant que vous avez toutes les ressources nécessaires pour réussir."
+      },
+      {
+        "question": "Les entreprises peuvent-elles utiliser l'outil pour des besoins de design en gros ?",
+        "answer": "Absolument ! L'outil est parfait pour les entreprises qui nécessitent un grand volume de motifs uniques et offre des options de génération en lot efficaces."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à commencer à créer des motifs uniques ?",
+    "description": "Inscrivez-vous maintenant et explorez votre créativité avec des crédits gratuits",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Essayez-le maintenant →"
+  },
+  "footer": {
+    "heading": "Transformez votre processus de design aujourd'hui !",
+    "description": "Essayez WaveSpeed AI maintenant et constatez par vous-même la facilité de générer des motifs époustouflants. Aucune inscription requise.",
+    "ctaText": "Créez des motifs maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

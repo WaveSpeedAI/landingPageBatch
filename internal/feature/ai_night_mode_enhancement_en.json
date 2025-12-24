@@ -1,0 +1,230 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Night Mode Enhancement",
+  "meta": {
+    "description": "Elevate your photos with stunning night mode effects using AI. Optimize low-light images for e-commerce and social media. Experience the difference with WaveSpeed's innovative technology!",
+    "keywords": "AI Night Mode, low-light image enhancement, photo editing AI, e-commerce image optimization, night photography, social media photo enhancement, automated image processing, WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "AI Night Mode Enhancement",
+    "subHeading": "Transform Your Low-Light Images Instantly",
+    "description": "Enhance your images captured in low-light conditions with our AI Night Mode Enhancement. Perfect for showcasing your products and captivating your audience. Elevate your visuals effortlessly. Try it now!",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Night Mode Enhancement Solution",
+    "left": {
+      "heading": "Traditional Challenges",
+      "items": [
+        "Low-quality photos in dim lighting",
+        "Time-consuming manual edits",
+        "Complex software required for enhancements",
+        "Inconsistent results across images",
+        "High costs for professional editing services"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Instant enhancement of low-light photos",
+        "No technical skills needed - Just upload your images",
+        "AI-driven results with consistent quality",
+        "Unlimited adjustments and variations available",
+        "Affordable pricing with no hidden fees"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Enhance your images in 4 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Image",
+        "text": "Upload your low-light photo for enhancement",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Select Enhancements",
+        "text": "Choose the desired enhancements like brightness and contrast",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Preview Changes",
+        "text": "See a real-time preview of your enhanced image",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Image",
+        "text": "Get your enhanced photo ready for use in minutes",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Enhance Your First Image →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Transform any image into a stunning visual under low light",
+    "items": [
+      "E-commerce product photos for better visibility",
+      "Social media posts that stand out at night",
+      "Marketing visuals for nightlife events",
+      "Before/after comparisons for dramatic effect",
+      "Artistic photography enhancements",
+      "Real estate night shots for impactful listings",
+      "Food photography with vibrant colors",
+      "Fashion photography under nighttime lighting"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how AI Night Mode is changing the game for businesses",
+    "items": [
+      {
+        "tag": "Photography",
+        "heading": "E-commerce Night Shoot Enhancements",
+        "before": {
+          "label": "Before",
+          "text": "Dull and unimpressive"
+        },
+        "after": {
+          "label": "After",
+          "text": "Vibrant and eye-catching"
+        },
+        "value": "95%",
+        "key": "Improvement in Appeal",
+        "description": "Our night mode enhancements boosted product appeal, leading to a 30% increase in conversion rates overnight."
+      },
+      {
+        "tag": "Real Estate",
+        "heading": "Luxury Listings with Night Enhancements",
+        "before": {
+          "label": "Before",
+          "text": "Poor visibility"
+        },
+        "after": {
+          "label": "After",
+          "text": "Stunning night visuals"
+        },
+        "value": "90%",
+        "key": "Increase in Inquiries",
+        "description": "Polished night visuals transformed our listings, garnering 50% more inquiries from potential buyers."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Model Comparison",
+    "description": "Select the best settings for your night mode enhancements",
+    "items": [
+      "Standard Mode: Balanced adjustments for general night shots",
+      "Expert Mode: Advanced tweaks for professional results",
+      "Real-time enhancement feedback during processing",
+      "Predictive adjustments based on photo specifics",
+      "1-2 minute processing time",
+      "Full rights to use enhanced images commercially"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Discover more innovative AI tools for photography"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "How does AI Night Mode Enhancement work?",
+        "answer": "Our AI analyzes your low-light images and applies advanced algorithms to enhance brightness, contrast, and colors, providing a striking visual output that looks professional."
+      },
+      {
+        "question": "What types of images benefit most from this feature?",
+        "answer": "Photos taken in low-light conditions, such as events, nighttime outdoor photos, and indoor shots in dim lighting, gain the most from our Night Mode Enhancement."
+      },
+      {
+        "question": "Can I customize the enhancement settings?",
+        "answer": "Yes! You can choose different enhancement levels and parameters to suit your specific needs and preferences while previewing changes in real-time."
+      },
+      {
+        "question": "Is it easy to use for beginners?",
+        "answer": "Absolutely! The process is user-friendly, designed for anyone to upload images and obtain stunning results without prior editing experience."
+      },
+      {
+        "question": "What image formats are supported for enhancement?",
+        "answer": "We support various formats including JPG, PNG, and TIFF. Ensure your images are high-quality for the best results."
+      },
+      {
+        "question": "Are there any limitations on the number of images I can enhance?",
+        "answer": "No! You can enhance multiple images at once, and our AI handles batch processing efficiently."
+      },
+      {
+        "question": "Do I have full commercial rights to the enhanced images?",
+        "answer": "Yes! All images enhanced through our service come with full commercial rights, allowing you to use them freely in any projects."
+      },
+      {
+        "question": "What if I encounter issues using the tool?",
+        "answer": "We provide extensive resources including tutorials, FAQs, and a dedicated support team to assist you with any challenges."
+      },
+      {
+        "question": "How can I track the changes made to my images?",
+        "answer": "You'll see a clear before-and-after comparison for every image enhancement, allowing you to assess the impact of the adjustments made."
+      },
+      {
+        "question": "Is there a subscription fee for using night mode enhancements?",
+        "answer": "No! Our pricing is straightforward and based on the images you enhance, with no recurring fees."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Enhance Your Images?",
+    "description": "Start with free credits and discover the magic of AI Night Mode Enhancement",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Transform Your Low-Light Photos Now!",
+    "description": "Experience the power of AI Night Mode Enhancement with WaveSpeed. No sign-up required.",
+    "ctaText": "Enhance Photos Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

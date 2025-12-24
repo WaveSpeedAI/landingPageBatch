@@ -1,0 +1,214 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - 视频分割器",
+  "meta": {
+    "description": "使用先进的 AI 技术轻松将长视频分割成可分享的片段。非常适合社交媒体、营销和内容创作。今天就开始增强您的视频策略！",
+    "keywords": "视频分割器, AI 视频编辑, 视频自动化, 社交媒体片段, 内容创作, 视频营销, 视频编辑工具, WaveSpeed AI, 视频管理, 电子商务视频工具, 视频分享, 视频内容策略"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI 工具",
+        "items": [
+          [
+            "AI 工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即试用"
+  },
+  "hero": {
+    "heading": "视频分割器",
+    "subHeading": "将长视频转换为引人入胜的片段",
+    "description": "轻松将冗长视频分割为适合社交媒体和营销的短片段。利用 AI 驱动的精准最大化参与度和覆盖范围。今天就开始分割您的视频！",
+    "tryText": "立即试用",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI 视频分割器解决方案",
+    "left": {
+      "heading": "传统视频编辑的挑战",
+      "items": [
+        "耗时的编辑过程",
+        "需要昂贵的软件和技能",
+        "手动剪切和修剪繁琐",
+        "定制片段的输出选项有限",
+        "编辑过程可能导致视频质量损失"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI 解决方案",
+      "items": [
+        "在几秒钟内自动分割视频",
+        "无需编辑技能 - 只需上传视频",
+        "为社交分享量身定制的即时结果",
+        "使用预设持续时间自定义片段",
+        "提供具有使用积分的经济实惠订阅"
+      ],
+      "tryText": "尝试"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "通过三个简单步骤高效分割您的视频",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传视频",
+        "text": "将视频文件添加到平台",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "设置分割点",
+        "text": "选择要创建的片段的具体时间戳",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "下载片段",
+        "text": "获取准备分享的高质量视频片段",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "生成您的第一个片段 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无限可能性",
+    "description": "适用于各种内容策略",
+    "items": [
+      "创建促销视频片段",
+      "可分享的社交媒体片段",
+      "演示的精彩集锦",
+      "教程和演示片段",
+      "活动回顾视频",
+      "客户推荐片段",
+      "网红合作片段",
+      "直播精彩片段"
+    ]
+  },
+  "successStories": {
+    "heading": "真实的成功故事",
+    "description": "发现品牌如何利用 AI 优化其视频内容",
+    "items": [
+      {
+        "tag": "时尚零售",
+        "heading": "快速广告片段",
+        "before": {
+          "label": "之前",
+          "text": "编辑需要 5 小时"
+        },
+        "after": {
+          "label": "之后",
+          "text": "每个片段仅需 5 分钟"
+        },
+        "value": "83%",
+        "key": "时间减少",
+        "description": "我们转变了广告策略，提高了社交媒体的参与度 60%。"
+      },
+      {
+        "tag": "科技初创公司",
+        "heading": "产品发布视频",
+        "before": {
+          "label": "之前",
+          "text": "昂贵的服务"
+        },
+        "after": {
+          "label": "之后",
+          "text": "经济实惠的内部制作"
+        },
+        "value": "90%",
+        "key": "成本节约",
+        "description": "借助分割功能，我们可以快速为发布创建多个片段，轻松提升我们的覆盖率。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI 模型比较",
+    "description": "为您的分割需求选择合适的功能",
+    "items": [
+      "自动剪切：在精确的时间戳处无缝划分长视频",
+      "为各种社交平台动态生成剪辑",
+      "用户友好的界面以实现直观编辑",
+      "批处理一次处理多个视频",
+      "针对每个社交媒体平台的定制导出选项"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关 AI 工具",
+    "description": "探索更多强大的 AI 工具以增强视频"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要知道的一切",
+    "items": [
+      {
+        "question": "支持哪些视频格式进行分割？",
+        "answer": "我们支持最常见的视频格式，包括 MP4、AVI 和 MOV，确保您的文件可以轻松上传和处理，不会有麻烦。"
+      },
+      {
+        "question": "我可以将视频分割成自定义长度吗？",
+        "answer": "当然可以！您可以为片段指定确切的时间戳，允许量身定制符合您营销需求的片段。"
+      },
+      {
+        "question": "我上传的视频长度有限制吗？",
+        "answer": "我们的平台可以处理最长为 60 分钟的视频以进行分割，为各种内容类型提供灵活性。"
+      },
+      {
+        "question": "分割视频需要多长时间？",
+        "answer": "视频分割是即时的！具体取决于视频的长度和复杂性，您可以期待在几秒钟内准备好片段。"
+      },
+      {
+        "question": "创建后可以重新编辑片段吗？",
+        "answer": "是的，您可以随时查看您的分割视频并创建新版本或根据需要调整现有片段。"
+      },
+      {
+        "question": "每个生成的片段有收费吗？",
+        "answer": "我们的定价基于按需付费模型，这意味着您只需为处理的片段付费，预算友好。"
+      },
+      {
+        "question": "是否有移动版本？",
+        "answer": "目前，我们的平台已优化用于桌面使用，但我们正在考虑未来更新的移动功能。"
+      },
+      {
+        "question": "WaveSpeed 提供何种支持？",
+        "answer": "WaveSpeed 提供全面的客户支持，包括文档、教程以及通过聊天和电子邮件进行的直接协助，满足您的所有询问。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备分割您的第一个视频吗？",
+    "description": "利用免费积分 - 立即体验方便",
+    "contactUsText": "联系我们",
+    "tryText": "立即试用 →"
+  },
+  "footer": {
+    "heading": "准备好转变您的视频了吗？",
+    "description": "立即体验 WaveSpeed AI，增强您的内容策略。无需注册。",
+    "ctaText": "立即分割视频",
+    "text": "© 2025 WaveSpeed AI。保留所有权利。"
+  }
+}

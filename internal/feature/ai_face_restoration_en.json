@@ -1,0 +1,222 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Face Restoration",
+  "meta": {
+    "description": "Enhance and restore facial images with AI technology. Utilizing advanced algorithms, WaveSpeed AI transforms low-quality images into stunning portraits that reflect true beauty. Ideal for photography, social media, and professional use. Discover the magic today!",
+    "keywords": "AI face restoration, image enhancement, portrait restoration, facial image improvement, beauty enhancement, AI photo editor, high-quality portraits, social media image improvement, professional photo restoration, restore images with AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Face Restoration Made Easy",
+    "subHeading": "Revitalize Your Images with AI Precision",
+    "description": "Transform blurry or damaged facial images into vibrant and detailed portraits in seconds. Perfect for enhancing photos for social media, professional portfolios, and more. Experience the power of AI-driven restoration.",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Face Restoration Solution",
+    "left": {
+      "heading": "Traditional Image Restoration Challenges",
+      "items": [
+        "Manual restoration is time-consuming and expensive",
+        "Requires extensive editing skills and software",
+        "Inconsistent results from different techniques",
+        "Limited effectiveness on low-resolution images",
+        "Not scalable for bulk image processing"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI Solution",
+      "items": [
+        "Instantly enhance and restore faces in seconds",
+        "No editing experience needed - Just upload images",
+        "Consistent, high-quality results powered by AI",
+        "Works on various photo qualities and formats",
+        "Affordable pay-as-you-go pricing suitable for all"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Restore facial images with 4 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Image",
+        "text": "Select your facial image for enhancement",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Choose Restoration Level",
+        "text": "Select the degree of enhancement you need (mild to extreme)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Review & Adjust",
+        "text": "Preview the restoration and make adjustments if needed",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Enhanced Image",
+        "text": "Receive your restored portrait with commercial rights in moments",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Restore Your First Image →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Restoration Possibilities",
+    "description": "Ideal for various applications and users",
+    "items": [
+      "Personal photo enhancement for social media",
+      "Professional photography portfolio upgrades",
+      "Restoration of historical or cherished family photos",
+      "Image improvement for marketing materials",
+      "Enhancing images for online dating profiles",
+      "Reviving old pictures for anniversaries and events",
+      "Custom artworks that need facial touch-ups",
+      "Before/after transformations for testimonials"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how users are transforming their images with AI",
+    "items": [
+      {
+        "tag": "Photography Professionals",
+        "heading": "Wedding Photography Enhancements",
+        "before": {
+          "label": "Before",
+          "text": "Blurry Images"
+        },
+        "after": {
+          "label": "After",
+          "text": "Stunning Clarity"
+        },
+        "value": "95%",
+        "key": "Quality Improvement",
+        "description": "We restored 100 wedding images within hours, dramatically increasing client satisfaction."
+      },
+      {
+        "tag": "Social Media Influencers",
+        "heading": "Instagram Profile Revamps",
+        "before": {
+          "label": "Before",
+          "text": "Low Engagement"
+        },
+        "after": {
+          "label": "After",
+          "text": "Increased Followers"
+        },
+        "value": "80%",
+        "key": "Engagement Boost",
+        "description": "Transformed profile pictures led to a significant rise in new followers and engagement."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Restoration Model Comparison",
+    "description": "Select the right model for your restoration needs",
+    "items": [
+      "Basic Restore: Quick enhancement for minor imperfections",
+      "Advanced Restore: High-quality refining for detailed portraits",
+      "Extreme Restore: Deep restoration for severely damaged images",
+      "Custom Filters for personalized looks",
+      "User-friendly adjustment features for precision",
+      "Commercial rights included with all models"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore additional powerful AI tools for image enhancement"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What kind of images can I restore?",
+        "answer": "You can restore any facial images, including personal photos, professional headshots, and scanned images. The AI functions best on clear, well-lit images but can also improve lower-quality pictures."
+      },
+      {
+        "question": "How are restored images different from traditional editing?",
+        "answer": "Our AI offers rapid, consistent results that retain natural facial features, unlike traditional methods that may lead to over-editing or unrealistic looks."
+      },
+      {
+        "question": "Can I adjust the intensity of the restoration?",
+        "answer": "Yes! You can select different levels of enhancement, from subtle improvements to dramatic restorations, ensuring the result matches your vision."
+      },
+      {
+        "question": "Is there a limit to how many images I can process?",
+        "answer": "No, you can restore multiple images at once. Our platform allows batch processing for efficient use, saving you time."
+      },
+      {
+        "question": "What file types do you support for uploads?",
+        "answer": "We support various formats including JPG, PNG, and TIFF. Ensure your images are clear for optimal results."
+      },
+      {
+        "question": "How long does the restoration process take?",
+        "answer": "The restoration usually takes just a few seconds. You'll receive results quickly so you can proceed with your projects without delay."
+      },
+      {
+        "question": "Do I get commercial rights for the restored images?",
+        "answer": "Absolutely! All restored images come with full commercial usage rights without additional fees."
+      },
+      {
+        "question": "What support options are available for troubleshooting?",
+        "answer": "We provide comprehensive support via documentation, tutorials, and live chat. Our dedicated team is ready to assist within 24 hours for any issues."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Revitalize Your Images?",
+    "description": "Start with free credits - Experience the transformation yourself",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Transform Your Photos Now!",
+    "description": "Harness WaveSpeed AI to enhance your images. No sign-up required.",
+    "ctaText": "Restore Faces Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

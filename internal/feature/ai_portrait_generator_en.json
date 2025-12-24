@@ -1,0 +1,226 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Portrait Generator",
+  "meta": {
+    "description": "Create stunning, high-quality AI-generated portraits that reflect your unique style. Leverage cutting-edge AI technology to unleash your creativity and produce captivating artworks in moments. Ideal for artists, social media influencers, and marketers. Experience the future of digital artistry!",
+    "keywords": "AI portrait generator, AI artwork creator, digital portrait tool, custom portraits, artistic AI, photo to portrait AI, WaveSpeed AI, instant artwork, branding visuals, social media art, creative digital solutions"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Portrait Generation Made Easy",
+    "subHeading": "Transform Your Photos into Beautiful AI Portraits",
+    "description": "Create breathtaking portraits from your images in just minutes. No artistic skills required. With our advanced AI technology, unleash your creativity and personalize your artwork effortlessly.",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Portrait Generator Solution",
+    "left": {
+      "heading": "Traditional Portrait Challenges",
+      "items": [
+        "Expensive commissions ($500-2000 per portrait)",
+        "Requires artistic skills and tools",
+        "Long turnaround time (weeks)",
+        "Limited styles and adaptations",
+        "High barrier for entry for aspiring artists"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Generate stunning portraits in 1-5 minutes from your photos",
+        "No artistic skills required - Just upload your image",
+        "Instant results with AI-powered artistry",
+        "Unlimited styles and iterations available",
+        "Affordable pricing with pay-as-you-go options"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Create your AI Portrait in 4 easy steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Photo",
+        "text": "Upload your favorite photo to be transformed",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Choose Style",
+        "text": "Select an artistic style for your portrait (e.g., classic, modern, abstract)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Customize Features",
+        "text": "Adjust details like color palette and facial features to your liking",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Portrait",
+        "text": "Receive your AI-generated portrait in high resolution",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Generate Your First Portrait →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Transform any image into a work of art",
+    "items": [
+      "Personalized profile pictures for social media",
+      "Artwork for marketing campaigns",
+      "Custom illustrations for branding",
+      "Unique gifts and memorabilia",
+      "Stylized avatars for gaming",
+      "Creative visuals for websites",
+      "Artistic prints for home decor",
+      "Business branding visuals"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Explore how individuals are boosting their creativity with AI portraits",
+    "items": [
+      {
+        "tag": "Social Media Personality",
+        "heading": "Instagram Art Profile",
+        "before": {
+          "label": "Before",
+          "text": "Basic photos"
+        },
+        "after": {
+          "label": "After",
+          "text": "Stunning AI portraits"
+        },
+        "value": "150%",
+        "key": "Engagement Increase",
+        "description": "Our followers skyrocketed after switching to AI-generated portraits that capture our unique style."
+      },
+      {
+        "tag": "Startup Founder",
+        "heading": "Custom Branding for Business",
+        "before": {
+          "label": "Before",
+          "text": "Costly designers"
+        },
+        "after": {
+          "label": "After",
+          "text": "Affordable AI portraits"
+        },
+        "value": "90%",
+        "key": "Cost Savings",
+        "description": "With AI, we transformed our brand image at a fraction of the cost. Innovating our marketing strategy!"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Model Comparison",
+    "description": "Select the right style for your portrait needs",
+    "items": [
+      "Classic Portrait: Timeless style with photorealistic results",
+      "Modern Art: Bold colors and contemporary design",
+      "Abstract Portrait: Unique patterns and artistic flair",
+      "Custom Styles: Tailor your portrait with unique features",
+      "Speed Options: Quick generation for timely needs",
+      "Commercial Rights: Complete usage rights for your creations"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Discover more innovative AI tools for your creative projects"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What types of images work best for portrait generation?",
+        "answer": "Clear, high-resolution images with good lighting yield the best results. We recommend using images that focus on the face and avoid busy backgrounds for optimal output."
+      },
+      {
+        "question": "Can I modify my portraits after generation?",
+        "answer": "Yes! You can make edits to fine-tune aspects of your portrait or regenerate using different styles to achieve your desired look."
+      },
+      {
+        "question": "What formats can I upload for portraits?",
+        "answer": "We support JPG, PNG, and WebP formats. Ensure images are well-lit and at least 512x512 pixels for best quality."
+      },
+      {
+        "question": "How long does it take to generate a portrait?",
+        "answer": "Generation usually takes between 1 to 5 minutes depending on the complexity of the chosen style and customization."
+      },
+      {
+        "question": "Are there any usage rights for the portraits generated?",
+        "answer": "Absolutely! All generated portraits come with full commercial rights, allowing you to use them for personal or business purposes without extra fees."
+      },
+      {
+        "question": "What are the best use cases for AI portraits?",
+        "answer": "Ideal for social media profiles, marketing materials, branding, and any creative project where personalized artwork is desired."
+      },
+      {
+        "question": "Do I need special skills to create portraits?",
+        "answer": "No! The AI tool is designed for everyone, regardless of artistic skill. Just upload, select, and customize to create your unique portrait."
+      },
+      {
+        "question": "How can I provide feedback if something goes wrong?",
+        "answer": "We have a robust support system in place; please reach out through our contact options for assistance, and we’ll help resolve any issues."
+      },
+      {
+        "question": "What payment options are available for the service?",
+        "answer": "We offer flexible pay-as-you-go pricing with no hidden fees. Enjoy the freedom to pay only for the portraits you create."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Create Your First AI Portrait?",
+    "description": "Start with free credits - Unleash your creativity now",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Ready to Transform Your Photos?",
+    "description": "Try WaveSpeed AI now and see the difference for yourself. No sign-up required.",
+    "ctaText": "Generate Your Portrait Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

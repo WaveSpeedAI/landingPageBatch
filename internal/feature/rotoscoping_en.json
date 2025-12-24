@@ -1,0 +1,230 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Rotoscoping Feature",
+  "meta": {
+    "description": "Revolutionize your video editing with AI-powered rotoscoping. Effortlessly create stunning animations and visual effects in minutes. Ideal for filmmakers and content creators. Explore the future of video editing with WaveSpeed!",
+    "keywords": "AI rotoscoping, video editing AI, animation creation, visual effects generator, WaveSpeed rotoscoping, creative video tools, film production automation, content creation software, seamless animation, video production efficiency"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Advanced Rotoscoping",
+    "subHeading": "Seamless Animation Creation at Your Fingertips",
+    "description": "Transform your videos with precision by isolating elements with our AI-driven rotoscoping. Create captivating animations and visual effects effortlessly. Experience the power of automated rotoscoping today!",
+    "tryText": "Get Started Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI Rotoscoping Solution",
+    "left": {
+      "heading": "Traditional Challenges",
+      "items": [
+        "Time-consuming manual masking",
+        "Requires advanced skills and software",
+        "Expensive equipment and software licenses",
+        "Struggles with complex backgrounds",
+        "Limited creative flexibility"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI Solution",
+      "items": [
+        "Instant masking and object isolation",
+        "User-friendly interface for all skill levels",
+        "Affordable pay-per-use model",
+        "Handles intricate backgrounds effortlessly",
+        "Boost creativity with endless possibilities"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "From static scenes to dynamic animations in 4 easy steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Video",
+        "text": "Upload your footage that requires rotoscoping",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Select Elements",
+        "text": "Choose the subjects or objects to isolate",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Refine Edges",
+        "text": "Adjust the masking edges for smooth transitions",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Animation",
+        "text": "Get your animated clip ready for use within minutes",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Create Your First Rotoscope Video →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Perfect for filmmakers, artists, and content creators",
+    "items": [
+      "Character animation for short films",
+      "Visual effects integration in live-action footage",
+      "Creative commercials and ads",
+      "Educational animations",
+      "Music video effects",
+      "Video game cinematics",
+      "Social media content with style",
+      "Virtual reality experiences"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "See how creatives are transforming their projects with AI",
+    "items": [
+      {
+        "tag": "Film Production",
+        "heading": "Independent Short Film",
+        "before": {
+          "label": "Before",
+          "text": "3 weeks"
+        },
+        "after": {
+          "label": "After",
+          "text": "2 hours"
+        },
+        "value": "99.9%",
+        "key": "Time Saved",
+        "description": "We completed the entire animation sequence for our short film in a fraction of the time. The visuals are stunning!"
+      },
+      {
+        "tag": "Marketing Agencies",
+        "heading": "Product Advertisement",
+        "before": {
+          "label": "Before",
+          "text": "8100"
+        },
+        "after": {
+          "label": "After",
+          "text": "800"
+        },
+        "value": "90%",
+        "key": "Cost Reduction",
+        "description": "Rotoscoping helped us cut costs significantly while maintaining high-quality animations that captivated our audience."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Rotoscoping Tool Comparison",
+    "description": "Choose the best approach for your projects",
+    "items": [
+      "Standard Rotoscoping: Manual processes, labor-intensive, high skill requirement",
+      "AI Rotoscoping: Instant object isolation, easy adjustments, fast turnaround",
+      "Customizable masks with natural movements",
+      "Seamless integration with video editing software",
+      "Enhanced creativity with rapid iterations",
+      "Supports various video formats for diverse applications"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Discover more innovative AI solutions for creators"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What video formats are compatible for rotoscoping?",
+        "answer": "We support all major video formats including MP4, AVI, and MOV. Ensure your videos are clear and with good lighting for optimal results."
+      },
+      {
+        "question": "How accurate is the AI in masking objects?",
+        "answer": "Our AI offers precision masking capabilities, often achieving frame-perfect isolation. Adjustments can be made manually for perfect results."
+      },
+      {
+        "question": "Can I use the animations commercially?",
+        "answer": "Yes! All animations created through WaveSpeed Studio come with full commercial rights. Use them for marketing, films, and more."
+      },
+      {
+        "question": "What if I've never done rotoscoping before?",
+        "answer": "No problem! Our user-friendly interface makes it easy for beginners, with tutorials and guidelines available to help you along."
+      },
+      {
+        "question": "How long until my animated clips are ready?",
+        "answer": "Typically, processing takes only minutes, depending on the length and complexity of the video."
+      },
+      {
+        "question": "Is there customer support available?",
+        "answer": "Absolutely! We provide detailed documentation, video tutorials, and customer support via chat and email to assist you."
+      },
+      {
+        "question": "Can I edit my clips after rotoscoping?",
+        "answer": "Yes, after exporting your animations, you can further edit them in any major video editing software."
+      },
+      {
+        "question": "What pricing options are available for rotoscoping?",
+        "answer": "We offer a flexible pay-as-you-go pricing model, charging only for the videos you generate, no hidden fees."
+      },
+      {
+        "question": "Are there any limitations on the number of videos I can create?",
+        "answer": "There are no limits! You can create as many rotoscoped videos as you need at any time."
+      },
+      {
+        "question": "What industries can benefit from AI rotoscoping?",
+        "answer": "AI rotoscoping is useful in film, advertising, education, gaming, and social media, revolutionizing how visuals are created."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Transform Your Videos with Rotoscoping?",
+    "description": "Start for free and bring your creative visions to life!",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Ready to Enhance Your Videos?",
+    "description": "Experience the power of AI rotoscoping with WaveSpeed. No signup necessary.",
+    "ctaText": "Start Rotoscoping Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

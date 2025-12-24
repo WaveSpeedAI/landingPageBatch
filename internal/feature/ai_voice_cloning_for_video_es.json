@@ -1,0 +1,222 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Clonación de Voz AI para Video",
+  "meta": {
+    "description": "Revoluciona el contenido de video con clonación de voz AI. Mejora la narrativa, involucra a las audiencias y simplifica la producción. Perfecto para creadores y marketers. ¡Experimenta el futuro del video hoy!",
+    "keywords": "clonación de voz AI, voz en off para video, tecnología de voz sintética, audio para video, herramientas de producción de video, soluciones de video marketing, mejora de voz, creación de contenido, herramientas de narrativa, WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas AI",
+        "items": [
+          [
+            "Herramientas AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Muestra",
+        "items": [
+          [
+            "Muestra",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruebalo ahora"
+  },
+  "hero": {
+    "heading": "Clonación de Voz para Video",
+    "subHeading": "Dale una Voz a tus Visuales con un Realismo Impresionante",
+    "description": "Eleva tu contenido de video con tecnología avanzada de clonación de voz AI. Transforma guiones en audio realista, mejorando la participación de la audiencia y la narrativa. ¡Comienza hoy con opciones de voz inigualables!",
+    "tryText": "Pruebalo Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución de Clonación de Voz AI de WaveSpeed AI para Video",
+    "left": {
+      "heading": "Desafíos Tradicionales",
+      "items": [
+        "La producción de voz en off puede ser costosa ($100-1000 por proyecto)",
+        "Requiere un estudio de grabación profesional y equipo",
+        "Edición de audio que consume tiempo (1-3 días)",
+        "Opciones de voz limitadas y personalización",
+        "Alta inversión para creadores pequeños"
+      ]
+    },
+    "right": {
+      "heading": "Solución WaveSpeedAI",
+      "items": [
+        "Crea voces en off en minutos a partir de guiones de texto",
+        "No se requiere estudio ni equipo - Solo escribe tu guion",
+        "Voces de alta calidad y realistas con rango emocional",
+        "Personalización y variaciones de voz ilimitadas",
+        "Precios flexibles - Accesible para todos"
+      ],
+      "tryText": "Probar"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "De guion a audio en 4 pasos simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Ingresar Texto",
+        "text": "Introduce tu guion de video o texto de narración",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Seleccionar Voz",
+        "text": "Elige una voz que coincida con el tono de tu video",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Ajustar Configuraciones",
+        "text": "Opcional: Modifica la velocidad, tono y emoción de la voz",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Descargar Audio",
+        "text": "Obtén audio de alta calidad listo para sincronizar con tu video",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Genera tu Primer Audio →"
+  },
+  "endlessPossibilities": {
+    "heading": "Posibilidades Infinitas",
+    "description": "Ideal para diversos proyectos creativos",
+    "items": [
+      "Narración para videos de YouTube",
+      "Voz en off para cursos en línea",
+      "Podcasting y contenido de audio",
+      "Videos de entrenamiento corporativo",
+      "Contenido de marketing y promoción",
+      "Narrativas en redes sociales",
+      "Producción de audiolibros",
+      "Diálogos de personajes de videojuegos"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Descubre cómo los creadores mejoran sus proyectos con la clonación de voz AI",
+    "items": [
+      {
+        "tag": "Plataforma de E-Learning",
+        "heading": "Narración de Cursos en Línea",
+        "before": {
+          "label": "Antes",
+          "text": "500 horas"
+        },
+        "after": {
+          "label": "Después",
+          "text": "30 minutos"
+        },
+        "value": "99.4%",
+        "key": "Tiempo Ahorrado",
+        "description": "Transformamos nuestro proceso de creación de cursos, reduciendo significativamente el tiempo mientras mantenemos una alta calidad de producción."
+      },
+      {
+        "tag": "Agencia de Marketing",
+        "heading": "Videos de Promoción de Productos",
+        "before": {
+          "label": "Antes",
+          "text": "$800 por video"
+        },
+        "after": {
+          "label": "Después",
+          "text": "$50 por video"
+        },
+        "value": "93.8%",
+        "key": "Reducción de Costos",
+        "description": "Nuestros videos promocionales ahora presentan voces en off personalizadas sin romper el banco, resultando en una mayor participación."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Modelos de Clonación de Voz AI",
+    "description": "Selecciona la síntesis de voz adecuada para tus proyectos",
+    "items": [
+      "Voz Estándar: Sonido claro y natural para la mayoría de las aplicaciones",
+      "Voz con emociones: Tonos expresivos para la narrativa y la participación",
+      "Soporte multilingüe para alcance global",
+      "Velocidad y tono ajustables para una entrega personalizada",
+      "Generación de vista previa en tiempo real",
+      "Derechos de uso comercial incluidos"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas AI Relacionadas",
+    "description": "Explora más herramientas AI innovadoras para tus proyectos"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Cuáles son la calidad y tipos de voces disponibles?",
+        "answer": "Ofrecemos una variedad de voces sintéticas de alta calidad que suenan naturales y atractivas. Los usuarios pueden elegir entre diferentes acentos, géneros y tonos para adaptarse mejor a su contenido."
+      },
+      {
+        "question": "¿Puedo personalizar la voz para que se ajuste a mi estilo de video?",
+        "answer": "¡Absolutamente! Puedes ajustar el tono, la velocidad e incluso el tono emocional para crear la voz en off perfecta que se alinee con el mensaje de tu video."
+      },
+      {
+        "question": "¿En qué formatos puedo exportar las voces en off?",
+        "answer": "El audio generado puede exportarse en múltiples formatos, incluidos MP3 y WAV, para adaptarse a tus necesidades de edición."
+      },
+      {
+        "question": "¿Cómo sincronizo el audio generado con mi video?",
+        "answer": "Puedes importar fácilmente el archivo de audio a tu software de edición de video y alinearlo con tus visuales según sea necesario, lo que hace que sea un proceso fluido."
+      },
+      {
+        "question": "¿Hay límites en la generación de audio?",
+        "answer": "No hay límites estrictos; puedes generar tantos archivos de audio como necesites. Sin embargo, los usuarios de alto volumen pueden beneficiarse de nuestros planes de suscripción."
+      },
+      {
+        "question": "¿Qué sucede si necesito revisiones en el audio?",
+        "answer": "Puedes regenerar audio con entradas modificadas sin costo adicional, lo que permite ajustes fáciles para lograr el resultado deseado."
+      },
+      {
+        "question": "¿Hay una prueba gratuita disponible?",
+        "answer": "¡Sí! Los nuevos usuarios pueden disfrutar de una prueba gratuita que ofrece créditos para probar las capacidades de clonación de voz antes de comprometerse con cualquier compra."
+      },
+      {
+        "question": "¿Qué pasa si encuentro problemas durante la generación de audio?",
+        "answer": "Nuestro equipo de soporte está disponible por correo electrónico y chat en vivo para ayudar con cualquier pregunta o dificultad técnica que puedas experimentar."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Crear tu Primera Voz en Off AI?",
+    "description": "Comienza con créditos gratis - Experimenta la diferencia ahora",
+    "contactUsText": "Contáctanos",
+    "tryText": "Pruebalo Ahora →"
+  },
+  "footer": {
+    "heading": "¿Listo para Mejorar tus Videos?",
+    "description": "Prueba WaveSpeed AI ahora y descubre el poder de la clonación de voz. No se requiere registro.",
+    "ctaText": "Comienza a Clonar Voces Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

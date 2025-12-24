@@ -1,0 +1,222 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Voice Cloning for Video",
+  "meta": {
+    "description": "Revolutionize video content with AI voice cloning. Enhance storytelling, engage audiences, and simplify production. Perfect for creators and marketers. Experience the future of video today!",
+    "keywords": "AI voice cloning, video voiceover, synthetic voice technology, audio for video, video production tools, marketing video solutions, voice enhancement, content creation, storytelling tools, WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Voice Cloning for Video",
+    "subHeading": "Give a Voice to Your Visuals with Stunning Realism",
+    "description": "Elevate your video content with advanced AI voice cloning technology. Transform scripts into lifelike audio, enhancing audience engagement and storytelling. Get started today with unparalleled voice options!",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Voice Cloning for Video Solution",
+    "left": {
+      "heading": "Traditional Challenges",
+      "items": [
+        "Voiceover production can be costly ($100-1000 per project)",
+        "Requires professional recording studio and equipment",
+        "Time-consuming audio editing (1-3 days)",
+        "Limited voice choices and customization",
+        "High investment for small creators"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI Solution",
+      "items": [
+        "Instantly create voiceovers in minutes from text scripts",
+        "No studio or equipment required - Just type your script",
+        "High-quality, realistic voices with emotional range",
+        "Unlimited voice customization and variations",
+        "Flexible pricing - Accessible for all"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "From script to audio in 4 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Input Text",
+        "text": "Enter your video script or narration text",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Select Voice",
+        "text": "Choose a voice that matches your video's tone",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Adjust Settings",
+        "text": "Optional: Modify speed, pitch, and emotion for the voice",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Audio",
+        "text": "Get high-quality audio ready to sync with your video",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Generate Your First Audio →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Ideal for various creative projects",
+    "items": [
+      "Narration for YouTube videos",
+      "Voiceovers for online courses",
+      "Podcasting and audio content",
+      "Corporate training videos",
+      "Marketing and promotional content",
+      "Social media storytelling",
+      "Audiobook production",
+      "Video games character dialogues"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how creators enhance their projects with AI voice cloning",
+    "items": [
+      {
+        "tag": "E-Learning Platform",
+        "heading": "Online Course Narration",
+        "before": {
+          "label": "Before",
+          "text": "500 hours"
+        },
+        "after": {
+          "label": "After",
+          "text": "30 minutes"
+        },
+        "value": "99.4%",
+        "key": "Time Saved",
+        "description": "We transformed our course creation process, significantly reducing time while maintaining high production quality."
+      },
+      {
+        "tag": "Marketing Agency",
+        "heading": "Product Promotion Videos",
+        "before": {
+          "label": "Before",
+          "text": "$800 per video"
+        },
+        "after": {
+          "label": "After",
+          "text": "$50 per video"
+        },
+        "value": "93.8%",
+        "key": "Cost Reduction",
+        "description": "Our promotional videos now feature custom voiceovers without breaking the bank, resulting in higher engagement."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Voice Cloning Model Comparison",
+    "description": "Select the right voice synthesis for your projects",
+    "items": [
+      "Standard Voice: Clear and natural sound for most applications",
+      "Emotion-enabled Voice: Expressive tones for storytelling and engagement",
+      "Multi-language support for global reach",
+      "Adjustable speed and pitch for personalized delivery",
+      "Real-time preview generation",
+      "Commercial usage rights included"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore more innovative AI tools for your projects"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What are the quality and types of voices available?",
+        "answer": "We offer a variety of high-quality synthetic voices that sound natural and engaging. Users can choose from different accents, genders, and tones to best suit their content."
+      },
+      {
+        "question": "Can I customize the voice to suit my video style?",
+        "answer": "Absolutely! You can adjust pitch, speed, and even emotional tone to create the perfect voiceover that aligns with your video's message."
+      },
+      {
+        "question": "What formats can I export the voiceovers in?",
+        "answer": "Generated audio can be exported in multiple formats including MP3 and WAV to suit your editing needs."
+      },
+      {
+        "question": "How do I sync the generated audio with my video?",
+        "answer": "You can easily import the audio file into your video editing software and align it with your visuals as needed, making it a seamless process."
+      },
+      {
+        "question": "Are there limits on audio generation?",
+        "answer": "There are no strict limits; you can generate as many audio files as needed. However, high-volume users may benefit from our subscription plans."
+      },
+      {
+        "question": "What happens if I need revisions on the audio?",
+        "answer": "You can regenerate audio with modified inputs at no extra cost, allowing for easy adjustments to achieve the desired outcome."
+      },
+      {
+        "question": "Is there a free trial available?",
+        "answer": "Yes! New users can enjoy a free trial offering credits to test voice cloning capabilities before committing to any purchases."
+      },
+      {
+        "question": "What if I encounter issues during audio generation?",
+        "answer": "Our support team is available via email and live chat to assist with any questions or technical difficulties you may experience."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Create Your First AI Voiceover?",
+    "description": "Start with free credits - Experience the difference now",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Ready to Enhance Your Videos?",
+    "description": "Try WaveSpeed AI now and discover the power of voice cloning. No sign-up required.",
+    "ctaText": "Start Cloning Voices Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

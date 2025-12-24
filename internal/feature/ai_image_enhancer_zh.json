@@ -1,0 +1,225 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI 图像增强器",
+  "meta": {
+    "description": "使用 WaveSpeed AI 轻松增强您的产品图像。我们的前沿技术提升图像质量、色彩鲜艳度和细节，让您的视觉效果脱颖而出。非常适合电子商务和市场营销使用！",
+    "keywords": "图像增强 AI, 照片增强工具, 产品图像优化器, 图像质量提升, 电子商务图像工具, 图片改善, 视觉营销解决方案, 在线图像编辑器, 专业照片增强, WaveSpeed AI, 社交媒体图像增强"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "主页",
+        "items": [
+          [
+            "主页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI 工具",
+        "items": [
+          [
+            "AI 工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即试用"
+  },
+  "hero": {
+    "heading": "AI 图像增强器",
+    "subHeading": "将您的图像提升到新的水平",
+    "description": "只需点击几下，将您的产品图像转变为令人惊叹的视觉效果。实现鲜艳的色彩、清晰的细节和令人愉悦的外观，无需复杂的编辑软件。立即试用，见证您的图像闪耀！",
+    "tryText": "立即试用",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI 图像增强解决方案",
+    "left": {
+      "heading": "传统图像增强挑战",
+      "items": [
+        "昂贵的专业编辑服务",
+        "需要技术技能和复杂软件",
+        "耗时的过程（几天到几周）",
+        "普通用户的创意选项有限",
+        "小企业的高成本"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI 解决方案",
+      "items": [
+        "使用 AI 技术在几秒钟内增强图像",
+        "用户友好的界面 - 无需专业知识",
+        "轻松一击，获得即时高质量结果",
+        "无限的编辑选项和风格",
+        "实惠的按需付费定价模式"
+      ],
+      "tryText": "试试"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "仅需四个简单步骤即可增强您的图像",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传图像",
+        "text": "选择您想要增强的图像",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "选择增强",
+        "text": "选择所需的增强效果，如色彩提升或细节锐化",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "预览更改",
+        "text": "即时查看应用于您图像的变化",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载增强图像",
+        "text": "以高质量保存您的增强图像，随时可用",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "增强您的第一张图像 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无尽的可能性",
+    "description": "适用于任何图像增强需求",
+    "items": [
+      "电子商务产品图像",
+      "社交媒体帖子和广告",
+      "网站图形",
+      "营销材料和小册子",
+      "创意专业人士的作品集图像",
+      "活动摄影增强",
+      "房地产列表",
+      "食品摄影"
+    ]
+  },
+  "successStories": {
+    "heading": "真实的成功案例",
+    "description": "发现企业如何利用 AI 增强他们的视觉效果",
+    "items": [
+      {
+        "tag": "电子商务",
+        "heading": "时尚零售商",
+        "before": {
+          "label": "之前",
+          "text": "低质量视觉效果"
+        },
+        "after": {
+          "label": "之后",
+          "text": "令人惊叹的产品图像"
+        },
+        "value": "80%",
+        "key": "图像质量提升",
+        "description": "使用增强器后，我们的视觉效果吸引了注意，导致在线销售增加了 30%。"
+      },
+      {
+        "tag": "房地产",
+        "heading": "物业列表",
+        "before": {
+          "label": "之前",
+          "text": "暗淡无光的照片"
+        },
+        "after": {
+          "label": "之后",
+          "text": "鲜艳而迷人的图像"
+        },
+        "value": "70%",
+        "key": "参与度增加",
+        "description": "增强我们的列表导致对物业查询增加了 50%。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "增强选项比较",
+    "description": "选择适合您图像的增强效果",
+    "items": [
+      "标准增强：基本质量改善、鲜艳色彩和清晰细节",
+      "高级增强：先进处理以获得卓越质量、纹理增强和色彩准确性",
+      "批量处理：同时增强多张图像以节省时间",
+      "实时预览以进行调整，最终确定增强前",
+      "支持 JPG、PNG 和 WebP 图像格式"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关 AI 工具",
+    "description": "探索更多强大的 AI 工具以进行图像优化和增强"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要了解的一切",
+    "items": [
+      {
+        "question": "我可以增强什么类型的图像？",
+        "answer": "您可以增强各种类型的图像，包括产品照片、营销视觉效果、社交媒体图形等。AI 在清晰、光线充足的图像上效果最佳。"
+      },
+      {
+        "question": "增强过程需要多长时间？",
+        "answer": "增强通常在几秒钟内完成，让您快速获得高质量图像以满足需求。"
+      },
+      {
+        "question": "我可以调整增强的级别吗？",
+        "answer": "可以！增强级别可以根据您的偏好进行调整，让您完全控制图像的最终外观。"
+      },
+      {
+        "question": "增强后的图像质量如何？",
+        "answer": "增强后的图像保持高分辨率和清晰度，确保适合专业使用，包括打印和数字平台。"
+      },
+      {
+        "question": "我可以增强的图像数量有限制吗？",
+        "answer": "没有限制！您可以增强任意数量的图像，我们的批量处理功能使处理多个文件变得简单。"
+      },
+      {
+        "question": "我是否拥有增强图像的权利？",
+        "answer": "是的！通过 WaveSpeed AI 增强的所有图像都附带完整的所有权利，允许您在没有限制的情况下用于任何商业目的。"
+      },
+      {
+        "question": "如果遇到问题，有哪些支持可用？",
+        "answer": "我们通过文档、教程以及响应迅速的客户服务团队提供广泛的支持，随时解答任何疑问。"
+      },
+      {
+        "question": "新用户是否可以获得免费试用？",
+        "answer": "是的，新用户可以获得免费的积分来测试增强功能，无需任何承诺或订阅。"
+      },
+      {
+        "question": "支持哪些格式的图像上传？",
+        "answer": "您可以上传 JPG、PNG 和 WebP 格式的图像，以利用我们的工具进行增强。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备好增强您的图像吗？",
+    "description": "使用免费积分开始，亲自见证转变。",
+    "contactUsText": "联系我们",
+    "tryText": "立即试用 →"
+  },
+  "footer": {
+    "heading": "准备好改善您的视觉效果吗？",
+    "description": "现在试用 AI 图像增强器，见证转变。无需注册。",
+    "ctaText": "立即增强图像",
+    "text": "© 2025 WaveSpeed AI. 保留所有权利。"
+  }
+}

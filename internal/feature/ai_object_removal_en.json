@@ -1,0 +1,230 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Object Removal",
+  "meta": {
+    "description": "Effortlessly remove unwanted objects from your images with WaveSpeed AI's Object Removal feature. Perfect for e-commerce, photography, and content creation. Experience seamless edits powered by advanced AI technology.",
+    "keywords": "object removal AI, image editing tool, AI photo enhancer, e-commerce editing solution, background removal, content creation, professional photo retouching, seamless edits, photography enhancement, WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Object Removal Made Easy",
+    "subHeading": "Eliminate Unwanted Elements from Your Images",
+    "description": "Instantly erase distractions from your photos, enhancing focus on your subject. With cutting-edge AI technology, you can achieve flawless results in seconds. Say goodbye to unwanted objects and elevate your visuals today!",
+    "tryText": "Remove Objects Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Object Removal Solution",
+    "left": {
+      "heading": "Traditional Image Editing Challenges",
+      "items": [
+        "Time-consuming manual editing",
+        "Requires advanced photo editing skills",
+        "High costs for professional retouching",
+        "Limited options for object removal",
+        "Frustrating results with visible edits"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Quickly remove any object in seconds",
+        "No design skills needed - Just upload images",
+        "AI-powered precision for flawless edits",
+        "Unlimited attempts until perfect results",
+        "Affordable pricing with no hidden costs"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Achieve perfect edits in 4 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Image",
+        "text": "Upload the photo you want edited",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Select Object",
+        "text": "Highlight the object you want to remove",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Refine Edit",
+        "text": "Adjust the area to ensure a seamless removal",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Edit",
+        "text": "Receive your enhanced image in moments",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Remove Unwanted Objects →"
+  },
+  "endlessPossibilities": {
+    "heading": "Limitless Editing Opportunities",
+    "description": "Ideal for various applications and industries",
+    "items": [
+      "E-commerce product enhancements",
+      "Real estate image optimization",
+      "Photography retouching",
+      "Social media post improvements",
+      "Advertising campaign visuals",
+      "Event photography touch-ups",
+      "Creative content for blogs",
+      "Personal photo editing"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how users are transforming their images with AI",
+    "items": [
+      {
+        "tag": "E-commerce",
+        "heading": "Online Clothing Store",
+        "before": {
+          "label": "Before",
+          "text": "Cluttered backgrounds"
+        },
+        "after": {
+          "label": "After",
+          "text": "Clean product focus"
+        },
+        "value": "95%",
+        "key": "Image Clarity Improvement",
+        "description": "Our listings saw a 30% increase in conversions after removing distractions from product images in just minutes."
+      },
+      {
+        "tag": "Photography",
+        "heading": "Wedding Photographer",
+        "before": {
+          "label": "Before",
+          "text": "Unwanted guests in photos"
+        },
+        "after": {
+          "label": "After",
+          "text": "Seamless images"
+        },
+        "value": "98%",
+        "key": "Editing Efficiency",
+        "description": "Saved hours on editing by effortlessly removing unwanted elements, allowing us to focus on delivering beautiful photos faster."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Model Comparison",
+    "description": "Select the model that fits your editing needs",
+    "items": [
+      "Basic Removal: Simple object elimination, quick processing, ideal for minor distractions",
+      "Advanced Model: Precise removal with complex backgrounds, best for professional use",
+      "Real-time editing suggestions for improved results",
+      "High-quality image restoration",
+      "Instant preview of changes before finalizing",
+      "Commercial usage rights included"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Discover more powerful AI tools for image enhancement"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "How accurate is the object removal process?",
+        "answer": "Our AI technology ensures highly accurate removals with minimal visible artifacts, making your images look professionally edited."
+      },
+      {
+        "question": "Can I use this feature for commercial purposes?",
+        "answer": "Yes! All edits are covered under commercial rights, allowing you to use them in your business without any additional fees."
+      },
+      {
+        "question": "What image formats are supported for uploads?",
+        "answer": "We support JPG, PNG, and WebP formats. Ensure your images are of good quality for the best results."
+      },
+      {
+        "question": "Is there a limit to how many objects I can remove?",
+        "answer": "No, you can remove as many objects as needed in one session. Our AI works to ensure seamless results for each removal."
+      },
+      {
+        "question": "How long does the editing process take?",
+        "answer": "The process is typically completed in seconds, allowing you to get back to your projects quickly."
+      },
+      {
+        "question": "What types of images work best with this feature?",
+        "answer": "Images with clear subjects and backgrounds yield the best results, however, our AI can handle a range of scenarios."
+      },
+      {
+        "question": "Can the technology handle complex backgrounds?",
+        "answer": "Yes! Our advanced AI models can effectively remove objects while preserving the quality of complex backgrounds."
+      },
+      {
+        "question": "Do I need any specific software to use this feature?",
+        "answer": "No special software is needed. Just visit our website, upload your images, and let our AI do the work."
+      },
+      {
+        "question": "How does this compare to hiring a professional editor?",
+        "answer": "Using our AI tool is significantly faster and more cost-effective, enabling you to make edits instantly without ongoing costs."
+      },
+      {
+        "question": "What support is available if I encounter issues?",
+        "answer": "We offer comprehensive support through guides, tutorials, and customer service to help you with any technical issues."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Transform Your Images?",
+    "description": "Start removing objects in just a few clicks - Experience the power of AI today!",
+    "contactUsText": "Contact Us",
+    "tryText": "Remove Objects Now →"
+  },
+  "footer": {
+    "heading": "Ready to Enhance Your Photos?",
+    "description": "Try WaveSpeed AI now and experience effortless editing. No sign-up required.",
+    "ctaText": "Remove Objects Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI 视角校正",
+  "meta": {
+    "description": "通过 AI 视角校正提升您的图像，将扭曲的视觉效果转变为完美对齐的作品。非常适合电子商务、摄影和内容创作。体验 WaveSpeed 的无缝校正。",
+    "keywords": "AI 视角校正，图像对齐，照片增强，电子商务摄影，失真去除，图像调整工具，内容创作，摄影工具，视觉改善，在线图像编辑器"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "主页",
+        "items": [
+          [
+            "主页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI 工具",
+        "items": [
+          [
+            "AI 工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即尝试"
+  },
+  "hero": {
+    "heading": "完美对齐的图像",
+    "subHeading": "将扭曲的照片转换为惊艳的视觉效果",
+    "description": "快速校正您图像中的视角失真，确保它们看起来无瑕疵且专业。通过我们先进的 AI 技术体验轻松的图像增强。立即尝试，亲眼见证变化！",
+    "tryText": "立即尝试",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI 视角校正解决方案",
+    "left": {
+      "heading": "常见图像问题",
+      "items": [
+        "角度扭曲和失真的图像",
+        "物体比例不一致",
+        "实现美学对称的困难",
+        "耗时的手动校正",
+        "与专业编辑相关的高成本"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI 解决方案",
+      "items": [
+        "瞬间校正视角失真，几秒钟内完成",
+        "简单上传并自动调整",
+        "轻松实现专业质量的结果",
+        "无限的校正和变化触手可得",
+        "适合所有人的灵活付款模式"
+      ],
+      "tryText": "尝试"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "通过 4 个简单步骤增强您的图像",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传您的图像",
+        "text": "选择需要进行视角校正的图像",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "选择校正类型",
+        "text": "选择您需要的视角调整类型",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "自定义调整",
+        "text": "调整设置以达到完美对齐",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载增强图像",
+        "text": "瞬间收到您专业校正的图像",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "校正您的第一张图像 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无限应用",
+    "description": "为每个目的转换图像",
+    "items": [
+      "电子商务列表的产品图像",
+      "建筑摄影增强",
+      "房地产虚拟巡演",
+      "营销材料和广告",
+      "社交媒体内容和活动",
+      "摄影师的作品集增强",
+      "事件和场合照片",
+      "专业人士的一般图像修饰"
+    ]
+  },
+  "successStories": {
+    "heading": "真实成功案例",
+    "description": "看看用户如何通过 AI 增强他们的视觉效果",
+    "items": [
+      {
+        "tag": "电子商务",
+        "heading": "在线商店图像列表",
+        "before": {
+          "label": "之前",
+          "text": "扭曲的图像"
+        },
+        "after": {
+          "label": "之后",
+          "text": "完美对齐"
+        },
+        "value": "95%",
+        "key": "视觉质量增强",
+        "description": "我们的产品图像看起来更加专业，因此转化率提高了 30%。"
+      },
+      {
+        "tag": "摄影",
+        "heading": "自由摄影师",
+        "before": {
+          "label": "之前",
+          "text": "耗时的编辑"
+        },
+        "after": {
+          "label": "之后",
+          "text": "快速调整"
+        },
+        "value": "90%",
+        "key": "节省时间",
+        "description": "我显著减少了编辑时间，让我可以接更多客户。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI 校正精确度比较",
+    "description": "选择适合您需求的校正方法",
+    "items": [
+      "标准校正：针对轻微失真的基本调整",
+      "高级校正：专业级图像的精确对齐",
+      "批量校正：一次多张图像处理",
+      "实时预览调整",
+      "用户友好界面，轻松校正",
+      "高分辨率输出，无质量损失"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关 AI 工具",
+    "description": "探索更多图像增强的创新工具"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要了解的一切",
+    "items": [
+      {
+        "question": "支持哪些图像格式进行视角校正？",
+        "answer": "我们支持 JPG、PNG 和 WebP 格式。为了获得最佳效果，请使用清晰且光线良好的高分辨率图像。"
+      },
+      {
+        "question": "调整功能的自定义程度如何？",
+        "answer": "我们的工具允许精确调整，以确保您的图像根据您的偏好完美对齐。"
+      },
+      {
+        "question": "我可以一次校正多张图像吗？",
+        "answer": "可以！使用我们的批量处理功能，可以同时校正多张图像的视角。"
+      },
+      {
+        "question": "AI 如何确保校正后的质量？",
+        "answer": "AI 在进行校正时保持原始图像质量，保留所有重要细节。"
+      },
+      {
+        "question": "我可以进行多少次校正，是否有限制？",
+        "answer": "没有，您可以在按需付费模式下进行任意次数的校正，而不受限制。"
+      },
+      {
+        "question": "校正后我是否保留对图像的完全权利？",
+        "answer": "是的，通过我们服务校正的所有图像均包含完全的商业权利，无需额外费用。"
+      },
+      {
+        "question": "我可以多快期待图像被校正？",
+        "answer": "大多数校正会在几秒钟内处理，具体取决于所做调整的复杂性。"
+      },
+      {
+        "question": "如果我在使用工具时需要帮助怎么办？",
+        "answer": "我们提供全面的支持，包括详细指南和通过聊天和电子邮件提供的响应支持团队。"
+      },
+      {
+        "question": "我可以进一步增强校正后的图像吗？",
+        "answer": "当然可以！在进行视角校正后，您可以使用其他工具进行进一步增强。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备好完善您的图像了吗？",
+    "description": "从免费积分开始，今天就来转变您的视觉效果！",
+    "contactUsText": "联系我们",
+    "tryText": "立即尝试 →"
+  },
+  "footer": {
+    "heading": "准备好提升您的照片吗？",
+    "description": "立即尝试 WaveSpeed AI，立即体验不同。无需注册。",
+    "ctaText": "立即增强您的图像",
+    "text": "© 2025 WaveSpeed AI. 保留所有权利。"
+  }
+}

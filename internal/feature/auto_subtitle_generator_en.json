@@ -1,0 +1,222 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Auto Subtitle Generator",
+  "meta": {
+    "description": "Generate accurate subtitles for videos effortlessly with our Auto Subtitle Generator. Enhance accessibility and engagement for diverse audiences. Ideal for content creators, educators, and marketers. Experience the precision of AI-driven technology!",
+    "keywords": "auto subtitle generator, video subtitles, AI subtitles, transcription tool, closed captions, accessibility solution, content creation, marketing videos, educational videos, WaveSpeed AI, video enhancement"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Auto Subtitle Generation",
+    "subHeading": "Create Perfect Subtitles in Seconds",
+    "description": "Instantly generate accurate subtitles for your videos, ensuring accessibility and understanding for all viewers. Perfect for content creators and businesses looking to enhance their outreach. Try it now and see the difference!",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI Auto Subtitle Generator Solution",
+    "left": {
+      "heading": "Traditional Challenges",
+      "items": [
+        "Manual transcription is time-consuming and tedious",
+        "High costs for professional transcription services",
+        "Inconsistencies in accuracy and timing",
+        "Limited language support in traditional tools",
+        "Needs expert knowledge for effective captioning"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI Solution",
+      "items": [
+        "Generate accurate subtitles in minutes",
+        "Cost-effective solution with pay-as-you-go model",
+        "AI-driven accuracy ensures precise timing and text",
+        "Supports multiple languages and formats",
+        "User-friendly interface for effortless generating"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Effortless captioning in 4 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Video",
+        "text": "Upload your video file for subtitle generation",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Select Language",
+        "text": "Choose the language for subtitles from our extensive options",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Generate Subtitles",
+        "text": "Let the AI process your video and generate subtitles",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Subtitles",
+        "text": "Receive your ready-to-use subtitle file instantly",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Generate Your Subtitles →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Perfect for any type of video content",
+    "items": [
+      "YouTube content creators",
+      "Educational lectures and webinars",
+      "Marketing videos for products and services",
+      "Social media videos for broader reach",
+      "Documentaries and informative videos",
+      "Corporate training materials",
+      "Podcasts with visual components",
+      "Entertainment videos and films"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how users are maximizing their productivity with AI",
+    "items": [
+      {
+        "tag": "Education",
+        "heading": "University Lecture Series",
+        "before": {
+          "label": "Before",
+          "text": "Manual subtitles took weeks"
+        },
+        "after": {
+          "label": "After",
+          "text": "Instant subtitles in minutes"
+        },
+        "value": "95%",
+        "key": "Time Savings",
+        "description": "Subtitles now generated within moments, enabling quicker content sharing and enhanced clarity for students."
+      },
+      {
+        "tag": "Marketing",
+        "heading": "E-commerce Product Videos",
+        "before": {
+          "label": "Before",
+          "text": "High transcription costs"
+        },
+        "after": {
+          "label": "After",
+          "text": "Affordable automated subtitles"
+        },
+        "value": "90%",
+        "key": "Cost Reduction",
+        "description": "Our video campaigns have seen increased engagement, with clear subtitles making our messaging accessible."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Model Comparison",
+    "description": "Understand the features of our subtitle generation",
+    "items": [
+      "Standard Quality: Fast processing, ideal for quick tasks",
+      "Premium Quality: Enhanced accuracy and auto-correction features",
+      "Batch processing for multiple files simultaneously",
+      "Format support for SRT, VTT, and more",
+      "Multilingual capabilities for global reach",
+      "Syncing options for various video platforms"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore more powerful AI solutions for video editing"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "How accurate are the generated subtitles?",
+        "answer": "Our AI model ensures high accuracy, leveraging advanced algorithms for reliable results. While we aim for 95% accuracy, minor edits may be needed for perfection."
+      },
+      {
+        "question": "Can I edit the subtitles after generation?",
+        "answer": "Yes! You can easily edit the generated subtitles within our platform before finalizing them for your videos."
+      },
+      {
+        "question": "What video formats are supported for subtitle generation?",
+        "answer": "We support various video formats including MP4, AVI, MOV, and others. Just upload your file, and we'll handle the rest."
+      },
+      {
+        "question": "Is there language support for subtitles?",
+        "answer": "Absolutely! We offer support for multiple languages. You can choose your desired language at the beginning of the subtitle generation process."
+      },
+      {
+        "question": "How long does it take to generate subtitles?",
+        "answer": "Subtitles are generated almost instantaneously. Most videos are processed within minutes, depending on length and complexity."
+      },
+      {
+        "question": "What is the pricing model for subtitle generation?",
+        "answer": "We operate on a flexible pay-as-you-go pricing model, ensuring you only pay for what you use. There are no hidden fees or subscriptions."
+      },
+      {
+        "question": "Can I use subtitles for commercial purposes?",
+        "answer": "Yes, you hold full rights to use generated subtitles in any commercial setting without additional fees."
+      },
+      {
+        "question": "What technical support do you offer?",
+        "answer": "We provide comprehensive technical support including guidelines, FAQs, and 24/7 customer service for troubleshooting and inquiries."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Generate Your First Subtitle?",
+    "description": "Start with free credits - Experience the ease of accessible content creation",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Transform Your Video Accessibility Today!",
+    "description": "Utilize WaveSpeed AI now to enhance your video content capabilities. No sign-up required.",
+    "ctaText": "Generate Subtitles Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

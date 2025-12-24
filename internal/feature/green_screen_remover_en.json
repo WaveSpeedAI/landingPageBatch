@@ -1,0 +1,219 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - Green Screen Remover",
+  "meta": {
+    "description": "Effortlessly remove backgrounds from your images with WaveSpeed AI's Green Screen Remover. Ideal for professional videos, product images, and social media posts. Transform your visual content in moments!",
+    "keywords": "green screen remover, background removal tool, AI green screen, video editing AI, product image editing, social media content, professional video tools, e-commerce image enhancement, quick background removal"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Seamless Background Removal",
+    "subHeading": "Transform Your Images Instantly",
+    "description": "Effortlessly eliminate backgrounds from your photos for a cleaner, more professional look. Perfect for marketers, content creators, and e-commerce stores. Get started today!",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI Green Screen Remover Solution",
+    "left": {
+      "heading": "Traditional Challenges",
+      "items": [
+        "Manual removal is time-intensive and laborious",
+        "Editing software requires technical skills",
+        "Limited precision leads to uneven results",
+        "High costs for professional services",
+        "Complicated workflows slow down production"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Instantly remove backgrounds in seconds",
+        "No editing skills needed, simply upload",
+        "Achieve precise and consistent results",
+        "Cost-effective with pay-per-use pricing",
+        "Streamlined process enhances productivity"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Remove backgrounds in 3 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Image",
+        "text": "Upload your photo with a green screen background",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Select Background",
+        "text": "Choose a new background or leave it transparent",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Download Image",
+        "text": "Receive your edited image in high resolution",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "Remove Background Now →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Perfect for any visual content",
+    "items": [
+      "Product images for e-commerce stores",
+      "Professional headshots and profiles",
+      "Social media graphics and posts",
+      "YouTube video thumbnails",
+      "Promotional materials and flyers",
+      "Presentation visuals",
+      "Event marketing",
+      "Website banners"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how users are revolutionizing their images with AI",
+    "items": [
+      {
+        "tag": "E-commerce",
+        "heading": "Enhanced Product Listings",
+        "before": {
+          "label": "Before",
+          "text": "Inconsistent visuals"
+        },
+        "after": {
+          "label": "After",
+          "text": "Cohesive branding"
+        },
+        "value": "80%",
+        "key": "Visual Consistency",
+        "description": "We improved our product images across 200 listings in under a day, resulting in a 50% increase in conversions."
+      },
+      {
+        "tag": "Content Creation",
+        "heading": "Creative Social Media Campaign",
+        "before": {
+          "label": "Before",
+          "text": "Time-consuming edits"
+        },
+        "after": {
+          "label": "After",
+          "text": "Fast and easy removal"
+        },
+        "value": "95%",
+        "key": "Time Saved",
+        "description": "Utilized the Green Screen Remover to generate quality content for our campaigns in record time, keeping our audience engaged."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Model Comparison",
+    "description": "Choose the right tool for background removal",
+    "items": [
+      "Standard Model: Fast processing, suitable for most images, retains details accurately",
+      "Advanced Model: High precision for complex backgrounds, enhanced smoothness and clarity",
+      "User-friendly interface with drag-and-drop functionality",
+      "Seamless integration with popular design software",
+      "Compatible with various image formats",
+      "Commercial usage rights included"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore more powerful AI tools for visual enhancement"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What types of images work best for background removal?",
+        "answer": "Images with solid green backgrounds yield the best results, but our tool can also handle patterned or textured backgrounds. For optimal performance, ensure the subject is well-lit and clearly defined against the background."
+      },
+      {
+        "question": "Can I keep or replace the background?",
+        "answer": "Absolutely! You can choose to remove the background completely or select a new background of your choice to enhance your visual content. The flexibility allows for creativity in your presentations."
+      },
+      {
+        "question": "Is there a limit on image size or format?",
+        "answer": "We support various formats, including JPG, PNG, and WebP. While there’s no strict limit on image size, we recommend uploading images at least 512x512 pixels for best results."
+      },
+      {
+        "question": "How do you ensure precision in background removal?",
+        "answer": "Our AI utilizes advanced algorithms to analyze images, ensuring that intricate details around the subject are preserved while the background is removed cleanly. This results in professional-looking images with minimal manual adjustments needed."
+      },
+      {
+        "question": "Can I use the removed backgrounds commercially?",
+        "answer": "Yes! All images processed through our platform come with commercial usage rights. Feel free to utilize them for any commercial purpose without additional licensing fees."
+      },
+      {
+        "question": "How quickly can I get my images back?",
+        "answer": "Background removal typically takes just a few seconds per image, allowing you to create content rapidly without long waiting times."
+      },
+      {
+        "question": "What if I need to edit images further?",
+        "answer": "You can easily download the processed images and use them in your preferred graphic design software for further editing, ensuring you have full control over your content."
+      },
+      {
+        "question": "What support is available if I encounter issues?",
+        "answer": "We offer comprehensive support, including a robust help center, video tutorials, and live chat assistance. Our team is here to help you with any questions or challenges you may face."
+      },
+      {
+        "question": "Do I need to sign up to use the service?",
+        "answer": "You can try the Green Screen Remover without signing up! However, creating an account allows you to access additional features and benefits."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Remove Backgrounds Effortlessly?",
+    "description": "Start with free credits and experience the ease of professional image editing.",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Transform Your Visuals Today!",
+    "description": "Utilize WaveSpeed AI and see how simple background removal can elevate your content. No sign-up required.",
+    "ctaText": "Remove Backgrounds Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

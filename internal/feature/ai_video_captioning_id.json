@@ -1,0 +1,226 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Pencetakan Video AI",
+  "meta": {
+    "description": "Tingkatkan video Anda dengan teks otomatis yang dihasilkan oleh AI. Tingkatkan keterlibatan penonton dan aksesibilitas tanpa usaha. Ideal untuk pencipta konten dan pemasar online. Temukan bagaimana WaveSpeed membuat caption menjadi sederhana!",
+    "keywords": "pencetakan video AI, caption otomatis, aksesibilitas video, keterlibatan konten, WaveSpeed AI, alat pemasaran video, generasi caption, pembuat subtitle, caption video media sosial, pencetakan YouTube, caption TikTok, caption video langsung"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Pencetakan Video AI",
+    "subHeading": "Tambahkan Caption ke Video Anda dengan Mudah",
+    "description": "Tingkatkan pengalaman penonton dengan generasi caption otomatis yang meningkatkan keterlibatan dan aksesibilitas. Cukup unggah video Anda dan biarkan AI kami melakukan sisanya!",
+    "tryText": "Mulai Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Pencetakan Video AI WaveSpeed",
+    "left": {
+      "heading": "Tantangan Pencetakan Tradisional",
+      "items": [
+        "Pembuatan caption manual memakan waktu",
+        "Memerlukan keterampilan menulis dan ketelitian",
+        "Mengedit caption membutuhkan tenaga kerja",
+        "Dukungan terbatas untuk beberapa bahasa",
+        "Hambatan aksesibilitas bagi penonton yang mengalami gangguan pendengaran"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeed AI",
+      "items": [
+        "Generasi caption instan dalam beberapa menit",
+        "Mendukung beberapa bahasa secara otomatis",
+        "Tidak memerlukan keterampilan menulis - cukup unggah video",
+        "Caption yang dapat diedit untuk akurasi dan kejelasan",
+        "Solusi terjangkau dengan harga bayar sesuai penggunaan"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Tambahkan caption ke video Anda dalam 4 langkah sederhana",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Video",
+        "text": "Unggah file video Anda ke platform kami",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Pilih Bahasa",
+        "text": "Pilih bahasa untuk caption Anda",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Hasilkan Caption",
+        "text": "Biarkan AI kami membuat caption yang akurat secara otomatis",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Edit dan Unduh",
+        "text": "Tinjau dan edit caption, kemudian unduh video Anda",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Hasilkan Caption Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Tanpa Henti",
+    "description": "Sempurna untuk semua konten video",
+    "items": [
+      "Video YouTube dan vlog",
+      "Klip media sosial untuk Instagram, TikTok",
+      "Webinar dan kursus online",
+      "Video pemasaran dan promosi",
+      "Rekaman acara dan siaran langsung",
+      "Video pelatihan perusahaan",
+      "Podcast video",
+      "Wawancara dan diskusi"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Lihat bagaimana para pencipta meningkatkan konten mereka dengan AI",
+    "items": [
+      {
+        "tag": "Konten Edukasi",
+        "heading": "Penyedia Kursus Online",
+        "before": {
+          "label": "Sebelum",
+          "text": "Caption Manual"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Caption Otomatis"
+        },
+        "value": "95%",
+        "key": "Waktu yang Dihemat",
+        "description": "Kami mengurangi waktu pencetakan dari jam menjadi menit, memungkinkan kami fokus pada pembuatan konten."
+      },
+      {
+        "tag": "Media Sosial",
+        "heading": "Influencer TikTok",
+        "before": {
+          "label": "Sebelum",
+          "text": "Caption yang Tidak Konsisten"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Caption Berkualitas Tinggi yang Konsisten"
+        },
+        "value": "92%",
+        "key": "Peningkatan Keterlibatan",
+        "description": "Keterlibatan kami meroket dengan caption yang diformat dengan benar; pengikut menghargai aksesibilitas."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Model AI",
+    "description": "Pilih model pencetakan yang tepat sesuai kebutuhan Anda",
+    "items": [
+      "Model Dasar: Akurasi dan kecepatan standar",
+      "Model Premium: Akurasi yang ditingkatkan, mendukung lebih banyak bahasa",
+      "Pencetakan waktu nyata untuk siaran langsung",
+      "Koreksi tanda baca dan tata bahasa yang cerdas",
+      "Antarmuka pengeditan yang ramah pengguna untuk penyesuaian cepat",
+      "Hak penggunaan komersial termasuk"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Jelajahi lebih banyak alat AI yang kuat untuk peningkatan video"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Segala sesuatu yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Jenis video apa yang bisa saya tambahkan caption?",
+        "answer": "Anda dapat menambahkan caption ke format video apa pun, termasuk file MP4, MOV, dan AVI. Platform kami mendukung berbagai format, memastikan kompatibilitas untuk semua konten video Anda."
+      },
+      {
+        "question": "Seberapa akurat caption yang dihasilkan secara otomatis?",
+        "answer": "Model AI kami mencapai akurasi tinggi dengan caption berdasarkan konteks dan bahasa. Anda dapat dengan mudah meninjau dan mengedit caption untuk memastikan mereka memenuhi standar Anda sebelum finalisasi."
+      },
+      {
+        "question": "Bisakah saya menyesuaikan gaya caption?",
+        "answer": "Tentu saja! Anda dapat memilih dari berbagai gaya font, ukuran, warna, dan penempatan untuk mencocokkan estetika video Anda dan meningkatkan pengalaman penonton."
+      },
+      {
+        "question": "Apakah Anda mendukung beberapa bahasa untuk caption?",
+        "answer": "Ya, solusi kami mendukung generasi caption otomatis dalam beberapa bahasa, membuatnya mudah untuk menjangkau audiens global."
+      },
+      {
+        "question": "Berapa lama waktu yang diperlukan untuk menghasilkan caption?",
+        "answer": "Generasi caption biasanya cepat, hanya memerlukan beberapa menit, tergantung pada panjang video Anda. Proses ini dirancang untuk efisiensi tanpa mengorbankan kualitas."
+      },
+      {
+        "question": "Apakah ada biaya tambahan untuk penggunaan komersial?",
+        "answer": "Tidak! Semua caption yang dihasilkan disertai hak komersial tanpa biaya tambahan, memungkinkan Anda menggunakan caption tersebut secara gratis di berbagai platform."
+      },
+      {
+        "question": "Bisakah saya mengedit caption setelah dihasilkan?",
+        "answer": "Ya, platform kami memungkinkan Anda untuk mengedit dan memperbaiki caption sesuai kebutuhan. Anda dapat menyesuaikan waktu dan teks untuk memastikan sinkronisasi dan kejelasan yang sempurna."
+      },
+      {
+        "question": "Apa yang terjadi jika saya menghadapi masalah dengan proses pencetakan?",
+        "answer": "Tim dukungan kami siap membantu! Kami menyediakan sumber daya, tutorial, dan bantuan langsung untuk menyelesaikan masalah dengan cepat."
+      },
+      {
+        "question": "Bisakah saya menggunakan caption untuk siaran langsung?",
+        "answer": "Ya! AI kami menyertakan fitur pencetakan waktu nyata untuk siaran video langsung, meningkatkan aksesibilitas bagi semua penonton."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Menambahkan Caption ke Video Anda?",
+    "description": "Mulailah meningkatkan konten Anda hari ini dengan kredit gratis.",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Coba Sekarang →"
+  },
+  "footer": {
+    "heading": "Transformasikan Video Anda Hari Ini!",
+    "description": "Cobalah WaveSpeed AI sekarang dan rasakan pencetakan profesional. Tanpa perlu pendaftaran.",
+    "ctaText": "Mulai Caption Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi undang-undang."
+  }
+}

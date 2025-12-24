@@ -1,0 +1,226 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Perspective Correction",
+  "meta": {
+    "description": "Elevate your images with AI Perspective Correction, transforming distorted visuals into perfectly aligned compositions. Ideal for e-commerce, photography, and content creation. Experience seamless corrections with WaveSpeed.",
+    "keywords": "AI perspective correction, image alignment, photo enhancement, e-commerce photography, distortion removal, image adjustment tool, content creation, photography tools, visual improvement, online image editor"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Perfectly Aligned Images",
+    "subHeading": "Transform Distorted Photos into Stunning Visuals",
+    "description": "Quickly correct perspective distortions in your images, ensuring they look flawless and professional. Experience effortless image enhancement with our advanced AI technology. Try it now to see the transformation yourself!",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Perspective Correction Solution",
+    "left": {
+      "heading": "Common Image Issues",
+      "items": [
+        "Images with skewed angles and distortions",
+        "Inconsistent object proportions",
+        "Difficulties in achieving aesthetic symmetry",
+        "Time-consuming manual corrections",
+        "High costs associated with professional editing"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Instantly correct perspective distortions in seconds",
+        "Simple uploads with automatic adjustments",
+        "Achieve professional-quality results effortlessly",
+        "Unlimited corrections and variations at your fingertips",
+        "Affordable pay-as-you-go model for everyone"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Enhance your images in 4 easy steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Your Image",
+        "text": "Choose the image that needs perspective correction",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Select Correction Type",
+        "text": "Choose the type of perspective adjustment you need",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Customize Adjustments",
+        "text": "Tweak the settings for perfect alignment",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Enhanced Image",
+        "text": "Receive your professionally corrected image in moments",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Correct Your First Image →"
+  },
+  "endlessPossibilities": {
+    "heading": "Limitless Applications",
+    "description": "Transform images for every purpose",
+    "items": [
+      "Product images for e-commerce listings",
+      "Architectural photography enhancements",
+      "Real estate virtual tours",
+      "Marketing materials and advertisements",
+      "Social media content and campaigns",
+      "Portfolio enhancements for photographers",
+      "Event and occasion photos",
+      "General image touch-ups for professionals"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "See how users are enhancing their visuals with AI",
+    "items": [
+      {
+        "tag": "E-commerce",
+        "heading": "Online Store Image Listings",
+        "before": {
+          "label": "Before",
+          "text": "Distorted images"
+        },
+        "after": {
+          "label": "After",
+          "text": "Perfectly aligned"
+        },
+        "value": "95%",
+        "key": "Visual Quality Enhancement",
+        "description": "Our product images looked more professional, leading to a 30% increase in conversion rates."
+      },
+      {
+        "tag": "Photography",
+        "heading": "Freelance Photographer",
+        "before": {
+          "label": "Before",
+          "text": "Time-consuming editing"
+        },
+        "after": {
+          "label": "After",
+          "text": "Quick adjustments"
+        },
+        "value": "90%",
+        "key": "Time Saved",
+        "description": "I reduced my editing time significantly, allowing me to take on more clients."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Correction Accuracy Comparison",
+    "description": "Choose the right correction method for your needs",
+    "items": [
+      "Standard Correction: Basic adjustments for minor distortions",
+      "Advanced Correction: Precision alignment for professional-grade images",
+      "Batch Correction for multiple images at once",
+      "Real-time preview of adjustments",
+      "User-friendly interface for easy corrections",
+      "High-resolution output with no quality loss"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore more innovative tools for image enhancement"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What image formats are supported for perspective correction?",
+        "answer": "We support JPG, PNG, and WebP formats. For best results, use high-resolution images that are clear and well-lit."
+      },
+      {
+        "question": "How customizable are the adjustments?",
+        "answer": "Our tool allows for precise adjustments to ensure your images are perfectly aligned according to your preferences."
+      },
+      {
+        "question": "Can I correct multiple images at once?",
+        "answer": "Yes! Use our batch processing feature to correct the perspective of multiple images simultaneously."
+      },
+      {
+        "question": "How does the AI ensure quality after correction?",
+        "answer": "The AI maintains the original image quality while applying corrections, preserving all essential details."
+      },
+      {
+        "question": "Are there any limits to the number of corrections I can make?",
+        "answer": "No, you can make as many corrections as needed without any limits under the pay-as-you-go model."
+      },
+      {
+        "question": "Will I retain full rights to the images after correction?",
+        "answer": "Yes, all images corrected through our service include full commercial rights with no additional fees."
+      },
+      {
+        "question": "How quickly can I expect my images to be corrected?",
+        "answer": "Most corrections are processed within seconds, depending on the complexity of the adjustments made."
+      },
+      {
+        "question": "What if I need help using the tool?",
+        "answer": "We provide comprehensive support, including detailed guides and a responsive support team available via chat and email."
+      },
+      {
+        "question": "Can I enhance the corrected images further?",
+        "answer": "Absolutely! You can use additional tools for further enhancements after the perspective correction has been applied."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Perfect Your Images?",
+    "description": "Start with free credits and transform your visuals today!",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Ready to Enhance Your Photos?",
+    "description": "Try WaveSpeed AI now and experience the difference instantly. No sign-up required.",
+    "ctaText": "Enhance Your Images Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Generator Anime AI",
+  "meta": {
+    "description": "Ciptakan visual bergaya anime menakjubkan dengan AI. Sempurna untuk kreator konten, pengembang game, dan studio animasi. Rasakan masa depan animasi dengan WaveSpeed AI.",
+    "keywords": "generator anime AI, pembuat seni anime, alat animasi AI, generasi seni digital, desain karakter anime, penciptaan konten, aset game, perangkat lunak animasi, pembuat video anime, ilustrasi manga, WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Generasi Seni Anime",
+    "subHeading": "Hidupkan Imajinasi Anda dengan Karya Anime Menakjubkan",
+    "description": "Lepaskan kreativitas Anda dan ubah ide menjadi visual anime yang menawan dalam hitungan menit. Sempurna untuk seniman, pengembang game, dan kreator konten. Cobalah hari ini dan lihat seberapa cepat Anda dapat membuat mahakarya anime pertama Anda!",
+    "tryText": "Coba Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Generator Anime AI WaveSpeed AI",
+    "left": {
+      "heading": "Tantangan Animasi Tradisional",
+      "items": [
+        "Biaya produksi tinggi ($3000-15000 per proyek)",
+        "Memerlukan animator dan seniman terampil",
+        "Siklus pengembangan yang lama (minggu hingga bulan)",
+        "Gaya dan fleksibilitas desain yang terbatas",
+        "Hambatan akses untuk kreator independen"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeed AI",
+      "items": [
+        "Ciptakan seni anime dalam hitungan menit dari sketsa atau permintaan",
+        "Tidak memerlukan keterampilan artistik - Cukup deskripsikan visi Anda",
+        "Dihasilkan secara instan dengan kreativitas yang ditingkatkan AI",
+        "Gaya dan variasi tanpa batas di ujung jari Anda",
+        "Harga terjangkau yang disesuaikan untuk semua seniman"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Dari konsep hingga seni anime dalam 4 langkah sederhana",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Berikan Sebuah Konsep",
+        "text": "Katakan kepada kami ide, karakter, atau adegan Anda dengan kata-kata sederhana",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Pilih Gaya Seni",
+        "text": "Pilih dari berbagai gaya anime (misalnya, Shonen, Shojo)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Kustomisasi Fitur",
+        "text": "Sesuaikan sifat karakter, warna, dan latar belakang",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Unduh Seni Anda",
+        "text": "Terima seni anime beresolusi tinggi dalam waktu kurang dari 5 menit",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Hasilkan Seni Anime Pertama Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kreasi Artistik Tanpa Batas",
+    "description": "Sempurna untuk proyek atau tema apa pun",
+    "items": [
+      "Desain karakter untuk game dan komik",
+      "Ilustrasi bergaya anime kustom",
+      "Seni promosi untuk konten digital",
+      "Visual unik untuk media sosial",
+      "Seni penggemar dan desain karakter orisinal",
+      "Adegan animasi untuk konten edukatif",
+      "Seni sampul untuk novel dan cerita",
+      "Storyboarding untuk animasi"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Lihat bagaimana kreator merevolusi seni mereka dengan AI",
+    "items": [
+      {
+        "tag": "Pengembangan Game",
+        "heading": "Karya Studio Game Indie",
+        "before": {
+          "label": "Sebelum",
+          "text": "Bulan-bulan desain"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Menit pembuatan"
+        },
+        "value": "95%",
+        "key": "Waktu yang Hemat",
+        "description": "Kami secara dramatis mengurangi waktu desain karakter kami, memungkinkan tim kami untuk fokus pada gameplay."
+      },
+      {
+        "tag": "Seniman Freelance",
+        "heading": "Ilustrasi Anime yang Dipesan",
+        "before": {
+          "label": "Sebelum",
+          "text": "Biaya tinggi"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Keterjangkauan"
+        },
+        "value": "98%",
+        "key": "Efisiensi Biaya",
+        "description": "Dengan menggunakan AI untuk menghasilkan ilustrasi, saya dapat menawarkan harga yang kompetitif dan lebih banyak komisi."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Model AI",
+    "description": "Pilih model yang tepat untuk kebutuhan artistik Anda",
+    "items": [
+      "Gaya Anime 1: Karakter detail, kualitas artistik tinggi, sangat baik untuk desain pahlawan",
+      "Gaya Anime 2: Pembuatan lebih cepat, cocok untuk elemen latar belakang dan adegan, ramah anggaran",
+      "Opsi kustomisasi untuk rambut, pakaian, dan lingkungan",
+      "Mendukung permintaan kreatif untuk pose dan ekspresi dinamis",
+      "Hasil instan dengan pembuatan 1-5 menit",
+      "Hak komersial termasuk untuk semua seni yang dihasilkan"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Jelajahi lebih banyak alat AI yang kuat untuk seniman"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Segala yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Gaya seni apa yang dapat saya hasilkan?",
+        "answer": "Anda dapat membuat berbagai gaya anime, termasuk Shonen dan Shojo, serta menyesuaikan fitur sesuai preferensi Anda."
+      },
+      {
+        "question": "Apakah saya perlu keterampilan artistik untuk menggunakannya?",
+        "answer": "Sama sekali tidak! Anda hanya perlu mendeskripsikan konsep Anda, dan AI kami yang akan menangani sisanya, menciptakan seni anime yang indah."
+      },
+      {
+        "question": "Format file apa yang tersedia untuk output?",
+        "answer": "Seni yang dihasilkan tersedia dalam format PNG dan JPG beresolusi tinggi, cocok untuk tampilan digital dan cetak."
+      },
+      {
+        "question": "Bagaimana jika dibandingkan dengan seniman tradisional?",
+        "answer": "Seni yang dihasilkan AI memberikan hasil yang cepat dan fleksibilitas kreatif, tetapi ini adalah alat untuk membantu seniman, bukan pengganti bakat unik mereka."
+      },
+      {
+        "question": "Bisakah saya mengkomersilkan seni yang dihasilkan?",
+        "answer": "Ya! Semua karya seni yang dibuat melalui WaveSpeed AI mencakup hak komersial penuh, memungkinkan Anda untuk menjual atau menggunakannya sesuka hati."
+      },
+      {
+        "question": "Berapa lama waktu yang diperlukan untuk menghasilkan seni?",
+        "answer": "Sebagian besar kreasi diselesaikan dalam waktu 1-5 menit, memungkinkan iterasi dan perubahan yang cepat."
+      },
+      {
+        "question": "Apakah ada batasan jumlah kreasi yang dapat saya buat?",
+        "answer": "Tidak, Anda dapat menghasilkan sebanyak mungkin karya seni yang Anda butuhkan, dengan masing-masing hanya memerlukan beberapa menit."
+      },
+      {
+        "question": "Dukungan apa yang tersedia untuk menggunakan alat ini?",
+        "answer": "Kami menawarkan panduan pengguna yang komprehensif, tutorial video, dan tim dukungan yang berdedikasi untuk masalah atau pertanyaan yang mungkin Anda miliki."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Membuat Seni Anime Pertama Anda?",
+    "description": "Mulai dengan kredit gratis - Lepaskan kreativitas Anda",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Coba Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap untuk Membuat Anime yang Menarik?",
+    "description": "Coba WaveSpeed AI sekarang dan wujudkan ide-ide Anda. Tidak perlu mendaftar.",
+    "ctaText": "Buat Seni Anime Sekarang",
+    "text": "© 2025 WaveSpeed AI. Seluruh hak dilindungi."
+  }
+}

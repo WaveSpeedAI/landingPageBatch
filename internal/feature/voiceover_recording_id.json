@@ -1,0 +1,230 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Fitur Perekaman Suara",
+  "meta": {
+    "description": "Tingkatkan konten audiovisual Anda dengan suara profesional tanpa usaha. Manfaatkan teknologi AI terkini untuk menghasilkan suara dari teks, meningkatkan keterlibatan dan penceritaan. Ideal untuk video, buku audio, dan materi pemasaran. Rasakan masa depan produksi audio dengan WaveSpeed AI.",
+    "keywords": "perekaman suara AI, produksi audio, teks ke suara, suara profesional, generator suara AI, alat audio e-commerce, produksi audio pemasaran, narasi buku audio, suara video, peningkatan audio media sosial, alat audio WaveSpeed"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Perekaman Suara",
+    "subHeading": "Transformasi Teks Menjadi Suara yang Menarik",
+    "description": "Segera konversikan skrip Anda menjadi suara berkualitas tinggi dengan solusi berbasis AI kami. Tidak perlu peralatan rekaman profesional atau pengisi suara. Tingkatkan video, podcast, dan presentasi Anda dengan mudah.",
+    "tryText": "Coba Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Perekaman Suara WaveSpeed AI",
+    "left": {
+      "heading": "Tantangan Tradisional",
+      "items": [
+        "Produksi suara biasanya mahal dan memakan waktu",
+        "Memerlukan studio rekaman dan bakat profesional",
+        "Opsi revisi terbatas untuk audio yang direkam",
+        "Biaya berkelanjutan tinggi untuk pengisi suara",
+        "Inefisien untuk tenggang waktu proyek yang cepat"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeed AI",
+      "items": [
+        "Hasilkan suara dalam hitungan detik dari teks tertulis",
+        "Tidak perlu studio atau aktor profesional - Cukup masukkan teks",
+        "Hasil suara berkualitas tinggi dan alami",
+        "Penyesuaian dan variasi tidak terbatas untuk setiap skrip",
+        "Harga fleksibel - Bayar hanya untuk apa yang Anda gunakan"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Dari teks ke perekaman suara dalam 4 langkah mudah",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Masukkan Skrip Anda",
+        "text": "Ketik atau tempel teks yang ingin Anda ubah menjadi audio",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Pilih Gaya Suara",
+        "text": "Pilih dari berbagai suara dan aksen untuk menyesuaikan nada Anda",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Sesuaikan Pengaturan",
+        "text": "Sesuaikan nada, kecepatan, dan emosi untuk suara Anda",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Unduh File Audio",
+        "text": "Dapatkan suara berkualitas tinggi Anda dalam hitungan detik",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Hasilkan Suara Anda Sekarang →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Tanpa Akhir",
+    "description": "Sempurna untuk setiap kebutuhan audio",
+    "items": [
+      "Suara untuk video promosi",
+      "Narasi untuk kursus e-learning",
+      "Dialokasikan untuk podcast dan webinar",
+      "Rekaman buku audio",
+      "Video penjelasan dan tutorial",
+      "Pengumuman di toko",
+      "Jingle iklan",
+      "Konten video media sosial"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Temukan bagaimana bisnis merevolusi konten audio mereka dengan AI",
+    "items": [
+      {
+        "tag": "E-learning",
+        "heading": "Narasi Kursus Online",
+        "before": {
+          "label": "Sebelum",
+          "text": "3-4 minggu"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "5 menit"
+        },
+        "value": "99%",
+        "key": "Waktu Disimpan",
+        "description": "Produksi kursus kami selesai dalam waktu rekor. Kami sekarang dapat memperbarui modul secara instan dengan suara baru."
+      },
+      {
+        "tag": "Pemasaran",
+        "heading": "Iklan di Media Sosial",
+        "before": {
+          "label": "Sebelum",
+          "text": "Biaya tinggi"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Ramah anggaran"
+        },
+        "value": "95%",
+        "key": "Pengurangan Biaya",
+        "description": "Biaya produksi audio menurun drastis, memungkinkan kami untuk meluncurkan kampanye lebih sering."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Model Suara",
+    "description": "Pilih suara yang tepat untuk proyek Anda",
+    "items": [
+      "Suara Standar: Nada alami, cocok untuk konten santai, optimal untuk sebagian besar aplikasi",
+      "Suara Profesional: Gaya halus, ideal untuk presentasi formal dan penceritaan merek",
+      "Opsi Laki-laki/Perempuan tersedia untuk kebutuhan beragam",
+      "Opsi kustomisasi untuk menentukan nada emosional dan kecepatan",
+      "Waktu penyelesaian cepat untuk proyek mendesak",
+      "Hak komersial disertakan - digunakan dalam konteks apa pun"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Jelajahi lebih banyak alat AI inovatif untuk produksi audio"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Semua yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Kualitas audio apa yang bisa saya harapkan dari suara?",
+        "answer": "AI kami menghasilkan audio berkualitas tinggi yang jelas, alami, dan dioptimalkan untuk berbagai aplikasi. Output mempertahankan kejernihan di berbagai format, memastikan hasil yang profesional sesuai untuk semua media."
+      },
+      {
+        "question": "Bisakah saya memilih suara dan aksen yang berbeda?",
+        "answer": "Tentu saja! Anda dapat memilih dari berbagai suara dan aksen, memungkinkan Anda untuk menyesuaikan nada konten Anda dengan sempurna. Kustomisasi ini membantu pesan Anda lebih resonan dengan audiens."
+      },
+      {
+        "question": "Berapa lama waktu yang dibutuhkan untuk menghasilkan suara?",
+        "answer": "Proses pembuatan suara sangat cepat, biasanya selesai dalam hitungan detik, terlepas dari panjang teks Anda. Efisiensi ini memungkinkan Anda untuk memproduksi konten dengan kecepatan yang luar biasa."
+      },
+      {
+        "question": "Bisakah saya mengedit penyesuaian suara setelah menghasilkan?",
+        "answer": "Ya! Anda dapat memodifikasi nada, kecepatan, dan nada emosional sesuai kebutuhan, memungkinkan Anda untuk menyempurnakan suara agar memenuhi persyaratan spesifik untuk proyek apa pun."
+      },
+      {
+        "question": "Format apa yang Anda dukung untuk file audio?",
+        "answer": "Kami mendukung beberapa format file audio, termasuk MP3 dan WAV, memastikan kompatibilitas dengan berbagai platform dan media. Pilih format yang paling sesuai dengan kebutuhan distribusi Anda."
+      },
+      {
+        "question": "Apakah ada batasan tentang bagaimana saya dapat menggunakan suara yang dihasilkan?",
+        "answer": "Tidak! Semua suara yang dihasilkan melalui WaveSpeed menyertakan hak penggunaan komersial penuh. Anda bebas menggunakannya dalam iklan, media sosial, e-learning, proyek pribadi, dan lainnya."
+      },
+      {
+        "question": "Bisakah saya menghasilkan beberapa suara sekaligus?",
+        "answer": "Ya, platform kami mendukung pemrosesan batch, memungkinkan Anda untuk menghasilkan beberapa suara secara bersamaan. Sempurna untuk proyek besar yang membutuhkan output audio yang konsisten."
+      },
+      {
+        "question": "Apa yang harus saya lakukan jika saya mengalami masalah teknis?",
+        "answer": "WaveSpeed menawarkan dokumentasi lengkap, tutorial video, dan dukungan responsif melalui email atau obrolan langsung untuk membantu Anda dengan pertanyaan atau masalah teknis yang mungkin Anda hadapi."
+      },
+      {
+        "question": "Apakah ada periode percobaan atau kredit gratis untuk pengguna baru?",
+        "answer": "Ya, semua pengguna baru menerima kredit gratis untuk menjelajahi kemampuan perekaman suara kami. Uji layanan tanpa risiko dan rasakan kualitasnya sendiri."
+      },
+      {
+        "question": "Bagaimana struktur harga untuk pembuatan suara?",
+        "answer": "Kami beroperasi dengan model bayar sesuai pemakaian dengan harga fleksibel berdasarkan fitur yang digunakan dan panjang audio. Struktur ini memastikan Anda hanya membayar untuk suara yang Anda buat."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap Membuat Suara Pertama Anda?",
+    "description": "Mulai dengan kredit gratis - Rasakan kualitasnya sendiri",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Coba Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap Meningkatkan Konten Anda?",
+    "description": "Coba WaveSpeed AI sekarang dan tingkatkan pengalaman audio Anda. Tidak perlu mendaftar.",
+    "ctaText": "Mulai Merekam Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi."
+  }
+}

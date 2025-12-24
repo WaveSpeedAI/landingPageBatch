@@ -1,0 +1,226 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - AI Inpainting",
+  "meta": {
+    "description": "Revitalisasi gambar Anda dengan menghapus objek yang tidak diinginkan dan mengisi kekosongan secara mulus dengan AI Inpainting. Sempurna untuk foto produk, platform e-commerce, dan meningkatkan kreativitas. Rasakan inpainting intuitif yang didukung oleh teknologi canggih.",
+    "keywords": "inpainting AI, penghapusan objek AI, alat pemulihan gambar, peningkatan gambar e-commerce, pengeditan kreatif, peningkatan foto produk, inpainting WaveSpeed, inpainting ramah pengguna, pengisian konten adaptif, penghapusan objek otomatis"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "AI Inpainting",
+    "subHeading": "Tingkatkan Gambar Anda Dengan Mudah",
+    "description": "Ubah gambar Anda dengan menghapus elemen yang tidak diinginkan dan mengisi latar belakang secara mulus, semua dalam beberapa klik. Rasakan kekuatan inpainting cerdas. Coba hari ini!",
+    "tryText": "Mulai Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi AI Inpainting WaveSpeed AI",
+    "left": {
+      "heading": "Tantangan Pengeditan Tradisional",
+      "items": [
+        "Pengeditan gambar yang memakan waktu (jam kerja manual)",
+        "Memerlukan perangkat lunak dan keterampilan yang mahal",
+        "Fleksibilitas terbatas dalam penghapusan objek",
+        "Tidak cocok untuk latar belakang yang kompleks",
+        "Menyulitkan untuk orang yang bukan desainer"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeedAI",
+      "items": [
+        "Hapus objek yang tidak diinginkan dari gambar secara instan",
+        "Pengisian latar belakang mulus dengan akurasi AI",
+        "Antarmuka yang ramah pengguna; tidak memerlukan keterampilan desain",
+        "Serbaguna untuk berbagai jenis gambar",
+        "Harga terjangkau tanpa biaya tersembunyi"
+      ],
+      "tryText": "Coba Sekarang"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Peningkatan gambar yang mudah dalam 4 langkah sederhana",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Gambar",
+        "text": "Pilih gambar yang ingin Anda tingkatkan atau bersihkan.",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Pilih Area yang Akan Dihapus",
+        "text": "Sorot objek yang ingin Anda hilangkan dari gambar.",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Biarkan AI Bekerja Dengan Keajaibannya",
+        "text": "Saksikan saat AI kami mengisi latar belakang dan menyelesaikan foto.",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Unduh Gambar yang Ditingkatkan",
+        "text": "Terima gambar Anda yang telah dipoles, siap digunakan dalam beberapa menit.",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Tingkatkan Gambar Pertama Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Tanpa Batas",
+    "description": "Ideal untuk segala kebutuhan konten visual",
+    "items": [
+      "Peningkatan foto produk e-commerce",
+      "Membuat visual pemasaran yang menarik",
+      "Memulihkan gambar lama dengan bagian yang hilang",
+      "Merancang postingan media sosial tanpa gangguan",
+      "Meningkatkan foto pribadi untuk pesta dan acara",
+      "Membuat gambar profesional untuk presentasi",
+      "Mengoptimalkan visual untuk situs web dan blog",
+      "Meningkatkan gambar real estate untuk menarik pembeli"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Temukan bagaimana bisnis mengubah gambar mereka dengan AI",
+    "items": [
+      {
+        "tag": "Ritel Fashion",
+        "heading": "Peningkatan Gambar E-commerce",
+        "before": {
+          "label": "Sebelum",
+          "text": "Gambar yang berantakan"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Bersih dan profesional"
+        },
+        "value": "95%",
+        "key": "Peningkatan Kualitas Gambar",
+        "description": "Gambar produk kami sekarang terlihat sangat profesional! Peningkatan visual instan menyebabkan peningkatan penjualan online sebesar 30%."
+      },
+      {
+        "tag": "Industri Perjalanan",
+        "heading": "Peningkatan Foto Hotel",
+        "before": {
+          "label": "Sebelum",
+          "text": "Elemen yang mengganggu"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Visual yang menakjubkan"
+        },
+        "value": "90%",
+        "key": "Peningkatan Daya Tarik Visual",
+        "description": "Foto yang ditingkatkan memungkinkan kami untuk menampilkan properti kami dengan lebih efektif, secara signifikan meningkatkan pemesanan tamu."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Model Inpainting",
+    "description": "Pilih pendekatan yang tepat untuk kebutuhan inpainting Anda",
+    "items": [
+      "Inpainting Standar: Perbaikan cepat untuk penghapusan objek sederhana",
+      "Inpainting Lanjutan: Latar belakang kompleks dan detail yang rumit",
+      "Pengisian Konten Adaptif: Menyesuaikan secara mulus dengan lingkungan",
+      "Antarmuka ramah pengguna untuk semua tingkat keterampilan",
+      "Output resolusi tinggi yang memastikan pelestarian kualitas",
+      "Pencocokan warna yang cemerlang dan reproduksi tekstur"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Jelajahi solusi AI yang kuat untuk visual Anda"
+  },
+  "faq": {
+    "heading": "Pertanyaan Yang Sering Diajukan",
+    "description": "Semua yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Jenis gambar apa yang paling cocok untuk AI Inpainting?",
+        "answer": "AI Inpainting berfungsi optimal pada gambar dengan subjek dan latar belakang yang jelas. Gambar resolusi tinggi memberikan hasil lebih baik, tetapi AI tetap efektif pada berbagai jenis, termasuk foto produk dan gambar pribadi."
+      },
+      {
+        "question": "Bisakah saya membatalkan perubahan yang dilakukan selama inpainting?",
+        "answer": "Ya! Platform kami memungkinkan Anda untuk dengan mudah membalikkan perubahan jika Anda tidak puas dengan hasilnya. Anda selalu dapat mengedit kembali gambar untuk hasil yang berbeda."
+      },
+      {
+        "question": "Apakah mungkin menggunakan inpainting untuk pemrosesan gambar batch?",
+        "answer": "Saat ini, pemrosesan batch tidak didukung, tetapi kami sedang bekerja untuk memperkenalkan fitur ini. Untuk saat ini, setiap gambar harus diproses secara individu."
+      },
+      {
+        "question": "Seberapa rinci proses inpainting dapat dilakukan?",
+        "answer": "AI dirancang untuk menangani penghapusan objek yang sederhana dan latar belakang yang lebih kompleks, memungkinkan pemulihan gambar yang sangat rinci."
+      },
+      {
+        "question": "Bisakah saya meningkatkan kualitas setelah inpainting selesai?",
+        "answer": "Tentu saja! Anda dapat menerapkan peningkatan tambahan menggunakan rangkaian alat kami untuk lebih menyempurnakan gambar Anda setelah inpainting."
+      },
+      {
+        "question": "Apa model harga untuk AI Inpainting?",
+        "answer": "WaveSpeed beroperasi dengan model bayar sesuai penggunaan, di mana Anda hanya membayar untuk gambar yang Anda tingkatkan. Tidak ada langganan atau biaya tersembunyi."
+      },
+      {
+        "question": "Berapa lama biasanya waktu penyelesaian untuk inpainting?",
+        "answer": "Proses inpainting biasanya hanya memerlukan beberapa menit, berkat efisiensi teknologi AI kami."
+      },
+      {
+        "question": "Apakah saya menerima lisensi komersial untuk gambar yang ditingkatkan?",
+        "answer": "Ya! Semua gambar yang ditingkatkan melalui WaveSpeed mencakup hak penggunaan komersial penuh, memungkinkan Anda untuk menggunakannya secara bebas untuk pemasaran atau penjualan."
+      },
+      {
+        "question": "Jenis dukungan apa yang tersedia jika saya mengalami masalah?",
+        "answer": "Kami menyediakan dukungan yang kuat termasuk panduan komprehensif, tutorial, dan tim dukungan responsif yang tersedia melalui email dan obrolan."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap Meningkatkan Gambar Anda dengan AI?",
+    "description": "Mulai dengan platform ramah pengguna kami - Rasakan transformasinya",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Mulai Sekarang →"
+  },
+  "footer": {
+    "heading": "Ubah Gambar Anda Hari Ini!",
+    "description": "Coba WaveSpeed AI Inpainting dan lihat perbedaannya secara langsung. Tidak perlu mendaftar.",
+    "ctaText": "Mulai Inpainting Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi hukum."
+  }
+}

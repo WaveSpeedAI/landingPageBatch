@@ -1,0 +1,226 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Face Swap",
+  "meta": {
+    "description": "Effortlessly swap faces in images with our cutting-edge AI technology. Perfect for social media, marketing campaigns, and creative content. Experience seamless integration and stunning results with no experience required.",
+    "keywords": "AI face swap, face replacement, image editing AI, creative content generator, social media tools, marketing automation, innovative photo editing, AI photography, online face swapping, seamless face change, fun photo effects"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Transform Your Images",
+    "subHeading": "Instantly Swap Faces with AI",
+    "description": "Enhance your images in seconds by swapping faces with stunning accuracy. Perfect for social media posts, memes, and creative projects with just a few clicks.",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Face Swap Solution",
+    "left": {
+      "heading": "Traditional Face Swapping Challenges",
+      "items": [
+        "Labor-intensive manual editing",
+        "Requires advanced editing skills",
+        "Time-consuming processes (hours to days)",
+        "Limited creative options",
+        "High costs of professional services"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Swap faces in seconds with a few clicks",
+        "No editing skills needed - Just upload",
+        "Instant, high-quality results with AI",
+        "Unlimited creative possibilities",
+        "Affordable pay-as-you-go model"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Experience face swapping in 4 easy steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Image",
+        "text": "Select the photo you want to modify by uploading it directly.",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Select Faces",
+        "text": "Choose the faces you want to swap from the available options.",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Confirm Swap",
+        "text": "Review the swap and apply any final adjustments as needed.",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Image",
+        "text": "Receive your enhanced image within moments, ready for sharing.",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Get Started Now →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Creative Uses",
+    "description": "Perfect for all types of projects and fun",
+    "items": [
+      "Creating funny memes for social media",
+      "Enhancing photos for marketing campaigns",
+      "Personalized gifts with swapped faces",
+      "Creative content for blogs and websites",
+      "Engaging posts for Instagram and TikTok",
+      "Family photo enhancements and fun",
+      "Themed party invitations",
+      "Unique profile pictures for social media"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how users are enhancing their projects with AI",
+    "items": [
+      {
+        "tag": "Social Media Influencer",
+        "heading": "Viral Meme Creation",
+        "before": {
+          "label": "Before",
+          "text": "Time-consuming editing"
+        },
+        "after": {
+          "label": "After",
+          "text": "Instant face swaps"
+        },
+        "value": "98%",
+        "key": "Time Saved",
+        "description": "Our meme game skyrocketed after using AI face swap. Engaging followers with humor and creativity!"
+      },
+      {
+        "tag": "E-commerce",
+        "heading": "Marketing Campaign Fun",
+        "before": {
+          "label": "Before",
+          "text": "Costly designer fees"
+        },
+        "after": {
+          "label": "After",
+          "text": "Quick and easy swapping"
+        },
+        "value": "90%",
+        "key": "Cost Reduction",
+        "description": "Faced with tight deadlines, we generated unique promotional images that captivated our audience."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Model Comparison",
+    "description": "Choose the right features for your project",
+    "items": [
+      "Standard Swap: Quick face replacement, basic accuracy, ideal for casual projects",
+      "Advanced Swap: Enhanced precision, customizable elements, perfect for marketing",
+      "Real-time processing: Instant feedback on changes made",
+      "Seamless blending: Ensures realism in final images",
+      "Easy-to-use interface: Accessible for everyone",
+      "Fun filters and effects: Add creativity to your face swaps"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore innovative AI tools for your creative projects"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What image formats can I use?",
+        "answer": "You can upload JPG, PNG, or BMP formats. Ensure your images are clear and well-lit for the best results."
+      },
+      {
+        "question": "How accurate is the face swap?",
+        "answer": "Our AI ensures high accuracy when swapping faces, providing realistic results that integrate seamlessly into the background."
+      },
+      {
+        "question": "Can I adjust the final image after the swap?",
+        "answer": "Yes! You can apply additional filters or adjustments after the face swap to make your image truly unique."
+      },
+      {
+        "question": "Is there a limit to how many face swaps I can do?",
+        "answer": "No limits! You can perform as many face swaps as you like using our platform, making creativity endless."
+      },
+      {
+        "question": "Are there any tips for best results?",
+        "answer": "For optimal results, choose images where the faces are clearly visible, well-lit, and facing the camera."
+      },
+      {
+        "question": "How quickly can I expect results?",
+        "answer": "Face swaps are processed almost instantly. You'll get your modified image within seconds."
+      },
+      {
+        "question": "Do I need to install any software to use this feature?",
+        "answer": "No software installation is required. Access our AI face swap tool directly through your browser."
+      },
+      {
+        "question": "Can I use swapped images commercially?",
+        "answer": "Yes! All images generated with our tool come with full commercial rights."
+      },
+      {
+        "question": "What support options are available if I have issues?",
+        "answer": "We provide extensive documentation, video tutorials, and support through email and live chat for troubleshooting."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Transform Your Images?",
+    "description": "Start with free credits today and see the magic for yourself!",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Are You Ready to Swap Faces?",
+    "description": "Dive into WaveSpeed AI's face swapping technology and create amazing content. No sign-up required.",
+    "ctaText": "Swap Faces Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Extraction de texte par IA",
+  "meta": {
+    "description": "Extrayez sans effort du texte d'images avec une technologie IA de pointe. Parfait pour le commerce électronique, le numérisation de documents, et plus encore. Solutions rapides, précises et faciles à utiliser pour tous vos besoins d'extraction de texte.",
+    "keywords": "extraction de texte IA, image à texte, technologie OCR, numérisation de documents, solutions e-commerce, reconnaissance de texte, WaveSpeed AI, extraction de données, transformation numérique, saisie de données automatisée"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Image à Texte",
+    "subHeading": "Transformez les Images en Texte Éditable Efficacement",
+    "description": "Convertissez des documents scannés, des images de produits ou des captures d'écran en texte éditable instantanément. Faites l'expérience d'une extraction de texte sans faille alimentée par une technologie IA avancée.",
+    "tryText": "Essayez-le Maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution d'Extraction de Texte par IA WaveSpeed AI",
+    "left": {
+      "heading": "Défis Traditionnels",
+      "items": [
+        "La saisie manuelle de données est lente et sujette à erreurs",
+        "Nécessite des heures de travail significatives",
+        "Coûts élevés dus à la sous-traitance de la transcription",
+        "Accessibilité limitée pour de grands ensembles de données",
+        "Qualité inégale selon les différents formats"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeedAI",
+      "items": [
+        "Extrayez du texte en quelques secondes à partir de n'importe quelle image",
+        "Aucune saisie manuelle requise - Il suffit de télécharger des images",
+        "Résultats rapides avec une grande précision",
+        "Prend en charge plusieurs langues et formats",
+        "Prix à la consommation parfait pour des besoins variés"
+      ],
+      "tryText": "Essayez"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment ça Marche",
+    "description": "Convertissez rapidement des images en texte en 4 étapes simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Télécharger l'Image",
+        "text": "Téléchargez votre photo ou image de document",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Sélectionner le Format de Sortie",
+        "text": "Choisissez votre format de texte préféré (par exemple, TXT, DOCX)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Vérifiez le Texte Extrait",
+        "text": "Vérifiez le texte généré par l'IA pour précision",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Téléchargez le Texte",
+        "text": "Recevez votre fichier texte éditable en quelques instants",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Extrayez Votre Premier Texte →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilités Illimitées",
+    "description": "Parfait pour toute industrie ou application",
+    "items": [
+      "Descriptions de produits pour le commerce électronique",
+      "Numérisation de livres et de documents",
+      "Automatisation de la saisie de données dans les bureaux",
+      "Recherche académique et extraction",
+      "Traitement de documents juridiques",
+      "Traduction et localisation",
+      "Archivage de vieilles photos et notes",
+      "Réutilisation de contenu pour les réseaux sociaux"
+    ]
+  },
+  "successStories": {
+    "heading": "Vraies Histoires de Succès",
+    "description": "Découvrez comment les entreprises optimisent leurs flux de travail avec l'IA",
+    "items": [
+      {
+        "tag": "Commerce de détail",
+        "heading": "Listes de Produits E-commerce",
+        "before": {
+          "label": "Avant",
+          "text": "50 heures"
+        },
+        "after": {
+          "label": "Après",
+          "text": "2 heures"
+        },
+        "value": "96%",
+        "key": "Temps Économisé",
+        "description": "Nous avons transformé nos listes en extrayant du texte en masse. Cela nous fait gagner des jours chaque semaine."
+      },
+      {
+        "tag": "Éducation",
+        "heading": "Projet de Recherche Universitaire",
+        "before": {
+          "label": "Avant",
+          "text": "Saisie manuelle"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Extraction automatisée"
+        },
+        "value": "90%",
+        "key": "Gain d'Efficacité",
+        "description": "Permet un accès plus rapide aux données, permettant aux équipes de recherche de se concentrer sur l'analyse."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison des Modèles IA",
+    "description": "Choisissez le bon modèle d'extraction pour vos besoins",
+    "items": [
+      "Extraction Standard : Conversion rapide de texte avec bonne précision",
+      "Extraction Haute Précision : Précision améliorée pour les polices manuscrites et complexes",
+      "Traitement par Lot : Extraire du texte de plusieurs images en une fois",
+      "Prise en Charge Multi-langue : Détection automatique de la langue du texte",
+      "Traitement en Temps Réel : Résultats instantanés lors du téléchargement des images",
+      "Droits d'utilisation commerciale inclus"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils IA Connexes",
+    "description": "Explorez d'autres outils IA puissants pour des solutions commerciales"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quels types de formats d'image sont pris en charge pour l'extraction de texte ?",
+        "answer": "Nous prenons en charge divers formats y compris JPG, PNG et PDF. Pour des résultats optimaux, les images doivent être claires et de haute résolution."
+      },
+      {
+        "question": "Quelle est la précision du processus d'extraction de texte ?",
+        "answer": "Notre technologie IA est conçue pour une haute précision, atteignant généralement plus de 95 % d'extraction de texte correcte dans des conditions optimales."
+      },
+      {
+        "question": "Le texte extrait est-il modifiable ?",
+        "answer": "Oui ! Le texte extrait peut être téléchargé dans des formats éditables tels que TXT ou DOCX pour une modification facile."
+      },
+      {
+        "question": "L'outil peut-il gérer le texte manuscrit ?",
+        "answer": "Oui, notre modèle d'Extraction Haute Précision est spécifiquement conçu pour reconnaître et extraire efficacement le texte manuscrit."
+      },
+      {
+        "question": "Comment les données des utilisateurs sont-elles traitées pendant le processus d'extraction ?",
+        "answer": "Nous priorisons la sécurité des données. Toutes les images sont traitées de manière sécurisée, et les données des utilisateurs ne sont pas stockées une fois l'extraction terminée."
+      },
+      {
+        "question": "Y a-t-il une limite au nombre d'images que je peux traiter en même temps ?",
+        "answer": "Aucune limite ! Vous pouvez traiter plusieurs images simultanément, rendant cela efficace pour de grands projets."
+      },
+      {
+        "question": "Que se passe-t-il si l'extraction échoue ?",
+        "answer": "Dans le cas peu probable d'un échec, vous recevrez un rapport d'erreur détaillé avec des raisons possibles et des recommandations pour amélioration."
+      },
+      {
+        "question": "Puis-je utiliser le texte extrait à des fins commerciales ?",
+        "answer": "Absolument ! Tout le texte extrait est soumis à des droits complets d'utilisation commerciale, sans frais supplémentaires impliqués."
+      },
+      {
+        "question": "Quel type de support est disponible si j'ai besoin d'aide ?",
+        "answer": "Nous offrons un support complet via la documentation, des tutoriels et un service client par e-mail et chat."
+      },
+      {
+        "question": "Y a-t-il des frais d'abonnement ou des coûts cachés ?",
+        "answer": "Non, WaveSpeed fonctionne selon un modèle de paiement à l'utilisation avec une tarification claire basée sur le volume de texte extrait."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Extraire du Texte de Vos Images ?",
+    "description": "Commencez avec des crédits gratuits et voyez les résultats par vous-même",
+    "contactUsText": "Contactez-Nous",
+    "tryText": "Essayez-le Maintenant →"
+  },
+  "footer": {
+    "heading": "Prêt à Extraire Votre Texte ?",
+    "description": "Essayez WaveSpeed AI maintenant et découvrez une extraction de texte sans effort. Pas d'inscription requise.",
+    "ctaText": "Extraire le Texte Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

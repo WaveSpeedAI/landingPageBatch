@@ -1,0 +1,230 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Pembuat GIF AI",
+  "meta": {
+    "description": "Buat GIF menakjubkan dari gambar dengan mudah menggunakan AI. Ideal untuk media sosial, pemasaran, dan e-commerce. Temukan pembuatan GIF yang cepat dan mulus dengan WaveSpeed AI.",
+    "keywords": "pembuat GIF, pembuat GIF AI, gambar ke GIF, generator GIF animasi, alat GIF e-commerce, GIF media sosial, GIF pemasaran, pembuat GIF Shopify, alat GIF Amazon, animasi GIF, alat AI untuk GIF"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Gambar ke GIF",
+    "subHeading": "Mengubah Gambar Diam Menjadi GIF Animasi",
+    "description": "Dengan mudah ubah gambar produk Anda menjadi GIF yang menawan dalam sekejap. Tidak perlu perangkat lunak yang rumit. Rasakan kecepatan dan kreativitas yang ditawarkan WaveSpeed AI.",
+    "tryText": "Buat GIF Anda Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Pembuat GIF WaveSpeed AI",
+    "left": {
+      "heading": "Tantangan Pembuatan GIF Tradisional",
+      "items": [
+        "Pembuatan manual memakan waktu dan melelahkan",
+        "Memerlukan keterampilan desain grafis atau perangkat lunak",
+        "Sering kali berakhir dengan hasil berkualitas rendah",
+        "Opsi kustomisasi terbatas",
+        "Biaya tinggi untuk layanan profesional"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeedAI",
+      "items": [
+        "Buat GIF dalam detik dari gambar statis",
+        "Tidak memerlukan keterampilan desain - Cukup unggah gambar",
+        "Dihasilkan secara instan dengan output berkualitas tinggi",
+        "Animasi yang sepenuhnya dapat disesuaikan",
+        "Harga yang terjangkau sesuai dengan penggunaan untuk semua"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Dari gambar statis ke GIF animasi dalam 4 langkah sederhana",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Gambar",
+        "text": "Unggah foto produk atau gambar adegan Anda",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Tambahkan Efek",
+        "text": "Opsional: Pilih efek animasi (misalnya, \"fade in\")",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Pilih Ukuran",
+        "text": "Pilih dimensi GIF yang sesuai dengan kebutuhan Anda",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Unduh GIF",
+        "text": "Dapatkan GIF animasi Anda hanya dalam beberapa saat",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Hasilkan GIF Pertama Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Tak Terbatas",
+    "description": "Sempurna untuk setiap industri atau kasus penggunaan",
+    "items": [
+      "Promosi produk untuk e-commerce",
+      "Postingan media sosial yang menarik",
+      "Kampanye pemasaran email",
+      "Sorotan dan kenangan acara",
+      "Transformasi sebelum/ setelah",
+      "Cerita kreatif dan branding",
+      "Tutorial animasi",
+      "Pameran mode dan lookbook"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Lihat bagaimana bisnis mengubah alur kerja mereka dengan AI",
+    "items": [
+      {
+        "tag": "E-commerce Elektronik",
+        "heading": "GIF untuk Daftar Produk",
+        "before": {
+          "label": "Sebelum",
+          "text": "Keterlibatan rendah"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Interaksi meningkat"
+        },
+        "value": "75%",
+        "key": "Peningkatan Keterlibatan",
+        "description": "Kami mulai menggunakan GIF untuk daftar produk kami. Interaksi keseluruhan meningkat, menyebabkan peningkatan penjualan sebesar 30%."
+      },
+      {
+        "tag": "Rumah & Hidup",
+        "heading": "Toko Dekorasi Rumah",
+        "before": {
+          "label": "Sebelum",
+          "text": "Gambar statis"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "GIF dinamis"
+        },
+        "value": "80%",
+        "key": "Peningkatan Visibilitas",
+        "description": "Beralih ke GIF memungkinkan kami untuk menampilkan produk kami dengan cerah, menyebabkan visibilitas jauh lebih tinggi di media sosial."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Opsi Pembuatan GIF",
+    "description": "Pilih opsi yang tepat untuk GIF Anda",
+    "items": [
+      "Kualitas Standar: Ideal untuk GIF cepat sehari-hari dengan efek dasar",
+      "Kualitas Tinggi: Untuk GIF berkualitas profesional dengan animasi canggih",
+      "Pemicu Kustom: Mengontrol pemutaran GIF dan efek berdasarkan interaksi pengguna",
+      "Dukungan Beberapa Format: Termasuk GIF, APNG, dan lainnya",
+      "Opsi dimensi fleksibel untuk web atau mobile",
+      "Kecepatan pemrosesan cepat untuk memenuhi kebutuhan Anda"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Jelajahi lebih banyak alat AI yang kuat untuk e-commerce"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Semua yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Kualitas dan ukuran GIF apa yang dapat saya buat?",
+        "answer": "Anda dapat menghasilkan GIF berkualitas tinggi yang dioptimalkan untuk platform web dan mobile. Kami mendukung berbagai dimensi dan rasio aspek, memastikan GIF Anda terlihat bagus di mana pun ditampilkan."
+      },
+      {
+        "question": "Dapatkah saya mengontrol kecepatan dan gaya animasi?",
+        "answer": "Tentu saja! Anda dapat menyesuaikan frame rate, durasi animasi, dan gaya langsung di dalam alat, memungkinkan Anda untuk membuat apa yang Anda bayangkan."
+      },
+      {
+        "question": "Jenis dan format gambar apa yang paling cocok untuk pembuatan GIF?",
+        "answer": "Kami merekomendasikan menggunakan gambar yang jelas dan beresolusi tinggi untuk output GIF terbaik. Format umum seperti JPG, PNG, dan lainnya didukung untuk menyederhanakan proses Anda."
+      },
+      {
+        "question": "Bagaimana ini dibandingkan dengan pembuatan GIF tradisional?",
+        "answer": "Menggunakan Pembuat GIF AI kami, Anda mendapatkan hasil instan tanpa perlu perangkat lunak yang rumit. Ini memungkinkan animasi yang cerah yang sulit dicapai dengan alat standar, memberikan keuntungan bagi bisnis Anda."
+      },
+      {
+        "question": "Dapatkah saya meningkatkan atau memodifikasi GIF setelah dibuat?",
+        "answer": "Ya, platform kami menyediakan alat untuk pengeditan dan peningkatan lebih lanjut dari GIF Anda meskipun setelah mereka dibuat, memberikan Anda fleksibilitas untuk penyesuaian."
+      },
+      {
+        "question": "Model harga apa yang digunakan untuk pembuatan GIF?",
+        "answer": "Layanan kami mengikuti model bayar sesuai penggunaan tanpa biaya tersembunyi. Anda hanya membayar untuk GIF yang Anda buat dan dapat memilih dari berbagai tingkatan harga tergantung pada kualitas dan spesifikasi."
+      },
+      {
+        "question": "Berapa lama waktu yang dibutuhkan untuk membuat GIF?",
+        "answer": "Pembuatan GIF sangat cepat - biasanya hanya beberapa detik. Anda dapat menghasilkan beberapa GIF sekaligus tanpa mengalami keterlambatan."
+      },
+      {
+        "question": "Apa saja kasus penggunaan paling populer untuk Pembuat GIF?",
+        "answer": "Alat ini ideal untuk menciptakan konten menarik untuk media sosial, iklan, pameran produk, kampanye pemasaran, dan lebih banyak lagi di mana visual animasi menarik perhatian."
+      },
+      {
+        "question": "Apakah saya memiliki hak atas GIF yang saya buat?",
+        "answer": "Ya! Semua GIF yang dibuat melalui WaveSpeed mencakup hak komersial penuh, memungkinkan Anda untuk menggunakannya secara bebas di berbagai platform tanpa biaya tambahan."
+      },
+      {
+        "question": "Sumber dukungan apa yang tersedia untuk pemecahan masalah?",
+        "answer": "Kami menawarkan dokumentasi yang luas, panduan video, dan akses ke tim dukungan kami untuk pertanyaan teknis yang mungkin Anda miliki. Anda juga dapat menemukan bantuan di forum komunitas kami."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap Membuat GIF Animasi Pertama Anda?",
+    "description": "Mulai dengan kredit gratis - Lepaskan kreativitas Anda",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Buat GIF Anda Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap Menghidupkan Gambar Anda?",
+    "description": "Coba WaveSpeed AI sekarang dan rasakan kemudahan pembuatan GIF. Tidak perlu pendaftaran.",
+    "ctaText": "Buat GIF Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi."
+  }
+}

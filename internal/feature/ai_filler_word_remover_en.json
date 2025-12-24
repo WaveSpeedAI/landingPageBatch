@@ -1,0 +1,229 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Filler Word Remover",
+  "meta": {
+    "description": "Eliminate unnecessary filler words from your text effortlessly with WaveSpeed AI. Enhance clarity and professionalism in your writing, ideal for business communications, content creation, and beyond. Experience seamless editing and elevate your content instantly!",
+    "keywords": "filler word remover, AI text editor, improve writing clarity, content optimization tool, professional writing aid, business communication enhancement, text clarity tool, AI writing helper, clarity in communication, content creation tool"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Filler Word Remover",
+    "subHeading": "Enhance Your Texts by Removing Filler Words",
+    "description": "Say goodbye to unnecessary filler words that clutter your writing. Our AI technology analyzes and refines your text, ensuring that every word counts. Streamline your communication and enhance the impact of your message. Start transforming your writing now!",
+    "tryText": "Remove Filler Words Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI Filler Word Remover Solution",
+    "left": {
+      "heading": "Common Writing Challenges",
+      "items": [
+        "Text filled with unnecessary words",
+        "Lack of clarity and directness",
+        "Lower engagement from readers",
+        "Time-consuming editing process",
+        "Inconsistent writing quality"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Instantly identify and remove filler words",
+        "Improve clarity and readability in seconds",
+        "Enhance engagement and communication",
+        "Effortless editing experience",
+        "Affordable and accessible for all writers"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Refine your writing in three effortless steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Paste Text",
+        "text": "Simply copy and paste your text into the tool",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Analyze Content",
+        "text": "The AI analyzes your writing to find filler words",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Review Suggestions",
+        "text": "Review suggested edits for improved readability",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Copy Polished Text",
+        "text": "Get your revised text ready to use in any context",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Refine Your Writing Now →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Perfect for all types of writing",
+    "items": [
+      "Business emails and reports",
+      "Blog posts and articles",
+      "School essays and assignments",
+      "Social media content",
+      "Marketing materials and ads",
+      "Professional presentations",
+      "Creative writing",
+      "Scripts and dialogue"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "See how our tool enhances writing quality",
+    "items": [
+      {
+        "tag": "Content Creation",
+        "heading": "Improved Blog Engagement",
+        "before": {
+          "label": "Before",
+          "text": "Cluttered writing"
+        },
+        "after": {
+          "label": "After",
+          "text": "Clear and concise"
+        },
+        "value": "50%",
+        "key": "Engagement Boost",
+        "description": "With clearer posts, blog comments increased significantly, driving more traffic."
+      },
+      {
+        "tag": "Corporate Communications",
+        "heading": "Streamlined Email Communication",
+        "before": {
+          "label": "Before",
+          "text": "Wordy emails"
+        },
+        "after": {
+          "label": "After",
+          "text": "Direct and impactful"
+        },
+        "value": "40%",
+        "key": "Time Saved",
+        "description": "Teams experienced quicker responses, thanks to concise email structures."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Tool Comparison",
+    "description": "Understand our unique capabilities",
+    "items": [
+      "Real-time analysis for immediate edits",
+      "Customizable filters for different writing styles",
+      "AI insights on engagement metrics",
+      "User-friendly interface for effortless navigation",
+      "Support for multiple languages with contextual adjustments"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore more powerful writing tools for better content"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What types of filler words can you remove?",
+        "answer": "The tool can identify and suggest removals for common filler words such as 'just', 'very', 'really', and others that add little meaning."
+      },
+      {
+        "question": "Can this tool improve my writing style?",
+        "answer": "Yes! By removing unnecessary words, your writing style becomes clearer and more direct, which greatly improves readability."
+      },
+      {
+        "question": "Is it suitable for professional documents?",
+        "answer": "Absolutely! It's designed to enhance clarity in all types of professional writing, helping you deliver your message more effectively."
+      },
+      {
+        "question": "Will the tool work with different languages?",
+        "answer": "Yes! The AI has been optimized to work with multiple languages and can adapt to various writing styles and contexts."
+      },
+      {
+        "question": "Do I need to sign up to use it?",
+        "answer": "No signup is required to get started. You can paste your text and start enhancing it immediately."
+      },
+      {
+        "question": "How long does it take to analyze my text?",
+        "answer": "The text analysis is done in seconds, allowing you to quickly refine your writing without any hassle."
+      },
+      {
+        "question": "Can I use it for creative writing?",
+        "answer": "Yes! It’s perfect for any form of writing, including creative works, ensuring your voice remains clear and impactful."
+      },
+      {
+        "question": "Will this tool change my voice or tone?",
+        "answer": "No, the tool focuses on removing unnecessary words while retaining your unique voice and tone in the content."
+      },
+      {
+        "question": "Is the service free to use?",
+        "answer": "We offer free credits for new users to try the service, with affordable options for continued use."
+      },
+      {
+        "question": "What if I have a lot of text to edit?",
+        "answer": "You can easily process larger texts in batches to streamline your editing workflow."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Enhance Your Writing?",
+    "description": "Start with free credits - Experience smooth editing now",
+    "contactUsText": "Contact Us",
+    "tryText": "Remove Filler Words Now →"
+  },
+  "footer": {
+    "heading": "Ready to Transform Your Writing?",
+    "description": "Try WaveSpeed AI now and see the difference for yourself. No sign-up required.",
+    "ctaText": "Remove Filler Words Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

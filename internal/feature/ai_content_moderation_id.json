@@ -1,0 +1,212 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Moderasi Konten AI",
+  "meta": {
+    "description": "Manfaatkan AI untuk menjaga komunitas online Anda tetap aman dan menarik. Secara efektif menyaring konten berbahaya, meningkatkan pengalaman pengguna, dan mematuhi peraturan. Sempurna untuk platform sosial dan situs web e-commerce.",
+    "keywords": "moderasi konten AI, penyaringan konten berbahaya, keamanan online, peningkatan pengalaman pengguna, manajemen komunitas, moderasi media sosial, manajemen konten e-commerce, penyaringan waktu nyata, alat moderasi otomatis, WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Moderasi Konten AI",
+    "subHeading": "Lindungi Komunitas Anda dengan Filter Pintar",
+    "description": "Manfaatkan AI kami yang kuat untuk secara otomatis menyaring konten berbahaya dan meningkatkan interaksi pengguna secara waktu nyata. Lindungi kehadiran online Anda dengan mudah. Mulailah moderasi hari ini!",
+    "tryText": "Coba Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Moderasi Konten AI WaveSpeed AI",
+    "left": {
+      "heading": "Tantangan Tradisional",
+      "items": [
+        "Moderasi manual memakan waktu",
+        "Risiko tinggi konten berbahaya lolos",
+        "Penegakan pedoman yang tidak konsisten",
+        "Keluhan pengguna tentang konten tidak pantas",
+        "Kesulitan memenuhi persyaratan peraturan"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeed AI",
+      "items": [
+        "Penyaringan konten otomatis dalam waktu nyata",
+        "Penerapan kebijakan moderasi yang konsisten",
+        "Mengurangi risiko eksposur konten berbahaya",
+        "Meningkatkan pengalaman pengguna secara keseluruhan",
+        "Integrasi sederhana ke dalam platform yang ada"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Terapkan moderasi yang efektif dalam 3 langkah sederhana",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Integrasikan API",
+        "text": "Sambungkan API moderasi kami ke platform Anda dengan mulus",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Tetapkan Pedoman",
+        "text": "Tentukan konten apa yang akan disaring berdasarkan standar komunitas Anda",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Pantau dan Sesuaikan",
+        "text": "Terima laporan waktu nyata dan sesuaikan parameter moderasi sesuai kebutuhan",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "Mulai Moderasi →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Tak Terbatas",
+    "description": "Sempurna untuk berbagai platform online",
+    "items": [
+      "Situs media sosial",
+      "Pasar e-commerce",
+      "Forum diskusi",
+      "Komunitas game",
+      "Platform berbagi konten",
+      "Bagian komentar blog"
+    ]
+  },
+  "successStories": {
+    "heading": "Cerita Sukses Nyata",
+    "description": "Temukan bagaimana bisnis memastikan lingkungan online yang aman dengan AI",
+    "items": [
+      {
+        "tag": "Jaringan Media Sosial",
+        "heading": "Platform Keterlibatan Pemuda",
+        "before": {
+          "label": "Sebelum",
+          "text": "Tingkat keluhan tinggi"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Konten negatif diminimalkan"
+        },
+        "value": "85%",
+        "key": "Peningkatan Keamanan Konten",
+        "description": "Moderasi otomatis secara drastis mengurangi kiriman berbahaya, mengamankan ruang yang lebih aman bagi pengguna."
+      },
+      {
+        "tag": "Portal E-commerce",
+        "heading": "Situs Ulasan Produk",
+        "before": {
+          "label": "Sebelum",
+          "text": "Pedoman konten yang membingungkan"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Proses moderasi yang jelas"
+        },
+        "value": "90%",
+        "key": "Peningkatan Kepercayaan Pengguna",
+        "description": "Peningkatan moderasi menghasilkan keterlibatan positif dan peningkatan kepercayaan pelanggan."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Model AI",
+    "description": "Pilih pendekatan moderasi yang tepat untuk kebutuhan Anda",
+    "items": [
+      "Model Penyaringan Konten: Akurasi tinggi, dapat disesuaikan, ideal untuk topik sensitif",
+      "Model Deteksi Spam: Kinerja cepat, identifikasi waktu nyata terhadap kiriman yang tidak relevan",
+      "Pembelajaran AI: Terus meningkat seiring waktu dengan umpan balik pengguna",
+      "Alat Moderasi yang Dipandu Pengguna untuk laporan komunitas",
+      "Analitik Dasbor: Pantau tren konten dan efektivitas moderasi"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Temukan lebih banyak alat penting untuk keamanan online"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Segala sesuatu yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Bagaimana cara kerja moderasi konten?",
+        "answer": "AI kami menganalisis kiriman dan komentar secara waktu nyata untuk mengidentifikasi dan menyaring konten berbahaya sebelum mencapai pengguna Anda. Ini belajar dari umpan balik komunitas untuk beradaptasi dan meningkatkan seiring waktu."
+      },
+      {
+        "question": "Bisakah saya menyesuaikan pedoman moderasi?",
+        "answer": "Tentu saja! Anda dapat menetapkan pedoman spesifik yang disesuaikan dengan nilai dan standar komunitas Anda, memastikan konten yang relevan diterima sementara materi yang tidak diinginkan disaring."
+      },
+      {
+        "question": "Seberapa cepat konten berbahaya dapat disaring?",
+        "answer": "AI bekerja dalam waktu nyata, artinya sebagian besar konten berbahaya diidentifikasi dan dimoderasi hampir secara instan, menjaga lingkungan online Anda tetap aman."
+      },
+      {
+        "question": "Jenis konten apa yang bisa dimoderasi?",
+        "answer": "Teknologi kami mampu mendeteksi ujaran kebencian, spam, konten eksplisit, dan bahan berbahaya lainnya di berbagai media, termasuk teks, gambar, dan video."
+      },
+      {
+        "question": "Apakah saya akan menerima laporan tentang aktivitas moderasi?",
+        "answer": "Ya! Anda akan menerima analitik dan laporan reguler tentang tindakan moderasi yang diambil, memungkinkan pengawasan dan penyesuaian strategi yang lebih baik."
+      },
+      {
+        "question": "Apakah layanan ini dapat diskalakan untuk komunitas besar?",
+        "answer": "Tentu! Solusi kami dirancang untuk diskalakan dengan mulus seiring dengan pertumbuhan Anda, menangani volume konten yang meningkat tanpa mengorbankan kinerja."
+      },
+      {
+        "question": "Dukungan apa yang tersedia jika saya menghadapi masalah?",
+        "answer": "Kami menawarkan dukungan komprehensif termasuk dokumentasi, tutorial, dan layanan bantuan khusus untuk membantu dengan pertanyaan atau tantangan teknis apa pun."
+      },
+      {
+        "question": "Bisakah pengguna mengajukan banding terhadap keputusan moderasi?",
+        "answer": "Ya, pengguna dapat mengajukan banding melalui platform. Setiap kasus akan ditinjau untuk memastikan perlakuan adil dan transparansi dalam moderasi."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Meningkatkan Keamanan Komunitas Anda?",
+    "description": "Mulailah dengan kredit gratis - Rasakan moderasi AI hari ini",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Coba Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap untuk Mengamankan Platform Anda?",
+    "description": "Coba WaveSpeed AI sekarang dan saksikan transformasinya. Tidak perlu mendaftar.",
+    "ctaText": "Mulai Moderasi Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi."
+  }
+}

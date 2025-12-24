@@ -1,0 +1,230 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Fitur Rotoscoping AI",
+  "meta": {
+    "description": "Revolusi pengeditan video Anda dengan rotoscoping bertenaga AI. Buat animasi dan efek visual yang menakjubkan dalam hitungan menit. Ideal untuk pembuat film dan kreator konten. Eksplorasi masa depan pengeditan video bersama WaveSpeed!",
+    "keywords": "rotoscoping AI, pengeditan video AI, pembuatan animasi, generator efek visual, rotoscoping WaveSpeed, alat video kreatif, otomasi produksi film, perangkat lunak pembuatan konten, animasi tanpa batas, efisiensi produksi video"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Rotoscoping Lanjutan",
+    "subHeading": "Pembuatan Animasi Tanpa Batas di Ujung Jari Anda",
+    "description": "Ubah video Anda dengan presisi dengan memisahkan elemen menggunakan rotoscoping bertenaga AI kami. Buat animasi dan efek visual yang menawan tanpa usaha. Rasakan kekuatan rotoscoping otomatis hari ini!",
+    "tryText": "Mulai Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Rotoscoping WaveSpeed AI",
+    "left": {
+      "heading": "Tantangan Tradisional",
+      "items": [
+        "Masking manual yang memakan waktu",
+        "Membutuhkan keterampilan dan perangkat lunak yang canggih",
+        "Perangkat keras dan lisensi perangkat lunak yang mahal",
+        "Kesulitan dengan latar belakang yang kompleks",
+        "Fleksibilitas kreatif yang terbatas"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeedAI",
+      "items": [
+        "Masking dan isolasi objek instan",
+        "Antarmuka yang ramah pengguna untuk semua tingkat keterampilan",
+        "Model bayar-per-penggunaan yang terjangkau",
+        "Mengatasi latar belakang rumit dengan mudah",
+        "Tingkatkan kreativitas dengan kemungkinan tak terbatas"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Dari adegan statis ke animasi dinamis dalam 4 langkah mudah",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Video",
+        "text": "Unggah rekaman Anda yang memerlukan rotoscoping",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Pilih Elemen",
+        "text": "Pilih subjek atau objek untuk diisolasi",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Perhalus Tepi",
+        "text": "Sesuaikan tepi masking untuk transisi yang halus",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Unduh Animasi",
+        "text": "Dapatkan klip animasi Anda siap digunakan dalam hitungan menit",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Buat Video Rotoscope Pertama Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Tak Terbatas",
+    "description": "Sempurna untuk pembuat film, seniman, dan kreator konten",
+    "items": [
+      "Animasi karakter untuk film pendek",
+      "Integrasi efek visual dalam rekaman aksi langsung",
+      "Iklan dan komersial kreatif",
+      "Animasi edukasi",
+      "Efek video musik",
+      "Sinema video game",
+      "Konten media sosial dengan gaya",
+      "Pengalaman realitas virtual"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Lihat bagaimana para kreator mengubah proyek mereka dengan AI",
+    "items": [
+      {
+        "tag": "Produksi Film",
+        "heading": "Film Pendek Independen",
+        "before": {
+          "label": "Sebelum",
+          "text": "3 minggu"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "2 jam"
+        },
+        "value": "99,9%",
+        "key": "Waktu yang Dihemat",
+        "description": "Kami menyelesaikan seluruh urutan animasi untuk film pendek kami dalam waktu yang sangat singkat. Visualnya menakjubkan!"
+      },
+      {
+        "tag": "Agen Pemasaran",
+        "heading": "Iklan Produk",
+        "before": {
+          "label": "Sebelum",
+          "text": "8100"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "800"
+        },
+        "value": "90%",
+        "key": "Pengurangan Biaya",
+        "description": "Rotoscoping membantu kami memangkas biaya secara signifikan sambil mempertahankan animasi berkualitas tinggi yang memikat audiens kami."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Alat Rotoscoping",
+    "description": "Pilih pendekatan terbaik untuk proyek Anda",
+    "items": [
+      "Rotoscoping Standar: Proses manual, memerlukan banyak tenaga, kebutuhan keterampilan tinggi",
+      "Rotoscoping AI: Isolasi objek instan, penyesuaian mudah, waktu penyelesaian cepat",
+      "Topeng yang dapat disesuaikan dengan gerakan alami",
+      "Integrasi yang mulus dengan perangkat lunak pengeditan video",
+      "Kreativitas yang ditingkatkan dengan iterasi cepat",
+      "Mendukung berbagai format video untuk berbagai aplikasi"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Temukan lebih banyak solusi AI inovatif untuk kreator"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Semua yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Format video apa yang kompatibel untuk rotoscoping?",
+        "answer": "Kami mendukung semua format video utama termasuk MP4, AVI, dan MOV. Pastikan video Anda jelas dan memiliki pencahayaan yang baik untuk hasil optimal."
+      },
+      {
+        "question": "Seberapa akurat AI dalam memmasking objek?",
+        "answer": "AI kami menawarkan kemampuan masking presisi, sering kali mencapai isolasi yang sempurna dalam bingkai. Penyesuaian dapat dilakukan secara manual untuk hasil yang sempurna."
+      },
+      {
+        "question": "Bisakah saya menggunakan animasi secara komersial?",
+        "answer": "Ya! Semua animasi yang dibuat melalui WaveSpeed Studio dilengkapi dengan hak komersial penuh. Gunakan untuk pemasaran, film, dan lainnya."
+      },
+      {
+        "question": "Bagaimana jika saya belum pernah melakukan rotoscoping sebelumnya?",
+        "answer": "Tidak masalah! Antarmuka kami yang ramah pengguna memudahkan pemula, dengan tutorial dan panduan yang tersedia untuk membantu Anda."
+      },
+      {
+        "question": "Berapa lama sampai klip animasi saya siap?",
+        "answer": "Biasanya, pemrosesan hanya memakan waktu beberapa menit, tergantung pada panjang dan kompleksitas video."
+      },
+      {
+        "question": "Apakah ada dukungan pelanggan yang tersedia?",
+        "answer": "Tentu saja! Kami menyediakan dokumentasi rinci, tutorial video, dan dukungan pelanggan melalui chat dan email untuk membantu Anda."
+      },
+      {
+        "question": "Bisakah saya mengedit klip saya setelah melakukan rotoscoping?",
+        "answer": "Ya, setelah mengekspor animasi Anda, Anda dapat mengeditnya lebih lanjut di perangkat lunak pengeditan video utama mana pun."
+      },
+      {
+        "question": "Opsi harga apa yang tersedia untuk rotoscoping?",
+        "answer": "Kami menawarkan model harga yang fleksibel, hanya dibebankan untuk video yang Anda hasilkan, tanpa biaya tersembunyi."
+      },
+      {
+        "question": "Apakah ada batasan pada jumlah video yang dapat saya buat?",
+        "answer": "Tidak ada batasan! Anda dapat membuat banyak video rotoscoped yang Anda butuhkan kapan saja."
+      },
+      {
+        "question": "Industri mana yang dapat memanfaatkan rotoscoping AI?",
+        "answer": "Rotoscoping AI berguna dalam film, periklanan, pendidikan, permainan, dan media sosial, merevolusi cara visual dibuat."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap Mengubah Video Anda dengan Rotoscoping?",
+    "description": "Mulai gratis dan wujudkan visi kreatif Anda!",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Coba Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap Meningkatkan Video Anda?",
+    "description": "Rasakan kekuatan rotoscoping AI dengan WaveSpeed. Tidak perlu mendaftar.",
+    "ctaText": "Mulai Rotoscoping Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi."
+  }
+}

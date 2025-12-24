@@ -1,0 +1,229 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Reverse Video Generator",
+  "meta": {
+    "description": "Effortlessly reverse time in your videos and create captivating content with AI. Perfect for social media engagement and unique marketing campaigns. Experience the future of video creation with WaveSpeed AI.",
+    "keywords": "reverse video AI, video editing tool, AI video generator, social media video creator, time reversal video, engaging video content, marketing video maker, video enhancement, creative video solutions, AI-powered video editing"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Reverse Video Effortlessly",
+    "subHeading": "Transform Your Video Content in Seconds",
+    "description": "Instantly reverse the action in your videos to create engaging, eye-catching content. Perfect for social media and marketing. Try it now to see how easy it is to capture your audience's attention!",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Reverse Video Solution",
+    "left": {
+      "heading": "Traditional Video Editing Difficulties",
+      "items": [
+        "Manual editing required for reversing footage",
+        "Time-consuming and technical process",
+        "Limited ability to create unique effects",
+        "Requires expensive software subscriptions",
+        "High skill barrier for non-professionals"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Easily reverse videos in just minutes",
+        "No prior editing experience needed—just upload!",
+        "Engaging effects with advanced AI technology",
+        "Unlimited creativity with simple controls",
+        "Affordable pay-as-you-go pricing for all"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Reverse your video footage in 4 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Video",
+        "text": "Choose the video you want to reverse",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Select Reverse Option",
+        "text": "Click the option to reverse your footage",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Preview Your Video",
+        "text": "Instantly view the reversed video in real-time",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download & Share",
+        "text": "Get the reversed video in HD ready for sharing",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Create Your First Reversed Video →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Creative Applications",
+    "description": "Perfect for captivating content in any niche",
+    "items": [
+      "Social media clips that stand out",
+      "Unique marketing advertisements",
+      "Creative storytelling videos",
+      "Funny content for viral engagement",
+      "Artistic video slices for influencers",
+      "Dynamic product showcases",
+      "Engaging tutorials with a twist",
+      "Personalized video memories with a unique flair"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how businesses are innovating their content with AI",
+    "items": [
+      {
+        "tag": "Fitness Industry",
+        "heading": "Viral Workout Videos",
+        "before": {
+          "label": "Before",
+          "text": "Static clips"
+        },
+        "after": {
+          "label": "After",
+          "text": "Dynamic reversals that engage viewers"
+        },
+        "value": "150%",
+        "key": "Audience Engagement Increase",
+        "description": "By reversing key workout moments, our videos saw a massive spike in shares and likes, making them the talk of the town."
+      },
+      {
+        "tag": "E-commerce",
+        "heading": "Creative Product Advertisements",
+        "before": {
+          "label": "Before",
+          "text": "Standard video ads"
+        },
+        "after": {
+          "label": "After",
+          "text": "Eye-catching reversed showcases"
+        },
+        "value": "75%",
+        "key": "Boost in Sales",
+        "description": "Using reversed videos of our products resulted in significantly higher click-through rates and sales conversions."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Model Comparison",
+    "description": "Select the right reversing model for your needs",
+    "items": [
+      "Standard Reversal: Quick and effective video reversal with basic edits",
+      "Premium Reversal: Enhanced quality with seamless transitions and effects",
+      "Supports multiple video formats for versatility",
+      "Ideal for social media and marketing use",
+      "Fast processing times with efficient results on demand"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore more innovative AI tools for your video strategy"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What types of videos can I reverse?",
+        "answer": "You can reverse any video file format supported by our platform, including MP4, AVI, and MOV. Whether it's a simple clip or a complex video sequence, our AI can handle it effortlessly."
+      },
+      {
+        "question": "How long does the reversing process take?",
+        "answer": "Typically, video reversal takes only a few minutes. The duration depends on the length of the video, but our system is optimized for fast processing."
+      },
+      {
+        "question": "Can I edit the reversed video afterwards?",
+        "answer": "Absolutely! Once you have reversed your video, you can edit further using our suite of tools, allowing for additional enhancements and modifications."
+      },
+      {
+        "question": "Is there a limit to the size of the video I can upload?",
+        "answer": "We accommodate various video sizes; however, for optimal performance, we recommend uploading videos under 2GB for the best user experience."
+      },
+      {
+        "question": "Do I retain ownership of my videos?",
+        "answer": "Yes! All videos processed through our platform remain your intellectual property. You can use them freely for any purpose."
+      },
+      {
+        "question": "What if the reversed video doesn't look right?",
+        "answer": "Our AI is designed to deliver high-quality reversals, but if you encounter issues, our support team is ready to assist in correcting any problems. Just reach out!"
+      },
+      {
+        "question": "What support resources do you offer?",
+        "answer": "We provide comprehensive resources, including tutorials, FAQs, and live chat support to guide you through any questions or technical issues."
+      },
+      {
+        "question": "What pricing structure do you use for video reversals?",
+        "answer": "Our pricing is flexible; you pay per video reversal without monthly subscriptions or hidden fees. Try our service today and see the competitive rates!"
+      },
+      {
+        "question": "Can I reverse multiple videos at once?",
+        "answer": "Yes! Our system supports batch processing, allowing you to reverse several videos simultaneously, enhancing your efficiency!"
+      },
+      {
+        "question": "Can I download my reversed video in different formats?",
+        "answer": "Yes, after reversal, you can choose your preferred output format, ensuring compatibility with various platforms and uses."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Revolutionize Your Videos?",
+    "description": "Start with free credits and unlock the possibilities",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Ready to Transform Your Video Content?",
+    "description": "Experience WaveSpeed AI today and innovate your video strategy. No sign-up required.",
+    "ctaText": "Reverse Video Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

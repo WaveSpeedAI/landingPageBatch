@@ -1,0 +1,230 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Generador de Paletas de Color AI",
+  "meta": {
+    "description": "Desbloquea el poder del color con el Generador de Paletas de Color AI. Crea fácilmente esquemas de color impresionantes adaptados a tus proyectos. Ideal para diseñadores, marqueteros y cualquier persona que busque paletas inspiradoras. ¡Comienza a crear tu identidad visual única hoy!",
+    "keywords": "generador de paletas de color AI, creador de esquemas de color, herramientas de diseño, colores de marca, herramienta de inspiración de color, software de creación de color, diseño creativo, generador de tendencias de color, visuales de marketing, herramientas de diseño ecommerce"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas AI",
+        "items": [
+          [
+            "Herramientas AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Muestra",
+        "items": [
+          [
+            "Muestra",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Creación de Paletas de Color",
+    "subHeading": "Transforma Tus Ideas en Esquemas de Color Impresionantes",
+    "description": "Genera fácilmente paletas de color bellas y armoniosas que realzan tus diseños. Aprovecha la AI para explorar combinaciones infinitas adaptadas a tu marca o proyecto. ¡Experimenta la magia del color hoy!",
+    "tryText": "Crea Tu Paleta Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución Generador de Paletas de Color AI WaveSpeed",
+    "left": {
+      "heading": "Desafíos de Diseño Tradicionales",
+      "items": [
+        "La selección de color puede ser lenta",
+        "Requiere experiencia en teoría del color",
+        "A menudo resulta en paletas desajustadas",
+        "Fuentes de inspiración limitadas",
+        "Ajustes manuales frustrantes"
+      ]
+    },
+    "right": {
+      "heading": "Solución AI WaveSpeed",
+      "items": [
+        "Genera paletas de color vibrantes en segundos",
+        "Interfaz fácil de usar sin experiencia previa",
+        "Sugerencias impulsadas por AI para combinaciones perfectas",
+        "Explora iteraciones ilimitadas con un clic",
+        "Económico para freelancers y agencias"
+      ],
+      "tryText": "Probar"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "Crea una impresionante paleta de colores en 4 pasos simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Ingresa Tu Idea",
+        "text": "Introduce palabras clave o sube una imagen para inspirar tu paleta",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Selecciona un Estilo",
+        "text": "Elige entre varios estilos como moderno, vintage o juguetón",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Generar Paleta",
+        "text": "Deja que la AI te proporcione combinaciones de colores adaptadas",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Descargar y Usar",
+        "text": "Descarga tu paleta y comienza a diseñar en minutos",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Genera Tu Primera Paleta →"
+  },
+  "endlessPossibilities": {
+    "heading": "Posibilidades de Diseño Infinito",
+    "description": "Perfecto para una amplia gama de proyectos",
+    "items": [
+      "Diseño de marca e identidad",
+      "Interfaces de sitios web y aplicaciones",
+      "Materiales de marketing y anuncios",
+      "Diseño de empaques de productos",
+      "Creación de contenido para redes sociales",
+      "Gráficos para eventos y promociones",
+      "Esquemas de color para diseño interior",
+      "Inspiración para diseño de moda"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Ve cómo los creativos mejoran su trabajo con paletas generadas por AI",
+    "items": [
+      {
+        "tag": "Diseño Gráfico",
+        "heading": "Renovación de Diseño de Logo",
+        "before": {
+          "label": "Antes",
+          "text": "Opciones de color limitadas"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Paleta vibrante y cohesiva"
+        },
+        "value": "85%",
+        "key": "Satisfacción del Cliente",
+        "description": "La nueva paleta transformó nuestro logo, resultando en un incremento del 50% en la participación del cliente."
+      },
+      {
+        "tag": "Desarrollo Web",
+        "heading": "Lanzamiento del Sitio Web",
+        "before": {
+          "label": "Antes",
+          "text": "Colores inconsistentes"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Esquema de color unificado"
+        },
+        "value": "90%",
+        "key": "Atractivo Visual",
+        "description": "Gracias a la paleta generada por AI, nuestro sitio ahora tiene un aspecto moderno que resuena con los usuarios."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Modelos de Color AI",
+    "description": "Elige el estilo de color adecuado para tu proyecto",
+    "items": [
+      "Paleta Vibrante: Colores audaces y brillantes para diseños impactantes",
+      "Paleta Pastel: Colores suaves y relajantes para un toque delicado",
+      "Paleta Monocromática: Variaciones de un solo color para elegancia",
+      "Paleta Análoga: Colores adyacentes para armonía",
+      "Paleta Complementaria: Colores opuestos para un contraste dinámico",
+      "Paleta Personalizada: Opciones adaptadas basadas en las necesidades del proyecto"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas AI Relacionadas",
+    "description": "Explora más herramientas potentes para tus necesidades de diseño"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué es un generador de paletas de color?",
+        "answer": "Un generador de paletas de color es una herramienta que te ayuda a crear esquemas de color armoniosos basados en tus preferencias o entrada. Utiliza algoritmos para sugerir colores que combinan bien juntos."
+      },
+      {
+        "question": "¿Cómo uso el Generador de Paletas de Color AI?",
+        "answer": "Simplemente ingresa palabras clave relacionadas con tu proyecto o sube una imagen, selecciona un estilo y deja que la AI genere una paleta de color para que la uses en tus diseños."
+      },
+      {
+        "question": "¿Puedo personalizar las paletas generadas?",
+        "answer": "¡Sí! Puedes ajustar las paletas generadas para que coincidan mejor con tu visión, ajustando colores individuales o reemplazándolos por completo."
+      },
+      {
+        "question": "¿En qué formatos están disponibles las paletas de color?",
+        "answer": "Las paletas generadas se pueden descargar en varios formatos, incluidos valores RGB, códigos HEX y como archivos de muestras compatibles con software de diseño."
+      },
+      {
+        "question": "¿Necesitaré un fondo de diseño para usar esta herramienta?",
+        "answer": "¡Para nada! El Generador de Paletas de Color AI está diseñado para todos, ya seas un diseñador profesional o apenas estés comenzando."
+      },
+      {
+        "question": "¿Hay un límite en cuántas paletas puedo crear?",
+        "answer": "¡No, puedes crear tantas paletas como desees! No hay límites en el uso, lo que facilita explorar diferentes opciones de color."
+      },
+      {
+        "question": "¿Poseo los derechos sobre las paletas generadas?",
+        "answer": "¡Sí! Todas las paletas de color generadas a través de WaveSpeed pueden usarse comercialmente sin pagos de regalías."
+      },
+      {
+        "question": "¿Qué soporte está disponible si encuentro problemas?",
+        "answer": "Proporcionamos documentación detallada, tutoriales y un equipo de soporte disponible a través de correo electrónico y chat en vivo para ayudar con cualquier pregunta."
+      },
+      {
+        "question": "¿Cómo ayuda esta herramienta con la marca?",
+        "answer": "Al generar paletas de colores adaptadas, puedes crear una identidad de marca cohesiva y visualmente atractiva que destaque en el mercado."
+      },
+      {
+        "question": "¿Es la herramienta gratuita para usar?",
+        "answer": "WaveSpeed ofrece varias opciones de precios, incluidos créditos gratuitos para nuevos usuarios que desean probar el Generador de Paletas de Color antes de comprometerse."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Crear Tu Impresionante Paleta de Color?",
+    "description": "Comienza con créditos gratuitos - ¡Experimenta la transformación ahora!",
+    "contactUsText": "Contáctanos",
+    "tryText": "Pruébalo Ahora →"
+  },
+  "footer": {
+    "heading": "¿Listo para Elevar Tus Diseños?",
+    "description": "Prueba WaveSpeed AI ahora y ve la diferencia por ti mismo. No se requiere registro.",
+    "ctaText": "Genera Tu Paleta Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

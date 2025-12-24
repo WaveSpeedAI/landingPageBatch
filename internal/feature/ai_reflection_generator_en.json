@@ -1,0 +1,222 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Reflection Generator",
+  "meta": {
+    "description": "Create stunning product reflections instantly with our AI Reflection Generator. Perfect for enhancing your e-commerce images and improving product presentation. Experience seamless integration with your online store.",
+    "keywords": "AI reflection generator, e-commerce image enhancement, product reflection tool, Shopify reflection generator, Amazon product images, AI photo editing, realistic reflections, product showcase tool, marketing image tool, online retail image enhancement"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Create Stunning Reflections",
+    "subHeading": "Enhance Your Product Images with Realistic Reflections",
+    "description": "Instantly transform your product photos with realistic reflections, making them stand out and attract more customers. Powered by advanced AI, our tool is designed for e-commerce success. Start enhancing your product images today!",
+    "tryText": "Try It Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Reflection Generator Solution",
+    "left": {
+      "heading": "Traditional Challenges",
+      "items": [
+        "Creating realistic reflections is time-consuming",
+        "Requires advanced graphic design skills",
+        "Expensive software and tools often needed",
+        "Limited customization options",
+        "Difficult for small businesses to afford"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI Solution",
+      "items": [
+        "Generate realistic reflections in seconds",
+        "No design experience necessary - Just upload images",
+        "Instant results with AI-powered technology",
+        "Fully customizable reflection styles",
+        "Affordable pricing model for every business"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "From ordinary product photo to stunning reflection in 4 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Image",
+        "text": "Upload your product photo without reflections",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Choose Reflection Style",
+        "text": "Select from various reflection styles (e.g., glass, water)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Adjust Settings",
+        "text": "Fine-tune settings like opacity and angle",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Enhanced Image",
+        "text": "Get your enhanced product image with reflections",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Create Your Reflection →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Perfect for any product and application",
+    "items": [
+      "Enhance e-commerce product listings",
+      "Create captivating marketing materials",
+      "Improve social media posts and ads",
+      "Utilize in online catalogs",
+      "Elevate your brand's visual identity",
+      "Craft stunning promotional banners",
+      "Ideal for fashion lookbooks",
+      "Perfect for online portfolio presentations"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover how businesses are enhancing their images with AI",
+    "items": [
+      {
+        "tag": "E-commerce Fashion",
+        "heading": "Online Clothing Retailer",
+        "before": {
+          "label": "Before",
+          "text": "Basic images"
+        },
+        "after": {
+          "label": "After",
+          "text": "Reflections included"
+        },
+        "value": "75%",
+        "key": "Image Quality Improvement",
+        "description": "Using reflections boosted our click-through rates significantly."
+      },
+      {
+        "tag": "Home Goods",
+        "heading": "Furniture Store",
+        "before": {
+          "label": "Before",
+          "text": "Static images"
+        },
+        "after": {
+          "label": "After",
+          "text": "Engaging visuals"
+        },
+        "value": "85%",
+        "key": "Engagement Increase",
+        "description": "Enhanced product visuals increased customer engagement and sales."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Reflection Model Comparison",
+    "description": "Select the right reflection model for your needs",
+    "items": [
+      "Standard Reflection: Basic reflections for simple images, quick processing",
+      "Premium Reflection: Advanced photorealistic reflections with customizable settings",
+      "Glass Reflection: Stunning glass-like effects for a sophisticated look",
+      "Water Reflection: Perfect for lifestyle images with realistic water effects",
+      "Instant generation in seconds",
+      "Commercial usage rights included"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Explore other powerful AI tools for your e-commerce needs"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What types of images work best for reflections?",
+        "answer": "High-quality images with clear backgrounds yield the best reflection results, though the AI can enhance various types. Aim for images that are sharply focused and well-lit."
+      },
+      {
+        "question": "Can I customize the reflection style and settings?",
+        "answer": "Yes! Choose from multiple reflection styles and adjust settings like angle and opacity to match your desired look."
+      },
+      {
+        "question": "How quickly can I obtain my enhanced images?",
+        "answer": "Image generation is typically instant, allowing you to download your enhanced product images in seconds."
+      },
+      {
+        "question": "Are there any limitations on usage rights for generated images?",
+        "answer": "All images generated with the reflection feature come with commercial usage rights included, allowing for unlimited usage."
+      },
+      {
+        "question": "Do I need graphic design experience to use this tool?",
+        "answer": "No, our tool is designed for ease of use. Simply upload your image and select your desired options."
+      },
+      {
+        "question": "What pricing model do you offer for reflection generation?",
+        "answer": "WaveSpeed operates on a pay-as-you-go model, meaning you only pay for the reflections you create without any hidden fees."
+      },
+      {
+        "question": "Can I enhance multiple images at once?",
+        "answer": "Yes, you can upload several images simultaneously and generate reflections for each in one go."
+      },
+      {
+        "question": "What support is available if I need help?",
+        "answer": "We offer comprehensive support, including documentation, tutorials, and customer service via email and chat."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Transform Your Product Images?",
+    "description": "Get started with free credits and see the magic of reflections",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Enhance Your Product Photography Now!",
+    "description": "Experience the benefits of the AI Reflection Generator today. No sign-up needed.",
+    "ctaText": "Create Reflections Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

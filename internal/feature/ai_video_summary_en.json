@@ -1,0 +1,230 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Video Summary",
+  "meta": {
+    "description": "Quickly create succinct video summaries of your content with AI. Streamline overlong narratives into concise and engaging videos effortlessly. Ideal for businesses looking to enhance communication and engagement. Black Friday specials available!",
+    "keywords": "AI video summary, video summarization tool, automated video editing, concise video creator, content marketing, AI summaries, efficient communication, business video tool, engagement booster, marketing video converter, social media video summary"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "AI Video Summary",
+    "subHeading": "Breathe Life Into Your Content with Engaging Summaries",
+    "description": "Transform long-form videos into captivating summaries in just minutes. Harness cutting-edge AI technology to simplify your content and retain viewer attention. Get started today!",
+    "tryText": "Create My Summary Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Video Summary Solution",
+    "left": {
+      "heading": "Traditional Challenges",
+      "items": [
+        "Manual summarization is time-intensive",
+        "High production costs for video recaps",
+        "Inconsistent message delivery and clarity",
+        "Difficulty in keeping audience engaged",
+        "Limited use of video in communication"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Automate video summarization in minutes",
+        "No technical expertise required - Just upload",
+        "Quick engagement through AI-driven content",
+        "Multiple summary styles to choose from",
+        "Flexible pricing - Budget-friendly for all"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Transform lengthy videos into concise summaries in 4 simple steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Video",
+        "text": "Choose your long-form video to summarize",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Customize Summary",
+        "text": "Optionally: Provide key points or sections to focus on",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Select Style",
+        "text": "Choose a summary style that fits your brand's voice",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Summary Video",
+        "text": "Receive your concise summary in minutes, ready to share",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Generate Your First Summary →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Perfect for a variety of use cases",
+    "items": [
+      "Promotional video summaries for products",
+      "Social media post summaries",
+      "Corporate training recaps",
+      "User testimonials and case studies",
+      "Event highlight videos",
+      "Webinar and presentation summaries",
+      "YouTube video highlights",
+      "Podcast episode recaps"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Businesses revolutionizing their content strategy with AI",
+    "items": [
+      {
+        "tag": "Tech Industry",
+        "heading": "Summary for Product Demos",
+        "before": {
+          "label": "Before",
+          "text": "5 hours for editing"
+        },
+        "after": {
+          "label": "After",
+          "text": "15 minutes using AI"
+        },
+        "value": "90%",
+        "key": "Time Savings",
+        "description": "Our team drastically reduced editing time and improved viewer retention with engaging video summaries."
+      },
+      {
+        "tag": "E-learning",
+        "heading": "Course Overview Videos",
+        "before": {
+          "label": "Before",
+          "text": "Manual video edits took ages"
+        },
+        "after": {
+          "label": "After",
+          "text": "Instant summaries with AI"
+        },
+        "value": "95%",
+        "key": "Efficiency Gain",
+        "description": "We enhanced how learners engage with course material by delivering clear and concise video summaries instantly."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI Model Comparison",
+    "description": "Choose the model best suited for your summarization needs",
+    "items": [
+      "Veo 3.1: Detailed summaries with engaging visuals and transitions",
+      "Seedance I2V: Quick, straightforward summaries for fast turnaround",
+      "Text summarization capabilities that ensure main points are clear",
+      "Smooth transitions that maintain viewer engagement",
+      "1-2 minute summary generation",
+      "Commercial usage rights are included"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Discover more innovative AI solutions for your needs"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What kind of videos can be summarized?",
+        "answer": "Our tool works best with various types of videos including training sessions, promotional content, interviews, and presentations. Simple to complex videos can be distilled into engaging summaries that showcase key points effectively."
+      },
+      {
+        "question": "Can I customize the summary layout?",
+        "answer": "Yes! You can choose from multiple summary styles to match your branding and desired format. Customize the focus and presentation to ensure it aligns with your message."
+      },
+      {
+        "question": "How long does summarization take?",
+        "answer": "Typically, the summarization process takes only 1-2 minutes regardless of video length. Enjoy rapid results that keep pace with your efficiency needs."
+      },
+      {
+        "question": "Are there limitations on video length for summarization?",
+        "answer": "Our tool can handle videos of various lengths. However, for optimal results, we recommend adhering to typical industry standards for video lengths when submitting content."
+      },
+      {
+        "question": "Can I edit the summary after generation?",
+        "answer": "Absolutely! While our AI delivers a polished summary, you have the flexibility to tweak and adjust it further using your preferred editing tools for maximum impact."
+      },
+      {
+        "question": "What is the pricing structure for using the summarization tool?",
+        "answer": "WaveSpeed operates on a pay-as-you-go model. You only pay for the summaries generated, allowing for budget control and flexibility with no hidden costs."
+      },
+      {
+        "question": "Do I retain rights to the generated summaries?",
+        "answer": "Yes! All summaries created with our AI tool come with full commercial rights, allowing unrestricted use without additional licensing fees."
+      },
+      {
+        "question": "Is there customer support available?",
+        "answer": "Yes! We offer comprehensive support, including detailed FAQs, documentation, and a responsive customer service team to assist with inquiries and troubleshooting needs."
+      },
+      {
+        "question": "What formats can I upload for summarization?",
+        "answer": "We support a variety of video formats including MP4, MOV, and AVI. Ensure your content is clear and of high quality for the best summarization results."
+      },
+      {
+        "question": "Can I generate multiple summaries at once?",
+        "answer": "Yes! Our tool supports batch processing, allowing you to generate summaries for multiple videos simultaneously, making it efficient and hassle-free."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Streamline Your Content?",
+    "description": "Start with free credits - Experience the difference today",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Transform Your Videos Now!",
+    "description": "Try WaveSpeed AI today and witness effortless video summarization. No sign-up required.",
+    "ctaText": "Summarize My Video Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

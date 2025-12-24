@@ -1,0 +1,226 @@
+{
+  "language": "en",
+  "title": "WaveSpeed AI - AI Bokeh Generator",
+  "meta": {
+    "description": "Enhance your images with stunning background blur effects using our AI Bokeh Generator. Perfect for product photography, portraits, and social media. Elevate your visual content effortlessly!",
+    "keywords": "AI Bokeh Generator, background blur AI, product photography enhancement, image effects tool, e-commerce image tool, portrait background blur, Instagram photo editing, high-quality image processing, visual content optimizer, photography tools"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Tools",
+        "items": [
+          [
+            "AI Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Try it now"
+  },
+  "hero": {
+    "heading": "Transform Your Images",
+    "subHeading": "Add Stunning Bokeh Effects Instantly",
+    "description": "Elevate your photography with our AI Bokeh Generator. Transform ordinary images into captivating visuals with beautiful background blur effects. It's simple—just upload your photo and watch the magic happen!",
+    "tryText": "Get Started Now",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI Bokeh Generator Solution",
+    "left": {
+      "heading": "Traditional Challenges",
+      "items": [
+        "Manual editing is time-consuming and labor-intensive",
+        "Requires advanced software knowledge and expensive tools",
+        "Difficult to achieve professional-looking results",
+        "Limited customization options for background effects",
+        "Frustrating learning curve for amateurs"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Solution",
+      "items": [
+        "Apply stunning bokeh effects in seconds",
+        "No software download or complex tools needed—just upload!",
+        "Achieve professional results effortlessly with AI",
+        "Customize blur intensity and focus areas",
+        "Affordable pricing with pay-as-you-go options"
+      ],
+      "tryText": "Try"
+    }
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "description": "Create beautiful bokeh in 4 easy steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload Your Image",
+        "text": "Drag and drop your photo or select it from your device",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Select Focus Points",
+        "text": "Choose the areas you want to remain sharp",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Adjust Bokeh Settings",
+        "text": "Set the blur intensity to achieve your desired look",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Download Your Image",
+        "text": "Get your stunning bokeh-enhanced photo in seconds",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Generate Your Stunning Photo →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endless Possibilities",
+    "description": "Ideal for various applications",
+    "items": [
+      "Enhance product images for e-commerce",
+      "Create beautiful portraits for personal use",
+      "Elevate your social media posts",
+      "Design eye-catching marketing materials",
+      "Craft memorable invitations and graphics",
+      "Develop content for blogs and websites",
+      "Produce stunning visual artwork",
+      "Transform everyday photos into masterpieces"
+    ]
+  },
+  "successStories": {
+    "heading": "Real Success Stories",
+    "description": "Discover the impact of AI on image enhancement",
+    "items": [
+      {
+        "tag": "Photography Enthusiasts",
+        "heading": "E-commerce Product Images",
+        "before": {
+          "label": "Before",
+          "text": "Flat and dull"
+        },
+        "after": {
+          "label": "After",
+          "text": "Visually striking"
+        },
+        "value": "94.7%",
+        "key": "Visual Appeal Increase",
+        "description": "Our product images transformed sales—customer engagement rose by 50% after enhancing with bokeh effects."
+      },
+      {
+        "tag": "Professional Photographer",
+        "heading": "Social Media Campaign",
+        "before": {
+          "label": "Before",
+          "text": "Standard images"
+        },
+        "after": {
+          "label": "After",
+          "text": "Eye-catching visuals"
+        },
+        "value": "88%",
+        "key": "Engagement Boost",
+        "description": "Using the Bokeh Generator, I increased likes on social media posts by 88%! My followers love the new look."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Bokeh Effect Options",
+    "description": "Select the right effect for your vision",
+    "items": [
+      "Standard Bokeh: Soft blur for general images, ideal for portraits and landscapes",
+      "Creative Bokeh: Artistic shapes and colors, perfect for more stylized photos",
+      "Custom Focus: Specify your own focus area for unique compositions",
+      "Dynamic Bokeh: Adjusts depending on the image context, providing a tailored effect",
+      "Instant preview feature to see changes live",
+      "Commercial rights included for all generated images"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Related AI Tools",
+    "description": "Discover more amazing AI tools for your photos"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Everything you need to know",
+    "items": [
+      {
+        "question": "What image formats are compatible?",
+        "answer": "We support JPG, PNG, and WebP formats. Ensure your images are high-resolution for the best results."
+      },
+      {
+        "question": "Can I control the intensity of the blur?",
+        "answer": "Yes! You can easily adjust the blur intensity to achieve the desired background effect."
+      },
+      {
+        "question": "How does the AI know which areas to focus on?",
+        "answer": "You select the focus points manually, allowing the AI to seamlessly blur the rest of the image."
+      },
+      {
+        "question": "Is there a limit to how many images I can enhance?",
+        "answer": "No! You can enhance multiple images with no restrictions; just upload and generate as many as you need."
+      },
+      {
+        "question": "Do I need any special software to use this tool?",
+        "answer": "No special software or downloads are required; everything is done through our online platform."
+      },
+      {
+        "question": "What pricing model do you use for the Bokeh Generator?",
+        "answer": "We offer a pay-as-you-go model, ensuring you only pay for the effects you apply—no subscriptions."
+      },
+      {
+        "question": "How quickly can I download my enhanced images?",
+        "answer": "Generation time is typically 1-2 minutes, allowing for fast delivery of your bokeh-enhanced images."
+      },
+      {
+        "question": "Do I retain rights to the images I enhance?",
+        "answer": "Yes! You own full commercial rights to all images processed through our platform."
+      },
+      {
+        "question": "What support do you offer if something goes wrong?",
+        "answer": "We provide comprehensive support through documentation, tutorials, and customer service."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Enhance Your Photos?",
+    "description": "Get started with our AI Bokeh Generator today and see the transformation instantly!",
+    "contactUsText": "Contact Us",
+    "tryText": "Try It Now →"
+  },
+  "footer": {
+    "heading": "Transform Your Photos Today!",
+    "description": "Experience the amazing effects of our AI Bokeh Generator. No sign-up required, try it now.",
+    "ctaText": "Enhance Your Images Now",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}
