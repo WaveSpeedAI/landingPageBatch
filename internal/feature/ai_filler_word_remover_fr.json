@@ -1,0 +1,229 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Supprimant les Mots de Remplissage AI",
+  "meta": {
+    "description": "Éliminez sans effort les mots de remplissage inutiles de votre texte avec WaveSpeed AI. Améliorez la clarté et le professionnalisme de votre écriture, idéal pour les communications professionnelles, la création de contenu, et au-delà. Découvrez une édition sans effort et élevez votre contenu instantanément!",
+    "keywords": "supprimant les mots de remplissage, éditeur de texte AI, améliorer la clarté de l'écriture, outil d'optimisation de contenu, aide à l'écriture professionnelle, amélioration de la communication professionnelle, outil de clarté de texte, aide à l'écriture AI, clarté dans la communication, outil de création de contenu"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils AI",
+        "items": [
+          [
+            "Outils AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Supprimant les Mots de Remplissage",
+    "subHeading": "Améliorez Vos Textes en Éliminant les Mots de Remplissage",
+    "description": "Dites adieu aux mots de remplissage inutiles qui encombrent votre écriture. Notre technologie AI analyse et affine votre texte, s'assurant que chaque mot compte. Rationalisez votre communication et améliorez l'impact de votre message. Commencez à transformer votre écriture maintenant!",
+    "tryText": "Supprimer les Mots de Remplissage Maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution de Supprimant les Mots de Remplissage WaveSpeed AI",
+    "left": {
+      "heading": "Défis Courants de l'Écriture",
+      "items": [
+        "Texte rempli de mots inutiles",
+        "Manque de clarté et de directivité",
+        "Moins d'engagement de la part des lecteurs",
+        "Processus d'édition long",
+        "Qualité d'écriture inconstante"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed AI",
+      "items": [
+        "Identifier et supprimer instantanément les mots de remplissage",
+        "Améliorer la clarté et la lisibilité en quelques secondes",
+        "Améliorer l'engagement et la communication",
+        "Expérience d'édition sans effort",
+        "Abordable et accessible à tous les écrivains"
+      ],
+      "tryText": "Essayer"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment Ça Marche",
+    "description": "Affinez votre écriture en trois étapes sans effort",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Coller le Texte",
+        "text": "Il vous suffit de copier et coller votre texte dans l'outil",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Analyser le Contenu",
+        "text": "L'AI analyse votre écriture pour trouver les mots de remplissage",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Revoir les Suggestions",
+        "text": "Revoir les modifications suggérées pour une meilleure lisibilité",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Copier le Texte Poli",
+        "text": "Obtenez votre texte révisé prêt à l'emploi dans n'importe quel contexte",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Affinez Votre Écriture Maintenant →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilités Infinies",
+    "description": "Parfait pour tous les types d'écriture",
+    "items": [
+      "Emails et rapports professionnels",
+      "Articles de blog et articles",
+      "Essais scolaires et devoirs",
+      "Contenu sur les réseaux sociaux",
+      "Matériel de marketing et publicités",
+      "Présentations professionnelles",
+      "Écriture créative",
+      "Scripts et dialogues"
+    ]
+  },
+  "successStories": {
+    "heading": "Vraies Histoires de Succès",
+    "description": "Voyez comment notre outil améliore la qualité de l'écriture",
+    "items": [
+      {
+        "tag": "Création de Contenu",
+        "heading": "Engagement Amélioré sur le Blog",
+        "before": {
+          "label": "Avant",
+          "text": "Écriture encombrée"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Clair et concis"
+        },
+        "value": "50%",
+        "key": "Augmentation de l'Engagement",
+        "description": "Avec des publications plus claires, les commentaires sur le blog ont considérablement augmenté, générant plus de trafic."
+      },
+      {
+        "tag": "Communications Corporatives",
+        "heading": "Communication par Email Rationalisée",
+        "before": {
+          "label": "Avant",
+          "text": "Emails verbeux"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Direct et percutant"
+        },
+        "value": "40%",
+        "key": "Temps Gagné",
+        "description": "Les équipes ont eu des réponses plus rapides, grâce à des structures d'email concises."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison des Outils AI",
+    "description": "Comprenez nos capacités uniques",
+    "items": [
+      "Analyse en temps réel pour des modifications immédiates",
+      "Filtres personnalisables pour différents styles d'écriture",
+      "Aperçus AI sur les métriques d'engagement",
+      "Interface conviviale pour une navigation sans effort",
+      "Prise en charge de plusieurs langues avec ajustements contextuels"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils AI Connexes",
+    "description": "Découvrez d'autres outils d'écriture puissants pour un meilleur contenu"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quels types de mots de remplissage pouvez-vous supprimer?",
+        "answer": "L'outil peut identifier et suggérer la suppression de mots de remplissage courants tels que 'juste', 'très', 'vraiment', et d'autres qui ajoutent peu de sens."
+      },
+      {
+        "question": "Cet outil peut-il améliorer mon style d'écriture?",
+        "answer": "Oui! En supprimant les mots inutiles, votre style d'écriture devient plus clair et plus direct, ce qui améliore considérablement la lisibilité."
+      },
+      {
+        "question": "Est-il adapté aux documents professionnels?",
+        "answer": "Absolument! Il est conçu pour améliorer la clarté dans tous les types d'écriture professionnelle, vous aidant à transmettre votre message plus efficacement."
+      },
+      {
+        "question": "L'outil fonctionnera-t-il avec différentes langues?",
+        "answer": "Oui! L'AI a été optimisée pour fonctionner avec plusieurs langues et peut s'adapter à divers styles et contextes d'écriture."
+      },
+      {
+        "question": "Dois-je m'inscrire pour l'utiliser?",
+        "answer": "Aucune inscription n'est requise pour commencer. Vous pouvez coller votre texte et commencer à l'améliorer immédiatement."
+      },
+      {
+        "question": "Combien de temps faut-il pour analyser mon texte?",
+        "answer": "L'analyse du texte se fait en quelques secondes, vous permettant d'affiner rapidement votre écriture sans tracas."
+      },
+      {
+        "question": "Puis-je l'utiliser pour l'écriture créative?",
+        "answer": "Oui! C'est parfait pour toute forme d'écriture, y compris les œuvres créatives, en veillant à ce que votre voix reste claire et percutante."
+      },
+      {
+        "question": "Cet outil va-t-il changer ma voix ou mon ton?",
+        "answer": "Non, l'outil se concentre sur la suppression des mots inutiles tout en conservant votre voix et votre ton uniques dans le contenu."
+      },
+      {
+        "question": "Le service est-il gratuit?",
+        "answer": "Nous offrons des crédits gratuits pour les nouveaux utilisateurs pour essayer le service, avec des options abordables pour une utilisation continue."
+      },
+      {
+        "question": "Que se passe-t-il si j'ai beaucoup de texte à éditer?",
+        "answer": "Vous pouvez facilement traiter de plus longs textes par lots pour rationaliser votre flux de travail d'édition."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Améliorer Votre Écriture?",
+    "description": "Commencez avec des crédits gratuits - Découvrez une édition fluide maintenant",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Supprimer les Mots de Remplissage Maintenant →"
+  },
+  "footer": {
+    "heading": "Prêt à Transformer Votre Écriture?",
+    "description": "Essayez WaveSpeed AI maintenant et constatez la différence par vous-même. Aucune inscription requise.",
+    "ctaText": "Supprimer les Mots de Remplissage Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - KI-Auto-Modell-Generator",
+  "meta": {
+    "description": "Erstellen Sie mühelos atemberaubende und realistische Automodelle mit KI. Ideal für Automarketing und Design, bringen Sie Ihre Ideen in einem Bruchteil der Zeit zum Leben. Entdecken Sie die Zukunft des Automodelldesigns mit WaveSpeed.",
+    "keywords": "KI-Auto-Modell-Generator, Automobildesign, 3D-Automodellierung, Marketing-Tool für Automobile, WaveSpeed AI, kreatives Fahrzeugdesign, Automobilvisualisierung, digitale Automodelle, rapid Prototyping, virtuelles Automobilschaustück"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI-Tools",
+        "items": [
+          [
+            "KI-Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "Auto-Modell-Generator",
+    "subHeading": "Bringen Sie Ihre Automobilvisionen zum Leben",
+    "description": "Generieren Sie atemberaubende Automodelle von Konzept bis Realität in Minuten. Keine komplizierten Designfähigkeiten erforderlich. Erleben Sie die modernste KI-Technologie, die den Automobildesignprozess neu definiert.",
+    "tryText": "Jetzt erstellen",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI KI-Auto-Modell-Generator-Lösung",
+    "left": {
+      "heading": "Traditionelle Herausforderungen",
+      "items": [
+        "Die Automodellierung ist zeitintensiv und kostspielig",
+        "Komplexe Software, die umfassendes Training erfordert",
+        "Schwierige Iterationen und Überarbeitungen",
+        "Eingeschränkter Zugang zu hochwertigen Ressourcen",
+        "Hohe Kosten machen es für Startups unzugänglich"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Lösung",
+      "items": [
+        "Erstellen Sie detaillierte Automodelle in nur wenigen Minuten",
+        "Keine speziellen Fähigkeiten oder Software erforderlich - Einfach Ideen hochladen",
+        "Schnelle, KI-gesteuerte Ergebnisse für effiziente Arbeitsabläufe",
+        "Unbegrenzte Designiterationen direkt zur Hand",
+        "Erschwingliche Kosten angepasst an jedes Budget"
+      ],
+      "tryText": "Ausprobieren"
+    }
+  },
+  "howItWorks": {
+    "heading": "So funktioniert es",
+    "description": "Vom Konzept zum Automodell in 4 einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Konzeptkunst hochladen",
+        "text": "Laden Sie Skizzen oder Inspiration für Ihr Fahrzeugdesign hoch",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Spezifikationen hinzufügen",
+        "text": "Geben Sie Details zu Abmessungen, Stil und Funktionen an",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Stilmerkmale auswählen",
+        "text": "Wählen Sie aus einer Vielzahl von Anpassungsoptionen und Oberflächen",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Modell herunterladen",
+        "text": "Erhalten Sie Ihr hochwertiges 3D-Modell in Minuten",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Generieren Sie Ihr erstes Automodell →"
+  },
+  "endlessPossibilities": {
+    "heading": "Grenzenlose Möglichkeiten",
+    "description": "Ideal für Automobilenthusiasten und Fachleute gleichermaßen",
+    "items": [
+      "Individuelle Autodesigns für Marketingkampagnen",
+      "Realistische Prototypen für Herstellerpräsentationen",
+      "Konzeptdesigns für Automobilausstellungen",
+      "Virtuelle Showrooms und Displays",
+      "Zusammenarbeit an Designideen mit Teams",
+      "Verbesserte automobilbasierte Simulationen",
+      "Innovative Fahrzeugmerkmale Visualisierungen",
+      "Dynamische Werbemittel für soziale Medien"
+    ]
+  },
+  "successStories": {
+    "heading": "Transformative Erfolgsgeschichten",
+    "description": "Erfahren Sie, wie Automobilunternehmen KI zur Designinnovation nutzen",
+    "items": [
+      {
+        "tag": "Automobildesign",
+        "heading": "Luxusauto-Startup",
+        "before": {
+          "label": "Vorher",
+          "text": "6 Wochen"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "1 Tag"
+        },
+        "value": "98%",
+        "key": "Eingesparte Zeit",
+        "description": "Wir haben unsere Modellentwicklung für fünf neue Fahrzeuge innerhalb einer Woche beschleunigt. Das ermöglichte uns, schneller Investoren zu präsentieren."
+      },
+      {
+        "tag": "Automobilhandel",
+        "heading": "Online-Autohändler",
+        "before": {
+          "label": "Vorher",
+          "text": "Kostenintensiv und langsam"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Schnell und erschwinglich"
+        },
+        "value": "95%",
+        "key": "Kostenreduzierung",
+        "description": "Wir haben KI-Automodelle implementiert, um unsere Angebote zu verbessern, und sahen einen drastischen Anstieg des Kundenengagements."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "KI-Modellvergleich",
+    "description": "Wählen Sie das Modell, das am besten zu Ihren automobilen Bedürfnissen passt",
+    "items": [
+      "Standardmodell: Grundlegende Designmerkmale, 3D-Rendering, schnelle Durchlaufzeiten",
+      "Premium-Modell: Fortgeschrittene Details, realistische Texturen, längere Erstellungszeiten",
+      "Benutzerdefinierte Spezifikationen für besondere Anfragen",
+      "Echtzeit-Feedback und Anpassungen während der Modellierung",
+      "Skalierbare Designs für Werbezwecke",
+      "Universelle Kompatibilität mit 3D-Plattformen"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ähnliche KI-Tools",
+    "description": "Entdecken Sie weitere innovative KI-Tools für das Automobildesign"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welches Detailniveau kann ich bei den Modellen erwarten?",
+        "answer": "Die KI produziert hochdetaillierte Modelle mit genauen Proportionen und anpassbaren Funktionen, die bereit für das Rendering oder die Integration in verschiedene Anwendungen sind."
+      },
+      {
+        "question": "Kann ich den Designstil der Modelle beeinflussen?",
+        "answer": "Absolut! Sie können Stile oder Themen sowie Funktionen durch Ihre Spezifikationen und Konzeptkunst angeben, um ein personalisiertes Design zu ermöglichen."
+      },
+      {
+        "question": "Welche Dateiformate stehen für die heruntergeladenen Modelle zur Verfügung?",
+        "answer": "Generierte Modelle können in verschiedenen Dateiformaten heruntergeladen werden, einschließlich OBJ, STL und FBX, die mit den meisten 3D-Software kompatibel sind."
+      },
+      {
+        "question": "Wie schnell ist der Modellgenerierungsprozess?",
+        "answer": "Die Modellgenerierung dauert normalerweise nur wenige Minuten, abhängig von der Komplexität des Designs. Die KI optimiert den Workflow erheblich."
+      },
+      {
+        "question": "Gibt es Nutzungsrechte für die generierten Modelle?",
+        "answer": "Ja, Sie besitzen volle kommerzielle Rechte an den über WaveSpeed erstellten Modellen, die eine Nutzung im Marketing, Verkauf und Produktentwicklung ermöglichen."
+      },
+      {
+        "question": "Welche Unterstützung gibt es für die Nutzung des KI-Generators?",
+        "answer": "Wir bieten umfangreiche Dokumentation, Tutorial-Videos und Live-Support-Optionen an, um Ihnen zu helfen, das Beste aus dem KI-Auto-Modell-Generator herauszuholen."
+      },
+      {
+        "question": "Wie starte ich mit dem Auto-Modell-Generator?",
+        "answer": "Melden Sie sich einfach an und verwenden Sie Ihre kostenlosen Credits, um mit der Erstellung von Automodellen zu beginnen. Die Benutzeroberfläche ist benutzerfreundlich, um ein schnelles Lernen zu erleichtern."
+      },
+      {
+        "question": "Kann der Generator Anfragen für komplexe Designs bearbeiten?",
+        "answer": "Ja, der Generator ist in der Lage, komplexe Spezifikationen zu bearbeiten, obwohl einfachere Designs schnellere Ergebnisse liefern. Wir empfehlen, mit klareren Richtlinien zu beginnen."
+      },
+      {
+        "question": "Gibt es eine Begrenzung, wie viele Modelle ich erstellen kann?",
+        "answer": "Es gibt keine strikten Begrenzungen für die Anzahl der Modelle, die Sie erstellen können, was es einfach macht, multiple Designs und Ideen zu erkunden."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Ihr erstes KI-Auto-Modell zu erstellen?",
+    "description": "Starten Sie mit kostenlosen Credits - Erleben Sie die Kraft der KI im Automobildesign",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Jetzt ausprobieren →"
+  },
+  "footer": {
+    "heading": "Bereit, Ihr Traumauto zu entwerfen?",
+    "description": "Probieren Sie WaveSpeed AI jetzt aus und erleben Sie die Transformation hautnah. Keine Anmeldung erforderlich.",
+    "ctaText": "Erstellen Sie jetzt Ihr Automodell",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

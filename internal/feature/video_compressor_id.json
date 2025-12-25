@@ -1,0 +1,229 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Kompressor Video",
+  "meta": {
+    "description": "Optimalkan video Anda dengan mulus menggunakan teknologi kompresi canggih WaveSpeed AI. Capai hasil berkualitas tinggi dengan ukuran file minimal, ideal untuk streaming dan berbagi online. Sempurna untuk pembuat konten dan bisnis yang ingin meningkatkan efisiensi penyampaian video.",
+    "keywords": "kompressor video, optimalisasi video, kualitas video, pengurangan ukuran file, alat video AI, alat video streaming, berbagi video online, video berkualitas tinggi, alat pembuat konten, pengeditan video, peningkatan video, perangkat lunak kompresi video"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Kompresi Video Tanpa Usaha",
+    "subHeading": "Kurangi Ukuran File Tanpa Mengorbankan Kualitas",
+    "description": "Kompresi video besar dengan cepat menjadi file ramping tanpa mengorbankan kualitas. Sempurna untuk semua kebutuhan berbagi online Anda. Coba alat terkait AI kami hari ini untuk kompresi video yang cepat dan efisien.",
+    "tryText": "Coba Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Kompressor Video WaveSpeed AI",
+    "left": {
+      "heading": "Tantangan Tradisional",
+      "items": [
+        "File video besar memperlambat pengunggahan dan pengunduhan",
+        "Kehilangan kualitas selama kompresi adalah hal biasa",
+        "Penyesuaian manual yang memakan waktu",
+        "Tidak kompatibel dengan beberapa platform",
+        "Biaya tinggi untuk alat kompresi profesional"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeed AI",
+      "items": [
+        "Kompresi instan dengan algoritma canggih",
+        "Pertahankan kualitas asli dengan setiap file",
+        "Waktu pemrosesan cepat - detik, bukan menit",
+        "Kompatibel dengan semua platform utama",
+        "Harga terjangkau bayar sesuai pemakaian"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Kompresi video tanpa usaha dalam 4 langkah mudah",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Video",
+        "text": "Pilih file video yang ingin Anda kompres",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Pilih Pengaturan Kompresi",
+        "text": "Pilih keseimbangan yang diinginkan antara kualitas dan ukuran file",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Mulai Kompresi",
+        "text": "Biarkan AI kami bekerja dengan keajaibannya hanya dalam beberapa detik",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Unduh Video yang Dikompresi",
+        "text": "Terima video yang telah dioptimalkan siap untuk dibagikan",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Kompres Video Anda Sekarang →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Tanpa Batas",
+    "description": "Ideal untuk aplikasi video apa pun",
+    "items": [
+      "Unggah video untuk platform media sosial",
+      "Optimalkan konten untuk situs web dan blog",
+      "Tingkatkan kualitas streaming video",
+      "Fasilitasi berbagi email yang lebih cepat",
+      "Kompresi video untuk rapat virtual",
+      "Siapkan iklan video untuk kampanye pemasaran",
+      "Kurangi ukuran file untuk presentasi",
+      "Simpan dan arsipkan konten video dengan efisien"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Temukan bagaimana pengguna menyederhanakan alur kerja video mereka",
+    "items": [
+      {
+        "tag": "Pembuatan Konten",
+        "heading": "Saluran YouTube",
+        "before": {
+          "label": "Sebelum",
+          "text": "File besar"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Unggahan cepat"
+        },
+        "value": "95%",
+        "key": "Pengurangan Ukuran File",
+        "description": "Dengan peningkatan kompresi, waktu unggah kami berkurang secara signifikan, memungkinkan kami untuk memposting konten lebih sering."
+      },
+      {
+        "tag": "Presentasi Bisnis",
+        "heading": "Video Pelatihan Korporat",
+        "before": {
+          "label": "Sebelum",
+          "text": "2 jam untuk diedit"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "20 menit"
+        },
+        "value": "90%",
+        "key": "Waktu Hemat",
+        "description": "Video pelatihan kami sekarang mudah dibagikan dan dikonsumsi, menjadikan program pelatihan kami lebih efisien."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Metode Kompresi",
+    "description": "Pilih kompresi yang tepat untuk kebutuhan Anda",
+    "items": [
+      "Kompresi Tanpa Kehilangan: Pertahankan kualitas asli, pengurangan ukuran minimal",
+      "Kompresi Dengan Kehilangan: Ideal untuk pengurangan ukuran file yang signifikan, penyesuaian kualitas yang terlihat",
+      "Pemrosesan Batch: Kompres beberapa video secara bersamaan, meningkatkan produktivitas",
+      "Antarmuka Ramah Pengguna: Kontrol sederhana untuk semua pengguna terlepas dari tingkat pengalaman",
+      "Pemrosesan Cepat: Waktu kompresi tipikal di bawah 30 detik per video"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Jelajahi lebih banyak alat AI untuk meningkatkan pengalaman video Anda"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Segala yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Kualitas kompresi apa yang bisa saya harapkan?",
+        "answer": "AI kami menawarkan rasio kompresi yang mengesankan sambil mempertahankan kualitas video asli, memastikan tampilan profesional untuk semua konten Anda."
+      },
+      {
+        "question": "Bisakah saya memilih tingkat kompresi yang berbeda?",
+        "answer": "Ya! Anda dapat memilih berbagai pengaturan untuk memprioritaskan kualitas atau ukuran file sesuai kebutuhan Anda."
+      },
+      {
+        "question": "Format file apa yang didukung?",
+        "answer": "Kami mendukung semua format video populer, termasuk MP4, MOV, dan AVI untuk kenyamanan Anda."
+      },
+      {
+        "question": "Berapa lama proses kompresi berlangsung?",
+        "answer": "Sebagian besar kompresi video diselesaikan dalam beberapa detik, menjadikannya cepat dan efisien bagi pengguna."
+      },
+      {
+        "question": "Bisakah saya mengompres beberapa video sekaligus?",
+        "answer": "Tentu! Fitur pemrosesan batch kami memungkinkan Anda untuk mengompres beberapa video secara bersamaan."
+      },
+      {
+        "question": "Apakah saya akan kehilangan data selama kompresi?",
+        "answer": "Dengan kompresi tanpa kehilangan, Anda tidak akan kehilangan data. Kompresi dengan kehilangan mungkin sedikit mengurangi kualitas, tetapi pengurangan ukuran sangat signifikan."
+      },
+      {
+        "question": "Apakah saya perlu mendaftar untuk menggunakan alat ini?",
+        "answer": "Tidak perlu mendaftar; Anda dapat mulai mengompres video segera."
+      },
+      {
+        "question": "Apakah ada batasan ukuran video?",
+        "answer": "Platform kami menangani file besar, tetapi untuk kinerja optimal, kami merekomendasikan agar unggahan individu dijaga di bawah 2GB."
+      },
+      {
+        "question": "Bisakah saya mengakses video yang sudah dikompres nanti?",
+        "answer": "Video yang dikompres tersedia untuk diunduh segera setelah pemrosesan. Simpan ke perangkat Anda untuk digunakan di masa mendatang."
+      },
+      {
+        "question": "Apakah ada dukungan pelanggan yang tersedia?",
+        "answer": "Ya! WaveSpeed menawarkan dukungan melalui email dan chat langsung untuk membantu Anda dengan pertanyaan atau masalah apa pun."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Mengompres Video Anda?",
+    "description": "Mulailah dengan kompresi berkualitas tinggi menggunakan teknologi AI canggih kami.",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Coba Sekarang →"
+  },
+  "footer": {
+    "heading": "Ubah Pengalaman Video Anda!",
+    "description": "Rasakan kompresi yang mulus dengan WaveSpeed AI sekarang. Tidak perlu mendaftar.",
+    "ctaText": "Mulai Mengompres Video Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi."
+  }
+}

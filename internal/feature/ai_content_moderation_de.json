@@ -1,0 +1,212 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - KI-Inhaltsmoderation",
+  "meta": {
+    "description": "Nutzen Sie KI, um Ihre Online-Community sicher und ansprechend zu halten. Effektiv schädliche Inhalte filtern, das Benutzererlebnis verbessern und gesetzliche Anforderungen erfüllen. Perfekt für soziale Plattformen und E-Commerce-Websites.",
+    "keywords": "KI-Inhaltsmoderation, schädliche Inhaltsfilterung, Online-Sicherheit, Verbesserung des Benutzererlebnisses, Community-Management, soziale Medienmoderation, E-Commerce-Inhaltsmanagement, Echtzeitfilterung, automatisierte Moderationstools, WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI-Tools",
+        "items": [
+          [
+            "KI-Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Schaufenster",
+        "items": [
+          [
+            "Schaufenster",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "KI-Inhaltsmoderation",
+    "subHeading": "Schützen Sie Ihre Community mit intelligenten Filtern",
+    "description": "Nutzen Sie unsere leistungsstarke KI, um schädliche Inhalte automatisch herauszufiltern und Benutzerinteraktionen in Echtzeit zu verbessern. Schützen Sie Ihren Online-Auftritt mühelos. Beginnen Sie noch heute mit der Moderation!",
+    "tryText": "Jetzt Ausprobieren",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI KI-Inhaltsmoderationslösung",
+    "left": {
+      "heading": "Traditionelle Herausforderungen",
+      "items": [
+        "Manuelle Moderation ist zeitaufwändig",
+        "Hohe Risiko, dass schädliche Inhalte durchrutschen",
+        "Inkonsistente Durchsetzung von Richtlinien",
+        "Benutzerbeschwerden wegen unangemessener Inhalte",
+        "Schwierigkeiten, regulatorische Anforderungen zu erfüllen"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Lösung",
+      "items": [
+        "Automatische Inhaltsfilterung in Echtzeit",
+        "Konsequente Anwendung von Moderationsrichtlinien",
+        "Reduzierung des Risikos von gefährdenden Inhalten",
+        "Verbesserung des allgemeinen Benutzererlebnisses",
+        "Einfache Integration in bestehende Plattformen"
+      ],
+      "tryText": "Versuchen"
+    }
+  },
+  "howItWorks": {
+    "heading": "So funktioniert es",
+    "description": "Implementieren Sie effektive Moderation in 3 einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "API integrieren",
+        "text": "Verbinden Sie unsere Moderations-API nahtlos mit Ihrer Plattform",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Richtlinien festlegen",
+        "text": "Definieren Sie, welche Inhalte basierend auf den Standards Ihrer Community gefiltert werden sollen",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Überwachen und Anpassen",
+        "text": "Erhalten Sie Echtzeitberichte und passen Sie die Moderationsparameter nach Bedarf an",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "Beginnen Sie mit der Moderation →"
+  },
+  "endlessPossibilities": {
+    "heading": "Unendliche Möglichkeiten",
+    "description": "Perfekt für verschiedene Online-Plattformen",
+    "items": [
+      "Soziale Medien",
+      "E-Commerce-Marktplätze",
+      "Diskussionsforen",
+      "Gaming-Communities",
+      "Content-Sharing-Plattformen",
+      "Blog-Kommentarbereiche"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Erfahren Sie, wie Unternehmen sichere Online-Umgebungen mit KI gewährleisten",
+    "items": [
+      {
+        "tag": "Soziales Netzwerk",
+        "heading": "Plattform zur Jugendbeteiligung",
+        "before": {
+          "label": "Vorher",
+          "text": "Hohe Beschwerderate"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Negative Inhalte minimiert"
+        },
+        "value": "85%",
+        "key": "Verbesserung der Inhaltssicherheit",
+        "description": "Automatisierte Moderation hat schädliche Beiträge drastisch reduziert und einen sichereren Raum für Benutzer geschaffen."
+      },
+      {
+        "tag": "E-Commerce-Portal",
+        "heading": "Produktbewertungsseite",
+        "before": {
+          "label": "Vorher",
+          "text": "Verwirrende Inhaltsrichtlinien"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Klarer Moderationsprozess"
+        },
+        "value": "90%",
+        "key": "Boost des Benutzervertrauens",
+        "description": "Die verbesserte Moderation führte zu positiven Interaktionen und erhöhtem Kundenvertrauen."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "KI-Modellvergleich",
+    "description": "Wählen Sie den richtigen Moderationsansatz für Ihre Bedürfnisse",
+    "items": [
+      "Inhaltsfilterungsmodell: Hohe Genauigkeit, anpassbar, ideal für sensible Themen",
+      "Spam-Erkennungsmodell: Schnelle Leistung, Echtzeitidentifikation irrelevanter Beiträge",
+      "KI-Lernen: Verbessert sich kontinuierlich mit dem Feedback der Benutzer",
+      "Benutzergeführte Moderationstools für Community-Reporting",
+      "Dashboard-Analysen: Überwachung von Inhaltstrends und Moderationseffektivität"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Verwandte KI-Tools",
+    "description": "Entdecken Sie weitere wichtige Werkzeuge für die Online-Sicherheit"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Wie funktioniert die Inhaltsmoderation?",
+        "answer": "Unsere KI analysiert Beiträge und Kommentare in Echtzeit, um schädliche Inhalte zu identifizieren und herauszufiltern, bevor sie Ihre Benutzer erreichen. Sie lernt aus dem Feedback der Community, um sich anzupassen und im Laufe der Zeit zu verbessern."
+      },
+      {
+        "question": "Kann ich die Moderationsrichtlinien anpassen?",
+        "answer": "Absolut! Sie können spezifische Richtlinien festlegen, die auf den Werten und Standards Ihrer Community basieren, um sicherzustellen, dass relevante Inhalte durchkommen, während unerwünschtes Material herausgefiltert wird."
+      },
+      {
+        "question": "Wie schnell können schädliche Inhalte gefiltert werden?",
+        "answer": "Die KI arbeitet in Echtzeit, was bedeutet, dass die meisten schädlichen Inhalte fast sofort identifiziert und moderiert werden, um Ihre Online-Umgebung sicher zu halten."
+      },
+      {
+        "question": "Welche Arten von Inhalten können moderiert werden?",
+        "answer": "Unsere Technologie kann Hassreden, Spam, explizite Inhalte und andere schädliche Materialien über verschiedene Medien hinweg erkennen, einschließlich Text, Bilder und Videos."
+      },
+      {
+        "question": "Werde ich Berichte über die Moderationsaktivitäten erhalten?",
+        "answer": "Ja! Sie erhalten regelmäßige Analysen und Berichte über die durchgeführten Moderationsmaßnahmen, die eine verbesserte Aufsicht und strategische Anpassungen ermöglichen."
+      },
+      {
+        "question": "Ist dieser Dienst skalierbar für große Communities?",
+        "answer": "Sicherlich! Unsere Lösungen sind so konzipiert, dass sie nahtlos mit Ihrem Wachstum skalieren und steigende Inhaltsmengen effizient handhaben, ohne die Leistung zu beeinträchtigen."
+      },
+      {
+        "question": "Welcher Support steht zur Verfügung, wenn ich auf Probleme stoße?",
+        "answer": "Wir bieten umfassende Unterstützung, einschließlich Dokumentation, Tutorials und einem speziellen Helpdesk, um bei technischen Anfragen oder Herausforderungen zu helfen."
+      },
+      {
+        "question": "Können Benutzer Moderationsentscheidungen anfechten?",
+        "answer": "Ja, Benutzer können über die Plattform Einsprüche einreichen. Jeder Fall wird überprüft, um eine faire Behandlung und Transparenz in der Moderation sicherzustellen."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, die Sicherheit Ihrer Community zu verbessern?",
+    "description": "Starten Sie mit kostenlosen Credits - Erleben Sie die KI-Moderation noch heute",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Jetzt Ausprobieren →"
+  },
+  "footer": {
+    "heading": "Bereit, Ihre Plattform abzusichern?",
+    "description": "Probieren Sie WaveSpeed AI jetzt aus und erleben Sie die Transformation. Keine Anmeldung erforderlich.",
+    "ctaText": "Jetzt Moderieren",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

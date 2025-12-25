@@ -1,0 +1,229 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI 背景去除器",
+  "meta": {
+    "description": "使用 WaveSpeed AI 轻松去除图片背景。非常适合提高电子商务、市场营销等产品照片的质量。在几分钟内体验无缝效果！",
+    "keywords": "AI 背景去除器, 图片背景去除, 产品照片编辑器, 摄影工具, 电子商务图像增强, 自动背景去除, 图片编辑 AI, 在线背景去除器, WaveSpeed, 图片编辑工具"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI 工具",
+        "items": [
+          [
+            "AI 工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即尝试"
+  },
+  "hero": {
+    "heading": "轻松去除背景",
+    "subHeading": "精准转换您的图片",
+    "description": "即时消除您的照片背景，以创建令人惊叹的视觉效果。非常适合产品图片、社交媒体帖子和广告。体验自动编辑的强大功能。现在开始，看看区别！",
+    "tryText": "立即尝试",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI 背景去除解决方案",
+    "left": {
+      "heading": "传统挑战",
+      "items": [
+        "手动编辑耗时较长（每张图片最多 1 小时）",
+        "需要较高的软件技能",
+        "不同方法产生不一致的结果",
+        "专业服务成本高昂",
+        "调整背景的灵活性有限"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI 解决方案",
+      "items": [
+        "几秒钟内去除背景",
+        "无需设计技能 - 只需上传您的图片",
+        "每次都能得到一致的高质量结果",
+        "实惠的按需付费模式",
+        "轻松切换背景或创建透明效果"
+      ],
+      "tryText": "尝试"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "通过 4 个简单步骤轻松去除背景",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传图片",
+        "text": "拖放需要去除背景的图片",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "自动处理",
+        "text": "我们的 AI 分析您的图片并检测背景",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "审查与编辑",
+        "text": "预览去除情况，并在需要时进行微调",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载结果",
+        "text": "在几秒钟内获取您的完成图片，随时使用",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "开始编辑您的图片 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无限可能",
+    "description": "适用于各种应用",
+    "items": [
+      "电子商务产品照片",
+      "社交媒体图形",
+      "市场营销材料",
+      "活动和派对传单",
+      "房地产上市",
+      "博客和网站图片",
+      "数字艺术项目",
+      "专业作品集"
+    ]
+  },
+  "successStories": {
+    "heading": "真实成功案例",
+    "description": "看看用户如何利用 AI 提升他们的视觉效果",
+    "items": [
+      {
+        "tag": "电子商务",
+        "heading": "在线时尚零售商",
+        "before": {
+          "label": "之前",
+          "text": "编辑麻烦"
+        },
+        "after": {
+          "label": "之后",
+          "text": "轻松去除背景"
+        },
+        "value": "90%",
+        "key": "节省的时间",
+        "description": "我们的团队现在可以在几分钟内处理图片，而不是几个小时，从而加快产品上市速度。"
+      },
+      {
+        "tag": "市场营销机构",
+        "heading": "社交媒体活动",
+        "before": {
+          "label": "之前",
+          "text": "视觉效果不佳"
+        },
+        "after": {
+          "label": "之后",
+          "text": "专业质量的图片"
+        },
+        "value": "95%",
+        "key": "质量提升",
+        "description": "自从切换到 AI 背景去除后，我们的互动率影响显著。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI 技术比较",
+    "description": "选择适合您需求的方法",
+    "items": [
+      "标准背景去除：快速处理，理想用于一般图像",
+      "高级边缘检测：对复杂背景进行高精度处理",
+      "自动背景替换：轻松用任何图片或颜色替换背景",
+      "批量处理能力：同时去除多张图片的背景",
+      "所有输出均包含商业使用权"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关 AI 工具",
+    "description": "探索更多强大的图像编辑 AI 工具"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要了解的一切",
+    "items": [
+      {
+        "question": "什么类型的图片最适合去除背景？",
+        "answer": "清晰的图片和清晰的主体-背景分离提供最佳效果。建议使用高分辨率图片以确保干净和准确的去除。"
+      },
+      {
+        "question": "去除背景后可以编辑背景吗？",
+        "answer": "可以！去除背景后，您可以轻松更换为您选择的任何背景，或者让其透明用于您的项目。"
+      },
+      {
+        "question": "该服务适合批量处理图片吗？",
+        "answer": "绝对可以！我们的批量处理功能允许您一次去除多张图片的背景，从而大幅加快工作流程。"
+      },
+      {
+        "question": "对图片类型是否有限制？",
+        "answer": "我们的工具支持多种图像格式，包括 JPG、PNG 和 TIFF。但过于复杂或低分辨率的图片可能会导致效果不佳。"
+      },
+      {
+        "question": "背景去除服务的定价是如何工作的？",
+        "answer": "我们提供灵活的按需付费模式。您只需为处理的图片付费，定价系统根据处理量分层。"
+      },
+      {
+        "question": "如果背景去除效果不完美，我该怎么办？",
+        "answer": "您可以使用我们简单的应用内工具手动编辑输出，以确保结果符合您的期望。"
+      },
+      {
+        "question": "我可以将图片用于商业用途吗？",
+        "answer": "可以！通过我们的工具处理的所有图片都附带全面的商业使用权，可以用于广告、社交媒体和在线销售。"
+      },
+      {
+        "question": "背景去除过程需要多长时间？",
+        "answer": "该过程通常只需几秒钟每张图片，允许您高效工作并快速更新。"
+      },
+      {
+        "question": "如果我遇到问题，有什么支持可用？",
+        "answer": "我们的支持团队通过电子邮件和聊天提供帮助，并提供教程和文档库，帮助您最大限度地利用该平台。"
+      },
+      {
+        "question": "是否有试用或免费信用可用于测试该功能？",
+        "answer": "是的！新用户可获得免费信用，以在承诺任何购买之前尝试后台去除服务。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备轻松去除背景吗？",
+    "description": "开始使用免费信用 - 体验 AI 的力量",
+    "contactUsText": "联系我们",
+    "tryText": "立即尝试 →"
+  },
+  "footer": {
+    "heading": "今天就转变您的图片！",
+    "description": "现在试用 WaveSpeed AI，亲自体验不同之处。无需注册。",
+    "ctaText": "立即去除背景",
+    "text": "© 2025 WaveSpeed AI. 保留所有权利。"
+  }
+}

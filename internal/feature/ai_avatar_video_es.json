@@ -1,0 +1,230 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Generador de Videos Avatar con IA",
+  "meta": {
+    "description": "Eleva tu presencia digital con videos avatar generados por IA. Perfecto para marketing, redes sociales y marca personal. Crea contenido de avatar impresionante de manera fluida con tecnología de vanguardia. ¡Pruébalo gratis!",
+    "keywords": "video avatar IA, creador de avatar, marca personal, generador de videos de marketing, video de redes sociales, contenido dinámico de avatar, herramienta de marketing en video, animación de avatar, generador de video en línea, contenido de video atractivo, efectos de video IA"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas de IA",
+        "items": [
+          [
+            "Herramientas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Demostración",
+        "items": [
+          [
+            "Demostración",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Creación de Video Avatar",
+    "subHeading": "Dale Vida a Tu Avatar con Videos Dinámicos",
+    "description": "Transforma tu avatar digital en videos cautivadores sin esfuerzo. Perfecto para marketing y compromiso social—¡no se necesita filmación! Crea tu primer video de avatar en minutos con tecnología de IA avanzada.",
+    "tryText": "Crea Tu Video Avatar Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución de Video Avatar de WaveSpeed AI",
+    "left": {
+      "heading": "Desafíos Tradicionales",
+      "items": [
+        "La animación de avatar puede ser lenta y costosa",
+        "Requiere software de animación profesional",
+        "Opciones de personalización limitadas para avatares",
+        "Avatares estáticos carecen de compromiso",
+        "Altos costos de producción para videos de calidad"
+      ]
+    },
+    "right": {
+      "heading": "Solución WaveSpeed AI",
+      "items": [
+        "Genera videos de avatar personalizados en menos de 5 minutos",
+        "No se requieren habilidades de animación—sube tu diseño",
+        "Crea instantáneamente contenido de video único con personalización",
+        "Estilos y variaciones de avatar ilimitados",
+        "Precios asequibles—adecuados para cualquier presupuesto"
+      ],
+      "tryText": "Comienza a Crear"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "Crea videos avatar impresionantes en 4 pasos simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Sube Avatar",
+        "text": "Sube tu diseño de personaje o imagen de avatar",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Añade Instrucciones de Animación",
+        "text": "Opcionalmente describe los movimientos o acciones deseadas (por ejemplo, \"saludar\")",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Elige Estilo de Animación",
+        "text": "Selecciona un estilo de animación que se ajuste a la personalidad de tu marca",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Descarga Video",
+        "text": "Recibe tu impresionante video de avatar en 1-2 minutos",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Genera Tu Primer Video Avatar →"
+  },
+  "endlessPossibilities": {
+    "heading": "Posibilidades Infinita",
+    "description": "Perfecto para diversas aplicaciones e industrias",
+    "items": [
+      "Videos de marketing para promoción de marca",
+      "Creación de contenido para redes sociales",
+      "Mensajes de video personalizados",
+      "Eventos virtuales y presentaciones",
+      "Compromiso interactivo con clientes",
+      "Tutoriales educativos con avatares",
+      "Narrativa y cuentos animados",
+      "Capacitación corporativa con avatares dinámicos"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Descubre cómo las empresas mejoran el compromiso con videos avatar",
+    "items": [
+      {
+        "tag": "Startups Tecnológicas",
+        "heading": "Marca Personal para CEO",
+        "before": {
+          "label": "Antes",
+          "text": "Altos costos"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Animado asequiblemente"
+        },
+        "value": "95%",
+        "key": "Ahorros en Costos",
+        "description": "Mejoramos la identidad de nuestra marca a través de videos avatar, aumentando el compromiso en un 30% en plataformas sociales."
+      },
+      {
+        "tag": "Marcas de E-commerce",
+        "heading": "Promociones de Productos",
+        "before": {
+          "label": "Antes",
+          "text": "Anuncios estáticos"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Contenido de video dinámico"
+        },
+        "value": "88%",
+        "key": "Aumento de Compromiso",
+        "description": "Nuestra estrategia de video avatar aumentó significativamente las tasas de conversión, haciendo que los esfuerzos de marketing fueran más atractivos y efectivos."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Modelos de IA",
+    "description": "Selecciona el modelo de animación que se ajuste a tus necesidades",
+    "items": [
+      "Animación Estándar: Renderizado rápido, movimientos básicos, tarifas asequibles",
+      "Animación Mejorada: Calidad premium, física realista, renderizado más lento",
+      "Control Dinámico de Texto a Avatar: Especifica acciones y expresiones fácilmente",
+      "Transiciones y efectos sin costuras para un flujo de video natural",
+      "Tiempo de generación de 1-2 minutos para avatares",
+      "Derechos de uso comercial dedicados incluidos"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas de IA Relacionadas",
+    "description": "Explora más poderosas herramientas de IA para contenido digital"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué calidad de video puedo esperar para los videos de avatar?",
+        "answer": "Nuestro sistema entrega videos de avatar de alta calidad con visuales claros y animaciones suaves. El modelo estándar produce resultados claros adecuados para uso en línea, mientras que el modelo mejorado ofrece un realismo superior con detalles impresionantes."
+      },
+      {
+        "question": "¿Puedo personalizar los movimientos de mi avatar?",
+        "answer": "¡Absolutamente! Puedes definir las acciones y movimientos a través de simples comandos de texto, permitiendo que tu avatar exprese diversas acciones como gestos o comportamientos específicos."
+      },
+      {
+        "question": "¿Qué formatos son los mejores para subir avatares?",
+        "answer": "Se recomiendan PNGs o SVGs de alta resolución para obtener los mejores resultados. Asegúrate de que tus avatares estén bien diseñados, con fondos transparentes para una integración fluida en los videos."
+      },
+      {
+        "question": "¿Cómo se diferencia esto de los videos animados tradicionales?",
+        "answer": "A diferencia de las animaciones tradicionales que requieren un extenso trabajo de diseño, nuestro enfoque dirigido por IA permite la creación rápida de videos avatar atractivos con movimientos personalizables, haciéndolo más accesible para todos los usuarios."
+      },
+      {
+        "question": "¿Puedo mejorar la calidad del video después de la creación?",
+        "answer": "¡Sí! Puedes usar nuestras herramientas de escalado para mejorar la resolución del video de tus avatares y la claridad general, asegurando que se vean nítidos y profesionales."
+      },
+      {
+        "question": "¿Qué modelo de precios se utiliza para la generación de videos de avatar?",
+        "answer": "Ofrecemos un modelo flexible de pago por uso con precios claros basados en el estilo de animación y la duración seleccionados. Esto te permite crear sin compromisos mensuales."
+      },
+      {
+        "question": "¿Cuánto tiempo se tarda en crear un video de avatar?",
+        "answer": "La generación de video suele ser rápida—la mayoría de los videos de avatar se crean en solo 1-2 minutos, lo que permite una producción de contenido rápida sin retrasos."
+      },
+      {
+        "question": "¿Cuáles son los mejores casos de uso para videos de avatar?",
+        "answer": "Los videos de avatar funcionan perfectamente para branding en línea, publicidad personalizada, compromiso en redes sociales, videos de capacitación y cualquier ámbito donde el contenido visual dinámico sea esencial."
+      },
+      {
+        "question": "¿Poseo los derechos sobre los videos de avatar generados?",
+        "answer": "¡Sí! Todos los videos creados a través de WaveSpeed incluyen derechos comerciales completos, por lo que puedes utilizarlos en diversas plataformas sin tarifas adicionales ni restricciones."
+      },
+      {
+        "question": "¿Qué recursos de soporte están disponibles si tengo problemas?",
+        "answer": "Proporcionamos documentación de soporte completa, tutoriales y un servicio de atención al cliente receptivo para ayudar con cualquier pregunta o dificultad técnica que puedas enfrentar."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Crear Tu Primer Video Avatar con IA?",
+    "description": "Comienza con créditos gratis - Experimenta la diferencia hoy",
+    "contactUsText": "Contáctanos",
+    "tryText": "Pruébalo Ahora →"
+  },
+  "footer": {
+    "heading": "¿Listo para Transformar Tu Avatar?",
+    "description": "Prueba WaveSpeed AI hoy y experimenta resultados inigualables. No se requiere registro.",
+    "ctaText": "Crea Avatar Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Troca de Rosto com IA",
+  "meta": {
+    "description": "Troque rostos em imagens sem esforço com nossa tecnologia de IA de ponta. Perfeito para redes sociais, campanhas de marketing e conteúdo criativo. Experimente uma integração perfeita e resultados impressionantes sem experiência necessária.",
+    "keywords": "troca de rosto com IA, substituição de rosto, IA de edição de imagem, gerador de conteúdo criativo, ferramentas para redes sociais, automação de marketing, edição de fotos inovadora, fotografia com IA, troca de rostos online, mudança de rosto sem costura, efeitos divertidos para fotos"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de IA",
+        "items": [
+          [
+            "Ferramentas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Demonstração",
+        "items": [
+          [
+            "Demonstração",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Transforme Suas Imagens",
+    "subHeading": "Troque Rostos Instantaneamente com IA",
+    "description": "Melhore suas imagens em segundos trocando rostos com precisão impressionante. Perfeito para postagens em redes sociais, memes e projetos criativos com apenas alguns cliques.",
+    "tryText": "Experimente Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução de Troca de Rosto com IA da WaveSpeed AI",
+    "left": {
+      "heading": "Desafios da Troca de Rosto Tradicional",
+      "items": [
+        "Edição manual intensiva",
+        "Requer habilidades avançadas de edição",
+        "Processos que consomem muito tempo (horas a dias)",
+        "Opções criativas limitadas",
+        "Altos custos de serviços profissionais"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeed AI",
+      "items": [
+        "Troque rostos em segundos com alguns cliques",
+        "Não são necessárias habilidades de edição - Basta fazer o upload",
+        "Resultados instantâneos e de alta qualidade com IA",
+        "Possibilidades criativas ilimitadas",
+        "Modelo acessível de pagamento conforme o uso"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "Experimente a troca de rostos em 4 etapas fáceis",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Carregar Imagem",
+        "text": "Selecione a foto que deseja modificar fazendo o upload diretamente.",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Selecionar Rostos",
+        "text": "Escolha os rostos que deseja trocar das opções disponíveis.",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Confirmar Troca",
+        "text": "Revise a troca e faça ajustes finais conforme necessário.",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Baixar Imagem",
+        "text": "Receba sua imagem aprimorada em segundos, pronta para compartilhamento.",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Comece Agora →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilidades Criativas Incontáveis",
+    "description": "Perfeito para todos os tipos de projetos e diversão",
+    "items": [
+      "Criar memes engraçados para redes sociais",
+      "Aprimorar fotos para campanhas de marketing",
+      "Presentes personalizados com rostos trocados",
+      "Conteúdo criativo para blogs e sites",
+      "Postagens envolventes para Instagram e TikTok",
+      "Aprimoramentos e diversão em fotos de família",
+      "Convites para festas temáticas",
+      "Fotos de perfil únicas para redes sociais"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Descubra como os usuários estão aprimorando seus projetos com IA",
+    "items": [
+      {
+        "tag": "Influenciador de Redes Sociais",
+        "heading": "Criação de Meme Viral",
+        "before": {
+          "label": "Antes",
+          "text": "Edição que consome muito tempo"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Trocas de rosto instantâneas"
+        },
+        "value": "98%",
+        "key": "Tempo Economizado",
+        "description": "Nosso jogo de memes disparou após usar a troca de rosto com IA. Engajando seguidores com humor e criatividade!"
+      },
+      {
+        "tag": "E-commerce",
+        "heading": "Diversão em Campanha de Marketing",
+        "before": {
+          "label": "Antes",
+          "text": "Taxas de designer caras"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Troca rápida e fácil"
+        },
+        "value": "90%",
+        "key": "Redução de Custos",
+        "description": "Enfrentando prazos apertados, geramos imagens promocionais únicas que cativaram nosso público."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Modelos de IA",
+    "description": "Escolha os recursos certos para seu projeto",
+    "items": [
+      "Troca Padrão: Substituição rápida de rosto, precisão básica, ideal para projetos casuais",
+      "Troca Avançada: Precisão aprimorada, elementos personalizáveis, perfeita para marketing",
+      "Processamento em tempo real: Feedback instantâneo sobre as alterações feitas",
+      "Mistura sem costura: Garante realismo nas imagens finais",
+      "Interface fácil de usar: Acessível a todos",
+      "Filtros e efeitos divertidos: Adicione criatividade às suas trocas de rosto"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Explore ferramentas de IA inovadoras para seus projetos criativos"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo o que você precisa saber",
+    "items": [
+      {
+        "question": "Quais formatos de imagem posso usar?",
+        "answer": "Você pode fazer upload de formatos JPG, PNG ou BMP. Certifique-se de que suas imagens estejam claras e bem iluminadas para os melhores resultados."
+      },
+      {
+        "question": "Quão precisa é a troca de rosto?",
+        "answer": "Nossa IA garante alta precisão ao trocar rostos, proporcionando resultados realistas que se integram perfeitamente ao fundo."
+      },
+      {
+        "question": "Posso ajustar a imagem final após a troca?",
+        "answer": "Sim! Você pode aplicar filtros ou ajustes adicionais após a troca de rosto para tornar sua imagem verdadeiramente única."
+      },
+      {
+        "question": "Há um limite para quantas trocas de rosto posso fazer?",
+        "answer": "Sem limites! Você pode realizar quantas trocas de rosto quiser usando nossa plataforma, tornando a criatividade infinita."
+      },
+      {
+        "question": "Há dicas para melhores resultados?",
+        "answer": "Para resultados ótimos, escolha imagens onde os rostos estejam claramente visíveis, bem iluminados e voltados para a câmera."
+      },
+      {
+        "question": "Com que rapidez posso esperar resultados?",
+        "answer": "As trocas de rosto são processadas quase instantaneamente. Você receberá sua imagem modificada em segundos."
+      },
+      {
+        "question": "Preciso instalar algum software para usar esse recurso?",
+        "answer": "Nenhuma instalação de software é necessária. Acesse nossa ferramenta de troca de rosto com IA diretamente pelo seu navegador."
+      },
+      {
+        "question": "Posso usar imagens trocadas comercialmente?",
+        "answer": "Sim! Todas as imagens geradas com nossa ferramenta vêm com plenos direitos comerciais."
+      },
+      {
+        "question": "Quais opções de suporte estão disponíveis se eu tiver problemas?",
+        "answer": "Fornecemos documentação extensa, tutoriais em vídeo e suporte por e-mail e chat ao vivo para resolução de problemas."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Transformar Suas Imagens?",
+    "description": "Comece com créditos gratuitos hoje e veja a mágica por si mesmo!",
+    "contactUsText": "Entre em Contato",
+    "tryText": "Experimente Agora →"
+  },
+  "footer": {
+    "heading": "Você Está Pronto para Trocar Rostos?",
+    "description": "Mergulhe na tecnologia de troca de rostos da WaveSpeed AI e crie conteúdo incrível. Sem necessidade de cadastro.",
+    "ctaText": "Troque Rostos Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

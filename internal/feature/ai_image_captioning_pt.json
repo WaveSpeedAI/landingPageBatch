@@ -1,0 +1,230 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Legendas de Imagens com IA",
+  "meta": {
+    "description": "Melhore suas imagens com legendas inteligentes geradas por IA avançada. Perfeito para aumentar o engajamento em redes sociais e plataformas de e-commerce. Descubra o poder da criação de conteúdo automatizado com o WaveSpeed AI.",
+    "keywords": "legenda de imagem com IA, legendas automatizadas, IA de imagem para texto, geração de conteúdo para e-commerce, legendas para redes sociais, WaveSpeed AI, automação de marketing, melhoria de imagens, gerador de legendas, legendas de imagens de produtos, ferramenta de criação de conteúdo"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de IA",
+        "items": [
+          [
+            "Ferramentas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Demonstração",
+        "items": [
+          [
+            "Demonstração",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Legenda de Imagem com IA",
+    "subHeading": "Transforme Suas Imagens com Descrições Inteligentes",
+    "description": "Gere automaticamente legendas envolventes para suas imagens em segundos, aumentando a visibilidade e a interação. Perfeito para profissionais de marketing e criadores de conteúdo que desejam otimizar seu fluxo de trabalho. Experimente agora e eleve seu conteúdo!",
+    "tryText": "Experimente Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução de Legenda de Imagem com IA WaveSpeed AI",
+    "left": {
+      "heading": "Desafios Tradicionais",
+      "items": [
+        "Legendagem manual é demorada e repetitiva",
+        "Falta de criatividade e consistência na mensagem",
+        "Altas taxas de desistência nas redes sociais sem legendas envolventes",
+        "Dificuldade em acompanhar grandes volumes de imagens",
+        "Opções de idiomas limitadas e localização"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeed AI",
+      "items": [
+        "Legendas instantâneas geradas para qualquer imagem em segundos",
+        "Saída de texto criativa, diversificada e envolvente",
+        "Aumenta o engajamento e a retenção do público",
+        "Suporta múltiplos idiomas para alcance global",
+        "Solução econômica com preços escaláveis"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "Crie legendas facilmente em 4 passos simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Carregar Imagem",
+        "text": "Carregue a imagem que deseja legendar",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Personalizar Opções",
+        "text": "Escolha preferências como tom e estilo para a legenda",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Gerar Legenda",
+        "text": "Deixe que a IA crie uma legenda única para sua imagem",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Baixar ou Compartilhar",
+        "text": "Receba sua imagem com legenda pronta para uso",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Gere Sua Primeira Legenda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Legendas Infinitas para Todo Uso",
+    "description": "Ideal para uma variedade de aplicações",
+    "items": [
+      "Descrições de imagens de produtos de e-commerce",
+      "Publicações atraentes para redes sociais",
+      "Conteúdo para blogs e sites",
+      "Melhorias criativas de portfólios",
+      "Materiais de marketing e anúncios",
+      "Questionários interativos e engajamento do usuário",
+      "Aprimorando visuais para artigos online",
+      "Construindo identidade de marca por meio de legendas exclusivas"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Veja como as empresas estão usando IA para automatizar legendas",
+    "items": [
+      {
+        "tag": "Varejo de Moda",
+        "heading": "Listagens de Produtos de E-commerce",
+        "before": {
+          "label": "Antes",
+          "text": "A legendagem manual era lenta e inconsistente"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Legendas automatizadas em segundos"
+        },
+        "value": "95%",
+        "key": "Eficiência de Tempo",
+        "description": "Com legendas automatizadas, aumentamos nossa velocidade de criação de listagens, melhorando nossa produção em 50% enquanto garantimos qualidade e consistência."
+      },
+      {
+        "tag": "Negócio de Fotografia",
+        "heading": "Aprimoramento de Imagens de Portfólio",
+        "before": {
+          "label": "Antes",
+          "text": "Tínhamos dificuldade com descrições criativas"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Legendas envolventes geradas instantaneamente"
+        },
+        "value": "90%",
+        "key": "Impulso Criativo",
+        "description": "Nossa base de clientes cresceu à medida que legendas únicas ajudaram a diferenciar nosso portfólio em um mercado saturado."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Modelos de IA",
+    "description": "Selecione o modelo ideal para suas necessidades de legendagem",
+    "items": [
+      "Modelo Padrão: Legendas rápidas, adequadas para a maioria das imagens",
+      "Modelo Criativo: Oferece descrições mais artísticas e sutis",
+      "Modelo de Performance: Otimizado para velocidade e volume",
+      "Suporte a Múltiplos Idiomas: Legendas instantâneas em vários idiomas",
+      "Opções de Tom Personalizado: Ajuste legendas para combinar com a voz da sua marca",
+      "Pronto para Integração: Funciona perfeitamente com as principais ferramentas de marketing"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Descubra mais ferramentas de IA inovadoras para o seu negócio"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo o que você precisa saber",
+    "items": [
+      {
+        "question": "Quais tipos de imagens funcionam melhor para a geração de legendas?",
+        "answer": "Qualquer imagem clara, incluindo produtos, paisagens ou retratos, pode ser legendada. Para resultados ótimos, use imagens de alta resolução com boa iluminação."
+      },
+      {
+        "question": "Posso personalizar o tom das legendas?",
+        "answer": "Sim! Você pode escolher entre vários tons, como profissional, casual ou criativo para combinar com sua marca."
+      },
+      {
+        "question": "Com que rapidez posso esperar minhas legendas?",
+        "answer": "As legendas são geradas em segundos, permitindo que você otimize seu fluxo de trabalho significativamente."
+      },
+      {
+        "question": "As legendas geradas são únicas para cada imagem?",
+        "answer": "Absolutamente! Nossa IA gera legendas contextualmente relevantes e únicas para cada imagem."
+      },
+      {
+        "question": "Posso usar as legendas para fins comerciais?",
+        "answer": "Sim! Todas as legendas geradas podem ser usadas livremente para projetos comerciais ou pessoais sem taxas adicionais de licenciamento."
+      },
+      {
+        "question": "Há suporte se eu tiver problemas?",
+        "answer": "Sim, oferecemos suporte abrangente incluindo documentação e uma equipe dedicada para ajudar com quaisquer perguntas."
+      },
+      {
+        "question": "Como está estruturado o preço para a geração de legendas?",
+        "answer": "Oferecemos um modelo de pagamento conforme o uso, garantindo que você pague apenas pelas legendas que gera, sem taxas de assinatura."
+      },
+      {
+        "question": "Posso gerar legendas para imagens em lote?",
+        "answer": "Sim! Você pode carregar imagens em lote para gerar várias legendas ao mesmo tempo, economizando ainda mais tempo."
+      },
+      {
+        "question": "Quais são os melhores casos de uso para legendagem de imagens com IA?",
+        "answer": "Ideal para e-commerce, redes sociais, branding e qualquer plataforma que exija conteúdo visual envolvente."
+      },
+      {
+        "question": "Como posso integrar esta ferramenta ao meu fluxo de trabalho existente?",
+        "answer": "Nossas legendas de IA podem ser integradas com ferramentas e plataformas de marketing populares para uma experiência perfeita."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Elevar Suas Imagens?",
+    "description": "Comece a aproveitar o poder da IA para suas legendas hoje.",
+    "contactUsText": "Fale Conosco",
+    "tryText": "Experimente Agora →"
+  },
+  "footer": {
+    "heading": "Transforme a Qualidade do Seu Conteúdo!",
+    "description": "Experimente o WaveSpeed AI e veja a diferença por si mesmo. Fácil de usar, sem necessidade de cadastro.",
+    "ctaText": "Comece Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

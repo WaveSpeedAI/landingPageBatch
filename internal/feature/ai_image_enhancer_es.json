@@ -1,0 +1,225 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Mejorador de Imágenes AI",
+  "meta": {
+    "description": "Mejora tus imágenes de productos sin esfuerzo con WaveSpeed AI. Nuestra tecnología de vanguardia mejora la calidad de la imagen, la vibrancia del color y los detalles, haciendo que tus visuales se destaquen. ¡Perfecto para e-commerce y uso en marketing!",
+    "keywords": "mejorador de imágenes AI, herramienta de mejora de fotos, optimizador de imágenes de productos, aumento de calidad de imagen, herramienta de imagen para e-commerce, mejora de imágenes, solución de marketing visual, editor de imágenes en línea, mejora profesional de fotos, WaveSpeed AI, mejora de imágenes para redes sociales"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas AI",
+        "items": [
+          [
+            "Herramientas AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Muestra",
+        "items": [
+          [
+            "Muestra",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Mejorador de Imágenes AI",
+    "subHeading": "Eleva Tus Imágenes al Siguiente Nivel",
+    "description": "Transforma tus imágenes de productos en visuales impresionantes con solo unos clics. Logra colores vibrantes, detalles nítidos y un aspecto atractivo sin necesidad de software de edición compleja. ¡Pruébalo ahora y mira cómo brillan tus imágenes!",
+    "tryText": "Pruébalo Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución de Mejorador de Imágenes AI WaveSpeed AI",
+    "left": {
+      "heading": "Desafíos de Mejora de Imágenes Tradicionales",
+      "items": [
+        "Servicios de edición profesional costosos",
+        "Requiere habilidades técnicas y software complejo",
+        "Procesos que consumen tiempo (días a semanas)",
+        "Opciones creativas limitadas para usuarios promedio",
+        "Altos costos para pequeñas empresas"
+      ]
+    },
+    "right": {
+      "heading": "Solución WaveSpeedAI",
+      "items": [
+        "Mejora imágenes en segundos con tecnología AI",
+        "Interfaz fácil de usar - No se necesita experiencia",
+        "Resultados instantáneos de alta calidad con un clic",
+        "Opciones y estilos de edición ilimitados",
+        "Modelo de precios asequible por uso"
+      ],
+      "tryText": "Prueba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "Mejora tus imágenes en solo 4 pasos simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Subir Imagen",
+        "text": "Elige la imagen que deseas mejorar",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Seleccionar Mejora",
+        "text": "Selecciona las mejoras deseadas como aumento de color o afinación de detalles",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Previsualizar Cambios",
+        "text": "Ve instantáneamente las transformaciones aplicadas a tu imagen",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Descargar Imagen Mejorada",
+        "text": "Guarda tu imagen mejorada en alta calidad, lista para usar",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Mejora Tu Primera Imagen →"
+  },
+  "endlessPossibilities": {
+    "heading": "Posibilidades Sin Fin",
+    "description": "Perfecto para cualquier necesidad de mejora de imágenes",
+    "items": [
+      "Imágenes de productos para e-commerce",
+      "Publicaciones y anuncios en redes sociales",
+      "Gráficos para sitios web",
+      "Materiales de marketing y folletos",
+      "Imágenes de portafolio para profesionales creativos",
+      "Mejoras en fotografía de eventos",
+      "Anuncios de bienes raíces",
+      "Fotografía de alimentos"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Descubre cómo las empresas están mejorando sus visuales con AI",
+    "items": [
+      {
+        "tag": "E-commerce",
+        "heading": "Minorista de Moda",
+        "before": {
+          "label": "Antes",
+          "text": "Visuales de baja calidad"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Imágenes de productos impresionantes"
+        },
+        "value": "80%",
+        "key": "Mejora de Calidad de Imagen",
+        "description": "Después de usar el mejorador, nuestros visuales captaron la atención, lo que llevó a un aumento del 30% en ventas en línea."
+      },
+      {
+        "tag": "Bienes Raíces",
+        "heading": "Anuncios de Propiedades",
+        "before": {
+          "label": "Antes",
+          "text": "Fotos apagadas y sin vida"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Imágenes vibrantes y acogedoras"
+        },
+        "value": "70%",
+        "key": "Aumento en la Interacción",
+        "description": "Mejorar nuestras listas resultó en un aumento del 50% en consultas por propiedades."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Opciones de Mejora",
+    "description": "Elige la mejora adecuada para tus imágenes",
+    "items": [
+      "Mejora Estándar: Mejora de calidad básica, colores brillantes y detalles nítidos",
+      "Mejora Premium: Procesamiento avanzado para calidad superior, mejora de texturas y precisión de color",
+      "Procesamiento por Lotes: Mejora múltiples imágenes simultáneamente para ahorrar tiempo",
+      "Previsualizaciones en tiempo real para ajustes antes de finalizar mejoras",
+      "Compatible con formatos de imagen JPG, PNG y WebP"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas AI Relacionadas",
+    "description": "Explora más herramientas AI poderosas para optimización y mejora de imágenes"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué tipos de imágenes puedo mejorar?",
+        "answer": "Puedes mejorar varios tipos de imágenes, incluyendo fotos de productos, visuales de marketing, gráficos para redes sociales y más. La AI funciona mejor con imágenes claras y bien iluminadas."
+      },
+      {
+        "question": "¿Cuánto tiempo toma el proceso de mejora?",
+        "answer": "La mejora se completa normalmente en segundos, permitiéndote obtener imágenes de alta calidad rápidamente para tus necesidades."
+      },
+      {
+        "question": "¿Puedo ajustar el nivel de mejora?",
+        "answer": "¡Sí! Los niveles de mejora se pueden ajustar según tus preferencias, dándote control total sobre el aspecto final de tus imágenes."
+      },
+      {
+        "question": "¿Cuál es la calidad de las imágenes mejoradas?",
+        "answer": "Las imágenes mejoradas mantienen alta resolución y claridad, asegurando que son adecuadas para uso profesional, incluyendo impresión y plataformas digitales."
+      },
+      {
+        "question": "¿Hay un límite en la cantidad de imágenes que puedo mejorar?",
+        "answer": "¡No hay límite! Puedes mejorar tantas imágenes como necesites y nuestra función de procesamiento por lotes facilita trabajar con múltiples archivos a la vez."
+      },
+      {
+        "question": "¿Poseo los derechos sobre las imágenes mejoradas?",
+        "answer": "¡Sí! Todas las imágenes mejoradas a través de WaveSpeed AI incluyen derechos de propiedad completos, permitiéndote usarlas para cualquier propósito comercial sin restricciones."
+      },
+      {
+        "question": "¿Qué soporte está disponible si encuentro problemas?",
+        "answer": "Ofrecemos soporte extenso a través de documentación, tutoriales y un equipo de servicio al cliente receptivo disponible para cualquier consulta."
+      },
+      {
+        "question": "¿Hay una prueba gratuita disponible para nuevos usuarios?",
+        "answer": "Sí, los nuevos usuarios reciben créditos gratuitos para probar las funciones de mejora sin compromiso ni suscripción."
+      },
+      {
+        "question": "¿Qué formatos son compatibles para subir imágenes?",
+        "answer": "Puedes subir imágenes en formatos JPG, PNG y WebP para ser mejoradas con nuestra herramienta."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Mejorar Tus Imágenes?",
+    "description": "Comienza con créditos gratuitos y ve la transformación por ti mismo.",
+    "contactUsText": "Contáctanos",
+    "tryText": "Pruébalo Ahora →"
+  },
+  "footer": {
+    "heading": "¿Listo para Mejorar Tus Visuales?",
+    "description": "Prueba el Mejorador de Imágenes AI ahora y testifica la transformación. No se requiere registro.",
+    "ctaText": "Mejora Imágenes Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

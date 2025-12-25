@@ -1,0 +1,230 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - Voiceover Aufnahmefunktion",
+  "meta": {
+    "description": "Heben Sie Ihre audiovisuellen Inhalte mühelos mit professionellen Voiceovers hervor. Nutzen Sie modernste KI-Technologie, um aus Text Voiceovers zu generieren und das Engagement sowie das Storytelling zu verbessern. Ideal für Videos, Hörbücher und Marketingmaterialien. Erleben Sie die Zukunft der Audio-Produktion mit WaveSpeed AI.",
+    "keywords": "Voiceover Aufnahme KI, Audiogenerierung, Text zu Sprache, professionelle Voiceovers, KI Spracherzeuger, E-Commerce Audio-Tool, Marketing Audio-Produktion, Hörbuch-Narration, Video Voiceover, soziale Medien Audioverbesserungen, WaveSpeed Audio-Tools"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI-Tools",
+        "items": [
+          [
+            "KI-Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "Voiceover Aufnahme",
+    "subHeading": "Verwandeln Sie Text in fesselnde Voiceovers",
+    "description": "Konvertieren Sie Ihre Skripte sofort in hochwertige Voiceovers mit unserer KI-gestützten Lösung. Es sind keine professionellen Aufnahmegeräte oder Sprecher erforderlich. Verbessern Sie mühelos Ihre Videos, Podcasts und Präsentationen.",
+    "tryText": "Jetzt Ausprobieren",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI Voiceover Aufnahmelösung",
+    "left": {
+      "heading": "Traditionelle Herausforderungen",
+      "items": [
+        "Die Produktion von Voiceovers ist typischerweise teuer und zeitaufwendig",
+        "Benötigt Aufnahmestudios und professionelles Talent",
+        "Eingeschränkte Überarbeitungsoptionen für aufgezeichnete Audios",
+        "Hohe laufende Kosten für Sprecher",
+        "Ineffizient für schnelle Projektfristen"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Lösung",
+      "items": [
+        "Generieren Sie Voiceovers in Sekunden aus geschriebenem Text",
+        "Kein Studio oder professioneller Sprecher erforderlich - Geben Sie einfach den Text ein",
+        "Hochwertiger, natürlich klingender Sprachausgabe",
+        "Unbegrenzte Anpassungen und Variationen für jedes Skript",
+        "Flexible Preisgestaltung - Bezahlen Sie nur für das, was Sie nutzen"
+      ],
+      "tryText": "Versuchen"
+    }
+  },
+  "howItWorks": {
+    "heading": "So funktioniert es",
+    "description": "Von Text zu Voiceover in 4 einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Geben Sie Ihr Skript ein",
+        "text": "Geben Sie den Text ein oder fügen Sie ihn ein, den Sie in Audio umwandeln möchten",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Wählen Sie den Sprachstil",
+        "text": "Wählen Sie aus einer Vielzahl von Stimmen und Akzenten, um Ihren Ton anzupassen",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Einstellungen anpassen",
+        "text": "Feinabstimmung von Tonhöhe, Geschwindigkeit und Emotion für Ihr Voiceover",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Audio-Datei herunterladen",
+        "text": "Erhalten Sie Ihr hochwertiges Voiceover in Sekunden",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Generieren Sie Ihr Voiceover jetzt →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endlose Möglichkeiten",
+    "description": "Perfekt für jeden Audiobedarf",
+    "items": [
+      "Voiceovers für Werbevideos",
+      "Erzählungen für E-Learning-Kurse",
+      "Geeignet für Podcasts und Webinare",
+      "Hörbuchaufnahmen",
+      "Erklärungsvideos und Tutorials",
+      "Ankündigungen im Geschäft",
+      "Werbejingles",
+      "Inhalte für soziale Medien Videos"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Entdecken Sie, wie Unternehmen ihre Audioinhalte mit KI revolutionieren",
+    "items": [
+      {
+        "tag": "E-Learning",
+        "heading": "Online-Kurs-Narration",
+        "before": {
+          "label": "Vorher",
+          "text": "3-4 Wochen"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "5 Minuten"
+        },
+        "value": "99%",
+        "key": "Zeit eingespart",
+        "description": "Unsere Produktionszeit für den Kurs wurde in Rekordzeit umgedreht. Wir können jetzt Module sofort mit frischen Voiceovers aktualisieren."
+      },
+      {
+        "tag": "Marketing",
+        "heading": "Soziale Medien Werbung",
+        "before": {
+          "label": "Vorher",
+          "text": "Hohe Kosten"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Budgetfreundlich"
+        },
+        "value": "95%",
+        "key": "Kostenreduktion",
+        "description": "Die Produktionskosten für Audio sind drastisch gesenkt worden, was es uns ermöglicht, Kampagnen häufiger zu starten."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Voiceover Modellvergleich",
+    "description": "Wählen Sie die richtige Stimme für Ihr Projekt",
+    "items": [
+      "Standard Stimme: Natürlicher Ton, geeignet für lässige Inhalte, optimal für die meisten Anwendungen",
+      "Professionelle Stimme: Polierte Stil, ideal für formelle Präsentationen und Markenstorytelling",
+      "Männliche/weibliche Optionen verfügbar für unterschiedliche Bedürfnisse",
+      "Anpassungsoptionen um den emotionalen Ton und das Tempo festzulegen",
+      "Schnelle Bearbeitungszeit für dringende Projekte",
+      "Kommerzielle Rechte inklusive - Nutzung in jedem Kontext"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Verwandte KI-Tools",
+    "description": "Entdecken Sie weitere innovative KI-Tools für die Audio-Produktion"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welche Audioqualität kann ich von den Voiceovers erwarten?",
+        "answer": "Unsere KI erzeugt hochwertige Audio, die klar, natürlich und für verschiedene Anwendungen optimiert ist. Die Ausgabe bleibt über verschiedene Formate hinweg klar, was ein professionelles Finish für alle Medien gewährleistet."
+      },
+      {
+        "question": "Kann ich verschiedene Stimmen und Akzente wählen?",
+        "answer": "Absolut! Sie können aus einer Vielzahl von Stimmen und Akzenten auswählen, um den Ton Ihres Inhalts perfekt abzustimmen. Diese Anpassung hilft Ihnen, Ihre Botschaft besser mit Ihrem Publikum in Resonanz zu bringen."
+      },
+      {
+        "question": "Wie lange dauert es, ein Voiceover zu generieren?",
+        "answer": "Die Generierung von Voiceovers ist unglaublich schnell und erfolgt in der Regel in Sekunden, unabhängig von der Länge Ihres Textes. Diese Effizienz ermöglicht es Ihnen, Inhalte in bemerkenswerter Geschwindigkeit zu produzieren."
+      },
+      {
+        "question": "Kann ich die Anpassungen des Voiceovers nach der Generierung bearbeiten?",
+        "answer": "Ja! Sie können die Tonhöhe, Geschwindigkeit und den emotionalen Ton nach Bedarf ändern, sodass Sie das Voiceover verfeinern können, um Ihre spezifischen Anforderungen für jedes Projekt zu erfüllen."
+      },
+      {
+        "question": "Welche Formate unterstützen Sie für Audio-Dateien?",
+        "answer": "Wir unterstützen mehrere Audio-Dateiformate, einschließlich MP3 und WAV, um die Kompatibilität mit verschiedenen Plattformen und Medien zu gewährleisten. Wählen Sie das Format, das am besten zu Ihren Vertriebsbedürfnissen passt."
+      },
+      {
+        "question": "Gibt es Einschränkungen, wie ich die erzeugten Voiceovers verwenden kann?",
+        "answer": "Nein! Alle durch WaveSpeed generierten Voiceovers enthalten volle kommerzielle Nutzungsrechte. Sie dürfen sie in Werbung, sozialen Medien, E-Learning, persönlichen Projekten und mehr verwenden."
+      },
+      {
+        "question": "Kann ich mehrere Voiceovers gleichzeitig generieren?",
+        "answer": "Ja, unsere Plattform unterstützt die Batchverarbeitung, damit Sie mehrere Voiceovers gleichzeitig generieren können. Perfekt für große Projekte, die konsistente Audioausgaben erfordern."
+      },
+      {
+        "question": "Was soll ich tun, wenn ich technische Probleme habe?",
+        "answer": "WaveSpeed bietet umfangreiche Dokumentationen, Video-Tutorials und responsive Unterstützung per E-Mail oder Live-Chat, um Ihnen bei technischen Anfragen oder Problemen zu helfen, die Sie möglicherweise haben."
+      },
+      {
+        "question": "Gibt es eine Testphase oder kostenlose Credits für neue Benutzer?",
+        "answer": "Ja, alle neuen Benutzer erhalten kostenlose Credits, um unsere Voiceover-Funktionen zu erkunden. Testen Sie den Service risikofrei und erleben Sie die Qualität selbst."
+      },
+      {
+        "question": "Wie ist die Preisstruktur für die Generierung von Voiceovers?",
+        "answer": "Wir arbeiten nach einem Pay-as-you-go-Modell mit flexibler Preisgestaltung basierend auf den verwendeten Funktionen und der Audio-Länge. Diese Struktur stellt sicher, dass Sie nur für die Voiceovers bezahlen, die Sie erstellen."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Ihr erstes Voiceover zu erstellen?",
+    "description": "Beginnen Sie mit kostenlosen Credits - Erleben Sie die Qualität selbst",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Jetzt Ausprobieren →"
+  },
+  "footer": {
+    "heading": "Bereit, Ihre Inhalte zu verbessern?",
+    "description": "Testen Sie jetzt WaveSpeed AI und heben Sie Ihr audioerlebnis hervor. Keine Anmeldung erforderlich.",
+    "ctaText": "Jetzt mit der Aufnahme beginnen",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

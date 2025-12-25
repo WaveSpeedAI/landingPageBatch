@@ -1,0 +1,222 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Generator Subtitle Otomatis",
+  "meta": {
+    "description": "Hasilkan subtitle yang akurat untuk video dengan mudah menggunakan Generator Subtitle Otomatis kami. Tingkatkan aksesibilitas dan keterlibatan untuk berbagai audiens. Ideal untuk pembuat konten, pendidik, dan pemasar. Rasakan presisi teknologi berbasis AI!",
+    "keywords": "generator subtitle otomatis, subtitle video, subtitle AI, alat transkripsi, teks tertutup, solusi aksesibilitas, pembuatan konten, video pemasaran, video pendidikan, WaveSpeed AI, peningkatan video"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Tampilan",
+        "items": [
+          [
+            "Tampilan",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Generasi Subtitle Otomatis",
+    "subHeading": "Buat Subtitle Sempurna dalam Sekejap",
+    "description": "Secara instan hasilkan subtitle yang akurat untuk video Anda, memastikan aksesibilitas dan pemahaman bagi semua penonton. Sempurna untuk pembuat konten dan bisnis yang ingin meningkatkan jangkauan mereka. Coba sekarang dan lihat perbedaannya!",
+    "tryText": "Coba Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Generator Subtitle Otomatis WaveSpeed AI",
+    "left": {
+      "heading": "Tantangan Tradisional",
+      "items": [
+        "Transkripsi manual memakan waktu dan membosankan",
+        "Biaya tinggi untuk layanan transkripsi profesional",
+        "Ketidakkonsistenan dalam akurasi dan waktu",
+        "Dukungan bahasa terbatas dalam alat tradisional",
+        "Membutuhkan pengetahuan ahli untuk penyajian yang efektif"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeedAI",
+      "items": [
+        "Hasilkan subtitle yang akurat dalam hitungan menit",
+        "Solusi hemat biaya dengan model bayar per penggunaan",
+        "Akurasi berbasis AI memastikan waktu dan teks yang tepat",
+        "Mendukung berbagai bahasa dan format",
+        "Antarmuka ramah pengguna untuk menghasilkan dengan mudah"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Penyajian tanpa usaha dalam 4 langkah sederhana",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Video",
+        "text": "Unggah file video Anda untuk menghasilkan subtitle",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Pilih Bahasa",
+        "text": "Pilih bahasa untuk subtitle dari berbagai pilihan kami",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Hasilkan Subtitle",
+        "text": "Biarkan AI memproses video Anda dan menghasilkan subtitle",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Unduh Subtitle",
+        "text": "Terima file subtitle Anda yang siap digunakan secara instan",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Hasilkan Subtitle Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Tanpa Batas",
+    "description": "Sempurna untuk segala jenis konten video",
+    "items": [
+      "Pembuat konten YouTube",
+      "Kuliah pendidikan dan webinar",
+      "Video pemasaran untuk produk dan layanan",
+      "Video media sosial untuk jangkauan lebih luas",
+      "Dokumen dan video informatif",
+      "Materi pelatihan perusahaan",
+      "Podcast dengan komponen visual",
+      "Video hiburan dan film"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Temukan bagaimana pengguna memaksimalkan produktivitas mereka dengan AI",
+    "items": [
+      {
+        "tag": "Pendidikan",
+        "heading": "Seri Kuliah Universitas",
+        "before": {
+          "label": "Sebelum",
+          "text": "Subtitle manual memakan waktu berminggu-minggu"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Subtitle instan dalam hitungan menit"
+        },
+        "value": "95%",
+        "key": "Penghematan Waktu",
+        "description": "Subtitle kini dihasilkan dalam sekejap, memungkinkan berbagi konten yang lebih cepat dan meningkatkan kejelasan bagi siswa."
+      },
+      {
+        "tag": "Pemasaran",
+        "heading": "Video Produk E-commerce",
+        "before": {
+          "label": "Sebelum",
+          "text": "Biaya transkripsi tinggi"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Subtitle otomatis yang terjangkau"
+        },
+        "value": "90%",
+        "key": "Pengurangan Biaya",
+        "description": "Kampanye video kami telah melihat peningkatan keterlibatan, dengan subtitle yang jelas membuat pesan kami dapat diakses."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Model AI",
+    "description": "Pahami fitur-fitur dari generasi subtitle kami",
+    "items": [
+      "Kualitas Standar: Pemrosesan cepat, ideal untuk tugas cepat",
+      "Kualitas Premium: Akurasi yang ditingkatkan dan fitur koreksi otomatis",
+      "Pemrosesan batch untuk banyak file secara bersamaan",
+      "Dukungan format untuk SRT, VTT, dan lainnya",
+      "Kemampuan multibahasa untuk jangkauan global",
+      "Opsi penyinkronan untuk berbagai platform video"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Jelajahi lebih banyak solusi AI yang kuat untuk pengeditan video"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Segala yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Seberapa akurat subtitle yang dihasilkan?",
+        "answer": "Model AI kami memastikan akurasi tinggi, memanfaatkan algoritma canggih untuk hasil yang andal. Sementara kami berusaha untuk mencapai akurasi 95%, penyuntingan kecil mungkin dibutuhkan untuk kesempurnaan."
+      },
+      {
+        "question": "Bisakah saya mengedit subtitle setelah dihasilkan?",
+        "answer": "Ya! Anda dapat dengan mudah mengedit subtitle yang dihasilkan dalam platform kami sebelum menyelesaikannya untuk video Anda."
+      },
+      {
+        "question": "Format video apa yang didukung untuk menghasilkan subtitle?",
+        "answer": "Kami mendukung berbagai format video termasuk MP4, AVI, MOV, dan lainnya. Cukup unggah file Anda, dan kami akan menangani sisanya."
+      },
+      {
+        "question": "Apakah ada dukungan bahasa untuk subtitle?",
+        "answer": "Tentu saja! Kami menawarkan dukungan untuk berbagai bahasa. Anda dapat memilih bahasa yang diinginkan pada awal proses pembuatan subtitle."
+      },
+      {
+        "question": "Berapa lama waktu yang diperlukan untuk menghasilkan subtitle?",
+        "answer": "Subtitle dihasilkan hampir secara instan. Sebagian besar video diproses dalam hitungan menit, tergantung pada panjang dan kompleksitas."
+      },
+      {
+        "question": "Apa model harga untuk pembuatan subtitle?",
+        "answer": "Kami beroperasi dengan model harga fleksibel bayar per penggunaan, memastikan Anda hanya membayar untuk yang Anda gunakan. Tidak ada biaya tersembunyi atau langganan."
+      },
+      {
+        "question": "Bisakah saya menggunakan subtitle untuk tujuan komersial?",
+        "answer": "Ya, Anda memiliki hak penuh untuk menggunakan subtitle yang dihasilkan dalam pengaturan komersial tanpa biaya tambahan."
+      },
+      {
+        "question": "Dukungan teknis apa yang Anda tawarkan?",
+        "answer": "Kami menyediakan dukungan teknis yang komprehensif termasuk panduan, FAQ, dan layanan pelanggan 24/7 untuk pemecahan masalah dan pertanyaan."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap Menghasilkan Subtitle Pertama Anda?",
+    "description": "Mulai dengan kredit gratis - Rasakan kemudahan pembuatan konten yang dapat diakses",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Coba Sekarang →"
+  },
+  "footer": {
+    "heading": "Transformasikan Aksesibilitas Video Anda Hari Ini!",
+    "description": "Manfaatkan WaveSpeed AI sekarang untuk meningkatkan kemampuan konten video Anda. Tidak perlu mendaftar.",
+    "ctaText": "Hasilkan Subtitle Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi."
+  }
+}

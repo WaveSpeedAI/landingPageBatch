@@ -1,0 +1,214 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Penandaan Otomatis AI",
+  "meta": {
+    "description": "Tandai produk dalam gambar Anda dengan mudah menggunakan penandaan otomatis berbasis AI. Tingkatkan alur kerja e-commerce Anda dengan presisi dan kecepatan. Sempurna untuk pengecer online yang ingin mengoptimalkan daftar produk mereka dan meningkatkan ketercarian. Daftar sekarang dan rasakan efisiensinya!",
+    "keywords": "penandaan otomatis, penandaan AI, penandaan produk, otomatisasi e-commerce, pelabelan gambar AI, optimisasi alur kerja, penandaan Shopify, manajemen produk Amazon, manajemen aset digital"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Penandaan Otomatis AI",
+    "subHeading": "Tandai Produk Anda dengan Presisi Tanpa Usaha",
+    "description": "Secara otomatis menghasilkan tag yang akurat untuk gambar produk Anda dalam hitungan detik. Hilangkan upaya penandaan manual dan tingkatkan ketercarian produk Anda. Revolusi proses e-commerce Anda dengan teknologi mutakhir kami.",
+    "tryText": "Mulai Menandai Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Penandaan Otomatis AI WaveSpeed",
+    "left": {
+      "heading": "Tantangan Penandaan Tradisional",
+      "items": [
+        "Penandaan manual memakan waktu dan tenaga",
+        "Potensi tinggi untuk kesalahan manusia dalam penandaan",
+        "Penandaan yang tidak konsisten di berbagai produk",
+        "Sulit untuk mengelola inventaris besar secara efektif",
+        "Skalabilitas terbatas untuk bisnis yang berkembang"
+      ]
+    },
+    "right": {
+      "heading": "Solusi Penandaan Otomatis AI yang Efisien",
+      "items": [
+        "Secara instan menghasilkan tag relevan untuk gambar produk",
+        "Mengurangi upaya manual dan meminimalkan kesalahan",
+        "Penandaan yang konsisten dan akurat di seluruh katalog Anda",
+        "Mudah mengelola inventaris produk yang luas",
+        "Solusi yang dapat diskalakan yang tumbuh bersama bisnis Anda"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Capai penandaan otomatis dalam 4 langkah sederhana",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Gambar",
+        "text": "Kirim gambar produk Anda untuk solusi penandaan",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Proses AI",
+        "text": "Biarkan AI menganalisis gambar dan menentukan tag optimal",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Tinjau Tag",
+        "text": "Periksa dan ubah tag yang disarankan untuk akurasi",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Terapkan Tag",
+        "text": "Terapkan tag langsung ke daftar produk Anda",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Mulai Penandaan Otomatis →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Penandaan Tanpa Batas",
+    "description": "Sempurna untuk berbagai aplikasi e-commerce",
+    "items": [
+      "Manajemen inventaris produk",
+      "Meningkatkan hasil pencarian di toko online",
+      "Pengalaman penelusuran pelanggan yang ditingkatkan",
+      "Pembaruan daftar yang lebih cepat untuk penawaran musiman",
+      "Menyederhanakan organisasi aset digital",
+      "Memfasilitasi daftar multi-platform"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Lihat bagaimana bisnis telah bertransformasi dengan AI",
+    "items": [
+      {
+        "tag": "Ritel Fashion",
+        "heading": "Toko Pakaian E-commerce",
+        "before": {
+          "label": "Sebelum",
+          "text": "10 jam per minggu"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "1 jam per minggu"
+        },
+        "value": "90%",
+        "key": "Waktu yang Dihemat",
+        "description": "Dengan penandaan otomatis, kami mengurangi waktu pembaruan produk kami secara signifikan, menghasilkan waktu peluncuran yang lebih cepat untuk barang baru."
+      },
+      {
+        "tag": "Barang Rumah",
+        "heading": "Toko Dekorasi Rumah Online",
+        "before": {
+          "label": "Sebelum",
+          "text": "Tag yang tidak konsisten"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Penandaan yang akurat"
+        },
+        "value": "99.7%",
+        "key": "Akurasi Tag",
+        "description": "AI meningkatkan konsistensi tag kami, yang meningkatkan peringkat pencarian dan kepuasan pelanggan kami."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Model Penandaan AI",
+    "description": "Pilih solusi penandaan yang tepat untuk kebutuhan Anda",
+    "items": [
+      "Penandai Standar: Tag berkualitas umum untuk berbagai jenis produk",
+      "Penandai Premium: Tag berkualitas tinggi, spesifik niche untuk akurasi yang lebih baik",
+      "Analisis semantik bawaan untuk penandaan kontekstual",
+      "Mendukung integrasi dengan platform e-commerce populer",
+      "Waktu pemrosesan cepat dengan pembaruan penandaan waktu nyata"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Jelajahi lebih banyak alat AI yang kuat untuk e-commerce"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Segala sesuatu yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Seberapa akurat tag yang dihasilkan secara otomatis?",
+        "answer": "AI kami memberikan akurasi tinggi dalam pembuatan tag. Peningkatan berkelanjutan melalui pembelajaran mesin memastikan relevansi dengan katalog produk Anda."
+      },
+      {
+        "question": "Bisakah saya mengedit tag yang dihasilkan secara otomatis?",
+        "answer": "Ya! Setelah pemrosesan AI, Anda dapat meninjau dan mengubah tag sesuai kebutuhan spesifik Anda."
+      },
+      {
+        "question": "Jenis gambar apa yang paling baik untuk penandaan?",
+        "answer": "Gambar produk yang jelas dan terang menghasilkan hasil terbaik untuk penandaan yang akurat. AI juga dapat bekerja dengan berbagai jenis produk."
+      },
+      {
+        "question": "Apakah ada batasan jumlah gambar yang dapat saya unggah?",
+        "answer": "Tidak! Anda dapat mengunggah sebanyak mungkin gambar yang Anda butuhkan untuk penandaan. Sistem menangani unggahan batch dengan mulus."
+      },
+      {
+        "question": "Apakah saya perlu memberikan deskripsi atau konteks untuk penandaan?",
+        "answer": "Tidak, AI menganalisis gambar secara mandiri untuk menghasilkan tag yang relevan, membuat proses sangat efisien."
+      },
+      {
+        "question": "Bagaimana jika saya memiliki inventaris besar?",
+        "answer": "Solusi kami dapat diskalakan dengan efektif, memungkinkan penandaan yang efisien untuk daftar produk yang luas tanpa memperlambat."
+      },
+      {
+        "question": "Seberapa cepat saya dapat mengharapkan gambar saya ditandai?",
+        "answer": "Penandaan biasanya terjadi dalam hitungan detik per gambar, memungkinkan Anda untuk memperbarui daftar Anda secara waktu nyata."
+      },
+      {
+        "question": "Apa hak komersial untuk tag yang dihasilkan secara otomatis?",
+        "answer": "Anda mempertahankan hak penuh untuk menggunakan, mengubah, dan menerapkan tag dengan cara apa pun untuk bisnis Anda."
+      },
+      {
+        "question": "Sumber daya dukungan apa yang tersedia?",
+        "answer": "Kami menyediakan dokumentasi, tutorial, dan dukungan pelanggan untuk membantu Anda memaksimalkan efisiensi penandaan Anda."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Mengoptimalkan Penandaan Produk Anda?",
+    "description": "Mulai gunakan Penandaan Otomatis AI hari ini - Daftar untuk kredit gratis!",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Coba Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap untuk Meningkatkan Daftar E-commerce Anda?",
+    "description": "Rasakan kekuatan Penandaan Otomatis AI hari ini. Tidak perlu mendaftar.",
+    "ctaText": "Mulai Menandai Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi."
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Afilado de Imágenes con IA",
+  "meta": {
+    "description": "Mejora tus imágenes con afilado impulsado por IA para una claridad y detalle impresionantes. Ideal para comercio electrónico, redes sociales y cualquier contenido visual. ¡Experimenta calidad de imagen de otro nivel al instante!",
+    "keywords": "afilado de imágenes con IA, mejora de fotos, claridad de imagen, imágenes para comercio electrónico, herramientas de fotos con IA, imágenes de alta resolución, contenido visual para redes sociales, optimización de fotos, WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas de IA",
+        "items": [
+          [
+            "Herramientas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Muestra",
+        "items": [
+          [
+            "Muestra",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Afilado de Imágenes",
+    "subHeading": "Dale Vida a Tus Imágenes",
+    "description": "Transforma imágenes borrosas y de baja calidad en visuales asombrosos con afilado avanzado de IA. Experimenta claridad y detalle mejorados sin esfuerzo. Perfecto para comercio electrónico, marketing y proyectos personales.",
+    "tryText": "Afila Tu Imagen Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución de Afilado de Imágenes con IA de WaveSpeed AI",
+    "left": {
+      "heading": "Desafíos del Edición de Imágenes Tradicional",
+      "items": [
+        "Las herramientas de afilado manual son complejas y requieren mucho tiempo",
+        "Pérdida de calidad durante el aumento y ajustes",
+        "Requiere conocimiento de software de edición de fotos",
+        "No es adecuado para el procesamiento de imágenes en masa",
+        "Resultados limitados sin habilidades profesionales"
+      ]
+    },
+    "right": {
+      "heading": "Solución de WaveSpeed AI",
+      "items": [
+        "Afilado instantáneo de múltiples imágenes con un solo clic",
+        "Mejora impulsada por IA que preserva detalles",
+        "Interfaz fácil de usar sin habilidades previas necesarias",
+        "Procesamiento por lotes para un flujo de trabajo sin interrupciones",
+        "Servicio de afilado rentable, paga por imagen"
+      ],
+      "tryText": "Pruébalo"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "Consigue imágenes cristalinas en 4 pasos simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Subir Imagen",
+        "text": "Selecciona la imagen que deseas afilar",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Ajustar Configuraciones",
+        "text": "Ajusta el nivel de afilado según tu preferencia",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Previsualizar Cambios",
+        "text": "Ve los cambios en tiempo real en la claridad de tu imagen",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Descargar Imagen Mejorada",
+        "text": "Obtén tu imagen bellamente afilada al instante",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Afile Su Primera Imagen →"
+  },
+  "endlessPossibilities": {
+    "heading": "Posibilidades Sin Fin",
+    "description": "Mejora imágenes para cualquier aplicación",
+    "items": [
+      "Imágenes de productos para Shopify y Amazon",
+      "Publicaciones en redes sociales para Instagram y Facebook",
+      "Materiales de marketing y publicidad",
+      "Listados de bienes raíces",
+      "Fotografía de alimentos para menús",
+      "Proyectos de fotografía personal",
+      "Fotos de eventos y bodas",
+      "Impresiones artísticas y portafolios en línea"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Descubre cómo los usuarios están elevando sus imágenes con IA",
+    "items": [
+      {
+        "tag": "Fotografía de Comercio Electrónico",
+        "heading": "Listado de Productos en Amazon",
+        "before": {
+          "label": "Antes",
+          "text": "Imágenes Borrosas"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Cristalinas"
+        },
+        "value": "98.7%",
+        "key": "Mejora de Calidad de Imagen",
+        "description": "La calidad de imagen mejorada aumentó nuestra tasa de conversión en un 35% en una semana."
+      },
+      {
+        "tag": "Marketing en Redes Sociales",
+        "heading": "Creador de Contenido en Instagram",
+        "before": {
+          "label": "Antes",
+          "text": "Fotos Poco Claras"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Visuales Impresionantes"
+        },
+        "value": "97.5%",
+        "key": "Aumento de Tasa de Participación",
+        "description": "Las imágenes de alta calidad aumentaron significativamente nuestros seguidores y me gusta."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Modelos de Afilado con IA",
+    "description": "Selecciona el modelo de afilado adecuado para tus necesidades",
+    "items": [
+      "Afilado Estándar: Mejora detalles mientras mantiene un aspecto natural",
+      "Afilado Mejorado: Maximiza la claridad y contraste para imágenes impactantes",
+      "Procesamiento por Lotes: Afilado de múltiples imágenes simultáneamente",
+      "Control de Calidad Adaptativo: Ajusta el afilado según el contenido de la imagen",
+      "Previsualización en Tiempo Real: Ve instantáneamente los cambios antes de guardar",
+      "Soporte para PNG y JPG para todas las salidas"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas de IA Relacionadas",
+    "description": "Descubre más poderosas herramientas de IA para mejora de imágenes"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué tipos de imágenes se pueden afilar?",
+        "answer": "Puedes afilar formatos JPG, PNG y WebP. Las imágenes deben ser claras y de calidad decente para obtener los mejores resultados."
+      },
+      {
+        "question": "¿Puedo ajustar el nivel de afilado?",
+        "answer": "¡Sí! Puedes personalizar la fuerza de afilado para que se ajuste a tu resultado deseado y tipo de imagen."
+      },
+      {
+        "question": "¿Cuánto tiempo tarda en afilar una imagen?",
+        "answer": "La mayoría de las imágenes se mejoran en segundos, lo que lo hace rápido y eficiente para cualquier proyecto."
+      },
+      {
+        "question": "¿Hay un límite en cuántas imágenes puedo afilar a la vez?",
+        "answer": "¡Sin límites! Puedes afilar tantas imágenes como quieras a la vez con nuestra función de procesamiento por lotes."
+      },
+      {
+        "question": "¿Necesito algún software especial para usar esta herramienta?",
+        "answer": "No se necesita software especial. Simplemente sube tus imágenes en nuestra plataforma y empieza a mejorar."
+      },
+      {
+        "question": "¿Hay tarifas adicionales por afilar imágenes?",
+        "answer": "Operamos con un modelo de pago por imagen sin tarifas ocultas, lo que lo hace flexible para tu presupuesto."
+      },
+      {
+        "question": "¿Puedo cancelar mi suscripción en cualquier momento?",
+        "answer": "¡Sí! No hay suscripciones. Solo pagas por las imágenes que elijas afilar."
+      },
+      {
+        "question": "¿Qué pasa si no me gustan los resultados?",
+        "answer": "Si no estás satisfecho, puedes ajustar la configuración y afilar de nuevo sin ningún cargo adicional."
+      },
+      {
+        "question": "¿Hay soporte si encuentro problemas?",
+        "answer": "¡Sí! Nuestro equipo de soporte al cliente está disponible por correo electrónico y chat en vivo para cualquier pregunta o solución de problemas."
+      },
+      {
+        "question": "¿Puedo usar imágenes afiladas comercialmente?",
+        "answer": "¡Absolutamente! Posees los derechos sobre todas las imágenes afiladas utilizando nuestra herramienta."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Afilara tus Imágenes?",
+    "description": "¡Comienza a mejorar tus visuales hoy!",
+    "contactUsText": "Contáctanos",
+    "tryText": "Afila Tu Imagen Ahora →"
+  },
+  "footer": {
+    "heading": "¿Listo para Mejorar Tus Imágenes?",
+    "description": "Prueba WaveSpeed AI ahora y experimenta la transformación. No se requiere registro.",
+    "ctaText": "Comienza a Afilado Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

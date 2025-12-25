@@ -1,0 +1,226 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Enregistreur d'écran IA",
+  "meta": {
+    "description": "Capturez votre écran facilement grâce à la puissante fonctionnalité d'enregistrement d'écran de WaveSpeed AI. Idéal pour les tutoriels, les présentations et le streaming, le tout soutenu par une technologie IA avancée. Profitez d'un enregistrement sans faille sans les tracas d'un logiciel complexe.",
+    "keywords": "enregistreur d'écran, capture d'écran IA, outil d'enregistrement vidéo, enregistrement de tutoriels, enregistrement de présentations, capture d'écran sans couture, streaming, vidéo éducative, démos de logiciels, tutoriels en ligne, vidéos marketing"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Enregistrement d'écran simplifié",
+    "subHeading": "Capturez, partagez et inspirez",
+    "description": "Enregistrez sans effort votre écran pour des tutoriels, des démos de produits ou des présentations. Utilisez les fonctionnalités intelligentes de WaveSpeed AI pour améliorer vos enregistrements et partager vos connaissances efficacement. Commencez à enregistrer maintenant !",
+    "tryText": "Commencer l'enregistrement",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution d'enregistreur d'écran WaveSpeed AI",
+    "left": {
+      "heading": "Défis d'enregistrement traditionnels",
+      "items": [
+        "Configuration complexe du logiciel",
+        "Équipement d'enregistrement coûteux",
+        "Montage chronophage",
+        "Performances lentes et qualité médiocre",
+        "Options de partage limitées"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed AI",
+      "items": [
+        "Enregistrez instantanément des vidéos de haute qualité en un seul clic",
+        "Pas de logiciel supplémentaire nécessaire - commencez simplement à enregistrer",
+        "Fonctionnement sans faille avec des performances améliorées par IA",
+        "Options de partage faciles sur plusieurs plateformes",
+        "Modèle de paiement à l'usage abordable pour tous"
+      ],
+      "tryText": "Essayer"
+    }
+  },
+  "howItWorks": {
+    "heading": "Fonctionnement",
+    "description": "Enregistrez votre écran en 4 étapes simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Sélectionnez la zone à enregistrer",
+        "text": "Choisissez l'écran complet ou une fenêtre spécifique pour l'enregistrement",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Ajustez les paramètres",
+        "text": "Définissez les préférences audio, la qualité et les options de format",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Commencez l'enregistrement",
+        "text": "Démarrage en un clic pour capturer l'écran instantanément",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Enregistrez et partagez",
+        "text": "Téléchargez votre vidéo ou partagez directement sur les réseaux sociaux",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Enregistrez votre première vidéo →"
+  },
+  "endlessPossibilities": {
+    "heading": "Applications d'enregistrement polyvalentes",
+    "description": "Parfait pour une variété de cas d'utilisation",
+    "items": [
+      "Créez des tutoriels éducatifs et des cours",
+      "Enregistrez des démos de logiciels et des présentations",
+      "Diffusez des sessions de jeu sans effort",
+      "Fournissez un support client à travers des guides visuels",
+      "Capturez des webinaires pour une visualisation ultérieure",
+      "Générez des vidéos marketing et des publicités",
+      "Réalisez des vidéos d'instructions pour des produits",
+      "Documentez des configurations techniques ou des conseils de dépannage"
+    ]
+  },
+  "successStories": {
+    "heading": "Véritables histoires de succès",
+    "description": "Découvrez comment les utilisateurs tirent parti de l'enregistrement d'écran",
+    "items": [
+      {
+        "tag": "Éducation",
+        "heading": "Amélioration de l'apprentissage à distance",
+        "before": {
+          "label": "Avant",
+          "text": "Difficile d'engager les étudiants"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Tutoriels interactifs"
+        },
+        "value": "75%",
+        "key": "Augmentation de l'engagement",
+        "description": "Les formateurs ont enregistré des leçons vidéo engageantes qui ont amélioré la participation et la compréhension des étudiants."
+      },
+      {
+        "tag": "Formation en entreprise",
+        "heading": "Processus d'intégration efficace",
+        "before": {
+          "label": "Avant",
+          "text": "5 heures par stagiaire"
+        },
+        "after": {
+          "label": "Après",
+          "text": "1 heure par stagiaire"
+        },
+        "value": "80%",
+        "key": "Temps économisé",
+        "description": "La formation rationalisée avec des sessions enregistrées a permis aux nouvelles recrues d'apprendre à leur propre rythme, réduisant considérablement le temps d'intégration."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison des enregistreurs d'écran",
+    "description": "Choisissez les bons paramètres d'enregistrement en fonction de vos besoins",
+    "items": [
+      "Enregistrement standard : qualité 1080p, capture audio et paramètres flexibles",
+      "Mode haute performance : optimisez pour les sessions de jeu à haute fréquence d'images",
+      "Mode léger : rapide et facile, adapté pour de courts clips et tutoriels",
+      "Entrées audio personnalisées : enregistrez l'audio système ou le microphone séparément",
+      "Pas de décalage : assurez-vous que les enregistrements sont fluides et ininterrompus",
+      "Fonctions d'édition faciles incluses"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils IA connexes",
+    "description": "Explorez d'autres outils pour améliorer la création vidéo"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quelle qualité vidéo puis-je enregistrer ?",
+        "answer": "Vous pouvez enregistrer jusqu'à la qualité 1080p avec la possibilité d'ajuster les paramètres selon vos besoins. Cela garantit des visuels clairs et un audio de haute qualité pour tout type d'enregistrement."
+      },
+      {
+        "question": "Puis-je inclure ma voix ou d'autres audio dans l'enregistrement ?",
+        "answer": "Oui ! Vous avez la possibilité de choisir des sources audio, y compris l'entrée du microphone aux côtés de l'audio système, permettant des présentations complètes et engageantes."
+      },
+      {
+        "question": "Est-il facile de partager les enregistrements ?",
+        "answer": "Absolument ! Après l'enregistrement, vous pouvez facilement télécharger vos vidéos ou partager directement sur les réseaux sociaux et d'autres plateformes sans tracas."
+      },
+      {
+        "question": "Puis-je enregistrer plusieurs fois sans perdre en qualité ?",
+        "answer": "Oui ! Vous pouvez faire autant d'enregistrements que vous le souhaitez, chaque fois en maintenant la sortie de la plus haute qualité sans dégradation."
+      },
+      {
+        "question": "Quel est le modèle de tarification pour utiliser l'enregistreur d'écran ?",
+        "answer": "Nous fonctionnons sur un modèle de tarification à l'utilisation, garantissant que vous ne payez que pour les enregistrements que vous créez sans frais cachés ni abonnements."
+      },
+      {
+        "question": "Combien de temps faut-il pour commencer à enregistrer ?",
+        "answer": "Commencer est instantané ! En un seul clic, vous pouvez commencer à capturer votre écran en quelques secondes."
+      },
+      {
+        "question": "Quels sont les meilleurs cas d'utilisation pour l'enregistrement d'écran ?",
+        "answer": "L'enregistrement d'écran est parfait pour des fins éducatives, des démonstrations de produits, un support en temps réel, des vidéos marketing, et bien plus encore !"
+      },
+      {
+        "question": "Est-ce que je possède les droits sur les vidéos que j'enregistre ?",
+        "answer": "Oui ! Toutes les vidéos créées sont les vôtres avec des droits commerciaux complets, vous permettant de les utiliser sur diverses plateformes sans frais supplémentaires."
+      },
+      {
+        "question": "Quel support est disponible si j'ai des problèmes ?",
+        "answer": "Nous fournissons un support complet comprenant une documentation détaillée, des tutoriels vidéo et une équipe d'assistance réactive prête à vous aider avec toute question technique."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à commencer à capturer votre écran ?",
+    "description": "Découvrez la facilité de l'enregistreur d'écran de WaveSpeed AI aujourd'hui !",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Commencer l'enregistrement maintenant →"
+  },
+  "footer": {
+    "heading": "Prêt à transformer vos captures d'écran ?",
+    "description": "Essayez WaveSpeed AI maintenant et constatez la différence par vous-même. Aucun enregistrement requis.",
+    "ctaText": "Commencer l'enregistrement maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

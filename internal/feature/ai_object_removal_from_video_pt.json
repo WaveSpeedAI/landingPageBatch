@@ -1,0 +1,225 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Remoção de Objetos com IA de Vídeos",
+  "meta": {
+    "description": "Melhore seus vídeos sem esforço removendo objetos indesejados com IA. Agilize seu processo de edição e crie conteúdo polido instantaneamente. Perfeito para marketers, videomakers e criadores de conteúdo. Experimente uma edição de vídeo sem costura com o WaveSpeed AI!",
+    "keywords": "remoção de objetos com IA, edição de vídeo com IA, remoção de objetos indesejados, ferramenta de criação de conteúdo, aprimoramento de vídeo, edição de vídeo com IA, soluções de vídeo para marketing, produção de vídeo, otimização de conteúdo visual, edição de vídeo profissional"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de IA",
+        "items": [
+          [
+            "Ferramentas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Mostruário",
+        "items": [
+          [
+            "Mostruário",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Remoção de Objetos de Vídeos",
+    "subHeading": "Elimine Elementos Indesejados Sem Esforço",
+    "description": "Remova distrações e melhore seu conteúdo de vídeo em segundos. Utilizando tecnologia de IA de ponta, você pode alcançar uma aparência limpa e profissional sem trabalho manual de edição. Experimente a liberdade de visuais impecáveis hoje!",
+    "tryText": "Experimente Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução de Remoção de Objetos com IA do WaveSpeed AI",
+    "left": {
+      "heading": "Desafios da Edição Tradicional",
+      "items": [
+        "Remoção manual de objetos que consome tempo",
+        "Software e ferramentas de edição caros",
+        "Exige habilidades e experiência profissionais",
+        "Processos complicados com precisão limitada",
+        "Alto custo para projetos pequenos"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeed AI",
+      "items": [
+        "Remoção instantânea de objetos em minutos",
+        "Nenhuma habilidade técnica necessária - Basta enviar vídeos",
+        "Precisão e eficiência alimentadas por IA",
+        "Revisões ilimitadas sem custo adicional",
+        "Preços pay-as-you-go tornam acessível para todos"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "Remoção de objetos sem esforço em 4 passos simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Enviar Vídeo",
+        "text": "Envie seu arquivo de vídeo contendo objetos indesejados",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Selecionar Objetos",
+        "text": "Identifique os objetos que você deseja remover da cena",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Confirmar Remoção",
+        "text": "Revise a seleção e confirme o processo de remoção",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Baixar Vídeo",
+        "text": "Receba seu vídeo editado sem elementos indesejados em minutos",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Remover Objetos Agora →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilidades Infinitas",
+    "description": "Personalize seus vídeos para qualquer cenário",
+    "items": [
+      "Vídeos promocionais livres de distrações",
+      "Anúncios para redes sociais polidos à perfeição",
+      "Criação de conteúdo sem desordem visual",
+      "Apresentações profissionais refinadas para clareza",
+      "Tutoriais focados apenas em elementos principais",
+      "Listagens de imóveis exibindo propriedades de forma impecável",
+      "Filmagens de eventos livres de obstruções",
+      "Histórias de marca com visuais aprimorados"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Descubra como empresas estão refinando seu conteúdo em vídeo com IA",
+    "items": [
+      {
+        "tag": " Agência de Marketing",
+        "heading": "Vídeo de Campanha Publicitária",
+        "before": {
+          "label": "Antes",
+          "text": "Cenários bagunçados"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Limpo e profissional"
+        },
+        "value": "98%",
+        "key": "Melhoria na Qualidade Visual",
+        "description": "Usando remoção de objetos com IA, transformamos os vídeos publicitários de nosso cliente, aumentando o engajamento em 50% em apenas uma semana."
+      },
+      {
+        "tag": "Organizador de Eventos",
+        "heading": "Vídeo Promocional",
+        "before": {
+          "label": "Antes",
+          "text": "Difícil de acompanhar"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Narrativa sem costura"
+        },
+        "value": "97%",
+        "key": "Retenção de Espectadores",
+        "description": "Removemos distrações indesejadas dos destaques do nosso evento, resultando em uma taxa de retenção de espectadores muito mais alta."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Modelos de IA",
+    "description": "Selecione o modelo mais adequado para suas necessidades",
+    "items": [
+      "Precisão de IA: Detecção e remoção de objetos impecáveis",
+      "Aprimoramento de Velocidade: Processamento rápido sem comprometer a qualidade",
+      "Interface amigável para navegação sem esforço",
+      "Integração sem costura com projetos de vídeo existentes",
+      "Direitos de uso comercial incluídos para toda a saída"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Explore mais poderosas ferramentas de IA para aprimoramento de conteúdo"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo o que você precisa saber",
+    "items": [
+      {
+        "question": "Que tipos de vídeos posso usar para remoção de objetos?",
+        "answer": "Você pode enviar uma variedade de formatos de vídeo, incluindo MP4, AVI e MOV. Certifique-se de que seus vídeos estão claros e bem iluminados para melhores resultados."
+      },
+      {
+        "question": "Quão precisa é o processo de remoção de objetos?",
+        "answer": "A tecnologia de IA é projetada para alta precisão, imitando de perto resultados de edição profissional ao mesclar suavemente áreas ao redor após a remoção."
+      },
+      {
+        "question": "Há um limite para quantos objetos posso remover?",
+        "answer": "Não, não há limite! Você pode remover quantos objetos precisar em um único vídeo, embora remoções mais complexas possam levar mais tempo."
+      },
+      {
+        "question": "O que acontece se não ficar satisfeito com os resultados da remoção?",
+        "answer": "Oferecemos revisões ilimitadas, para que você possa aprimorar o resultado até que atenda suas expectativas. Basta enviar novamente o vídeo com seu feedback."
+      },
+      {
+        "question": "Há direitos comerciais para vídeos processados com IA?",
+        "answer": "Sim! Todos os vídeos processados através da nossa plataforma vêm com plenos direitos de uso comercial, permitindo que você os utilize em qualquer esforço de marketing."
+      },
+      {
+        "question": "Quanto tempo leva para processar um vídeo para remoção de objetos?",
+        "answer": "A maioria dos vídeos é processada em apenas alguns minutos, dependendo da complexidade e duração das filmagens."
+      },
+      {
+        "question": "Posso editar partes do vídeo enquanto removo objetos?",
+        "answer": "Enquanto o foco principal está na remoção de objetos, você pode aprimorar o vídeo com ferramentas de edição adicionais disponíveis na nossa plataforma."
+      },
+      {
+        "question": "Existem tutoriais disponíveis para usar este recurso?",
+        "answer": "Absolutamente! Fornecemos documentação extensa e tutoriais em vídeo para guiá-lo por todo o processo de remoção de objetos."
+      },
+      {
+        "question": "É possível integrar essa ferramenta com outros softwares de edição de vídeo?",
+        "answer": "Sim! Nossa ferramenta é projetada para fácil integração, permitindo que você complemente seu processo de edição de vídeo existente sem esforço."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Limpar Seus Vídeos?",
+    "description": "Comece com créditos gratuitos - Experimente a mágica da remoção de objetos com IA hoje!",
+    "contactUsText": "Entre em Contato",
+    "tryText": "Experimente Agora →"
+  },
+  "footer": {
+    "heading": "Pronto para Revitalizar Seus Vídeos?",
+    "description": "Experimente o WaveSpeed AI agora e veja a transformação. Não é necessário cadastro.",
+    "ctaText": "Remover Objetos Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - KI Geräuschgenerator",
+  "meta": {
+    "description": "Erzeugen Sie maßgeschneiderte Klanglandschaften und Audioeffekte mit unserem KI Geräuschgenerator. Perfekt zur Verbesserung von Videos, zur Erstellung atmosphärischer Klanglandschaften oder zur Bereicherung von Online-Inhalten. Erleben Sie nahtlose Integration in Ihre Projekte.",
+    "keywords": "KI Geräuschgenerator, Soundeffekte KI, ambienter Audioproduzent, Videoklangerweiterung, anpassbare Klanglandschaften, Audioautomatisierung, Bereicherung von Videoinhalten, E-Commerce Audio-Tool, Shopify Soundeffekte, Amazon Video Audio, soziale Medien Klangverbesserung"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI Werkzeuge",
+        "items": [
+          [
+            "KI Werkzeuge",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "Geräuschgenerierung leicht gemacht",
+    "subHeading": "Erstellen Sie sofort benutzerdefinierte Klanglandschaften",
+    "description": "Transformieren Sie Ihre Audio-Projekte mit der Kraft der KI. Erzeugen Sie einzigartige Geräuschmuster, die auf Ihre Bedürfnisse zugeschnitten sind, in Sekundenschnelle. Perfekt für Videos, Spiele und ambientale Einstellungen. Beginnen Sie noch heute mit der Verbesserung Ihrer Inhalte!",
+    "tryText": "Jetzt ausprobieren",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI KI Geräuschgenerator Lösung",
+    "left": {
+      "heading": "Herausforderungen im traditionellen Sounddesign",
+      "items": [
+        "Hohe Kosten für professionelle Audioproduktion",
+        "Erfordert umfangreiche Erfahrung in der Audiobearbeitung",
+        "Zeitaufwendiger Prozess zur Klangerzeugung",
+        "Begrenzte Anpassungsmöglichkeiten",
+        "Nicht zugänglich für kleine Content-Ersteller"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Lösung",
+      "items": [
+        "Erzeugen Sie einzigartige Geräuschprofile in weniger als einer Minute",
+        "Keine Audiotechnik-Kenntnisse erforderlich - Wählen Sie einfach die Optionen aus",
+        "Sofortige Audioausgaben mit KI-gesteuerter Technologie",
+        "Unbegrenzte Anpassungsmöglichkeiten für spezielle Bedürfnisse",
+        "Erschwingliche Preise - Für alle Ersteller geeignet"
+      ],
+      "tryText": "Versuchen"
+    }
+  },
+  "howItWorks": {
+    "heading": "So funktioniert es",
+    "description": "Erzeugen Sie Ihr perfektes Geräusch in 4 einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Wählen Sie den Klangtyp",
+        "text": "Wählen Sie den Typ des Geräusches oder der Klanglandschaft, die Sie erstellen möchten",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Passen Sie die Parameter an",
+        "text": "Passen Sie Einstellungen wie Lautstärke, Tonhöhe und Textur an, um Ihr Projekt zu unterstützen",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Vorschau Ihrer Kreation",
+        "text": "Hören Sie sich Ihren erzeugten Sound an, bevor Sie ihn finalisieren",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Herunterladen oder integrieren",
+        "text": "Speichern Sie Ihre Geräuschdatei oder verwenden Sie sie direkt in Ihrem Projekt",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Erzeugen Sie Ihren ersten Sound →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endlose Anwendungen",
+    "description": "Ideal für jede Audio-Bedürfnis",
+    "items": [
+      "Hintergrundmusik für Videos",
+      "Spiel-Soundeffekte",
+      "Entspannungs- und Meditationsgeräusche",
+      "Podcast-Audio-Verbesserungen",
+      "Umgebungs-Klanglandschaften",
+      "Werbe-Audio-Schichten",
+      "Schulungs- und Instruktionsaudio",
+      "Kreative Projekte, die einzigartige Geräusche erfordern"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Erfahren Sie, wie Ersteller ihre Projekte mit KI verbessern",
+    "items": [
+      {
+        "tag": "Medienproduktion",
+        "heading": "Verbesserung des YouTube-Kanals",
+        "before": {
+          "label": "Vorher",
+          "text": "Allgemeine Audio-Clips"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Benutzerdefiniertes KI-Geräusch"
+        },
+        "value": "85%",
+        "key": "Verbesserung der Audioqualität",
+        "description": "Die Integration maßgeschneiderter Klanglandschaften hat die Publikumsbindung und das Engagement erheblich gesteigert."
+      },
+      {
+        "tag": "Gaming-Industrie",
+        "heading": "Sounddesign für Indie-Spiele",
+        "before": {
+          "label": "Vorher",
+          "text": "Stock-Geräusche"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Einzigartige KI-generierte Geräusche"
+        },
+        "value": "90%",
+        "key": "Zeiteffizienz",
+        "description": "Unser Sounddesignprozess wurde beschleunigt, was schnellere Spiel-Updates und eine einzigartige Audioidentität ermöglichte."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Vergleich der KI-Geräuschgeneration",
+    "description": "Finden Sie das ideale Soundmodell für Ihr Projekt",
+    "items": [
+      "Ambientgeräusch: Sanfter, kontinuierlicher Klang, ideal für den Hintergrund",
+      "Kinematischer Klang: Epische Audioprofile für dramatische Effekte",
+      "Natürliche Klanglandschaften: Von der Natur inspirierte Geräusche zur Entspannung",
+      "Industrielles Geräusch: Einzigartige und raue Texturen für städtische Erlebnisse",
+      "Interaktive Effekte: Echtzeit-Audioanpassungen für immersive Erlebnisse",
+      "Klangschichtung: Kombinieren Sie mehrere Geräusche für benutzerdefinierte Mischungen"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Verwandte KI-Werkzeuge",
+    "description": "Entdecken Sie weitere KI-Audio-Tools für Ihre Projekte"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welche Arten von Geräuschen kann ich erzeugen?",
+        "answer": "Sie können eine Vielzahl von Geräuschen erzeugen, einschließlich ambienter Geräusche, Soundeffekte und einzigartiger Audioprofile, die auf Ihre Spezifikationen zugeschnitten sind. Ob sanfter Regenklang oder industrielle Atmosphäre, die Möglichkeiten sind vielfältig."
+      },
+      {
+        "question": "Wie passe ich die erzeugten Geräusche an?",
+        "answer": "Die Anpassung von Geräuschen ist einfach. Nachdem Sie den Klangtyp ausgewählt haben, können Sie Parameter wie Lautstärke, Tonhöhe und Intensität anpassen, um Ihren genauen Anforderungen gerecht zu werden, damit die Ausgabe Ihrer Vision entspricht."
+      },
+      {
+        "question": "Kann ich diese Geräusche kommerziell nutzen?",
+        "answer": "Ja! Alle Geräusche, die über WaveSpeed erzeugt werden, kommen mit vollständigen kommerziellen Rechten, sodass Sie sie in Videos, Spielen und anderen Projekten ohne zusätzliche Gebühren verwenden können."
+      },
+      {
+        "question": "Welche Dateitypen sind zum Herunterladen verfügbar?",
+        "answer": "Sie können Ihre erzeugten Geräusche in gängigen Formaten wie MP3, WAV oder AAC herunterladen, was die Integration in Ihre Projekte erleichtert."
+      },
+      {
+        "question": "Gibt es eine Grenze, wie viele Geräusche ich erzeugen kann?",
+        "answer": "Es gibt keine Grenze! Sie können so viele einzigartige Geräusche erzeugen, wie Sie möchten, was es zu einer skalierbaren Lösung für Benutzer macht."
+      },
+      {
+        "question": "Wie schnell kann ich Geräusche erzeugen?",
+        "answer": "Die Geräuschgenerierung erfolgt in der Regel in Sekundenschnelle, sodass Sie Audio schnell während Ihrer Projekte produzieren und nutzen können."
+      },
+      {
+        "question": "Welcher Support ist verfügbar, wenn ich auf Probleme stoße?",
+        "answer": "Unser Support-Team ist hier, um zu helfen! Kontaktieren Sie uns per E-Mail oder Chat für Unterstützung. Darüber hinaus bieten wir Dokumentationen und Video-Tutorials an, um Ihr Erlebnis zu verbessern."
+      },
+      {
+        "question": "Kann ich Feedback zu erzeugten Geräuschen geben?",
+        "answer": "Absolut! Ihr Feedback ist wertvoll. Wir ermutigen die Benutzer, ihre Erfahrungen zu teilen, um uns zu helfen, unsere Angebote weiter zu verbessern und zu innovieren."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Ihr benutzerdefiniertes Geräusch zu erzeugen?",
+    "description": "Beginnen Sie heute mit kostenlosen Credits zu erkunden und verwandeln Sie Ihr Audioerlebnis!",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Jetzt ausprobieren →"
+  },
+  "footer": {
+    "heading": "Bereit, Ihren Klang zu verbessern?",
+    "description": "Erleben Sie WaveSpeed AI jetzt und verwandeln Sie Ihre Audio-Projekte. Keine Anmeldung erforderlich.",
+    "ctaText": "Geräusch jetzt erzeugen",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

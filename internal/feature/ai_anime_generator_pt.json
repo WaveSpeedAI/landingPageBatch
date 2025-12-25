@@ -1,0 +1,222 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Gerador de Anime com IA",
+  "meta": {
+    "description": "Crie visuais impressionantes em estilo anime com IA. Perfeito para criadores de conteúdo, desenvolvedores de jogos e estúdios de animação. Experimente o futuro da animação com WaveSpeed AI.",
+    "keywords": "gerador de anime com IA, criador de arte anime, ferramenta de animação com IA, geração de arte digital, design de personagens anime, criação de conteúdo, ativos de jogos, software de animação, criador de vídeos anime, ilustração de mangá, WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de IA",
+        "items": [
+          [
+            "Ferramentas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Mostruário",
+        "items": [
+          [
+            "Mostruário",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Geração de Arte Anime",
+    "subHeading": "Dê Vida à Sua Imaginação com Criações Anime Impressionantes",
+    "description": "Libere sua criatividade e transforme ideias em visuais cativantes de anime em minutos. Perfeito para artistas, desenvolvedores de jogos e criadores de conteúdo. Experimente hoje e veja quão rápido você pode criar sua primeira obra-prima anime!",
+    "tryText": "Experimente Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução de Gerador de Anime com IA do WaveSpeed AI",
+    "left": {
+      "heading": "Desafios da Animação Tradicional",
+      "items": [
+        "Altos custos de produção ($3000-15000 por projeto)",
+        "Requer animadores e artistas qualificados",
+        "Longos ciclos de desenvolvimento (semanas a meses)",
+        "Estilos limitados e flexibilidade de design",
+        "Barreiras de acesso para criadores independentes"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeed AI",
+      "items": [
+        "Crie arte anime em minutos a partir de esboços ou sugestões",
+        "Nenhuma habilidade artística necessária - Basta descrever sua visão",
+        "Gerado instantaneamente com criatividade aprimorada pela IA",
+        "Estilos e variações infinitas ao seu alcance",
+        "Preços acessíveis adaptados para todos os artistas"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "Do conceito à arte anime em 4 passos simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Forneça um Conceito",
+        "text": "Diga-nos sua ideia, personagem ou cena em palavras simples",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Selecione o Estilo de Arte",
+        "text": "Escolha entre vários estilos de anime (por exemplo, Shonen, Shojo)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Personalize Recursos",
+        "text": "Ajuste traços de personagens, cores e fundos",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Baixe Sua Arte",
+        "text": "Receba arte anime em alta resolução em menos de 5 minutos",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Gere Sua Primeira Arte Anime →"
+  },
+  "endlessPossibilities": {
+    "heading": "Criações Artísticas Infinitas",
+    "description": "Perfeito para qualquer projeto ou tema",
+    "items": [
+      "Design de personagens para jogos e quadrinhos",
+      "Ilustrações personalizadas em estilo anime",
+      "Arte promocional para conteúdo digital",
+      "Visuais únicos para redes sociais",
+      "Arte de fã e designs de personagens originais",
+      "Cenas animadas para conteúdo educativo",
+      "Arte de capa para romances e histórias",
+      "Roteirização para animações"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Real",
+    "description": "Veja como criadores estão revolucionando sua arte com IA",
+    "items": [
+      {
+        "tag": "Desenvolvimento de Jogos",
+        "heading": "Arte de Estúdio de Jogos Indie",
+        "before": {
+          "label": "Antes",
+          "text": "Meses de design"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Minutos de criação"
+        },
+        "value": "95%",
+        "key": "Tempo Economizado",
+        "description": "Reduzimos dramaticamente nosso tempo de design de personagem, permitindo que nossa equipe se concentrasse na jogabilidade."
+      },
+      {
+        "tag": "Artista Freelancer",
+        "heading": "Ilustrações Anime Contratadas",
+        "before": {
+          "label": "Antes",
+          "text": "Altos custos"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Acessibilidade"
+        },
+        "value": "98%",
+        "key": "Eficiência de Custos",
+        "description": "Usando IA para gerar ilustrações, posso oferecer preços competitivos e mais comissões."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Modelos de IA",
+    "description": "Escolha o modelo certo para suas necessidades artísticas",
+    "items": [
+      "Estilo Anime 1: Personagens detalhados, alta qualidade artística, excelente para designs de heróis",
+      "Estilo Anime 2: Criação mais rápida, adequada para elementos de fundo e cena, amigável para o orçamento",
+      "Opções de personalização para cabelo, roupas e ambiente",
+      "Suporta sugestões criativas para poses e expressões dinâmicas",
+      "Resultados instantâneos com geração de 1-5 minutos",
+      "Direitos comerciais incluídos para toda a arte gerada"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Explore mais poderosas ferramentas de IA para artistas"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo que você precisa saber",
+    "items": [
+      {
+        "question": "Quais estilos de arte posso gerar?",
+        "answer": "Você pode criar uma variedade de estilos de anime, incluindo Shonen e Shojo, além de personalizar recursos de acordo com sua preferência."
+      },
+      {
+        "question": "Preciso de habilidades artísticas para usá-lo?",
+        "answer": "De forma alguma! Você só precisa descrever seu conceito, e nossa IA cuidará do resto, criando belas artes de anime."
+      },
+      {
+        "question": "Quais formatos de arquivo estão disponíveis para a saída?",
+        "answer": "A arte gerada está disponível em formatos PNG e JPG de alta resolução, adequados tanto para exibição digital quanto para impressão."
+      },
+      {
+        "question": "Como a IA se compara a artistas tradicionais?",
+        "answer": "A arte gerada por IA oferece resultados rápidos e flexibilidade criativa, mas é uma ferramenta para ajudar os artistas, não um substituto para seu talento único."
+      },
+      {
+        "question": "Posso comercializar a arte gerada?",
+        "answer": "Sim! Toda a arte criada através do WaveSpeed AI inclui direitos comerciais completos, permitindo que você venda ou use como desejar."
+      },
+      {
+        "question": "Quanto tempo leva para gerar a arte?",
+        "answer": "A maioria das criações é concluída em 1-5 minutos, permitindo iterações e mudanças rápidas."
+      },
+      {
+        "question": "Há um limite para o número de criações que posso fazer?",
+        "answer": "Não, você pode gerar quantas obras de arte precisar, cada uma levando apenas alguns minutos."
+      },
+      {
+        "question": "Que suporte está disponível para usar a ferramenta?",
+        "answer": "Oferecemos guias de usuário abrangentes, tutoriais em vídeo e uma equipe de suporte dedicada para quaisquer problemas ou perguntas que você possa ter."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Criar Sua Primeira Arte Anime?",
+    "description": "Comece com créditos gratuitos - Liberte sua criatividade",
+    "contactUsText": "Contate-Nos",
+    "tryText": "Experimente Agora →"
+  },
+  "footer": {
+    "heading": "Pronto para Criar Animes Cativantes?",
+    "description": "Experimente o WaveSpeed AI agora e traga suas ideias à vida. Não é necessário se inscrever.",
+    "ctaText": "Crie Arte Anime Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Removedor de Fundo",
+  "meta": {
+    "description": "Remova facilmente fundos de imagens para criar visuais limpos e profissionais em segundos. Ideal para e-commerce, marketing e uso pessoal. Experimente o poder da edição de imagens impulsionada por IA hoje!",
+    "keywords": "removedor de fundo, edição de imagem com IA, imagens para e-commerce, remoção de fundo de imagem, ferramentas de fotos com IA, fotografia de produto, visuais limpos, imagens de marketing, fotos profissionais, WaveSpeed AI, edição de imagem rápida"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de IA",
+        "items": [
+          [
+            "Ferramentas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Demonstração",
+        "items": [
+          [
+            "Demonstração",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Removedor de Fundo",
+    "subHeading": "Crie Imagens Profissionais Instantaneamente",
+    "description": "Transforme suas fotos removendo fundos indesejados em segundos. Perfeito para melhorar imagens de produtos e criar visuais impressionantes com apenas um clique.",
+    "tryText": "Remover Fundo Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução Removedor de Fundo WaveSpeed AI",
+    "left": {
+      "heading": "Desafios Tradicionais",
+      "items": [
+        "Edição manual que consome muito tempo",
+        "Interfaces de software complexas",
+        "Os custos para serviços profissionais podem ser altos",
+        "Habilidades limitadas de edição exigidas para resultados de qualidade",
+        "Qualidade de saída inconsistente em projetos"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeedAI",
+      "items": [
+        "Remoção instantânea de fundo em segundos",
+        "Interface amigável acessível a todos",
+        "Solução econômica - sem taxas ocultas",
+        "Resultados consistentes e de alta qualidade toda vez",
+        "Preços por uso flexíveis"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "Remova fundos em apenas 4 passos simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Enviar Imagem",
+        "text": "Basta enviar a imagem que você deseja editar",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Processamento Automático",
+        "text": "Deixe a IA analisar e remover o fundo automaticamente",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Visualizar Resultado",
+        "text": "Verifique sua imagem com o fundo removido e faça ajustes, se necessário",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Baixar Imagem",
+        "text": "Obtenha sua imagem editada em alta resolução instantaneamente",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Remova Seu Primeiro Fundo →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilidades Infinitas",
+    "description": "Transforme suas imagens para qualquer caso de uso",
+    "items": [
+      "Imagens de produtos para listagens de e-commerce",
+      "Postagens e anúncios em mídias sociais",
+      "Apresentações e relatórios profissionais",
+      "Materiais de marketing e brochuras",
+      "Visuais para blogs e sites",
+      "Folhetos de eventos e gráficos promocionais",
+      "Presentes e projetos personalizados",
+      "Fotos de listagens imobiliárias"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Descubra como os usuários estão melhorando suas imagens com IA",
+    "items": [
+      {
+        "tag": "Indústria de E-commerce",
+        "heading": "Melhoria de Listagem de Produto",
+        "before": {
+          "label": "Antes",
+          "text": "Fundos desordenados"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Imagens nítidas e claras"
+        },
+        "value": "97%",
+        "key": "Aumento de Qualidade",
+        "description": "Nossas imagens de produtos parecem profissionais, aumentando as vendas em 35% após aprimorá-las com o removedor de fundo."
+      },
+      {
+        "tag": "Fotografia",
+        "heading": "Fotógrafo Freelancer",
+        "before": {
+          "label": "Antes",
+          "text": "Edições manuais levaram horas"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Processamento rápido"
+        },
+        "value": "90%",
+        "key": "Tempo Economizado",
+        "description": "O removedor de fundo otimizou meu fluxo de trabalho, permitindo atender mais clientes de forma eficiente."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Modelos de Edição",
+    "description": "Escolha o modo certo para seu projeto",
+    "items": [
+      "Modo Básico: Remoção rápida de fundo com precisão padrão",
+      "Modo Avançado: Algoritmos aprimorados para imagens complexas",
+      "Ajustes Personalizados: Ajuste manual das bordas de remoção conforme necessário",
+      "Saída em alta resolução para todas as imagens",
+      "Sem marcas d'água ou limites de uso"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Explore mais ferramentas inovadoras de IA para suas necessidades de imagem"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo o que você precisa saber",
+    "items": [
+      {
+        "question": "Que tipos de imagens podem ser processadas?",
+        "answer": "Você pode enviar imagens JPG, PNG e WebP. A ferramenta funciona melhor com imagens claras e bem iluminadas que têm sujeitos distintos."
+      },
+      {
+        "question": "É fácil de usar para iniciantes?",
+        "answer": "Absolutamente! A plataforma é projetada para facilidade de uso, permitindo que qualquer um, independentemente das habilidades tecnológicas, remova fundos sem esforço."
+      },
+      {
+        "question": "Quanto tempo leva para processar uma imagem?",
+        "answer": "O processamento é normalmente instantâneo, com resultados disponíveis em segundos."
+      },
+      {
+        "question": "Posso editar a saída após a remoção do fundo?",
+        "answer": "Sim! Você pode fazer ajustes conforme necessário antes de baixar sua imagem final."
+      },
+      {
+        "question": "Existem limites de tamanho para as imagens?",
+        "answer": "Atualmente, suportamos imagens de até 10MB. Arquivos maiores podem exigir compressão antes do envio."
+      },
+      {
+        "question": "Há uma taxa de assinatura?",
+        "answer": "Não, oferecemos um modelo de pagamento conforme o uso, o que significa que você paga apenas pelo que usa, sem obrigações de assinatura."
+      },
+      {
+        "question": "Qualidade das imagens processadas?",
+        "answer": "Todas as imagens processadas são em alta resolução, garantindo clareza nítida para qualquer aplicação."
+      },
+      {
+        "question": "Posso usar as imagens editadas para fins comerciais?",
+        "answer": "Sim, todas as imagens editadas com nossa ferramenta podem ser usadas para projetos comerciais sem taxas adicionais de licenciamento."
+      },
+      {
+        "question": "E se eu encontrar um problema com o serviço?",
+        "answer": "Nossa equipe de suporte está disponível por e-mail e chat ao vivo para ajudá-lo com qualquer dúvida ou dificuldade técnica."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Melhorar Suas Imagens?",
+    "description": "Comece a remover fundos hoje - Experimente a facilidade da edição com IA em primeira mão!",
+    "contactUsText": "Entre em Contato Conosco",
+    "tryText": "Remover Fundo Agora →"
+  },
+  "footer": {
+    "heading": "Pronto para Transformar Suas Fotos?",
+    "description": "Experimente o WaveSpeed AI agora e veja a diferença por si mesmo. Sem necessidade de cadastro.",
+    "ctaText": "Remover Objetos Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

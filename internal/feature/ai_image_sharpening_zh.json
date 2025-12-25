@@ -1,0 +1,230 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI 图像锐化",
+  "meta": {
+    "description": "通过 AI 驱动的锐化增强您的图像，获得惊人的清晰度和细节。非常适合电子商务、社交媒体和任何视觉内容。立即体验下一水平的图像质量！",
+    "keywords": "AI 图像锐化, 照片增强, 图像清晰度, 电子商务图像, AI 照片工具, 高分辨率图像, 社交媒体视觉内容, 照片优化, WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI 工具",
+        "items": [
+          [
+            "AI 工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即试用"
+  },
+  "hero": {
+    "heading": "图像锐化",
+    "subHeading": "让您的图像栩栩如生",
+    "description": "通过先进的 AI 锐化将模糊和低质量的图像转变为惊人的视觉效果。轻松体验增强的清晰度和细节。非常适合电子商务、营销和个人项目。",
+    "tryText": "立即锐化您的图像",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI 图像锐化解决方案",
+    "left": {
+      "heading": "传统图像编辑挑战",
+      "items": [
+        "手动锐化工具复杂且耗时",
+        "放大和调整过程中质量损失",
+        "需要对照片编辑软件的知识",
+        "不适合批量图像处理",
+        "没有专业技能的结果有限"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI 解决方案",
+      "items": [
+        "一键即时锐化多张图像",
+        "AI 驱动的增强保留细节",
+        "用户友好界面，无需之前的技能",
+        "批量处理，实现无缝工作流",
+        "经济实惠的锐化服务，按图像收费"
+      ],
+      "tryText": "试用"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "通过4个简单步骤实现清晰图像",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传图像",
+        "text": "选择您想要锐化的图像",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "调整设置",
+        "text": "根据您的偏好微调锐化级别",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "预览更改",
+        "text": "实时查看您图像清晰度的变化",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载增强图像",
+        "text": "立即获取您美丽的锐化图像",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "锐化您的第一张图像 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无尽的可能性",
+    "description": "为任何应用增强图像",
+    "items": [
+      "Shopify 和 Amazon 的产品图像",
+      "Instagram 和 Facebook 的社交媒体帖子",
+      "营销材料和广告",
+      "房地产列表",
+      "菜单的食品摄影",
+      "个人摄影项目",
+      "活动和婚礼照片",
+      "艺术印刷和在线作品集"
+    ]
+  },
+  "successStories": {
+    "heading": "真实成功故事",
+    "description": "发现用户如何通过 AI 提升他们的图像",
+    "items": [
+      {
+        "tag": "电子商务摄影",
+        "heading": "亚马逊产品列表",
+        "before": {
+          "label": "之前",
+          "text": "模糊图像"
+        },
+        "after": {
+          "label": "之后",
+          "text": "水晶般清晰"
+        },
+        "value": "98.7%",
+        "key": "图像质量提升",
+        "description": "增强的图像质量在一周内提升了我们的转化率 35%。"
+      },
+      {
+        "tag": "社交媒体营销",
+        "heading": "Instagram 内容创作者",
+        "before": {
+          "label": "之前",
+          "text": "不清晰的照片"
+        },
+        "after": {
+          "label": "之后",
+          "text": "惊人的视觉效果"
+        },
+        "value": "97.5%",
+        "key": "参与率提升",
+        "description": "高质量图像显著增加了我们的粉丝和点赞。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI 锐化模型比较",
+    "description": "选择适合您需求的锐化模型",
+    "items": [
+      "标准锐化：增强细节同时保持自然外观",
+      "增强锐化：最大化清晰度和对比度，打造引人注目的图像",
+      "批处理处理：同时锐化多张图像",
+      "自适应质量控制：根据图像内容调整锐化",
+      "实时预览：在保存之前立即查看更改",
+      "PNG 和 JPG 的所有输出支持"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关 AI 工具",
+    "description": "发现更多强大的 AI 工具以增强图像"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要知道的一切",
+    "items": [
+      {
+        "question": "可以锐化哪些类型的图像？",
+        "answer": "您可以锐化 JPG、PNG 和 WebP 格式的图像。图像应该清晰且有良好质量以获得最佳效果。"
+      },
+      {
+        "question": "我可以调整锐化的级别吗？",
+        "answer": "可以！您可以根据所需的结果和图像类型自定义锐化强度。"
+      },
+      {
+        "question": "锐化一张图像需要多长时间？",
+        "answer": "大多数图像在几秒钟内得到增强，使其快速高效适应任何项目。"
+      },
+      {
+        "question": "一次可以锐化多少张图像？",
+        "answer": "没有限制！您可以一次性锐化任意数量的图像，我们的批处理功能支持此操作。"
+      },
+      {
+        "question": "我需要任何特殊软件来使用此工具吗？",
+        "answer": "不需要任何特殊软件。只需在我们的平台上上传您的图像并开始增强。"
+      },
+      {
+        "question": "锐化图像是否需要额外费用？",
+        "answer": "我们采用按图像计费的模式，没有隐藏费用，使其灵活适应您的预算。"
+      },
+      {
+        "question": "我可以随时取消订阅吗？",
+        "answer": "可以！没有订阅。您只需为选择锐化的图像付款。"
+      },
+      {
+        "question": "如果我对结果不满意怎么办？",
+        "answer": "如果您不满意，您可以调整设置并再次锐化，而无需额外收费。"
+      },
+      {
+        "question": "如果遇到问题，有支持吗？",
+        "answer": "是的！我们的客户支持团队可通过电子邮件和在线聊天为您提供任何问题或故障排除的帮助。"
+      },
+      {
+        "question": "我可以商业使用锐化的图像吗？",
+        "answer": "绝对可以！您拥有使用我们的工具锐化的所有图像的版权。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备好锐化您的图像了吗？",
+    "description": "今天就开始增强您的视觉效果！",
+    "contactUsText": "联系我们",
+    "tryText": "立即锐化您的图像 →"
+  },
+  "footer": {
+    "heading": "准备好增强您的图像了吗？",
+    "description": "立即尝试 WaveSpeed AI，体验转变。无需注册。",
+    "ctaText": "立即开始锐化",
+    "text": "© 2025 WaveSpeed AI. 保留所有权利。"
+  }
+}

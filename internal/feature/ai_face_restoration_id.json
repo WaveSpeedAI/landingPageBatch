@@ -1,0 +1,222 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Restorasi Wajah AI",
+  "meta": {
+    "description": "Tingkatkan dan pulihkan gambar wajah dengan teknologi AI. Menggunakan algoritma canggih, WaveSpeed AI mengubah gambar berkualitas rendah menjadi potret menakjubkan yang mencerminkan keindahan sejati. Sempurna untuk fotografi, media sosial, dan penggunaan profesional. Temukan keajaiban hari ini!",
+    "keywords": "restorasi wajah AI, peningkatan gambar, restorasi potret, perbaikan gambar wajah, peningkatan keindahan, editor foto AI, potret berkualitas tinggi, peningkatan gambar media sosial, restorasi foto profesional, pulihkan gambar dengan AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Restorasi Wajah Menjadi Mudah",
+    "subHeading": "Revitalisasi Gambar Anda dengan Presisi AI",
+    "description": "Ubah gambar wajah yang kabur atau rusak menjadi potret yang hidup dan detail dalam beberapa detik. Sempurna untuk meningkatkan foto untuk media sosial, portofolio profesional, dan banyak lagi. Rasakan kekuatan restorasi berbasis AI.",
+    "tryText": "Coba Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Restorasi Wajah AI WaveSpeed",
+    "left": {
+      "heading": "Tantangan Restorasi Gambar Tradisional",
+      "items": [
+        "Restorasi manual memakan waktu dan mahal",
+        "Membutuhkan keterampilan dan perangkat lunak pengeditan yang luas",
+        "Hasil yang tidak konsisten dari berbagai teknik",
+        "Efektivitas terbatas pada gambar resolusi rendah",
+        "Tidak dapat diskalakan untuk pemrosesan gambar massal"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeedAI",
+      "items": [
+        "Tingkatkan dan pulihkan wajah dalam hitungan detik",
+        "Tidak diperlukan pengalaman pengeditan - Cukup unggah gambar",
+        "Hasil konsisten berkualitas tinggi yang didukung oleh AI",
+        "Bekerja pada berbagai kualitas dan format foto",
+        "Harga terjangkau sesuai penggunaan yang cocok untuk semua"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Pulihkan gambar wajah dengan 4 langkah sederhana",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Gambar",
+        "text": "Pilih gambar wajah Anda untuk peningkatan",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Pilih Tingkat Restorasi",
+        "text": "Pilih derajat peningkatan yang Anda butuhkan (ringan hingga ekstrem)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Tinjau & Sesuaikan",
+        "text": "Pratonton restorasi dan lakukan penyesuaian jika perlu",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Unduh Gambar yang Ditingkatkan",
+        "text": "Terima potret yang dipulihkan dengan hak komersial dalam beberapa saat",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Pulihkan Gambar Pertama Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Restorasi Tanpa Batas",
+    "description": "Sempurna untuk berbagai aplikasi dan pengguna",
+    "items": [
+      "Peningkatan foto pribadi untuk media sosial",
+      "Pembaruan portofolio fotografi profesional",
+      "Restorasi foto keluarga yang bersejarah atau berharga",
+      "Perbaikan gambar untuk materi pemasaran",
+      "Meningkatkan gambar untuk profil kencan online",
+      "Menghidupkan foto lama untuk perayaan dan acara",
+      "Karya seni kustom yang membutuhkan perbaikan wajah",
+      "Transformasi sebelum/setelah untuk testimoni"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Temukan bagaimana pengguna mengubah gambar mereka dengan AI",
+    "items": [
+      {
+        "tag": "Profesional Fotografi",
+        "heading": "Peningkatan Fotografi Pernikahan",
+        "before": {
+          "label": "Sebelum",
+          "text": "Gambar Kabur"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Kejelasan Menakjubkan"
+        },
+        "value": "95%",
+        "key": "Peningkatan Kualitas",
+        "description": "Kami memulihkan 100 gambar pernikahan dalam hitungan jam, secara dramatis meningkatkan kepuasan klien."
+      },
+      {
+        "tag": "Influencer Media Sosial",
+        "heading": "Pembaruan Profil Instagram",
+        "before": {
+          "label": "Sebelum",
+          "text": "Keterlibatan Rendah"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Peningkatan Pengikut"
+        },
+        "value": "80%",
+        "key": "Peningkatan Keterlibatan",
+        "description": "Gambar profil yang ditransformasi menyebabkan peningkatan signifikan dalam pengikut baru dan keterlibatan."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Model Restorasi AI",
+    "description": "Pilih model yang tepat untuk kebutuhan restorasi Anda",
+    "items": [
+      "Restorasi Dasar: Peningkatan cepat untuk ketidaksempurnaan kecil",
+      "Restorasi Lanjutan: Penyempurnaan berkualitas tinggi untuk potret detail",
+      "Restorasi Ekstrem: Restorasi mendalam untuk gambar yang rusak parah",
+      "Filter Kustom untuk tampilan yang dipersonalisasi",
+      "Fitur penyesuaian ramah pengguna untuk presisi",
+      "Hak komersial termasuk dengan semua model"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Jelajahi alat AI tambahan yang kuat untuk peningkatan gambar"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Semua yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Jenis gambar apa yang dapat saya pulihkan?",
+        "answer": "Anda dapat memulihkan gambar wajah apa pun, termasuk foto pribadi, foto headshot profesional, dan gambar yang dipindai. AI berfungsi terbaik pada gambar yang jelas dan terang, tetapi juga dapat meningkatkan gambar berkualitas lebih rendah."
+      },
+      {
+        "question": "Bagaimana gambar yang dipulihkan berbeda dari pengeditan tradisional?",
+        "answer": "AI kami menawarkan hasil yang cepat dan konsisten yang mempertahankan fitur wajah alami, tidak seperti metode tradisional yang dapat menyebabkan pengeditan berlebihan atau tampilan yang tidak realistis."
+      },
+      {
+        "question": "Bisakah saya menyesuaikan intensitas restorasi?",
+        "answer": "Ya! Anda dapat memilih berbagai tingkat peningkatan, dari perbaikan halus hingga restorasi dramatis, memastikan hasilnya sesuai dengan visi Anda."
+      },
+      {
+        "question": "Apakah ada batasan berapa banyak gambar yang bisa saya proses?",
+        "answer": "Tidak, Anda dapat memulihkan beberapa gambar sekaligus. Platform kami memungkinkan pemrosesan batch untuk penggunaan yang efisien, menghemat waktu Anda."
+      },
+      {
+        "question": "Tipe file apa yang Anda dukung untuk unggahan?",
+        "answer": "Kami mendukung berbagai format termasuk JPG, PNG, dan TIFF. Pastikan gambar Anda jelas untuk hasil yang optimal."
+      },
+      {
+        "question": "Berapa lama proses restorasi berlangsung?",
+        "answer": "Restorasi biasanya hanya memakan waktu beberapa detik. Anda akan menerima hasilnya dengan cepat sehingga Anda dapat melanjutkan proyek Anda tanpa penundaan."
+      },
+      {
+        "question": "Apakah saya mendapatkan hak komersial untuk gambar yang dipulihkan?",
+        "answer": "Tentu saja! Semua gambar yang dipulihkan datang dengan hak penggunaan komersial penuh tanpa biaya tambahan."
+      },
+      {
+        "question": "Pilihan dukungan apa yang tersedia untuk pemecahan masalah?",
+        "answer": "Kami menyediakan dukungan komprehensif melalui dokumentasi, tutorial, dan obrolan langsung. Tim kami yang berdedikasi siap membantu dalam waktu 24 jam untuk segala masalah."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Revitalisasi Gambar Anda?",
+    "description": "Mulai dengan kredit gratis - Rasakan transformasi sendiri",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Coba Sekarang →"
+  },
+  "footer": {
+    "heading": "Ubah Foto Anda Sekarang!",
+    "description": "Manfaatkan WaveSpeed AI untuk meningkatkan gambar Anda. Tidak memerlukan pendaftaran.",
+    "ctaText": "Pulihkan Wajah Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi."
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI 视频合并器",
+  "meta": {
+    "description": "无缝结合多个视频剪辑，形成一个连贯且引人入胜的故事，使用 AI。非常适合想要轻松增强视频项目的内容创作者、营销人员和教育工作者。体验 WaveSpeed AI 的视频编辑未来！",
+    "keywords": "视频合并器 AI, 视频编辑工具, 合并视频剪辑, AI 视频应用, 内容创作工具, 营销视频合并器, 教育视频编辑器, 无缝视频过渡, 自动化视频组装, 视频讲述工具"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI 工具",
+        "items": [
+          [
+            "AI 工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即尝试"
+  },
+  "hero": {
+    "heading": "视频合并器",
+    "subHeading": "轻松合并您的视频",
+    "description": "在几次点击中合并视频，配以惊人的过渡和效果。无需复杂的编辑软件。非常适合内容创作者、营销人员和教育工作者。今天就来改变您的视频项目！",
+    "tryText": "立即合并您的视频",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI 视频合并器解决方案",
+    "left": {
+      "heading": "传统编辑障碍",
+      "items": [
+        "需要复杂的编辑软件",
+        "耗时的手动剪辑和过渡",
+        "需要技术技能和经验",
+        "过渡的创造性灵活性有限",
+        "昂贵的自由职业编辑选项"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI 解决方案",
+      "items": [
+        "一键立即合并视频",
+        "无需编辑经验 - 只需上传剪辑",
+        "自动化过渡，获得精致效果",
+        "无尽的创意可能性，搭配样式和效果",
+        "按需付费的实惠定价 - 适合每个人"
+      ],
+      "tryText": "尝试"
+    }
+  },
+  "howItWorks": {
+    "heading": "如何工作",
+    "description": "通过 4 个简单步骤合并您的视频",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传视频",
+        "text": "上传您要合并在一起的视频剪辑",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "选择过渡",
+        "text": "选择应用于剪辑之间的过渡和效果",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "排列剪辑",
+        "text": "拖放以按您希望的顺序排列剪辑",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载最终视频",
+        "text": "立即获得高清质量的合并视频",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "创建您的第一个视频 →"
+  },
+  "endlessPossibilities": {
+    "heading": "视频合并器的无尽可能性",
+    "description": "适合任何内容风格或目的",
+    "items": [
+      "博客和个人故事",
+      "营销宣传视频",
+      "教育教程汇编",
+      "活动亮点和回顾",
+      "社交媒体视频汇编",
+      "产品演示和展示",
+      "旅行视频",
+      "YouTube 频道内容"
+    ]
+  },
+  "successStories": {
+    "heading": "真实成功故事",
+    "description": "发现用户如何轻松地转变他们的视频内容",
+    "items": [
+      {
+        "tag": "社交媒体影响者",
+        "heading": "Instagram 视频亮点",
+        "before": {
+          "label": "之前",
+          "text": "繁琐的编辑过程"
+        },
+        "after": {
+          "label": "之后",
+          "text": "无缝的视频汇编"
+        },
+        "value": "95%",
+        "key": "节省的时间",
+        "description": "使用视频合并器，我能够在几分钟内创建出色的亮点集，而不是几个小时！"
+      },
+      {
+        "tag": "在线学习",
+        "heading": "在线课程介绍",
+        "before": {
+          "label": "之前",
+          "text": "复杂的软件"
+        },
+        "after": {
+          "label": "之后",
+          "text": "轻松的视频合并"
+        },
+        "value": "98%",
+        "key": "效率提升",
+        "description": "将课程材料转化为连贯的视频展示变得轻而易举。我们的学生参与度大幅提升！"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "视频合并方法比较",
+    "description": "选择最适合您需求的合并风格",
+    "items": [
+      "标准合并：快速剪辑合并，带基本过渡",
+      "平滑合并：无缝编辑，渐变过渡，专业效果",
+      "主题合并：具有独特风格的品牌视频",
+      "智能合并：基于内容类型的 AI 增强调整",
+      "批量合并：以自动化方式批量合并多个剪辑"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关 AI 工具",
+    "description": "发现更多强大的 AI 工具，用于视频创作"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要知道的一切",
+    "items": [
+      {
+        "question": "我可以使用哪些视频格式合并？",
+        "answer": "您可以上传多种格式，包括 MP4、MOV 和 AVI。我们的平台支持标准分辨率，并在合并过程中保持质量。"
+      },
+      {
+        "question": "合并时是否有视频长度或大小的限制？",
+        "answer": "没有严格的限制，但为了最佳性能，我们建议剪辑时长在 10 分钟以内，大小不超过 2GB，以便顺利处理。"
+      },
+      {
+        "question": "我可以为合并的视频添加背景音乐吗？",
+        "answer": "可以！您可以上传音轨或从我们免费音乐库中选择，以增强您的视频。"
+      },
+      {
+        "question": "合并后可以编辑视频吗？",
+        "answer": "目前，视频合并器专注于合并。对于编辑，您可以在合并剪辑后使用我们的编辑工具。"
+      },
+      {
+        "question": "视频合并过程有多快？",
+        "answer": "合并视频通常只需几分钟，具体取决于合并视频的长度和复杂性。"
+      },
+      {
+        "question": "我保留我创建的视频内容的所有权吗？",
+        "answer": "当然可以！所有使用我们的视频合并器创建的视频都可以随意使用、分享和变现，而不会产生版权问题。"
+      },
+      {
+        "question": "我可以合并来自不同来源的视频吗？",
+        "answer": "可以，您可以上传来自各种来源的视频，包括您的设备、云存储等，以便轻松汇编。"
+      },
+      {
+        "question": "如果遇到问题，提供什么样的支持？",
+        "answer": "我们的支持团队通过聊天和电子邮件提供支持。我们还提供指南、常见问题解答和用户社区以获得更多帮助。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备好合并您的视频了吗？",
+    "description": "今天就开始使用视频合并器 - 体验无缝合并的简单性！",
+    "contactUsText": "联系我们",
+    "tryText": "立即合并您的视频 →"
+  },
+  "footer": {
+    "heading": "准备好改变您的视频项目了吗？",
+    "description": "现在尝试 WaveSpeed AI，亲身体验不同之处。无需注册。",
+    "ctaText": "立即合并您的视频",
+    "text": "© 2025 WaveSpeed AI. 版权所有。"
+  }
+}

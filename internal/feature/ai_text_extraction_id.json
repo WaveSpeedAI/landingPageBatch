@@ -1,0 +1,230 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Ekstraksi Teks AI",
+  "meta": {
+    "description": "Ekstrak teks dari gambar dengan mudah menggunakan teknologi AI mutakhir. Sempurna untuk e-commerce, pemindaian dokumen, dan lainnya. Solusi cepat, akurat, dan ramah pengguna untuk semua kebutuhan ekstraksi teks Anda.",
+    "keywords": "ekstraksi teks AI, gambar menjadi teks, teknologi OCR, pemindaian dokumen, solusi e-commerce, pengenalan teks, WaveSpeed AI, ekstraksi data, transformasi digital, entri data otomatis"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Tampilan",
+        "items": [
+          [
+            "Tampilan",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Gambar menjadi Teks",
+    "subHeading": "Transformasi Gambar menjadi Teks yang Dapat Diedit dengan Efisien",
+    "description": "Ubah dokumen yang dipindai, gambar produk, atau tangkapan layar menjadi teks yang dapat diedit secara instan. Rasakan ekstraksi teks yang mulus didukung oleh teknologi AI canggih.",
+    "tryText": "Coba Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Ekstraksi Teks AI WaveSpeed AI",
+    "left": {
+      "heading": "Tantangan Tradisional",
+      "items": [
+        "Entri data manual lambat dan rentan kesalahan",
+        "Memerlukan jam kerja yang signifikan",
+        "Biaya tinggi dari outsourcing transkripsi",
+        "Aksesibilitas terbatas untuk dataset besar",
+        "Kualitas tidak konsisten di berbagai format"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeedAI",
+      "items": [
+        "Ekstrak teks dalam beberapa detik dari gambar manapun",
+        "Tidak diperlukan entri manual - Cukup unggah gambar",
+        "Hasil cepat dengan akurasi tinggi",
+        "Mendukung berbagai bahasa dan format",
+        "Harga bayar sesuai penggunaan yang sempurna untuk kebutuhan beragam"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Dengan cepat ubah gambar menjadi teks dalam 4 langkah mudah",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Gambar",
+        "text": "Unggah foto atau gambar dokumen Anda",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Pilih Format Output",
+        "text": "Pilih format teks yang Anda inginkan (misalnya, TXT, DOCX)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Tinjau Teks yang Diekstrak",
+        "text": "Periksa teks yang dihasilkan AI untuk akurasi",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Unduh Teks",
+        "text": "Terima file teks yang dapat diedit dalam waktu singkat",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Ekstrak Teks Pertama Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Tanpa Henti",
+    "description": "Sempurna untuk industri atau aplikasi apapun",
+    "items": [
+      "Deskripsi produk untuk e-commerce",
+      "Digitalisasi buku dan dokumen",
+      "Otomatisasi entri data di kantor",
+      "Penelitian akademik dan ekstraksi",
+      "Proses dokumen hukum",
+      "Penerjemahan dan lokalisasi",
+      "Pengarsipan foto dan catatan lama",
+      "Reutilisasi konten media sosial"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Lihat bagaimana bisnis mengoptimalkan alur kerja mereka dengan AI",
+    "items": [
+      {
+        "tag": "Ritel",
+        "heading": "Daftar Produk E-commerce",
+        "before": {
+          "label": "Sebelum",
+          "text": "50 jam"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "2 jam"
+        },
+        "value": "96%",
+        "key": "Waktu yang Dihemat",
+        "description": "Kami mengubah daftar kami dengan mengekstrak teks secara massal. Menghemat waktu kami berhari-hari setiap minggu."
+      },
+      {
+        "tag": "Pendidikan",
+        "heading": "Proyek Penelitian Universitas",
+        "before": {
+          "label": "Sebelum",
+          "text": "Entri manual"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Ekstraksi otomatis"
+        },
+        "value": "90%",
+        "key": "Peningkatan Efisiensi",
+        "description": "Memungkinkan akses yang lebih cepat ke data, memungkinkan tim penelitian fokus pada analisis."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Model AI",
+    "description": "Pilih model ekstraksi yang tepat untuk kebutuhan Anda",
+    "items": [
+      "Ekstraksi Standar: Konversi teks cepat dengan akurasi yang baik",
+      "Ekstraksi Presisi Tinggi: Akurasi yang ditingkatkan untuk tulisan tangan dan font kompleks",
+      "Proses Batch: Ekstrak teks dari beberapa gambar sekaligus",
+      "Dukungan Multi-bahasa: Deteksi otomatis bahasa teks",
+      "Pemrosesan Waktu Nyata: Hasil instan saat gambar diunggah",
+      "Hak penggunaan komersial termasuk"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Jelajahi lebih banyak alat AI yang kuat untuk solusi bisnis"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Semua yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Jenis format gambar apa yang didukung untuk ekstraksi teks?",
+        "answer": "Kami mendukung berbagai format termasuk JPG, PNG, dan PDF. Untuk hasil optimal, gambar harus jelas dan berkualitas tinggi."
+      },
+      {
+        "question": "Seberapa akurat proses ekstraksi teks?",
+        "answer": "Teknologi AI kami dirancang untuk akurasi tinggi, biasanya mencapai lebih dari 95% ekstraksi teks yang benar dalam kondisi optimal."
+      },
+      {
+        "question": "Apakah teks yang diekstrak dapat diedit?",
+        "answer": "Ya! Teks yang diekstrak dapat diunduh dalam format yang dapat diedit seperti TXT atau DOCX untuk modifikasi yang mudah."
+      },
+      {
+        "question": "Bisakah alat ini menangani teks tulisan tangan?",
+        "answer": "Ya, model Ekstraksi Presisi Tinggi kami dirancang khusus untuk mengenali dan mengekstrak teks tulisan tangan dengan efektif."
+      },
+      {
+        "question": "Bagaimana data pengguna ditangani selama proses ekstraksi?",
+        "answer": "Kami mengutamakan keamanan data. Semua gambar diproses dengan aman, dan data pengguna tidak disimpan setelah ekstraksi selesai."
+      },
+      {
+        "question": "Apakah ada batasan seberapa banyak gambar yang bisa saya proses sekaligus?",
+        "answer": "Tidak ada batasan! Anda dapat memproses beberapa gambar secara bersamaan, membuatnya efisien untuk proyek besar."
+      },
+      {
+        "question": "Apa yang terjadi jika ekstraksi gagal?",
+        "answer": "Dalam hal kegagalan yang tidak mungkin terjadi, Anda akan menerima laporan kesalahan terperinci dengan kemungkinan alasan dan rekomendasi perbaikan."
+      },
+      {
+        "question": "Bisakah saya menggunakan teks yang diekstrak untuk tujuan komersial?",
+        "answer": "Tentu saja! Semua teks yang diekstrak disertai dengan hak penuh untuk penggunaan komersial, tanpa biaya tambahan."
+      },
+      {
+        "question": "Jenis dukungan apa yang tersedia jika saya membutuhkan bantuan?",
+        "answer": "Kami menawarkan dukungan komprehensif melalui dokumentasi, tutorial, dan layanan pelanggan melalui email dan obrolan."
+      },
+      {
+        "question": "Apakah ada biaya langganan atau biaya tersembunyi?",
+        "answer": "Tidak, WaveSpeed beroperasi dengan model bayar sesuai penggunaan dengan harga yang jelas berdasarkan volume teks yang diekstrak."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Mengekstrak Teks dari Gambar Anda?",
+    "description": "Mulai dengan kredit gratis dan lihat hasilnya sendiri",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Coba Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap untuk Mengekstrak Teks Anda?",
+    "description": "Coba WaveSpeed AI sekarang dan rasakan ekstraksi teks yang mudah. Tidak perlu mendaftar.",
+    "ctaText": "Ekstrak Teks Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi."
+  }
+}

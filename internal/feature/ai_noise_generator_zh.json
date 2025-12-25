@@ -1,0 +1,222 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI噪声生成器",
+  "meta": {
+    "description": "利用我们的AI噪声生成器生成定制的声景和音效。完美地增强视频、创建环境声景或丰富在线内容。体验与您的项目无缝集成。",
+    "keywords": "AI噪声生成器，音效AI，环境音频创作者，视频声音增强，定制声景，音频自动化，丰富视频内容，电子商务音频工具，Shopify音效，亚马逊视频音频，社交媒体声音增强"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "主页",
+        "items": [
+          [
+            "主页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI工具",
+        "items": [
+          [
+            "AI工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即尝试"
+  },
+  "hero": {
+    "heading": "轻松生成噪声",
+    "subHeading": "瞬间创建自定义声景",
+    "description": "利用AI的力量转变您的音频项目。生成适合您需求的独特噪声模式，所需时间仅为几秒。完美用于视频、游戏和环境设置。立即开始提升您的内容！",
+    "tryText": "立即尝试",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI噪声生成器解决方案",
+    "left": {
+      "heading": "传统音响设计挑战",
+      "items": [
+        "专业音频制作的高成本",
+        "需要广泛的音频编辑经验",
+        "耗时的声音创建过程",
+        "有限的定制选项",
+        "小型内容创作者无法使用"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI解决方案",
+      "items": [
+        "在一分钟内生成独特的噪声配置",
+        "无需音频工程技能 - 只需选择选项",
+        "借助AI驱动的技术快速输出音频",
+        "无限定制以满足特定需求",
+        "实惠的价格 - 适合所有创作者"
+      ],
+      "tryText": "尝试"
+    }
+  },
+  "howItWorks": {
+    "heading": "如何运作",
+    "description": "在四个简单步骤中生成您的完美噪声",
+    "steps": [
+      {
+        "number": "1",
+        "title": "选择声音类型",
+        "text": "选择您想要创建的噪声或声景类型",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "定制参数",
+        "text": "调整音量、音调和纹理等设置以适应您的项目",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "预览您的创作",
+        "text": "在定稿之前聆听您生成的声音",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载或集成",
+        "text": "保存您的噪声文件或直接在您的项目中使用",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "生成您的第一个声音 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无尽的应用",
+    "description": "理想的所有音频需求",
+    "items": [
+      "视频背景音乐",
+      "游戏音效",
+      "放松和冥想声音",
+      "播客音频增强",
+      "环境声景",
+      "广告音频层",
+      "培训和教学音频",
+      "需要独特声音的创意项目"
+    ]
+  },
+  "successStories": {
+    "heading": "真实的成功故事",
+    "description": "了解创作者如何利用AI提升他们的项目",
+    "items": [
+      {
+        "tag": "媒体制作",
+        "heading": "YouTube频道增强",
+        "before": {
+          "label": "之前",
+          "text": "通用音频剪辑"
+        },
+        "after": {
+          "label": "之后",
+          "text": "自定义AI噪声"
+        },
+        "value": "85%",
+        "key": "音频质量提升",
+        "description": "集成定制声景显著提高了观众的保留率和参与度。"
+      },
+      {
+        "tag": "游戏行业",
+        "heading": "独立游戏音效设计",
+        "before": {
+          "label": "之前",
+          "text": "库存声音"
+        },
+        "after": {
+          "label": "之后",
+          "text": "独特的AI生成声音"
+        },
+        "value": "90%",
+        "key": "时间效率",
+        "description": "我们的声音设计过程加快了，使游戏更新更快，并形成了独特的音频身份。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI噪声生成比较",
+    "description": "为您的项目找到理想的声音模型",
+    "items": [
+      "环境噪声：适合背景的柔和、连续的声音",
+      "电影声音：为戏剧效果制作的史诗音频配置",
+      "有机声景：自然启发的声音，适合放松",
+      "工业噪声：适合城市体验的独特和粗犷的纹理",
+      "互动效果：实时音频调整，带来沉浸式体验",
+      "声音分层：组合多种噪声以制作自定义混音"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关AI工具",
+    "description": "发现更多适合您项目的AI音频工具"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要知道的一切",
+    "items": [
+      {
+        "question": "我可以生成哪些类型的声音？",
+        "answer": "您可以创建多种声音，包括环境噪声、音效和根据您的规格量身定制的独特音频。无论是轻柔的雨声还是工业环境，选项非常广泛。"
+      },
+      {
+        "question": "我如何定制生成的声音？",
+        "answer": "定制声音很简单。选择声音类型后，您可以调整音量、音调和强度等参数，以符合您的具体需求，确保输出与您的愿景一致。"
+      },
+      {
+        "question": "我可以商业使用这些声音吗？",
+        "answer": "可以！通过WaveSpeed生成的所有声音都带有完整的商业权利，允许您在视频、游戏和其他项目中使用，无需额外费用。"
+      },
+      {
+        "question": "可以下载哪些文件类型？",
+        "answer": "您可以以MP3、WAV或AAC等流行格式下载生成的声音，使其易于集成到您的项目中。"
+      },
+      {
+        "question": "我可以创建多少声音？",
+        "answer": "没有限制！您可以生成任意数量的独特声音，使其成为用户的可扩展解决方案。"
+      },
+      {
+        "question": "我可以多快生成声音？",
+        "answer": "声音生成通常在几秒钟内完成，使您能够快速制作和利用音频。"
+      },
+      {
+        "question": "如果遇到问题，有什么支持可用？",
+        "answer": "我们的支持团队随时为您提供帮助！请通过电子邮件或聊天联系以获取协助。此外，我们提供文档和视频教程，以提升您的体验。"
+      },
+      {
+        "question": "我可以对生成的声音提供反馈吗？",
+        "answer": "当然可以！您的反馈非常重要。我们鼓励用户分享他们的体验，以帮助我们进一步改进和创新我们的产品。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备生成您的自定义声音吗？",
+    "description": "立即开始使用免费的积分，改变您的音频体验！",
+    "contactUsText": "联系我们",
+    "tryText": "立即尝试 →"
+  },
+  "footer": {
+    "heading": "准备提升您的声音吗？",
+    "description": "立即体验WaveSpeed AI，转变您的音频项目。无需注册。",
+    "ctaText": "立即生成噪声",
+    "text": "© 2025 WaveSpeed AI. 版权所有。"
+  }
+}

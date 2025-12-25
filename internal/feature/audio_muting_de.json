@@ -1,0 +1,223 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - AI Audio Stummschaltungsfunktion",
+  "meta": {
+    "description": "Geräusche aus deinem Videoinhalt mühelos mit unserer leistungsstarken AI Audio Stummschaltungsfunktion stummschalten. Perfekt für E-Commerce, soziale Medien und Marketing. Verbessere deine Videogeschichte!",
+    "keywords": "Audio Stummschaltung AI, Hintergrundgeräusch Entfernung, Videobearbeitungswerkzeug, E-Commerce Videoverbesserung, soziale Medien Audio Werkzeuge, nahtlose Audio-Integration, WaveSpeed Audio-Funktionen, Sound-Optimierung, Inhaltserstellungswerkzeuge, professioneller Videosound"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI Werkzeuge",
+        "items": [
+          [
+            "AI Werkzeuge",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Schauplatz",
+        "items": [
+          [
+            "Schauplatz",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "Audio Stummschaltung",
+    "subHeading": "Unerwünschte Geräusche für klarere Narrative stummschalten",
+    "description": "Verbessere deinen Videoinhalt, indem du Hintergrundgeräusche und unerwünschte Audio mühelos entfernst. Stelle sicher, dass deine Botschaft klar ist, damit dein Publikum sich auf das Wesentliche konzentrieren kann. Erlebe die Kraft der AI beim Audio-Editing noch heute!",
+    "tryText": "Jetzt Stummschalten",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI Audio Stummschaltungslösung",
+    "left": {
+      "heading": "Traditionelle Audio-Herausforderungen",
+      "items": [
+        "Zeitaufwändige manuelle Bearbeitung",
+        "Teure Audio-Software erforderlich",
+        "Komplexe Prozesse zur Geräuschreduzierung",
+        "Eingeschränkte Optionen für Amateure",
+        "Inkonsistente Audioqualität"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Lösung",
+      "items": [
+        "Unerwünschte Audio in Sekunden sofort stummschalten",
+        "Keine Bearbeitungserfahrung erforderlich",
+        "Benutzerfreundliche Oberfläche für alle",
+        "Hochwertige Klangrestaurierung",
+        "Kostengünstiges Pay-per-Use-Modell"
+      ],
+      "tryText": "Versuchen"
+    }
+  },
+  "howItWorks": {
+    "heading": "Wie es funktioniert",
+    "description": "Stummschalte unerwünschte Audio in 3 einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Video hochladen",
+        "text": "Lade deine Videodatei mit Audio auf die Plattform hoch",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Audio-Spur auswählen",
+        "text": "Wähle die Audio-Spur, die du stummschalten oder bearbeiten möchtest",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Geräusch stummschalten",
+        "text": "Wende die AI-gestützte Audio-Stummschaltungsfunktion sofort an",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "Stummschalte dein Audio jetzt →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endlose Anwendungen",
+    "description": "Ideal für verschiedene Videoinhalte",
+    "items": [
+      "Vlogs und persönliche Videos",
+      "Marketingkampagnen und Werbung",
+      "Bildungsinhalte und Tutorials",
+      "Beiträge in sozialen Medien (Instagram, TikTok)",
+      "Unternehmenspräsentationen",
+      "Event-Aufzeichnungen",
+      "Produktbewertungen",
+      "Live-Stream Audioverbesserung"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Entdecke, wie Benutzer ihre Audioqualität mit AI verbessern",
+    "items": [
+      {
+        "tag": "E-Commerce Creator",
+        "heading": "Produkt-Demo-Videos",
+        "before": {
+          "label": "Vorher",
+          "text": "Ablenkende Hintergrundgeräusche"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Klares, professionelles Audio"
+        },
+        "value": "95%",
+        "key": "Verbesserung der Audioqualität",
+        "description": "Wir haben das Audio in unseren Produkt-Demos transformiert, was zu höherem Kundenengagement führte. Die Klarheit der Botschaft steigerte die Konversionen um 30%."
+      },
+      {
+        "tag": "Social Media Influencer",
+        "heading": "Vlog-Produktion",
+        "before": {
+          "label": "Vorher",
+          "text": "Hektische Geräuschkulisse"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Polierte Audio-Spur"
+        },
+        "value": "92%",
+        "key": "Gesparte Zeit",
+        "description": "Der Geräuschentfernungsprozess war ein Wendepunkt. Ich kann mich jetzt auf den Inhalt konzentrieren, anstatt mir Sorgen um die Audioqualität zu machen!"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Audioverarbeitungsvergleich",
+    "description": "Wähle die richtige Audio-Bearbeitungsoption für deine Bedürfnisse",
+    "items": [
+      "Standardgeräuschentfernung: Effektiv für grundlegende Audio-Probleme, erschwinglich, schnelle Verarbeitung",
+      "Erweiterter Audiofilter: Für komplexe Klangumgebungen mit mehreren Geräuscharten, hochwertige Ergebnisse",
+      "Echtzeit-Audioanalyse für genaues Sound-Profiling",
+      "Nahtlose Integration mit Video zur Wahrung der Konsistenz",
+      "Flexible Preisgestaltung basierend auf Nutzung",
+      "Vollständige kommerzielle Rechte enthalten"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Verwandte AI-Werkzeuge",
+    "description": "Entdecke weitere innovative AI-Werkzeuge für Audio- und Videoverbesserung"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was du wissen musst",
+    "items": [
+      {
+        "question": "Wie schnell kann ich Audio aus meinen Videos stummschalten?",
+        "answer": "Die Audio-Stummschaltung ist unglaublich schnell und wird normalerweise in weniger als einer Minute abgeschlossen, abhängig von der Videolänge. Die AI verarbeitet die Audio in Echtzeit."
+      },
+      {
+        "question": "Kann ich das Audio vor und nach dem Stummschalten anhören?",
+        "answer": "Ja! Du kannst eine Vorschau sowohl der Original- als auch der bearbeiteten Audio-Spuren anhören, um sicherzustellen, dass du mit dem Ergebnis zufrieden bist."
+      },
+      {
+        "question": "Gibt es eine Größenbeschränkung für die hochzuladenden Dateien?",
+        "answer": "Derzeit unterstützt unsere Plattform das Hochladen von Videodateien bis zu 4GB. Stelle sicher, dass deine Videos dieses Kriterium für nahtlose Bearbeitung erfüllen."
+      },
+      {
+        "question": "Welche Formate unterstützt ihr für Videouploads?",
+        "answer": "Wir unterstützen verschiedene Formate einschließlich MP4, MOV und AVI für optimale Verarbeitung. Stelle sicher, dass deine Dateien in diesen Formaten vorliegen, um Probleme zu vermeiden."
+      },
+      {
+        "question": "Kann ich mehrere Abschnitte von Audio in einem Video stummschalten?",
+        "answer": "Absolut! Du kannst mehrere Audio-Spuren oder Abschnitte innerhalb eines Videos je nach Bedarf stummschalten."
+      },
+      {
+        "question": "Behalte ich die Rechte an den bearbeiteten Videos?",
+        "answer": "Ja! Du behältst alle Rechte an den Videos, die mit unserer Plattform bearbeitet wurden, einschließlich des Audioinhalts."
+      },
+      {
+        "question": "Welche Qualität kann ich nach dem Stummschalten vom Audio erwarten?",
+        "answer": "Die Qualität bleibt hoch, und die Entfernung von Hintergrundgeräuschen verbessert die Klarheit deines verbleibenden Audio. Erwarten Sie professionellen Klang."
+      },
+      {
+        "question": "Kann ich Audio bearbeiten, wenn ich kein Profi bin?",
+        "answer": "Ja! Unser Werkzeug ist benutzerfreundlich gestaltet, sodass jeder den Audio-Stummschaltungsprozess ohne vorherige Erfahrung navigieren kann."
+      },
+      {
+        "question": "Welche technische Unterstützung ist verfügbar, wenn ich Probleme habe?",
+        "answer": "Wir bieten umfassenden Support per E-Mail und Live-Chat, mit einer detaillierten FAQ und Fehlerbehebungsanleitungen auf unserer Website."
+      },
+      {
+        "question": "Was ist, wenn ich mit den Ergebnissen der Audio-Stummschaltung nicht zufrieden bin?",
+        "answer": "Wir ermutigen Benutzer, die Vorschaufunktion vollständig zu nutzen, um sicherzustellen, dass sie zufrieden sind. Wenn Probleme auftreten, steht unser Support-Team bereit, um zu helfen."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, deine Video-Audio zu verbessern?",
+    "description": "Beginne mit kostenlosen Guthaben und erlebe den Unterschied selbst.",
+    "contactUsText": "Kontaktiere uns",
+    "tryText": "Jetzt Stummschalten →"
+  },
+  "footer": {
+    "heading": "Verwandle dein Video-Audio noch heute!",
+    "description": "Teste WaveSpeed AI jetzt für professionelle Audio-Stummschaltung. Keine Anmeldung erforderlich.",
+    "ctaText": "Audio Jetzt Stummschalten",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

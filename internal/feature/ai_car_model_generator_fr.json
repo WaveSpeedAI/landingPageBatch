@@ -1,0 +1,226 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Générateur de Modèles de Voitures IA",
+  "meta": {
+    "description": "Créez des modèles de voitures époustouflants et réalistes sans effort en utilisant l'IA. Parfait pour le marketing et le design automobile, donnant vie à vos idées en une fraction du temps. Découvrez l'avenir de la modélisation automobile avec WaveSpeed.",
+    "keywords": "générateur de modèles de voitures IA, design automobile, modélisation de voitures 3D, outil marketing automobile, WaveSpeed AI, conception de véhicules créatifs, visualisation automobile, modèles de voitures numériques, prototypage rapide, vitrine automobile virtuelle"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Générateur de Modèles de Voitures",
+    "subHeading": "Donnez Vie à Vos Visions Automobiles",
+    "description": "Générez des modèles de voitures à couper le souffle de la conception à la réalité en quelques minutes. Aucune compétence en design complexe requise. Découvrez la technologie IA de pointe qui redéfinit le processus de design automobile.",
+    "tryText": "Commencez à Créer Maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution Générateur de Modèles de Voitures IA WaveSpeed AI",
+    "left": {
+      "heading": "Défis Traditionnels",
+      "items": [
+        "La modélisation de voitures est chronophage et coûteuse",
+        "Logiciels complexes nécessitant une formation approfondie",
+        "Itérations et révisions difficiles",
+        "Accès limité aux ressources de haute qualité",
+        "Coûts élevés la rendent inaccessible pour les start-ups"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed AI",
+      "items": [
+        "Créez des modèles de voitures détaillés en seulement quelques minutes",
+        "Aucune compétence spécialisée ou logiciel requis - Il suffit de télécharger des idées",
+        "Résultats rapides, pilotés par IA pour des flux de travail efficaces",
+        "Itérations de design illimitées à portée de main",
+        "Coûts abordables adaptés à tous les budgets"
+      ],
+      "tryText": "Essayez"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment Ça Fonctionne",
+    "description": "De la conception au modèle de voiture en 4 étapes simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Télécharger l'Art Conceptuel",
+        "text": "Téléchargez des croquis ou des inspirations pour votre design de véhicule",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Ajouter des Spécifications",
+        "text": "Fournissez des détails sur les dimensions, le style et les caractéristiques",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Sélectionner les Caractéristiques de Style",
+        "text": "Choisissez parmi une variété d'options de personnalisation et de finitions",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Télécharger le Modèle",
+        "text": "Recevez votre modèle 3D de haute qualité en quelques minutes",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Générez Votre Premier Modèle de Voiture →"
+  },
+  "endlessPossibilities": {
+    "heading": "Opportunités Illimitées",
+    "description": "Idéal pour les passionnés et les professionnels de l'automobile",
+    "items": [
+      "Conceptions de voitures sur mesure pour les campagnes marketing",
+      "Prototypes réalistes pour les présentations aux fabricants",
+      "Conceptions conceptuelles pour les expos automobiles",
+      "Showrooms virtuels et présentations",
+      "Collaboration sur des idées de design avec des équipes",
+      "Simulations automobiles améliorées",
+      "Visualisations de fonctionnalités de véhicules innovantes",
+      "Actifs publicitaires dynamiques pour les réseaux sociaux"
+    ]
+  },
+  "successStories": {
+    "heading": "Histoires de Succès Transformateurs",
+    "description": "Découvrez comment les entreprises automobiles exploitent l'IA pour innover en matière de design",
+    "items": [
+      {
+        "tag": "Design Automobile",
+        "heading": "Startup de Voitures de Luxe",
+        "before": {
+          "label": "Avant",
+          "text": "6 semaines"
+        },
+        "after": {
+          "label": "Après",
+          "text": "1 jour"
+        },
+        "value": "98%",
+        "key": "Temps Économisé",
+        "description": "Nous avons accéléré notre développement de modèle pour cinq nouveaux véhicules en une semaine. Cela nous a permis de présenter plus tôt aux investisseurs."
+      },
+      {
+        "tag": "Vente au Détail Automobile",
+        "heading": "Vendeur de Voitures en Ligne",
+        "before": {
+          "label": "Avant",
+          "text": "Coûteux et lent"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Rapide et abordable"
+        },
+        "value": "95%",
+        "key": "Réduction de Coût",
+        "description": "Nous avons mis en œuvre des modèles de voitures IA pour améliorer nos annonces et avons constaté une augmentation spectaculaire de l'engagement client."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison de Modèles IA",
+    "description": "Sélectionnez le modèle le mieux adapté à vos besoins automobiles",
+    "items": [
+      "Modèle Standard : Fonctionnalités de design de base, rendu 3D, délais rapides",
+      "Modèle Premium : Détails avancés, textures réalistes, délais de création plus longs",
+      "Spécifications Personnalisées pour des demandes uniques",
+      "Retour d'information et ajustements en temps réel pendant la modélisation",
+      "Designs scalables pour utilisation promotionnelle",
+      "Compatibilité universelle avec les plateformes 3D"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils IA Connus",
+    "description": "Découvrez d'autres outils IA innovants pour le design automobile"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quel niveau de détail puis-je attendre dans les modèles ?",
+        "answer": "L'IA produit des modèles de haute précision avec des proportions exactes et des fonctionnalités personnalisables, prêts à être rendus ou intégrés dans diverses applications."
+      },
+      {
+        "question": "Puis-je influencer le style de design des modèles ?",
+        "answer": "Absolument ! Vous pouvez spécifier des styles ou des thèmes ainsi que des caractéristiques via vos spécifications et votre art conceptuel, permettant un design personnalisé."
+      },
+      {
+        "question": "Quels formats de fichiers sont disponibles pour les modèles téléchargés ?",
+        "answer": "Les modèles générés peuvent être téléchargés dans plusieurs formats de fichiers y compris OBJ, STL et FBX, compatibles avec la plupart des logiciels 3D."
+      },
+      {
+        "question": "Quelle est la rapidité du processus de génération de modèles ?",
+        "answer": "La génération de modèles prend généralement seulement quelques minutes selon la complexité du design. L'IA rationalise considérablement le flux de travail."
+      },
+      {
+        "question": "Y a-t-il des droits d'utilisation pour les modèles générés ?",
+        "answer": "Oui, vous possédez tous les droits commerciaux sur les modèles créés via WaveSpeed, permettant leur utilisation dans le marketing, les ventes et le développement de produits."
+      },
+      {
+        "question": "Quels soutiens sont disponibles pour utiliser le générateur IA ?",
+        "answer": "Nous offrons une documentation exhaustive, des vidéos tutorielles, et des options de support en direct pour vous aider à maximiser votre utilisation du générateur de modèles de voitures IA."
+      },
+      {
+        "question": "Comment commencer avec le générateur de modèles de voitures ?",
+        "answer": "Il vous suffit de vous inscrire et d'utiliser vos crédits gratuits pour commencer à créer des modèles de voitures. L'interface est conviviale pour faciliter un apprentissage rapide."
+      },
+      {
+        "question": "Le générateur peut-il gérer des demandes de designs complexes ?",
+        "answer": "Oui, le générateur est capable de traiter des spécifications complexes, bien que des designs plus simples donneront des résultats plus rapides. Nous recommandons de commencer avec des directives plus claires."
+      },
+      {
+        "question": "Y a-t-il une limite au nombre de modèles que je peux créer ?",
+        "answer": "Il n'y a pas de limites strictes sur le nombre de modèles que vous pouvez créer, ce qui facilite l'exploration de plusieurs designs et idées."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Créer Votre Premier Modèle de Voiture IA ?",
+    "description": "Commencez avec des crédits gratuits - Découvrez la puissance de l'IA dans le design automobile",
+    "contactUsText": "Contactez-Nous",
+    "tryText": "Essayez-le Maintenant →"
+  },
+  "footer": {
+    "heading": "Prêt à Concevoir Votre Voiture de Rêve ?",
+    "description": "Essayez WaveSpeed AI maintenant et vivez la transformation de première main. Aucune inscription requise.",
+    "ctaText": "Créez Votre Modèle de Voiture Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

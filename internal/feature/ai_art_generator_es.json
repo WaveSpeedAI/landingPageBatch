@@ -1,0 +1,230 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Generador de Arte con IA",
+  "meta": {
+    "description": "Crea obras de arte impresionantes a partir de tus ideas en segundos con IA. Perfecto para artistas, comercializadores y creadores de contenido. ¡Desata la creatividad sin esfuerzo!",
+    "keywords": "generador de arte con IA, creación de obras de arte, herramienta de arte digital, creación de contenido, obra de arte instantánea, herramientas creativas de IA, renderizado artístico, arte generativo, diseño gráfico IA, generador de obras de arte"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas de IA",
+        "items": [
+          [
+            "Herramientas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Galería",
+        "items": [
+          [
+            "Galería",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Generación de Arte con IA",
+    "subHeading": "Transforma Ideas en Obras de Arte Impresionantes",
+    "description": "Convierte tus conceptos en bellas obras de arte digital en poco tiempo. No se requieren habilidades de diseño. Impulsado por tecnología de IA avanzada, crea obras de arte que inspiran y atraen.",
+    "tryText": "Comienza Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución de Generador de Arte con IA de WaveSpeed AI",
+    "left": {
+      "heading": "Desafíos de la Creación de Arte Tradicional",
+      "items": [
+        "La creación de arte puede ser lenta y compleja",
+        "Requiere habilidades y herramientas especializadas",
+        "Las iteraciones pueden tardar días o semanas",
+        "Acceso limitado para no artistas",
+        "Altos costos por obras de arte por encargo"
+      ]
+    },
+    "right": {
+      "heading": "Solución WaveSpeedAI",
+      "items": [
+        "Genera obras de arte únicas en minutos a partir de tus indicaciones",
+        "No se necesita experiencia artística - Solo describe tu visión",
+        "Resultados instantáneos con generación impulsada por IA",
+        "Variaciones creativas ilimitadas",
+        "Precios asequibles por uso para todos"
+      ],
+      "tryText": "Pruébalo"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "De la idea a la obra de arte en 4 pasos simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Ingresa Tu Idea",
+        "text": "Proporciona una descripción de la obra de arte que imaginas",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Selecciona Estilo",
+        "text": "Elige tu estilo de arte preferido (por ejemplo, surrealista, abstracto)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Ajustar Parámetros",
+        "text": "Ajusta atributos como esquemas de color y estado de ánimo",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Descarga Tu Obra de Arte",
+        "text": "Recibe arte en alta resolución en minutos",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Crea Tu Primer Arte →"
+  },
+  "endlessPossibilities": {
+    "heading": "Posibilidades Creativas Infinita",
+    "description": "Perfecto para cada esfuerzo artístico",
+    "items": [
+      "Ilustraciones únicas para blogs y artículos",
+      "Arte digital personalizado para campañas de marketing",
+      "Visuales llamativos para redes sociales",
+      "Regalos y impresiones personalizadas",
+      "Obras de arte para sitios web y contenido digital",
+      "Diseños creativos para mercancías",
+      "Inspiración para artistas tradicionales",
+      "Arte conceptual para juegos o películas"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Vea cómo los creadores están transformando sus proyectos con IA",
+    "items": [
+      {
+        "tag": "Diseño Gráfico",
+        "heading": "Diseñador Freelance",
+        "before": {
+          "label": "Antes",
+          "text": "Intensivo en tiempo"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Generación instantánea"
+        },
+        "value": "95%",
+        "key": "Ahorro de Tiempo",
+        "description": "Usando obras de arte de IA, reduje drásticamente el tiempo de entrega de mis proyectos, lo que me permitió asumir más clientes."
+      },
+      {
+        "tag": "Creación de Contenido",
+        "heading": "Influencer de Redes Sociales",
+        "before": {
+          "label": "Antes",
+          "text": "Obra de arte subcontratada"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Creada internamente"
+        },
+        "value": "90%",
+        "key": "Reducción de Costos",
+        "description": "Generé visuales personalizados que coincidían perfectamente con mi marca, ahorrando dinero y mejorando mi estilo único."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Modelos de IA",
+    "description": "Elige el estilo de arte adecuado para tu visión",
+    "items": [
+      "Modelo Artístico A: Estilos vibrantes y audaces, perfectos para diseños modernos",
+      "Modelo Artístico B: Apariencias sutiles y clásicas para un atractivo eterno",
+      "Opciones de estilo personalizadas con atributos definidos por el usuario",
+      "Capacidad para superponer estilos para creaciones únicas",
+      "Tiempo de generación rápido adaptado para artistas",
+      "Derechos incluidos para uso personal y comercial"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas de IA Relacionadas",
+    "description": "Explora más herramientas innovadoras de IA para creativos"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué estilos de arte puedo crear?",
+        "answer": "Puedes elegir entre una variedad de estilos de arte incluyendo abstracto, realista, caricatura y muchos más. La IA también puede combinar estilos para crear algo verdaderamente único."
+      },
+      {
+        "question": "¿Puedo ajustar la obra de arte generada?",
+        "answer": "¡Absolutamente! Puedes ajustar colores, temas e incluso especificar elementos para incluir o excluir en tus obras de arte, permitiendo una mayor personalización."
+      },
+      {
+        "question": "¿En qué formatos puedo descargar mi obra de arte?",
+        "answer": "Las obras de arte generadas están disponibles en formatos de alta resolución como PNG y JPEG, perfectos para uso digital e impresión."
+      },
+      {
+        "question": "¿Cómo se diferencia esto de las herramientas de arte digital tradicionales?",
+        "answer": "A diferencia de las herramientas tradicionales que requieren habilidades y experiencia, nuestro generador de arte con IA simplifica el proceso. Tú describes tu idea y la IA la crea, haciendo el arte accesible para todos."
+      },
+      {
+        "question": "¿Hay un límite en la cantidad de obras de arte que puedo generar?",
+        "answer": "¡No hay límite! Puedes crear tantas obras de arte como desees, facilitando la exploración de diferentes conceptos creativos sin restricciones."
+      },
+      {
+        "question": "¿Puedo usar la obra de arte generada comercialmente?",
+        "answer": "¡Sí! Todas las obras de arte generadas vienen con derechos comerciales completos, permitiéndote usarlas en proyectos, en productos o como parte de tu negocio."
+      },
+      {
+        "question": "¿Qué pasa si no me gusta el resultado?",
+        "answer": "Puedes refinar tu entrada y probar nuevamente hasta que logres una obra de arte que cumpla con tus expectativas. La IA aprende de tus preferencias con cada intento."
+      },
+      {
+        "question": "¿Necesito experiencia en diseño para usar esta herramienta?",
+        "answer": "¡No se necesita experiencia en diseño! Simplemente describe tu idea y deja que la IA haga el resto, facilitando que cualquier persona pueda crear arte hermoso."
+      },
+      {
+        "question": "¿Cómo puedo proporcionar retroalimentación sobre mis obras de arte creadas?",
+        "answer": "Puedes proporcionar retroalimentación directamente a través de la plataforma, lo que puede ayudarnos a mejorar el rendimiento de la IA y tu experiencia general."
+      },
+      {
+        "question": "¿Hay soporte al cliente disponible?",
+        "answer": "¡Sí! Ofrecemos soporte integral a través de chat y correo electrónico, junto con tutoriales y recursos para ayudarte a maximizar tu experiencia."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Crear Tu Primera Obra de Arte con IA?",
+    "description": "Comienza con créditos gratuitos - Experimenta la creatividad",
+    "contactUsText": "Contáctanos",
+    "tryText": "Crea Ahora →"
+  },
+  "footer": {
+    "heading": "¿Listo para Transformar Tus Ideas en Arte?",
+    "description": "Prueba WaveSpeed AI ahora y experimenta la creatividad de la IA. No se requiere registro.",
+    "ctaText": "Crea Arte Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

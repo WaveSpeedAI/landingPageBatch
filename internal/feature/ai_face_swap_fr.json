@@ -1,0 +1,226 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Échange de Visages avec IA",
+  "meta": {
+    "description": "Échangez sans effort des visages dans les images grâce à notre technologie IA de pointe. Parfait pour les réseaux sociaux, les campagnes marketing et le contenu créatif. Découvrez une intégration fluide et des résultats époustouflants sans expérience requise.",
+    "keywords": "échange de visages IA, remplacement de visages, IA d'édition d'images, générateur de contenu créatif, outils pour réseaux sociaux, automatisation marketing, édition photo innovante, photographie IA, échange de visages en ligne, changement de visage fluide, effets photo amusants"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Transformez Vos Images",
+    "subHeading": "Échangez Instantanément des Visages avec IA",
+    "description": "Améliorez vos images en quelques secondes en échangeant des visages avec une précision époustouflante. Parfait pour les publications sur les réseaux sociaux, les mèmes et les projets créatifs en quelques clics.",
+    "tryText": "Essayez Maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution d'Échange de Visages WaveSpeed AI",
+    "left": {
+      "heading": "Défis de l'Échange de Visages Traditionnels",
+      "items": [
+        "Édition manuelle laborieuse",
+        "Nécessite des compétences avancées en édition",
+        "Processus longs (heures à jours)",
+        "Options créatives limitées",
+        "Coûts élevés des services professionnels"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed AI",
+      "items": [
+        "Échangez des visages en quelques secondes avec quelques clics",
+        "Aucunes compétences d'édition nécessaires - Il suffit de télécharger",
+        "Résultats instantanés et de haute qualité avec l'IA",
+        "Possibilités créatives illimitées",
+        "Modèle abordable de paiement à l'utilisation"
+      ],
+      "tryText": "Essayer"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment Cela Fonctionne",
+    "description": "Découvrez l'échange de visages en 4 étapes simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Télécharger une Image",
+        "text": "Sélectionnez la photo que vous souhaitez modifier en la téléchargeant directement.",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Sélectionner les Visages",
+        "text": "Choisissez les visages que vous souhaitez échanger parmi les options disponibles.",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Confirmer l'Échange",
+        "text": "Vérifiez l'échange et apportez les dernières ajustements si nécessaire.",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Télécharger l'Image",
+        "text": "Recevez votre image améliorée en quelques instants, prête à être partagée.",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Commencez Maintenant →"
+  },
+  "endlessPossibilities": {
+    "heading": "Utilisations Créatives Illimitées",
+    "description": "Parfait pour tous les types de projets et de divertissements",
+    "items": [
+      "Créer des mèmes amusants pour les réseaux sociaux",
+      "Améliorer des photos pour des campagnes marketing",
+      "Cadeaux personnalisés avec des visages échangés",
+      "Contenu créatif pour des blogs et des sites web",
+      "Publications engageantes pour Instagram et TikTok",
+      "Améliorations de photos de famille et moments de fun",
+      "Invitations à des soirées à thème",
+      "Photos de profil uniques pour les réseaux sociaux"
+    ]
+  },
+  "successStories": {
+    "heading": "Vraies Histoires de Succès",
+    "description": "Découvrez comment les utilisateurs améliorent leurs projets avec l'IA",
+    "items": [
+      {
+        "tag": "Influenceur sur les Réseaux Sociaux",
+        "heading": "Création de Mèmes Viraux",
+        "before": {
+          "label": "Avant",
+          "text": "Édition chronophage"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Échanges de visages instantanés"
+        },
+        "value": "98%",
+        "key": "Temps Gagné",
+        "description": "Notre jeu de mèmes a explosé après avoir utilisé l'échange de visages IA. Engager les abonnés avec humour et créativité!"
+      },
+      {
+        "tag": "E-commerce",
+        "heading": "Divertissement de Campagne Marketing",
+        "before": {
+          "label": "Avant",
+          "text": "Frais de designer coûteux"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Échange rapide et facile"
+        },
+        "value": "90%",
+        "key": "Réduction des Coûts",
+        "description": "Confrontés à des délais serrés, nous avons généré des images promotionnelles uniques qui ont captivé notre public."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison des Modèles IA",
+    "description": "Choisissez les bonnes fonctionnalités pour votre projet",
+    "items": [
+      "Échange Standard : Remplacement de visage rapide, précision de base, idéal pour des projets occasionnels",
+      "Échange Avancé : Précision améliorée, éléments personnalisables, parfait pour le marketing",
+      "Traitement en temps réel : Retour instantané sur les modifications apportées",
+      "Fusion fluide : Garantit le réalisme des images finales",
+      "Interface facile à utiliser : Accessible à tous",
+      "Filtres et effets amusants : Ajoutez de la créativité à vos échanges de visages"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils IA Connexes",
+    "description": "Explorez des outils IA innovants pour vos projets créatifs"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quels formats d'image puis-je utiliser ?",
+        "answer": "Vous pouvez télécharger des formats JPG, PNG ou BMP. Assurez-vous que vos images sont claires et bien éclairées pour de meilleurs résultats."
+      },
+      {
+        "question": "Quelle est la précision de l'échange de visages ?",
+        "answer": "Notre IA garantit une haute précision lors de l'échange de visages, fournissant des résultats réalistes qui s'intègrent parfaitement à l'arrière-plan."
+      },
+      {
+        "question": "Puis-je ajuster l'image finale après l'échange ?",
+        "answer": "Oui ! Vous pouvez appliquer des filtres supplémentaires ou des ajustements après l'échange de visages pour rendre votre image vraiment unique."
+      },
+      {
+        "question": "Y a-t-il une limite au nombre d'échanges de visages que je peux faire ?",
+        "answer": "Pas de limites ! Vous pouvez effectuer autant d'échanges de visages que vous le souhaitez en utilisant notre plateforme, rendant la créativité infinie."
+      },
+      {
+        "question": "Y a-t-il des conseils pour de meilleurs résultats ?",
+        "answer": "Pour des résultats optimaux, choisissez des images où les visages sont clairement visibles, bien éclairées et tournés vers la caméra."
+      },
+      {
+        "question": "Quel délai puis-je attendre pour obtenir des résultats ?",
+        "answer": "Les échanges de visages sont traités presque instantanément. Vous recevrez votre image modifiée en quelques secondes."
+      },
+      {
+        "question": "Dois-je installer un logiciel pour utiliser cette fonctionnalité ?",
+        "answer": "Aucune installation de logiciel n'est requise. Accédez directement à notre outil d'échange de visages IA via votre navigateur."
+      },
+      {
+        "question": "Puis-je utiliser les images échangées commercialement ?",
+        "answer": "Oui ! Toutes les images générées avec notre outil sont accompagnées de droits commerciaux complets."
+      },
+      {
+        "question": "Quelles options de support sont disponibles si j'ai des problèmes ?",
+        "answer": "Nous fournissons une documentation extensive, des tutoriels vidéo et un support par e-mail et chat en direct pour le dépannage."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Transformer Vos Images ?",
+    "description": "Commencez avec des crédits gratuits aujourd'hui et voyez la magie par vous-même !",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Essayez-le Maintenant →"
+  },
+  "footer": {
+    "heading": "Êtes-vous Prêt à Échanger des Visages ?",
+    "description": "Plongez dans la technologie d'échange de visages de WaveSpeed AI et créez un contenu incroyable. Aucune inscription requise.",
+    "ctaText": "Échanger des Visages Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

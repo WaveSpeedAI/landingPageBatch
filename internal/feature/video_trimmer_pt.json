@@ -1,0 +1,223 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Cortador de Vídeo AI",
+  "meta": {
+    "description": "Corte, edite e melhore seus vídeos sem esforço com nosso Cortador de Vídeo alimentado por IA. Perfeito para criadores, profissionais de marketing e empresas que buscam otimizar a produção de vídeo. Experimente a facilidade da edição de vídeo hoje!",
+    "keywords": "cortador de vídeo, edição de vídeo com IA, cortador de vídeo, ferramenta de aprimoramento de vídeo, WaveSpeed AI, soluções de vídeo, edição de vídeo para e-commerce, corte de vídeo para redes sociais, editor de vídeo online, edição de vídeo rápida"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de IA",
+        "items": [
+          [
+            "Ferramentas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Demonstração",
+        "items": [
+          [
+            "Demonstração",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Corte Seus Vídeos",
+    "subHeading": "Edite e Melhore com Precisão da IA",
+    "description": "Corte instantaneamente seus vídeos para redes sociais, marketing ou projetos pessoais. Experimente a edição contínua e melhore sua narrativa com o poder do WaveSpeed AI. Comece hoje!",
+    "tryText": "Experimente Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução de Cortador de Vídeo WaveSpeed AI",
+    "left": {
+      "heading": "Desafios Tradicionais",
+      "items": [
+        "Edição manual é demorada e complexa",
+        "Requer software de edição caro",
+        "Limitado a recursos básicos de corte",
+        "Curva de aprendizado alta para iniciantes",
+        "Qualidade de saída inconsistente"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeed AI",
+      "items": [
+        "Corte e edite vídeos em segundos com assistência da IA",
+        "Sem habilidades técnicas ou software caro necessário",
+        "Interface amigável para todos os níveis de habilidade",
+        "Saída consistente e profissional a cada vez",
+        "Preços acessíveis sem taxas ocultas"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "Corte vídeos sem esforço em 3 etapas simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Faça o Upload do Vídeo",
+        "text": "Escolha o vídeo que você deseja cortar ou editar",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Selecione os Pontos de Corte",
+        "text": "Marque os pontos de início e fim para sua edição",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Pré-visualize e Salve",
+        "text": "Pré-visualize seu vídeo cortado e faça o download em segundos",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "Corte Seu Primeiro Vídeo →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilidades Infinitas",
+    "description": "Ideal para diversos projetos de vídeo",
+    "items": [
+      "Clipes para redes sociais para Instagram e TikTok",
+      "Vídeos promocionais para lojas online",
+      "Destaques em vídeo para resumos de eventos",
+      "Mensagens e cumprimentos em vídeo personalizados",
+      "Edição de conteúdo para YouTube",
+      "Aprimoramentos em vídeos educativos e de tutoriais",
+      "Ajustes em campanhas de marketing",
+      "Segmentos de narrativa criativa"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Veja como os usuários estão transformando sua edição de vídeo com IA",
+    "items": [
+      {
+        "tag": "Criação de Conteúdo",
+        "heading": "Influenciador de Mídia Social",
+        "before": {
+          "label": "Antes",
+          "text": "Horas de edição"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Minutos de ajustes"
+        },
+        "value": "95%",
+        "key": "Tempo Economizado",
+        "description": "Eu cortei uma semana de conteúdo em menos de uma hora, mantendo meu público envolvido de forma consistente."
+      },
+      {
+        "tag": "E-commerce",
+        "heading": "Promoção de Produto",
+        "before": {
+          "label": "Antes",
+          "text": "Edições caras"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Soluções acessíveis"
+        },
+        "value": "98%",
+        "key": "Redução de Custos",
+        "description": "Usando o Cortador de Vídeo, produzimos clipes de produto nítidos e atraentes que dobraram nossa taxa de engajamento."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Cortes com IA",
+    "description": "Escolha as configurações ideais para suas necessidades de vídeo",
+    "items": [
+      "Sugestões de corte automáticas com base no conteúdo",
+      "Edição de precisão com opção de ajuste fino",
+      "Opções de exportação rápida disponíveis para várias plataformas",
+      "Feedback em tempo real para ajustes",
+      "Processamento em nuvem para geração rápida",
+      "Direitos de uso comercial incluídos"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Descubra mais ferramentas inovadoras de IA para suas necessidades de vídeo"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo que você precisa saber",
+    "items": [
+      {
+        "question": "Quais formatos de vídeo são suportados para corte?",
+        "answer": "Suportamos a maioria dos formatos de vídeo populares, incluindo MP4, MOV e AVI. Faça upload dos seus vídeos facilmente e comece a cortar agora mesmo."
+      },
+      {
+        "question": "Posso combinar vários clipes após o corte?",
+        "answer": "Sim! Nossa plataforma permite que você corte e depois combine vários clipes de forma contínua em um só vídeo, perfeito para criar destaques."
+      },
+      {
+        "question": "E se eu cometer um erro enquanto corto?",
+        "answer": "Sem problemas! Você pode desfazer alterações facilmente e voltar para versões anteriores antes de salvar suas edições."
+      },
+      {
+        "question": "Há um limite no comprimento do vídeo para corte?",
+        "answer": "Nosso Cortador de Vídeo pode lidar com vídeos de até 60 minutos de duração, oferecendo a flexibilidade de editar conteúdos mais longos."
+      },
+      {
+        "question": "Posso aplicar efeitos após o corte?",
+        "answer": "Com certeza! Após o corte do seu vídeo, você pode adicionar efeitos, sobreposições de texto e música para melhorar sua edição final."
+      },
+      {
+        "question": "Qual é o custo de usar o Cortador de Vídeo?",
+        "answer": "Operamos em um modelo de pagamento conforme o uso. Você paga apenas pelos cortes que faz, garantindo um ótimo valor sem assinaturas indesejadas."
+      },
+      {
+        "question": "Quão rápido posso esperar meus vídeos cortados?",
+        "answer": "Você pode esperar tempos de processamento quase instantâneos. A maioria dos cortes é concluída em minutos, tornando-o eficiente para edições rápidas."
+      },
+      {
+        "question": "Preciso de software especial para usar o Cortador de Vídeo?",
+        "answer": "Nenhum software especial é necessário! Tudo que você precisa é um navegador para acessar nossa ferramenta de Cortador de Vídeo online."
+      },
+      {
+        "question": "Há tutoriais disponíveis para me ajudar a começar?",
+        "answer": "Sim! Fornecemos uma extensa biblioteca de tutoriais e guias para ajudá-lo a maximizar o potencial do Cortador de Vídeo."
+      },
+      {
+        "question": "Posso compartilhar meus vídeos cortados diretamente da plataforma?",
+        "answer": "Sim, uma vez que seu vídeo esteja cortado, você pode compartilhá-lo diretamente em várias plataformas de redes sociais ou baixá-lo para seu dispositivo."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Editar Seu Primeiro Vídeo?",
+    "description": "Comece com créditos gratuitos - Descubra a facilidade do corte com IA",
+    "contactUsText": "Entre em Contato",
+    "tryText": "Experimente Agora →"
+  },
+  "footer": {
+    "heading": "Pronto para Cortar Seus Vídeos?",
+    "description": "Experimente o WaveSpeed AI agora e vivencie a edição sem costura. Sem necessidade de cadastro.",
+    "ctaText": "Corte Vídeos Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

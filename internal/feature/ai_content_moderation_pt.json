@@ -1,0 +1,212 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Moderação de Conteúdo com IA",
+  "meta": {
+    "description": "Aproveite a IA para manter sua comunidade online segura e envolvente. Filtrar efetivamente conteúdo prejudicial, melhorar a experiência do usuário e cumprir com as regulamentações. Perfeito para plataformas sociais e sites de e-commerce.",
+    "keywords": "moderação de conteúdo com IA, filtragem de conteúdo prejudicial, segurança online, melhoria da experiência do usuário, gerenciamento de comunidade, moderação de redes sociais, gerenciamento de conteúdo de e-commerce, filtragem em tempo real, ferramentas de moderação automatizadas, WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de IA",
+        "items": [
+          [
+            "Ferramentas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Demonstração",
+        "items": [
+          [
+            "Demonstração",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Moderação de Conteúdo com IA",
+    "subHeading": "Proteja Sua Comunidade com Filtros Inteligentes",
+    "description": "Utilize nossa poderosa IA para filtrar automaticamente conteúdo prejudicial e melhorar as interações dos usuários em tempo real. Proteja sua presença online sem esforço. Comece a moderar hoje!",
+    "tryText": "Experimente Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução de Moderação de Conteúdo com IA da WaveSpeed AI",
+    "left": {
+      "heading": "Desafios Tradicionais",
+      "items": [
+        "Moderação manual é demorada",
+        "Alto risco de conteúdo prejudicial passar",
+        "Aplicação inconsistente das diretrizes",
+        "Reclamações dos usuários sobre conteúdo inadequado",
+        "Dificuldade em atender aos requisitos regulatórios"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeed AI",
+      "items": [
+        "Filtragem de conteúdo automatizada em tempo real",
+        "Aplicação consistente das políticas de moderação",
+        "Redução do risco de exposição a conteúdo prejudicial",
+        "Melhoria da experiência geral do usuário",
+        "Integração simples em plataformas existentes"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "Implemente uma moderação eficaz em 3 etapas simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Integrar API",
+        "text": "Conecte nossa API de moderação à sua plataforma de forma simples",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Definir Diretrizes",
+        "text": "Defina quais conteúdos filtrar com base nos padrões da sua comunidade",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Monitorar e Ajustar",
+        "text": "Receba relatórios em tempo real e ajuste os parâmetros de moderação conforme necessário",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "Comece a Moderar →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilidades Infinitas",
+    "description": "Perfeito para várias plataformas online",
+    "items": [
+      "Sites de redes sociais",
+      "Mercados de e-commerce",
+      "Fóruns de discussão",
+      "Comunidades de jogos",
+      "Plataformas de compartilhamento de conteúdo",
+      "Seções de comentários de blogs"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Descubra como empresas garantem ambientes online seguros com IA",
+    "items": [
+      {
+        "tag": "Rede Social",
+        "heading": "Plataforma de Engajamento Jovem",
+        "before": {
+          "label": "Antes",
+          "text": "Alta taxa de reclamações"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Conteúdo negativo minimizado"
+        },
+        "value": "85%",
+        "key": "Melhoria na Segurança do Conteúdo",
+        "description": "A moderação automatizada reduziu drasticamente as postagens prejudiciais, garantindo um espaço mais seguro para os usuários."
+      },
+      {
+        "tag": "Portal de E-commerce",
+        "heading": "Site de Avaliação de Produtos",
+        "before": {
+          "label": "Antes",
+          "text": "Diretrizes de conteúdo confusas"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Processo de moderação claro"
+        },
+        "value": "90%",
+        "key": "Aumento da Confiança do Usuário",
+        "description": "A moderação aprimorada levou a um engajamento positivo e aumento da confiança do cliente."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Modelos de IA",
+    "description": "Escolha a abordagem de moderação certa para suas necessidades",
+    "items": [
+      "Modelo de Filtragem de Conteúdo: Alta precisão, personalizável, ideal para tópicos sensíveis",
+      "Modelo de Detecção de Spam: Desempenho rápido, identificação em tempo real de postagens irrelevantes",
+      "Aprendizado de IA: Melhora continuamente ao longo do tempo com feedback dos usuários",
+      "Ferramentas de Moderação Orientadas pelo Usuário para relatórios da comunidade",
+      "Análises do Painel: Monitore tendências de conteúdo e a eficácia da moderação"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Descubra mais ferramentas essenciais para segurança online"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo o que você precisa saber",
+    "items": [
+      {
+        "question": "Como funciona a moderação de conteúdo?",
+        "answer": "Nossa IA analisa postagens e comentários em tempo real para identificar e filtrar conteúdo prejudicial antes que chegue aos seus usuários. Ela aprende com o feedback da comunidade para se adaptar e melhorar ao longo do tempo."
+      },
+      {
+        "question": "Posso personalizar as diretrizes de moderação?",
+        "answer": "Com certeza! Você pode definir diretrizes específicas adaptadas aos valores e padrões da sua comunidade, garantindo que o conteúdo relevante passe enquanto o material indesejado seja filtrado."
+      },
+      {
+        "question": "Com que rapidez o conteúdo prejudicial pode ser filtrado?",
+        "answer": "A IA funciona em tempo real, o que significa que a maioria do conteúdo prejudicial é identificada e moderada quase instantaneamente, mantendo seu ambiente online seguro."
+      },
+      {
+        "question": "Quais tipos de conteúdo podem ser moderados?",
+        "answer": "Nossa tecnologia é capaz de detectar discurso de ódio, spam, conteúdo explícito e outros materiais prejudiciais em diversos meios, incluindo texto, imagens e vídeos."
+      },
+      {
+        "question": "Receberei relatórios sobre as atividades de moderação?",
+        "answer": "Sim! Você receberá análises regulares e relatórios sobre as ações de moderação realizadas, permitindo uma supervisão aprimorada e ajustes nas estratégias."
+      },
+      {
+        "question": "Este serviço é escalável para grandes comunidades?",
+        "answer": "Certamente! Nossas soluções são projetadas para escalar sem problemas com seu crescimento, lidando eficientemente com volumes aumentados de conteúdo sem comprometer o desempenho."
+      },
+      {
+        "question": "Que suporte está disponível se eu encontrar problemas?",
+        "answer": "Oferecemos suporte abrangente, incluindo documentação, tutoriais e um helpdesk dedicado para ajudar com quaisquer dúvidas ou desafios técnicos."
+      },
+      {
+        "question": "Os usuários podem recorrer das decisões de moderação?",
+        "answer": "Sim, os usuários podem enviar apelos através da plataforma. Cada caso será revisado para garantir tratamento justo e transparência na moderação."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Melhorar a Segurança da Sua Comunidade?",
+    "description": "Comece com créditos gratuitos - Experimente a moderação com IA hoje",
+    "contactUsText": "Entre em Contato",
+    "tryText": "Experimente Agora →"
+  },
+  "footer": {
+    "heading": "Pronto para Proteger Sua Plataforma?",
+    "description": "Experimente o WaveSpeed AI agora e veja a transformação. Sem necessidade de cadastro.",
+    "ctaText": "Comece a Moderar Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - KI-Hintergrundgenerator",
+  "meta": {
+    "description": "Erstellen Sie mühelos atemberaubende Hintergründe für jedes Bild mit KI-Technologie. Ideal zur Verbesserung von Produktfotos, zur Optimierung von Social-Media-Visuals und zur Verbesserung von E-Commerce-Angeboten. Erleben Sie die Kraft der intelligenten Hintergrundgenerierung noch heute!",
+    "keywords": "KI-Hintergrundgenerator, Bildhintergrundentfernung, Hintergrunderstellung KI, E-Commerce-Fotoverbesserung, WaveSpeed AI, Produktfotos Hintergründe, Social-Media-Hintergrundtools, automatisierte Bildbearbeitung, Shopify-Bildlösungen, Amazon-Angebotsverbesserungen"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI-Tools",
+        "items": [
+          [
+            "KI-Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Ausstellung",
+        "items": [
+          [
+            "Ausstellung",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "Hintergrundgenerierung leicht gemacht",
+    "subHeading": "Verwandeln Sie Ihre Bilder mit atemberaubenden neuen Hintergründen",
+    "description": "Heben Sie Ihre Fotos hervor, indem Sie fesselnde Hintergründe in Sekunden erstellen. Keine Designfähigkeiten erforderlich. Erleben Sie jetzt den mühelosen, KI-gesteuerten Hintergrundgenerator!",
+    "tryText": "Jetzt ausprobieren",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI KI-Hintergrundgenerator-Lösung",
+    "left": {
+      "heading": "Herausforderungen der traditionellen Hintergrundbearbeitung",
+      "items": [
+        "Die Einstellung von Grafikdesignern ist kostspielig (100-300 $ pro Bild)",
+        "Manuelle Bearbeitung kann Stunden pro Bild in Anspruch nehmen",
+        "Erfordert Fachkenntnisse in Designsoftware",
+        "Begrenzte Anpassungsoptionen",
+        "Unflexibilität bei schnellen Inhaltsanforderungen"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Lösung",
+      "items": [
+        "Erzeugen Sie sofort wunderschöne Hintergründe in Sekunden",
+        "Keine Design-Erfahrung erforderlich - Laden Sie einfach Bilder hoch",
+        "Anpassbare Hintergrundstile und Farben",
+        "Unbegrenzte Variationen und Bearbeitungen direkt zur Hand",
+        "Erschwingliches, nutzungsbasiertes Modell für alle Nutzer"
+      ],
+      "tryText": "Probieren"
+    }
+  },
+  "howItWorks": {
+    "heading": "So funktioniert es",
+    "description": "Erstellen Sie atemberaubende Hintergründe in 4 einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Bild hochladen",
+        "text": "Laden Sie das Bild hoch, das Sie verbessern möchten",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Hintergrund wählen",
+        "text": "Wählen Sie aus einer Vielzahl von KI-generierten Hintergründen",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Stile anpassen",
+        "text": "Passen Sie Farben, Stile oder Effekte an, um Ihrer Vision gerecht zu werden",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Bild herunterladen",
+        "text": "Erhalten Sie Ihr verbessertes Bild in wenigen Minuten einsatzbereit",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Generieren Sie Ihren ersten Hintergrund →"
+  },
+  "endlessPossibilities": {
+    "heading": "Vielseitige Anwendungsfälle",
+    "description": "Perfekt für eine Vielzahl von Bedürfnissen",
+    "items": [
+      "E-Commerce-Produktbilder mit professionellen Hintergründen",
+      "Social-Media-Beiträge, die auffallen",
+      "Marketingmaterialien, die Aufmerksamkeit erregen",
+      "Website-Grafiken für ein verbessertes Erscheinungsbild",
+      "Blog-Visuals, die Leser ansprechen",
+      "Immobilienangebote, die Objekte präsentieren",
+      "Veranstaltungs- und Werbeflyer",
+      "Kreative Kunstwerke für persönliche Projekte"
+    ]
+  },
+  "successStories": {
+    "heading": "Erfolgsgeschichten in der Hintergrundoptimierung",
+    "description": "Entdecken Sie, wie Marken ihre Bilder mit KI verbessert haben",
+    "items": [
+      {
+        "tag": "Modeeinzelhandel",
+        "heading": "Webseiten-Produktauflistungen",
+        "before": {
+          "label": "Vorher",
+          "text": "Standardhintergründe"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Atemberaubende benutzerdefinierte Szenen"
+        },
+        "value": "85%",
+        "key": "Verbesserung der visuellen Attraktivität",
+        "description": "Unsere Bilder haben das Erscheinungsbild unseres Online-Shops verwandelt, was zu einem Anstieg von 50% bei den Verkäufen führte."
+      },
+      {
+        "tag": "Immobilien",
+        "heading": "Online-Immobilienpräsentationen",
+        "before": {
+          "label": "Vorher",
+          "text": "Einfache Immobilienbilder"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Lebendige angereicherte Hintergründe"
+        },
+        "value": "90%",
+        "key": "Engagement-Steigerung",
+        "description": "Die verbesserten Visuals führten zu schnelleren Verkäufen und erhöhten Anfragen."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Funktionen der KI-Hintergrundgeneration",
+    "description": "Finden Sie die richtigen Optionen für Ihre Bedürfnisse",
+    "items": [
+      "Standardhintergründe: Basisstile, die für Produktbilder geeignet sind",
+      "Premium-Hintergründe: Verbesserte Designs für auffällige Visuals",
+      "Anpassbare Hintergrundeffekte: Maßgeschneiderte Anpassungen zur Übereinstimmung mit der Markenidentität",
+      "Sofortige Verarbeitung: Hintergründe werden in wenigen Sekunden generiert",
+      "Benutzerfreundliche Oberfläche: Einfache Schritte erstellen komplexe Designs mühelos"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Verwandte KI-Tools",
+    "description": "Entdecken Sie weitere innovative KI-Lösungen zur Bildverbesserung"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welche Arten von Bildern eignen sich am besten für die Hintergrundgenerierung?",
+        "answer": "Bilder mit klaren Motiven und einfachen Hintergründen liefern die besten Ergebnisse. Stellen Sie sicher, dass Ihre Uploads gut beleuchtet, hochauflösend und auf das Hauptmotiv fokussiert sind, um eine optimale KI-Verarbeitung zu gewährleisten."
+      },
+      {
+        "question": "Kann ich die von der KI generierten Hintergründe anpassen?",
+        "answer": "Ja! Nach der Generierung eines Hintergrunds können Sie ganz einfach Stile, Farben und Effekte anpassen, um perfekt mit Ihrem Branding oder persönlichen Vorlieben übereinzustimmen."
+      },
+      {
+        "question": "Wie lange dauert die Hintergrundgenerierung?",
+        "answer": "Die Generierung ist bemerkenswert schnell und dauert in der Regel weniger als eine Minute. Sie können mehrere Bilder gleichzeitig verarbeiten und so Ihren Arbeitsablauf optimieren."
+      },
+      {
+        "question": "Gibt es eine Begrenzung für die Variationen, die ich erstellen kann?",
+        "answer": "Nein! Sie können unbegrenzt viele Variationen von Hintergründen erstellen, wodurch eine breite Palette von Stilen für jedes Projekt oder jeden Zweck möglich ist."
+      },
+      {
+        "question": "Brauche ich Designfähigkeiten, um den Hintergrundgenerator zu verwenden?",
+        "answer": "Überhaupt nicht! Unser Tool wurde benutzerfreundlich gestaltet, sodass jeder professionelle Hintergründe erstellen kann, ohne vorherige Designkenntnisse."
+      },
+      {
+        "question": "Welches Preismodell gilt für die Hintergrundgenerierung?",
+        "answer": "Unsere Preise basieren auf einem nutzungsbasierten System, bei dem Sie nur für die Bilder bezahlen, die Sie generieren. Es gibt keine Abonnements oder versteckten Gebühren."
+      },
+      {
+        "question": "Kann ich die generierten Hintergründe für kommerzielle Zwecke verwenden?",
+        "answer": "Ja! Alle Bilder, die über unsere Plattform erstellt werden, kommen mit vollständigen kommerziellen Rechten, sodass Sie sie in Marketing, Vertrieb und in allen kommerziellen Anwendungen nutzen können."
+      },
+      {
+        "question": "Welche Art von Unterstützung steht zur Verfügung?",
+        "answer": "Wir bieten umfangreiche Unterstützung durch Dokumentation, Tutorials und Kundenservice-Optionen, um Ihnen zu helfen, Ihre Erfahrung mit unseren KI-Tools zu maximieren."
+      },
+      {
+        "question": "Wie kann ich den Kundensupport kontaktieren, wenn ich ein Problem habe?",
+        "answer": "Sie können unser Support-Team per E-Mail oder Live-Chat erreichen, und wir antworten in der Regel innerhalb von 24 Stunden, um bei Fragen zu helfen."
+      },
+      {
+        "question": "Gibt es kostenlose Testversionen oder Credits für neue Benutzer?",
+        "answer": "Ja! Neue Benutzer erhalten kostenlose Credits, um unsere Dienste zu testen, damit Sie die Fähigkeiten unseres Hintergrundgenerators ohne Vorabkosten erleben können."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Ihre Bilder zu transformieren?",
+    "description": "Beginnen Sie mit kostenlosen Credits und sehen Sie zu, wie Ihre Fotos außergewöhnlich werden!",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Jetzt ausprobieren →"
+  },
+  "footer": {
+    "heading": "Transformieren Sie heute Ihre Hintergründe!",
+    "description": "Erleben Sie die Zukunft der Bildverbesserung mit WaveSpeed AI. Keine Anmeldung erforderlich.",
+    "ctaText": "Erstellen Sie jetzt atemberaubende Hintergründe",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Generador de Fotos Profesionales con IA",
+  "meta": {
+    "description": "Crea instantáneamente fotos profesionales con la tecnología de IA. Mejora tu marca personal y tu presencia en línea sin esfuerzo. ¡Perfecto para perfiles de LinkedIn, sitios web corporativos y más!",
+    "keywords": "generador de fotos con IA, fotos profesionales, herramienta de retrato con IA, marca personal, foto de perfil de LinkedIn, fotos virtuales, fotografía corporativa, presencia en línea, generador de fotos inteligente, identidad digital, foto de perfil en redes sociales"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas de IA",
+        "items": [
+          [
+            "Herramientas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Galería",
+        "items": [
+          [
+            "Galería",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Generador de Fotos Profesionales con IA",
+    "subHeading": "Crea Fotos Impresionantes en Momentos",
+    "description": "Produce fotos de alta calidad y profesionales con solo unos clics. No se requieren fotógrafos ni estudios. Mejora tu imagen en línea y destácate entre la multitud hoy mismo.",
+    "tryText": "Crea Tu Foto Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución de Generador de Fotos Profesionales con IA de WaveSpeed AI",
+    "left": {
+      "heading": "Desafíos de Retratos Tradicionales",
+      "items": [
+        "Los fotógrafos pueden ser costosos ($300-1000 por sesión)",
+        "Logística de programación y ubicación",
+        "Múltiples tomas para la perfección",
+        "Estilos y fondos limitados",
+        "Alta barrera para imágenes rápidas y profesionales"
+      ]
+    },
+    "right": {
+      "heading": "Solución WaveSpeedAI",
+      "items": [
+        "Genera fotos impresionantes en menos de 2 minutos",
+        "No necesitas un fotógrafo - Solo sube tu foto",
+        "Opciones de edición y personalización instantáneas",
+        "Estilos y fondos ilimitados para elegir",
+        "Precios asequibles - Ideal para todos"
+      ],
+      "tryText": "Prueba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "De una simple foto a una foto profesional en 4 pasos",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Subir Imagen",
+        "text": "Sube tu foto clara o selfie",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Seleccionar Estilo",
+        "text": "Elige tu estilo de foto profesional preferido (por ejemplo, corporativo, casual)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Personalizar Apariencia",
+        "text": "Ajusta la iluminación, el fondo y otros elementos",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Descargar Foto Profesional",
+        "text": "Recibe tu foto profesional pulida en alta resolución",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Obtén Tu Foto Profesional →"
+  },
+  "endlessPossibilities": {
+    "heading": "Posibilidades Infinitas",
+    "description": "Perfecto para profesionales en cualquier campo",
+    "items": [
+      "Fotos de perfil de LinkedIn",
+      "Fotos de equipo corporativo",
+      "Marca personal para emprendedores",
+      "Fotos de perfil en redes sociales",
+      "Casting y audiciones",
+      "Perfiles de conferencias",
+      "Perfiles de citas en línea",
+      "Fotos de integración de empleados"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Descubre cómo los profesionales mejoran su imagen con IA",
+    "items": [
+      {
+        "tag": "Profesionales Corporativos",
+        "heading": "Actualización de Perfil de LinkedIn",
+        "before": {
+          "label": "Antes",
+          "text": "Fotos amateur"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Foto profesional"
+        },
+        "value": "250%",
+        "key": "Incremento de Vistas del Perfil",
+        "description": "Después de usar nuestro generador de fotos, mis vistas de perfil se dispararon. Aseguré 3 entrevistas en una semana!"
+      },
+      {
+        "tag": "Freelancers",
+        "heading": "Marca Personal",
+        "before": {
+          "label": "Antes",
+          "text": "Imágenes no profesionales"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Fotos modernas actualizadas"
+        },
+        "value": "300%",
+        "key": "Compromiso del Cliente",
+        "description": "Transformar mis visuales ayudó a aumentar mis consultas de clientes. Me veía creíble y confiable."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Modelos de IA",
+    "description": "Selecciona el estilo ideal para tu foto profesional",
+    "items": [
+      "Estándar: Fotos de alta calidad y realistas para perfiles",
+      "Premium: Funciones mejoradas con efectos avanzados de iluminación y sombra",
+      "Estilos vanguardistas con fondos únicos",
+      "Mezcla casual y profesional para versatilidad",
+      "Entrega instantánea con múltiples variaciones para elegir",
+      "Optimizado para uso en línea con alta resolución disponible"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas de IA Relacionadas",
+    "description": "Explora más herramientas innovadoras de IA para la marca personal"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué calidad puedo esperar de la foto profesional?",
+        "answer": "Nuestro generador produce fotos de alta resolución que son vibrantes y profesionales. Puedes elegir entre calidad estándar para descargas rápidas u opciones premium para mayor profundidad y detalle."
+      },
+      {
+        "question": "¿Puedo personalizar el estilo de mi foto profesional?",
+        "answer": "¡Absolutamente! Nuestra herramienta te permite seleccionar entre varios estilos y ajustar fondos, iluminación y más para adaptarse a tus necesidades."
+      },
+      {
+        "question": "¿Qué tipo de imágenes funcionan mejor para el generador de fotos profesionales?",
+        "answer": "Las imágenes claras y bien iluminadas funcionan mejor. Recomendamos usar fotos con buena resolución, idealmente superiores a 512x512 píxeles, para obtener resultados óptimos."
+      },
+      {
+        "question": "¿Cómo uso la foto profesional para perfiles en línea?",
+        "answer": "Una vez que tu foto profesional esté generada, puedes descargarla y subirla fácilmente a la plataforma que desees, incluyendo LinkedIn, sitios web de empresas y más."
+      },
+      {
+        "question": "¿Hay un costo por generar fotos profesionales?",
+        "answer": "Operamos con un modelo flexible de pago por uso sin suscripciones. Solo pagas por las fotos profesionales que creas, lo que lo hace accesible para todos."
+      },
+      {
+        "question": "¿Cuánto tiempo tarda en generarse una foto profesional?",
+        "answer": "Típicamente, la generación de fotos profesionales toma de 1 a 2 minutos. Puedes crear múltiples fotos en este período si es necesario."
+      },
+      {
+        "question": "¿Qué hago si necesito ayuda o soporte?",
+        "answer": "Proporcionamos recursos extensos, incluyendo tutoriales, mejores prácticas y soporte al cliente a través de chat y correo electrónico para todas tus consultas."
+      },
+      {
+        "question": "¿Poseo los derechos sobre las fotos profesionales generadas?",
+        "answer": "¡Sí! Tienes plenos derechos comerciales para usar tus fotos libremente en todas las plataformas sin tarifas adicionales."
+      },
+      {
+        "question": "¿Puedo editar las fotos profesionales generadas después?",
+        "answer": "¡Sí! Puedes descargar tu foto profesional y usar herramientas externas para ediciones adicionales, si lo deseas."
+      },
+      {
+        "question": "¿Cuáles son los mejores casos de uso para el generador de fotos profesionales con IA?",
+        "answer": "Esta tecnología es perfecta para crear imágenes profesionales para LinkedIn, sitios web corporativos, redes sociales y cualquier contexto donde las primeras impresiones importan."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Crear Tu Foto Profesional?",
+    "description": "Empieza con créditos gratis - Vívelo por ti mismo",
+    "contactUsText": "Contáctanos",
+    "tryText": "Crea Tu Foto Ahora →"
+  },
+  "footer": {
+    "heading": "¿Listo para Mejorar Tu Imagen?",
+    "description": "Prueba WaveSpeed AI ahora y observa la diferencia por ti mismo. No se requiere registro.",
+    "ctaText": "Crea Fotos Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

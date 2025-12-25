@@ -1,0 +1,230 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - KI Video Generator",
+  "meta": {
+    "description": "Erstellen Sie mühelos beeindruckende Videos aus Bildern mit unserem KI Video Generator. Ideal für Vermarkter, Pädagogen und Inhaltsersteller. Erleben Sie eine schnelle Videoproduktion, die auf Ihre Bedürfnisse zugeschnitten ist!",
+    "keywords": "KI Video Generator, Bild zu Video KI, Videoinhaltserstellung, Werbevideo Maker, E-Commerce Video Generator, WaveSpeed AI, automatisierte Videoproduktion, Marketingvideos, Social Media Video Tools, Videogenerierungstechnologie"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI-Tools",
+        "items": [
+          [
+            "KI-Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "Verwandeln Sie Ihre Bilder in fesselnde Videos",
+    "subHeading": "Mühelose Videoerstellung auf Ihren Fingerspitzen",
+    "description": "Nutzen Sie modernste KI-Technologie, um Ihre statischen Fotos sofort in fesselnde Videos umzuwandeln. Keine komplizierte Einrichtung, einfach hochladen und erstellen. Beginnen Sie jetzt Ihre Reise!",
+    "tryText": "Beginnen Sie mit der Erstellung",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI KI Video Generator Lösung",
+    "left": {
+      "heading": "Herausforderungen der traditionellen Videoproduktion",
+      "items": [
+        "Hohe Kosten für Videoaufnahmen (2000-5000 $ pro Projekt)",
+        "Abhängigkeit von spezialisierten Geräten und Personal",
+        "Zeitaufwendige Bearbeitungsprozesse (2-7 Tage)",
+        "Begrenzte kreative Überarbeitungen und Flexibilität",
+        "Herausfordernd für kleine Unternehmen ohne Ressourcen"
+      ]
+    },
+    "right": {
+      "heading": "Vorteil des WaveSpeed AI Video Generators",
+      "items": [
+        "Erstellen Sie Videos aus Bildern in Minuten",
+        "Keine Dreharbeiten oder Crew erforderlich - Einfach hochladen",
+        "Sofortige, KI-gesteuerte Ergebnisse",
+        "Unbegrenzte kreative Optionen",
+        "Flexibles Preismodell für jedes Budget"
+      ],
+      "tryText": "Versuchen"
+    }
+  },
+  "howItWorks": {
+    "heading": "So funktioniert es",
+    "description": "Konvertieren Sie Ihre Bilder in dynamische Videos in 4 einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Laden Sie Ihr Bild hoch",
+        "text": "Wählen Sie das Bild aus, das Sie animieren möchten, und laden Sie es hoch",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Bewegen Sie Anpassungseffekte",
+        "text": "Geben Sie optional an, wie sich Ihr Video bewegen soll (z.B. \"reinzoomen\")",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Wählen Sie Ihren Stil",
+        "text": "Wählen Sie aus verschiedenen KI-Modellen für optimale Ergebnisse",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Exportieren Sie Ihr Video",
+        "text": "Erhalten Sie Ihr Video in hoher Auflösung in nur wenigen Momenten",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Erstellen Sie Ihr Video →"
+  },
+  "endlessPossibilities": {
+    "heading": "Grenzenlose Anwendungen",
+    "description": "Ideal für verschiedene Zwecke und Branchen",
+    "items": [
+      "Werbevideos für Online-Shops",
+      "Social-Media-Clips zur Engagement-Steigerung",
+      "Schulungs- und Bildungsinhalte",
+      "Dynamische Präsentationsvisuals",
+      "Event-Highlights und Zusammenfassungen",
+      "Immobilienpräsentationen",
+      "Kulinarische Rezeptdemonstrationen",
+      "Produkt-Tutorials und Bewertungen"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Erfahren Sie, wie andere ihre Inhalte mit KI verbessern",
+    "items": [
+      {
+        "tag": "Online-Einzelhandel",
+        "heading": "E-Commerce-Marketingvideos",
+        "before": {
+          "label": "Vorher",
+          "text": "Zeitaufwendig"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Schnelle Produktion"
+        },
+        "value": "98%",
+        "key": "Zeit-Effizienz",
+        "description": "Wir haben unseren Bilderkatalog über Nacht in fesselnde Videos verwandelt, was die Produktinteraktion gesteigert hat."
+      },
+      {
+        "tag": "Bildung",
+        "heading": "Inhalte für Online-Kurse",
+        "before": {
+          "label": "Vorher",
+          "text": "Manuelle Videoerstellung"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Automatisierte Videoproduktion"
+        },
+        "value": "97%",
+        "key": "Verbesserte Liefergeschwindigkeit",
+        "description": "Jetzt können wir fesselnde Lektionen in Minuten anstatt in Wochen entwickeln."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "KI-Modellvergleich",
+    "description": "Wählen Sie das ideale Modell für Ihre Videoproduktion",
+    "items": [
+      "Veo 3.1: Hohe Auflösung, 5-10 Sekunden, reichhaltige Details und Realismus",
+      "Seedance I2V: Schnelle Ausgabe, 3-6 Sekunden, wirtschaftlich und effizient",
+      "Flexible Bewegungsparameter mit benutzerdefinierten Vorgaben",
+      "Natürliche Übergänge und flüssige Kamerabewegungen",
+      "Schnelle Bearbeitungszeit unter 2 Minuten",
+      "Lizenzierung für kommerzielle Nutzung inklusive"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Entdecken Sie verwandte KI-Tools",
+    "description": "Entdecken Sie kraftvollere KI-Lösungen zur Inhaltserstellung"
+  },
+  "faq": {
+    "heading": "Häufig Gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welche Videoqualität und -länge kann ich erwarten?",
+        "answer": "Das Modell Veo 3.1 liefert hochwertige 1080p-Videos mit einer Dauer von bis zu 10 Sekunden, während Seedance I2V Videos mit Standardqualität von 3-6 Sekunden für Geschwindigkeit und Kosten-Effektivität bietet. Beide Optionen erzielen professionelle Ergebnisse, die ideal für E-Commerce und Marketing sind."
+      },
+      {
+        "question": "Kann ich die Bewegungen im Video und das Kameraverhalten steuern?",
+        "answer": "Absolut! Sie können detaillierte Vorgaben zu den gewünschten Kameraaktionen wie \"nach links schwenken\", \"auf das Motiv zoomen\" oder \"um das Objekt rotieren\" angeben. Die KI wird diese Anweisungen interpretieren, um präzise, dynamische Bewegungen auszuführen."
+      },
+      {
+        "question": "Welche Art von Bildern eignet sich am besten für die Videogenerierung?",
+        "answer": "Klare Produktbilder mit einfachen Hintergründen führen zu optimalen Ergebnissen. Stellen Sie sicher, dass Ihre Bilder von hoher Qualität und mindestens 512x512 Pixel groß sind, mit 1024x1024 für die besten Ergebnisse. Unterstützte Formate sind JPG, PNG und WebP."
+      },
+      {
+        "question": "Was hebt diese Technologie von einfachen Animationen ab?",
+        "answer": "Unsere KI erzeugt tatsächliche Bewegungen unter Verwendung realistischer Physik, was eine lebensechte Darstellung schafft, anstatt statischer Übergänge. Die Videos simulieren 3D-Räume, wodurch Bewegungen natürlich und ansprechend wirken."
+      },
+      {
+        "question": "Kann ich die Videoqualität nach der Erstellung verbessern?",
+        "answer": "Ja, unsere Plattform bietet Werkzeuge zur Skalierung von Videos für verbesserte Auflösung und Klarheit nach der Generierung, um das beste Seherlebnis für Ihr Publikum zu gewährleisten."
+      },
+      {
+        "question": "Wie ist das Preismodell für den KI Video Generator?",
+        "answer": "Wir verwenden ein Bezahlmodell pro Nutzung ohne Abonnements oder versteckte Gebühren. Die Preise richten sich nach dem gewählten KI-Modell und der Videodauer. Alle neuen Nutzer erhalten Credits, um ihre Reise ohne vorherige Verpflichtung zu beginnen."
+      },
+      {
+        "question": "Wie lange dauert die Videogenerierung und kann ich mehrere Videos erstellen?",
+        "answer": "Typischerweise erfolgt die Generierung in 1-2 Minuten. Sie können sogar mehrere Video-Variationen gleichzeitig ohne Wartezeiten erstellen."
+      },
+      {
+        "question": "Was sind die besten Verwendungsmöglichkeiten für diese Videotechnologie?",
+        "answer": "Ideal für Produktpräsentationen, Social-Media-Inhalte, Bildungspräsentationen und mehr – überall dort, wo dynamische Videoinhalte Ihre Botschaft ohne umfangreiche Ressourcen unterstützen können."
+      },
+      {
+        "question": "Habe ich das Recht, die Videos kommerziell zu nutzen?",
+        "answer": "Ja, alle generierten Videos kommen mit vollen kommerziellen Rechten, die eine uneingeschränkte Verbreitung und Monetarisierung über alle Plattformen erlauben."
+      },
+      {
+        "question": "Welche Unterstützungsressourcen bieten Sie an?",
+        "answer": "Wir bieten umfassende Dokumentation, Tutorials und Live-Support für alle Nutzer mit schnellen Reaktionszeiten und robuster Gemeinschaftsengagement für Troubleshooting."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, fesselnde KI-Videos zu erstellen?",
+    "description": "Starten Sie mit kostenlosen Credits - Erleben Sie die Transformation noch heute!",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Erstellen Sie jetzt mein Video →"
+  },
+  "footer": {
+    "heading": "Bereit, erstaunliche Videos zu erstellen?",
+    "description": "Versuchen Sie WaveSpeed AI heute - keine Anmeldung erforderlich für eine Demo.",
+    "ctaText": "Beginnen Sie Ihre kostenlose Testversion",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Pengeditan Kulit AI",
+  "meta": {
+    "description": "Capai kulit yang sempurna di foto dengan fitur Pengeditan Kulit AI kami. Sempurna untuk fotografer potret, merek kecantikan, dan influencer media sosial yang ingin meningkatkan gambar mereka dengan mudah. Penawaran eksklusif Black Friday!",
+    "keywords": "pengeditan kulit AI, peningkatan foto, filter kecantikan, pengeditan potret, alat retouching profesional, gambar kecantikan e-commerce, editor foto media sosial, pemrosesan gambar AI, editor kulit sempurna, penawaran Black Friday"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Pengeditan Kulit AI",
+    "subHeading": "Ubah Foto Anda dengan Kulit Sempurna",
+    "description": "Tingkatkan warna dan tekstur kulit di foto Anda secara otomatis. Sempurna untuk fotografer dan influencer yang menginginkan hasil mencolok dalam hitungan detik. Ucapkan selamat tinggal pada pengeditan manual dan nikmati kualitas profesional hanya dengan satu klik.",
+    "tryText": "Coba Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Pengeditan Kulit AI WaveSpeed AI",
+    "left": {
+      "heading": "Tantangan Tradisional",
+      "items": [
+        "Retouching manual yang memakan waktu (lebih dari 1 jam per gambar)",
+        "Memerlukan keterampilan Photoshop tingkat lanjut",
+        "Hasil yang tidak konsisten di berbagai gambar",
+        "Biaya tinggi untuk layanan retouching profesional",
+        "Kesulitan untuk mencapai tampilan yang alami"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeedAI",
+      "items": [
+        "Capai kulit yang sempurna dalam hitungan detik dengan AI",
+        "Antarmuka yang ramah pengguna - tidak memerlukan keterampilan",
+        "Hasil yang konsisten dan alami setiap kali",
+        "Harga terjangkau dengan model bayar sesuai pemakaian",
+        "Kemampuan retouching dan pengeditan instan"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Dapatkan kulit yang sempurna dalam 4 langkah sederhana",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Gambar",
+        "text": "Unggah foto potret atau kecantikan Anda",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Pilih Fitur",
+        "text": "Pilih area untuk ditingkatkan: kulit halus, mengurangi noda",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Atur Pengaturan",
+        "text": "Sesuaikan tekstur dan warna kulit dengan slider yang sederhana",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Unduh Foto Retouched",
+        "text": "Dapatkan gambar yang ditingkatkan dalam hitungan detik, siap digunakan",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Hasilkan Retouch Pertama Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Tanpa Batas",
+    "description": "Sempurna untuk setiap konteks foto",
+    "items": [
+      "Potret untuk model dan influencer",
+      "Gambar produk kecantikan e-commerce",
+      "Fotografi pernikahan dan acara",
+      "Foto profil media sosial",
+      "Lookbook mode dan editorial",
+      "Potret keluarga dan grup",
+      "Fotografi real estate",
+      "Foto profesional"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Temukan bagaimana klien meningkatkan gambar mereka dengan AI",
+    "items": [
+      {
+        "tag": "Merek Kecantikan",
+        "heading": "Kampanye Promosi",
+        "before": {
+          "label": "Sebelum",
+          "text": "Jam pengeditan manual"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Hasil sempurna dalam hitungan detik"
+        },
+        "value": "95%",
+        "key": "Waktu yang Hemat",
+        "description": "Gambar kampanye kami melihat peningkatan yang mencolok dalam keterlibatan, membuat produk kami sangat menarik."
+      },
+      {
+        "tag": "Studio Fotografi",
+        "heading": "Potret Klien",
+        "before": {
+          "label": "Sebelum",
+          "text": "Kualitas yang tidak konsisten"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Hasil yang seragam dan berkualitas tinggi"
+        },
+        "value": "98%",
+        "key": "Peningkatan Kualitas",
+        "description": "Retouching cepat memungkinkan kami untuk menyajikan portofolio yang menakjubkan yang mengesankan semua klien."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Model AI",
+    "description": "Pilih pengaturan yang tepat untuk kebutuhan Anda",
+    "items": [
+      "Pelembutan Kulit: Tekstur alami tanpa kilau",
+      "Penghapusan Noda: Perawatan area terarah untuk tampilan sempurna",
+      "Penyesuaian Nada: Tingkatkan warna kulit agar sesuai dengan pencahayaan",
+      "Retouch Pro: Tambahkan sentuhan akhir untuk hasil sekelas fotografi",
+      "Pemrosesan Batch: Edit beberapa gambar secara bersamaan",
+      "Hak penggunaan komersial termasuk"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Jelajahi lebih banyak alat AI inovatif untuk fotografi"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Semua yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Jenis gambar apa yang paling baik untuk pengeditan kulit?",
+        "answer": "Potret resolusi tinggi dengan pencahayaan yang baik adalah yang terbaik. Hindari gambar yang terlalu bayangan atau terlalu terang untuk memastikan hasil terbaik."
+      },
+      {
+        "question": "Bisakah saya membatalkan perubahan setelah retouching?",
+        "answer": "Ya! Anda dapat dengan mudah membatalkan editan atau mulai ulang jika Anda tidak puas dengan hasilnya."
+      },
+      {
+        "question": "Apakah ada batasan pada penggunaan gambar setelah retouching?",
+        "answer": "Tidak ada batasan! Anda mempertahankan hak penuh untuk gambar apa pun yang telah diedit dengan layanan kami, memungkinkan penggunaan komersial."
+      },
+      {
+        "question": "Seberapa cepat proses retouching?",
+        "answer": "Proses ini biasanya hanya memerlukan waktu beberapa detik untuk diselesaikan, sehingga memudahkan Anda untuk meningkatkan banyak gambar."
+      },
+      {
+        "question": "Bisakah saya menyesuaikan tingkat peningkatan?",
+        "answer": "Tentu saja! Gunakan slider intuitif untuk menyesuaikan pelembutan kulit, penghapusan noda, dan penyesuaian nada sesuai preferensi Anda."
+      },
+      {
+        "question": "Apakah perangkat lunak ini kompatibel dengan alat pengeditan lainnya?",
+        "answer": "Ya! Anda dapat menggunakannya sebagai alat mandiri atau sebagai lapisan tambahan peningkatan dalam perangkat lunak pengeditan yang Anda sukai."
+      },
+      {
+        "question": "Apa yang terjadi jika AI tidak memenuhi harapan saya?",
+        "answer": "Kami menyediakan opsi ulang dan dukungan untuk memastikan Anda sepenuhnya puas dengan hasil Anda."
+      },
+      {
+        "question": "Apakah ada biaya langganan untuk menggunakan alat ini?",
+        "answer": "Tidak ada langganan! Anda hanya membayar untuk gambar yang telah diedit yang Anda hasilkan, dengan harga yang fleksibel."
+      },
+      {
+        "question": "Sumber dukungan apa yang tersedia jika saya mengalami masalah?",
+        "answer": "Kami menawarkan dokumentasi yang komprehensif, dukungan pelanggan respons cepat, dan sumber daya komunitas untuk pemecahan masalah."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Meningkatkan Foto Anda?",
+    "description": "Mulai dengan kredit gratis - Rasakan kekuatan pengeditan AI hari ini",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Coba Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap untuk Mengubah Foto Anda?",
+    "description": "Coba WaveSpeed AI sekarang dan lihat perbedaannya sendiri. Tidak perlu mendaftar.",
+    "ctaText": "Hapus Noda Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi."
+  }
+}

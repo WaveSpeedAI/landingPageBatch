@@ -1,0 +1,226 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - AI Inpainting",
+  "meta": {
+    "description": "Revitalize suas imagens removendo objetos indesejados e preenchendo as lacunas de forma homogênea com o AI Inpainting. Perfeito para fotos de produtos, plataformas de e-commerce e para aprimorar a criatividade. Experimente um inpainting intuitivo impulsionado por tecnologia avançada.",
+    "keywords": "AI inpainting, remoção de objetos AI, ferramenta de restauração de imagens, aprimoramento de imagens para e-commerce, edição criativa, aprimoramento de fotos de produtos, WaveSpeed inpainting, inpainting amigável ao usuário, preenchimento de conteúdo adaptativo, remoção automatizada de objetos"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de AI",
+        "items": [
+          [
+            "Ferramentas de AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Mostruário",
+        "items": [
+          [
+            "Mostruário",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "AI Inpainting",
+    "subHeading": "Aprimore Suas Imagens Sem Esforço",
+    "description": "Transforme suas imagens removendo elementos indesejados e preenchendo o fundo de forma homogênea, tudo em apenas alguns cliques. Experimente o poder do inpainting inteligente. Experimente hoje!",
+    "tryText": "Comece Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução de AI Inpainting WaveSpeed AI",
+    "left": {
+      "heading": "Desafios da Edição Tradicional",
+      "items": [
+        "Edição de imagens demorada (horas de trabalho manual)",
+        "Requer software e habilidades caros",
+        "Flexibilidade limitada na remoção de objetos",
+        "Não é adequado para fundos complexos",
+        "Frustrante para não-designers"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeedAI",
+      "items": [
+        "Remova instantaneamente objetos indesejados das imagens",
+        "Preenchimento de fundo homogêneo com precisão de AI",
+        "Interface amigável; nenhuma habilidade de design necessária",
+        "Versátil para vários tipos de imagens",
+        "Preços acessíveis sem taxas ocultas"
+      ],
+      "tryText": "Experimente Agora"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "Aprimoramento de imagem sem esforço em 4 passos simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Faça Upload da Imagem",
+        "text": "Escolha a imagem que você deseja aprimorar ou limpar.",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Selecione Áreas para Remover",
+        "text": "Destaque os objetos que você deseja eliminar da imagem.",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Deixe a AI Fazer Sua Mágica",
+        "text": "Veja enquanto nossa AI preenche o fundo e completa a foto.",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Baixe a Imagem Aprimorada",
+        "text": "Receba sua imagem polida, pronta para uso em minutos.",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Aprimore Sua Primeira Imagem →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilidades Infinitas",
+    "description": "Ideal para qualquer necessidade de conteúdo visual",
+    "items": [
+      "Aprimoramento de fotos de produtos para e-commerce",
+      "Criando visuais de marketing cativantes",
+      "Restaurando imagens antigas com partes faltando",
+      "Desenhando publicações em redes sociais sem distrações",
+      "Melhorando fotos pessoais para festas e eventos",
+      "Criando imagens profissionais para apresentações",
+      "Otimização de visuais para sites e blogs",
+      "Aprimorando imagens imobiliárias para atrair compradores"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Descubra como as empresas estão transformando suas imagens com AI",
+    "items": [
+      {
+        "tag": "Varejo de Moda",
+        "heading": "Atualizações de Imagens para E-commerce",
+        "before": {
+          "label": "Antes",
+          "text": "Imagens desordenadas"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Limpa e profissional"
+        },
+        "value": "95%",
+        "key": "Melhoria na Qualidade da Imagem",
+        "description": "Nossas imagens de produtos agora parecem de primeira linha! Melhorias visuais instantâneas levaram a um aumento de 30% nas vendas online."
+      },
+      {
+        "tag": "Indústria de Viagens",
+        "heading": "Aprimoramento de Fotos de Hotéis",
+        "before": {
+          "label": "Antes",
+          "text": "Elementos distrativos"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Visuais impressionantes"
+        },
+        "value": "90%",
+        "key": "Aumento na Atração Visual",
+        "description": "Fotos aprimoradas nos permitiram apresentar nossas propriedades de forma mais eficaz, aumentando significativamente as reservas de hóspedes."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Modelos de Inpainting",
+    "description": "Escolha a abordagem certa para suas necessidades de inpainting",
+    "items": [
+      "Inpainting Padrão: Correções rápidas para remoção simples de objetos",
+      "Inpainting Avançado: Fundos complexos e detalhes intrincados",
+      "Preenchimento de Conteúdo Adaptativo: Ajusta-se perfeitamente ao ambiente",
+      "Interface amigável para todos os níveis de habilidade",
+      "Saídas em alta resolução que garantem preservação da qualidade",
+      "Brilhante correspondência de cores e reprodução de texturas"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de AI Relacionadas",
+    "description": "Explore soluções poderosas de AI para seus visuais"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo o que você precisa saber",
+    "items": [
+      {
+        "question": "Quais tipos de imagens funcionam melhor para AI Inpainting?",
+        "answer": "AI Inpainting funciona de forma ideal em imagens com assuntos e fundos claros. Imagens em alta resolução oferecem melhores resultados, mas a AI permanece eficaz em vários tipos, incluindo fotos de produtos e imagens pessoais."
+      },
+      {
+        "question": "Posso desfazer alterações feitas durante o inpainting?",
+        "answer": "Sim! Nossa plataforma permite que você reverta facilmente as alterações se não estiver satisfeito com o resultado. Você sempre pode re-editar a imagem para obter resultados diferentes."
+      },
+      {
+        "question": "É possível usar inpainting para processamento de imagens em lote?",
+        "answer": "Atualmente, o processamento em lote não é suportado, mas estamos trabalhando para introduzir esse recurso. Por enquanto, cada imagem deve ser processada individualmente."
+      },
+      {
+        "question": "Quão detalhado pode ser o processo de inpainting?",
+        "answer": "A AI foi projetada para lidar tanto com remoções simples de objetos quanto com fundos mais complexos, permitindo uma restauração de imagens excepcionalmente detalhada."
+      },
+      {
+        "question": "Posso aprimorar a qualidade após o inpainting?",
+        "answer": "Absolutamente! Você pode aplicar aprimoramentos adicionais usando nossa suíte de ferramentas para refinar ainda mais suas imagens após o inpainting."
+      },
+      {
+        "question": "Qual é o modelo de preços para AI Inpainting?",
+        "answer": "WaveSpeed opera em um modelo de pagamento conforme o uso, onde você paga apenas pelas imagens que aprimora. Não há assinaturas nem taxas ocultas."
+      },
+      {
+        "question": "Qual é o tempo de resposta usual para o inpainting?",
+        "answer": "O processo de inpainting normalmente leva apenas alguns minutos, graças à eficiência de nossas tecnologias de AI."
+      },
+      {
+        "question": "Recebo licenças comerciais para as imagens aprimoradas?",
+        "answer": "Sim! Todas as imagens aprimoradas através do WaveSpeed incluem direitos de uso comercial totais, permitindo que você as use livremente para marketing ou vendas."
+      },
+      {
+        "question": "Que tipo de suporte está disponível se eu encontrar problemas?",
+        "answer": "Fornecemos suporte robusto, incluindo guias abrangentes, tutoriais e uma equipe de suporte responsiva disponível por e-mail e chat."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Aprimorar Suas Imagens com AI?",
+    "description": "Comece com nossa plataforma amigável - Experimente a transformação",
+    "contactUsText": "Fale Conosco",
+    "tryText": "Comece Agora →"
+  },
+  "footer": {
+    "heading": "Transforme Suas Imagens Hoje!",
+    "description": "Experimente o WaveSpeed AI Inpainting e veja a diferença pessoalmente. Não é necessário registro.",
+    "ctaText": "Comece o Inpainting Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

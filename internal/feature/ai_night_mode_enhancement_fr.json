@@ -1,0 +1,230 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Amélioration du Mode Nuit de l'IA",
+  "meta": {
+    "description": "Élevez vos photos avec des effets de mode nuit époustouflants grâce à l'IA. Optimisez les images en faible luminosité pour le commerce électronique et les réseaux sociaux. Découvrez la différence avec la technologie innovante de WaveSpeed !",
+    "keywords": "Mode Nuit IA, amélioration d'image en faible luminosité, IA de retouche photo, optimisation d'image pour le commerce électronique, photographie nocturne, amélioration de photo pour réseaux sociaux, traitement d'image automatisé, WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Amélioration du Mode Nuit IA",
+    "subHeading": "Transformez Vos Images en Faible Luminosité Instantanément",
+    "description": "Améliorez vos images capturées dans des conditions de faible luminosité avec notre Amélioration du Mode Nuit IA. Parfait pour présenter vos produits et captiver votre audience. Élevez vos visuels sans effort. Essayez-le maintenant !",
+    "tryText": "Essayez-le maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution d'Amélioration du Mode Nuit IA de WaveSpeed",
+    "left": {
+      "heading": "Défis Traditionnels",
+      "items": [
+        "Photos de mauvaise qualité dans une faible lumière",
+        "Édits manuels prenant du temps",
+        "Logiciels complexes nécessaires pour les améliorations",
+        "Résultats incohérents d'une image à l'autre",
+        "Coûts élevés pour les services de retouche professionnels"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed IA",
+      "items": [
+        "Amélioration instantanée des photos en faible luminosité",
+        "Aucune compétence technique requise - Il suffit de télécharger vos images",
+        "Résultats alimentés par l'IA avec une qualité constante",
+        "Ajustements illimités et variations disponibles",
+        "Tarification abordable sans frais cachés"
+      ],
+      "tryText": "Essayer"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment Ça Marche",
+    "description": "Améliorez vos images en 4 étapes simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Télécharger l'Image",
+        "text": "Téléchargez votre photo en faible luminosité pour l'amélioration",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Sélectionner les Améliorations",
+        "text": "Choisissez les améliorations souhaitées comme la luminosité et le contraste",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Aperçu des Changements",
+        "text": "Voir un aperçu en temps réel de votre image améliorée",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Télécharger l'Image",
+        "text": "Obtenez votre photo améliorée prête à l'emploi en quelques minutes",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Améliorez Votre Première Image →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilités Infinies",
+    "description": "Transformez n'importe quelle image en un visuel époustouflant en faible lumière",
+    "items": [
+      "Photos de produits pour e-commerce pour une meilleure visibilité",
+      "Publications sur les réseaux sociaux qui se démarquent la nuit",
+      "Visuels marketing pour des événements nocturnes",
+      "Comparaisons avant/après pour un effet dramatique",
+      "Améliorations artistiques de photographie",
+      "Photos de nuit de biens immobiliers pour des annonces percutantes",
+      "Photographie de nourriture avec des couleurs vibrantes",
+      "Photographie de mode sous un éclairage nocturne"
+    ]
+  },
+  "successStories": {
+    "heading": "Véritables Histoires de Succès",
+    "description": "Découvrez comment le Mode Nuit IA change la donne pour les entreprises",
+    "items": [
+      {
+        "tag": "Photographie",
+        "heading": "Améliorations des Séances de Nuit pour E-commerce",
+        "before": {
+          "label": "Avant",
+          "text": "Terne et peu impressionnant"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Vibrant et accrocheur"
+        },
+        "value": "95%",
+        "key": "Amélioration de l'Attractivité",
+        "description": "Nos améliorations du mode nuit ont boosté l'attractivité des produits, entraînant une augmentation de 30% des taux de conversion du jour au lendemain."
+      },
+      {
+        "tag": "Immobilier",
+        "heading": "Annonces de Luxe avec Améliorations Nocturnes",
+        "before": {
+          "label": "Avant",
+          "text": "Mauvaise visibilité"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Visuels nocturnes époustouflants"
+        },
+        "value": "90%",
+        "key": "Augmentation des Demandes",
+        "description": "Des visuels nocturnes polis ont transformé nos annonces, attirant 50% de demandes supplémentaires de la part d'acheteurs potentiels."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison des Modèles IA",
+    "description": "Sélectionnez les meilleurs réglages pour vos améliorations du mode nuit",
+    "items": [
+      "Mode Standard : Réglages équilibrés pour des prises de nuit générales",
+      "Mode Expert : Ajustements avancés pour des résultats professionnels",
+      "Retour d'expérience en temps réel lors du traitement",
+      "Ajustements prédictifs basés sur les spécificités de la photo",
+      "Temps de traitement de 1 à 2 minutes",
+      "Droits complets d'utilisation commerciale des images améliorées"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils IA Connexes",
+    "description": "Découvrez d'autres outils IA innovants pour la photographie"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Comment fonctionne l'Amélioration du Mode Nuit IA ?",
+        "answer": "Notre IA analyse vos images en faible luminosité et applique des algorithmes avancés pour améliorer la luminosité, le contraste et les couleurs, offrant un rendu visuel frappant qui a l'air professionnel."
+      },
+      {
+        "question": "Quels types d'images bénéficient le plus de cette fonctionnalité ?",
+        "answer": "Les photos prises dans des conditions de faible luminosité, telles que les événements, les photos nocturnes en extérieur et les prises de vue en intérieur dans une faible lumière, tirent le meilleur parti de notre Amélioration du Mode Nuit."
+      },
+      {
+        "question": "Puis-je personnaliser les réglages d'amélioration ?",
+        "answer": "Oui ! Vous pouvez choisir différents niveaux et paramètres d'amélioration pour répondre à vos besoins et préférences spécifiques tout en prévisualisant les changements en temps réel."
+      },
+      {
+        "question": "Est-ce que c'est facile à utiliser pour les débutants ?",
+        "answer": "Absolument ! Le processus est convivial, conçu pour que quiconque puisse télécharger des images et obtenir des résultats époustouflants sans expérience préalable en retouche."
+      },
+      {
+        "question": "Quels formats d'image sont pris en charge pour l'amélioration ?",
+        "answer": "Nous prenons en charge divers formats, y compris JPG, PNG et TIFF. Assurez-vous que vos images sont de haute qualité pour obtenir les meilleurs résultats."
+      },
+      {
+        "question": "Y a-t-il des limitations sur le nombre d'images que je peux améliorer ?",
+        "answer": "Non ! Vous pouvez améliorer plusieurs images à la fois, et notre IA gère le traitement par lots de manière efficace."
+      },
+      {
+        "question": "Ai-je des droits commerciaux complets sur les images améliorées ?",
+        "answer": "Oui ! Toutes les images améliorées par notre service sont accompagnées de droits commerciaux complets, vous permettant de les utiliser librement dans vos projets."
+      },
+      {
+        "question": "Que faire si je rencontre des problèmes en utilisant l'outil ?",
+        "answer": "Nous fournissons des ressources étendues, y compris des tutoriels, des FAQ et une équipe de support dédiée pour vous aider avec tout défi."
+      },
+      {
+        "question": "Comment puis-je suivre les changements apportés à mes images ?",
+        "answer": "Vous verrez une comparaison claire avant-après pour chaque amélioration d'image, vous permettant d'évaluer l'impact des ajustements apportés."
+      },
+      {
+        "question": "Y a-t-il un frais d'abonnement pour utiliser les améliorations du mode nuit ?",
+        "answer": "Non ! Nos tarifs sont simples et basés sur les images que vous améliorez, sans frais récurrents."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Améliorer Vos Images ?",
+    "description": "Commencez avec des crédits gratuits et découvrez la magie de l'Amélioration du Mode Nuit IA",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Essayez-le maintenant →"
+  },
+  "footer": {
+    "heading": "Transformez Vos Photos en Faible Luminosité Maintenant !",
+    "description": "Découvrez la puissance de l'Amélioration du Mode Nuit IA avec WaveSpeed. Pas d'inscription requise.",
+    "ctaText": "Améliorez les Photos Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

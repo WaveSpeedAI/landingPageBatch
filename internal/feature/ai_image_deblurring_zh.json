@@ -1,0 +1,226 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI图像去模糊",
+  "meta": {
+    "description": "通过WaveSpeed AI的先进去模糊技术，轻松去除模糊，提升您的照片，适合电子商务、打印和高质量图像。只需点击几下，在WaveSpeed体验水晶般清晰的图像。",
+    "keywords": "AI图像去模糊, 照片增强工具, 清晰度恢复, 图像锐化, 电子商务照片工具, WaveSpeed AI, 高质量图像处理, 摄影改善, 图像清晰软件, 自动去模糊"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "主页",
+        "items": [
+          [
+            "主页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI工具",
+        "items": [
+          [
+            "AI工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即尝试"
+  },
+  "hero": {
+    "heading": "图像去模糊",
+    "subHeading": "恢复模糊照片的清晰度",
+    "description": "通过我们的先进AI技术，轻松去除模糊，复兴您的图像。适合产品列表、社交媒体和专业使用。立即体验令人惊叹的清晰度。",
+    "tryText": "立即尝试",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI图像去模糊解决方案",
+    "left": {
+      "heading": "传统挑战",
+      "items": [
+        "手动锐化方法可能耗时",
+        "专业图像编辑服务费用高昂",
+        "严重模糊图像的改善有限",
+        "需要高级技能和软件知识",
+        "处理大量照片时效率低下"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI解决方案",
+      "items": [
+        "立即去除任何图像的模糊",
+        "简单上传流程 - 不需要编辑技能",
+        "即使对于极度模糊也能高质量恢复",
+        "快速高效地处理批量图像",
+        "为企业量身定制的实惠定价选项"
+      ],
+      "tryText": "尝试"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "通过四个简单步骤获得水晶般清晰的图像",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传图像",
+        "text": "选择并上传您想要增强的模糊图像",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "选择去模糊级别",
+        "text": "根据需要选择去模糊的强度",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "预览调整",
+        "text": "在最终确定更改之前预览您的增强图像",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载增强图像",
+        "text": "几秒钟内获取您清晰锐利的图像",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "增强您的第一张图像 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无尽的可能性",
+    "description": "适用于各种应用",
+    "items": [
+      "恢复在线列表的产品图像",
+      "为营销活动增强照片",
+      "准备打印材料的图像",
+      "改善家庭和个人照片",
+      "为社交媒体帖子增强图像",
+      "复兴存档图像以供数字使用",
+      "锐化专业摄影",
+      "使教学视觉效果更加清晰"
+    ]
+  },
+  "successStories": {
+    "heading": "真实成功案例",
+    "description": "发现用户如何通过AI改变他们的图像",
+    "items": [
+      {
+        "tag": "电子商务",
+        "heading": "产品照片增强",
+        "before": {
+          "label": "之前",
+          "text": "由于模糊而无法使用"
+        },
+        "after": {
+          "label": "之后",
+          "text": "高质量清晰图像"
+        },
+        "value": "90%",
+        "key": "质量改善",
+        "description": "我们改造了产品照片，图像清晰度提高后，销售额增加了25%。"
+      },
+      {
+        "tag": "房地产",
+        "heading": "房产列表",
+        "before": {
+          "label": "之前",
+          "text": "模糊且缺乏吸引力"
+        },
+        "after": {
+          "label": "之后",
+          "text": "专业级的清晰度"
+        },
+        "value": "95%",
+        "key": "清晰度改善",
+        "description": "曾经让客户却步的图像，现在吸引了更多的浏览和咨询。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "去模糊技术比较",
+    "description": "为您的需求选择最佳处理方法",
+    "items": [
+      "标准去模糊：快速增强日常图像，适合轻微模糊",
+      "高级去模糊：对严重模糊进行深入处理，注重细节恢复",
+      "批量处理：同时处理多个图像以提高效率",
+      "调整时实时反馈以获得最佳效果",
+      "用户友好的界面以便于导航和使用",
+      "包含商业使用权"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关AI工具",
+    "description": "发现更多创新的AI工具来增强您的图像"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要了解的一切",
+    "items": [
+      {
+        "question": "哪些类型的图像可以去模糊？",
+        "answer": "大多数图像都可以处理，包括JPEG、PNG和TIFF格式。理想的候选图像包括产品照片、肖像、风景和任何需要锐化的图像。"
+      },
+      {
+        "question": "去模糊技术的效果如何？",
+        "answer": "我们的AI技术旨在显著改善图像清晰度，恢复在模糊中可能丢失的细节。效果可能会根据初始质量和模糊程度而有所不同。"
+      },
+      {
+        "question": "我可以比较前后图像吗？",
+        "answer": "可以！您可以立即预览增强效果，允许您在下载最终图像之前看到清晰度的改善。"
+      },
+      {
+        "question": "我可以去模糊的图像数量有限制吗？",
+        "answer": "没有，您可以去模糊任意数量的图像。我们的高效处理允许批量上传大项目。"
+      },
+      {
+        "question": "去模糊的周转时间是多长？",
+        "answer": "通常，处理只需几秒钟。具体时间可能会因模糊的复杂性和处理的图像数量而略有不同。"
+      },
+      {
+        "question": "是否有订阅费用？",
+        "answer": "没有，我们的服务采用按需付款的方式，意味着您只需为增强的图像付费。"
+      },
+      {
+        "question": "如何确保最佳效果？",
+        "answer": "为了获得最佳效果，请使用高分辨率图像，并在上传过程中尽量提供有关模糊类型的信息。"
+      },
+      {
+        "question": "我是否保留增强图像的所有权？",
+        "answer": "绝对可以！您保留通过我们的平台处理的所有图像的完整权利，可以自由用于任何项目。"
+      },
+      {
+        "question": "如果遇到问题，提供哪些支持？",
+        "answer": "我们提供广泛的支持，包括在线资源、文档和客户支持，以帮助您解决可能遇到的任何挑战。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备好复兴您的模糊图像吗？",
+    "description": "今天就开始使用我们的先进AI技术来增强您的照片。",
+    "contactUsText": "联系我们",
+    "tryText": "立即尝试 →"
+  },
+  "footer": {
+    "heading": "准备好增强您的图像吗？",
+    "description": "立即体验AI去模糊的威力，无需注册。",
+    "ctaText": "立刻去除模糊",
+    "text": "© 2025 WaveSpeed AI。版权所有。"
+  }
+}

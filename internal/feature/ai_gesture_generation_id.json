@@ -1,0 +1,221 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Generasi Gesture AI",
+  "meta": {
+    "description": "Tingkatkan presentasi produk Anda dengan Generasi Gesture AI. Ubah gambar statis menjadi gesture animasi yang menarik, sempurna untuk e-commerce dan pemasaran. Rasakan kreativitas tanpa batas dengan WaveSpeed.",
+    "keywords": "generasi gesture AI, gesture produk animasi, alat animasi e-commerce, solusi pemasaran AI, animasi showcase produk, fitur video interaktif, alat keterlibatan pengguna, animasi media sosial, presentasi berbasis AI, WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Gambar Statis ke Gesture Animasi",
+    "subHeading": "Hidupkan Produk Anda dengan Animasi Gesture",
+    "description": "Segera ubah gambar produk Anda menjadi gesture yang hidup dan menarik perhatian audiens Anda. Tidak perlu perangkat lunak yang rumit. Cukup unggah dan biarkan AI melakukan keajaiban. Temukan kekuatan animasi dengan WaveSpeed.",
+    "tryText": "Mulai Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Generasi Gesture AI WaveSpeed AI",
+    "left": {
+      "heading": "Tantangan Animasi Tradisional",
+      "items": [
+        "Animasi sering membutuhkan sumber daya dan waktu yang luas",
+        "Memerlukan perangkat lunak atau keterampilan khusus",
+        "Biaya produksi yang tinggi dan waktu yang lama",
+        "Kreativitas terbatas karena definisi statis",
+        "Tidak terjangkau untuk usaha kecil atau startup"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeedAI",
+      "items": [
+        "Hasilkan gesture animasi dalam hitungan detik",
+        "Tidak perlu ahli perangkat lunak - Unggah dengan mudah",
+        "Animasi instan didukung oleh AI canggih",
+        "Ekspresi kreatif yang tidak terbatas dan variasi",
+        "Model bayar-per-penggunaan yang terjangkau untuk semua"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Ubah gambar statis Anda menjadi gesture animasi dalam 4 langkah sederhana",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Gambar",
+        "text": "Unggah gambar produk atau layanan Anda",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Tentukan Gesture",
+        "text": "Deskripsikan gesture yang diinginkan (misalnya, \"melambaikan tangan dengan lembut\" atau \"melompat\")",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Pilih Gaya Animasi",
+        "text": "Pilih dari berbagai gaya untuk mencocokkan suasana merek Anda",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Pratinjau Animasi",
+        "text": "Saksikan animasi menjadi hidup secara waktu nyata",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Animasikan Gambar Pertama Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Animasi Tak Terbatas",
+    "description": "Sempurna untuk meningkatkan presentasi di berbagai industri",
+    "items": [
+      "Demonstrasi produk untuk e-commerce",
+      "Posting media sosial interaktif",
+      "Tutorial dan panduan animasi",
+      "Kampanye pemasaran yang menarik",
+      "Pameran animasi sebelum/setelah",
+      "Promosi dan iklan acara",
+      "Animasi lookbook fashion",
+      "Cerita dinamis untuk merek"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Temukan bagaimana merek meningkatkan keterlibatan dengan AI",
+    "items": [
+      {
+        "tag": "E-commerce",
+        "heading": "Animasi Retail Fashion",
+        "before": {
+          "label": "Sebelum",
+          "text": "Gambar statis"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Gesture animasi"
+        },
+        "value": "150%",
+        "key": "Peningkatan Keterlibatan",
+        "description": "Halaman produk kami berubah. Gesture meningkatkan interaksi pengguna dan waktu yang dihabiskan di situs sebesar 150%."
+      },
+      {
+        "tag": "Gadget Teknologi",
+        "heading": "Animasi Pameran Gadget",
+        "before": {
+          "label": "Sebelum",
+          "text": "Visual yang stagnan"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Animasi dinamis"
+        },
+        "value": "200%",
+        "key": "Peningkatan Konversi",
+        "description": "Gesture animasi secara signifikan meningkatkan konversi, memungkinkan kami untuk menampilkan fitur secara interaktif."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Gaya Animasi AI",
+    "description": "Pilih gaya animasi yang tepat untuk kebutuhan Anda",
+    "items": [
+      "Gesture Fluida: Gerakan alami dengan fisika realistis",
+      "Animasi Cepat: Gesture cepat dan tajam untuk keterlibatan tinggi",
+      "Gaya Beragam: Dari kemudahan penggunaan hingga animasi canggih",
+      "Umpan Balik Interaktif: Gesture yang bereaksi terhadap audiens",
+      "Animasi sederhana hingga kompleks yang cocok untuk konteks apa pun"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Jelajahi solusi AI tambahan yang kuat untuk bisnis Anda"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Semua yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Jenis gambar apa yang paling baik untuk generasi gesture?",
+        "answer": "Gambar produk berkualitas tinggi dengan latar belakang yang jelas menghasilkan hasil terbaik. Semakin tepat dan terang, semakin baik gesture animasi."
+      },
+      {
+        "question": "Dapatkah saya menyesuaikan gesture dan animasi?",
+        "answer": "Tentu saja! Anda dapat mendeskripsikan bagaimana Anda ingin animasi terlihat, menyesuaikannya secara spesifik untuk produk dan kebutuhan merek Anda."
+      },
+      {
+        "question": "Apakah pengalaman animasi sebelumnya diperlukan?",
+        "answer": "Tidak diperlukan pengalaman sebelumnya. Antarmuka intuitif kami memudahkan siapa saja untuk membuat animasi yang menakjubkan."
+      },
+      {
+        "question": "Seberapa cepat saya bisa menghasilkan gesture animasi?",
+        "answer": "Waktu generasi sangat cepat—biasanya dalam hitungan detik, memungkinkan alur kerja yang efisien dan iterasi cepat."
+      },
+      {
+        "question": "Apakah animasi yang dihasilkan memiliki hak komersial?",
+        "answer": "Ya! Anda mempertahankan semua hak komersial atas animasi yang dibuat, memungkinkan Anda menggunakannya di berbagai platform tanpa batasan."
+      },
+      {
+        "question": "Format apa yang tersedia untuk animasi?",
+        "answer": "Animasi dapat diekspor dalam berbagai format yang cocok untuk web, media sosial, dan platform digital lainnya."
+      },
+      {
+        "question": "Dapatkah saya membuat beberapa gesture sekaligus?",
+        "answer": "Ya, platform kami mendukung pemrosesan batch, memungkinkan Anda merancang dan menghasilkan beberapa gesture animasi secara bersamaan."
+      },
+      {
+        "question": "Layanan dukungan apa yang tersedia?",
+        "answer": "Kami menawarkan dokumentasi yang komprehensif, tutorial, dan tim dukungan untuk membantu dengan masalah teknis atau pertanyaan."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap Untuk Menganimasi Gambar Anda?",
+    "description": "Mulailah menggunakan kredit gratis Anda hari ini dan saksikan keajaiban animasi tersingkap",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Mulai Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap Untuk Meningkatkan Presentasi Anda?",
+    "description": "Coba WaveSpeed AI dan saksikan transformasi hari ini. Tidak perlu mendaftar.",
+    "ctaText": "Hasilkan Gesture Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi undang-undang."
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Kloning Suara AI untuk Video",
+  "meta": {
+    "description": "Revolusi konten video dengan kloning suara AI. Tingkatkan bercerita, libatkan audiens, dan permudah produksi. Sempurna untuk kreator dan pemasar. Alami masa depan video hari ini!",
+    "keywords": "kloning suara AI, pengsuaraan video, teknologi suara sintetis, audio untuk video, alat produksi video, solusi video pemasaran, peningkatan suara, penciptaan konten, alat bercerita, WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Kloning Suara untuk Video",
+    "subHeading": "Beri Suara pada Visual Anda dengan Realisme Yang Menakjubkan",
+    "description": "Tingkatkan konten video Anda dengan teknologi kloning suara AI canggih. Ubah skrip menjadi audio yang hidup, meningkatkan keterlibatan audiens dan bercerita. Mulailah hari ini dengan pilihan suara yang tak tertandingi!",
+    "tryText": "Coba Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Kloning Suara AI WaveSpeed AI untuk Video",
+    "left": {
+      "heading": "Tantangan Tradisional",
+      "items": [
+        "Produksi pengsuaraan bisa mahal ($100-1000 per proyek)",
+        "Memerlukan studio rekaman profesional dan peralatan",
+        "Pengeditan audio yang memakan waktu (1-3 hari)",
+        "Pilihan suara terbatas dan kustomisasi",
+        "Investasi tinggi untuk kreator kecil"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeedAI",
+      "items": [
+        "Buat pengsuaraan dalam hitungan menit dari skrip teks",
+        "Tidak memerlukan studio atau peralatan - Cukup ketik skrip Anda",
+        "Suara berkualitas tinggi dan realistis dengan variasi emosi",
+        "Kustomisasi suara tanpa batas dan variasi",
+        "Harga yang fleksibel - Terjangkau untuk semua"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Dari skrip ke audio dalam 4 langkah sederhana",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Input Teks",
+        "text": "Masukkan skrip video atau teks narasi Anda",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Pilih Suara",
+        "text": "Pilih suara yang sesuai dengan nada video Anda",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Sesuaikan Pengaturan",
+        "text": "Opsional: Ubah kecepatan, nada, dan emosi untuk suara",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Unduh Audio",
+        "text": "Dapatkan audio berkualitas tinggi siap disinkronkan dengan video Anda",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Hasilkan Audio Pertama Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kesempatan Tak Terbatas",
+    "description": "Ideal untuk berbagai proyek kreatif",
+    "items": [
+      "Narasi untuk video YouTube",
+      "Pengsuaraan untuk kursus online",
+      "Podcasting dan konten audio",
+      "Video pelatihan perusahaan",
+      "Konten pemasaran dan promosi",
+      "Bercerita di media sosial",
+      "Produksi audiobook",
+      "Dialog karakter video game"
+    ]
+  },
+  "successStories": {
+    "heading": "Cerita Sukses Nyata",
+    "description": "Temukan bagaimana kreator meningkatkan proyek mereka dengan kloning suara AI",
+    "items": [
+      {
+        "tag": "Platform E-Learning",
+        "heading": "Narasi Kursus Online",
+        "before": {
+          "label": "Sebelum",
+          "text": "500 jam"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "30 menit"
+        },
+        "value": "99.4%",
+        "key": "Waktu Disimpan",
+        "description": "Kami mengubah proses pembuatan kursus kami, secara signifikan mengurangi waktu sambil mempertahankan kualitas produksi yang tinggi."
+      },
+      {
+        "tag": "Agen Pemasaran",
+        "heading": "Video Promosi Produk",
+        "before": {
+          "label": "Sebelum",
+          "text": "$800 per video"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "$50 per video"
+        },
+        "value": "93.8%",
+        "key": "Pengurangan Biaya",
+        "description": "Video promosi kami sekarang menampilkan pengsuaraan kustom tanpa menguras anggaran, menghasilkan keterlibatan yang lebih tinggi."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Model Kloning Suara AI",
+    "description": "Pilih sintesis suara yang tepat untuk proyek Anda",
+    "items": [
+      "Suara Standar: Suara yang jelas dan alami untuk sebagian besar aplikasi",
+      "Suara Berbasis Emosi: Nada ekspresif untuk bercerita dan keterlibatan",
+      "Dukungan multi-bahasa untuk jangkauan global",
+      "Kecepatan dan nada yang dapat disesuaikan untuk penyampaian yang dipersonalisasi",
+      "Pembuatan pratanam waktu nyata",
+      "Hak penggunaan komersial termasuk"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Jelajahi lebih banyak alat AI inovatif untuk proyek Anda"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Semua yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Apa kualitas dan jenis suara yang tersedia?",
+        "answer": "Kami menawarkan berbagai suara sintetis berkualitas tinggi yang terdengar alami dan menarik. Pengguna dapat memilih dari berbagai aksen, jenis kelamin, dan nada untuk paling sesuai dengan konten mereka."
+      },
+      {
+        "question": "Bisakah saya menyesuaikan suara agar sesuai dengan gaya video saya?",
+        "answer": "Tentu saja! Anda dapat menyesuaikan nada, kecepatan, dan bahkan nada emosional untuk membuat pengsuaraan yang sempurna yang selaras dengan pesan video Anda."
+      },
+      {
+        "question": "Format apa saja yang bisa saya ekspor untuk pengsuaraan?",
+        "answer": "Audio yang dihasilkan dapat diekspor dalam beberapa format termasuk MP3 dan WAV untuk memenuhi kebutuhan pengeditan Anda."
+      },
+      {
+        "question": "Bagaimana cara menyinkronkan audio yang dihasilkan dengan video saya?",
+        "answer": "Anda dapat dengan mudah mengimpor file audio ke perangkat lunak pengeditan video Anda dan menyelaraskannya dengan visual Anda sesuai kebutuhan, sehingga prosesnya menjadi mulus."
+      },
+      {
+        "question": "Apakah ada batasan pada pembuatan audio?",
+        "answer": "Tidak ada batasan ketat; Anda dapat menghasilkan sebanyak mungkin file audio yang dibutuhkan. Namun, pengguna volume tinggi mungkin mendapatkan manfaat dari paket langganan kami."
+      },
+      {
+        "question": "Apa yang terjadi jika saya perlu revisi pada audio?",
+        "answer": "Anda dapat menghasilkan kembali audio dengan input yang dimodifikasi tanpa biaya tambahan, memungkinkan penyesuaian yang mudah untuk mendapatkan hasil yang diinginkan."
+      },
+      {
+        "question": "Apakah tersedia percobaan gratis?",
+        "answer": "Ya! Pengguna baru dapat menikmati percobaan gratis yang menawarkan kredit untuk menguji kemampuan kloning suara sebelum berkomitmen pada pembelian."
+      },
+      {
+        "question": "Apa yang harus saya lakukan jika mengalami masalah selama pembuatan audio?",
+        "answer": "Tim dukungan kami tersedia melalui email dan obrolan langsung untuk membantu dengan pertanyaan atau kesulitan teknis yang mungkin Anda alami."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Membuat Pengsuaraan AI Pertama Anda?",
+    "description": "Mulai dengan kredit gratis - Rasakan perbedaannya sekarang",
+    "contactUsText": "Kontak Kami",
+    "tryText": "Coba Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap untuk Meningkatkan Video Anda?",
+    "description": "Coba WaveSpeed AI sekarang dan temukan kekuatan kloning suara. Tidak perlu mendaftar.",
+    "ctaText": "Mulai Kloning Suara Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi."
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Eliminador de Ruido de Fondo",
+  "meta": {
+    "description": "Elimine el ruido de fondo no deseado de sus grabaciones de audio al instante con tecnología de IA. Perfecto para podcasters, creadores de video y músicos. Mejore la calidad de su sonido sin esfuerzo con WaveSpeed AI!",
+    "keywords": "eliminador de ruido de fondo, IA de mejora de audio, mejora de calidad de sonido, herramientas de edición de podcast, limpieza de audio de video, cancelación de ruido, procesamiento de audio con IA, herramientas de audio profesional, limpiador de audio para producción musical, software de edición de sonido"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas de IA",
+        "items": [
+          [
+            "Herramientas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Muestra",
+        "items": [
+          [
+            "Muestra",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Prúebalo ahora"
+  },
+  "hero": {
+    "heading": "Claridad de Audio Redefinida",
+    "subHeading": "Elimine el Ruido de Fondo al Instante",
+    "description": "Mejore la calidad de sus grabaciones de audio eliminando eficientemente el ruido de fondo en segundos. Ya sea para podcasts, videos o música, nuestra tecnología de IA ofrece un sonido prístino. Diga adiós a los sonidos distractores y hola a un audio cristalino.",
+    "tryText": "Eliminar Ruido Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución Eliminador de Ruido de Fondo WaveSpeed AI",
+    "left": {
+      "heading": "Métodos de Limpieza Tradicionales",
+      "items": [
+        "Edición manual que consume tiempo",
+        "Requiere software costoso",
+        "Se necesitan habilidades complejas de edición de audio",
+        "Efectividad limitada en ruidos persistentes",
+        "Alto costo de servicios de audio profesionales"
+      ]
+    },
+    "right": {
+      "heading": "Solución WaveSpeed AI",
+      "items": [
+        "Elimina instantáneamente el ruido de fondo no deseado en segundos",
+        "Interfaz fácil de usar - No se requieren habilidades técnicas",
+        "Alcance una calidad de sonido profesional automáticamente",
+        "Limpie sin esfuerzo múltiples pistas de audio a la vez",
+        "Modelo de pago por uso rentable para todos los usuarios"
+      ],
+      "tryText": "Prueba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "Logre un audio impecable en 4 sencillos pasos",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Cargar Audio",
+        "text": "Seleccione su archivo de audio con ruido de fondo.",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Elegir Perfil de Ruido",
+        "text": "Seleccione el tipo de ruido que desea eliminar (por ejemplo, zumbido, siseo).",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Ejecutar Procesamiento",
+        "text": "Deje que la IA analice y limpie su audio en segundos.",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Descargar Audio Limpio",
+        "text": "Reciba su archivo de audio mejorado listo para usar!",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Comience Ahora →"
+  },
+  "endlessPossibilities": {
+    "heading": "Aplicaciones Incontables",
+    "description": "Ideal para varios proyectos e industrias",
+    "items": [
+      "Producción y edición de podcasts",
+      "Mejora de sonido de video para creadores",
+      "Producción y mastering musical",
+      "Refinamiento de audio para voces en off",
+      "Grabaciones de seminarios web y cursos en línea",
+      "Grabaciones de campo y entrevistas",
+      "Mejora de audio para transmisiones",
+      "Corrección de sonido para eventos en vivo"
+    ]
+  },
+  "successStories": {
+    "heading": "Transformaciones Exitosas",
+    "description": "Descubre cómo los usuarios están elevando su audio con IA",
+    "items": [
+      {
+        "tag": "Podcasting",
+        "heading": "Programa de Podcast Popular",
+        "before": {
+          "label": "Antes",
+          "text": "Charlas de fondo durante todo el tiempo"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Sonido claro y profesional"
+        },
+        "value": "98.5%",
+        "key": "Reducción de Ruido",
+        "description": "Nuestro crecimiento de podcast se disparó después de implementar la eliminación de ruido con IA. ¡A los oyentes les encanta la experiencia de audio mejorada!"
+      },
+      {
+        "tag": "Producción Musical",
+        "heading": "Músico Indie",
+        "before": {
+          "label": "Antes",
+          "text": "Ahogado por ruido ambiental"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Calidad de sonido pura y rica"
+        },
+        "value": "95%",
+        "key": "Mejora de Calidad",
+        "description": "Elevar nuestras pistas con IA ha transformado nuestra comercialización, haciéndonos competitivos en la industria."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Tecnología de Eliminación de Ruido",
+    "description": "Seleccione la mejor tecnología para sus necesidades",
+    "items": [
+      "Cancelación de Ruido Adaptativa: Análisis en profundidad, óptima para sonidos complejos",
+      "Reducción Simple: Rápida y efectiva para ruido de fondo sencillo",
+      "Configuraciones personalizables para preferencias personales",
+      "Procesamiento por lotes para múltiples archivos simultáneamente",
+      "Resultados inmediatos con calidad de audio sin pérdidas mantenida"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas de IA Relacionadas",
+    "description": "Explore soluciones adicionales de IA para una calidad de audio mejorada"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesita saber",
+    "items": [
+      {
+        "question": "¿Qué tipos de ruido puede manejar el eliminador?",
+        "answer": "Nuestra tecnología elimina efectivamente una variedad de ruidos de fondo, incluidos zumbidos, siseos, ruido de viento y otros sonidos no deseados en diferentes entornos."
+      },
+      {
+        "question": "¿Puedo ajustar la sensibilidad de la eliminación de ruido?",
+        "answer": "¡Sí! Puede personalizar el perfil de ruido para dirigirse a frecuencias específicas para una claridad de audio óptima según las necesidades de su grabación."
+      },
+      {
+        "question": "¿Necesito habilidades avanzadas para usar esta función?",
+        "answer": "¡No! La interfaz fácil de usar permite que cualquier persona, independientemente de su experiencia técnica, mejore su audio sin esfuerzo."
+      },
+      {
+        "question": "¿Qué formatos de audio son compatibles?",
+        "answer": "Soportamos todos los formatos de audio estándar, incluidos MP3, WAV, AAC y más, asegurando compatibilidad con sus archivos existentes."
+      },
+      {
+        "question": "¿Cuánto tiempo toma procesar mi audio?",
+        "answer": "El procesamiento suele ser instantáneo, permitiéndole limpiar sus archivos de audio en solo segundos!"
+      },
+      {
+        "question": "¿Puedo usar la herramienta para audio en vivo?",
+        "answer": "¡Sí! Nuestra tecnología también se puede integrar para mejorar el sonido en vivo en escenarios en tiempo real."
+      },
+      {
+        "question": "¿Hay un límite en el tamaño de los archivos de audio?",
+        "answer": "No hay límites estrictos, pero los archivos más grandes pueden tardar un poco más en procesarse dependiendo de su complejidad."
+      },
+      {
+        "question": "¿Se conservará la calidad de mi audio?",
+        "answer": "¡Absolutamente! Nuestra tecnología mantiene la calidad original mientras elimina el ruido no deseado, proporcionando un sonido limpio y profesional."
+      },
+      {
+        "question": "¿Qué opciones de precios están disponibles?",
+        "answer": "Ofrecemos un modelo de precios flexible de pago por uso sin tarifas ocultas. Solo paga por el audio que procesa."
+      },
+      {
+        "question": "¿Qué soporte está disponible si encuentro problemas?",
+        "answer": "Proporcionamos documentación extensa, tutoriales y soporte al cliente para ayudarle con cualquier desafío que pueda enfrentar."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Limpiar Su Audio?",
+    "description": "¡Comience a transformar su calidad de sonido hoy con créditos gratuitos!",
+    "contactUsText": "Contáctenos",
+    "tryText": "Eliminar Ruido Ahora →"
+  },
+  "footer": {
+    "heading": "¡Transforma Tu Audio Con Facilidad!",
+    "description": "Experimente la claridad de WaveSpeed AI ahora sin compromiso. Solo suba su audio.",
+    "ctaText": "Eliminar Ruido Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

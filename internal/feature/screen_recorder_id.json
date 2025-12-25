@@ -1,0 +1,226 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Perekam Layar AI",
+  "meta": {
+    "description": "Tangkap layar Anda dengan mudah menggunakan fitur perekaman layar yang kuat dari WaveSpeed AI. Ideal untuk tutorial, presentasi, dan streaming, semua didukung oleh teknologi AI canggih. Alami perekaman tanpa hambatan dari perangkat lunak yang kompleks.",
+    "keywords": "perekam layar, tangkapan layar AI, alat perekaman video, perekaman tutorial, perekaman presentasi, tangkapan layar tanpa batas, streaming, video pendidikan, demo perangkat lunak, tutorial online, video pemasaran"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Perekaman Layar Menjadi Mudah",
+    "subHeading": "Tangkap, Bagikan, dan Inspirasi",
+    "description": "Rekam layar Anda dengan mudah untuk tutorial, demo produk, atau presentasi. Manfaatkan fitur cerdas dari WaveSpeed AI untuk meningkatkan perekaman Anda dan membagikan pengetahuan Anda dengan efektif. Mulai merekam sekarang!",
+    "tryText": "Mulai Merekam",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Perekam Layar WaveSpeed AI",
+    "left": {
+      "heading": "Tantangan Perekaman Tradisional",
+      "items": [
+        "Pengaturan perangkat lunak yang kompleks",
+        "Peralatan perekaman yang mahal",
+        "Pengeditan yang memakan waktu",
+        "Kinerja lambat dan kualitas rendah",
+        "Pilihan berbagi yang terbatas"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeed AI",
+      "items": [
+        "Rekam video berkualitas tinggi dengan sekali klik",
+        "Tidak perlu perangkat lunak tambahan—langsung mulai merekam",
+        "Operasi mulus dengan kinerja yang ditingkatkan AI",
+        "Pilihan berbagi yang mudah ke berbagai platform",
+        "Model pembayaran per penggunaan yang terjangkau untuk semua"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Rekam layar Anda dalam 4 langkah sederhana",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Pilih Area untuk Direkam",
+        "text": "Pilih layar penuh atau jendela tertentu untuk perekaman",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Sesuaikan Pengaturan",
+        "text": "Atur preferensi audio, kualitas, dan opsi format",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Mulai Merekam",
+        "text": "Inisiasi dengan sekali klik untuk menangkap layar dengan segera",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Simpan dan Bagikan",
+        "text": "Unduh video Anda atau bagikan langsung ke media sosial",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Rekam Video Pertama Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Aplikasi Perekaman yang Serbaguna",
+    "description": "Sempurna untuk berbagai kasus penggunaan",
+    "items": [
+      "Buat tutorial dan kursus pendidikan",
+      "Rekam demo perangkat lunak dan presentasi",
+      "Streaming sesi permainan dengan mudah",
+      "Berikan dukungan pelanggan melalui panduan visual",
+      "Tangkap webinar untuk ditonton nanti",
+      "Hasilkan video pemasaran dan iklan",
+      "Buat video instruksional untuk produk",
+      "Dokumentasikan pengaturan teknologi atau tips pemecahan masalah"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Lihat bagaimana pengguna memanfaatkan perekaman layar",
+    "items": [
+      {
+        "tag": "Pendidikan",
+        "heading": "Peningkatan Pembelajaran Jarak Jauh",
+        "before": {
+          "label": "Sebelum",
+          "text": "Sulit untuk melibatkan siswa"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Tutorial interaktif"
+        },
+        "value": "75%",
+        "key": "Peningkatan Keterlibatan",
+        "description": "Instruktur merekam pelajaran video yang menarik yang meningkatkan partisipasi dan pemahaman siswa."
+      },
+      {
+        "tag": "Pelatihan Perusahaan",
+        "heading": "Proses Orientasi yang Efektif",
+        "before": {
+          "label": "Sebelum",
+          "text": "5 jam per peserta pelatihan"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "1 jam per peserta pelatihan"
+        },
+        "value": "80%",
+        "key": "Waktu yang Dihemat",
+        "description": "Pelatihan yang terarah dengan sesi yang direkam memungkinkan karyawan baru belajar dengan kecepatan mereka sendiri, secara drastis mengurangi waktu orientasi."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Perekam Layar",
+    "description": "Pilih pengaturan perekaman yang tepat untuk kebutuhan Anda",
+    "items": [
+      "Perekaman Standar: kualitas 1080p, tangkapan audio, dan pengaturan fleksibel",
+      "Mode Kinerja Tinggi: Optimalkan untuk sesi permainan dengan frame rate tinggi",
+      "Mode Ringan: Cepat dan mudah, cocok untuk klip pendek dan tutorial",
+      "Input Audio Kustom: Rekam audio sistem atau mikrofon secara terpisah",
+      "Tanpa lag: Pastikan perekaman yang mulus dan tanpa gangguan",
+      "Fitur pengeditan yang mudah termasuk"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Jelajahi alat tambahan untuk meningkatkan pembuatan video"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Semua yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Kualitas video apa yang bisa saya rekam?",
+        "answer": "Anda dapat merekam hingga kualitas 1080p dengan opsi untuk menyesuaikan pengaturan berdasarkan kebutuhan Anda. Ini memastikan visual yang jelas dan audio berkualitas tinggi untuk setiap jenis perekaman."
+      },
+      {
+        "question": "Bisakah saya menyertakan suara saya atau audio lain dalam perekaman?",
+        "answer": "Ya! Anda memiliki kemampuan untuk memilih sumber audio, termasuk input mikrofon di samping audio sistem, yang memungkinkan presentasi yang menyeluruh dan menarik."
+      },
+      {
+        "question": "Apakah mudah untuk membagikan perekaman?",
+        "answer": "Tentu saja! Setelah merekam, Anda dapat dengan mudah mengunduh video Anda, atau membagikannya langsung ke media sosial dan platform lain tanpa kesulitan."
+      },
+      {
+        "question": "Bisakah saya merekam berkali-kali tanpa kehilangan kualitas?",
+        "answer": "Ya! Anda dapat melakukan sebanyak mungkin perekaman yang Anda butuhkan, setiap kali mempertahankan output kualitas tertinggi tanpa degradasi."
+      },
+      {
+        "question": "Apa model harga untuk menggunakan perekam layar?",
+        "answer": "Kami beroperasi dengan model harga bayar sesuai pemakaian, memastikan Anda hanya membayar untuk rekaman yang Anda buat tanpa biaya tersembunyi atau langganan."
+      },
+      {
+        "question": "Berapa lama waktu yang dibutuhkan untuk mulai merekam?",
+        "answer": "Memulai sangat cepat! Dengan hanya satu klik, Anda dapat mulai menangkap layar Anda dalam hitungan detik."
+      },
+      {
+        "question": "Apa saja kasus penggunaan terbaik untuk perekaman layar?",
+        "answer": "Perekaman layar sempurna untuk tujuan pendidikan, demonstrasi produk, dukungan real-time, video pemasaran, dan banyak lagi!"
+      },
+      {
+        "question": "Apakah saya memiliki hak atas video yang saya rekam?",
+        "answer": "Ya! Semua video yang dibuat adalah milik Anda dengan hak komersial penuh, memungkinkan penggunaan di berbagai platform tanpa biaya tambahan."
+      },
+      {
+        "question": "Dukungan apa yang tersedia jika saya mengalami masalah?",
+        "answer": "Kami menyediakan dukungan yang luas termasuk dokumentasi terperinci, tutorial video, dan tim dukungan yang responsif siap membantu dengan pertanyaan teknis."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Mulai Menangkap Layar Anda?",
+    "description": "Rasakan kemudahan Perekam Layar WaveSpeed AI hari ini!",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Mulai Merekam Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap untuk Mengubah Tangkapan Layar Anda?",
+    "description": "Coba WaveSpeed AI sekarang dan lihat perbedaannya sendiri. Tidak diperlukan pendaftaran.",
+    "ctaText": "Mulai Merekam Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi."
+  }
+}

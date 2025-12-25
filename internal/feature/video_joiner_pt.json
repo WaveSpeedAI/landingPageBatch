@@ -1,0 +1,221 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Juntador de Vídeos AI",
+  "meta": {
+    "description": "Combine várias partes de vídeo em uma narrativa coesa e envolvente com AI. Perfeito para criadores de conteúdo, marketers e educadores que buscam aprimorar seus projetos de vídeo sem esforço. Experimente o futuro da edição de vídeo com WaveSpeed AI!",
+    "keywords": "juntador de vídeos AI, ferramenta de edição de vídeo, mesclar clipes de vídeo, aplicativo de vídeo AI, ferramenta de criação de conteúdo, juntador de vídeos para marketing, editor de vídeo educacional, transições de vídeo sem problemas, montagem de vídeo automatizada, ferramenta de narrativa de vídeo"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas AI",
+        "items": [
+          [
+            "Ferramentas AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Demonstração",
+        "items": [
+          [
+            "Demonstração",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Juntador de Vídeos",
+    "subHeading": "Mescle Seus Vídeos Sem Esforço",
+    "description": "Combine vídeos com transições e efeitos impressionantes em poucos cliques. Nenhum software de edição complexo é necessário. Perfeito para criadores de conteúdo, marketers e educadores. Transforme seus projetos de vídeo hoje!",
+    "tryText": "Junte Seus Vídeos Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução Juntador de Vídeos WaveSpeed AI",
+    "left": {
+      "heading": "Obstáculos da Edição Tradicional",
+      "items": [
+        "Software de edição complexo necessário",
+        "Cortes e transições manuais que consomem tempo",
+        "Exige habilidades e experiência técnica",
+        "Flexibilidade criativa limitada com transições",
+        "Opções de edição freelancer caras"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeed AI",
+      "items": [
+        "Mescle vídeos instantaneamente com um clique",
+        "Nenhuma experiência de edição necessária - Basta enviar clipes",
+        "Transições automatizadas para um acabamento polido",
+        "Possibilidades criativas infinitas com estilos e efeitos",
+        "Preços acessíveis sob demanda - Perfeito para todos"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "Mescle seus vídeos em 4 etapas simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Enviar Vídeos",
+        "text": "Envie os clipes de vídeo que deseja juntar",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Escolher Transições",
+        "text": "Selecione as transições e efeitos a aplicar entre os clipes",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Organizar Clipes",
+        "text": "Arraste e solte para organizar os clipes na ordem desejada",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Baixar Vídeo Final",
+        "text": "Receba seu vídeo mesclado em qualidade HD instantaneamente",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Crie Seu Primeiro Vídeo →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilidades Infinitas com Juntador de Vídeos",
+    "description": "Ideal para qualquer estilo ou propósito de conteúdo",
+    "items": [
+      "Vlogs e histórias pessoais",
+      "Vídeos promocionais de marketing",
+      "Montagens de tutoriais educacionais",
+      "Destaques e resumos de eventos",
+      "Compilações de vídeos para redes sociais",
+      "Demonstrações e mostras de produtos",
+      "Vídeos de viagem",
+      "Conteúdo de canais do YouTube"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Descubra como os usuários transformam seu conteúdo de vídeo sem esforço",
+    "items": [
+      {
+        "tag": "Influenciador de Mídia Social",
+        "heading": "Destaques de Vídeo do Instagram",
+        "before": {
+          "label": "Antes",
+          "text": "Processo de edição tedioso"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Compilação de vídeo sem costura"
+        },
+        "value": "95%",
+        "key": "Tempo Economizado",
+        "description": "Com o Juntador de Vídeos, consegui criar reels de destaques impactantes em minutos em vez de horas!"
+      },
+      {
+        "tag": "E-Learning",
+        "heading": "Introduções de Cursos Online",
+        "before": {
+          "label": "Antes",
+          "text": "Software complicado"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Juntar vídeos fácil"
+        },
+        "value": "98%",
+        "key": "Melhoria de Eficiência",
+        "description": "Transformar materiais de curso em apresentações de vídeo coesas se tornou fácil. O engajamento dos nossos alunos disparou!"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Métodos de Juntagem de Vídeo",
+    "description": "Selecione o estilo de juntagem perfeito para suas necessidades",
+    "items": [
+      "Juntagem Padrão: Mesclagem rápida de clipes com transições básicas",
+      "Juntagem Suave: Edições sem costura com transições graduais para resultados profissionais",
+      "Juntagem Temática: Estilos únicos para vídeos de marca",
+      "Juntagem Inteligente: Ajustes aprimorados por AI com base no gênero do conteúdo",
+      "Juntagem em Lote: Combine vários clipes em massa com automação"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas AI Relacionadas",
+    "description": "Descubra mais ferramentas poderosas de AI para criação de vídeo"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo o que você precisa saber",
+    "items": [
+      {
+        "question": "Quais formatos de vídeo posso usar com o Juntador de Vídeos?",
+        "answer": "Você pode enviar vários formatos, incluindo MP4, MOV e AVI. Nossa plataforma suporta resoluções padrão e mantém qualidade durante a mesclagem."
+      },
+      {
+        "question": "Existem limites de comprimento ou tamanho de vídeo ao juntar?",
+        "answer": "Não há limites rígidos, mas para desempenho ótimo, recomendamos clipes com menos de 10 minutos e 2GB de tamanho para um processamento suave."
+      },
+      {
+        "question": "Posso adicionar música de fundo aos meus vídeos mesclados?",
+        "answer": "Sim! Você pode enviar trilhas de áudio ou escolher em nossa biblioteca de músicas royalty-free para aprimorar seus vídeos."
+      },
+      {
+        "question": "É possível editar os vídeos após juntá-los?",
+        "answer": "Atualmente, o Juntador de Vídeos foca na mesclagem. Para edições, você pode usar nossa ferramenta de edição após mesclar seus clipes."
+      },
+      {
+        "question": "Quão rápida é o processo de juntar vídeos?",
+        "answer": "Juntar vídeos normalmente leva apenas alguns minutos, dependendo do comprimento e complexidade dos vídeos a serem mesclados."
+      },
+      {
+        "question": "Eu mantenho a propriedade do conteúdo de vídeo que crio?",
+        "answer": "Absolutamente! Todos os vídeos criados com nosso Juntador de Vídeos são seus para usar, compartilhar e monetizar sem problemas de direitos autorais."
+      },
+      {
+        "question": "Posso juntar vídeos de diferentes fontes?",
+        "answer": "Sim, você pode enviar vídeos de várias fontes, incluindo seu dispositivo, armazenamento em nuvem e mais para uma compilação fácil."
+      },
+      {
+        "question": "Que tipo de suporte está disponível se eu encontrar problemas?",
+        "answer": "Nossa equipe de suporte está disponível via chat e e-mail. Também oferecemos guias, FAQs e uma comunidade de usuários para ajuda adicional."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Mesclar Seus Vídeos?",
+    "description": "Comece a usar o Juntador de Vídeos hoje - Experimente a simplicidade da mesclagem sem esforço!",
+    "contactUsText": "Entre em Contato",
+    "tryText": "Junte Seus Vídeos Agora →"
+  },
+  "footer": {
+    "heading": "Pronto para Transformar Seus Projetos de Vídeo?",
+    "description": "Experimente o WaveSpeed AI agora e veja a diferença por si mesmo. Nenhuma inscrição necessária.",
+    "ctaText": "Junte Seus Vídeos Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

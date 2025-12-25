@@ -1,0 +1,222 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - AI Outpainting",
+  "meta": {
+    "description": "Revolusikan proses kreatif Anda dengan AI Outpainting. Perpanjang gambar Anda dengan mudah dan buat visual yang menakjubkan. Ideal untuk seniman, desainer, dan pemasar yang ingin meningkatkan gambar mereka dengan teknologi AI. Lepaskan kreativitas Anda sekarang!",
+    "keywords": "AI outpainting, perpanjangan gambar, peningkatan kreatif, alat gambar AI, desain artistik, seni digital, visual pemasaran, gambar e-commerce, transformasi karya seni, alat WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "AI Outpainting",
+    "subHeading": "Transformasi Gambar Anda Seperti Tidak Pernah Sebelumnya",
+    "description": "Tingkatkan gambar Anda dengan memperpanjangnya secara mulus menggunakan AI. Buat visual menakjubkan yang memikat dan menginspirasi tanpa memerlukan keterampilan desain tingkat lanjut. Alami kekuatan AI Outpainting – sempurna untuk seniman, pemasar, dan pencipta. Bawa gambar Anda lebih jauh!",
+    "tryText": "Coba Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi AI Outpainting WaveSpeed AI",
+    "left": {
+      "heading": "Tantangan Tradisional",
+      "items": [
+        "Pengeditan gambar memerlukan keterampilan dan perangkat lunak yang luas",
+        "Proses yang memakan waktu dengan hasil yang terbatas",
+        "Biaya tinggi terkait desain profesional",
+        "Kesulitan menciptakan visual yang kohesif di berbagai format",
+        "Hambatan kreatif menghalangi alur kerja"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeed AI",
+      "items": [
+        "Perpanjang gambar dengan mudah untuk menciptakan visual yang luas",
+        "Tidak perlu keterampilan desain - Cukup unggah gambar Anda",
+        "Peningkatan yang dihasilkan AI secara instan untuk hasil yang menakjubkan",
+        "Kemungkinan kreatif tak terbatas dan iterasi",
+        "Harga terjangkau untuk setiap anggaran"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Transformasi gambar Anda dalam 4 langkah sederhana",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Gambar Anda",
+        "text": "Pilih gambar yang ingin Anda tingkatkan atau perpanjang",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Tentukan Visi Anda",
+        "text": "Opsional: Deskripsikan apa yang ingin Anda tambahkan atau perpanjang",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Pilih Gaya Seni",
+        "text": "Pilih dari berbagai gaya artistik yang sesuai dengan kebutuhan Anda",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Unduh Gambar yang Ditingkatkan",
+        "text": "Terima gambar yang telah Anda transformasi dalam hitungan menit",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Hasilkan Gambar Pertama Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Tak Terbatas",
+    "description": "Sempurna untuk setiap usaha kreatif",
+    "items": [
+      "Perpanjangan karya seni atau mural",
+      "Peningkatan gambar produk e-commerce",
+      "Proyek desain grafis",
+      "Ekspansi konten media sosial",
+      "Materi cetak dan publikasi",
+      "Visual dan spanduk situs web",
+      "Gambar acara dan iklan",
+      "Seni konsep dan ilustrasi"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Temukan bagaimana para pencipta mengubah gambar mereka dengan AI",
+    "items": [
+      {
+        "tag": "Seni Permainan",
+        "heading": "Seni Konsep Permainan Epik",
+        "before": {
+          "label": "Sebelum",
+          "text": "Latar belakang dasar"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Lanskap yang hidup dan diperpanjang"
+        },
+        "value": "150%",
+        "key": "Daya Tarik Visual",
+        "description": "Peningkatan menghidupkan lingkungan kami, yang mengarah pada keterlibatan dan minat yang lebih tinggi dalam permainan kami."
+      },
+      {
+        "tag": "E-commerce",
+        "heading": "Perpanjangan Fotografi Produk",
+        "before": {
+          "label": "Sebelum",
+          "text": "Gambar produk sederhana"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Visual dinamis dan detail"
+        },
+        "value": "200%",
+        "key": "Peningkatan Penjualan",
+        "description": "Kami mengubah potret produk menjadi pengalaman yang imersif, secara signifikan meningkatkan pembelian pelanggan."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Gaya AI Outpainting",
+    "description": "Pilih gaya yang tepat untuk kebutuhan visioner Anda",
+    "items": [
+      "Impresionis: Sapuan lembut yang dicampur untuk tampilan yang mimpi",
+      "Realistis: Tepi tajam dan warna cerah untuk peningkatan yang realistis",
+      "Surealis: Desain unik dengan elemen imajinatif",
+      "Fantasi: Adegan dari dunia lain yang memikat penonton",
+      "Minimalis: Peningkatan bersih dan sederhana yang fokus pada subjek",
+      "Abstrak: Ekspresi kreatif yang mendorong batasan"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Jelajahi lebih banyak alat inovatif untuk proyek kreatif Anda"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Semua yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Tipe file gambar apa yang dapat saya gunakan dengan AI Outpainting?",
+        "answer": "AI Outpainting mendukung format JPG, PNG, dan WebP. Untuk hasil terbaik, gambar harus besar dan jelas, idealnya 1024x1024 piksel atau lebih."
+      },
+      {
+        "question": "Bisakah saya menyesuaikan bagaimana AI meningkatkan gambar saya?",
+        "answer": "Ya! Anda dapat memberikan deskripsi tentang apa yang ingin Anda tambahkan atau bagaimana Anda ingin gambar diperpanjang untuk hasil yang disesuaikan."
+      },
+      {
+        "question": "Seberapa cepat saya bisa mengharapkan gambar yang saya tingkatkan?",
+        "answer": "Sebagian besar transformasi selesai dalam beberapa menit, memungkinkan alur kerja yang efisien untuk memaksimalkan produktivitas Anda."
+      },
+      {
+        "question": "Apakah ada batasan pada kualitas output?",
+        "answer": "Kualitas output akan mempertahankan resolusi gambar asli Anda sambil meningkatkan untuk menciptakan efek visual yang menakjubkan."
+      },
+      {
+        "question": "Bisakah saya menggunakan gambar yang telah diperoleh secara komersial?",
+        "answer": "Ya! Semua gambar yang dihasilkan melalui WaveSpeed AI termasuk hak penggunaan komersial, memungkinkan kebebasan kreatif penuh untuk proyek Anda."
+      },
+      {
+        "question": "Dukungan apa yang tersedia jika saya menghadapi masalah?",
+        "answer": "Kami menawarkan dokumentasi yang komprehensif, tutorial, dan dukungan melalui email dan obrolan langsung untuk membantu dengan tantangan teknis apapun."
+      },
+      {
+        "question": "Apakah ada cara untuk menguji perangkat lunak sebelum berkomitmen?",
+        "answer": "Ya! Pengguna baru menerima kredit gratis untuk menjelajahi AI Outpainting, memungkinkan Anda mengalami kemampuannya tanpa komitmen."
+      },
+      {
+        "question": "Bagaimana AI Outpainting dapat memberi manfaat pada alur kerja saya?",
+        "answer": "Teknologi ini memungkinkan peningkatan kreatif yang cepat, secara signifikan mengurangi waktu dan usaha yang diperlukan untuk pengeditan gambar tradisional."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Mengubah Gambar Anda?",
+    "description": "Mulai membuat visual menakjubkan sekarang dengan kredit gratis",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Coba Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap untuk Meningkatkan Foto Anda?",
+    "description": "Coba WaveSpeed AI sekarang dan alami keajaibannya. Tidak diperlukan pendaftaran.",
+    "ctaText": "Mulai Outpainting Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi."
+  }
+}

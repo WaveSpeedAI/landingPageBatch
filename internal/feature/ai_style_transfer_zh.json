@@ -1,0 +1,230 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI风格转换",
+  "meta": {
+    "description": "通过AI风格转换提升您的图像，将普通照片轻松转变为艺术杰作。适合市场营销、社交媒体和个人使用。体验WaveSpeed带来的图像增强未来。",
+    "keywords": "AI风格转换，图像增强，艺术转换，AI艺术生成器，照片效果工具，创意提升，社交媒体艺术，市场营销视觉，电子商务图像，WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "主页",
+        "items": [
+          [
+            "主页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI工具",
+        "items": [
+          [
+            "AI工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即尝试"
+  },
+  "hero": {
+    "heading": "AI风格转换",
+    "subHeading": "将您的图像转变为令人惊叹的艺术作品",
+    "description": "通过将艺术风格应用于您的照片，释放您的创造力，只需几分钟。让AI来实现魔法，将简单图像转变为沉浸式体验。非常适合社交媒体和市场营销材料。",
+    "tryText": "立即尝试",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI 风格转换解决方案",
+    "left": {
+      "heading": "传统图像增强挑战",
+      "items": [
+        "耗时的手工编辑",
+        "需要艺术技能和软件知识",
+        "创意选项有限",
+        "专业设计师的高成本",
+        "缺乏即时结果"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI 解决方案",
+      "items": [
+        "借助AI的力量，秒级转变图像",
+        "无需设计经验 - 只需上传您的照片",
+        "可选择无限的风格和效果",
+        "立即查看并调整创意变体",
+        "为所有用户提供经济实惠的定价模型"
+      ],
+      "tryText": "尝试"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "从普通图像到非凡艺术的四个简单步骤",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传图像",
+        "text": "选择您想要增强的照片",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "选择风格",
+        "text": "挑选适合您想法的艺术风格",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "调整设置",
+        "text": "根据您的偏好微调强度和效果",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载艺术作品",
+        "text": "以高分辨率立即保存您的惊艳创作",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "生成您的第一件艺术作品 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无尽的可能性",
+    "description": "适合各种创意项目",
+    "items": [
+      "社交媒体帖子和头像",
+      "市场营销活动和广告",
+      "用于打印和数字使用的定制艺术品",
+      "个性化礼物和纪念品",
+      "商业品牌视觉",
+      "网站图形和博客图像",
+      "演示增强",
+      "学校和活动的艺术项目"
+    ]
+  },
+  "successStories": {
+    "heading": "真实成功故事",
+    "description": "发现其他人如何利用AI提升他们的内容",
+    "items": [
+      {
+        "tag": "旅行与冒险",
+        "heading": "惊艳的度假照片",
+        "before": {
+          "label": "之前",
+          "text": "普通"
+        },
+        "after": {
+          "label": "之后",
+          "text": "迷人的艺术"
+        },
+        "value": "80%",
+        "key": "互动提升",
+        "description": "将基本旅行图像转变为艺术风光，社交媒体互动翻倍。"
+      },
+      {
+        "tag": "电子商务",
+        "heading": "独特的产品视觉",
+        "before": {
+          "label": "之前",
+          "text": "普通图像"
+        },
+        "after": {
+          "label": "之后",
+          "text": "艺术展示"
+        },
+        "value": "70%",
+        "key": "销售增长",
+        "description": "对产品图像应用独特风格，导致在线销售显著增长。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI风格转换比较",
+    "description": "为您的创作选择理想的风格",
+    "items": [
+      "经典艺术风格：印象派、立体主义，具有丰富的纹理",
+      "现代效果：波普艺术、美学滤镜，焕然一新",
+      "自定义风格上传：将您的艺术带入图像",
+      "自适应AI：学习您的风格偏好，提供个性化建议",
+      "快速处理：在30秒内转变图像",
+      "高分辨率输出，适合打印质量的结果"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关AI工具",
+    "description": "探索更多创新的AI解决方案，助力您的项目"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要了解的一切",
+    "items": [
+      {
+        "question": "什么类型的图像最适合风格转换？",
+        "answer": "高分辨率图像且主体清晰会产生最佳效果。确保照片光线良好，并尽量减少复杂背景以优化风格应用。"
+      },
+      {
+        "question": "我可以对单个图像应用多种风格吗？",
+        "answer": "可以！您可以在单次转换过程中叠加不同的风格，或创建单独的版本以查看不同风格如何影响您的图像。"
+      },
+      {
+        "question": "支持哪些格式上传？",
+        "answer": "我们支持JPG、PNG和WebP格式。更高质量的图像将增强最终输出和转换过程。"
+      },
+      {
+        "question": "生成的艺术作品是免版权费的吗？",
+        "answer": "绝对是！所有使用WaveSpeed Studio生成的艺术作品都是您的，可以自由使用，没有任何限制或额外费用。"
+      },
+      {
+        "question": "风格转换过程需要多长时间？",
+        "answer": "大多数转换在30秒内完成，让您可以快速探索多种风格。"
+      },
+      {
+        "question": "我需要设计技能才能使用这个工具吗？",
+        "answer": "不需要任何设计经验！直观的界面让任何人都可以轻松创作惊艳的艺术作品。"
+      },
+      {
+        "question": "我可以在应用风格后编辑图像吗？",
+        "answer": "可以！您可以使用可用的编辑工具进一步增强输出，以便进行个性化和调整。"
+      },
+      {
+        "question": "如果我不喜欢结果怎么办？",
+        "answer": "您可以简单地尝试不同的风格或调整设置，直到对结果满意。"
+      },
+      {
+        "question": "是否提供试用或免费积分？",
+        "answer": "是的！新用户会获得免费积分，以开始探索可用的风格和转换。"
+      },
+      {
+        "question": "有哪些客户支持选项可用？",
+        "answer": "我们提供全面的支持，包括文档、教程和响应迅速的团队，随时准备协助处理任何咨询。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备好转换您的图像了吗？",
+    "description": "今天就开始使用免费积分，看看创造力如何展开。",
+    "contactUsText": "联系我们",
+    "tryText": "立即尝试 →"
+  },
+  "footer": {
+    "heading": "准备让您的图像栩栩如生吗？",
+    "description": "立即尝试WaveSpeed AI，体验惊人的转换。不需要注册。",
+    "ctaText": "立即转换图像",
+    "text": "© 2025 WaveSpeed AI. 版权所有。"
+  }
+}

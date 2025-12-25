@@ -1,0 +1,230 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Generator Video AI dari Gambar",
+  "meta": {
+    "description": "Transformasi gambar produk menjadi video menarik dengan AI. Didukung oleh Google Veo dan ByteDance. Sempurna untuk pemasaran e-commerce. Penawaran Black Friday!",
+    "keywords": "gambar ke video AI, generator video produk, pembuat video AI, alat video e-commerce, Google Veo, teks ke video, alat video Black Friday, animasi produk, pembuat video pemasaran, video Shopify, video listing Amazon, generator video media sosial"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Gambar ke Video",
+    "subHeading": "Transformasikan Gambar Statik menjadi Video Dinamis",
+    "description": "Ubah foto produk Anda menjadi video menarik dalam beberapa menit. Tanpa pengambilan gambar, tanpa perangkat lunak pengeditan. Didukung oleh Google Veo 3.1 dan ByteDance Seedance - model generasi video AI terkemuka di dunia.",
+    "tryText": "Coba Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Generator Video dari Gambar WaveSpeed AI",
+    "left": {
+      "heading": "Tantangan Tradisional",
+      "items": [
+        "Produksi video mahal ($2000-5000 per proyek)",
+        "Memerlukan peralatan dan kru profesional",
+        "Pengeditan dan pascaproduksi yang memakan waktu (2-7 hari)",
+        "Iterasi dan revisi terbatas",
+        "Hambatan tinggi untuk bisnis kecil"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeedAI",
+      "items": [
+        "Hasilkan video dalam 1-2 menit dari gambar produk",
+        "Tanpa peralatan atau kru yang dibutuhkan - Cukup unggah gambar",
+        "Hasil instan dengan generasi bertenaga AI",
+        "Variasi dan iterasi tak terbatas",
+        "Pembayaran sesuai pemakaian - Terjangkau untuk semua orang"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Bagaimana Cara Kerjanya",
+    "description": "Dari gambar statik ke video dinamis dalam 4 langkah sederhana",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Gambar",
+        "text": "Unggah foto produk atau gambar adegan Anda",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Tambahkan Deskripsi",
+        "text": "Opsional: Deskripsikan gerakan yang Anda inginkan (misalnya, \"putar perlahan\")",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Pilih Model",
+        "text": "Pilih Veo 3.1 untuk kualitas premium atau Seedance untuk kecepatan",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Unduh Video",
+        "text": "Dapatkan video HD dalam 1-2 menit dengan lisensi komersial",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Hasilkan Video Pertama Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Tak Terbatas",
+    "description": "Sempurna untuk berbagai industri atau kasus penggunaan",
+    "items": [
+      "Video pameran produk untuk Amazon, Shopify",
+      "Konten media sosial (Instagram, TikTok, Facebook)",
+      "Kampanye pemasaran dan iklan",
+      "Transformasi sebelum/setelah",
+      "Video tutorial dan demonstrasi",
+      "Tur properti real estat",
+      "Video makanan dan resep",
+      "Video lookbook fashion"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Lihat bagaimana bisnis mentransformasi alur kerja mereka dengan AI",
+    "items": [
+      {
+        "tag": "E-commerce Elektronik",
+        "heading": "Listing Produk Amazon",
+        "before": {
+          "label": "Sebelum",
+          "text": "Mahal"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Pembayaran sesuai pemakaian"
+        },
+        "value": "99.8%",
+        "key": "Pengurangan Biaya",
+        "description": "Kami menambahkan video produk ke semua 50 listing dalam satu hari. Tingkat konversi meningkat 40% segera."
+      },
+      {
+        "tag": "Rumah & Hidup",
+        "heading": "Toko Dekorasi Rumah Shopify",
+        "before": {
+          "label": "Sebelum",
+          "text": "5 hari"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "2 menit"
+        },
+        "value": "99.9%",
+        "key": "Waktu Disimpan",
+        "description": "Perubah permainan untuk bisnis kami. Kami sekarang dapat menguji berbagai gaya video untuk setiap produk dengan cepat."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Model AI",
+    "description": "Pilih model yang tepat untuk kebutuhan Anda",
+    "items": [
+      "Veo 3.1: kualitas 1080p, durasi 5-10 detik, hasil fotorealistik premium",
+      "Seedance I2V: kualitas standar, durasi 3-6 detik, cepat dan hemat biaya",
+      "Kontrol gerakan teks ke video dengan fisika alami",
+      "Gerakan kamera yang halus dan transisi",
+      "Waktu generasi 1-2 menit",
+      "Hak penggunaan komersial termasuk"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Jelajahi lebih banyak alat AI kuat untuk e-commerce"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Semua yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Kualitas dan durasi video apa yang dapat saya harapkan?",
+        "answer": "Veo 3.1 menghasilkan video premium 1080p hingga 10 detik dengan kualitas sinematis dan gerakan yang halus. Seedance I2V membuat video kualitas standar 3-6 detik yang dioptimalkan untuk kecepatan dan biaya-efektif. Kedua model menghasilkan hasil profesional yang sempurna untuk listing produk, posting media sosial, kampanye pemasaran, dan platform e-commerce. Output video mempertahankan resolusi dan kejernihan gambar input Anda sambil menambahkan gerakan dan transisi alami."
+      },
+      {
+        "question": "Bisakah saya mengontrol gerakan kamera dan efek gerakan?",
+        "answer": "Ya! Anda memiliki kontrol penuh melalui petunjuk teks alami yang mendeskripsikan gerakan yang ingin Anda lihat. Spesifikasikan gerakan kamera seperti \"putar perlahan searah jarum jam\",\"zoom masuk pada produk\",\"geser kiri ke kanan\",\"orbit di sekitar objek\", atau \"dolly maju\". AI menginterpretasikan instruksi Anda dan menerapkan gerakan sinematis yang canggih dengan fisika dan momentum yang tepat. Anda juga dapat mendeskripsikan gerakan objek seperti \"kain mengalir tertiup angin\" atau \"cairan dituangkan dengan mulus\" untuk efek yang lebih dinamis."
+      },
+      {
+        "question": "Jenis dan format gambar apa yang paling baik untuk generasi video?",
+        "answer": "Foto produk dengan latar belakang bersih menghasilkan hasil terbaik, meskipun AI juga dapat menangani adegan yang kompleks. Gambar harus jelas, terang, dan setidaknya 512x512 piksel untuk kualitas optimal, dengan 1024x1024 atau lebih tinggi dianjurkan untuk output premium. Kami mendukung format JPG, PNG, dan WebP. Gambar dengan kontras yang baik, pencahayaan yang tepat, dan fokus tajam akan menghasilkan video berkualitas lebih tinggi dengan gerakan dan transisi yang lebih realistis."
+      },
+      {
+        "question": "Apa bedanya dengan slideshow sederhana atau presentasi statis?",
+        "answer": "Video yang dihasilkan AI mencakup gerakan 3D yang nyata, simulasi fisika yang realistis, perubahan pencahayaan alami, dan transisi sinematis yang membuat objek tampak bergerak di ruang nyata. Tidak seperti slideshow yang hanya memudar antara gambar statis, teknologi kami menciptakan gerakan nyata dalam adegan - produk berputar secara alami, kain mengalir dengan realistis, dan gerakan kamera terasa seperti pengambilan gambar profesional. Hasilnya tidak dapat dibedakan dari rekaman nyata yang ditangkap dengan peralatan video profesional, bukan hanya slide animasi."
+      },
+      {
+        "question": "Bisakah saya meningkatkan atau meningkatkan kualitas video setelah generasi?",
+        "answer": "Tentu saja! Gunakan alat pengubah ukuran FlashVSR kami untuk meningkatkan video yang dihasilkan AI ke resolusi yang lebih tinggi dengan ketajaman, pemulihan detail, dan pengurangan artefak yang lebih baik. Ini sangat kuat saat dipadukan dengan Seedance I2V - hasilkan dengan cepat pada kualitas standar, lalu tingkatkan untuk hasil mendekati premium dengan biaya yang jauh lebih rendah. Semua peningkatan video mengikuti model harga bayar sesuai pemakaian WaveSpeed dengan tidak ada langganan atau komitmen yang diperlukan."
+      },
+      {
+        "question": "Model harga apa yang digunakan untuk generasi gambar ke video?",
+        "answer": "WaveSpeed beroperasi dengan model bayar sesuai pemakaian yang fleksibel tanpa langganan bulanan atau biaya tersembunyi. Anda hanya membayar untuk video yang benar-benar Anda hasilkan, dengan harga bervariasi berdasarkan model AI yang dipilih dan durasi video. Video premium Veo 3.1 lebih mahal tetapi memberikan kualitas sinematis, sementara Seedance I2V menawarkan harga ramah anggaran untuk pengembalian yang lebih cepat. Semua pengguna baru menerima kredit gratis untuk menguji layanan, dan tidak ada persyaratan pembelian minimum atau komitmen."
+      },
+      {
+        "question": "Berapa lama waktu yang dibutuhkan untuk menghasilkan video dan bisakah saya menghasilkan beberapa video?",
+        "answer": "Waktu penghasilan sangat cepat - biasanya 1-2 menit per video tanpa memandang model mana yang Anda pilih. Veo 3.1 mungkin memerlukan waktu sedikit lebih lama karena pemrosesan yang canggih, sementara Seedance I2V memprioritaskan kecepatan. Anda dapat menghasilkan beberapa video secara bersamaan melalui pemrosesan batch, membuatnya mudah untuk membuat variasi dengan petunjuk gerakan atau sudut kamera yang berbeda. Tidak ada waktu antrean atau batasan pemrosesan selama periode penggunaan normal."
+      },
+      {
+        "question": "Apa kasus penggunaan terbaik untuk teknologi gambar ke video?",
+        "answer": "Teknologi ini unggul dalam menciptakan video pameran produk untuk listing Amazon, toko Shopify, dan platform e-commerce di mana konten video secara dramatis meningkatkan tingkat konversi. Ini sempurna untuk konten media sosial di Instagram Reels, TikTok, Facebook, dan YouTube Shorts. Kasus penggunaan tambahan termasuk kampanye pemasaran, demonstrasi sebelum/setelah, konten tutorial, tur virtual real estat, video makanan dan resep, lookbook fashion, dan skenario apa pun di mana Anda memerlukan konten video menarik tetapi tidak memiliki anggaran atau sumber daya untuk produksi video tradisional."
+      },
+      {
+        "question": "Apakah saya memiliki hak komersial atas video yang dihasilkan?",
+        "answer": "Ya! Semua video yang dihasilkan melalui WaveSpeed Studio mencakup hak penggunaan komersial penuh tanpa biaya lisensi tambahan atau royalti. Anda dapat menggunakan video tersebut untuk listing produk, iklan, pemasaran media sosial, proyek klien, dan tujuan komersial apa pun. Tidak ada persyaratan atribusi, meskipun kami selalu menghargai kredit. Lisensi komersial mencakup penggunaan tidak terbatas di semua platform dan jenis media, memberi Anda kebebasan penuh untuk memonetisasi dan mendistribusikan konten Anda."
+      },
+      {
+        "question": "Dukungan teknis dan sumber daya apa yang tersedia untuk pemecahan masalah?",
+        "answer": "WaveSpeed menyediakan dukungan komprehensif termasuk dokumentasi terperinci, tutorial video, dan panduan praktik terbaik yang mencakup persiapan gambar optimal, penulisan petunjuk yang efektif, dan teknik pemrograman kualitas. Tim dukungan kami tersedia melalui email dan obrolan langsung untuk masalah teknis, dengan waktu respons tipikal di bawah 24 jam. Platform ini mencakup penanganan kesalahan bawaan dengan umpan balik yang jelas jika generasi gagal, dan forum komunitas kami menghubungkan pengguna untuk tips dan inspirasi. Bagi klien enterprise, saluran dukungan yang ditujukan dan jaminan SLA tersedia."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Membuat Video AI Pertama Anda?",
+    "description": "Mulai dengan kredit gratis - Lihat keajaiban itu sendiri",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Coba Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap untuk Mengubah Foto Anda?",
+    "description": "Coba WaveSpeed AI sekarang dan lihat perbedaannya sendiri. Tidak perlu mendaftar.",
+    "ctaText": "Hapus Objek Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi."
+  }
+}

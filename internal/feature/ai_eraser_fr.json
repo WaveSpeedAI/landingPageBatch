@@ -1,0 +1,230 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Effaceur IA",
+  "meta": {
+    "description": "Supprimez sans effort les éléments indésirables de vos images en quelques secondes grâce à la technologie IA. Améliorez vos visuels pour l'e-commerce, les réseaux sociaux, et plus encore. Découvrez l'édition sans couture avec l'outil Effaceur de WaveSpeed AI !",
+    "keywords": "édition d'images IA, supprimer arrière-plan, retouche photo, outil d'amélioration d'image, édition photo e-commerce, Effaceur WaveSpeed, éditeur photo alimenté par IA, gestion d'actifs numériques, manipulation photo, visuels marketing, images propres, photographie de produit"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Effaceur IA",
+    "subHeading": "Nettoyez vos images sans effort",
+    "description": "Supprimez instantanément les éléments non désirés de vos images, améliorant leur qualité et leur mise au point. Parfait pour les annonces e-commerce, les publications sur les réseaux sociaux, et plus encore. Voyez la différence que l'IA peut faire - commencez à éditer maintenant !",
+    "tryText": "Essayez-le maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution Effaceur IA WaveSpeed AI",
+    "left": {
+      "heading": "Défis de l'édition traditionnelle",
+      "items": [
+        "L'édition manuelle est chronophage et laborieuse",
+        "Nécessite des connaissances complexes en logiciels",
+        "Coûts élevés associés à l'embauche de professionnels",
+        "Accessibilité limitée pour des changements rapides",
+        "Frustrant pour les débutants et les non-designers"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed AI",
+      "items": [
+        "Supprimez les distractions des images en quelques secondes",
+        "Interface conviviale - aucune expérience nécessaire",
+        "Économique avec des prix flexibles",
+        "Créez des visuels soignés sans tracas",
+        "Traitement rapide permettant des modifications instantanées"
+      ],
+      "tryText": "Essayez"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment ça fonctionne",
+    "description": "Obtenez des images sans défaut en 4 étapes faciles",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Télécharger l'image",
+        "text": "Choisissez la photo que vous souhaitez améliorer en supprimant des éléments indésirables",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Sélectionner les zones à effacer",
+        "text": "Mettez en évidence les parties de l'image que vous souhaitez supprimer en quelques clics",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Appliquer le traitement IA",
+        "text": "Laissez notre IA analyser intelligemment et effacer les zones sélectionnées",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Télécharger l'image éditée",
+        "text": "Enregistrez votre image récemment nettoyée en quelques secondes, prête à l'emploi",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Commencez votre parcours d'édition →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilités infinies",
+    "description": "Parfait pour diverses applications",
+    "items": [
+      "Images de produits e-commerce",
+      "Graphiques pour les réseaux sociaux",
+      "Visuels pour blogs et sites web",
+      "Matériel marketing comme des flyers",
+      "Comparaisons de photos avant et après",
+      "Photos personnelles et familiales",
+      "Vitrines immobilières",
+      "Améliorations de la photographie d'événements"
+    ]
+  },
+  "successStories": {
+    "heading": "Vraies Histoires de Succès",
+    "description": "Découvrez comment les entreprises révolutionnent leurs images avec la technologie IA",
+    "items": [
+      {
+        "tag": "Mode Retail",
+        "heading": "Boutique en ligne",
+        "before": {
+          "label": "Avant",
+          "text": "Images encombrées de distractions"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Visuels propres centrés sur le sujet"
+        },
+        "value": "97%",
+        "key": "Amélioration de la qualité visuelle",
+        "description": "Nos images de produits transformées ont entraîné une augmentation de 50 % de l'engagement sur les réseaux sociaux."
+      },
+      {
+        "tag": "Immobilier",
+        "heading": "Annonces de propriétés",
+        "before": {
+          "label": "Avant",
+          "text": "Photos peu attrayantes"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Présentations époustouflantes et claires"
+        },
+        "value": "95%",
+        "key": "Amélioration de l'attrait",
+        "description": "Des photos nettes ont abouti à des ventes plus rapides, présentant les propriétés sous leur meilleur jour."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison des Modèles IA",
+    "description": "Sélectionnez l'approche idéale pour vos besoins d'édition d'images",
+    "items": [
+      "Édition de base : suppression rapide et facile d'objets simples",
+      "Édition avancée : édition détaillée pour des scènes intriquées",
+      "Suppression d'arrière-plan : effacement complet des arrière-plans",
+      "Reconstruction d'éléments : techniques de remplissage intelligent pour des résultats homogènes",
+      "Édition multi-couches : gérez plusieurs modifications en une seule fois",
+      "Vitesse vs. Qualité : choisissez en fonction de votre urgence ou besoin"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils IA Connexes",
+    "description": "Explorez d'autres solutions IA puissantes pour l'édition d'images"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quels types d'images puis-je améliorer avec Effaceur IA ?",
+        "answer": "Vous pouvez télécharger différents types d'images, y compris JPG, PNG et WebP. Les images claires avec un bon éclairage donnent les meilleurs résultats."
+      },
+      {
+        "question": "Quelle est la précision de l'IA pour supprimer les zones sélectionnées ?",
+        "answer": "Notre IA est conçue pour reconnaître et effacer des objets avec une grande précision. Elle peut reproduire les motifs d'arrière-plan si nécessaire pour un aspect naturel."
+      },
+      {
+        "question": "Puis-je annuler des modifications si je ne suis pas satisfait ?",
+        "answer": "Oui ! Vous pouvez facilement revenir sur vos modifications et recommencer à tout moment dans le processus d'édition."
+      },
+      {
+        "question": "Une installation de logiciel est-elle nécessaire pour utiliser l'Effaceur IA ?",
+        "answer": "Aucune installation de logiciel n'est requise. L'outil est entièrement basé sur le web, vous permettant d'y accéder depuis n'importe quel appareil avec une connexion internet."
+      },
+      {
+        "question": "Combien de temps faut-il pour traiter mes images ?",
+        "answer": "Le temps de traitement est généralement très rapide, généralement seulement quelques secondes par image, en fonction de la complexité des modifications."
+      },
+      {
+        "question": "Y a-t-il une limite au nombre d'images que je peux éditer ?",
+        "answer": "Il n'y a pas de limite au nombre d'images que vous pouvez éditer, permettant des flux de travail efficaces, que vous ayez peu ou beaucoup à améliorer."
+      },
+      {
+        "question": "Retrouve-je le droit d'auteur des images éditées ?",
+        "answer": "Absolument ! Toutes les images éditées à l'aide de nos outils restent votre propriété, vous permettant de les utiliser commercialement sans restrictions."
+      },
+      {
+        "question": "Quel support est disponible si je rencontre des problèmes ?",
+        "answer": "Nous offrons un support complet, y compris de la documentation, des tutoriels et un service client réactif pour toutes vos questions techniques."
+      },
+      {
+        "question": "Comment puis-je commencer à utiliser l'Effaceur IA ?",
+        "answer": "Téléchargez simplement vos images et suivez les étapes faciles pour commencer à éditer. Les nouveaux utilisateurs peuvent profiter de crédits gratuits initiaux !"
+      },
+      {
+        "question": "Y a-t-il des frais d'abonnement pour utiliser cet outil ?",
+        "answer": "Aucun abonnement n'est nécessaire ! Nous fonctionnons sur un modèle de paiement à l'utilisation, vous permettant de ne payer que pour les services que vous utilisez."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Transformer Vos Images ?",
+    "description": "Commencez avec des crédits gratuits et voyez la magie de l'Effaceur IA en action !",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Essayez-le maintenant →"
+  },
+  "footer": {
+    "heading": "Prêt à Nettoyer Vos Images ?",
+    "description": "Découvrez WaveSpeed AI aujourd'hui et élevez vos visuels. Aucune inscription requise.",
+    "ctaText": "Supprimer des objets maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

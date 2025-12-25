@@ -1,0 +1,230 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI 图像转文字转换器",
+  "meta": {
+    "description": "使用 WaveSpeed AI 轻松将您的图像转换为文本。适用于内容创作、无障碍访问和文档数字化。立即提升您的生产力！",
+    "keywords": "图像转文字 AI, OCR 技术, 文本提取, 文档数字化, 无障碍工具, 内容创作 AI, AI 文本生成器, WaveSpeed AI, 电子商务解决方案, 工作流程自动化, 图像分析"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI 工具",
+        "items": [
+          [
+            "AI 工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "现在试试"
+  },
+  "hero": {
+    "heading": "图像转文字",
+    "subHeading": "瞬间将图像转换为可编辑文本",
+    "description": "利用我们最先进的 AI 技术解锁您的图像潜力。将扫描的文档、照片等在几秒钟内转换为文本。今天就试试，简化您的工作流程！",
+    "tryText": "立即转换",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI 图像转文字解决方案",
+    "left": {
+      "heading": "传统挑战",
+      "items": [
+        "人工转录速度慢且劳动密集",
+        "打字或扫描错误的可能性高",
+        "需要专门软件来转换图像",
+        "图像格式中信息访问有限",
+        "对残疾人士无障碍"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI 解决方案",
+      "items": [
+        "瞬间以高精度将图像转换为文本",
+        "无需手动输入 - 只需上传图像",
+        "使用先进的 OCR 技术快速获取结果",
+        "对所有人无障碍，增强包容性",
+        "具有成本效益的文本提取解决方案"
+      ],
+      "tryText": "试试"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "通过 4 个简单步骤将图像转换为文本",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传图像",
+        "text": "选择您的图像文件进行转换",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "选择语言",
+        "text": "指定文本的语言以获得更好的准确性",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "查看文本输出",
+        "text": "根据需要检查和编辑提取的文本",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载文本文件",
+        "text": "以简单格式获取转换后的文本",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "转换您的第一张图像 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无限可能",
+    "description": "适用于任何应用",
+    "items": [
+      "数字化打印文档",
+      "从收据中提取信息",
+      "转录手写笔记",
+      "改善视觉障碍人士的无障碍",
+      "创建可搜索的图像档案",
+      "促进语言翻译任务",
+      "简化数据输入流程",
+      "自动化内容创作工作流程"
+    ]
+  },
+  "successStories": {
+    "heading": "真实成功案例",
+    "description": "发现用户如何通过 AI 简化他们的任务",
+    "items": [
+      {
+        "tag": "教育",
+        "heading": "大学笔记记录",
+        "before": {
+          "label": "之前",
+          "text": "耗时的手动录入"
+        },
+        "after": {
+          "label": "之后",
+          "text": "快速数字笔记"
+        },
+        "value": "90%",
+        "key": "节省的时间",
+        "description": "在几分钟内从图像中转录讲座笔记；学生报告生产力提高。"
+      },
+      {
+        "tag": "电子商务",
+        "heading": "产品目录转型",
+        "before": {
+          "label": "之前",
+          "text": "手动列出产品"
+        },
+        "after": {
+          "label": "之后",
+          "text": "自动化文本提取"
+        },
+        "value": "85%",
+        "key": "效率提升",
+        "description": "所有产品描述文本在创纪录的时间内从图像转换，提高了库存管理。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI 模型比较",
+    "description": "选择合适的模型以获得最佳结果",
+    "items": [
+      "标准 OCR：从清晰图像中准确提取文本",
+      "高级 AI OCR：在复杂布局下更好地表现",
+      "支持多语言以适应不同应用",
+      "可根据用户需求定制输出格式",
+      "快速处理，等待时间最少",
+      "对敏感内容提供高安全性"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关 AI 工具",
+    "description": "探索更多变革性的 AI 解决方案以满足您的需求"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要了解的一切",
+    "items": [
+      {
+        "question": "我可以转换哪些类型的图像？",
+        "answer": "您可以转换各种图像，包括扫描的文档、照片和截图。确保图像清晰且光线充足，以获得最佳效果。"
+      },
+      {
+        "question": "在转换过程中我的数据安全吗？",
+        "answer": "是的，所有上传到我们平台的图像和数据都经过加密和保护，以确保完全的隐私和安全。"
+      },
+      {
+        "question": "我可以在转换后编辑提取的文本吗？",
+        "answer": "当然可以！一旦提取文本，您可以根据需要进行审核和编辑，然后再进行下载。"
+      },
+      {
+        "question": "图像转文本转换支持哪些语言？",
+        "answer": "我们支持多种语言。在上传过程中，只需选择所需的语言以获得最佳准确性。"
+      },
+      {
+        "question": "文本提取的准确性如何？",
+        "answer": "我们的高级 OCR 技术在清晰图像下实现高准确性。复杂图像的结果可能有所不同，建议进行审核。"
+      },
+      {
+        "question": "我可以将此服务用于商业目的吗？",
+        "answer": "是的，您可以将提取的文本用于任何商业目的，而不需要额外的许可费用。"
+      },
+      {
+        "question": "我可以转换的图像数量有限制吗？",
+        "answer": "目前，您可以转换的图像数量没有限制。建议进行批量上传以提高效率。"
+      },
+      {
+        "question": "输出文本文件支持哪些格式？",
+        "answer": "提取的文本可以保存为多种格式，包括 TXT、PDF 和 DOCX，具体取决于您的偏好。"
+      },
+      {
+        "question": "如果我遇到问题，该如何获得技术支持？",
+        "answer": "我们通过文档、教程和专门的支持团队提供广泛的支持，支持团队可通过电子邮件和聊天提供帮助。"
+      },
+      {
+        "question": "我需要注册账户才能使用此功能吗？",
+        "answer": "不需要注册即可转换图像。只需上传并立即开始转换！"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备将您的图像转换为文本吗？",
+    "description": "今天就开始使用我们的直观 AI，并立即查看效果！",
+    "contactUsText": "联系我们",
+    "tryText": "立即转换 →"
+  },
+  "footer": {
+    "heading": "准备解锁您的文本吗？",
+    "description": "今天就尝试 WaveSpeed AI，亲自体验轻松转换。无需注册。",
+    "ctaText": "立即转换图像",
+    "text": "© 2025 WaveSpeed AI 版权所有。"
+  }
+}

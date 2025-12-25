@@ -1,0 +1,231 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Pembuat Kolase AI",
+  "meta": {
+    "description": "Buat kolase foto yang menakjubkan dengan mudah menggunakan AI. Sempurna untuk media sosial, pemasaran, dan proyek pribadi. Ubah gambar Anda menjadi kolase yang indah dengan cepat!",
+    "keywords": "pembuat kolase AI, alat kolase foto, gambar menjadi kolase, kolase media sosial, visual pemasaran, generasi kolase, tata letak foto kreatif, kolase WaveSpeed, desain kolase, pembuatan konten e-commerce, proyek foto pribadi"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Tampilkan",
+        "items": [
+          [
+            "Tampilkan",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Pembuat Kolase Foto",
+    "subHeading": "Ubah Gambar Anda Menjadi Kolase yang Menakjubkan",
+    "description": "Buat kolase yang indah dari foto Anda dalam beberapa menit—tanpa perlu keterampilan desain! Didukung oleh teknologi AI canggih, buat tata letak yang memikat dan melibatkan audiens Anda. Lepaskan kreativitas Anda sekarang!",
+    "tryText": "Buat Kolase Anda Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Pembuat Kolase AI WaveSpeed",
+    "left": {
+      "heading": "Tantangan Kolase Tradisional",
+      "items": [
+        "Desain manual memakan waktu dan kompleks",
+        "Memerlukan keterampilan atau perangkat lunak desain grafis",
+        "Outsourcing mahal untuk desain profesional",
+        "Terbatas pada template dan format yang kaku",
+        "Sulit untuk mencapai gaya yang unik dan dipersonalisasi"
+      ]
+    },
+    "right": {
+      "heading": "Solusi AI WaveSpeed",
+      "items": [
+        "Segera buat kolase kustom dengan AI",
+        "Tidak perlu pengalaman desain—cukup unggah gambar",
+        "Tata letak unik disesuaikan dengan gaya Anda",
+        "Kreativitas tanpa batas dengan pengeditan dan variasi yang mudah",
+        "Harga terjangkau untuk proyek apa pun"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Dari foto ke kolase menakjubkan dalam 4 langkah sederhana",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Foto",
+        "text": "Pilih dan unggah gambar favorit Anda",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Pilih Gaya",
+        "text": "Pilih dari berbagai gaya dan tata letak kolase",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Kustomisasi Desain",
+        "text": "Sesuaikan jarak, tambahkan teks, atau terapkan filter dengan mudah",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Unduh Kolase",
+        "text": "Simpan karya Anda dalam resolusi tinggi untuk dibagikan",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Buat Kolase Pertama Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Kreatif yang Tak Terbatas",
+    "description": "Sempurna untuk setiap kesempatan atau platform",
+    "items": [
+      "Montase gambar media sosial untuk Instagram atau Facebook",
+      "Materi pemasaran untuk iklan dan promosi",
+      "Kenangan acara dan undangan",
+      "Hadiah dan kenang-kenangan yang dipersonalisasi",
+      "Tampilkan portofolio dan presentasi",
+      "Konten visual blog dan situs web",
+      "Kolase pernikahan dan acara khusus",
+      "Koleksi foto perjalanan dan cerita"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Temukan bagaimana orang lain meningkatkan visual mereka dengan AI",
+    "items": [
+      {
+        "tag": "Proyek Pribadi",
+        "heading": "Kolase Reuni Keluarga",
+        "before": {
+          "label": "Sebelum",
+          "text": "Rumit dan memakan waktu"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Cepat dan mudah dengan AI"
+        },
+        "value": "95%",
+        "key": "Waktu yang Hemat",
+        "description": "Membuat kolase menakjubkan untuk reuni keluarga kami dalam hitungan menit! Semua orang menyukainya."
+      },
+      {
+        "tag": "Kampanye Pemasaran",
+        "heading": "Promo Penjualan E-commerce",
+        "before": {
+          "label": "Sebelum",
+          "text": "Keterbatasan pada visual"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Grafis yang dinamis dan menarik"
+        },
+        "value": "90%",
+        "key": "Dampak Visual",
+        "description": "Visual pemasaran kami meningkat drastis, meningkatkan tingkat keterlibatan secara signifikan."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Gaya Kolase",
+    "description": "Pilih gaya yang tepat untuk proyek Anda",
+    "items": [
+      "Tata Letak Grid: Pengaturan klasik untuk banyak gambar",
+      "Overlay Artistik: Fusi kreatif foto-foto",
+      "Kolase Tematik: Desain yang disesuaikan berdasarkan tema",
+      "Slideshow Dinamis: Opsi kolase animasi",
+      "Integrasi Teks: Penambahan keterangan yang mulus",
+      "Kustomisasi Latar Belakang: Pilih warna atau pola",
+      "Fleksibilitas Template: Mudah disesuaikan dengan kebutuhan Anda"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Jelajahi lebih banyak alat AI inovatif untuk pembuatan konten visual"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Semua yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Jenis gambar apa yang paling cocok untuk membuat kolase?",
+        "answer": "Gambar resolusi tinggi apa pun bekerja dengan baik. Kami merekomendasikan menggunakan foto yang jelas dan terang. Semakin bervariasi gambar Anda, semakin dinamis kolase Anda akan terlihat."
+      },
+      {
+        "question": "Bisakah saya menyesuaikan tata letak dan desain?",
+        "answer": "Tentu saja! Pilih dari berbagai gaya bawaan dan sesuaikan tata letak, jarak, dan warna untuk sesuai dengan visi Anda."
+      },
+      {
+        "question": "Apa batas maksimum gambar yang dapat saya unggah?",
+        "answer": "Anda dapat mengunggah hingga 20 gambar per kolase, memberikan banyak opsi untuk membuat desain yang menakjubkan."
+      },
+      {
+        "question": "Apakah saya perlu keterampilan desain grafis untuk menggunakan pembuat kolase?",
+        "answer": "Tidak, alat AI kami ramah pengguna dan dirancang untuk siapa saja, terlepas dari latar belakang desain mereka."
+      },
+      {
+        "question": "Bisakah saya mengunduh kolase saya dalam format yang berbeda?",
+        "answer": "Ya! Anda dapat menyimpan kolase Anda dalam berbagai format termasuk JPEG, PNG, dan PDF untuk pencetakan dan berbagi online."
+      },
+      {
+        "question": "Seberapa cepat saya dapat membuat kolase?",
+        "answer": "Sebagian besar kolase dapat dibuat hanya dalam beberapa menit setelah mengunggah gambar Anda dan memilih gaya!"
+      },
+      {
+        "question": "Apakah ada biaya yang terkait dengan penggunaan pembuat kolase?",
+        "answer": "Kami menawarkan model bayar sesuai pemakaian, memungkinkan Anda untuk membuat kolase sesuai kebutuhan tanpa biaya langganan yang berkelanjutan."
+      },
+      {
+        "question": "Apakah ada batasan berapa banyak kolase yang dapat saya buat?",
+        "answer": "Tidak ada batas! Anda dapat membuat sebanyak mungkin kolase yang Anda inginkan menggunakan platform kami."
+      },
+      {
+        "question": "Bisakah saya mengedit kolase saya setelah mengunduhnya?",
+        "answer": "Meskipun Anda tidak dapat mengedit kolase yang diunduh secara langsung, Anda selalu dapat kembali ke pembuat kolase untuk melakukan penyesuaian atau membuat versi baru."
+      },
+      {
+        "question": "Jenis dukungan apa yang tersedia jika saya memerlukan bantuan?",
+        "answer": "Kami menyediakan dukungan komprehensif termasuk tutorial, dokumentasi, dan layanan pelanggan untuk membantu dengan pertanyaan apa pun."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Membuat Kolase Menakjubkan Anda?",
+    "description": "Mulailah dengan kredit gratis dan biarkan kreativitas Anda mengalir!",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Buat Kolase Anda Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap untuk Membuat Kolase Indah?",
+    "description": "Coba WaveSpeed AI sekarang dan saksikan foto Anda berubah. Tidak perlu mendaftar.",
+    "ctaText": "Mulai Membuat Sekarang",
+    "text": "© 2025 WaveSpeed AI. All rights reserved."
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Koreksi Lensa AI",
+  "meta": {
+    "description": "Capai gambar yang sempurna dengan teknologi koreksi lensa yang canggih. Tingkatkan dan optimalkan fotografi produk Anda dengan mudah. Ideal untuk fotografer dan bisnis e-commerce. Penawaran Black Friday!",
+    "keywords": "koreksi lensa AI, peningkatan gambar, optimasi fotografi, alat fotografi e-commerce, pengeditan gambar, koreksi lensa otomatis, retouching foto profesional, alat foto Black Friday"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Koleksi",
+        "items": [
+          [
+            "Koleksi",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Sempurnakan Gambar Anda",
+    "subHeading": "Tingkatkan Fotografi Anda dengan Koreksi Lensa AI",
+    "description": "Ubah gambar Anda dengan memperbaiki distorsi dan meningkatkan kejernihan dalam hitungan detik. Rasakan penyesuaian yang mulus untuk setiap jenis lensa. Coba sekarang dan ungkap potensi penuh foto Anda.",
+    "tryText": "Coba Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Koreksi Lensa AI WaveSpeed",
+    "left": {
+      "heading": "Tantangan Tradisional",
+      "items": [
+        "Koreksi manual yang memakan waktu",
+        "Memerlukan keterampilan pengeditan foto yang luas",
+        "Hasil yang tidak konsisten di berbagai gambar",
+        "Beragam jenis lensa yang menyebabkan kebingungan",
+        "Inefisiensi dalam pengeditan foto volume tinggi"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeed AI",
+      "items": [
+        "Koreksi instan untuk distorsi dan aberasi lensa",
+        "Ramah pengguna tanpa pengalaman pengeditan yang diperlukan",
+        "Hasil yang konsisten dan berkualitas profesional setiap kali",
+        "Bekerja dengan semua jenis lensa dan sistem kamera",
+        "Pilihan harga yang terjangkau sesuai penggunaan"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerja",
+    "description": "Capai gambar yang sempurna dalam 3 langkah sederhana",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Gambar Anda",
+        "text": "Pilih foto yang ingin Anda tingkatkan",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Pilih Jenis Koreksi",
+        "text": "Pilih dari distorsi, vignette, dan penyesuaian ketajaman",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Unduh Gambar yang Ditingkatkan",
+        "text": "Dapatkan gambar yang telah dikoreksi siap digunakan dalam hitungan detik",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "Tingkatkan Gambar Pertama Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Aplikasi Tanpa Batas",
+    "description": "Sempurna untuk berbagai kasus penggunaan",
+    "items": [
+      "Gambar produk e-commerce",
+      "Fotografi real estate",
+      "Peningkatan potret",
+      "Gaya makanan dan resep",
+      "Koreksi fotografi acara",
+      "Optimasi konten media sosial",
+      "Peningkatan media cetak",
+      "Perbaikan gambar website"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Temukan bagaimana Koreksi Lensa AI membantu bisnis",
+    "items": [
+      {
+        "tag": "Makanan & Minuman",
+        "heading": "Blog Resep Online",
+        "before": {
+          "label": "Sebelum",
+          "text": "Kualitas yang tidak konsisten"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Gambar yang menakjubkan secara konsisten"
+        },
+        "value": "98%",
+        "key": "Peningkatan Kualitas",
+        "description": "Gambar makanan kami sekarang menarik lebih banyak pemirsa. Keterlibatan meningkat secara signifikan sejak menggunakan koreksi lensa AI."
+      },
+      {
+        "tag": "Real Estate",
+        "heading": "Situs Listing Properti",
+        "before": {
+          "label": "Sebelum",
+          "text": "Pilihan pengeditan yang terbatas"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Gambar berkualitas profesional"
+        },
+        "value": "95%",
+        "key": "Waktu yang Disimpan",
+        "description": "Kami sekarang dapat mengunggah gambar langsung dengan koreksi yang sempurna, menghemat berjam-jam dalam pasca-pemrosesan."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Model Koreksi AI",
+    "description": "Pilih model koreksi yang tepat untuk kebutuhan Anda",
+    "items": [
+      "Koreksi Standar: Penyesuaian dasar untuk penggunaan sehari-hari",
+      "Koreksi Lanjutan: Khusus untuk fotografi profesional",
+      "Proses Batch: Koreksi beberapa gambar sekaligus",
+      "Preset Cerdas: Terapkan pengaturan umum secara otomatis",
+      "Prabaca Cepat: Lihat perubahan secara instan sebelum menyimpan",
+      "Hak penggunaan komersial termasuk"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Jelajahi lebih banyak alat kuat untuk peningkatan gambar"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Semua yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Apa jenis distorsi lensa yang dapat dikoreksi?",
+        "answer": "Alat koreksi lensa AI kami dapat mengoreksi distorsi barrel, distorsi pincushion, dan masalah vignette dengan efisien, memastikan gambar Anda terlihat akurat dan profesional."
+      },
+      {
+        "question": "Seberapa cepat saya dapat menerapkan koreksi pada gambar saya?",
+        "answer": "Koreksi gambar diproses dalam hitungan detik. AI secara otomatis menganalisis gambar dan menerapkan penyesuaian hampir seketika, memungkinkan alur kerja yang cepat."
+      },
+      {
+        "question": "Apakah saya memerlukan pengalaman pengeditan foto untuk menggunakan fitur ini?",
+        "answer": "Tidak, platform kami dirancang agar ramah pengguna. Bahkan jika Anda tidak memiliki pengalaman pengeditan, Anda dapat dengan mudah mengunggah gambar Anda dan menerapkan koreksi hanya dengan beberapa klik."
+      },
+      {
+        "question": "Bisakah saya memproses beberapa gambar sekaligus?",
+        "answer": "Tentu saja! Anda dapat mengunggah dan mengoreksi beberapa gambar secara bersamaan, menghemat waktu dan memastikan konsistensi di seluruh visual Anda."
+      },
+      {
+        "question": "Apakah ada opsi prabaca sebelum mengunduh?",
+        "answer": "Ya, Anda dapat melihat gambar yang telah dikoreksi untuk memastikan bahwa mereka memenuhi harapan Anda sebelum mengunduhnya."
+      },
+      {
+        "question": "Format gambar apa saja yang didukung untuk diunggah?",
+        "answer": "Kami mendukung format JPG, PNG, dan TIFF, memastikan fleksibilitas untuk kebutuhan fotografi Anda."
+      },
+      {
+        "question": "Apakah saya akan memiliki hak komersial atas gambar yang dikoreksi?",
+        "answer": "Ya, setiap gambar yang diproses melalui layanan kami memberikan Anda hak komersial penuh, memungkinkan Anda untuk menggunakannya di seluruh platform media tanpa biaya tambahan."
+      },
+      {
+        "question": "Dukungan apa yang tersedia jika saya menghadapi masalah?",
+        "answer": "Tim dukungan kami siap tersedia melalui email dan obrolan langsung, plus kami menawarkan dokumentasi dan tutorial yang luas untuk pemecahan masalah dan praktik terbaik."
+      },
+      {
+        "question": "Bagaimana struktur harga untuk layanan koreksi?",
+        "answer": "Kami beroperasi dengan model bayar sesuai penggunaan tanpa langganan. Anda hanya membayar untuk koreksi yang Anda terapkan, memungkinkan solusi yang ramah anggaran."
+      },
+      {
+        "question": "Apakah fitur ini dapat membantu dengan daftar produk e-commerce?",
+        "answer": "Ya, menyempurnakan gambar untuk e-commerce adalah salah satu aplikasi utama kami. Gambar yang jelas dan telah dikoreksi secara signifikan meningkatkan daya tarik produk dan meningkatkan penjualan."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Sempurnakan Gambar Anda?",
+    "description": "Mulai tingkatkan foto Anda dengan kredit gratis - Rasakan keajaiban AI hari ini!",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Coba Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap untuk Meningkatkan Fotografi Anda?",
+    "description": "Coba WaveSpeed AI sekarang dan saksikan transformasinya. Tidak perlu mendaftar.",
+    "ctaText": "Transformasikan Gambar Anda Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi."
+  }
+}

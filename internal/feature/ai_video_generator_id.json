@@ -1,0 +1,230 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Generator Video AI",
+  "meta": {
+    "description": "Buat video menakjubkan dari gambar tanpa usaha dengan Generator Video AI kami. Ideal untuk pemasar, pendidik, dan kreator konten. Alami produksi video cepat yang disesuaikan dengan kebutuhan Anda!",
+    "keywords": "generator video AI, gambar ke video AI, pembuatan konten video, pembuat video promosi, generator video e-commerce, WaveSpeed AI, produksi video otomatis, video pemasaran, alat video media sosial, teknologi generasi video"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Ubah Gambar Anda Menjadi Video Menarik",
+    "subHeading": "Pembuatan Video Tanpa Usaha di Ujung Jari Anda",
+    "description": "Manfaatkan teknologi AI mutakhir untuk mengubah foto statis Anda menjadi video yang menarik secara instan. Tanpa pengaturan yang rumit, cukup unggah dan buat. Mulailah perjalanan Anda sekarang!",
+    "tryText": "Mulai Membuat",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Generator Video AI WaveSpeed AI",
+    "left": {
+      "heading": "Kesulitan Produksi Video Tradisional",
+      "items": [
+        "Biaya tinggi untuk pengambilan video ($2000-5000 per proyek)",
+        "Ketergantungan pada peralatan dan personel khusus",
+        "Proses pengeditan yang memakan waktu (2-7 hari)",
+        "Revisi kreatif dan fleksibilitas yang terbatas",
+        "Tantangan bagi bisnis kecil tanpa sumber daya"
+      ]
+    },
+    "right": {
+      "heading": "Keunggulan Generator Video WaveSpeed AI",
+      "items": [
+        "Buat video dari gambar dalam hitungan menit",
+        "Tidak perlu pengambilan gambar atau kru - Cukup unggah",
+        "Hasil instan yang didorong AI",
+        "Opsi kreatif tanpa batas",
+        "Harga fleksibel untuk setiap anggaran"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Ubah gambar Anda menjadi video dinamis dalam 4 langkah sederhana",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Gambar Anda",
+        "text": "Pilih dan unggah gambar yang ingin Anda animasikan",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Kustomisasi Efek Gerakan",
+        "text": "Jika perlu, tentukan bagaimana Anda ingin video Anda bergerak (misalnya, \"perbesar\")",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Pilih Gaya Anda",
+        "text": "Pilih dari berbagai model AI untuk hasil yang optimal",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Ekspor Video Anda",
+        "text": "Dapatkan video Anda dalam definisi tinggi hanya dalam beberapa saat",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Buat Video Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Aplikasi Tanpa Batas",
+    "description": "Ideal untuk berbagai tujuan dan industri",
+    "items": [
+      "Video promosi untuk toko online",
+      "Klip media sosial untuk keterlibatan",
+      "Konten pelatihan dan pendidikan",
+      "Visual presentasi dinamis",
+      "Sorotan acara dan ringkasan",
+      "Menunjukkan real estate",
+      "Demonstrasi resep kuliner",
+      "Tutorial produk dan ulasan"
+    ]
+  },
+  "successStories": {
+    "heading": "Cerita Sukses Nyata",
+    "description": "Jelajahi bagaimana orang lain meningkatkan konten mereka dengan AI",
+    "items": [
+      {
+        "tag": "Ritel Online",
+        "heading": "Video Pemasaran E-commerce",
+        "before": {
+          "label": "Sebelum",
+          "text": "Memakan waktu"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Produksi cepat"
+        },
+        "value": "98%",
+        "key": "Efisiensi Waktu",
+        "description": "Kami mengubah katalog gambar kami menjadi video menarik semalam, meningkatkan interaksi produk."
+      },
+      {
+        "tag": "Pendidikan",
+        "heading": "Konten Kursus Online",
+        "before": {
+          "label": "Sebelum",
+          "text": "Pembuatan video manual"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Produksi video otomatis"
+        },
+        "value": "97%",
+        "key": "Kecepatan Pemberian yang Ditingkatkan",
+        "description": "Sekarang, kami dapat mengembangkan pelajaran yang menarik dalam beberapa menit daripada minggu."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Model AI",
+    "description": "Pilih model ideal untuk pembuatan video Anda",
+    "items": [
+      "Veo 3.1: Definisi tinggi, 5-10 detik, detail dan realisme yang kaya",
+      "Seedance I2V: Output cepat, 3-6 detik, ekonomis dan efisien",
+      "Parameter gerakan fleksibel dengan prompt yang ditentukan pengguna",
+      "Transisi alami dan gerakan kamera yang halus",
+      "Waktu pemrosesan cepat di bawah 2 menit",
+      "Lisensi untuk penggunaan komersial termasuk"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Jelajahi Alat AI Terkait",
+    "description": "Temukan solusi AI yang lebih kuat untuk pembuatan konten"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Semua yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Kualitas dan durasi video apa yang bisa saya harapkan?",
+        "answer": "Model Veo 3.1 menyediakan video premium 1080p yang berdurasi hingga 10 detik, sementara Seedance I2V menawarkan video berkualitas standar 3-6 detik untuk kecepatan dan efisiensi biaya. Kedua opsi mencapai hasil profesional yang ideal untuk e-commerce dan pemasaran."
+      },
+      {
+        "question": "Bisakah saya mengarahkan gerakan video dan perilaku kamera?",
+        "answer": "Tentu saja! Anda dapat memberikan prompt yang terperinci mengenai tindakan kamera yang diinginkan seperti \"pan kiri\", \"zoom pada subjek\", atau \"putar di sekitar item\". AI akan mengartikan instruksi ini untuk melakukan gerakan yang akurat dan dinamis."
+      },
+      {
+        "question": "Jenis gambar apa yang paling cocok untuk generasi video?",
+        "answer": "Gambar produk yang jelas dengan latar belakang sederhana menghasilkan hasil yang optimal. Pastikan gambar Anda berkualitas tinggi dan setidaknya 512x512 piksel, dengan 1024x1024 untuk hasil terbaik. Format yang didukung termasuk JPG, PNG, dan WebP."
+      },
+      {
+        "question": "Apa yang membedakan teknologi ini dari animasi sederhana?",
+        "answer": "AI kami menghasilkan gerakan nyata menggunakan fisika realistis, menciptakan representasi hidup daripada transisi statis. Video tersebut mensimulasikan ruang 3D, membuat gerakan tampak alami dan menarik."
+      },
+      {
+        "question": "Bisakah saya meningkatkan kualitas video setelah pembuatan?",
+        "answer": "Ya, platform kami menawarkan alat untuk meningkatkan video untuk resolusi dan kejernihan yang lebih baik setelah generasi, memastikan pengalaman menonton terbaik untuk audiens Anda."
+      },
+      {
+        "question": "Apa model harga untuk Generator Video AI?",
+        "answer": "Kami menggunakan model bayar sesuai pakai tanpa langganan atau biaya tersembunyi. Harga berdasarkan model AI yang dipilih dan durasi video. Semua pengguna baru menerima kredit untuk memulai perjalanan mereka tanpa komitmen awal."
+      },
+      {
+        "question": "Berapa lama waktu yang diperlukan untuk generasi video, dan bisakah saya membuat beberapa video?",
+        "answer": "Biasanya, generasi dicapai dalam 1-2 menit. Anda bisa bahkan memproses batch permintaan untuk membuat beberapa variasi video secara bersamaan tanpa waktu tunggu."
+      },
+      {
+        "question": "Apa penggunaan terbaik untuk teknologi video ini?",
+        "answer": "Ideal untuk pameran produk, konten media sosial, presentasi pendidikan, dan lebih banyak lagi - di mana saja konten video dinamis dapat meningkatkan pesan Anda tanpa sumber daya yang ekstensif."
+      },
+      {
+        "question": "Apakah saya memiliki hak untuk menggunakan video secara komersial?",
+        "answer": "Ya, semua video yang dihasilkan datang dengan hak komersial penuh, memungkinkan distribusi dan monetisasi tanpa batas di berbagai platform."
+      },
+      {
+        "question": "Sumber daya dukungan apa yang Anda sediakan?",
+        "answer": "Kami menawarkan dokumentasi yang komprehensif, video tutorial, dan dukungan langsung untuk semua pengguna, dengan waktu respons cepat dan keterlibatan komunitas yang kuat untuk pemecahan masalah."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Membuat Video AI yang Menarik?",
+    "description": "Mulailah dengan kredit gratis - Rasakan transformasinya hari ini!",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Buat Video Saya Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap untuk Membuat Video Menakjubkan?",
+    "description": "Coba WaveSpeed AI hari ini - tidak perlu daftar untuk demo.",
+    "ctaText": "Mulai Uji Coba Gratis Anda",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi."
+  }
+}

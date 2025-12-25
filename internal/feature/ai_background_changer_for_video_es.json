@@ -1,0 +1,221 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Cambiador de Fondo AI para Video",
+  "meta": {
+    "description": "Reemplace sin problemas los fondos en sus videos con tecnología de IA de vanguardia. Transforme escenas sin esfuerzo mientras mejora su narrativa visual. Ideal para creadores de contenido y comerciales. ¡Experimente el futuro de la producción de video!",
+    "keywords": "cambiador de fondo AI, herramienta de edición de video, eliminación de fondo de video AI, producción de video, creación de contenido, marketing de video, reemplazo de fondo, WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas AI",
+        "items": [
+          [
+            "Herramientas AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Exhibición",
+        "items": [
+          [
+            "Exhibición",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Cambiador de Fondo para Video",
+    "subHeading": "Transforma tus Escenas al Instante",
+    "description": "Reemplace fácilmente los fondos de video con impresionantes visuales impulsados por tecnología de IA avanzada. Cree contenido cautivador sin las molestias de las herramientas de edición tradicionales. ¡Únase a la revolución en la producción de video hoy!",
+    "tryText": "Pruébalo Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución de Cambiador de Fondo AI de WaveSpeed AI para Video",
+    "left": {
+      "heading": "Desventajas de la Edición Tradicional",
+      "items": [
+        "Proceso de eliminación de fondo que consume tiempo",
+        "Requiere software costoso y habilidades avanzadas",
+        "Flexibilidad limitada para ediciones rápidas",
+        "Los ajustes manuales a menudo conducen a resultados inconsistentes",
+        "Altos costos para producciones pequeñas"
+      ]
+    },
+    "right": {
+      "heading": "Solución de WaveSpeed AI",
+      "items": [
+        "Transforme fondos en solo segundos",
+        "No se necesitan habilidades especiales - Solo sube tu video",
+        "Genere resultados de alta calidad al instante con IA",
+        "Creatividad ilimitada con opciones de fondo infinitas",
+        "Modelo de pago por uso que se adapta a todos los presupuestos"
+      ],
+      "tryText": "Pruébalo"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "De lo ordinario a lo extraordinario en 4 pasos sencillos",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Sube Tu Video",
+        "text": "Comienza subiendo el video que quieres editar",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Elige un Nuevo Fondo",
+        "text": "Selecciona de nuestra extensa biblioteca de fondos o sube el tuyo",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Personaliza Efectos",
+        "text": "Opcionalmente, ajusta la integración y los efectos para un aspecto sin costuras",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Descarga Tu Video",
+        "text": "Recibe tu video transformado con el nuevo fondo en minutos",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Crea Tu Primer Video →"
+  },
+  "endlessPossibilities": {
+    "heading": "Posibilidades Creativas Inagotables",
+    "description": "Perfecto para cualquier proyecto de video",
+    "items": [
+      "Videos de marketing con visuales impresionantes",
+      "Vlogs mejorados con fondos memorables",
+      "Contenidos de e-learning más atractivos",
+      "Clips de redes sociales con escenas dinámicas",
+      "Resúmenes de eventos con configuraciones personalizadas",
+      "Narración de marca con entornos únicos",
+      "Tutoriales que cautivan e informan",
+      "Exhibiciones inmobiliarias con ubicaciones impactantes"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Descubre cómo los creadores están mejorando sus videos con IA",
+    "items": [
+      {
+        "tag": "Creador de Contenido Digital",
+        "heading": "Transformación de Vlog de YouTube",
+        "before": {
+          "label": "Antes",
+          "text": "Que consume tiempo y es aburrido"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Atractivo y profesional"
+        },
+        "value": "90%",
+        "key": "Eficiencia Mejorada",
+        "description": "En solo horas, transformé mis videos con fondos llamativos, lo que aumentó la participación de los espectadores!"
+      },
+      {
+        "tag": "Proveedor de E-learning",
+        "heading": "Cursos Interactivos en Línea",
+        "before": {
+          "label": "Antes",
+          "text": "Presentaciones estáticas"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Experiencias de aprendizaje dinámicas"
+        },
+        "value": "85%",
+        "key": "Participación Aumentada",
+        "description": "Los estudiantes están más enfocados con fondos visualmente atractivos, mejorando significativamente las tasas de retención."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparativa de Modelos AI",
+    "description": "Selecciona la integración de fondo adecuada para tu proyecto",
+    "items": [
+      "Modelo Estándar: Reemplazo básico de fondo, procesamiento rápido",
+      "Modelo Premium: Fondos en alta definición con detalles intrincados",
+      "Integración de Fondo Personalizada para necesidades específicas",
+      "Tiempo de renderizado rápido para flujos de trabajo eficientes",
+      "Soporta salida de video 4K para calidad de primer nivel"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas AI Relacionadas",
+    "description": "Explora herramientas adicionales de IA para tus proyectos de video"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué formatos de video son compatibles para cambiar fondos?",
+        "answer": "Soportamos varios formatos de video incluyendo MP4, MOV y AVI. Asegúrate de que los videos sean de buena calidad para obtener los mejores resultados al cambiar fondos."
+      },
+      {
+        "question": "¿Puedo usar fondos personalizados?",
+        "answer": "¡Absolutamente! Los usuarios pueden subir sus propias imágenes o videos como fondos para completa libertad creativa."
+      },
+      {
+        "question": "¿Qué tan rápido puedo esperar que se procesen mis videos?",
+        "answer": "El cambio de fondo es notablemente rápido, usualmente se completa en unos pocos minutos dependiendo de la duración y complejidad del video."
+      },
+      {
+        "question": "¿Hay un límite en la cantidad de videos que puedo procesar?",
+        "answer": "¡Sin límites! Puedes procesar tantos videos como necesites, todo bajo nuestra estructura de precios flexible."
+      },
+      {
+        "question": "¿Hay requisitos específicos del sistema?",
+        "answer": "Nuestra plataforma es web basada y funciona en la mayoría de los navegadores modernos. Sin embargo, una conexión a internet estable proporcionará la mejor experiencia."
+      },
+      {
+        "question": "¿Puedo usar los videos terminados comercialmente?",
+        "answer": "¡Sí! Todos los videos creados a través de WaveSpeed vienen con derechos de uso comercial, permitiéndote usarlos libremente en varias plataformas."
+      },
+      {
+        "question": "¿Qué debo hacer si encuentro problemas durante el procesamiento?",
+        "answer": "Ofrecemos soporte integral que incluye tutoriales y un equipo de soporte responsivo disponible para ayudar con cualquier inquietud."
+      },
+      {
+        "question": "¿Puedo compartir mis videos terminados directamente en redes sociales?",
+        "answer": "¡Sí! Una vez que tu video esté procesado, puedes fácilmente descargarlo y compartirlo directamente en tus plataformas de redes sociales preferidas."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Transformar Tus Videos?",
+    "description": "Comienza con créditos gratis - ¡Experimenta la magia de la IA hoy!",
+    "contactUsText": "Contáctanos",
+    "tryText": "Pruébalo Ahora →"
+  },
+  "footer": {
+    "heading": "¿Listo para Cambiar los Fondos de Tus Videos?",
+    "description": "Prueba WaveSpeed AI ahora y ve el impacto por ti mismo. No se necesita registro.",
+    "ctaText": "Comienza a Cambiar Fondos Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

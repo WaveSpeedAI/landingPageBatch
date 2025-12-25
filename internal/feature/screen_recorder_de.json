@@ -1,0 +1,226 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - KI Bildschirm Rekorder",
+  "meta": {
+    "description": "Erfassen Sie Ihren Bildschirm mühelos mit der leistungsstarken Bildschirmaufnahmefunktion von WaveSpeed AI. Ideal für Tutorials, Präsentationen und Streaming, unterstützt durch fortschrittliche KI-Technologie. Erleben Sie nahtlose Aufnahmen ohne den Aufwand komplexer Software.",
+    "keywords": "Bildschirmrekorder, KI Bildschirmaufnahme, Videorekorder, Tutorial-Aufnahme, Präsentationsaufnahme, nahtlose Bildschirmaufnahme, Streaming, Bildungsvideo, Software-Demos, Online-Tutorials, Marketingvideos"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI-Tools",
+        "items": [
+          [
+            "KI-Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "Bildschirmaufnahme leicht gemacht",
+    "subHeading": "Aufnehmen, Teilen und Inspirieren",
+    "description": "Nehmen Sie mühelos Ihren Bildschirm für Tutorials, Produktdemonstrationen oder Präsentationen auf. Nutzen Sie die intelligenten Funktionen von WaveSpeed AI, um Ihre Aufnahmen zu verbessern und Ihr Wissen effektiv zu teilen. Beginnen Sie jetzt mit der Aufnahme!",
+    "tryText": "Aufnahme starten",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI Bildschirmrekorder-Lösung",
+    "left": {
+      "heading": "Herausforderungen traditioneller Aufnahmen",
+      "items": [
+        "Komplexe Softwareinstallation",
+        "Teure Aufnahmegeräte",
+        "Zeitaufwendige Bearbeitung",
+        "Ruckelige Leistung und geringe Qualität",
+        "Eingeschränkte Freigabemöglichkeiten"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Lösung",
+      "items": [
+        "Nehmen Sie hochwertige Videos mit einem einzigen Klick sofort auf",
+        "Keine zusätzliche Software erforderlich – einfach aufnehmen",
+        "Nahtloser Betrieb mit KI-verbesserter Leistung",
+        "Einfache Freigabemöglichkeiten auf mehreren Plattformen",
+        "Erschwingliches Pay-per-Use-Modell für jedermann"
+      ],
+      "tryText": "Jetzt ausprobieren"
+    }
+  },
+  "howItWorks": {
+    "heading": "So funktioniert es",
+    "description": "Nehmen Sie Ihren Bildschirm in 4 einfachen Schritten auf",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Bereich auswählen, der aufgenommen werden soll",
+        "text": "Wählen Sie den gesamten Bildschirm oder ein bestimmtes Fenster zur Aufnahme aus",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Einstellungen anpassen",
+        "text": "Audio-Präferenzen, Qualität und Formatoptionen festlegen",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Aufnahme starten",
+        "text": "Ein-Klick-Start für die sofortige Bildschirmaufnahme",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Speichern und Teilen",
+        "text": "Laden Sie Ihr Video herunter oder teilen Sie es direkt in sozialen Medien",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Nehmen Sie Ihr erstes Video auf →"
+  },
+  "endlessPossibilities": {
+    "heading": "Vielseitige Aufnahmeanwendungen",
+    "description": "Perfekt für eine Vielzahl von Anwendungsfällen",
+    "items": [
+      "Erstellen Sie Bildungs-Tutorials und Kurse",
+      "Nehmen Sie Software-Demos und Präsentationen auf",
+      "Streamen Sie Gaming-Sessions mühelos",
+      "Bieten Sie Kundenservice durch visuelle Anleitungen",
+      "Nehmen Sie Webinare für eine spätere Ansicht auf",
+      "Erstellen Sie Marketingvideos und -anzeigen",
+      "Erstellen Sie Anleitungen für Produkte",
+      "Dokumentieren Sie technische Installationen oder Troubleshooting-Tipps"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Sehen Sie, wie Benutzer Bildschirmaufzeichnungen nutzen",
+    "items": [
+      {
+        "tag": "Bildung",
+        "heading": "Verbesserung des Fernunterrichts",
+        "before": {
+          "label": "Vorher",
+          "text": "Schwierig, Schüler zu engagieren"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Interaktive Tutorials"
+        },
+        "value": "75%",
+        "key": "Steigerung des Engagements",
+        "description": "Dozenten haben ansprechende Video-Lektionen aufgezeichnet, die die Teilnahme und das Verständnis der Schüler verbessert haben."
+      },
+      {
+        "tag": "Unternehmenschulung",
+        "heading": "Effektiver Einarbeitungsprozess",
+        "before": {
+          "label": "Vorher",
+          "text": "5 Stunden pro Trainee"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "1 Stunde pro Trainee"
+        },
+        "value": "80%",
+        "key": "Zeitersparnis",
+        "description": "Optimiertes Training mit aufgezeichneten Sitzungen ermöglichte neuen Mitarbeitern, in ihrem eigenen Tempo zu lernen, was die Einarbeitungszeit drastisch verkürzte."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Vergleich der Bildschirmrekorder",
+    "description": "Wählen Sie die richtigen Aufnahmeparameter für Ihre Bedürfnisse",
+    "items": [
+      "Standardaufnahme: 1080p-Qualität, Audioaufnahme und flexible Einstellungen",
+      "Hochleistungsmodus: Optimieren für Gaming-Sessions mit hoher Bildrate",
+      "Leichtmodus: Schnell und einfach, geeignet für kurze Clips und Tutorials",
+      "Benutzerdefinierte Audioeingänge: Nehmen Sie Systemsound oder Mikrofon separat auf",
+      "Kein Ruckeln: Stellen Sie sicher, dass die Aufnahmen reibungslos und ununterbrochen sind",
+      "Einfache Bearbeitungsfunktionen enthalten"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Verwandte KI-Tools",
+    "description": "Erforschen Sie zusätzliche Tools zur Verbesserung der Videoerstellung"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "In welcher Videoqualität kann ich aufnehmen?",
+        "answer": "Sie können in bis zu 1080p-Qualität aufnehmen mit der Möglichkeit, die Einstellungen je nach Bedarf anzupassen. Dies gewährleistet klare Bilder und qualitativ hochwertigen Ton für jede Art von Aufnahme."
+      },
+      {
+        "question": "Kann ich meine Stimme oder andere Audios in die Aufnahme einbeziehen?",
+        "answer": "Ja! Sie haben die Möglichkeit, Audioquellen auszuwählen, einschließlich Mikrofoneingang neben Systemsound, was gründliche und ansprechende Präsentationen ermöglicht."
+      },
+      {
+        "question": "Lässt sich die Aufnahmen leicht teilen?",
+        "answer": "Absolut! Nach der Aufnahme können Sie Ihre Videos ganz einfach herunterladen oder direkt in sozialen Medien und anderen Plattformen ohne Aufwand teilen."
+      },
+      {
+        "question": "Kann ich mehrere Male aufnehmen, ohne die Qualität zu verlieren?",
+        "answer": "Ja! Sie können so viele Aufnahmen machen, wie Sie benötigen, und dabei stets die höchste Qualität ohne Verschlechterung beibehalten."
+      },
+      {
+        "question": "Wie sieht das Preismodell für die Nutzung des Bildschirmrekorders aus?",
+        "answer": "Wir arbeiten nach einem Pay-as-you-go-Preismodell, sodass Sie nur für die Aufnahmen zahlen, die Sie erstellen, ohne versteckte Gebühren oder Abonnements."
+      },
+      {
+        "question": "Wie lange dauert es, bis ich mit der Aufnahme starten kann?",
+        "answer": "Der Einstieg erfolgt sofort! Mit nur einem Klick können Sie innerhalb von Sekunden mit der Bildschirmaufnahme beginnen."
+      },
+      {
+        "question": "Was sind die besten Anwendungsfälle für Bildschirmaufnahmen?",
+        "answer": "Bildschirmaufnahmen eignen sich perfekt für Bildungszwecke, Produktdemonstrationen, Echtzeithilfe, Marketingvideos und vieles mehr!"
+      },
+      {
+        "question": "Besitze ich die Rechte an den Videos, die ich aufnehme?",
+        "answer": "Ja! Alle erstellten Videos gehören Ihnen mit vollem kommerziellen Recht, was die Nutzung auf verschiedenen Plattformen ohne zusätzliche Gebühren erlaubt."
+      },
+      {
+        "question": "Welche Unterstützung gibt es, wenn ich Probleme habe?",
+        "answer": "Wir bieten umfassende Unterstützung, einschließlich detaillierter Dokumentation, Video-Tutorials und einem reaktionsschnellen Support-Team, das bereit ist, bei technischen Fragen zu helfen."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Ihren Bildschirm aufzunehmen?",
+    "description": "Erleben Sie noch heute die Einfachheit des Bildschirmrekorders von WaveSpeed AI!",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Jetzt Aufnahme starten →"
+  },
+  "footer": {
+    "heading": "Bereit, Ihre Bildschirmaufnahmen zu verändern?",
+    "description": "Probieren Sie WaveSpeed AI jetzt aus und sehen Sie den Unterschied selbst. Keine Anmeldung erforderlich.",
+    "ctaText": "Jetzt Aufnahme starten",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

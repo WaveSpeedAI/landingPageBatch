@@ -1,0 +1,222 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - KI Reflexionsgenerator",
+  "meta": {
+    "description": "Erstellen Sie erstaunliche Produktreflexionen sofort mit unserem KI Reflexionsgenerator. Perfekt zur Verbesserung Ihrer E-Commerce-Bilder und zur Optimierung der Produktpräsentation. Erleben Sie nahtlose Integration mit Ihrem Online-Shop.",
+    "keywords": "KI Reflexionsgenerator, E-Commerce Bildverbesserung, Produktreflexionstool, Shopify Reflexionsgenerator, Amazon Produktbilder, KI Fotobearbeitung, realistische Reflexionen, Produktpräsentationstool, Marketingbildtool, Online-Handelsbildverbesserung"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI-Tools",
+        "items": [
+          [
+            "KI-Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "Erstellen Sie erstaunliche Reflexionen",
+    "subHeading": "Verbessern Sie Ihre Produktbilder mit realistischen Reflexionen",
+    "description": "Transformieren Sie sofort Ihre Produktfotos mit realistischen Reflexionen, die sie hervorheben und mehr Kunden anziehen. Angetrieben von fortschrittlicher KI, ist unser Tool für den E-Commerce-Erfolg konzipiert. Beginnen Sie noch heute mit der Verbesserung Ihrer Produktbilder!",
+    "tryText": "Jetzt ausprobieren",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI KI Reflexionsgenerator Lösung",
+    "left": {
+      "heading": "Traditionelle Herausforderungen",
+      "items": [
+        "Realistische Reflexionen zu erstellen, ist zeitaufwendig",
+        "Erfordert fortgeschrittene Grafikdesignfähigkeiten",
+        "Teure Software und Werkzeuge werden oft benötigt",
+        "Eingeschränkte Anpassungsoptionen",
+        "Schwierig für kleine Unternehmen, sich das leisten zu können"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI Lösung",
+      "items": [
+        "Generieren Sie realistische Reflexionen in Sekunden",
+        "Keine Design-Erfahrung erforderlich - Einfach Bilder hochladen",
+        "Sofortige Ergebnisse mit KI-gestützter Technologie",
+        "Vollständig anpassbare Reflexionsstile",
+        "Erschwingliches Preismodell für jedes Unternehmen"
+      ],
+      "tryText": "Versuchen"
+    }
+  },
+  "howItWorks": {
+    "heading": "So funktioniert es",
+    "description": "Vom gewöhnlichen Produktfoto zur erstaunlichen Reflexion in 4 einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Bild hochladen",
+        "text": "Laden Sie Ihr Produktfoto ohne Reflexionen hoch",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Reflexionsstil wählen",
+        "text": "Wählen Sie aus verschiedenen Reflexionsstilen (z.B. Glas, Wasser)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Einstellungen anpassen",
+        "text": "Feinabstimmung von Einstellungen wie Opazität und Winkel",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Verbessertes Bild herunterladen",
+        "text": "Erhalten Sie Ihr verbessertes Produktbild mit Reflexionen",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Erstellen Sie Ihre Reflexion →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endlose Möglichkeiten",
+    "description": "Perfekt für jedes Produkt und Anwendung",
+    "items": [
+      "Verbessern Sie E-Commerce-Produktlisten",
+      "Erstellen Sie fesselnde Marketingmaterialien",
+      "Verbessern Sie Social-Media-Beiträge und Werbung",
+      "Verwenden Sie in Online-Katalogen",
+      "Erhöhen Sie die visuelle Identität Ihrer Marke",
+      "Gestalten Sie erstaunliche Werbebanner",
+      "Ideal für Mode-Lookbooks",
+      "Perfekt für Online-Portfolio-Präsentationen"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Entdecken Sie, wie Unternehmen ihre Bilder mit KI aufwerten",
+    "items": [
+      {
+        "tag": "E-Commerce Mode",
+        "heading": "Online Bekleidungseinzelhändler",
+        "before": {
+          "label": "Vorher",
+          "text": "Einfache Bilder"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Reflexionen enthalten"
+        },
+        "value": "75%",
+        "key": "Verbesserung der Bildqualität",
+        "description": "Die Verwendung von Reflexionen hat unsere Klickraten erheblich gesteigert."
+      },
+      {
+        "tag": "Haushaltswaren",
+        "heading": "Möbelgeschäft",
+        "before": {
+          "label": "Vorher",
+          "text": "Statische Bilder"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Fesselnde Grafiken"
+        },
+        "value": "85%",
+        "key": "Steigerung des Engagements",
+        "description": "Verbesserte Produktvisualisierungen haben das Kundenengagement und den Umsatz erhöht."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Vergleich der KI Reflexionsmodelle",
+    "description": "Wählen Sie das richtige Reflexionsmodell für Ihre Bedürfnisse",
+    "items": [
+      "Standardreflexion: Grundlegende Reflexionen für einfache Bilder, schnelle Verarbeitung",
+      "Premiumreflexion: Fortgeschrittene fotorealistische Reflexionen mit anpassbaren Einstellungen",
+      "Glasreflexion: Atemberaubende gläserne Effekte für einen anspruchsvollen Look",
+      "Wasserreflexion: Perfekt für Lifestyle-Bilder mit realistischen Wassereffekten",
+      "Sofortige Generierung in Sekunden",
+      "Kommerzielle Nutzungsrechte inklusive"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Verwandte KI-Tools",
+    "description": "Entdecken Sie weitere leistungsstarke KI-Tools für Ihre E-Commerce-Bedürfnisse"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welche Arten von Bildern eignen sich am besten für Reflexionen?",
+        "answer": "Hochwertige Bilder mit klaren Hintergründen liefern die besten Reflexionsergebnisse, obwohl die KI verschiedene Typen verbessern kann. Streben Sie nach Bildern, die scharf fokussiert und gut beleuchtet sind."
+      },
+      {
+        "question": "Kann ich den Reflexionsstil und die Einstellungen anpassen?",
+        "answer": "Ja! Wählen Sie aus mehreren Reflexionsstilen und passen Sie Einstellungen wie Winkel und Opazität an, um Ihren gewünschten Look zu erreichen."
+      },
+      {
+        "question": "Wie schnell kann ich meine verbesserten Bilder erhalten?",
+        "answer": "Die Bilderzeugung erfolgt normalerweise sofort, sodass Sie Ihre verbesserten Produktbilder innerhalb von Sekunden herunterladen können."
+      },
+      {
+        "question": "Gibt es Einschränkungen bei den Nutzungsrechten für die generierten Bilder?",
+        "answer": "Alle mit der Reflexionseigenschaft generierten Bilder enthalten kommerzielle Nutzungsrechte, die eine unbegrenzte Nutzung erlauben."
+      },
+      {
+        "question": "Brauche ich Erfahrung im Grafikdesign, um dieses Tool zu nutzen?",
+        "answer": "Nein, unser Tool ist benutzerfreundlich gestaltet. Laden Sie einfach Ihr Bild hoch und wählen Sie die gewünschten Optionen."
+      },
+      {
+        "question": "Welches Preismodell bieten Sie für die Reflexionsgenerierung an?",
+        "answer": "WaveSpeed arbeitet nach einem Pay-as-you-go-Modell, was bedeutet, dass Sie nur für die Reflexionen bezahlen, die Sie erstellen, ohne versteckte Gebühren."
+      },
+      {
+        "question": "Kann ich mehrere Bilder gleichzeitig verbessern?",
+        "answer": "Ja, Sie können mehrere Bilder gleichzeitig hochladen und für jedes in einem Schritt Reflexionen generieren."
+      },
+      {
+        "question": "Welche Unterstützung gibt es, wenn ich Hilfe brauche?",
+        "answer": "Wir bieten umfassenden Support, einschließlich Dokumentation, Tutorials und Kundenservice per E-Mail und Chat."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Ihre Produktbilder zu transformieren?",
+    "description": "Starten Sie mit kostenlosen Credits und sehen Sie die Magie der Reflexionen",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Jetzt ausprobieren →"
+  },
+  "footer": {
+    "heading": "Verbessern Sie jetzt Ihre Produktfotografie!",
+    "description": "Erleben Sie die Vorteile des KI Reflexionsgenerators noch heute. Keine Anmeldung erforderlich.",
+    "ctaText": "Erstellen Sie jetzt Reflexionen",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

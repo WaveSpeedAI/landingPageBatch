@@ -1,0 +1,222 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Stabilisation Vidéo AI",
+  "meta": {
+    "description": "Éliminez les séquences tremblantes sans effort grâce à la technologie de stabilisation alimentée par l'IA. Parfait pour les créateurs de contenu, le commerce électronique et les vidéos marketing. Obtenez des résultats fluides de qualité professionnelle en quelques minutes avec WaveSpeed AI.",
+    "keywords": "stabilisation vidéo IA, technologie vidéo fluide, stabiliser les séquences tremblantes, stabilisation vidéo cinématographique, outil vidéo e-commerce, stabilisation vidéo marketing, montage vidéo professionnel, amélioration vidéo, qualité vidéo YouTube, stabilité vidéo sur les réseaux sociaux"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Stabilisation Vidéo",
+    "subHeading": "Transformez les Vidéos Tremblantes en Chef-d'œuvre Fluides",
+    "description": "Éliminez les secousses et les tremblements indésirables dans vos vidéos grâce à notre technologie de stabilisation de pointe. Obtenez rapidement des résultats de qualité professionnelle en quelques clics. Découvrez la différence aujourd'hui !",
+    "tryText": "Essayez-le Maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution de Stabilisation Vidéo AI WaveSpeed AI",
+    "left": {
+      "heading": "Défis Traditionnels",
+      "items": [
+        "Les séquences tremblantes produisent des résultats non professionnels",
+        "Processus de stabilisation manuel chronophage",
+        "Logiciel de montage coûteux nécessaire",
+        "Compétences en montage vidéo d'expert requises",
+        "Options limitées pour la stabilisation en temps réel"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed AI",
+      "items": [
+        "Stabilisez instantanément vos vidéos en quelques minutes",
+        "Pas besoin de logiciels de montage ou d'expertise",
+        "Résultats alimentés par l'IA pour des séquences fluides",
+        "Obtenez une qualité constante sur tous les appareils",
+        "Modèle pay-per-use abordable disponible"
+      ],
+      "tryText": "Essayer"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment Ça Marche",
+    "description": "Stabilisez vos vidéos en 3 étapes simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Télécharger la Vidéo",
+        "text": "Téléchargez votre fichier vidéo ou séquence tremblante",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Sélectionner les Paramètres",
+        "text": "Personnalisez les préférences de stabilisation si nécessaire",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Télécharger la Vidéo Stabilisée",
+        "text": "Recevez votre vidéo stabilisée et fluide en quelques minutes",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "Stabilisez Votre Première Vidéo →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilités Infinies",
+    "description": "Parfait pour toute application vidéo",
+    "items": [
+      "Contenu YouTube de qualité professionnelle",
+      "Vidéos sur les réseaux sociaux sans secousses",
+      "Présentations et webinaires d'affaires",
+      "Enregistrements d'événements et vidéos en direct",
+      "Vitrines de propriétés immobilières",
+      "Vlogs de voyage avec des transitions fluides",
+      "Moments forts sportifs et prises de vue d'action",
+      "Tutoriels et vidéos explicatives"
+    ]
+  },
+  "successStories": {
+    "heading": "Vraies Histoires de Succès",
+    "description": "Voir comment les utilisateurs améliorent leurs vidéos avec l'IA",
+    "items": [
+      {
+        "tag": "Vlogs de Voyage",
+        "heading": "Amélioration de la Chaîne YouTube",
+        "before": {
+          "label": "Avant",
+          "text": "Séquences tremblotantes"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Élégant et professionnel"
+        },
+        "value": "95%",
+        "key": "Amélioration de la Qualité",
+        "description": "Les spectateurs ont adoré l'apparence plus fluide ! Les taux d'engagement ont augmenté, entraînant un bond de 50 % des abonnements."
+      },
+      {
+        "tag": "Immobilier",
+        "heading": "Vidéos de Vitrine de Propriétés",
+        "before": {
+          "label": "Avant",
+          "text": "La caméra tremblante semble peu professionnelle"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Poli et accueillant"
+        },
+        "value": "98%",
+        "key": "Impressions des Clients Améliorées",
+        "description": "Les clients ont remarqué la présentation claire et invitante, conduisant à des ventes plus rapides."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison des Modèles IA",
+    "description": "Optimisez votre expérience de stabilisation vidéo",
+    "items": [
+      "Stabilisation Standard : Correction de base pour les tremblements mineurs, traitement rapide",
+      "Stabilisation Avancée : Lissage complet pour des secousses extrêmes, sortie de haute qualité",
+      "Aperçu en temps réel pour un feedback instantané",
+      "Prend en charge une variété de formats vidéo",
+      "S'intègre parfaitement avec tous les logiciels de montage vidéo"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils IA Connexes",
+    "description": "Découvrez d'autres outils IA puissants pour améliorer la qualité vidéo"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quels types de vidéos peuvent être stabilisées ?",
+        "answer": "Vous pouvez stabiliser n'importe quelle vidéo, y compris les vidéos personnelles, les séquences professionnelles, ou le contenu créé pour les réseaux sociaux. Notre IA fonctionne efficacement sur divers formats et qualités."
+      },
+      {
+        "question": "Y a-t-il une durée maximale de vidéo pour la stabilisation ?",
+        "answer": "Non, vous pouvez télécharger des vidéos de n'importe quelle longueur. Cependant, les vidéos plus longues peuvent nécessiter un peu plus de temps de traitement. Nous suggérons des clips plus courts pour une stabilisation rapide."
+      },
+      {
+        "question": "Comment la stabilisation par IA fonctionne-t-elle par rapport aux méthodes traditionnelles ?",
+        "answer": "Notre IA analyse chaque image de votre vidéo pour détecter les mouvements et les stabilise automatiquement, ce qui entraîne des séquences plus fluides sans besoin de montage manuel."
+      },
+      {
+        "question": "Puis-je prévisualiser la vidéo stabilisée avant de la télécharger ?",
+        "answer": "Oui ! Vous pouvez prévisualiser la vidéo stabilisée en temps réel pour voir les améliorations avant de finaliser votre téléchargement."
+      },
+      {
+        "question": "Y a-t-il des pertes de qualité après la stabilisation ?",
+        "answer": "Nous accordons la priorité à la conservation de la qualité de votre vidéo. Bien que des artefacts mineurs puissent se produire, notre technologie avancée garantit une perte minimale de clarté originale."
+      },
+      {
+        "question": "Quel est le coût associé à la stabilisation ?",
+        "answer": "Le service est proposé sur une base de paiement à l'utilisation, avec des prix basés sur la durée et la complexité de la vidéo. Vous ne payez que pour la stabilisation dont vous avez besoin."
+      },
+      {
+        "question": "Puis-je stabiliser des vidéos avec de la musique de fond et des voix off ?",
+        "answer": "Absolument ! Vos pistes audio resteront intactes pendant le processus de stabilisation, garantissant une expérience de visionnage complète."
+      },
+      {
+        "question": "Un montage vidéo préalable est-il nécessaire avant la stabilisation ?",
+        "answer": "Aucun montage préalable n'est nécessaire. Téléchargez simplement votre séquence, et notre IA s’occupera du reste pour vous."
+      },
+      {
+        "question": "Quels formats puis-je télécharger pour la stabilisation ?",
+        "answer": "Nous prenons en charge les formats vidéo populaires, y compris MP4, AVI et MOV. La plupart des formats standards peuvent être traités avec notre technologie."
+      },
+      {
+        "question": "Fournissez-vous un support client pour les vidéos stabilisées ?",
+        "answer": "Oui ! Notre équipe de service à la clientèle est disponible 24/7 pour répondre à toutes vos questions ou problèmes concernant votre expérience de stabilisation vidéo."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Stabiliser Vos Vidéos ?",
+    "description": "Commencez avec des crédits gratuits - Expérimentez la stabilité par vous-même",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Essayez-le Maintenant →"
+  },
+  "footer": {
+    "heading": "Prêt à Stabiliser Vos Séquences ?",
+    "description": "Essayez WaveSpeed AI maintenant et découvrez les transformations vidéo fluides. Aucun enregistrement requis.",
+    "ctaText": "Stabilisez les Vidéos Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

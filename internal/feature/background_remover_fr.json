@@ -1,0 +1,225 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Supprimer les arrière-plans",
+  "meta": {
+    "description": "Supprimez sans effort les arrière-plans des images pour créer des visuels propres et professionnels en quelques secondes. Idéal pour le commerce électronique, le marketing et un usage personnel. Découvrez la puissance de l'édition d'images alimentée par l'IA dès aujourd'hui !",
+    "keywords": "supprimer arrière-plan, édition d'images IA, images de commerce électronique, suppression d'arrière-plan d'image, outils photo IA, photographie de produit, visuels propres, images marketing, photos professionnelles, WaveSpeed AI, édition d'images rapide"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Supprimer l'arrière-plan",
+    "subHeading": "Créez instantanément des images professionnelles",
+    "description": "Transformez vos photos en supprimant les arrière-plans indésirables en quelques secondes. Parfait pour améliorer les images de produits et créer des visuels époustouflants d'un simple clic.",
+    "tryText": "Supprimer l'arrière-plan maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution de Supprimer l'Arrière-plan WaveSpeed AI",
+    "left": {
+      "heading": "Défis Traditionnels",
+      "items": [
+        "Édition manuelle chronophage",
+        "Interfaces logicielles complexes",
+        "Les coûts des services professionnels peuvent être élevés",
+        "Compétences d'édition limitées nécessaires pour des résultats de qualité",
+        "Qualité de sortie inconsistante selon les projets"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeedAI",
+      "items": [
+        "Suppression instantanée d'arrière-plan en quelques secondes",
+        "Interface conviviale accessible à tous",
+        "Solution économique - pas de frais cachés",
+        "Résultats de haute qualité constants à chaque fois",
+        "Tarification à l'utilisation pour une utilisation flexible"
+      ],
+      "tryText": "Essayez"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment Cela Fonctionne",
+    "description": "Supprimez les arrière-plans en seulement 4 étapes faciles",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Télécharger l'image",
+        "text": "Téléchargez simplement l'image que vous souhaitez éditer",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Traitement Automatique",
+        "text": "Laissez l'IA analyser et supprimer automatiquement l'arrière-plan",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Aperçu du Résultat",
+        "text": "Vérifiez votre image avec l'arrière-plan supprimé et apportez des ajustements si nécessaire",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Télécharger l'image",
+        "text": "Obtenez votre image éditée en haute résolution instantanément",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Supprimez votre premier arrière-plan →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilités Infinies",
+    "description": "Transformez vos images pour n'importe quel cas d'utilisation",
+    "items": [
+      "Images de produits pour les annonces de commerce électronique",
+      "Publications et publicités sur les réseaux sociaux",
+      "Présentations et rapports professionnels",
+      "Matériel marketing et brochures",
+      "Visuels pour blogs et sites web",
+      "Flyers d'événements et graphiques promotionnels",
+      "Cadeaux personnalisés et projets",
+      "Photos d'annonces immobilières"
+    ]
+  },
+  "successStories": {
+    "heading": "Vraies Histoires de Succès",
+    "description": "Découvrez comment les utilisateurs améliorent leurs images avec l'IA",
+    "items": [
+      {
+        "tag": "Industrie du Commerce Électronique",
+        "heading": "Amélioration des Annonces de Produits",
+        "before": {
+          "label": "Avant",
+          "text": "Arrière-plans encombrés"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Images nettes et claires"
+        },
+        "value": "97%",
+        "key": "Augmentation de la Qualité",
+        "description": "Nos images de produits ont l'air professionnelles, augmentant les ventes de 35% après les avoir améliorées avec le supprimer l'arrière-plan."
+      },
+      {
+        "tag": "Photographie",
+        "heading": "Photographe Indépendant",
+        "before": {
+          "label": "Avant",
+          "text": "Les modifications manuelles prenaient des heures"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Traitement rapide"
+        },
+        "value": "90%",
+        "key": "Temps Gagné",
+        "description": "Le supprimer l'arrière-plan a rationalisé mon flux de travail, me permettant de servir plus de clients efficacement."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison des Modèles d'Édition",
+    "description": "Choisissez le bon mode pour votre projet",
+    "items": [
+      "Mode Basique : Suppression rapide d'arrière-plan avec une précision standard",
+      "Mode Avancé : Algorithmes améliorés pour les images complexes",
+      "Ajustements Personnalisés : Ajustez manuellement les bords de suppression selon vos besoins",
+      "Sortie haute résolution pour toutes les images",
+      "Pas de filigranes ni de limites d'utilisation"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils IA Associés",
+    "description": "Explorez d'autres outils IA innovants pour vos besoins en image"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quels types d'images peuvent être traitées ?",
+        "answer": "Vous pouvez télécharger des images JPG, PNG et WebP. L'outil fonctionne mieux avec des images claires et bien éclairées ayant des sujets distincts."
+      },
+      {
+        "question": "Est-il facile à utiliser pour les débutants ?",
+        "answer": "Absolument ! La plateforme est conçue pour être facile à utiliser, permettant à quiconque, quelles que soient ses compétences techniques, de supprimer facilement les arrière-plans."
+      },
+      {
+        "question": "Combien de temps cela prend-il pour traiter une image ?",
+        "answer": "Le traitement est généralement instantané, avec des résultats disponibles en quelques secondes."
+      },
+      {
+        "question": "Puis-je modifier la sortie après la suppression de l'arrière-plan ?",
+        "answer": "Oui ! Vous pouvez apporter des ajustements si nécessaire avant de télécharger votre image finale."
+      },
+      {
+        "question": "Y a-t-il des limites de taille pour les images ?",
+        "answer": "Actuellement, nous prenons en charge des images allant jusqu'à 10 Mo. Les fichiers plus volumineux peuvent nécessiter une compression avant le téléchargement."
+      },
+      {
+        "question": "Y a-t-il des frais d'abonnement ?",
+        "answer": "Non, nous proposons un modèle de paiement à l'utilisation, ce qui signifie que vous ne payez que pour ce que vous utilisez sans aucune obligation d'abonnement."
+      },
+      {
+        "question": "Quelle est la qualité des images de sortie ?",
+        "answer": "Toutes les images traitées sont en haute résolution, garantissant une clarté nette pour toute application."
+      },
+      {
+        "question": "Puis-je utiliser les images éditées à des fins commerciales ?",
+        "answer": "Oui, toutes les images éditées avec notre outil peuvent être utilisées pour des projets commerciaux sans frais de licence supplémentaires."
+      },
+      {
+        "question": "Que faire si je rencontre un problème avec le service ?",
+        "answer": "Notre équipe d'assistance est disponible par e-mail et chat en direct pour vous aider avec toutes vos questions ou difficultés techniques."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Améliorer Vos Images ?",
+    "description": "Commencez à supprimer les arrière-plans aujourd'hui - Découvrez la facilité de l'édition IA par vous-même !",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Supprimer l'arrière-plan maintenant →"
+  },
+  "footer": {
+    "heading": "Prêt à Transformer Vos Photos ?",
+    "description": "Essayez WaveSpeed AI maintenant et voyez la différence par vous-même. Inscription non requise.",
+    "ctaText": "Supprimer des objets maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

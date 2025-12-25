@@ -1,0 +1,226 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI 景深生成器",
+  "meta": {
+    "description": "使用我们的 AI 景深生成器增强您的图像，获得惊艳的背景模糊效果。非常适合产品摄影、肖像和社交媒体。轻松提升您的视觉内容！",
+    "keywords": "AI 景深生成器，背景模糊 AI，产品摄影增强，图像效果工具，电子商务图像工具，肖像背景模糊，Instagram 照片编辑，高质量图像处理，视觉内容优化器，摄影工具"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI 工具",
+        "items": [
+          [
+            "AI 工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即尝试"
+  },
+  "hero": {
+    "heading": "转换您的图像",
+    "subHeading": "瞬间添加惊艳的景深效果",
+    "description": "使用我们的 AI 景深生成器提升您的摄影。将普通图像转变为引人注目的视觉效果，呈现美丽的背景模糊效果。操作简单—只需上传您的照片，即可观看魔法发生！",
+    "tryText": "立即开始",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI 景深生成器解决方案",
+    "left": {
+      "heading": "传统挑战",
+      "items": [
+        "手动编辑耗时且劳动密集",
+        "需要高级软件知识和昂贵工具",
+        "难以实现专业外观的结果",
+        "对背景效果的自定义选项有限",
+        "业余者的学习曲线令人沮丧"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI 解决方案",
+      "items": [
+        "在几秒钟内应用惊艳的景深效果",
+        "无需下载软件或复杂工具—只需上传！",
+        "轻松实现专业效果，AI 帮您完成",
+        "自定义模糊强度和焦点区域",
+        "以按需付费的方式提供实惠的定价"
+      ],
+      "tryText": "尝试"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "通过 4 步轻松创建美丽的景深",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传您的图像",
+        "text": "拖放您的照片或从设备中选择",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "选择焦点",
+        "text": "选择您希望保持清晰的区域",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "调整景深设置",
+        "text": "设置模糊强度以达到您想要的外观",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载您的图像",
+        "text": "在几秒钟内获取您惊艳的景深增强照片",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "生成您的惊艳照片 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无尽可能",
+    "description": "适用于各种应用",
+    "items": [
+      "增强电子商务产品图像",
+      "为个人使用创造美丽的肖像",
+      "提升您的社交媒体帖子",
+      "设计引人注目的营销材料",
+      "制作难忘的邀请函和图形",
+      "为博客和网站开发内容",
+      "制作惊艳的视觉艺术作品",
+      "将日常照片转变为杰作"
+    ]
+  },
+  "successStories": {
+    "heading": "真实的成功故事",
+    "description": "发现 AI 对图像增强的影响",
+    "items": [
+      {
+        "tag": "摄影爱好者",
+        "heading": "电子商务产品图像",
+        "before": {
+          "label": "之前",
+          "text": "平淡无奇"
+        },
+        "after": {
+          "label": "之后",
+          "text": "视觉冲击力十足"
+        },
+        "value": "94.7%",
+        "key": "视觉吸引力提升",
+        "description": "我们的产品图像转变了销售—经过景深效果增强后，客户参与度提高了 50%。"
+      },
+      {
+        "tag": "专业摄影师",
+        "heading": "社交媒体活动",
+        "before": {
+          "label": "之前",
+          "text": "标准图像"
+        },
+        "after": {
+          "label": "之后",
+          "text": "引人注目的视觉效果"
+        },
+        "value": "88%",
+        "key": "参与度提升",
+        "description": "使用景深生成器，我在社交媒体帖子上的点赞增加了 88%！我的粉丝喜欢新的外观。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "景深效果选项",
+    "description": "选择适合您视觉的效果",
+    "items": [
+      "标准景深：适用于一般图像的柔和模糊，理想用于肖像和风景",
+      "创意景深：艺术形状和颜色，完美适合更具风格化的照片",
+      "自定义焦点：指定您自己的焦点区域以获得独特的构图",
+      "动态景深：根据图像上下文调整，提供量身定制的效果",
+      "即时预览功能以实时查看更改",
+      "所有生成图像均包含商业使用权"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关 AI 工具",
+    "description": "发现更多惊人的 AI 工具为您的照片"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要知道的一切",
+    "items": [
+      {
+        "question": "哪些图像格式兼容？",
+        "answer": "我们支持 JPG、PNG 和 WebP 格式。确保您的图像具有高分辨率以获得最佳效果。"
+      },
+      {
+        "question": "我可以控制模糊的强度吗？",
+        "answer": "可以！您可以轻松调整模糊强度以达到所需的背景效果。"
+      },
+      {
+        "question": "AI 如何知道要关注哪些区域？",
+        "answer": "您手动选择焦点，让 AI 自然地模糊图像的其余部分。"
+      },
+      {
+        "question": "我可以增强多少图像？",
+        "answer": "没有限制！您可以增强多个图像，没有限制；只需上传并生成所需数量。"
+      },
+      {
+        "question": "使用此工具我需要任何特别的软件吗？",
+        "answer": "不需要任何特别软件或下载；一切都通过我们的在线平台完成。"
+      },
+      {
+        "question": "您对景深生成器使用何种定价模式？",
+        "answer": "我们提供按需付费模式，确保您仅为应用的效果付费—无需订阅。"
+      },
+      {
+        "question": "我可以多快下载增强的图像？",
+        "answer": "生成时间通常为 1-2 分钟，快速交付您的景深增强图像。"
+      },
+      {
+        "question": "我对增强的图像拥有权利吗？",
+        "answer": "是的！您对通过我们平台处理的所有图像拥有完整的商业使用权。"
+      },
+      {
+        "question": "如果出现问题，您提供什么支持？",
+        "answer": "我们提供完整的支持，包括文档、教程和客户服务。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备好增强您的照片了吗？",
+    "description": "今天就开始使用我们的 AI 景深生成器，立即见证转变！",
+    "contactUsText": "联系我们",
+    "tryText": "立即尝试 →"
+  },
+  "footer": {
+    "heading": "今天就转换您的照片！",
+    "description": "体验我们 AI 景深生成器的惊艳效果，无需注册，立即尝试。",
+    "ctaText": "立即增强您的图像",
+    "text": "© 2025 WaveSpeed AI. 保留所有权利。"
+  }
+}

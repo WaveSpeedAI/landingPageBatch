@@ -1,0 +1,226 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - AI Kartunizer",
+  "meta": {
+    "description": "Transformasikan foto Anda menjadi seni kartun yang hidup dengan AI. Sempurna untuk proyek pribadi, media sosial, dan pemasaran kreatif.",
+    "keywords": "AI Kartunizer, konverter foto ke kartun, pembuat foto kartun, alat kreatif, konten media sosial, seni digital, efek kartun, pengeditan foto menyenangkan, transformasi artistik, kartun yang dipersonalisasi, WaveSpeed AI, pembuat seni AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Transformasi Foto ke Kartun",
+    "subHeading": "Ubah Gambar Anda menjadi Seni Kartun yang Menyenangkan",
+    "description": "Dengan hanya beberapa klik, ubah foto favorit Anda menjadi gambar kartun yang menarik. Ideal untuk penggunaan pribadi atau untuk meningkatkan kehadiran media sosial Anda. Rasakan kreativitas AI Kartunizer kami – biarkan imajinasi Anda menjadi hidup!",
+    "tryText": "Buat Kartun Anda Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi AI Kartunizer WaveSpeed AI",
+    "left": {
+      "heading": "Tantangan Tradisional",
+      "items": [
+        "Karya seni manual memakan waktu dan mahal",
+        "Membutuhkan keterampilan seni dan keahlian perangkat lunak",
+        "Sulit untuk mencapai gaya yang konsisten",
+        "Opsi kustomisasi terbatas",
+        "Biaya tinggi untuk seni kartun atau karikatur"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeed AI",
+      "items": [
+        "Ubah foto menjadi seni kartun dalam hitungan detik",
+        "Tidak diperlukan keterampilan seni - Cukup unggah foto Anda",
+        "Gaya kartun yang konsisten dan menarik",
+        "Modifikasi tanpa batas dan kreasi unik",
+        "Model bayar sesuai penggunaan yang terjangkau untuk setiap pengguna"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Dari foto ke kartun dalam 4 langkah mudah",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Foto Anda",
+        "text": "Pilih dan unggah foto yang ingin Anda kartunkan",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Pilih Sebuah Gaya",
+        "text": "Pilih gaya kartun yang sesuai dengan visi Anda",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Sesuaikan Fitur",
+        "text": "Sesuaikan elemen seperti warna dan efek untuk mendapatkan kartun sempurna Anda",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Unduh Kartun Anda",
+        "text": "Dapatkan gambar kartun unik Anda dalam sekejap",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Buat Kartun Anda Sekarang →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Kartun yang Tak Terbatas",
+    "description": "Ideal untuk setiap ide kreatif",
+    "items": [
+      "Kartun yang dipersonalisasi untuk hadiah",
+      "Gambar profil media sosial yang menarik",
+      "Materi pemasaran kreatif",
+      "Seni digital unik untuk situs web",
+      "Ilustrasi kustom untuk blog",
+      "Avatar menyenangkan untuk profil game",
+      "Pengumuman dan undangan bergaya kartun",
+      "Desain karakter yang hidup untuk cerita"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Nyata Transformasi",
+    "description": "Temukan bagaimana alat kami telah memberikan dampak kreatif",
+    "items": [
+      {
+        "tag": "Penggemar Seni",
+        "heading": "Hadiah yang Tak Terlupakan",
+        "before": {
+          "label": "Sebelum",
+          "text": "Foto generik"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Kartun kustom"
+        },
+        "value": "100%",
+        "key": "Tingkat Kepuasan",
+        "description": "Keluarga kami sangat menyukai versi kartun unik dari foto liburan kami! Hadiah yang sangat berkesan."
+      },
+      {
+        "tag": "Influencer Media Sosial",
+        "heading": "Kehadiran Online yang Ditingkatkan",
+        "before": {
+          "label": "Sebelum",
+          "text": "Gambar standar"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Kartun menarik"
+        },
+        "value": "80%",
+        "key": "Peningkatan Keterlibatan",
+        "description": "Pengikut saya menyukai versi kartun dari foto saya! Ini meningkatkan keterlibatan pada postingan saya."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Gaya Kartun AI",
+    "description": "Pilih gaya kartun yang tepat untuk foto Anda",
+    "items": [
+      "Kartun Klasik: Warna cerah, garis tebal, gaya asli",
+      "Seni Pop: Percikan cat yang hidup, nuansa komik retro, kontras tinggi",
+      "Minimalis: Garis bersih, warna lembut, estetika modern",
+      "Efek Sketsa: Tampilan gambar tangan, cocok untuk kesan artistik",
+      "Kartun 3D: Kedalaman dinamis, karakter playful, nada hidup",
+      "Gaya Anime: Fitur yang tajam dan ekspresif, sempurna untuk desain karakter"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Jelajahi lebih banyak solusi AI kreatif untuk kebutuhan artistik Anda"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Semua yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Jenis foto apa yang paling cocok untuk dikartunkan?",
+        "answer": "Foto dengan subjek yang jelas dan pencahayaan yang baik akan menghasilkan hasil terbaik. Gambar resolusi lebih tinggi, setidaknya 800x800 piksel, memungkinkan efek kartun yang lebih detail."
+      },
+      {
+        "question": "Bisakah saya menyesuaikan fitur kartun setelah dihasilkan?",
+        "answer": "Ya! Anda dapat menyesuaikan warna, garis, dan efek untuk tampilan unik yang sesuai dengan selera atau kebutuhan proyek Anda."
+      },
+      {
+        "question": "Berapa lama waktu yang diperlukan untuk gambar kartun?",
+        "answer": "Transformasi terjadi hampir secara instan! Anda dapat mengunduh gambar kartun Anda dalam hitungan detik setelah diproses."
+      },
+      {
+        "question": "Apakah ada batasan seberapa banyak foto yang bisa saya kartunkan?",
+        "answer": "Tidak ada batasan! Anda dapat membuat sebanyak mungkin gambar kartun yang Anda inginkan, dengan setiap unggahan diproses secara individual."
+      },
+      {
+        "question": "Bisakah saya menggunakan gambar kartun secara komersial?",
+        "answer": "Ya! Semua gambar kartun yang dibuat melalui alat kami datang dengan hak komersial penuh untuk penggunaan tak terbatas."
+      },
+      {
+        "question": "Model harga apa yang digunakan untuk layanan ini?",
+        "answer": "Kami beroperasi dengan model bayar sesuai penggunaan: bayar hanya untuk gambar yang Anda kartunkan, tanpa biaya langganan atau biaya tersembunyi."
+      },
+      {
+        "question": "Apakah saya perlu perangkat lunak atau keterampilan desain untuk menggunakan AI Kartunizer?",
+        "answer": "Tidak! AI Kartunizer ramah pengguna dan tidak memerlukan keterampilan desain. Cukup unggah foto dan biarkan AI mengurus sisanya."
+      },
+      {
+        "question": "Bisakah saya membagikan gambar kartun saya langsung dari platform?",
+        "answer": "Tentu saja! Setelah menghasilkan kartun Anda, Anda dapat dengan mudah membagikannya langsung ke akun media sosial Anda."
+      },
+      {
+        "question": "Dukungan apa yang tersedia jika saya mengalami masalah?",
+        "answer": "Kami menawarkan dukungan yang komprehensif melalui email dan obrolan langsung, dengan pustaka sumber daya yang kaya untuk pertanyaan umum dan tips pemecahan masalah."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Mengubah Foto Anda Menjadi Kartun?",
+    "description": "Mulai dengan kredit gratis - Hidupkan gambar Anda",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Coba Sekarang →"
+  },
+  "footer": {
+    "heading": "Transformasikan Foto Anda dengan Keajaiban Kartun",
+    "description": "Rasakan AI Kartunizer hari ini dan lihat perbedaannya. Tanpa perlu mendaftar.",
+    "ctaText": "Buat Kartun Anda Sekarang",
+    "text": "© 2025 WaveSpeed AI. Hak cipta dilindungi."
+  }
+}

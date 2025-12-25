@@ -1,0 +1,229 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Generator Pola AI",
+  "meta": {
+    "description": "Buat pola tekstil unik dengan mudah menggunakan WaveSpeed AI. Manfaatkan teknologi AI terbaru untuk menghasilkan desain kustom yang cocok untuk mode, interior, dan banyak lagi. Rasakan kreativitas dan efisiensi yang tiada tara hari ini!",
+    "keywords": "generator pola AI, desain tekstil AI, pola kain kustom, alat desain mode, pola desain interior, wave speed AI, generator desain kreatif, pencipta pola otomatis, cetakan tekstil unik, solusi desain e-commerce"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Pembuatan Pola Menjadi Mudah",
+    "subHeading": "Buat Desain Unik Dengan Mudah",
+    "description": "Hasilkan pola tekstil satu-of-a-kind dalam beberapa detik menggunakan AI mutakhir. Sempurna untuk desainer, merek, dan siapa saja yang ingin membuat kain yang menonjol. Mulailah perjalanan kreatif Anda hari ini!",
+    "tryText": "Coba Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Generator Pola AI WaveSpeed AI",
+    "left": {
+      "heading": "Tantangan Desain Tradisional",
+      "items": [
+        "Proses desain manual yang memakan waktu",
+        "Iterasi desain yang terbatas",
+        "Biaya tinggi untuk freelancer dan perangkat lunak desain",
+        "Kebutuhan akan keterampilan desain yang luas",
+        "Kualitas desain yang tidak konsisten di seluruh produk"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeed AI",
+      "items": [
+        "Hasilkan pola unik dalam waktu kurang dari satu menit",
+        "Tidak diperlukan keterampilan desain - Cukup masukkan ide Anda",
+        "Variasi dan gaya tak terbatas untuk dijelajahi",
+        "Dapat diskalakan untuk jumlah desain berapa pun",
+        "Harga yang efisien untuk bisnis"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Buat pola yang berbeda dalam 4 langkah sederhana",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Masukkan Ide Anda",
+        "text": "Deskripsikan gaya atau tema yang Anda inginkan untuk pola Anda",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Pilih Palet Warna",
+        "text": "Pilih warna yang paling cocok untuk merek atau proyek Anda",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Opsi Kustomisasi",
+        "text": "Perhalus kompleksitas dan tekstur pola Anda",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Unduh Pola Anda",
+        "text": "Terima pola resolusi tinggi yang siap diproduksi",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Hasilkan Pola Pertama Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Peluang Desain Tanpa Batas",
+    "description": "Ideal untuk setiap proyek kreatif",
+    "items": [
+      "Desain kain mode untuk pakaian",
+      "Tekstil dekorasi rumah",
+      "Pola tempat tidur dan pelapis",
+      "Wallpaper unik",
+      "Desain permukaan kreatif untuk produk",
+      "Opsi tekstil ramah lingkungan",
+      "Pola kustom untuk acara",
+      "Proyek seni dan kerajinan"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Temukan bagaimana merek mengubah desain mereka dengan AI",
+    "items": [
+      {
+        "tag": "Industri Mode",
+        "heading": "Lini Pakaian Inovatif",
+        "before": {
+          "label": "Sebelum",
+          "text": "Siklus desain yang panjang"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Generasi pola instan"
+        },
+        "value": "98%",
+        "key": "Efisiensi Waktu",
+        "description": "Kami mampu meluncurkan koleksi baru kami berminggu-minggu lebih awal dari jadwal dengan menciptakan pola unik dalam hitungan menit."
+      },
+      {
+        "tag": "Barang Rumah",
+        "heading": "Koleksi Tempat Tidur",
+        "before": {
+          "label": "Sebelum",
+          "text": "Desain standar"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Pola kustom"
+        },
+        "value": "95%",
+        "key": "Keunikan Desain",
+        "description": "Produk kami sekarang menonjol dengan pola eksklusif yang dihasilkan oleh AI, menjadikan merek kami lebih menarik."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Model AI",
+    "description": "Temukan opsi yang tepat untuk desain pola Anda",
+    "items": [
+      "Model Dasar: Generasi cepat, kualitas standar, cocok untuk desain awal",
+      "Model Premium: Kualitas dan kompleksitas pola yang ditingkatkan untuk kebutuhan lanjutan",
+      "Kontrol warna untuk hasil terbaik berdasarkan persyaratan merek",
+      "Waktu generasi cepat untuk pengujian prototipe yang cepat",
+      "Hak penggunaan komersial termasuk untuk semua pola yang dihasilkan"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Jelajahi lebih banyak alat desain inovatif untuk kreatif"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Semua yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Jenis desain apa yang dapat saya buat dengan generator pola?",
+        "answer": "Anda dapat membuat berbagai pola tekstil termasuk pola floral, geometris, abstrak, dan desain bertema yang sempurna untuk mode, interior, dan proyek artistik."
+      },
+      {
+        "question": "Bagaimana saya memastikan pola tersebut unik?",
+        "answer": "Setiap pola dihasilkan berdasarkan masukan Anda, memungkinkan variasi yang praktis tidak terbatas. Anda dapat menyesuaikan warna dan gaya untuk keaslian lengkap."
+      },
+      {
+        "question": "Format file apa saja yang tersedia untuk pola yang dihasilkan?",
+        "answer": "Pola tersedia dalam berbagai format termasuk JPEG, PNG, dan file vektor yang cocok untuk pencetakan dan penggunaan digital."
+      },
+      {
+        "question": "Bisakah saya mengedit pola yang dihasilkan lebih lanjut?",
+        "answer": "Ya! Setelah Anda mengunduh pola, Anda dapat menggunakan perangkat lunak desain grafis untuk memodifikasinya sesuai kebutuhan proyek spesifik Anda."
+      },
+      {
+        "question": "Apakah ada batasan seberapa banyak pola yang dapat saya hasilkan?",
+        "answer": "Tidak, Anda dapat menghasilkan sebanyak mungkin pola yang Anda butuhkan, menjadikannya dapat diskala untuk proyek kecil atau koleksi besar."
+      },
+      {
+        "question": "Bagaimana cara kerja harga untuk pembuatan pola?",
+        "answer": "WaveSpeed menggunakan model bayar sesuai kebutuhan, memungkinkan Anda membayar hanya untuk pola yang Anda hasilkan, menjadikannya ekonomis dan fleksibel."
+      },
+      {
+        "question": "Seberapa cepat saya dapat mengharapkan untuk menerima pola saya?",
+        "answer": "Pembuatan pola biasanya instan, memungkinkan Anda memulai proses desain tanpa penundaan."
+      },
+      {
+        "question": "Apakah ada hak penggunaan yang perlu saya ketahui?",
+        "answer": "Ya! Semua pola yang dihasilkan dilengkapi dengan hak komersial penuh, memberikan Anda kebebasan lengkap untuk menggunakannya untuk proyek Anda."
+      },
+      {
+        "question": "Dukungan apa yang tersedia jika saya memerlukan bantuan?",
+        "answer": "Tim dukungan kami siap membantu Anda dengan pertanyaan apa pun melalui email atau chat, memastikan Anda memiliki semua sumber daya yang Anda butuhkan untuk sukses."
+      },
+      {
+        "question": "Bisakah bisnis menggunakan alat untuk kebutuhan desain massal?",
+        "answer": "Tentu saja! Alat ini sempurna untuk bisnis yang memerlukan volume tinggi pola unik dan menawarkan opsi generasi batch yang efisien."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Mulai Membuat Pola Unik?",
+    "description": "Daftar sekarang dan jelajahi kreativitas Anda dengan kredit gratis",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Coba Sekarang →"
+  },
+  "footer": {
+    "heading": "Transformasi Proses Desain Anda Hari Ini!",
+    "description": "Coba WaveSpeed AI sekarang dan lihat sendiri betapa mudahnya menghasilkan pola menakjubkan. Tidak diperlukan pendaftaran.",
+    "ctaText": "Buat Pola Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi."
+  }
+}

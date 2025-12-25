@@ -1,0 +1,229 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Efecto HDR IA",
+  "meta": {
+    "description": "Mejora tus imágenes con impresionantes efectos HDR utilizando nuestra tecnología IA. Perfecto para fotos de productos, campañas de marketing y redes sociales. ¡Transforma tus visuales sin esfuerzo!",
+    "keywords": "efecto HDR IA, alto rango dinámico, mejora de imágenes, fotografía de productos, visuales de marketing, imágenes para redes sociales, herramienta de edición de fotos, comercio electrónico, narrativa visual, WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas IA",
+        "items": [
+          [
+            "Herramientas IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Muestra",
+        "items": [
+          [
+            "Muestra",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Transforma Tus Imágenes con Efecto HDR IA",
+    "subHeading": "Dale Vida a Tus Fotos con Detalles Vibrantes",
+    "description": "Eleva tus imágenes de producto con impresionantes efectos HDR que destacan cada detalle y color. Perfecto para materiales de marketing cautivadores y contenido para redes sociales. ¡Experimenta la diferencia hoy!",
+    "tryText": "Pruébalo Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución de Efecto HDR IA de WaveSpeed AI",
+    "left": {
+      "heading": "Desafíos de Edición de Imágenes Tradicionales",
+      "items": [
+        "Ajustes manuales que consumen tiempo",
+        "Requiere habilidades de edición avanzadas",
+        "Altos costos por servicios profesionales",
+        "Control limitado sobre los resultados finales",
+        "Calidad de salida inconsistente"
+      ]
+    },
+    "right": {
+      "heading": "Solución de Efecto HDR de WaveSpeed AI",
+      "items": [
+        "Mejora imágenes en segundos con precisión IA",
+        "No se requieren habilidades de edición - Solo sube",
+        "Resultados instantáneos con impresionantes mejoras HDR",
+        "Calidad consistente cada vez",
+        "Modelo de pago por uso asequible para todos los usuarios"
+      ],
+      "tryText": "Prueba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "Mejora tus imágenes sin esfuerzo en 4 pasos simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Sube la Imagen",
+        "text": "Sube tu foto para comenzar el proceso de mejora",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Selecciona el Efecto HDR",
+        "text": "Elige entre varios estilos HDR para aplicar",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Ajusta los Parámetros",
+        "text": "Ajusta el brillo, el contraste y la saturación si es necesario",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Descarga la Imagen Mejorada",
+        "text": "Recibe tu impresionante imagen HDR lista para usar",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Genera Tu Impresionante Imagen →"
+  },
+  "endlessPossibilities": {
+    "heading": "Posibilidades Infinito",
+    "description": "Perfecto para cualquier aplicación visual",
+    "items": [
+      "Fotos de productos para plataformas de comercio electrónico",
+      "Imágenes impresionantes para redes sociales",
+      "Materiales de marketing como pancartas y anuncios",
+      "Mejoras en fotografía de bienes raíces",
+      "Fotografía de comida para restaurantes",
+      "Sesiones de fotos de moda y lookbooks",
+      "Retoques en fotografía de eventos",
+      "Proyectos creativos de diseño gráfico"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Descubre cómo las empresas están mejorando sus imágenes con IA",
+    "items": [
+      {
+        "tag": "Comercio Electrónico",
+        "heading": "Listados de Productos Mejorados",
+        "before": {
+          "label": "Antes",
+          "text": "Imágenes aburridas"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Imágenes HDR vibrantes"
+        },
+        "value": "45%",
+        "key": "Incremento en la Tasa de Conversión",
+        "description": "Transformar nuestras imágenes de producto con HDR llevó a un aumento significativo en ventas. ¡Los clientes están ahora más comprometidos!"
+      },
+      {
+        "tag": "Bienes Raíces",
+        "heading": "Listados de Propiedades Mejorados",
+        "before": {
+          "label": "Antes",
+          "text": "Fotos planas"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Imágenes dinámicas y llamativas"
+        },
+        "value": "50%",
+        "key": "Aumentaron las Consultas",
+        "description": "Usar efectos HDR revolucionó la forma en que mostramos propiedades, lo que llevó a más interés y consultas de clientes."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Modelos IA",
+    "description": "Selecciona la opción HDR óptima para tus necesidades",
+    "items": [
+      "HDR Estándar: Mejora equilibrada con 2-3x claridad",
+      "HDR Premium: Máximo detalle y atractivo para visuales de alta gama",
+      "Tiempo de procesamiento rápido de 1-2 minutos",
+      "Soporta varios formatos de imagen incluyendo JPG y PNG",
+      "Derechos de uso comercial incluidos para todas las mejoras"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas IA Relacionadas",
+    "description": "Descubre más poderosas herramientas de mejora de imágenes"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué tipo de imágenes funcionan mejor para la mejora HDR?",
+        "answer": "Las imágenes con buena iluminación y sujetos claros producen los mejores resultados HDR. Cuanto más clara y detallada sea tu imagen original, más impresionante será el resultado final después de la mejora."
+      },
+      {
+        "question": "¿Puedo personalizar el efecto HDR aplicado a mi imagen?",
+        "answer": "¡Sí! Puedes elegir entre varios estilos HDR y hacer ajustes específicos a brillo, contraste y saturación de color para lograr el aspecto deseado."
+      },
+      {
+        "question": "¿Qué tan rápido puedo obtener mis imágenes mejoradas?",
+        "answer": "El proceso es sorprendentemente rápido, tomando normalmente solo 1-2 minutos para recibir tu imagen HDR mejorada, facilitando la gestión de tu flujo de trabajo."
+      },
+      {
+        "question": "¿Hay alguna limitación en el número de imágenes que puedo mejorar?",
+        "answer": "¡No hay límites! Puedes mejorar tantas imágenes como desees, y nuestra plataforma permite el procesamiento por lotes para maximizar tu eficiencia."
+      },
+      {
+        "question": "¿Poseo los derechos de las imágenes después de la mejora?",
+        "answer": "¡Absolutamente! Todas las imágenes mejoradas utilizando nuestro efecto HDR IA incluyen derechos comerciales completos sin tarifas adicionales o regalías, permitiéndote usarlas libremente para cualquier propósito."
+      },
+      {
+        "question": "¿Cuál es la estructura de costos para usar la herramienta de mejora HDR?",
+        "answer": "Ofrecemos un modelo de precios flexible de pago por uso sin suscripciones mensuales. Solo pagas por las imágenes que mejoras, asegurando asequibilidad para todos los usuarios."
+      },
+      {
+        "question": "¿Pueden usarse las imágenes mejoradas con fines comerciales?",
+        "answer": "Sí, todas las imágenes mejoradas vienen con derechos comerciales completos, permitiéndote usarlas en listados de productos, campañas de marketing y más sin restricciones."
+      },
+      {
+        "question": "¿Qué soporte está disponible si tengo problemas o preguntas?",
+        "answer": "Proporcionamos soporte integral, incluyendo documentación detallada y tutoriales. Nuestro equipo de soporte está disponible por correo electrónico y chat para asistencia inmediata."
+      },
+      {
+        "question": "¿Hay alguna forma de revertir los cambios realizados por la mejora HDR?",
+        "answer": "Si bien las imágenes mejoradas son finales, conservar tus archivos originales asegura que siempre puedas revertir a ellos si es necesario. Es mejor mantener copias de seguridad de tus imágenes originales."
+      },
+      {
+        "question": "¿Pueden múltiples usuarios acceder a la herramienta simultáneamente?",
+        "answer": "Sí, múltiples usuarios pueden acceder a la plataforma al mismo tiempo, lo que la hace perfecta para equipos que trabajan en colaboración."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Mejorar Tus Imágenes con Efecto HDR IA?",
+    "description": "Comienza con créditos gratuitos - Ve visuales impresionantes ahora",
+    "contactUsText": "Contáctanos",
+    "tryText": "Pruébalo Ahora →"
+  },
+  "footer": {
+    "heading": "Transforma Tus Visuales Hoy!",
+    "description": "Experimenta el poder del Efecto HDR IA ahora sin necesidad de registro.",
+    "ctaText": "Mejora Tus Fotos Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

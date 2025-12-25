@@ -1,0 +1,223 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Éditeur de Vidéo AI",
+  "meta": {
+    "description": "Coupez, éditez et améliorez vos vidéos sans effort avec notre Éditeur de Vidéo alimenté par AI. Parfait pour les créateurs, les marketeurs et les entreprises cherchant à simplifier la production vidéo. Découvrez la facilité de l'édition vidéo aujourd'hui !",
+    "keywords": "éditeur de vidéo, édition vidéo AI, coupeur de vidéo, outil d'amélioration vidéo, WaveSpeed AI, solutions vidéo, édition vidéo e-commerce, rognage vidéo sur les réseaux sociaux, éditeur vidéo en ligne, édition vidéo rapide"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils AI",
+        "items": [
+          [
+            "Outils AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Rogner Vos Vidéos",
+    "subHeading": "Éditez et Améliorez avec Précision AI",
+    "description": "Coupez instantanément vos vidéos pour les réseaux sociaux, le marketing ou des projets personnels. Découvrez une édition sans faille et améliorez votre narration grâce à la puissance de WaveSpeed AI. Commencez dès aujourd'hui !",
+    "tryText": "Essayez Maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution Éditeur de Vidéo WaveSpeed AI",
+    "left": {
+      "heading": "Défis Traditionnels",
+      "items": [
+        "L'édition manuelle est chronophage et complexe",
+        "Nécessite des logiciels de montage coûteux",
+        "Limité à des fonctionnalités de rognage basiques",
+        "Courbe d'apprentissage élevée pour les débutants",
+        "Qualité de sortie incohérente"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed AI",
+      "items": [
+        "Rogner et couper des vidéos en quelques secondes avec l'assistance AI",
+        "Aucune compétence technique ou logiciel coûteux nécessaire",
+        "Interface conviviale pour tous les niveaux de compétence",
+        "Sortie cohérente et professionnelle à chaque fois",
+        "Tarification abordable sans frais cachés"
+      ],
+      "tryText": "Essayer"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment Ça Marche",
+    "description": "Rognez vos vidéos sans effort en 3 étapes simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Télécharger la Vidéo",
+        "text": "Choisissez la vidéo que vous souhaitez rogner ou éditer",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Sélectionner les Points de Rognage",
+        "text": "Marquez les points de début et de fin pour votre édition",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Aperçu et Sauvegarde",
+        "text": "Aperçu de votre vidéo rognée et téléchargement en quelques secondes",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "Rogner Votre Première Vidéo →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilités Infinies",
+    "description": "Idéal pour divers projets vidéo",
+    "items": [
+      "Extraits pour les réseaux sociaux pour Instagram et TikTok",
+      "Vidéos promotionnelles pour les boutiques en ligne",
+      "Moments forts vidéo pour les résumés d'événements",
+      "Messages vidéo personnalisés et salutations",
+      "Édition de contenu YouTube",
+      "Améliorations de vidéo éducative et tutorielle",
+      "Ajustements des campagnes marketing",
+      "Segments de narration créative"
+    ]
+  },
+  "successStories": {
+    "heading": "Véritables Histoires de Succès",
+    "description": "Découvrez comment les utilisateurs transforment leur édition vidéo avec AI",
+    "items": [
+      {
+        "tag": "Création de Contenu",
+        "heading": "Influenceur des Réseaux Sociaux",
+        "before": {
+          "label": "Avant",
+          "text": "Heures d'édition"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Minutes d'ajustement"
+        },
+        "value": "95%",
+        "key": "Temps Économisé",
+        "description": "J'ai rogné une semaine de contenu en moins d'une heure, maintenant ainsi mon audience engagée de manière constante."
+      },
+      {
+        "tag": "E-commerce",
+        "heading": "Promotion de Produit",
+        "before": {
+          "label": "Avant",
+          "text": "Édits coûteux"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Solutions abordables"
+        },
+        "value": "98%",
+        "key": "Réduction de Coût",
+        "description": "En utilisant l'Éditeur de Vidéo, nous avons produit des clips de produits percutants et attrayants qui ont doublé notre taux d'engagement."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison de Rognage AI",
+    "description": "Choisissez les paramètres optimaux pour vos besoins vidéo",
+    "items": [
+      "Suggestions de rognage automatiques basées sur le contenu",
+      "Édition de précision avec option de réglage fin",
+      "Options d'export rapide disponibles pour diverses plateformes",
+      "Retour d'information en temps réel pour les ajustements",
+      "Traitement dans le cloud pour une génération rapide",
+      "Droits d'utilisation commerciale inclus"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils AI Associés",
+    "description": "Découvrez d'autres outils AI innovants pour vos besoins vidéo"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quels formats vidéo sont pris en charge pour le rognage ?",
+        "answer": "Nous prenons en charge la plupart des formats vidéo populaires, y compris MP4, MOV et AVI. Téléchargez vos vidéos facilement et commencez à rogner immédiatement."
+      },
+      {
+        "question": "Puis-je combiner plusieurs clips après les avoir rognés ?",
+        "answer": "Oui ! Notre plateforme vous permet de rogner puis de combiner plusieurs clips de manière transparente en une seule vidéo, parfaite pour créer des moments forts."
+      },
+      {
+        "question": "Que se passe-t-il si je fais une erreur en rognant ?",
+        "answer": "Pas de soucis ! Vous pouvez facilement annuler les modifications et revenir aux versions précédentes avant d'enregistrer vos éditions."
+      },
+      {
+        "question": "Y a-t-il une limite sur la durée de la vidéo pour le rognage ?",
+        "answer": "Notre Éditeur de Vidéo peut gérer des vidéos allant jusqu'à 60 minutes de long, vous offrant la flexibilité d'éditer du contenu plus long."
+      },
+      {
+        "question": "Puis-je appliquer des effets après avoir rogné ?",
+        "answer": "Absolument ! Une fois votre vidéo rognée, vous pouvez ajouter des effets, des superpositions de texte et de la musique pour améliorer votre édition finale."
+      },
+      {
+        "question": "Quel est le coût d'utilisation de l'Éditeur de Vidéo ?",
+        "answer": "Nous fonctionnons sur un modèle de paiement à l'utilisation. Vous ne payez que pour les rognages effectués, assurant un excellent rapport qualité-prix sans abonnements non désirés."
+      },
+      {
+        "question": "À quelle vitesse puis-je m'attendre à ce que mes vidéos rognées soient prêtes ?",
+        "answer": "Vous pouvez vous attendre à des temps de traitement quasi instantanés. La plupart des rognages sont complétés en quelques minutes, ce qui le rend efficace pour des éditions rapides."
+      },
+      {
+        "question": "Ai-je besoin d'un logiciel spécial pour utiliser l'Éditeur de Vidéo ?",
+        "answer": "Aucun logiciel spécial n'est nécessaire ! Tout ce dont vous avez besoin est un navigateur pour accéder à notre outil d'Éditeur de Vidéo en ligne."
+      },
+      {
+        "question": "Y a-t-il des tutoriels disponibles pour m'aider à commencer ?",
+        "answer": "Oui ! Nous fournissons une vaste bibliothèque de tutoriels et de guides pour vous aider à maximiser le potentiel de l'Éditeur de Vidéo."
+      },
+      {
+        "question": "Puis-je partager mes vidéos rognées directement depuis la plateforme ?",
+        "answer": "Oui, une fois votre vidéo rognée, vous pouvez la partager directement sur diverses plateformes de réseaux sociaux ou la télécharger sur votre appareil."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Éditer Votre Première Vidéo ?",
+    "description": "Commencez avec des crédits gratuits - Découvrez la facilité du rognage AI",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Essayez-le Maintenant →"
+  },
+  "footer": {
+    "heading": "Prêt à Rogner Vos Vidéos ?",
+    "description": "Essayez WaveSpeed AI maintenant et découvrez une édition sans effort. Aucune inscription requise.",
+    "ctaText": "Rogner des Vidéos Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

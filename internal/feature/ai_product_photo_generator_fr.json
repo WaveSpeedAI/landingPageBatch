@@ -1,0 +1,230 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Générateur de Photos de Produits avec IA",
+  "meta": {
+    "description": "Révolutionnez votre expérience e-commerce avec des photos de produits générées par IA qui captivent et convertissent. Idéal pour les boutiques en ligne, le marketing sur les réseaux sociaux et les supports promotionnels. Découvrez une automation fluide, des résultats de haute qualité et aucune compétence technique requise !",
+    "keywords": "générateur de photos de produits AI, images de produits e-commerce, photos marketing, amélioration photo automatisée, images de boutique en ligne, visuels pour les réseaux sociaux, créateur d'images AI, outil de photographie de produits, images Shopify, photos de produits Amazon, génération rapide de photos"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Générateur de Photos de Produits avec IA",
+    "subHeading": "Élevez Votre Photographie de Produits Sans Effort",
+    "description": "Transformez vos images de produits ordinaires en visuels époustouflants en quelques minutes. Aucune compétence en photographie requise ! Débloquez le pouvoir d'une IA avancée pour générer des photos de produits captivantes qui valorisent votre marque. Prêt à commencer ?",
+    "tryText": "Essayez-le maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution de Générateur de Photos de Produits AI WaveSpeed",
+    "left": {
+      "heading": "Défis de la Photographie Traditionnelle",
+      "items": [
+        "Coûts élevés des services de photographie professionnelle (1500-3000 $ par séance)",
+        "Besoin d'équipement spécialisé et d'éclairage",
+        "Édition et post-traitement chronophages (3-5 jours)",
+        "Options limitées pour des images uniques et variées",
+        "Inaccessibilité pour les propriétaires de petites entreprises"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed AI",
+      "items": [
+        "Générez des images de produits époustouflantes en moins de 5 minutes",
+        "Aucun équipement ni compétence en photographie nécessaire - Il suffit de télécharger vos images",
+        "Résultats instantanés de haute qualité grâce à la technologie AI",
+        "Adaptations et styles illimités pour correspondre à votre marque",
+        "Solutions économiques - Abordables pour toutes les entreprises"
+      ],
+      "tryText": "Essayez"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment Ça Marche",
+    "description": "D'une photo basique à une image de produit remarquable en 4 étapes faciles",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Téléchargez Votre Photo",
+        "text": "Choisissez votre photo de produit ou toute image que vous souhaitez améliorer",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Personnalisez Votre Style",
+        "text": "Optionnel : Sélectionnez les préférences de style et les améliorations",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Traitement AI",
+        "text": "Laissez notre IA analyser et transformer votre image",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Téléchargez Votre Image",
+        "text": "Recevez votre photo de produit améliorée en quelques minutes",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Générez Votre Première Photo →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilités Illimitées",
+    "description": "Transformez n'importe quelle image de produit pour diverses plateformes",
+    "items": [
+      "Images professionnelles pour les annonces Shopify et Amazon",
+      "Contenu pour les réseaux sociaux (Instagram, Facebook, Pinterest)",
+      "Matériaux marketing et visuels promotionnels",
+      "Visuels pour des publicités et campagnes en ligne",
+      "Cohérence de la marque sur toutes les plateformes numériques",
+      "Graphiques et newsletters pour le marketing par e-mail",
+      "Visuels améliorés pour les blogs et sites Web",
+      "Concepts créatifs pour les lancements de produits"
+    ]
+  },
+  "successStories": {
+    "heading": "Véritables Histoires de Succès",
+    "description": "Découvrez comment les entreprises améliorent leurs visuels avec l'IA",
+    "items": [
+      {
+        "tag": "Mode",
+        "heading": "Marque de Vêtements E-Commerce",
+        "before": {
+          "label": "Avant",
+          "text": "Coûts élevés"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Génération AI abordable"
+        },
+        "value": "98%",
+        "key": "Réduction des Coûts",
+        "description": "Nous avons transformé la présentation de nos produits du jour au lendemain, augmentant les ventes de 45 %."
+      },
+      {
+        "tag": "Articles de Maison",
+        "heading": "Boutique de Décoration en Ligne",
+        "before": {
+          "label": "Avant",
+          "text": "Besoin d'une séance photo complète"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Améliorations d'images instantanées"
+        },
+        "value": "99%",
+        "key": "Temps Économisé",
+        "description": "Notre temps de réponse sur les campagnes marketing s'est considérablement amélioré grâce à la rapidité des visuels générés par IA."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison des Méthodes AI",
+    "description": "Sélectionnez la meilleure approche pour vos besoins",
+    "items": [
+      "Sortie Haute Résolution : Images époustouflantes à 300 DPI",
+      "Optimisations Intelligentes : Améliorez automatiquement la couleur et les détails",
+      "Options de Style Personnalisées pour la cohérence de la marque",
+      "Délai d'exécution rapide : Idéal pour les campagnes sensibles au temps",
+      "Formats de Fichiers Compatibles : JPEG, PNG, et plus",
+      "Traitement par Lots Disponible : Pour traiter plusieurs images à la fois"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils AI Connexes",
+    "description": "Explorez des solutions AI avancées pour le e-commerce"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quelle qualité d'image puis-je attendre ?",
+        "answer": "Attendez-vous à des images de haute qualité avec une netteté et des couleurs vives. Notre IA garantit que vos images de produits sont polies et prêtes pour n'importe quelle plateforme."
+      },
+      {
+        "question": "Puis-je personnaliser le style de sortie ?",
+        "answer": "Absolument ! Vous pouvez choisir parmi divers styles et améliorations pour correspondre à l'identité de votre marque et au type de produit."
+      },
+      {
+        "question": "Quels types d'images fonctionnent le mieux pour la génération ?",
+        "answer": "Des images claires et bien éclairées donnent des résultats optimaux, mais notre technologie peut améliorer une variété de photos pour répondre à vos besoins."
+      },
+      {
+        "question": "En quoi cela diffère-t-il de la photographie traditionnelle ?",
+        "answer": "Contrairement à la photographie traditionnelle, notre IA élimine le besoin d'équipement coûteux et de séances longues tout en fournissant des résultats de haute qualité."
+      },
+      {
+        "question": "Puis-je télécharger mes images améliorées instantanément ?",
+        "answer": "Oui ! Une fois le traitement terminé, vous pouvez télécharger vos images améliorées immédiatement."
+      },
+      {
+        "question": "Quel modèle de tarification utilisez-vous pour l'amélioration des photos ?",
+        "answer": "Nous opérons sur une base de paiement flexible à l'utilisation, ce qui signifie que vous ne payez que pour les images que vous générez sans frais cachés."
+      },
+      {
+        "question": "Combien de temps prend la génération d'images ?",
+        "answer": "Typiquement moins de 5 minutes par image, quelle que soit la complexité."
+      },
+      {
+        "question": "Pour quels cas d'utilisation la génération de photos de produits IA convient-elle le mieux ?",
+        "answer": "C'est parfait pour les boutiques en ligne, le marketing sur les réseaux sociaux, les matériaux promotionnels, et plus encore !"
+      },
+      {
+        "question": "Possède-t-on les droits des images générées ?",
+        "answer": "Oui ! Toutes les images générées incluent des droits commerciaux complets sans frais supplémentaires."
+      },
+      {
+        "question": "Quel support WaveSpeed offre-t-il ?",
+        "answer": "Nous fournissons un support étendu à travers la documentation, des tutoriels, et une équipe réactive disponible pour tout problème."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Transformer Vos Images de Produits ?",
+    "description": "Commencez avec des crédits gratuits et découvrez la magie de la photographie améliorée par IA.",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Essayez-le maintenant →"
+  },
+  "footer": {
+    "heading": "Prêt à Améliorer Vos Photos ?",
+    "description": "Découvrez WaveSpeed AI maintenant et witness the transformation. Aucune inscription requise.",
+    "ctaText": "Améliorez Mon Image Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

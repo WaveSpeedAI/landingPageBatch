@@ -1,0 +1,226 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Generador de Retratos AI",
+  "meta": {
+    "description": "Crea retratos generados por IA impresionantes y de alta calidad que reflejan tu estilo único. Aprovecha la tecnología de IA de vanguardia para desatar tu creatividad y producir obras cautivadoras en momentos. Ideal para artistas, influencers de redes sociales y mercadólogos. ¡Experimenta el futuro del arte digital!",
+    "keywords": "generador de retratos AI, creador de arte AI, herramienta de retratos digitales, retratos personalizados, AI artística, foto a retrato AI, WaveSpeed AI, arte instantáneo, visuales de branding, arte para redes sociales, soluciones digitales creativas"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas AI",
+        "items": [
+          [
+            "Herramientas AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Muestra",
+        "items": [
+          [
+            "Muestra",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Generación de Retratos Hecha Fácil",
+    "subHeading": "Transforma Tus Fotos en Hermosos Retratos AI",
+    "description": "Crea retratos impresionantes a partir de tus imágenes en solo minutos. No se requieren habilidades artísticas. Con nuestra tecnología avanzada de IA, desata tu creatividad y personaliza tu obra de arte sin esfuerzo.",
+    "tryText": "Pruébalo Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución Generador de Retratos AI WaveSpeed AI",
+    "left": {
+      "heading": "Desafíos de Retratos Tradicionales",
+      "items": [
+        "Comisiones costosas ($500-2000 por retrato)",
+        "Requiere habilidades y herramientas artísticas",
+        "Largo tiempo de entrega (semanas)",
+        "Estilos y adaptaciones limitadas",
+        "Alta barrera de entrada para artistas aspirantes"
+      ]
+    },
+    "right": {
+      "heading": "Solución WaveSpeed AI",
+      "items": [
+        "Genera retratos impresionantes en 1-5 minutos a partir de tus fotos",
+        "No se requieren habilidades artísticas - Solo sube tu imagen",
+        "Resultados instantáneos con arte potenciado por IA",
+        "Estilos e iteraciones ilimitadas disponibles",
+        "Precios asequibles con opciones de pago por uso"
+      ],
+      "tryText": "Probar"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "Crea tu Retrato AI en 4 pasos fáciles",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Subir Foto",
+        "text": "Sube tu foto favorita para ser transformada",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Elegir Estilo",
+        "text": "Selecciona un estilo artístico para tu retrato (por ejemplo, clásico, moderno, abstracto)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Personalizar Características",
+        "text": "Ajusta detalles como la paleta de colores y características faciales a tu gusto",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Descargar Retrato",
+        "text": "Recibe tu retrato generado por IA en alta resolución",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Genera Tu Primer Retrato →"
+  },
+  "endlessPossibilities": {
+    "heading": "Posibilidades Sin Fin",
+    "description": "Transforma cualquier imagen en una obra de arte",
+    "items": [
+      "Imágenes de perfil personalizadas para redes sociales",
+      "Arte para campañas de marketing",
+      "Ilustraciones personalizadas para branding",
+      "Regalos únicos y souvenirs",
+      "Avatares estilizados para juegos",
+      "Visuales creativas para sitios web",
+      "Impresiones artísticas para decoración del hogar",
+      "Visuales de branding empresarial"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Explora cómo las personas están impulsando su creatividad con retratos AI",
+    "items": [
+      {
+        "tag": "Personalidad de Redes Sociales",
+        "heading": "Perfil de Arte en Instagram",
+        "before": {
+          "label": "Antes",
+          "text": "Fotos básicas"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Impresionantes retratos AI"
+        },
+        "value": "150%",
+        "key": "Aumento de Compromiso",
+        "description": "Nuestros seguidores se dispararon después de cambiar a retratos generados por IA que capturan nuestro estilo único."
+      },
+      {
+        "tag": "Fundador de Startup",
+        "heading": "Branding Personalizado para Negocios",
+        "before": {
+          "label": "Antes",
+          "text": "Diseñadores costosos"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Retratos AI asequibles"
+        },
+        "value": "90%",
+        "key": "Ahorros de Costos",
+        "description": "Con IA, transformamos nuestra imagen de marca a una fracción del costo. ¡Innovando nuestra estrategia de marketing!"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Modelos AI",
+    "description": "Selecciona el estilo adecuado para tus necesidades de retrato",
+    "items": [
+      "Retrato Clásico: Estilo atemporal con resultados fotorrealistas",
+      "Arte Moderno: Colores audaces y diseño contemporáneo",
+      "Retrato Abstracto: Patrones únicos y estilo artístico",
+      "Estilos Personalizados: Personaliza tu retrato con características únicas",
+      "Opciones de Velocidad: Generación rápida para necesidades apremiantes",
+      "Derechos Comerciales: Derechos de uso completos para tus creaciones"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas AI Relacionadas",
+    "description": "Descubre más herramientas AI innovadoras para tus proyectos creativos"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué tipos de imágenes funcionan mejor para la generación de retratos?",
+        "answer": "Imágenes claras y de alta resolución con buena iluminación producen los mejores resultados. Recomendamos usar imágenes que se enfoquen en la cara y evitar fondos ocupados para un resultado óptimo."
+      },
+      {
+        "question": "¿Puedo modificar mis retratos después de la generación?",
+        "answer": "¡Sí! Puedes hacer ediciones para ajustar aspectos de tu retrato o regenerar usando diferentes estilos para lograr el look deseado."
+      },
+      {
+        "question": "¿Qué formatos puedo subir para los retratos?",
+        "answer": "Soporte formatos JPG, PNG y WebP. Asegúrate de que las imágenes estén bien iluminadas y tengan al menos 512x512 píxeles para la mejor calidad."
+      },
+      {
+        "question": "¿Cuánto tiempo tarda en generarse un retrato?",
+        "answer": "La generación suele tardar entre 1 y 5 minutos dependiendo de la complejidad del estilo elegido y la personalización."
+      },
+      {
+        "question": "¿Existen derechos de uso para los retratos generados?",
+        "answer": "¡Absolutamente! Todos los retratos generados vienen con derechos comerciales completos, permitiéndote usarlos para fines personales o comerciales sin tarifas adicionales."
+      },
+      {
+        "question": "¿Cuáles son los mejores casos de uso para retratos AI?",
+        "answer": "Ideal para perfiles de redes sociales, materiales de marketing, branding y cualquier proyecto creativo donde se desee arte personalizado."
+      },
+      {
+        "question": "¿Necesito habilidades especiales para crear retratos?",
+        "answer": "¡No! La herramienta de IA está diseñada para todos, independientemente de la habilidad artística. Solo sube, selecciona y personaliza para crear tu retrato único."
+      },
+      {
+        "question": "¿Cómo puedo dar retroalimentación si algo sale mal?",
+        "answer": "Tenemos un robusto sistema de soporte en su lugar; por favor contáctanos a través de nuestras opciones de contacto para asistencia y resolveremos cualquier problema."
+      },
+      {
+        "question": "¿Qué opciones de pago están disponibles para el servicio?",
+        "answer": "Ofrecemos precios flexibles de pago por uso sin tarifas ocultas. Disfruta de la libertad de pagar solo por los retratos que crees."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Crear Tu Primer Retrato AI?",
+    "description": "Comienza con créditos gratis - Desata tu creatividad ahora",
+    "contactUsText": "Contáctanos",
+    "tryText": "Pruébalo Ahora →"
+  },
+  "footer": {
+    "heading": "¿Listo para Transformar Tus Fotos?",
+    "description": "Prueba WaveSpeed AI ahora y mira la diferencia por ti mismo. No se requiere registro.",
+    "ctaText": "Genera Tu Retrato Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

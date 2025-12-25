@@ -1,0 +1,226 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI 肖像生成器",
+  "meta": {
+    "description": "创建令人惊叹的高质量 AI 生成肖像，反映您独特的风格。利用尖端 AI 技术释放您的创造力，瞬间创作出迷人的艺术作品。非常适合艺术家、社交媒体影响者和营销人员。体验数字艺术的未来！",
+    "keywords": "AI 肖像生成器, AI 艺术创作工具, 数字肖像工具, 自定义肖像, 艺术 AI, 照片转肖像 AI, WaveSpeed AI, 即时艺术作品, 品牌视觉, 社交媒体艺术, 创意数字解决方案"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI 工具",
+        "items": [
+          [
+            "AI 工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "马上试试"
+  },
+  "hero": {
+    "heading": "轻松生成肖像",
+    "subHeading": "将您的照片转化为美丽的 AI 肖像",
+    "description": "仅需几分钟即可从您的图片中创建令人惊艳的肖像。无需艺术技能。通过我们的先进 AI 技术，轻松释放您的创造力并个性化您的艺术作品。",
+    "tryText": "现在试试",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI AI 肖像生成器解决方案",
+    "left": {
+      "heading": "传统肖像的挑战",
+      "items": [
+        "昂贵的佣金（每个肖像 $500-2000）",
+        "需要艺术技能和工具",
+        "长时间的周转时间（数周）",
+        "有限的风格和调整",
+        "对有抱负的艺术家有高门槛"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI 解决方案",
+      "items": [
+        "从您的照片中在 1-5 分钟内生成惊艳的肖像",
+        "无需艺术技能 - 只需上传您的图片",
+        "使用 AI 驱动的艺术实现即时结果",
+        "提供无限的风格和迭代",
+        "实惠的定价，按需支付"
+      ],
+      "tryText": "试试"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "通过 4 个简单步骤创建您的 AI 肖像",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传照片",
+        "text": "上传您喜欢的照片以进行转换",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "选择风格",
+        "text": "为您的肖像选择艺术风格（例如，经典、现代、抽象）",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "自定义特征",
+        "text": "调整颜色调色板和面部特征等细节以符合您的喜好",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "下载肖像",
+        "text": "以高分辨率接收您的 AI 生成肖像",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "生成您的第一幅肖像 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无限可能性",
+    "description": "将任何图像转化为艺术作品",
+    "items": [
+      "社交媒体的个性化头像",
+      "用于营销活动的艺术作品",
+      "品牌的自定义插图",
+      "独特的礼物和纪念品",
+      "游戏的风格化头像",
+      "网站的创意视觉效果",
+      "家居装饰的艺术印刷品",
+      "商业品牌视觉效果"
+    ]
+  },
+  "successStories": {
+    "heading": "真实的成功故事",
+    "description": "探索个人如何通过 AI 肖像提升他们的创造力",
+    "items": [
+      {
+        "tag": "社交媒体人物",
+        "heading": "Instagram 艺术头像",
+        "before": {
+          "label": "之前",
+          "text": "基本照片"
+        },
+        "after": {
+          "label": "之后",
+          "text": "惊艳的 AI 肖像"
+        },
+        "value": "150%",
+        "key": "参与度提升",
+        "description": "在转向捕捉我们独特风格的 AI 生成肖像之后，我们的关注者激增。"
+      },
+      {
+        "tag": "初创公司创始人",
+        "heading": "企业的自定义品牌",
+        "before": {
+          "label": "之前",
+          "text": "昂贵的设计师"
+        },
+        "after": {
+          "label": "之后",
+          "text": "实惠的 AI 肖像"
+        },
+        "value": "90%",
+        "key": "成本节省",
+        "description": "通过 AI，我们在节省一小部分成本的情况下彻底改变了我们的品牌形象。创新我们的营销策略！"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI 模型比较",
+    "description": "为您的肖像需求选择合适的风格",
+    "items": [
+      "经典肖像：永恒的风格和照片般真实的效果",
+      "现代艺术：大胆的颜色和当代设计",
+      "抽象肖像：独特的图案和艺术气息",
+      "自定义风格：用独特特征定制您的肖像",
+      "速度选项：快速生成以满足及时需求",
+      "商业使用权：您创作的作品的完全使用权"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关 AI 工具",
+    "description": "发现更多创新的 AI 工具，以支持您的创意项目"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要知道的一切",
+    "items": [
+      {
+        "question": "什么类型的图像最适合肖像生成？",
+        "answer": "清晰的高分辨率图像且光照良好的效果最佳。建议使用关注面部的图片，避免复杂背景，以获得最佳输出。"
+      },
+      {
+        "question": "生成后我可以修改我的肖像吗？",
+        "answer": "可以！您可以编辑以微调肖像的某些方面，或者使用不同的风格重新生成以实现您想要的效果。"
+      },
+      {
+        "question": "我可以上传什么格式的肖像？",
+        "answer": "我们支持 JPG、PNG 和 WebP 格式。确保图像光线明亮，且至少为 512x512 像素以获得最佳质量。"
+      },
+      {
+        "question": "生成肖像需要多长时间？",
+        "answer": "生成通常需要 1 到 5 分钟，具体取决于所选风格的复杂性和自定义程度。"
+      },
+      {
+        "question": "生成的肖像是否有使用权？",
+        "answer": "当然！所有生成的肖像都附带完整的商业使用权，允许您在个人或商业目的下使用，无需额外费用。"
+      },
+      {
+        "question": "AI 肖像的最佳使用案例是什么？",
+        "answer": "非常适合社交媒体资料、营销材料、品牌推广以及任何需要个性化艺术作品的创意项目。"
+      },
+      {
+        "question": "我需要特殊技能才能创建肖像吗？",
+        "answer": "不需要！这个 AI 工具旨在为所有人设计，无论艺术技能如何。只需上传、选择和自定义即可创建您独特的肖像。"
+      },
+      {
+        "question": "如果出现问题，我该如何提供反馈？",
+        "answer": "我们有一个强大的支持系统；请通过我们的联系方式寻求帮助，我们将帮助解决任何问题。"
+      },
+      {
+        "question": "该服务有哪些付款选项？",
+        "answer": "我们提供灵活的按需支付定价，没有隐藏费用。享受仅为您创建的肖像支付的自由。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备好创建您的第一幅 AI 肖像了吗？",
+    "description": "从免费积分开始 - 现在释放您的创造力",
+    "contactUsText": "联系我们",
+    "tryText": "现在试试 →"
+  },
+  "footer": {
+    "heading": "准备好转化您的照片吗？",
+    "description": "立即尝试 WaveSpeed AI，亲自体验差异。无需注册。",
+    "ctaText": "立即生成您的肖像",
+    "text": "© 2025 WaveSpeed AI. 版权所有。"
+  }
+}

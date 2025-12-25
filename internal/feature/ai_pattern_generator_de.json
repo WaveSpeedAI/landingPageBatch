@@ -1,0 +1,229 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - AI Mustergenerator",
+  "meta": {
+    "description": "Erstellen Sie mühelos einzigartige textile Muster mit WaveSpeed AI. Nutzen Sie die neueste KI-Technologie, um maßgeschneiderte Designs für Mode, Innenräume und mehr zu generieren. Erleben Sie heute unübertroffene Kreativität und Effizienz!",
+    "keywords": "Mustergenerator KI, textile Design KI, maßgeschneiderte Stoffmuster, Mode-Design-Tool, Innenarchitektur-Muster, Wellen Geschwindigkeit KI, kreativer Design-Generator, automatisierter Muster-Ersteller, einzigartige textile Drucke, E-Commerce-Designlösungen"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI-Tools",
+        "items": [
+          [
+            "KI-Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "Mustererstellung leicht gemacht",
+    "subHeading": "Mühelos einzigartige Designs erstellen",
+    "description": "Generieren Sie in Sekundenschnelle einzigartige textile Muster mit modernster KI. Perfekt für Designer, Marken und jeden, der auffällige Stoffe kreieren möchte. Beginnen Sie noch heute Ihre kreative Reise!",
+    "tryText": "Jetzt ausprobieren",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI Mustergenerator-Lösung",
+    "left": {
+      "heading": "Traditionelle Design-Herausforderungen",
+      "items": [
+        "Zeitaufwendiger manueller Designprozess",
+        "Begrenzte Designiteration",
+        "Hohe Kosten für Freelancer und Designsoftware",
+        "Bedarf an umfangreichen Designfähigkeiten",
+        "Inkonsistente Designqualität über Produkte hinweg"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Lösung",
+      "items": [
+        "Einzigartige Muster in weniger als einer Minute generieren",
+        "Keine Designfähigkeiten erforderlich - Geben Sie einfach Ihre Ideen ein",
+        "Unbegrenzte Variationen und Stile zum Erkunden",
+        "Skalierbar für beliebig viele Designs",
+        "Kostenwirksame Preise maßgeschneidert für Unternehmen"
+      ],
+      "tryText": "Ausprobieren"
+    }
+  },
+  "howItWorks": {
+    "heading": "So funktioniert es",
+    "description": "Erstellen Sie außergewöhnliche Muster in 4 einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Geben Sie Ihre Idee ein",
+        "text": "Beschreiben Sie den Stil oder das Thema, das Sie für Ihre Muster wünschen",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Farbpalette auswählen",
+        "text": "Wählen Sie die Farben, die am besten zu Ihrer Marke oder Ihrem Projekt passen",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Anpassungsoptionen",
+        "text": "Verfeinern Sie die Komplexität und Textur Ihrer Muster",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Laden Sie Ihr Muster herunter",
+        "text": "Erhalten Sie hochauflösende Muster bereit für die Produktion",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Generieren Sie Ihr erstes Muster →"
+  },
+  "endlessPossibilities": {
+    "heading": "Unendliche Designmöglichkeiten",
+    "description": "Ideal für jedes kreative Projekt",
+    "items": [
+      "Stoffdesigns für Bekleidung",
+      "Heimtextilien",
+      "Bettwäsche und Polstermuster",
+      "Einzigartige Tapeten",
+      "Kreative Oberflächendesigns für Produkte",
+      "Umweltfreundliche Textiloptionen",
+      "Angepasste Muster für Veranstaltungen",
+      "Künstlerische Projekte und Handarbeiten"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Erfahren Sie, wie Marken ihre Designs mit KI neu definieren",
+    "items": [
+      {
+        "tag": "Modebranche",
+        "heading": "Innovative Bekleidungslinie",
+        "before": {
+          "label": "Vorher",
+          "text": "Lange Designzyklen"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Sofortige Mustererstellung"
+        },
+        "value": "98%",
+        "key": "Zeit-Effizienz",
+        "description": "Wir konnten unsere neue Kollektion Wochen früher als geplant auf den Markt bringen, indem wir in Minuten einzigartige Muster geschaffen haben."
+      },
+      {
+        "tag": "Heimwaren",
+        "heading": "Bettwäsche-Kollektion",
+        "before": {
+          "label": "Vorher",
+          "text": "Standarddesigns"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Maßgeschneiderte Muster"
+        },
+        "value": "95%",
+        "key": "Design-Einzigartigkeit",
+        "description": "Unsere Produkte heben sich jetzt mit exklusiven, von der KI generierten Mustern ab, was unsere Marke ansprechender macht."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "KI-Modellvergleich",
+    "description": "Finden Sie die richtigen Optionen für Ihre Mustergestaltung",
+    "items": [
+      "Basis Modell: Schnelle Generierung, Standardqualität, geeignet für erste Designs",
+      "Premium Modell: Verbesserte Qualität und Musterkomplexität für fortgeschrittene Bedürfnisse",
+      "Farbkontrolle für beste Ergebnisse basierend auf Markenanforderungen",
+      "Schnelle Generierungszeit für schnelles Prototyp-Testing",
+      "Kommerzielle Nutzungsrechte für alle generierten Muster enthalten"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Verwandte KI-Tools",
+    "description": "Entdecken Sie weitere innovative Design-Tools für Kreative"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welche Art von Designs kann ich mit dem Mustergenerator erstellen?",
+        "answer": "Sie können eine Vielzahl von textilen Mustern erstellen, darunter florale, geometrische, abstrakte und thematische Designs, die perfekt für Mode, Innenräume und künstlerische Projekte sind."
+      },
+      {
+        "question": "Wie stelle ich sicher, dass die Muster einzigartig sind?",
+        "answer": "Jedes Muster wird basierend auf Ihrer Eingabe generiert, was nahezu unbegrenzte Variationen ermöglicht. Sie können Farben und Stile anpassen, um vollständige Originalität zu erreichen."
+      },
+      {
+        "question": "In welchen Dateiformaten sind die generierten Muster verfügbar?",
+        "answer": "Muster sind in verschiedenen Formaten verfügbar, darunter JPEG, PNG und Vektordateien, die für den Druck und digitalen Gebrauch geeignet sind."
+      },
+      {
+        "question": "Kann ich die generierten Muster weiter bearbeiten?",
+        "answer": "Ja! Nachdem Sie die Muster heruntergeladen haben, können Sie Grafikdesign-Software verwenden, um sie nach Bedarf für Ihre spezifischen Projekte zu modifizieren."
+      },
+      {
+        "question": "Gibt es eine Grenze, wie viele Muster ich generieren kann?",
+        "answer": "Nein, Sie können so viele Muster generieren, wie Sie benötigen, was es skalierbar für kleine Projekte oder große Kollektionen macht."
+      },
+      {
+        "question": "Wie funktioniert die Preisgestaltung für die Mustererstellung?",
+        "answer": "WaveSpeed verwendet ein Pay-as-you-go-Modell, wodurch Sie nur für die Muster bezahlen, die Sie generieren, was es wirtschaftlich und flexibel macht."
+      },
+      {
+        "question": "Wie schnell kann ich mit der Lieferung meiner Muster rechnen?",
+        "answer": "Die Mustererstellung erfolgt in der Regel sofort, sodass Sie Ihren Designprozess ohne Verzögerungen starten können."
+      },
+      {
+        "question": "Gibt es Nutzungsrechte, die ich beachten muss?",
+        "answer": "Ja! Alle generierten Muster kommen mit vollen kommerziellen Rechten, die Ihnen die vollständige Freiheit geben, sie für Ihre Projekte zu verwenden."
+      },
+      {
+        "question": "Welcher Support ist verfügbar, wenn ich Hilfe benötige?",
+        "answer": "Unser Support-Team steht Ihnen für Fragen per E-Mail oder Chat zur Verfügung und stellt sicher, dass Sie alle Ressourcen haben, die Sie benötigen, um erfolgreich zu sein."
+      },
+      {
+        "question": "Können Unternehmen das Tool für große Designbedürfnisse nutzen?",
+        "answer": "Absolut! Das Tool eignet sich perfekt für Unternehmen, die ein hohes Volumen an einzigartigen Mustern benötigen, und bietet effiziente Batch-Generierungsoptionen."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, einzigartige Muster zu erstellen?",
+    "description": "Melden Sie sich jetzt an und entdecken Sie Ihre Kreativität mit kostenlosen Credits",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Jetzt ausprobieren →"
+  },
+  "footer": {
+    "heading": "Verwandeln Sie Ihren Designprozess noch heute!",
+    "description": "Versuchen Sie WaveSpeed AI jetzt und sehen Sie aus erster Hand, wie einfach es ist, atemberaubende Muster zu generieren. Keine Anmeldung erforderlich.",
+    "ctaText": "Muster jetzt erstellen",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

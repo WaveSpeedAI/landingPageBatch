@@ -1,0 +1,226 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Retouching de Pele com IA",
+  "meta": {
+    "description": "Obtenha uma pele impecável em fotos com nosso recurso de Retouching de Pele com IA. Perfeito para fotógrafos de retratos, marcas de beleza e influencers de mídia social que buscam aprimorar suas imagens sem esforço. Ofertas exclusivas para a Black Friday!",
+    "keywords": "retouching de pele com IA, aprimoramento de fotos, filtro de beleza, edição de retratos, ferramenta profissional de retouching, imagens de beleza para e-commerce, editor de fotos para mídias sociais, processamento de imagem com IA, editor de pele impecável, ofertas da Black Friday"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de IA",
+        "items": [
+          [
+            "Ferramentas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Portfólio",
+        "items": [
+          [
+            "Portfólio",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Retouching de Pele com IA",
+    "subHeading": "Transforme Suas Fotos com Pele Perfeita",
+    "description": "Aprimore tons e texturas de pele em suas fotos automaticamente. Perfeito para fotógrafos e influencers que desejam resultados impressionantes em segundos. Diga adeus às edições manuais e aproveite a qualidade profissional com apenas um clique.",
+    "tryText": "Experimente Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução de Retouching de Pele com IA da WaveSpeed AI",
+    "left": {
+      "heading": "Desafios Tradicionais",
+      "items": [
+        "Retouching manual que consome tempo (mais de 1 hora por imagem)",
+        "Requer habilidades avançadas em Photoshop",
+        "Resultados inconsistentes em diferentes imagens",
+        "Altos custos para serviços de retouching profissional",
+        "Dificuldades em obter um aspecto natural"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeedAI",
+      "items": [
+        "Obtenha pele impecável em segundos com IA",
+        "Interface amigável - nenhuma habilidade necessária",
+        "Resultados consistentes e naturais todas as vezes",
+        "Preços acessíveis com modelo pay-as-you-go",
+        "Recursos de retouching e edição instantâneos"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "Obtenha pele impecável em apenas 4 passos simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Carregar Imagem",
+        "text": "Carregue seu retrato ou foto de beleza",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Selecionar Recursos",
+        "text": "Escolha as áreas para aprimorar: suavizar a pele, reduzir manchas",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Ajustar Configurações",
+        "text": "Ajuste as texturas e tons da pele com deslizadores simples",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Baixar Foto Retocada",
+        "text": "Obtenha sua imagem aprimorada em segundos, pronta para uso",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Gere Seu Primeiro Retouch →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilidades Sem Fim",
+    "description": "Perfeito para qualquer contexto de foto",
+    "items": [
+      "Retratos de modelos e influencers",
+      "Imagens de produtos de beleza para e-commerce",
+      "Fotografia de casamentos e eventos",
+      "Fotos de perfil para mídias sociais",
+      "Lookbooks de moda e editoriais",
+      "Retratos de família e de grupo",
+      "Fotografia imobiliária",
+      "Fotos profissionais"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Descubra como os clientes estão aprimorando suas imagens com IA",
+    "items": [
+      {
+        "tag": "Marca de Beleza",
+        "heading": "Campanha Promocional",
+        "before": {
+          "label": "Antes",
+          "text": "Horas de edição manual"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Resultados impecáveis em segundos"
+        },
+        "value": "95%",
+        "key": "Tempo Economizado",
+        "description": "Nossas imagens de campanha tiveram um aumento impressionante no engajamento, tornando nossos produtos irresistíveis."
+      },
+      {
+        "tag": "Estúdio de Fotografia",
+        "heading": "Retratos de Clientes",
+        "before": {
+          "label": "Antes",
+          "text": "Qualidade inconsistente"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Resultados uniformes e de alta qualidade"
+        },
+        "value": "98%",
+        "key": "Melhoria na Qualidade",
+        "description": "O retouching rápido nos permitiu entregar portfólios deslumbrantes que impressionaram todos os clientes."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Modelos de IA",
+    "description": "Selecione as configurações certas para suas necessidades",
+    "items": [
+      "Suavização de Pele: Textura natural sem brilho",
+      "Remoção de Manchas: Tratamento de área específica para um aspecto impecável",
+      "Ajuste de Tom: Aprimore os tons da pele para corresponder à iluminação",
+      "Retouch Profissional: Adicione toques finais para resultados de nível fotográfico",
+      "Processamento em Lote: Edite várias imagens simultaneamente",
+      "Direitos de uso comercial incluídos"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Explore mais ferramentas inovadoras de IA para fotografia"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo o que você precisa saber",
+    "items": [
+      {
+        "question": "Que tipo de imagens funcionam melhor para retouching de pele?",
+        "answer": "Retratos de alta resolução com boa iluminação são ideais. Evite imagens com sombras muito fortes ou excessivamente brilhantes para garantir os melhores resultados."
+      },
+      {
+        "question": "Posso reverter mudanças após o retouching?",
+        "answer": "Sim! Você pode desfazer edições facilmente ou recomeçar se não estiver satisfeito com os resultados."
+      },
+      {
+        "question": "Existem limitações no uso de imagens após o retouching?",
+        "answer": "Nenhuma limitação! Você mantém todos os direitos sobre quaisquer imagens retocadas com nosso serviço, permitindo o uso comercial."
+      },
+      {
+        "question": "Quão rápido é o processo de retouching?",
+        "answer": "O processo geralmente leva apenas alguns segundos para ser concluído, facilitando o aprimoramento de grandes lotes de imagens."
+      },
+      {
+        "question": "Posso personalizar o nível de aprimoramento?",
+        "answer": "Absolutamente! Use deslizadores intuitivos para ajustar a suavização da pele, remoção de manchas e ajustes de tom de acordo com sua preferência."
+      },
+      {
+        "question": "Este software é compatível com outras ferramentas de edição?",
+        "answer": "Sim! Você pode usá-lo como uma ferramenta autônoma ou como uma camada adicional de aprimoramento em seu software de edição preferido."
+      },
+      {
+        "question": "O que acontece se a IA não atender às minhas expectativas?",
+        "answer": "Oferecemos opções de reedição e suporte para garantir que você esteja completamente satisfeito com seus resultados."
+      },
+      {
+        "question": "Há uma taxa de assinatura para usar a ferramenta?",
+        "answer": "Sem assinaturas! Você paga apenas pelas imagens retocadas que gera, com preços flexíveis."
+      },
+      {
+        "question": "Quais recursos de suporte estão disponíveis se eu tiver problemas?",
+        "answer": "Oferecemos documentação abrangente, suporte ao cliente com resposta rápida, e recursos comunitários para solução de problemas."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Melhorar Suas Fotos?",
+    "description": "Comece com créditos gratuitos - Experimente o poder do retouching com IA hoje",
+    "contactUsText": "Fale Conosco",
+    "tryText": "Experimente Agora →"
+  },
+  "footer": {
+    "heading": "Pronto para Transformar Suas Fotos?",
+    "description": "Experimente a WaveSpeed AI agora e veja a diferença por si mesmo. Não é necessário cadastro.",
+    "ctaText": "Remover Manchas Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

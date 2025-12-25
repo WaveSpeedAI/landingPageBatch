@@ -1,0 +1,230 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Generador de Videos AI",
+  "meta": {
+    "description": "Crea videos impresionantes a partir de imágenes sin esfuerzo con nuestro Generador de Videos AI. Ideal para mercadólogos, educadores y creadores de contenido. ¡Experimenta una producción de video rápida adaptada a tus necesidades!",
+    "keywords": "generador de video AI, imagen a video AI, creación de contenido de video, creador de videos promocionales, generador de videos para comercio electrónico, WaveSpeed AI, producción de videos automatizada, videos de marketing, herramientas de video para redes sociales, tecnología de generación de videos"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas AI",
+        "items": [
+          [
+            "Herramientas AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrina",
+        "items": [
+          [
+            "Vitrina",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Transforma Tus Imágenes en Videos Atractivos",
+    "subHeading": "Creación de Videos Sin Esfuerzo al Alcance de Tu Mano",
+    "description": "Aprovecha la tecnología AI de vanguardia para convertir tus fotos estáticas en videos cautivadores al instante. Sin configuraciones complejas, solo sube y crea. ¡Comienza tu viaje ahora!",
+    "tryText": "Comienza a Crear",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución Generador de Videos AI de WaveSpeed AI",
+    "left": {
+      "heading": "Luchas en la Producción de Videos Tradicional",
+      "items": [
+        "Altos costos para grabaciones de video ($2000-5000 por proyecto)",
+        "Dependencia de equipos y personal especializados",
+        "Procesos de edición que consumen mucho tiempo (2-7 días)",
+        "Revisiones creativas limitadas y poca flexibilidad",
+        "Desafiante para pequeñas empresas sin recursos"
+      ]
+    },
+    "right": {
+      "heading": "Ventaja del Generador de Videos de WaveSpeed AI",
+      "items": [
+        "Crea videos a partir de imágenes en minutos",
+        "No se necesita grabación ni personal - Solo sube",
+        "Resultados instantáneos impulsados por IA",
+        "Opciones creativas ilimitadas",
+        "Precios flexibles para todos los presupuestos"
+      ],
+      "tryText": "Probar"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "Convierte tus imágenes en videos dinámicos en 4 simples pasos",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Sube Tu Imagen",
+        "text": "Selecciona y sube la imagen que deseas animar",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Personaliza los Efectos de Movimiento",
+        "text": "Opcionalmente, especifica cómo deseas que se mueva tu video (por ejemplo, \"acercarse\")",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Elige Tu Estilo",
+        "text": "Selecciona entre diferentes modelos de IA para obtener resultados óptimos",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Exporta Tu Video",
+        "text": "Recibe tu video en alta definición en solo momentos",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Crea Tu Video →"
+  },
+  "endlessPossibilities": {
+    "heading": "Aplicaciones Ilimitadas",
+    "description": "Ideal para diversos propósitos e industrias",
+    "items": [
+      "Videos promocionales para tiendas en línea",
+      "Clips para redes sociales para aumentar el compromiso",
+      "Contenido de capacitación y educativo",
+      "Visuales dinámicos para presentaciones",
+      "Destacados y resúmenes de eventos",
+      "Exhibición de bienes raíces",
+      "Demostraciones de recetas culinarias",
+      "Tutoriales y reseñas de productos"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Explora cómo otros están mejorando su contenido con IA",
+    "items": [
+      {
+        "tag": "Comercio Electrónico",
+        "heading": "Videos de Marketing para Comercio Electrónico",
+        "before": {
+          "label": "Antes",
+          "text": "Que consume mucho tiempo"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Producción rápida"
+        },
+        "value": "98%",
+        "key": "Eficiencia de Tiempo",
+        "description": "Transformamos nuestro catálogo de imágenes en videos atractivos de la noche a la mañana, aumentando la interacción con los productos."
+      },
+      {
+        "tag": "Educación",
+        "heading": "Contenido de Cursos Online",
+        "before": {
+          "label": "Antes",
+          "text": "Creación manual de videos"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Producción de videos automatizada"
+        },
+        "value": "97%",
+        "key": "Mejora en la Velocidad de Entrega",
+        "description": "Ahora podemos desarrollar lecciones atractivas en minutos en lugar de semanas."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Modelos de IA",
+    "description": "Selecciona el modelo ideal para la creación de tu video",
+    "items": [
+      "Veo 3.1: Alta definición, 5-10 segundos, rico en detalles y realismo",
+      "Seedance I2V: Salida rápida, 3-6 segundos, económico y eficiente",
+      "Parámetros de movimiento flexibles con indicaciones definidas por el usuario",
+      "Transiciones naturales y movimientos de cámara fluidos",
+      "Rápido retorno en menos de 2 minutos",
+      "Licenciamiento para uso comercial incluido"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Explora Herramientas AI Relacionadas",
+    "description": "Descubre más soluciones de IA poderosas para la creación de contenido"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué calidad y duración de video puedo esperar?",
+        "answer": "El modelo Veo 3.1 ofrece videos premium 1080p de hasta 10 segundos, mientras que Seedance I2V ofrece videos de calidad estándar de 3-6 segundos para velocidad y costo-efectividad. Ambas opciones logran resultados profesionales ideales para comercio electrónico y marketing."
+      },
+      {
+        "question": "¿Puedo dirigir el movimiento del video y el comportamiento de la cámara?",
+        "answer": "¡Absolutamente! Puedes proporcionar indicaciones detalladas sobre las acciones de cámara deseadas, como \"paneo a la izquierda\", \"acercar al sujeto\" o \"rotar alrededor del objeto\". La IA interpretará estas instrucciones para ejecutar movimientos dinámicos precisos."
+      },
+      {
+        "question": "¿Qué tipo de imágenes funcionan mejor para la generación de videos?",
+        "answer": "Imágenes de productos claras con fondos simples producen resultados óptimos. Asegúrate de que tus imágenes sean de alta calidad y al menos de 512x512 píxeles, con 1024x1024 para obtener los mejores resultados. Los formatos compatibles incluyen JPG, PNG y WebP."
+      },
+      {
+        "question": "¿Qué diferencia a esta tecnología de simples animaciones?",
+        "answer": "Nuestra IA genera movimiento real utilizando física realista, creando una representación vívida en lugar de transiciones estáticas. Los videos simulan un espacio 3D, haciendo que los movimientos parezcan naturales y atractivos."
+      },
+      {
+        "question": "¿Puedo mejorar la calidad del video después de la creación?",
+        "answer": "Sí, nuestra plataforma ofrece herramientas para aumentar la calidad de los videos para mejorar la resolución y claridad después de la generación, asegurando la mejor experiencia de visualización para tu audiencia."
+      },
+      {
+        "question": "¿Cuál es el modelo de precios para el Generador de Videos AI?",
+        "answer": "Utilizamos un modelo de pago por uso sin suscripciones ni tarifas ocultas. Los precios se basan en el modelo de IA elegido y la duración del video. Todos los nuevos usuarios reciben créditos para comenzar su viaje sin ningún compromiso inicial."
+      },
+      {
+        "question": "¿Cuánto tiempo toma la generación de videos y puedo hacer múltiples videos?",
+        "answer": "Típicamente, la generación se logra en 1-2 minutos. Incluso puedes procesar solicitudes por lotes para crear múltiples variaciones de video simultáneamente sin tiempos de espera."
+      },
+      {
+        "question": "¿Cuáles son los mejores usos para esta tecnología de video?",
+        "answer": "Ideal para exhibiciones de productos, contenido para redes sociales, presentaciones educativas y más; en cualquier lugar donde el contenido dinámico de video pueda elevar tu mensaje sin extensos recursos."
+      },
+      {
+        "question": "¿Tengo derechos para usar los videos comercialmente?",
+        "answer": "Sí, todos los videos generados vienen con derechos comerciales completos, permitiendo distribución y monetización sin restricciones en múltiples plataformas."
+      },
+      {
+        "question": "¿Qué recursos de soporte ofrecen?",
+        "answer": "Ofrecemos documentación completa, videos tutoriales y soporte en vivo para todos los usuarios, con tiempos de respuesta rápidos y un sólido compromiso comunitario para resolver problemas."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Crear Videos AI Atractivos?",
+    "description": "Comienza con créditos gratuitos - ¡Experimenta la transformación hoy!",
+    "contactUsText": "Contáctanos",
+    "tryText": "Crea Mi Video Ahora →"
+  },
+  "footer": {
+    "heading": "¿Listo para Crear Videos Asombrosos?",
+    "description": "Prueba WaveSpeed AI hoy - no se necesita registro para una demostración.",
+    "ctaText": "Comienza Tu Prueba Gratis",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

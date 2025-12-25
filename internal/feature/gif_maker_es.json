@@ -1,0 +1,230 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Creador de GIFs AI",
+  "meta": {
+    "description": "Crea GIFs impresionantes a partir de imágenes sin esfuerzo con IA. Ideal para redes sociales, marketing y comercio electrónico. Descubre una creación de GIFs rápida y fluida con WaveSpeed AI.",
+    "keywords": "creador de GIF, creador de GIF AI, imagen a GIF, generador de GIFs animados, herramienta GIF para comercio electrónico, GIFs para redes sociales, GIFs de marketing, creador de GIF de Shopify, herramienta GIF de Amazon, animación GIF, herramientas de IA para GIFs"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas AI",
+        "items": [
+          [
+            "Herramientas AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Muestra",
+        "items": [
+          [
+            "Muestra",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Imagen a GIF",
+    "subHeading": "Transforma Imágenes Estáticas en GIFs Animados",
+    "description": "Convierte fácilmente tus imágenes de productos en encantadores GIFs en momentos. No se requiere software complejo. Experimenta la velocidad y creatividad que ofrece WaveSpeed AI.",
+    "tryText": "Crea Tu GIF Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución Creador de GIF WaveSpeed AI",
+    "left": {
+      "heading": "Desafíos de Creación de GIFs Tradicionales",
+      "items": [
+        "La creación manual es lenta y tediosa",
+        "Requiere habilidades o software de diseño gráfico",
+        "A menudo termina con resultados de baja calidad",
+        "Opciones de personalización limitadas",
+        "Altos costos por servicios profesionales"
+      ]
+    },
+    "right": {
+      "heading": "Solución WaveSpeedAI",
+      "items": [
+        "Crea GIFs en segundos a partir de imágenes estáticas",
+        "No se requieren habilidades de diseño - Solo sube imágenes",
+        "Generados instantáneamente con salida de alta calidad",
+        "Animaciones completamente personalizables",
+        "Precios asequibles de pago por uso para todos"
+      ],
+      "tryText": "Pruébalo"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "De imagen estática a GIF animado en 4 simples pasos",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Subir Imagen",
+        "text": "Sube tu foto de producto o imagen de escena",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Añadir Efectos",
+        "text": "Opcional: Elige efectos de animación (por ejemplo, \"desvanecerse\")",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Seleccionar Tamaño",
+        "text": "Elige las dimensiones del GIF que se ajusten a tus necesidades",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Descargar GIF",
+        "text": "Obtén tu GIF animado en solo unos momentos",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Genera Tu Primer GIF →"
+  },
+  "endlessPossibilities": {
+    "heading": "Posibilidades Inagotables",
+    "description": "Perfecto para cualquier industria o caso de uso",
+    "items": [
+      "Promociones de productos para comercio electrónico",
+      "Publicaciones atractivas en redes sociales",
+      "Campañas de marketing por correo electrónico",
+      "Destacar eventos y recuerdos",
+      "Transformaciones de antes/después",
+      "Narración creativa y branding",
+      "Tutoriales animados",
+      "Desfiles de moda y lookbooks"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Ve cómo las empresas están transformando su flujo de trabajo con IA",
+    "items": [
+      {
+        "tag": "Comercio Electrónico de Electrónica",
+        "heading": "GIFs para Listados de Productos",
+        "before": {
+          "label": "Antes",
+          "text": "Bajo compromiso"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Interacción aumentada"
+        },
+        "value": "75%",
+        "key": "Aumento de Compromiso",
+        "description": "Comenzamos a usar GIFs para nuestros listados. La interacción general aumentó, llevando a un incremento del 30% en las ventas."
+      },
+      {
+        "tag": "Hogar y Decoración",
+        "heading": "Tienda de Decoración del Hogar",
+        "before": {
+          "label": "Antes",
+          "text": "Imágenes estáticas"
+        },
+        "after": {
+          "label": "Después",
+          "text": "GIFs dinámicos"
+        },
+        "value": "80%",
+        "key": "Aumento de Visibilidad",
+        "description": "Cambiar a GIFs nos permitió mostrar nuestros productos de manera vibrante, lo que resultó en una visibilidad mucho mayor en redes sociales."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Opciones de Creación de GIF",
+    "description": "Elige las opciones adecuadas para tus GIFs",
+    "items": [
+      "Calidad Estándar: Ideal para GIFs rápidos y cotidianos con efectos básicos",
+      "Alta Calidad: Para GIFs de calidad profesional con animaciones avanzadas",
+      "Disparadores Personalizados: Controla la reproducción y efectos del GIF según la interacción del usuario",
+      "Soporte de Múltiples Formatos: Incluye GIF, APNG y más",
+      "Opciones de dimensión flexibles para web o móvil",
+      "Velocidades de procesamiento rápidas para satisfacer tus necesidades"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas AI Relacionadas",
+    "description": "Explora más herramientas AI poderosas para comercio electrónico"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué calidad y tamaños de GIF puedo crear?",
+        "answer": "Puedes generar GIFs de alta calidad optimizados para plataformas web y móviles. Soportamos diversas dimensiones y proporciones, asegurando que tus GIFs se vean geniales dondequiera que se muestren."
+      },
+      {
+        "question": "¿Puedo controlar la velocidad y estilo de la animación?",
+        "answer": "¡Absolutamente! Puedes ajustar la tasa de fotogramas, la duración de la animación y el estilo directamente dentro de la herramienta, permitiéndote crear exactamente lo que imaginas."
+      },
+      {
+        "question": "¿Qué tipos y formatos de imagen son los más adecuados para la creación de GIFs?",
+        "answer": "Recomendamos usar imágenes claras y de alta resolución para el mejor resultado de GIF. Formatos comunes como JPG, PNG y más son soportados para simplificar tu proceso."
+      },
+      {
+        "question": "¿Cómo se compara esto con la creación de GIFs tradicional?",
+        "answer": "Usando nuestro Creador de GIF AI, obtienes resultados inmediatos sin la necesidad de software complejo. Permite animaciones vibrantes que son difíciles de lograr con herramientas estándar, dando a tu negocio una ventaja."
+      },
+      {
+        "question": "¿Puedo mejorar o modificar GIFs después de la creación?",
+        "answer": "Sí, nuestra plataforma proporciona herramientas para la edición y mejora adicional de tus GIFs incluso después de haber sido creados, dándote flexibilidad para ajustes."
+      },
+      {
+        "question": "¿Qué modelo de precios utiliza la creación de GIFs?",
+        "answer": "Nuestro servicio sigue un modelo de pago por uso sin tarifas ocultas. Solo pagas por los GIFs que creas y puedes elegir entre varias tarifas según la calidad y especificaciones."
+      },
+      {
+        "question": "¿Cuánto tiempo tarda en crearse un GIF?",
+        "answer": "La generación de GIFs es extremadamente rápida - típicamente solo unos segundos. Puedes generar múltiples GIFs simultáneamente sin experimentar demoras."
+      },
+      {
+        "question": "¿Cuáles son los casos de uso más populares para el Creador de GIFs?",
+        "answer": "Esta herramienta es ideal para crear contenido atractivo para redes sociales, anuncios, exhibiciones de productos, campañas de marketing y más donde los visuales animados llaman la atención."
+      },
+      {
+        "question": "¿Poseo los derechos de los GIFs que creo?",
+        "answer": "¡Sí! Todos los GIFs creados a través de WaveSpeed incluyen derechos comerciales completos, permitiéndote usarlos libremente en todas las plataformas sin tarifas adicionales."
+      },
+      {
+        "question": "¿Qué recursos de soporte están disponibles para solucionar problemas?",
+        "answer": "Ofrecemos una amplia documentación, guías en video y acceso a nuestro equipo de soporte para cualquier pregunta técnica que puedas tener. También puedes encontrar ayuda en nuestros foros comunitarios."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Crear Tu Primer GIF Animado?",
+    "description": "Comienza con créditos gratis - Libera tu creatividad",
+    "contactUsText": "Contáctanos",
+    "tryText": "Crea Tu GIF Ahora →"
+  },
+  "footer": {
+    "heading": "¿Listo para Dar Vida a Tus Imágenes?",
+    "description": "Prueba WaveSpeed AI ahora y experimenta la facilidad de creación de GIFs. No se requiere registro.",
+    "ctaText": "Crea GIFs Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

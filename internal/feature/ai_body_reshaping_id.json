@@ -1,0 +1,230 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Pembentukan Tubuh AI",
+  "meta": {
+    "description": "Bentuk kembali dan transformasi gambar tubuh dengan mudah menggunakan AI mutakhir. Ideal untuk profesional kebugaran, merek fashion, dan penggunaan pribadi. Alami masa depan pengeditan gambar!",
+    "keywords": "pembentukan tubuh AI, transformasi gambar AI, peningkatan gambar tubuh, editor gambar kebugaran, alat pengeditan gambar AI, pembentukan tubuh virtual, retouching foto, peningkatan model fashion, solusi foto e-commerce"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Pembentukan Tubuh AI",
+    "subHeading": "Transformasi Gambar Tubuh Anda dengan Lancar",
+    "description": "Revitalisasi gambar tubuh Anda dengan teknologi AI canggih yang meningkatkan bentuk, proporsi, dan detail. Dapatkan hasil menakjubkan dalam hitungan menit—tanpa keterampilan ahli yang dibutuhkan. Rasakan kekuatan transformasi hari ini!",
+    "tryText": "Coba Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Pembentukan Tubuh AI WaveSpeed",
+    "left": {
+      "heading": "Tantangan Pengeditan Tradisional",
+      "items": [
+        "Pengeditan foto profesional bisa mahal ($1000-3000 per proyek)",
+        "Membutuhkan keterampilan mendalam dalam desain grafis",
+        "Proses yang memakan waktu (3-7 hari)",
+        "Percobaan dan variasi yang terbatas dalam pengeditan",
+        "Ketergantungan berat pada perangkat lunak mahal"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeedAI",
+      "items": [
+        "Transformasikan gambar tubuh secara instan dengan AI",
+        "Tidak diperlukan keterampilan desain—cukup unggah gambar",
+        "Peningkatan langsung yang didorong oleh AI",
+        "Buat variasi tanpa batas dengan mudah",
+        "Model bayar-per-penggunaan yang fleksibel—hemat biaya untuk semua"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Bentuk gambar tubuh Anda dalam 4 langkah mudah",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Gambar",
+        "text": "Unggah gambar tubuh asli Anda untuk dibentuk kembali",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Tambahkan Kustomisasi",
+        "text": "Opsional: Tentukan perubahan yang diinginkan (misalnya, \"pinggang ramping\", \"otot yang ditingkatkan\")",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Pilih Gaya",
+        "text": "Pilih dari berbagai gaya peningkatan yang sesuai dengan visi Anda",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Unduh Hasil",
+        "text": "Terima gambar yang sudah dipoles dalam hitungan menit dengan hak penuh",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Hasilkan Gambar yang Ditingkatkan →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Tanpa Batas",
+    "description": "Ideal untuk berbagai aplikasi",
+    "items": [
+      "Gambar profil kebugaran untuk media sosial",
+      "Lookbook fashion dan pameran produk",
+      "Transformasi sebelum/setelah untuk klien",
+      "Pembaruan merek pribadi dan portofolio",
+      "Foto produk e-commerce untuk pakaian",
+      "Makeover virtual dan styling",
+      "Pembentukan konten media sosial",
+      "Materi promosi untuk layanan"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Temukan bagaimana pengguna merevolusi pengeditan gambar mereka dengan AI",
+    "items": [
+      {
+        "tag": "Transformasi Kebugaran",
+        "heading": "Peningkatan Portofolio Klien",
+        "before": {
+          "label": "Sebelum",
+          "text": "Kualitas tidak konsisten"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Hasil akhir yang konsisten dan ramping"
+        },
+        "value": "98.5%",
+        "key": "Peningkatan Kualitas",
+        "description": "Kami mencapai peningkatan dramatis dalam portofolio model kebugaran kami, meningkatkan keterlibatan sebesar 50%."
+      },
+      {
+        "tag": "Merek Fashion",
+        "heading": "Perbaruan Foto E-commerce",
+        "before": {
+          "label": "Sebelum",
+          "text": "Pengeditan manual memakan waktu berhari-hari"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Peningkatan AI hanya memakan waktu beberapa menit"
+        },
+        "value": "99.2%",
+        "key": "Efisiensi Waktu",
+        "description": "Sangat mengubah permainan untuk toko online kami, transformasi gambar dengan cepat menghasilkan konversi penjualan yang lebih tinggi."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Model Peningkatan AI",
+    "description": "Pilih model yang tepat untuk kebutuhan pembentukan kembali Anda",
+    "items": [
+      "Model A: Detail berkualitas tinggi, peningkatan waktu nyata, sempurna untuk penggunaan profesional",
+      "Model B: Peningkatan cepat, dioptimalkan untuk waktu penyelesaian yang cepat, bagus untuk penggunaan pribadi",
+      "Prompt yang dapat disesuaikan untuk pengeditan sesuai permintaan",
+      "Penyesuaian tekstur dan tampilan yang realistis",
+      "Umpan balik instan tentang perubahan yang dibuat",
+      "Hak penggunaan komersial disertakan"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Temukan lebih banyak alat AI inovatif untuk peningkatan gambar"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Semua yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Kualitas gambar apa yang bisa saya harapkan setelah dibentuk kembali?",
+        "answer": "Harapkan gambar resolusi tinggi dengan detail yang halus dan proporsi yang realistis. Model kami memastikan bahwa gambar yang dibentuk kembali tetap jelas dan canggih sesuai untuk konteks apa pun."
+      },
+      {
+        "question": "Bisakah saya menentukan modifikasi tubuh tertentu?",
+        "answer": "Tentu saja! Anda dapat memberikan petunjuk rinci mengenai bagaimana Anda ingin bentuk tubuh diubah, dari mengubah ukuran hingga meningkatkan definisi otot."
+      },
+      {
+        "question": "Jenis gambar apa yang paling baik untuk pembentukan kembali?",
+        "answer": "Gambar yang jelas dan berkualitas tinggi memberikan hasil terbaik. Kami merekomendasikan gambar dengan pencahayaan dan kontras yang baik untuk perubahan yang optimal."
+      },
+      {
+        "question": "Bagaimana ini berbeda dari pengeditan foto tradisional?",
+        "answer": "Pembentukan tubuh AI memungkinkan penyesuaian dinamis secara waktu nyata, menawarkan tingkat realisme dan kecanggihan yang tidak dapat dicapai dengan alat pengeditan standar."
+      },
+      {
+        "question": "Bisakah saya meningkatkan kualitas setelah gambar dibentuk kembali?",
+        "answer": "Ya! Manfaatkan alat peningkatan kami setelah pembentukan kembali untuk meningkatkan resolusi dan kualitas lebih lanjut."
+      },
+      {
+        "question": "Model harga apa yang digunakan untuk pembentukan tubuh?",
+        "answer": "WaveSpeed mengikuti model bayar-per-penggunaan tanpa biaya tersembunyi; Anda hanya membayar untuk pembentukan kembali yang benar-benar Anda hasilkan."
+      },
+      {
+        "question": "Seberapa cepat gambar dibentuk kembali?",
+        "answer": "Pembentukan kembali umumnya dilakukan dalam beberapa menit, memungkinkan beberapa gambar diproses dengan cepat."
+      },
+      {
+        "question": "Apa saja aplikasi terbaik untuk teknologi pembentukan tubuh?",
+        "answer": "Teknologi ini sangat cocok untuk modeling kebugaran, branding pribadi, e-commerce, dan konten media sosial."
+      },
+      {
+        "question": "Apakah saya mempertahankan hak atas gambar yang dibentuk kembali?",
+        "answer": "Ya! Anda mempertahankan hak komersial penuh atas semua gambar yang dibentuk kembali, tanpa biaya tambahan."
+      },
+      {
+        "question": "Dukungan apa yang tersedia untuk pemecahan masalah?",
+        "answer": "Kami menyediakan sumber daya yang luas, termasuk dokumentasi dan dukungan pelanggan, untuk membantu pertanyaan atau masalah teknis."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Mentransformasikan Gambar Tubuh Anda?",
+    "description": "Mulai dengan kredit gratis - Rasakan revolusi pembentukan kembali",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Coba Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap untuk Meningkatkan Gambar Tubuh Anda?",
+    "description": "Coba WaveSpeed AI sekarang dan saksikan kekuatan transformasi AI. Tidak perlu mendaftar.",
+    "ctaText": "Mulai Pembentukan Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi."
+  }
+}

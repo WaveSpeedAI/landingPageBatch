@@ -1,0 +1,229 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Removedor de Palavras Preenchimento com IA",
+  "meta": {
+    "description": "Elimine palavras de preenchimento desnecessárias do seu texto sem esforço com o WaveSpeed AI. Aumente a clareza e o profissionalismo da sua escrita, ideal para comunicações empresariais, criação de conteúdo e muito mais. Experimente uma edição sem interrupções e eleve seu conteúdo instantaneamente!",
+    "keywords": "removedor de palavras de preenchimento, editor de texto com IA, melhorar clareza da escrita, ferramenta de otimização de conteúdo, auxílio para escrita profissional, melhoria na comunicação empresarial, ferramenta de clareza de texto, ajudante de escrita com IA, clareza na comunicação, ferramenta de criação de conteúdo"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de IA",
+        "items": [
+          [
+            "Ferramentas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Demonstração",
+        "items": [
+          [
+            "Demonstração",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Removedor de Palavras de Preenchimento",
+    "subHeading": "Aprimore seus Textos Removendo Palavras de Preenchimento",
+    "description": "Diga adeus às palavras de preenchimento desnecessárias que bagunçam sua escrita. Nossa tecnologia de IA analisa e refina seu texto, garantindo que cada palavra conte. Simplifique sua comunicação e aumente o impacto da sua mensagem. Comece a transformar sua escrita agora!",
+    "tryText": "Remova Palavras de Preenchimento Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução Removedor de Palavras de Preenchimento WaveSpeed AI",
+    "left": {
+      "heading": "Desafios Comuns na Escrita",
+      "items": [
+        "Texto preenchido com palavras desnecessárias",
+        "Falta de clareza e objetividade",
+        "Menor engajamento dos leitores",
+        "Processo de edição demorado",
+        "Qualidade de escrita inconsistente"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeed AI",
+      "items": [
+        "Identifique e remova palavras de preenchimento instantaneamente",
+        "Melhore a clareza e a legibilidade em segundos",
+        "Aumente o engajamento e a comunicação",
+        "Experiência de edição sem esforço",
+        "Acessível e econômico para todos os escritores"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "Refine sua escrita em três passos simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Cole o Texto",
+        "text": "Basta copiar e colar seu texto na ferramenta",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Analise o Conteúdo",
+        "text": "A IA analisa sua escrita para encontrar palavras de preenchimento",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Revise as Sugestões",
+        "text": "Revise as edições sugeridas para melhorar a legibilidade",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Copie o Texto Refinado",
+        "text": "Obtenha seu texto revisado pronto para uso em qualquer contexto",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Refine sua Escrita Agora →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilidades Infinitas",
+    "description": "Perfeito para todos os tipos de escrita",
+    "items": [
+      "Emails e relatórios empresariais",
+      "Postagens de blog e artigos",
+      "Redações e tarefas escolares",
+      "Conteúdo de redes sociais",
+      "Materiais de marketing e anúncios",
+      "Apresentações profissionais",
+      "Escrita criativa",
+      "Roteiros e diálogos"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Veja como nossa ferramenta melhora a qualidade da escrita",
+    "items": [
+      {
+        "tag": "Criação de Conteúdo",
+        "heading": "Aumento do Engajamento do Blog",
+        "before": {
+          "label": "Antes",
+          "text": "Escrita bagunçada"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Clara e concisa"
+        },
+        "value": "50%",
+        "key": "Aumento de Engajamento",
+        "description": "Com postagens mais claras, os comentários no blog aumentaram significativamente, gerando mais tráfego."
+      },
+      {
+        "tag": "Comunicações Corporativas",
+        "heading": "Comunicação por Email Simplificada",
+        "before": {
+          "label": "Antes",
+          "text": "Emails longos"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Direto e impactante"
+        },
+        "value": "40%",
+        "key": "Tempo Economizado",
+        "description": "As equipes experimentaram respostas mais rápidas, graças às estruturas de email concisas."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Ferramentas de IA",
+    "description": "Entenda nossas capacidades exclusivas",
+    "items": [
+      "Análise em tempo real para edições imediatas",
+      "Filtros personalizáveis para diferentes estilos de escrita",
+      "Insights de IA sobre métricas de engajamento",
+      "Interface amigável para navegação sem esforço",
+      "Suporte a múltiplas línguas com ajustes contextuais"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Explore mais ferramentas de escrita poderosas para um conteúdo melhor"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo o que você precisa saber",
+    "items": [
+      {
+        "question": "Quais tipos de palavras de preenchimento você pode remover?",
+        "answer": "A ferramenta pode identificar e sugerir a remoção de palavras de preenchimento comuns, como 'apenas', 'muito', 'realmente' e outras que acrescentam pouco significado."
+      },
+      {
+        "question": "Esta ferramenta pode melhorar meu estilo de escrita?",
+        "answer": "Sim! Ao remover palavras desnecessárias, seu estilo de escrita se torna mais claro e direto, o que melhora muito a legibilidade."
+      },
+      {
+        "question": "É adequada para documentos profissionais?",
+        "answer": "Absolutamente! Ela é projetada para aumentar a clareza em todos os tipos de escrita profissional, ajudando você a transmitir sua mensagem de forma mais eficaz."
+      },
+      {
+        "question": "A ferramenta funcionará com diferentes idiomas?",
+        "answer": "Sim! A IA foi otimizada para trabalhar com vários idiomas e pode se adaptar a diferentes estilos e contextos de escrita."
+      },
+      {
+        "question": "Preciso me inscrever para usá-la?",
+        "answer": "Nenhuma inscrição é necessária para começar. Você pode colar seu texto e começar a aprimorá-lo imediatamente."
+      },
+      {
+        "question": "Quanto tempo leva para analisar meu texto?",
+        "answer": "A análise do texto é feita em segundos, permitindo que você refine sua escrita rapidamente, sem complicações."
+      },
+      {
+        "question": "Posso usá-la para escrita criativa?",
+        "answer": "Sim! É perfeita para qualquer forma de escrita, incluindo obras criativas, garantindo que sua voz permaneça clara e impactante."
+      },
+      {
+        "question": "Esta ferramenta mudará minha voz ou tom?",
+        "answer": "Não, a ferramenta se concentra em remover palavras desnecessárias enquanto mantém sua voz e tom únicos no conteúdo."
+      },
+      {
+        "question": "O serviço é gratuito para usar?",
+        "answer": "Oferecemos créditos gratuitos para novos usuários experimentarem o serviço, com opções acessíveis para uso contínuo."
+      },
+      {
+        "question": "E se eu tiver muito texto para editar?",
+        "answer": "Você pode facilmente processar textos maiores em lotes para otimizar seu fluxo de trabalho de edição."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Aprimorar sua Escrita?",
+    "description": "Comece com créditos gratuitos - Experimente uma edição suave agora",
+    "contactUsText": "Fale Conosco",
+    "tryText": "Remova Palavras de Preenchimento Agora →"
+  },
+  "footer": {
+    "heading": "Pronto para Transformar Sua Escrita?",
+    "description": "Experimente o WaveSpeed AI agora e veja a diferença por si mesmo. Nenhuma inscrição necessária.",
+    "ctaText": "Remova Palavras de Preenchimento Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

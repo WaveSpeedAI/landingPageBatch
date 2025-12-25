@@ -1,0 +1,229 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Pemrosesan Gambar Batch",
+  "meta": {
+    "description": "Proses banyak gambar sekaligus dengan mudah menggunakan WaveSpeed AI. Manfaatkan pembelajaran mesin canggih untuk meningkatkan konten visual untuk merek Anda. Tingkatkan produktivitas dan hemat waktu tanpa mengorbankan kualitas!",
+    "keywords": "pemrosesan gambar batch, peningkatan gambar massal, alat gambar AI, perangkat lunak pengeditan gambar, solusi gambar e-commerce, WaveSpeed AI, pemrosesan gambar cepat, otomatisasi alur kerja gambar, penyempurnaan gambar profesional, alat optimasi gambar"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Tampilkan",
+        "items": [
+          [
+            "Tampilkan",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Pemrosesan Gambar Batch",
+    "subHeading": "Percepat Alur Kerja Anda dengan AI",
+    "description": "Tingkatkan dan optimalkan banyak gambar dalam hitungan menit dengan mudah. Tingkatkan produktivitas dan pertahankan kualitas tanpa kerepotan pengeditan manual. Bukalah potensi penuh dari konten visual Anda.",
+    "tryText": "Mulai Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Pemrosesan Gambar Batch WaveSpeed AI",
+    "left": {
+      "heading": "Tantangan Pengeditan Gambar Tradisional",
+      "items": [
+        "Pengeditan manual yang memakan waktu",
+        "Memerlukan keterampilan atau perangkat lunak khusus",
+        "Biaya tinggi yang terkait dengan layanan profesional",
+        "Kesulitan mempertahankan konsistensi di seluruh gambar",
+        "Kemampuan terbatas untuk menangani volume besar"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeed AI",
+      "items": [
+        "Proses ratusan gambar dalam hitungan menit",
+        "Tidak perlu keterampilan desain - Cukup unggah gambar",
+        "Hasil yang konsisten dan berkualitas tinggi setiap kali",
+        "Integrasi yang mulus ke dalam alur kerja Anda",
+        "Harga terjangkau yang disesuaikan untuk semua bisnis"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Sederhanakan pemrosesan gambar batch Anda dalam 4 langkah mudah",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Gambar",
+        "text": "Pilih beberapa gambar yang ingin Anda tingkatkan",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Pilih Peningkatan",
+        "text": "Pilih pengeditan yang diinginkan: kecerahan, pemotongan, filter, dll.",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Prabaca Perubahan",
+        "text": "Tinjau peningkatan otomatis sebelum diproses",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Unduh Gambar yang Diproses",
+        "text": "Terima gambar yang dioptimalkan siap digunakan dalam hitungan menit",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Mulai Pemrosesan Gambar Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Tanpa Batas",
+    "description": "Sempurna untuk berbagai aplikasi dan industri",
+    "items": [
+      "Gambar produk e-commerce",
+      "Materi pemasaran dan iklan",
+      "Konten media sosial",
+      "Peningkatan portofolio",
+      "Peningkatan foto real estat",
+      "Fotografi acara",
+      "Gambar makanan dan resep",
+      "Pengeditan fesyen dan lookbook"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Temukan bagaimana merek-merek mengubah konten visual mereka dengan AI",
+    "items": [
+      {
+        "tag": "E-commerce",
+        "heading": "Optimasi Gambar Retail Online",
+        "before": {
+          "label": "Sebelum",
+          "text": "Pengeditan manual memakan waktu berminggu-minggu."
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Memproses ratusan foto dalam 2 jam."
+        },
+        "value": "95%",
+        "key": "Waktu yang Hemat",
+        "description": "Dengan pemrosesan gambar batch, unggahan produk kami meningkat secara dramatis, meningkatkan konversi penjualan sebesar 30%."
+      },
+      {
+        "tag": "Layanan Fotografi",
+        "heading": "Bisnis Fotografi Pernikahan",
+        "before": {
+          "label": "Sebelum",
+          "text": "Pengeditan yang rumit."
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Pemrosesan gambar yang cepat dan efisien."
+        },
+        "value": "90%",
+        "key": "Efisiensi Meningkat",
+        "description": "Pemrosesan gambar batch memungkinkan kami untuk menyampaikan galeri akhir lebih cepat dan meningkatkan kepuasan klien."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Opsi Pemrosesan Gambar",
+    "description": "Pilih pemrosesan batch yang tepat untuk kebutuhan Anda",
+    "items": [
+      "Kualitas Tinggi: Output premium dengan penyesuaian warna yang sempurna",
+      "Pemrosesan Cepat: Peningkatan cepat untuk kebutuhan mendesak",
+      "Filter yang Dapat Disesuaikan: Sesuaikan pemrosesan dengan estetika merek Anda",
+      "Kompatibilitas dengan semua format gambar standar",
+      "Integrasi Sederhana: Mudah diintegrasikan ke dalam alur kerja yang ada"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Jelajahi alat AI tambahan yang kuat untuk peningkatan visual"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Segala sesuatu yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Berapa banyak gambar yang dapat saya proses sekaligus?",
+        "answer": "Anda dapat memproses ratusan gambar secara bersamaan, menjadikannya ideal untuk proyek besar atau unggahan massal."
+      },
+      {
+        "question": "Jenis peningkatan apa yang dapat saya terapkan?",
+        "answer": "Anda dapat memilih dari penyesuaian seperti kecerahan, kontras, ketajaman, pemotongan, dan menerapkan filter."
+      },
+      {
+        "question": "Apakah pemrosesan batch mempengaruhi kualitas gambar?",
+        "answer": "Tidak, algoritma canggih kami memastikan bahwa gambar yang diproses mempertahankan kualitas dan fidelitas tinggi."
+      },
+      {
+        "question": "Bisakah saya melihat prabaca perubahan sebelum menyelesaikan?",
+        "answer": "Ya! Anda akan memiliki opsi untuk melihat peningkatan sebelum melanjutkan dengan pemrosesan batch."
+      },
+      {
+        "question": "Format gambar apa yang didukung?",
+        "answer": "Kami mendukung berbagai format termasuk JPG, PNG, dan TIFF untuk memastikan fleksibilitas maksimum."
+      },
+      {
+        "question": "Apakah ada batasan seberapa kecil atau besar gambar saya?",
+        "answer": "Gambar sebaiknya minimal 512x512 piksel untuk pemrosesan optimal, tetapi tidak ada batas ukuran maksimum."
+      },
+      {
+        "question": "Seberapa cepat saya bisa mengharapkan pemrosesan selesai?",
+        "answer": "Pemrosesan biasanya selesai dalam hitungan menit, tergantung pada jumlah dan ukuran gambar yang diunggah."
+      },
+      {
+        "question": "Apakah ada biaya tersembunyi terkait dengan layanan?",
+        "answer": "Tidak ada, harga jelas tanpa biaya tersembunyi atau komitmen bulanan."
+      },
+      {
+        "question": "Bisakah saya membatalkan permintaan pemrosesan saya?",
+        "answer": "Ya, Anda dapat membatalkan permintaan sebelum menyelesaikan pemrosesan kapan saja."
+      },
+      {
+        "question": "Apa yang harus saya lakukan jika saya mengalami masalah saat menggunakan alat?",
+        "answer": "Tim dukungan kami tersedia untuk membantu melalui email atau obrolan langsung, dan kami memiliki FAQ lengkap untuk panduan."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Mengoptimalkan Gambar Anda?",
+    "description": "Mulailah dengan kredit gratis Anda dan rasakan kenyamanan pemrosesan batch.",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Mulai Pemrosesan Sekarang →"
+  },
+  "footer": {
+    "heading": "Ubah Proses Pengeditan Gambar Anda!",
+    "description": "Rasakan pemrosesan gambar batch WaveSpeed AI hari ini. Tidak diperlukan pendaftaran.",
+    "ctaText": "Mulai Pemrosesan Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi."
+  }
+}

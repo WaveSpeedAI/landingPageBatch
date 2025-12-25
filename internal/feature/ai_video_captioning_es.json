@@ -1,0 +1,226 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Subtitulación de Video con IA",
+  "meta": {
+    "description": "Eleva tus videos con subtítulos automáticos generados por IA. Aumenta el compromiso y la accesibilidad de los espectadores sin esfuerzo. Ideal para creadores de contenido y comerciantes en línea. ¡Descubre cómo WaveSpeed hace que los subtítulos sean simples!",
+    "keywords": "subtitulación de video con IA, subtítulos automáticos, accesibilidad de video, compromiso de contenido, WaveSpeed AI, herramientas de marketing de video, generación de subtítulos, creador de subtítulos, subtítulos para videos en redes sociales, subtitulación de YouTube, subtítulos de TikTok, subtítulos para videos en vivo"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas de IA",
+        "items": [
+          [
+            "Herramientas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Muestras",
+        "items": [
+          [
+            "Muestras",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Subtitulación de Video con IA",
+    "subHeading": "Agrega Subtítulos a Tus Videos Sin Esfuerzo",
+    "description": "Mejora la experiencia del espectador con la generación automática de subtítulos que aumenta el compromiso y la accesibilidad. ¡Simplemente sube tu video y deja que nuestra IA haga el resto!",
+    "tryText": "Empieza Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución de Subtitulación de Video con IA de WaveSpeed",
+    "left": {
+      "heading": "Desafíos de Subtitulado Tradicional",
+      "items": [
+        "La creación manual de subtítulos consume mucho tiempo",
+        "Requiere habilidades de escritura y precisión",
+        "Editar subtítulos es laborioso",
+        "Soporte limitado para múltiples idiomas",
+        "Barreras de accesibilidad para espectadores con discapacidad auditiva"
+      ]
+    },
+    "right": {
+      "heading": "Solución WaveSpeed AI",
+      "items": [
+        "Generación de subtítulos instantánea en minutos",
+        "Soporta múltiples idiomas automáticamente",
+        "No se necesitan habilidades de escritura: solo sube el video",
+        "Subtítulos editables para precisión y claridad",
+        "Soluciones asequibles con precios por uso"
+      ],
+      "tryText": "Prueba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "Agrega subtítulos a tus videos en 4 simples pasos",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Sube Video",
+        "text": "Sube tu archivo de video a nuestra plataforma",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Selecciona Idioma",
+        "text": "Elige el idioma para tus subtítulos",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Generar Subtítulos",
+        "text": "Deja que nuestra IA cree subtítulos precisos automáticamente",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Editar y Descargar",
+        "text": "Revisa y edita los subtítulos, luego descarga tu video",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Genera Tus Subtítulos →"
+  },
+  "endlessPossibilities": {
+    "heading": "Posibilidades Infinitas",
+    "description": "Perfecto para cualquier contenido de video",
+    "items": [
+      "Videos de YouTube y vlogs",
+      "Clips de redes sociales para Instagram, TikTok",
+      "Seminarios web y cursos en línea",
+      "Videos de marketing y promoción",
+      "Grabaciones de eventos y transmisiones en vivo",
+      "Videos de capacitación corporativa",
+      "Podcasts en video",
+      "Entrevistas y discusiones"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Ve cómo los creadores mejoran su contenido con IA",
+    "items": [
+      {
+        "tag": "Contenido Educativo",
+        "heading": "Proveedor de Cursos en Línea",
+        "before": {
+          "label": "Antes",
+          "text": "Subtítulos Manuales"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Subtítulos Automáticos"
+        },
+        "value": "95%",
+        "key": "Tiempo Ahorrado",
+        "description": "Reducimos el tiempo de subtitulación de horas a minutos, permitiéndonos enfocarnos en la creación de contenido."
+      },
+      {
+        "tag": "Redes Sociales",
+        "heading": "Influencer de TikTok",
+        "before": {
+          "label": "Antes",
+          "text": "Subtítulos Inconsistentes"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Subtítulos de alta calidad de manera constante"
+        },
+        "value": "92%",
+        "key": "Aumento de Compromiso",
+        "description": "Nuestro compromiso se disparó con subtítulos correctamente formateados; los seguidores aprecian la accesibilidad."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Modelos de IA",
+    "description": "Elige el modelo de subtitulación adecuado para tus necesidades",
+    "items": [
+      "Modelo Básico: Precisión y velocidad estándar",
+      "Modelo Premium: Precisión mejorada, soporta más idiomas",
+      "Subtitulado en tiempo real para transmisiones en vivo",
+      "Corrección inteligente de puntuación y gramática",
+      "Interfaz de edición fácil de usar para ajustes rápidos",
+      "Derechos de uso comercial incluidos"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas de IA Relacionadas",
+    "description": "Explora más herramientas de IA potentes para mejorar tus videos"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué tipos de videos puedo subtitular?",
+        "answer": "Puedes agregar subtítulos a cualquier formato de video, incluidos archivos MP4, MOV y AVI. Nuestra plataforma soporta una amplia gama de formatos, asegurando compatibilidad para todo tu contenido de video."
+      },
+      {
+        "question": "¿Qué tan precisos son los subtítulos generados automáticamente?",
+        "answer": "Nuestros modelos de IA logran alta precisión con subtítulos basados en contexto e idioma. Puedes revisar y editar fácilmente los subtítulos para asegurarte de que cumplan con tus estándares antes de finalizar."
+      },
+      {
+        "question": "¿Puedo personalizar el estilo de los subtítulos?",
+        "answer": "¡Absolutamente! Puedes elegir entre varios estilos de fuente, tamaños, colores y ubicaciones para que coincidan con la estética de tu video y mejorar la experiencia del espectador."
+      },
+      {
+        "question": "¿Soportan múltiples idiomas para los subtítulos?",
+        "answer": "Sí, nuestra solución soporta la generación automática de subtítulos en múltiples idiomas, facilitando llegar a una audiencia global."
+      },
+      {
+        "question": "¿Cuánto tiempo toma generar subtítulos?",
+        "answer": "La generación de subtítulos es típicamente rápida, tomando solo unos minutos, dependiendo de la longitud de tu video. El proceso está diseñado para ser eficiente sin sacrificar calidad."
+      },
+      {
+        "question": "¿Hay tarifas adicionales por uso comercial?",
+        "answer": "¡No! Todos los subtítulos generados vienen con derechos comerciales sin costo adicional, permitiéndote usarlos libremente en diversas plataformas."
+      },
+      {
+        "question": "¿Puedo editar los subtítulos después de generarlos?",
+        "answer": "Sí, nuestra plataforma te permite editar y refinar los subtítulos según sea necesario. Puedes ajustar los tiempos y el texto para asegurar una perfecta sincronización y claridad."
+      },
+      {
+        "question": "¿Qué pasa si encuentro problemas con el proceso de subtitulación?",
+        "answer": "¡Nuestro equipo de soporte está aquí para ayudar! Proporcionamos recursos, tutoriales y asistencia directa para resolver cualquier problema rápidamente."
+      },
+      {
+        "question": "¿Puedo usar subtítulos para transmisión en vivo?",
+        "answer": "¡Sí! Nuestra IA incluye funciones de subtitulación en tiempo real para transmisiones de video en vivo, mejorando la accesibilidad para todos los espectadores."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Agregar Subtítulos a Tus Videos?",
+    "description": "Comienza a mejorar tu contenido hoy con créditos gratuitos.",
+    "contactUsText": "Contáctanos",
+    "tryText": "Prueba Ahora →"
+  },
+  "footer": {
+    "heading": "¡Transforma Tus Videos Hoy!",
+    "description": "Prueba WaveSpeed AI ahora y experimenta una subtitulación profesional. No se requiere registro.",
+    "ctaText": "Comienza a Subtitular Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

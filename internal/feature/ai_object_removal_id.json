@@ -1,0 +1,230 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Penghapusan Objek AI",
+  "meta": {
+    "description": "Hapus objek yang tidak diinginkan dari gambar Anda dengan fitur Penghapusan Objek WaveSpeed AI. Sempurna untuk e-commerce, fotografi, dan pembuatan konten. Rasakan pengeditan tanpa hambatan yang didukung oleh teknologi AI canggih.",
+    "keywords": "penghapusan objek AI, alat pengeditan gambar, penyempurna foto AI, solusi pengeditan e-commerce, penghapusan latar belakang, pembuatan konten, retouching foto profesional, pengeditan tanpa hambatan, peningkatan fotografi, WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Penghapusan Objek yang Mudah",
+    "subHeading": "Hilangkan Elemen yang Tidak Diinginkan dari Gambar Anda",
+    "description": "Hapus gangguan dari foto Anda secara instan, meningkatkan fokus pada subjek Anda. Dengan teknologi AI terbaru, Anda dapat mencapai hasil yang sempurna dalam beberapa detik. Ucapkan selamat tinggal kepada objek yang tidak diinginkan dan tingkatkan visual Anda hari ini!",
+    "tryText": "Hapus Objek Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Penghapusan Objek AI WaveSpeed AI",
+    "left": {
+      "heading": "Tantangan Pengeditan Gambar Tradisional",
+      "items": [
+        "Pengeditan manual yang memakan waktu",
+        "Mengharuskan keterampilan pengeditan foto tingkat lanjut",
+        "Biaya tinggi untuk retouching profesional",
+        "Pilihan terbatas untuk penghapusan objek",
+        "Hasil yang mengecewakan dengan editan yang terlihat"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeed AI",
+      "items": [
+        "Hapus objek apa pun dalam hitungan detik",
+        "Tidak perlu keterampilan desain - Cukup unggah gambar",
+        "Presisi bertenaga AI untuk pengeditan yang sempurna",
+        "Percobaan tanpa batas hingga hasil sempurna",
+        "Harga terjangkau tanpa biaya tersembunyi"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Capai pengeditan sempurna dalam 4 langkah sederhana",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Gambar",
+        "text": "Unggah foto yang ingin Anda edit",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Pilih Objek",
+        "text": "Sorot objek yang ingin Anda hapus",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Perbaiki Edit",
+        "text": "Sesuaikan area untuk memastikan penghapusan yang tanpa hambatan",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Unduh Edit",
+        "text": "Dapatkan gambar yang telah ditingkatkan dalam sekejap",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Hapus Objek yang Tidak Diinginkan →"
+  },
+  "endlessPossibilities": {
+    "heading": "Peluang Pengeditan Tanpa Batas",
+    "description": "Ideal untuk berbagai aplikasi dan industri",
+    "items": [
+      "Peningkatan produk e-commerce",
+      "Optimasi gambar real estat",
+      "Retouching fotografi",
+      "Peningkatan posting media sosial",
+      "Visual kampanye iklan",
+      "Penyempurnaan fotografi acara",
+      "Konten kreatif untuk blog",
+      "Pengeditan foto pribadi"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Temukan bagaimana pengguna mengubah gambar mereka dengan AI",
+    "items": [
+      {
+        "tag": "E-commerce",
+        "heading": "Toko Pakaian Online",
+        "before": {
+          "label": "Sebelum",
+          "text": "Latar belakang yang berantakan"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Fokus produk yang bersih"
+        },
+        "value": "95%",
+        "key": "Peningkatan Kejelasan Gambar",
+        "description": "Daftar kami mengalami peningkatan 30% dalam konversi setelah menghapus gangguan dari gambar produk dalam beberapa menit."
+      },
+      {
+        "tag": "Fotografi",
+        "heading": "Fotografer Pernikahan",
+        "before": {
+          "label": "Sebelum",
+          "text": "Tamu yang tidak diinginkan dalam foto"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Gambar tanpa hambatan"
+        },
+        "value": "98%",
+        "key": "Efisiensi Pengeditan",
+        "description": "Menghemat waktu pengeditan dengan menghapus elemen yang tidak diinginkan dengan mudah, memungkinkan kami fokus dalam menyajikan foto yang indah lebih cepat."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Model AI",
+    "description": "Pilih model yang sesuai dengan kebutuhan pengeditan Anda",
+    "items": [
+      "Penghapusan Dasar: Eliminasi objek sederhana, pemrosesan cepat, ideal untuk gangguan kecil",
+      "Model Lanjutan: Penghapusan tepat dengan latar belakang yang kompleks, terbaik untuk penggunaan profesional",
+      "Saran pengeditan waktu nyata untuk hasil yang lebih baik",
+      "Restorasi gambar berkualitas tinggi",
+      "Prabaca instan perubahan sebelum finalisasi",
+      "Hak penggunaan komersial termasuk"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Temukan lebih banyak alat AI yang kuat untuk peningkatan gambar"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Segala sesuatu yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Seberapa akurat proses penghapusan objek?",
+        "answer": "Teknologi AI kami memastikan penghapusan yang sangat akurat dengan artefak yang terlihat minimal, membuat gambar Anda terlihat diedit secara profesional."
+      },
+      {
+        "question": "Bisakah saya menggunakan fitur ini untuk keperluan komersial?",
+        "answer": "Ya! Semua pengeditan dilindungi oleh hak komersial, memungkinkan Anda menggunakannya dalam bisnis Anda tanpa biaya tambahan."
+      },
+      {
+        "question": "Format gambar apa yang didukung untuk diunggah?",
+        "answer": "Kami mendukung format JPG, PNG, dan WebP. Pastikan gambar Anda memiliki kualitas baik untuk hasil terbaik."
+      },
+      {
+        "question": "Apakah ada batasan berapa banyak objek yang bisa saya hapus?",
+        "answer": "Tidak, Anda dapat menghapus sebanyak mungkin objek yang diperlukan dalam satu sesi. AI kami bekerja untuk memastikan hasil yang tanpa hambatan untuk setiap penghapusan."
+      },
+      {
+        "question": "Berapa lama proses pengeditan berlangsung?",
+        "answer": "Proses biasanya selesai dalam hitungan detik, memungkinkan Anda kembali ke proyek Anda dengan cepat."
+      },
+      {
+        "question": "Jenis gambar apa yang paling cocok dengan fitur ini?",
+        "answer": "Gambar dengan subjek dan latar belakang yang jelas memberikan hasil terbaik, namun, AI kami dapat menangani berbagai skenario."
+      },
+      {
+        "question": "Bisakah teknologi ini menangani latar belakang yang kompleks?",
+        "answer": "Ya! Model AI canggih kami dapat menghapus objek secara efektif sambil mempertahankan kualitas latar belakang yang kompleks."
+      },
+      {
+        "question": "Apakah saya perlu perangkat lunak khusus untuk menggunakan fitur ini?",
+        "answer": "Tidak diperlukan perangkat lunak khusus. Cukup kunjungi situs web kami, unggah gambar Anda, dan biarkan AI kami melakukan pekerjaan."
+      },
+      {
+        "question": "Bagaimana ini dibandingkan dengan menyewa editor profesional?",
+        "answer": "Menggunakan alat AI kami jauh lebih cepat dan lebih hemat biaya, memungkinkan Anda melakukan pengeditan secara instan tanpa biaya berkelanjutan."
+      },
+      {
+        "question": "Dukungan apa yang tersedia jika saya menghadapi masalah?",
+        "answer": "Kami menawarkan dukungan komprehensif melalui panduan, tutorial, dan layanan pelanggan untuk membantu Anda dengan masalah teknis."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Mengubah Gambar Anda?",
+    "description": "Mulailah menghapus objek hanya dalam beberapa klik - Rasakan kekuatan AI hari ini!",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Hapus Objek Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap untuk Meningkatkan Foto Anda?",
+    "description": "Coba WaveSpeed AI sekarang dan rasakan pengeditan yang mudah. Tidak perlu mendaftar.",
+    "ctaText": "Hapus Objek Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi."
+  }
+}

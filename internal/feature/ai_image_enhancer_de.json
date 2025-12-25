@@ -1,0 +1,225 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - KI Bildverbesserer",
+  "meta": {
+    "description": "Verbessern Sie Ihre Produktbilder mühelos mit WaveSpeed AI. Unsere hochmoderne Technologie steigert die Bildqualität, Farbintensität und Details, sodass Ihre visuellen Inhalte hervorstechen. Perfekt für E-Commerce und Marketing!",
+    "keywords": "Bildverbesserer KI, Fotoverbesserungswerkzeug, Produktbildoptimierer, Bildqualitätssteigerung, E-Commerce Bildwerkzeug, Bildverbesserung, visuelle Marketinglösung, Online-Bildeditor, professionelle Fotoverbesserung, WaveSpeed AI, soziale Medien Bildverbesserung"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI-Tools",
+        "items": [
+          [
+            "KI-Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "KI Bildverbesserer",
+    "subHeading": "Heben Sie Ihre Bilder auf die nächste Ebene",
+    "description": "Verwandeln Sie Ihre Produktbilder mit nur wenigen Klicks in atemberaubende visuelle Inhalte. Erreichen Sie lebendige Farben, scharfe Details und einen ansprechenden Look, ohne komplexe Bearbeitungssoftware nutzen zu müssen. Probieren Sie es jetzt aus und lassen Sie Ihre Bilder strahlen!",
+    "tryText": "Jetzt Ausprobieren",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI Bildverbesserer Lösung",
+    "left": {
+      "heading": "Herausforderungen der traditionellen Bildverbesserung",
+      "items": [
+        "Teure professionelle Bearbeitungsdienste",
+        "Erfordert technische Fähigkeiten und komplexe Software",
+        "Zeitaufwendige Prozesse (Tage bis Wochen)",
+        "Eingeschränkte kreative Optionen für durchschnittliche Benutzer",
+        "Hohe Kosten für kleine Unternehmen"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI Lösung",
+      "items": [
+        "Verbessern Sie Bilder in Sekunden mit KI-Technologie",
+        "Benutzerfreundliche Oberfläche - Keine Fachkenntnisse erforderlich",
+        "Sofortige, qualitativ hochwertige Ergebnisse mit einem Klick",
+        "Unbegrenzte Bearbeitungsoptionen und -stile",
+        "Erschwingliches Preismodell nach Nutzung"
+      ],
+      "tryText": "Ausprobieren"
+    }
+  },
+  "howItWorks": {
+    "heading": "So funktioniert es",
+    "description": "Verbessern Sie Ihre Bilder in nur 4 einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Bild hochladen",
+        "text": "Wählen Sie das Bild aus, das Sie verbessern möchten",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Verbesserung auswählen",
+        "text": "Wählen Sie gewünschte Verbesserungen wie Farbverbesserung oder Detailverfeinerung",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Änderungen in der Vorschau anzeigen",
+        "text": "Sehen Sie sofort die Transformationen, die auf Ihr Bild angewendet wurden",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Verbessertes Bild herunterladen",
+        "text": "Speichern Sie Ihr verbessertes Bild in hoher Qualität, bereit zur Nutzung",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Verbessern Sie Ihr erstes Bild →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endlose Möglichkeiten",
+    "description": "Perfekt für alle Bedürfnisse der Bildverbesserung",
+    "items": [
+      "E-Commerce Produktbilder",
+      "Soziale Medien Beiträge und Anzeigen",
+      "Website Grafiken",
+      "Marketingmaterialien und Broschüren",
+      "Portfolio Bilder für kreative Fachleute",
+      "Eventfotografie Verbesserungen",
+      "Immobilienanzeigen",
+      "Lebensmittelfotografie"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Entdecken Sie, wie Unternehmen ihre visuellen Inhalte mit KI verbessern",
+    "items": [
+      {
+        "tag": "E-Commerce",
+        "heading": "Modeeinzelhändler",
+        "before": {
+          "label": "Vorher",
+          "text": "Niedrigqualitative visuelle Inhalte"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Atmende Produktbilder"
+        },
+        "value": "80%",
+        "key": "Verbesserung der Bildqualität",
+        "description": "Nach der Nutzung des Verbesserers erregten unsere visuellen Inhalte Aufmerksamkeit, was zu einem Anstieg der Online-Verkäufe um 30% führte."
+      },
+      {
+        "tag": "Immobilien",
+        "heading": "Immobilienanzeigen",
+        "before": {
+          "label": "Vorher",
+          "text": "Dunkle und fade Fotos"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Lebendige und einladende Bilder"
+        },
+        "value": "70%",
+        "key": "Steigerung des Engagements",
+        "description": "Die Verbesserung unserer Anzeigen führte zu einer 50%igen Zunahme der Anfragen für Immobilien."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Vergleich der Verbesserungsoptionen",
+    "description": "Wählen Sie die richtige Verbesserung für Ihre Bilder",
+    "items": [
+      "Standardverbesserung: Grundlegende Qualitätsverbesserung, strahlende Farben und scharfe Details",
+      "Premiumverbesserung: Fortgeschrittene Verarbeitung für überlegene Qualität, Texturverbesserung und Farbgenauigkeit",
+      "Batchverarbeitung: Verbessern Sie mehrere Bilder gleichzeitig, um Zeit zu sparen",
+      "Echtzeit-Vorschauen für Anpassungen vor der endgültigen Verbesserung",
+      "Kompatibel mit JPG-, PNG- und WebP-Bildformaten"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Verwandte KI-Tools",
+    "description": "Entdecken Sie weitere leistungsstarke KI-Tools zur Bildoptimierung und -verbesserung"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welche Arten von Bildern kann ich verbessern?",
+        "answer": "Sie können verschiedene Arten von Bildern verbessern, darunter Produktfotos, Marketingvisualisierungen, Grafiken für soziale Medien und mehr. Die KI funktioniert am besten mit klaren, gut beleuchteten Bildern."
+      },
+      {
+        "question": "Wie lange dauert der Verbesserungsprozess?",
+        "answer": "Die Verbesserung wird in der Regel in Sekunden abgeschlossen, sodass Sie schnell qualitativ hochwertige Bilder für Ihre Bedürfnisse erhalten."
+      },
+      {
+        "question": "Kann ich den Grad der Verbesserung anpassen?",
+        "answer": "Ja! Die Verbesserungsstufen können an Ihre Vorlieben angepasst werden, sodass Sie die volle Kontrolle über den endgültigen Look Ihrer Bilder haben."
+      },
+      {
+        "question": "Wie ist die Qualität der verbesserten Bilder?",
+        "answer": "Die verbesserten Bilder behalten eine hohe Auflösung und Klarheit bei, wodurch sie für die professionelle Nutzung, einschließlich Druck und digitale Plattformen, geeignet sind."
+      },
+      {
+        "question": "Gibt es eine Begrenzung für die Anzahl der Bilder, die ich verbessern kann?",
+        "answer": "Es gibt keine Begrenzung! Sie können so viele Bilder verbessern, wie Sie benötigen, und unser Batchverarbeitungsfeature macht es einfach, mit mehreren Dateien gleichzeitig zu arbeiten."
+      },
+      {
+        "question": "Besitze ich die Rechte an verbesserten Bildern?",
+        "answer": "Ja! Alle durch WaveSpeed AI verbesserten Bilder kommen mit vollem Eigentumsrecht, sodass Sie sie ohne Einschränkungen für kommerzielle Zwecke verwenden können."
+      },
+      {
+        "question": "Welcher Support steht zur Verfügung, wenn ich auf Probleme stoße?",
+        "answer": "Wir bieten umfassenden Support durch Dokumentation, Tutorials und ein reaktionsschnelles Kundenserviceteam, das für alle Anfragen zur Verfügung steht."
+      },
+      {
+        "question": "Gibt es eine kostenlose Testversion für neue Benutzer?",
+        "answer": "Ja, neue Benutzer erhalten kostenlose Guthaben, um die Verbesserungsfunktionen ohne Verpflichtung oder Abonnement zu testen."
+      },
+      {
+        "question": "Welche Formate werden für den Bild-Upload unterstützt?",
+        "answer": "Sie können Bilder im JPG-, PNG- und WebP-Format hochladen, um mit unserem Werkzeug verbessert zu werden."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Ihre Bilder zu verbessern?",
+    "description": "Starten Sie mit kostenlosen Guthaben und sehen Sie die Transformation selbst.",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Jetzt Ausprobieren →"
+  },
+  "footer": {
+    "heading": "Bereit, Ihre visuellen Inhalte zu verbessern?",
+    "description": "Probieren Sie jetzt den KI Bildverbesserer aus und erleben Sie die Transformation. Keine Anmeldung erforderlich.",
+    "ctaText": "Bilder jetzt verbessern",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

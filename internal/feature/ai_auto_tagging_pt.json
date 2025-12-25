@@ -1,0 +1,214 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Auto Tagging com IA",
+  "meta": {
+    "description": "Etiquete produtos em suas imagens com tagging automática impulsionada por IA. Aprimore seu fluxo de trabalho de e-commerce com precisão e rapidez. Perfeito para varejistas online que buscam otimizar suas listas de produtos e melhorar a pesquisabilidade. Inscreva-se e experimente a eficiência!",
+    "keywords": "tagging automática, tagging IA, tagging de produtos, automação de e-commerce, rotulagem de imagem com IA, otimização de fluxo de trabalho, tagging Shopify, gestão de produtos Amazon, gestão de ativos digitais"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de IA",
+        "items": [
+          [
+            "Ferramentas de IA",
+            "#ai_tools"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Tagging Automático com IA",
+    "subHeading": "Etiqueta seus produtos com precisão sem esforço",
+    "description": "Gere tags precisas para suas imagens de produtos em segundos. Elimine os esforços de tagging manual e aumente a descobribilidade de seus produtos. Revolucione seus processos de e-commerce com nossa tecnologia de ponta.",
+    "tryText": "Comece a Etiquetar Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução de Auto Tagging com IA WaveSpeed AI",
+    "left": {
+      "heading": "Desafios do Tagging Tradicional",
+      "items": [
+        "Tagging manual é demorado e intensivo em mão de obra",
+        "Alto potencial de erro humano no tagging",
+        "Tagging inconsistente entre diferentes produtos",
+        "Difícil gerenciar grandes inventários de forma eficaz",
+        "Escalabilidade limitada para empresas em crescimento"
+      ]
+    },
+    "right": {
+      "heading": "Solução de Auto Tagging com IA Eficiente",
+      "items": [
+        "Gere instantaneamente tags relevantes para imagens de produtos",
+        "Reduza o esforço manual e minimize erros",
+        "Tagging consistente e preciso em seu catálogo",
+        "Gerencie facilmente extensos inventários de produtos",
+        "Solução escalável que cresce com seu negócio"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "Alcance tagging automático em 4 etapas simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Enviar Imagem",
+        "text": "Envie sua imagem de produto para soluções de tagging",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Processamento de IA",
+        "text": "Deixe a IA analisar a imagem e determinar tags ideais",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Rever Tags",
+        "text": "Examine e modifique as tags sugeridas para precisão",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Aplicar Tags",
+        "text": "Implemente as tags diretamente em suas listas de produtos",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Comece o Tagging Automatizado →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilidades de Tagging Sem Fim",
+    "description": "Perfeito para várias aplicações de e-commerce",
+    "items": [
+      "Gestão de inventário de produtos",
+      "Melhorar resultados de busca em lojas online",
+      "Melhorar experiência de navegação do cliente",
+      "Atualizações de listagens mais rápidas para ofertas sazonais",
+      "Otimização da organização de ativos digitais",
+      "Facilitar listagens em múltiplas plataformas"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Veja como empresas se transformaram com a IA",
+    "items": [
+      {
+        "tag": "Varejo de Moda",
+        "heading": "Loja de Roupas Online",
+        "before": {
+          "label": "Antes",
+          "text": "10 horas semanais"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "1 hora semanal"
+        },
+        "value": "90%",
+        "key": "Tempo Economizado",
+        "description": "Com o tagging automatizado, reduzimos significativamente nosso tempo de atualização de produtos, resultando em um lançamento mais rápido de novos itens."
+      },
+      {
+        "tag": "Artigos para o Lar",
+        "heading": "Loja de Decoração Online",
+        "before": {
+          "label": "Antes",
+          "text": "Tags inconsistentes"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Tagging preciso"
+        },
+        "value": "99.7%",
+        "key": "Precisão das Tags",
+        "description": "A IA melhorou nossa consistência de tags, o que aumenta nossos rankings de busca e a satisfação do cliente."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Modelos de Tagging com IA",
+    "description": "Escolha as soluções de tagging certas para suas necessidades",
+    "items": [
+      "Tagger Padrão: Tags de qualidade geral para vários tipos de produtos",
+      "Tagger Premium: Tags de alta qualidade e específicas para nichos para melhor precisão",
+      "Análise semântica integrada para tagging contextual",
+      "Suporta integração com plataformas populares de e-commerce",
+      "Tempos de processamento rápidos com atualizações de tagging em tempo real"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Explore mais ferramentas poderosas de IA para e-commerce"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo o que você precisa saber",
+    "items": [
+      {
+        "question": "Quão precisas são as tags geradas automaticamente?",
+        "answer": "Nossa IA oferece alta precisão na geração de tags. A melhoria contínua através de aprendizado de máquina garante a relevância para seu catálogo de produtos."
+      },
+      {
+        "question": "Posso editar as tags geradas automaticamente?",
+        "answer": "Sim! Após o processamento de IA, você pode revisar e modificar as tags para atender às suas necessidades específicas."
+      },
+      {
+        "question": "Quais tipos de imagens funcionam melhor para tagging?",
+        "answer": "Imagens de produtos claras e bem iluminadas produzem os melhores resultados para tagging preciso. A IA também pode funcionar com uma variedade de tipos de produtos."
+      },
+      {
+        "question": "Há um limite para o número de imagens que posso enviar?",
+        "answer": "Não! Você pode enviar quantas imagens precisar para tagging. O sistema lida com envios em lote de forma tranquila."
+      },
+      {
+        "question": "Preciso fornecer descrições ou contexto para tagging?",
+        "answer": "Não, a IA analisa a imagem de forma independente para gerar tags relevantes, tornando o processo incrivelmente eficiente."
+      },
+      {
+        "question": "E se eu tiver um grande inventário?",
+        "answer": "Nossa solução escalona eficazmente, permitindo tagging eficiente para listagens extensas de produtos sem desacelerar."
+      },
+      {
+        "question": "Com que rapidez posso esperar que minhas imagens sejam etiquetadas?",
+        "answer": "O tagging geralmente ocorre em segundos por imagem, permitindo que você atualize suas listagens em tempo real."
+      },
+      {
+        "question": "Quais são os direitos comerciais para as tags geradas automaticamente?",
+        "answer": "Você retém todos os direitos para usar, modificar e aplicar as tags da maneira que desejar para seu negócio."
+      },
+      {
+        "question": "Quais recursos de suporte estão disponíveis?",
+        "answer": "Oferecemos documentação, tutoriais e suporte ao cliente para ajudá-lo a maximizar sua eficiência de tagging."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Otimizar seu Tagging de Produtos?",
+    "description": "Comece a usar o Auto Tagging com IA hoje - Inscreva-se para créditos gratuitos!",
+    "contactUsText": "Entre em Contato",
+    "tryText": "Experimente Agora →"
+  },
+  "footer": {
+    "heading": "Pronto para Aprimorar suas Listagens de E-commerce?",
+    "description": "Experimente o poder do Auto Tagging com IA hoje. Sem necessidade de inscrição.",
+    "ctaText": "Comece a Etiquetar Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Gerador de Sombra com IA",
+  "meta": {
+    "description": "Aprimore suas imagens de produtos com sombras realistas usando tecnologia de IA. Perfeito para e-commerce e marketing digital, criando visuais de qualidade profissional sem esforço.",
+    "keywords": "gerador de sombra com IA, aprimoramento de imagem de produto, sombreamento realista, gráficos de e-commerce, ferramenta de imagem de marketing, edição de fotos com IA, imagens do Shopify, fotos de produtos da Amazon, visuais de marketing digital, criação de conteúdo visual"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de IA",
+        "items": [
+          [
+            "Ferramentas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Mostra",
+        "items": [
+          [
+            "Mostra",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Transforme Suas Imagens com Sombras",
+    "subHeading": "Adicione Sombras Realistas a Qualquer Foto",
+    "description": "Dê instantaneamente um toque profissional às suas imagens de produto com nosso Gerador de Sombra com IA. Aprimore visuais para listas de e-commerce ou campanhas de marketing sem esforço. Experimente agora e eleve a apresentação da sua marca!",
+    "tryText": "Experimente Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução do Gerador de Sombra com IA WaveSpeed AI",
+    "left": {
+      "heading": "Desafios Tradicionais",
+      "items": [
+        "Criar sombras realistas requer habilidades avançadas",
+        "Edição manual é trabalhosa e consome tempo",
+        "Software complexo pode ser esmagador",
+        "Altos custos para design gráfico profissional",
+        "Flexibilidade limitada na personalização"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeedAI",
+      "items": [
+        "Gere sombras realistas em segundos com IA",
+        "Nenhuma habilidade de design necessária - Basta enviar suas imagens",
+        "Aprimoramentos instantâneos com apenas um clique",
+        "Opções de personalização ilimitadas disponíveis",
+        "Modelo acessível de pagamento conforme o uso, sem assinaturas"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "Adicione sombras impressionantes às suas imagens em 4 etapas simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Enviar Imagem",
+        "text": "Envie sua foto de produto ou imagem que precisa de aprimoramento de sombra",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Selecionar Tipo de Sombra",
+        "text": "Escolha entre vários estilos de sombra para combinar com a sensação do seu produto",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Ajustar Configurações",
+        "text": "Ajuste o tamanho, opacidade e ângulo da sombra",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Baixar Imagem",
+        "text": "Receba sua imagem aprimorada com sombras realistas em minutos",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Gere Sua Primeira Imagem Sombreamento →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilidades Infinitas",
+    "description": "Ideal para uma variedade de aplicações",
+    "items": [
+      "Imagens de produtos para varejistas online",
+      "Postagens em mídias sociais para visuais atraentes",
+      "Gráficos promocionais e anúncios",
+      "Portfólios aprimorados para fotógrafos",
+      "Imagens de blog que se destacam",
+      "Listagens de imóveis com profundidade",
+      "Lookbooks de moda com estilo",
+      "Fotografia de alimentos que parece apetitoso"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Descubra como empresas estão elevando suas imagens com IA",
+    "items": [
+      {
+        "tag": "E-commerce de Moda",
+        "heading": "Boutique Online",
+        "before": {
+          "label": "Antes",
+          "text": "Imagens planas"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Sombras duradouras"
+        },
+        "value": "85%",
+        "key": "Aumento de Conversão",
+        "description": "Com imagens aprimoradas apresentando sombras, nosso apelo de produto disparou, resultando em um impressionante aumento de 30% nas vendas."
+      },
+      {
+        "tag": "Casa & Decoração",
+        "heading": "Loja de Móveis para Casa",
+        "before": {
+          "label": "Antes",
+          "text": "Fotos básicas"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Visuais impressionantes"
+        },
+        "value": "90%",
+        "key": "Melhoria de Percepção",
+        "description": "Nossos clientes agora veem a qualidade em nossas imagens, elevando significativamente a percepção e confiança na marca."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Modelos de Sombra com IA",
+    "description": "Escolha o efeito de sombra certo para suas necessidades",
+    "items": [
+      "Sombras Realistas: Opacidade e ângulos ajustáveis, aprimoram a profundidade",
+      "Sombras Suaves: Toque suave para criar efeitos sutis",
+      "Sombras de Alto Impacto: Ousadas e dramáticas para visuais que se destacam",
+      "Presets Personalizáveis para vários estilos",
+      "Geração com um clique para rapidez e eficiência",
+      "Direitos de uso comercial incluídos"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Explore mais ferramentas inovadoras de IA para aprimoramento de imagens"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo o que você precisa saber",
+    "items": [
+      {
+        "question": "Quais tipos de imagens funcionam melhor com o gerador de sombras?",
+        "answer": "O gerador de sombra funciona melhor com imagens de produtos claras e cenas que exigem profundidade. Imagens de alta resolução fornecem os resultados mais realistas, especialmente aquelas com fundos limpos."
+      },
+      {
+        "question": "Posso personalizar características da sombra, como ângulo e opacidade?",
+        "answer": "Sim! Você tem total controle para ajustar o ângulo, tamanho e opacidade das sombras, permitindo que você adapte o efeito para combinar com a apresentação do seu produto."
+      },
+      {
+        "question": "Há um limite para quantas imagens posso processar de uma vez?",
+        "answer": "Não, não há limites! Você pode enviar várias imagens simultaneamente, tornando fácil aprimorar uma coleção inteira de uma vez."
+      },
+      {
+        "question": "Como isso difere da edição manual de sombras?",
+        "answer": "Nosso Gerador de Sombra com IA simplifica o processo, permitindo produção rápida sem a necessidade de extensas habilidades em design gráfico ou expertise em software. A edição manual pode ser tediosa e demorada, enquanto nossa ferramenta oferece resultados instantâneos."
+      },
+      {
+        "question": "Qual modelo de preços é utilizado para o Gerador de Sombra com IA?",
+        "answer": "A WaveSpeed opera com um modelo flexível de pagamento conforme o uso, sem assinaturas mensais. Você paga apenas pelas sombras que gera, garantindo que você obtenha valor pelo seu investimento."
+      },
+      {
+        "question": "Qual é o tempo esperado para a geração de sombras?",
+        "answer": "A geração de sombras é rápida, geralmente levando apenas alguns momentos por imagem, independentemente do número processado. Desfrute de aprimoramentos rápidos sem espera."
+      },
+      {
+        "question": "Recebo direitos comerciais para as imagens aprimoradas?",
+        "answer": "Absolutamente! Todas as imagens processadas através do nosso Gerador de Sombras vêm com direitos de uso comercial completos, permitindo que você as utilize para qualquer finalidade comercial."
+      },
+      {
+        "question": "Que suporte está disponível se eu encontrar problemas?",
+        "answer": "A WaveSpeed oferece suporte abrangente, incluindo documentação e chat ao vivo para questões técnicas. Garantimos que os usuários recebam assistência rápida com quaisquer dúvidas durante sua experiência."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Elevar Suas Imagens?",
+    "description": "Comece com créditos gratuitos - Experimente a transformação agora",
+    "contactUsText": "Entre em Contato",
+    "tryText": "Experimente Agora →"
+  },
+  "footer": {
+    "heading": "Pronto para Transformar Suas Fotos?",
+    "description": "Experimente o WaveSpeed AI agora e veja a diferença por si mesmo. Sem necessidade de cadastro.",
+    "ctaText": "Adicione Sombras Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "language": "es",
+  "title": "WaveSpeed AI - Generador de Imágenes a Video con IA",
+  "meta": {
+    "description": "Elimina sin esfuerzo objetos no deseados de tus fotos para obtener imágenes más limpias y profesionales. Ideal para comercio electrónico, marketing y uso personal. ¡Comienza a transformar tus fotos hoy con WaveSpeed AI!",
+    "keywords": "eliminar objetos de fotos IA, herramienta de edición de fotos, mejorador de imágenes para comercio electrónico, retoque profesional de fotos, limpieza de imágenes con IA, Wavespeed AI, mejora de fotos, eliminación de fondo, edición de fotos en línea"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Inicio",
+        "items": [
+          [
+            "Inicio",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Herramientas de IA",
+        "items": [
+          [
+            "Herramientas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrina",
+        "items": [
+          [
+            "Vitrina",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Pruébalo ahora"
+  },
+  "hero": {
+    "heading": "Elimina Objetos No Deseados de Fotos",
+    "subHeading": "Mejora tus Imágenes al Instante",
+    "description": "Elimina fácilmente las distracciones de tus fotos y haz que se vean pulidas en poco tiempo. Nuestra tecnología de IA te permite simplemente subir tus imágenes y eliminar cualquier objeto no deseado con precisión. ¡Experimenta una transformación sin fisuras y eleva tus visuales hoy!",
+    "tryText": "Pruébalo Ahora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solución WaveSpeed AI para Eliminar Objetos de Fotos",
+    "left": {
+      "heading": "Dificultades en la Edición Tradicional",
+      "items": [
+        "La edición manual es tediosa y consume mucho tiempo",
+        "Requiere habilidades avanzadas en software como Photoshop",
+        "Propensa a errores humanos y resultados inconsistentes",
+        "Altos costos asociados con contratar profesionales",
+        "Limitada a pequeños ajustes y correcciones"
+      ]
+    },
+    "right": {
+      "heading": "Solución WaveSpeedAI",
+      "items": [
+        "Elimina objetos en segundos con tecnología impulsada por IA",
+        "No se necesitan habilidades de diseño - Solo sube y haz clic",
+        "Calidad consistente con precisión automatizada",
+        "Solución económica para todos los presupuestos",
+        "Revisiones ilimitadas para resultados perfectos"
+      ],
+      "tryText": "Probar"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "description": "Consigue fotos limpias en 3 simples pasos",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Sube la Imagen",
+        "text": "Sube la foto que contiene objetos no deseados",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Selecciona Objetos",
+        "text": "Destaca los elementos que deseas eliminar de la imagen",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Selecciona Modelo",
+        "text": "Elige Veo 3.1 para calidad premium o Seedance para velocidad",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Descarga la Foto Editada",
+        "text": "Obtén la foto editada sin distracciones en solo momentos",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Mejora tu Primera Foto →"
+  },
+  "endlessPossibilities": {
+    "heading": "Posibilidades Infinita",
+    "description": "Perfecto para una variedad de usos",
+    "items": [
+      "Imágenes de productos para comercio electrónico",
+      "Publicaciones y anuncios en redes sociales",
+      "Listados de bienes raíces",
+      "Fotografía de eventos",
+      "Retratos familiares",
+      "Fotografía de moda",
+      "Visuales para blogs",
+      "Cualquier imagen que requiera mejora"
+    ]
+  },
+  "successStories": {
+    "heading": "Historias de Éxito Reales",
+    "description": "Descubre cómo nuestros clientes están perfeccionando sus visuales con IA",
+    "items": [
+      {
+        "tag": "Comercio Electrónico",
+        "heading": "Tienda Minorista en Línea",
+        "before": {
+          "label": "Antes",
+          "text": "Imágenes desordenadas"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Aspecto limpio y profesional"
+        },
+        "value": "80%",
+        "key": "Aumento de la Tasa de Conversión",
+        "description": "Eliminar distracciones incrementó significativamente nuestras ventas en línea ya que los clientes podían concentrarse en el producto."
+      },
+      {
+        "tag": "Fotografía",
+        "heading": "Fotógrafo de Eventos",
+        "before": {
+          "label": "Antes",
+          "text": "Fondos ocupados"
+        },
+        "after": {
+          "label": "Después",
+          "text": "Retratos impresionantes"
+        },
+        "value": "90%",
+        "key": "Tiempo Ahorrado",
+        "description": "La edición con IA agilizó nuestro flujo de trabajo, permitiendo una entrega más rápida de fotos editadas a los clientes."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparación de Modelos de IA",
+    "description": "Elige el mejor enfoque para tus ediciones de fotos",
+    "items": [
+      "Eliminación Estándar: Ediciones rápidas para fondos simples",
+      "Eliminación Avanzada: Para escenas complejas con múltiples elementos",
+      "Edición guiada por texto para una identificación precisa de objetos",
+      "Integración sin problemas en flujos de trabajo existentes",
+      "Tiempo de procesamiento rápido con salida de alta calidad"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Herramientas de IA Relacionadas",
+    "description": "Explora más herramientas poderosas para la mejora de fotos"
+  },
+  "faq": {
+    "heading": "Preguntas Frecuentes",
+    "description": "Todo lo que necesitas saber",
+    "items": [
+      {
+        "question": "¿Qué tipos de imágenes funcionan mejor para la eliminación de objetos?",
+        "answer": "Las imágenes con fondos claros generan los mejores resultados, aunque nuestra IA puede manejar eficazmente escenas complejas también. La clave es tener imágenes de alta resolución con interferencia mínima."
+      },
+      {
+        "question": "¿Qué tan precisa es el proceso de eliminación de objetos?",
+        "answer": "Nuestra tecnología de IA ofrece alta precisión, asegurando que los objetos sean eliminados sin problemas mientras se mantiene la calidad de la imagen y la integridad del fondo."
+      },
+      {
+        "question": "¿Puedo deshacer cambios si no estoy satisfecho?",
+        "answer": "¡Sí! Puedes revertir fácilmente a la foto original en cualquier momento, permitiendo flexibilidad en tu proceso de edición."
+      },
+      {
+        "question": "¿Qué formatos de archivo admiten?",
+        "answer": "Admitimos formatos JPG, PNG y WebP, asegurando compatibilidad con la mayoría de las imágenes comúnmente utilizadas."
+      },
+      {
+        "question": "¿Hay un límite en la cantidad de imágenes que puedo procesar?",
+        "answer": "¡No, no hay límite! Puedes subir y editar múltiples imágenes según sea necesario."
+      },
+      {
+        "question": "¿Necesito experiencia en diseño para usar esta herramienta?",
+        "answer": "¡Para nada! La interfaz fácil de usar está diseñada para todos, independientemente de las habilidades de diseño."
+      },
+      {
+        "question": "¿Cuánto tiempo lleva eliminar objetos de una foto?",
+        "answer": "El proceso es muy rápido, normalmente se completa en menos de un minuto dependiendo de la complejidad de la imagen."
+      },
+      {
+        "question": "¿Hay tarifas ocultas?",
+        "answer": "¡No hay tarifas ocultas! Operamos con un modelo de pago por uso transparente, donde solo pagas por las ediciones que realizas."
+      },
+      {
+        "question": "¿Puedo usar las imágenes editadas para fines comerciales?",
+        "answer": "¡Sí! Tienes derechos completos sobre cualquier imagen editada a través de nuestra herramienta, permitiendo su uso comercial sin tarifas adicionales."
+      },
+      {
+        "question": "¿Qué tipo de soporte está disponible?",
+        "answer": "Ofrecemos soporte extenso a través de documentación, tutoriales y un equipo de soporte listo para ayudarte con cualquier pregunta o problema."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "¿Listo para Limpiar tus Fotos?",
+    "description": "Comienza a editar con créditos gratis - ¡Transforma tus imágenes ahora!",
+    "contactUsText": "Contáctanos",
+    "tryText": "Pruébalo Ahora →"
+  },
+  "footer": {
+    "heading": "¿Listo para Transformar tus Fotos?",
+    "description": "Prueba WaveSpeed AI ahora y ve la diferencia por ti mismo. No se requiere registro.",
+    "ctaText": "Eliminar Objetos Ahora",
+    "text": "© 2025 WaveSpeed AI. Todos los derechos reservados."
+  }
+}

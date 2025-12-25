@@ -1,0 +1,230 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - AI Video Gesichtstausch",
+  "meta": {
+    "description": "Gesichter in Videos mühelos mit fortschrittlicher KI-Technologie austauschen. Perfekt, um schnell und einfach ansprechende, personalisierte Inhalte zu erstellen. Erleben Sie die Zukunft des Video-Editing mit WaveSpeed AI.",
+    "keywords": "KI Video Gesichtstausch, Gesichtsersatz, Video-Editing KI, personalisierte Videoinhalte, sofortiger Gesichtstausch, Video-Marketing-Tool, Echtzeit-Gesichtstausch, soziale Medien Video, Werbevideos, Inhaltsgenerierung KI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI-Tools",
+        "items": [
+          [
+            "KI-Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "Video Gesichtstausch",
+    "subHeading": "Gesichter in Ihren Videos sofort transformieren",
+    "description": "Gesichter in Videos einfach austauschen, um dynamische, ansprechende Inhalte zu erstellen. Perfekt für Marketer und Content-Ersteller, die ihre Videos ohne technische Fähigkeiten personalisieren möchten. Beginnen Sie noch heute!",
+    "tryText": "Jetzt ausprobieren",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI KI Video Gesichtstausch Lösung",
+    "left": {
+      "heading": "Traditionelle Herausforderungen",
+      "items": [
+        "Gesichtstausch erfordert komplizierte Software",
+        "Aufwendige manuelle Bearbeitungsprozesse",
+        "Begrenzung auf professionelle Fähigkeiten und Erfahrung",
+        "Zeitaufwendige Anpassungen und Bearbeitungen",
+        "Hohe Kosten für Videoproduktionsteams"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Lösung",
+      "items": [
+        "Gesichter in Videos sofort mit einem einzigen Klick austauschen",
+        "Keine vorherigen Bearbeitungsfähigkeiten erforderlich - Einfach das Video hochladen",
+        "KI-gesteuerte Ergebnisse in kürzester Zeit",
+        "Verschiedene Gesichtstausche mühelos testen",
+        "Kosten-effektive Lösung, die für jedes Budget geeignet ist"
+      ],
+      "tryText": "Ausprobieren"
+    }
+  },
+  "howItWorks": {
+    "heading": "Wie es funktioniert",
+    "description": "Gesichter nahtlos in 4 einfachen Schritten austauschen",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Video hochladen",
+        "text": "Laden Sie Ihr Video hoch, in dem Sie Gesichter austauschen möchten",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Gesichter auswählen",
+        "text": "Wählen Sie die Gesichter aus, die innerhalb der Videorahmen getauscht werden sollen",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Einstellungen anpassen",
+        "text": "Feinjustieren der Gesichtstauschpräferenzen und Effekte",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Ergebnis herunterladen",
+        "text": "Erhalten Sie Ihr neu bearbeitetes Video in nur wenigen Momenten",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Erstellen Sie Ihr erstes Gesichtstausch-Video →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endlose Möglichkeiten",
+    "description": "Entfalten Sie kreatives Potenzial für jedes Videoprojekt",
+    "items": [
+      "Personalisierte Marketingvideos",
+      "Lustige Social-Media-Clips",
+      "Interaktive Präsentationen",
+      "Unvergessliche Werbekampagnen",
+      "Kreatives Geschichtenerzählen und Sketche",
+      "Einzigartige Talentshows",
+      "Fesselnde Familien- oder Eventerinnerungen",
+      "Individuelle Video-Nachrichten"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Erfahren Sie, wie Nutzer ihre Video-Projekte mit KI revolutionieren",
+    "items": [
+      {
+        "tag": "Unterhaltungsindustrie",
+        "heading": "Virale Social-Media-Inhalte",
+        "before": {
+          "label": "Vorher",
+          "text": "Zeitaufwendige Bearbeitungen"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Sofortige Ergebnisse"
+        },
+        "value": "95%",
+        "key": "Gesparte Zeit",
+        "description": "Wir haben ansprechende, gesichtstauschte Videos in Rekordzeit erstellt, was zu viralem Engagement und Teilen führte."
+      },
+      {
+        "tag": "Marketing",
+        "heading": "Personalisierte Kampagnen",
+        "before": {
+          "label": "Vorher",
+          "text": "Outsourcing der Produktion"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "In-House-Bearbeitung"
+        },
+        "value": "90%",
+        "key": "Kostenreduktion",
+        "description": "Mit KI produzieren wir jetzt maßgeschneiderte Videos schnell und kostengünstig und verbessern unsere Marketingstrategien."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "KI Modellvergleich",
+    "description": "Wählen Sie das richtige Modell für Ihre Gesichtstauschbedürfnisse aus",
+    "items": [
+      "Standardmodell: Schnelle Gesichtstausche mit annehmbarer Qualität",
+      "Premium-Modell: Hohe Treue und Details",
+      "Echtzeit-Verarbeitungsfähigkeiten",
+      "Natürliche Gesichtszuordnungs-Technologie",
+      "Unterstützt mehrere Gesichtstausche in einem einzigen Video",
+      "Nahtlose Integration mit bestehenden Video-Plattformen"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Verwandte KI-Tools",
+    "description": "Entdecken Sie weitere innovative KI-Lösungen für Ihre Video-Bedürfnisse"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welche Qualität kann ich von Video mit Gesichtstausch erwarten?",
+        "answer": "Unsere KI sorgt für hochwertige Videos mit klaren, realistischen Gesichtstauschen, die das natürliche Aussehen und Gefühl Ihres Inhalts bewahren. Erwarten Sie professionelle Ergebnisse, die für verschiedene Plattformen bereit sind."
+      },
+      {
+        "question": "Kann ich die Gesichtstausch-Effekte anpassen?",
+        "answer": "Absolut! Sie können den Grad des Gesichtstauschs anpassen, einzigartige Filter anwenden und Präferenzen festlegen, wie der Tausch mit dem ursprünglichen Video integriert wird."
+      },
+      {
+        "question": "Welche Arten von Videos eignen sich am besten für Gesichtstauschen?",
+        "answer": "Videos mit klarer Gesichtsichtbarkeit erzielen die besten Ergebnisse, obwohl die KI eine Vielzahl von Szenarien bewältigen kann. Stellen Sie sicher, dass Ihre Videos gut beleuchtet und fokussiert sind, um optimale Qualität zu gewährleisten."
+      },
+      {
+        "question": "Wie unterscheidet sich das von herkömmlichem Video-Editing?",
+        "answer": "Der KI-gesteuerte Gesichtstausch automatisiert und vereinfacht den Prozess und bietet schnelle Ergebnisse mit fortschrittlicher Technologie, die mit der Präzision der manuellen Bearbeitung konkurriert und Ihnen Zeit und Mühe spart."
+      },
+      {
+        "question": "Kann ich die getauschten Videos nach der Erstellung anpassen oder verbessern?",
+        "answer": "Ja! Sie können das Ergebnis mit unseren Bearbeitungstools verfeinern, um das endgültige Ergebnis zu verbessern und bei Bedarf zusätzliche Effekte oder Anpassungen anzuwenden."
+      },
+      {
+        "question": "Wie sieht das Preismodell für den Gesichtstausch aus?",
+        "answer": "WaveSpeed arbeitet auf einer Pay-as-you-go-Basis und berechnet nur für die Videos, die Sie generieren, ohne versteckte Gebühren. Die Preise variieren je nach Videolänge und gewähltem Modell."
+      },
+      {
+        "question": "Wie lange dauert der Gesichtstausch-Prozess?",
+        "answer": "Typischerweise werden Gesichtstausche innerhalb von Momenten abgeschlossen, sodass Sie effizient arbeiten können, ohne lange Wartezeiten. Mehrere Tausche können gleichzeitig verarbeitet werden."
+      },
+      {
+        "question": "Was sind die besten Anwendungen für die Technologie des Gesichtstauschs?",
+        "answer": "Ideal für Marketingvideos, Inhalte in sozialen Medien, personalisierte Nachrichten und alle kreativen Projekte, bei denen maßgeschneiderte Video-Elemente das Zuschauerengagement erhöhen."
+      },
+      {
+        "question": "Besitze ich die Rechte an Videos, die mit Gesichtstausch erstellt werden?",
+        "answer": "Ja! Alle mit unserem Service produzierten Videos kommen mit vollen kommerziellen Nutzungsrechten - verwenden Sie sie frei in Werbung, sozialen Medien oder jeder kommerziellen Umgebung."
+      },
+      {
+        "question": "Welche Unterstützungsressourcen stehen zur Verfügung?",
+        "answer": "Wir bieten detaillierte Anleitungen, Tutorials und dedizierten Support per E-Mail und Chat, um bei technischen Problemen zu helfen, damit Sie das Beste aus unserer Plattform herausholen."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Ihr erstes Gesichtstausch-Video zu erstellen?",
+    "description": "Starten Sie mit kostenlosen Credits - Entdecken Sie heute die Kraft des KI-Video-Editings",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Jetzt ausprobieren →"
+  },
+  "footer": {
+    "heading": "Bereit, Ihre Videos zu transformieren?",
+    "description": "Erleben Sie die Zukunft des Video-Editings mit WaveSpeed AI noch heute. Keine Anmeldung erforderlich.",
+    "ctaText": "Jetzt Gesichter tauschen",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

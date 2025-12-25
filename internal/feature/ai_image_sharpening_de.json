@@ -1,0 +1,230 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - KI-Bildschärfung",
+  "meta": {
+    "description": "Verbessern Sie Ihre Bilder mit KI-gesteuerter Schärfung für atemberaubende Klarheit und Detailgenauigkeit. Ideal für E-Commerce, soziale Medien und jeden visuellen Inhalt. Erleben Sie sofort eine Bildqualität der nächsten Stufe!",
+    "keywords": "KI-Bildschärfung, Fotobearbeitung, Bildklarheit, E-Commerce-Bilder, KI-Fototools, hochauflösende Bilder, visueller Inhalt in sozialen Medien, Fotooptimierung, WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Home",
+        "items": [
+          [
+            "Home",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI-Tools",
+        "items": [
+          [
+            "KI-Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "Bildschärfung",
+    "subHeading": "Bringen Sie Ihre Bilder zum Leben",
+    "description": "Verwandeln Sie verschwommene und qualitativ minderwertige Bilder in atemberaubende visuelle Inhalte mit fortschrittlicher KI-Schärfung. Erleben Sie mühelos verbesserte Klarheit und Detailgenauigkeit. Perfekt für E-Commerce, Marketing und persönliche Projekte.",
+    "tryText": "Schärfen Sie Ihr Bild jetzt",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI KI-Bildschärfungslösung",
+    "left": {
+      "heading": "Herausforderungen der traditionellen Bildbearbeitung",
+      "items": [
+        "Manuelle Schärfwerkzeuge sind komplex und zeitaufwändig",
+        "Qualitätsverlust bei Vergrößerungen und Anpassungen",
+        "Erfordert Kenntnisse in Fotobearbeitungssoftware",
+        "Nicht geeignet für die Bearbeitung mehrerer Bilder",
+        "Eingeschränkte Ergebnisse ohne professionelle Fähigkeiten"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Lösung",
+      "items": [
+        "Schärfen Sie mehrere Bilder mit einem Klick sofort",
+        "KI-gesteuerte Verbesserung, die Details bewahrt",
+        "Benutzerfreundliche Oberfläche ohne vorherige Fähigkeiten erforderlich",
+        "Batch-Verarbeitung für einen nahtlosen Workflow",
+        "Kosteneffektive Schärfungsdienstleistung, Zahlung pro Bild"
+      ],
+      "tryText": "Jetzt ausprobieren"
+    }
+  },
+  "howItWorks": {
+    "heading": "So funktioniert es",
+    "description": "Erzielen Sie kristallklare Bilder in 4 einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Bild hochladen",
+        "text": "Wählen Sie das Bild aus, das Sie schärfen möchten",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Einstellungen anpassen",
+        "text": "Feinabstimmung des Schärfungsgrades nach Ihren Wünschen",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Änderungen in der Vorschau anzeigen",
+        "text": "Sehen Sie die Änderungen in der Klarheit Ihres Bildes in Echtzeit",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Verbessertes Bild herunterladen",
+        "text": "Erhalten Sie Ihr beautifully geschärftes Bild sofort",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Schärfen Sie Ihr erstes Bild →"
+  },
+  "endlessPossibilities": {
+    "heading": "Unendliche Möglichkeiten",
+    "description": "Verbessern Sie Bilder für jede Anwendung",
+    "items": [
+      "Produktbilder für Shopify und Amazon",
+      "Beiträge in sozialen Medien für Instagram und Facebook",
+      "Marketingmaterialien und Werbung",
+      "Immobilienanzeigen",
+      "Lebensmittelfotografie für Menüs",
+      "Persönliche Fotografieprojekte",
+      "Veranstaltungs- und Hochzeitsfotos",
+      "Kunstdrucke und Online-Portfolios"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Erfahren Sie, wie Benutzer ihre Bilder mit KI aufwerten",
+    "items": [
+      {
+        "tag": "E-Commerce-Fotografie",
+        "heading": "Amazon Produktlisting",
+        "before": {
+          "label": "Vorher",
+          "text": "Verschwommene Bilder"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Kristallklar"
+        },
+        "value": "98,7%",
+        "key": "Verbesserung der Bildqualität",
+        "description": "Verbesserte Bildqualität steigerte unsere Konversionsrate innerhalb einer Woche um 35 %."
+      },
+      {
+        "tag": "Social Media Marketing",
+        "heading": "Instagram-Inhaltscreator",
+        "before": {
+          "label": "Vorher",
+          "text": "Unklare Fotos"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Atemberaubende visuelle Inhalte"
+        },
+        "value": "97,5%",
+        "key": "Steigerung der Interaktionsrate",
+        "description": "Hochwertige Bilder erhöhten dramatisch unsere Follower und Likes."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Vergleich der KI-Schärfungsmodelle",
+    "description": "Wählen Sie das richtige Schärfungsmodell für Ihre Bedürfnisse",
+    "items": [
+      "Standard-Schärfung: Verbessert Details, während das natürliche Aussehen erhalten bleibt",
+      "Erweiterte Schärfung: Maximiert Klarheit und Kontrast für auffällige Bilder",
+      "Batch-Verarbeitung: Schärft mehrere Bilder gleichzeitig",
+      "Adaptive Qualitätskontrolle: Passt die Schärfung basierend auf dem Bildinhalt an",
+      "Echtzeit-Vorschau: Sehen Sie sofort Änderungen vor dem Speichern",
+      "PNG- und JPG-Unterstützung für alle Ausgaben"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ähnliche KI-Tools",
+    "description": "Entdecken Sie weitere leistungsstarke KI-Tools zur Bildverbesserung"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welche Arten von Bildern können geschärft werden?",
+        "answer": "Sie können JPG-, PNG- und WebP-Formate schärfen. Die Bilder sollten klar und von akzeptabler Qualität sein, um die besten Ergebnisse zu erzielen."
+      },
+      {
+        "question": "Kann ich den Schärfungsgrad anpassen?",
+        "answer": "Ja! Sie können die Schärfstärke anpassen, um sie an Ihr gewünschtes Ergebnis und den Bildtyp anzupassen."
+      },
+      {
+        "question": "Wie lange dauert es, ein Bild zu schärfen?",
+        "answer": "Die meisten Bilder werden innerhalb von Sekunden verbessert, was es schnell und effizient für jedes Projekt macht."
+      },
+      {
+        "question": "Gibt es eine Begrenzung, wie viele Bilder ich gleichzeitig schärfen kann?",
+        "answer": "Keine Grenzen! Sie können so viele Bilder gleichzeitig mit unserem Batch-Verarbeitungsfeature schärfen, wie Sie möchten."
+      },
+      {
+        "question": "Benötige ich eine spezielle Software, um dieses Tool zu verwenden?",
+        "answer": "Es ist keine spezielle Software erforderlich. Laden Sie einfach Ihre Bilder auf unserer Plattform hoch und beginnen Sie mit der Verbesserung."
+      },
+      {
+        "question": "Gibt es zusätzliche Gebühren für das Schärfen von Bildern?",
+        "answer": "Wir arbeiten nach einem Zahlungsmodell pro Bild ohne versteckte Gebühren, was es flexibel für Ihr Budget macht."
+      },
+      {
+        "question": "Kann ich mein Abonnement jederzeit kündigen?",
+        "answer": "Ja! Es gibt keine Abonnements. Sie zahlen nur für die Bilder, die Sie wählen, um sie zu schärfen."
+      },
+      {
+        "question": "Was, wenn mir die Ergebnisse nicht gefallen?",
+        "answer": "Wenn Sie nicht zufrieden sind, können Sie die Einstellungen anpassen und erneut schärfen, ohne zusätzliche Gebühren."
+      },
+      {
+        "question": "Gibt es Unterstützung, wenn ich auf Probleme stoße?",
+        "answer": "Ja! Unser Kundenserviceteam ist per E-Mail und Live-Chat für Fragen oder Problemlösungen erreichbar."
+      },
+      {
+        "question": "Kann ich geschärfte Bilder kommerziell nutzen?",
+        "answer": "Absolut! Sie besitzen die Rechte an allen Bildern, die mit unserem Tool geschärft wurden."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Ihre Bilder zu schärfen?",
+    "description": "Beginnen Sie noch heute mit der Verbesserung Ihrer visuellen Inhalte!",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Schärfen Sie Ihr Bild jetzt →"
+  },
+  "footer": {
+    "heading": "Bereit, Ihre Bilder zu verbessern?",
+    "description": "Probieren Sie WaveSpeed AI jetzt aus und erleben Sie die Transformation. Keine Anmeldung erforderlich.",
+    "ctaText": "Jetzt schärfen",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

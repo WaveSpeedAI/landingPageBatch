@@ -1,0 +1,222 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - AI Outpainting",
+  "meta": {
+    "description": "Révolutionnez votre processus créatif avec AI Outpainting. Étendez vos images sans effort et créez des visuels époustouflants. Idéal pour les artistes, designers et marketeurs cherchant à améliorer leur imagerie avec la technologie IA. Libérez votre créativité maintenant !",
+    "keywords": "AI outpainting, extension d'image, amélioration créative, outils d'image IA, design artistique, art numérique, visuels marketing, imagerie e-commerce, transformation d'œuvres d'art, outils WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "AI Outpainting",
+    "subHeading": "Transformez Vos Images Comme Jamais Avant",
+    "description": "Améliorez vos images en les prolongeant sans couture avec l'IA. Créez des visuels éblouissants qui captivent et inspirent sans nécessiter de compétences avancées en design. Découvrez la puissance d'AI Outpainting - parfait pour les artistes, marketeurs et créateurs. Allez plus loin avec vos images !",
+    "tryText": "Essayez-le Maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution AI Outpainting de WaveSpeed AI",
+    "left": {
+      "heading": "Défis Traditionnels",
+      "items": [
+        "La retouche d'image nécessite des compétences étendues et des logiciels",
+        "Des processus chronophages avec des résultats limités",
+        "Frais élevés associés à la conception professionnelle",
+        "Difficultés à créer des visuels cohérents à travers les formats",
+        "Les blocages créatifs freinent le flux de travail"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeed AI",
+      "items": [
+        "Étendez facilement vos images pour créer des visuels expansifs",
+        "Aucune compétence en design requise - Il vous suffit de télécharger votre image",
+        "Améliorations générées par IA instantanées pour des résultats époustouflants",
+        "Possibilités créatives et itérations illimitées",
+        "Tarification abordable pour tous les budgets"
+      ],
+      "tryText": "Essayez"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment Ça Marche",
+    "description": "Transformez vos images en 4 étapes simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Téléchargez Votre Image",
+        "text": "Choisissez l'image que vous souhaitez améliorer ou étendre",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Définissez Votre Vision",
+        "text": "Optionnel : Décrivez ce que vous souhaitez ajouter ou étendre",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Sélectionnez le Style Artistique",
+        "text": "Choisissez parmi divers styles artistiques qui répondent à vos besoins",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Téléchargez Votre Image Améliorée",
+        "text": "Recevez votre image transformée dans quelques minutes",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Générez Votre Première Image →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilités Infinies",
+    "description": "Parfait pour chaque démarche créative",
+    "items": [
+      "Extensions d'œuvres d'art ou de murales",
+      "Amélioration des images de produits e-commerce",
+      "Projets de design graphique",
+      "Expansion de contenu sur les réseaux sociaux",
+      "Matériaux imprimés et publications",
+      "Visuels de site Web et bannières",
+      "Imagerie pour événements et publicités",
+      "Art conceptuel et illustrations"
+    ]
+  },
+  "successStories": {
+    "heading": "Véritables Histoires de Succès",
+    "description": "Découvrez comment des créateurs transforment leurs images avec l'IA",
+    "items": [
+      {
+        "tag": "Art de Jeu",
+        "heading": "Art Conceptuel de Jeu Épique",
+        "before": {
+          "label": "Avant",
+          "text": "Arrière-plans basiques"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Paysages vibrants et étendus"
+        },
+        "value": "150%",
+        "key": "Attrait Visuel",
+        "description": "Les améliorations ont donné vie à nos environnements, entraînant un engagement et un intérêt plus élevés pour notre jeu."
+      },
+      {
+        "tag": "E-commerce",
+        "heading": "Extension de Photographie de Produit",
+        "before": {
+          "label": "Avant",
+          "text": "Images de produits simples"
+        },
+        "after": {
+          "label": "Après",
+          "text": "Visuels dynamiques et détaillés"
+        },
+        "value": "200%",
+        "key": "Augmentation des Ventes",
+        "description": "Nous avons transformé les photos de produits en expériences immersives, augmentant considérablement les achats des clients."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison des Styles d'AI Outpainting",
+    "description": "Choisissez le bon style pour vos besoins visionnaires",
+    "items": [
+      "Impressionniste : Pinceaux doux et mélangés pour un aspect rêveur",
+      "Réaliste : Bords nets et couleurs vibrantes pour une amélioration réaliste",
+      "Surréaliste : Designs uniques avec des éléments imaginatifs",
+      "Fantaisie : Scènes d'un autre monde qui captivent les spectateurs",
+      "Minimaliste : Améliorations propres et discrètes qui se concentrent sur le sujet",
+      "Abstrait : Expressions créatives qui repoussent les limites"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils IA Associés",
+    "description": "Explorez plus d'outils innovants pour vos projets créatifs"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quels types de fichiers image puis-je utiliser avec AI Outpainting ?",
+        "answer": "AI Outpainting prend en charge les formats JPG, PNG et WebP. Pour de meilleurs résultats, les images doivent être grandes et claires, idéalement 1024x1024 pixels ou plus."
+      },
+      {
+        "question": "Puis-je personnaliser la manière dont l'IA améliore mon image ?",
+        "answer": "Oui ! Vous pouvez fournir des descriptions de ce que vous souhaitez ajouter ou comment vous aimeriez que l'image soit étendue pour des résultats sur mesure."
+      },
+      {
+        "question": "À quelle vitesse puis-je m'attendre à recevoir mon image améliorée ?",
+        "answer": "La plupart des transformations sont réalisées en quelques minutes, permettant un flux de travail efficace pour maximiser votre productivité."
+      },
+      {
+        "question": "Y a-t-il des limitations concernant la qualité de sortie ?",
+        "answer": "La qualité de sortie maintiendra la résolution de votre image originale tout en l'améliorant pour créer des effets visuellement époustouflants."
+      },
+      {
+        "question": "Puis-je utiliser les images améliorées commercialement ?",
+        "answer": "Oui ! Toutes les images générées par WaveSpeed AI incluent des droits d'utilisation commerciale, permettant une totale liberté créative pour vos projets."
+      },
+      {
+        "question": "Quel support est disponible si je rencontre des problèmes ?",
+        "answer": "Nous offrons une documentation complète, des tutoriels et un support par e-mail et chat en direct pour aider avec tous les problèmes techniques."
+      },
+      {
+        "question": "Y a-t-il un moyen de tester le logiciel avant de s'engager ?",
+        "answer": "Oui ! Les nouveaux utilisateurs reçoivent des crédits gratuits pour explorer AI Outpainting, vous permettant de découvrir ses capacités sans aucun engagement."
+      },
+      {
+        "question": "Comment AI Outpainting peut-il bénéficier à mon flux de travail ?",
+        "answer": "Cette technologie permet des améliorations créatives rapides, réduisant considérablement le temps et les efforts nécessaires pour la retouche d'image traditionnelle."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Transformer Vos Images ?",
+    "description": "Commencez à créer des visuels époustouflants maintenant avec des crédits gratuits",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Essayez-le Maintenant →"
+  },
+  "footer": {
+    "heading": "Prêt à Améliorer Vos Photos ?",
+    "description": "Essayez WaveSpeed AI maintenant et découvrez la magie. Aucune inscription requise.",
+    "ctaText": "Commencez l'Outpainting Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

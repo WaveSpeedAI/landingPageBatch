@@ -1,0 +1,223 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - KI-Linsenkorrektur",
+  "meta": {
+    "description": "Erreichen Sie makellose Bilder mit fortschrittlicher Linsenkorrektur-Technologie. Verbessern und optimieren Sie Ihre Produktfotografie mühelos. Ideal für Fotografen und E-Commerce-Unternehmen. Black Friday-Angebote!",
+    "keywords": "Linsenkorrektur KI, Bildverbesserung, Fotografie-Optimierung, E-Commerce-Fotografie-Tool, Bildbearbeitung, automatisierte Linsenkorrektur, professionelle Foto-Retusche, Black Friday-Fototools"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI-Tools",
+        "items": [
+          [
+            "KI-Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "Perfektionieren Sie Ihre Bilder",
+    "subHeading": "Verleihen Sie Ihrer Fotografie mit KI-Linsenkorrektur neuen Schwung",
+    "description": "Verwandeln Sie Ihre Bilder, indem Sie Verzerrungen korrigieren und die Klarheit in Sekunden verbessern. Erleben Sie nahtlose Anpassungen für jeden Objektivtyp. Probieren Sie es jetzt aus und entdecken Sie das volle Potenzial Ihrer Fotos.",
+    "tryText": "Jetzt ausprobieren",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI KI-Linsenkorrekturlösung",
+    "left": {
+      "heading": "Traditionelle Herausforderungen",
+      "items": [
+        "Zeitaufwändige manuelle Korrekturen",
+        "Benötigt umfangreiche Fähigkeiten zur Fotobearbeitung",
+        "Inkonstante Ergebnisse über verschiedene Bilder hinweg",
+        "Verschiedene Objektivtypen führen zu Verwirrung",
+        "Ineffizienz bei der Foto-Bearbeitung in hohen Stückzahlen"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI-Lösung",
+      "items": [
+        "Sofortige Korrekturen für Objektivverzerrungen und Aberrationen",
+        "Benutzerfreundlich, keine Bearbeitungserfahrung erforderlich",
+        "Konsistente, professionelle Ergebnisse jedes Mal",
+        "Funktioniert mit allen Objektivtypen und Kamerasystemen",
+        "Erschwingliche Bezahlmodelle nach Verbrauch"
+      ],
+      "tryText": "Probieren"
+    }
+  },
+  "howItWorks": {
+    "heading": "So funktioniert es",
+    "description": "Erreichen Sie perfekte Bilder in 3 einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Laden Sie Ihr Bild hoch",
+        "text": "Wählen Sie das Foto aus, das Sie verbessern möchten",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Wählen Sie die Korrekturart",
+        "text": "Wählen Sie aus Verzerrungs-, Vignettierungs- und Schärfeanpassungen",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Laden Sie das verbesserte Bild herunter",
+        "text": "Erhalten Sie Ihr korrigiertes Bild in Sekunden einsatzbereit",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "Verbessern Sie Ihr erstes Bild →"
+  },
+  "endlessPossibilities": {
+    "heading": "Unendliche Anwendungen",
+    "description": "Perfekt für verschiedene Anwendungsfälle",
+    "items": [
+      "E-Commerce Produktbilder",
+      "Immobilienfotografie",
+      "Porträtverbesserungen",
+      "Essen und Rezeptstyling",
+      "Korrekturen in der Veranstaltungsfotografie",
+      "Optimierung von Inhalten für soziale Medien",
+      "Verbesserungen für Printmedien",
+      "Verbesserungen von Website-Bildern"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Entdecken Sie, wie KI-Linsenkorrektur Unternehmen hilft",
+    "items": [
+      {
+        "tag": "Essen & Getränke",
+        "heading": "Online-Rezeptblog",
+        "before": {
+          "label": "Vorher",
+          "text": "Inkonstante Qualität"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Konsequent beeindruckende Bilder"
+        },
+        "value": "98%",
+        "key": "Qualitätsverbesserung",
+        "description": "Unsere Lebensmittelbilder ziehen jetzt mehr Zuschauer an. Das Engagement ist seit der Nutzung der KI-Linsenkorrektur erheblich gestiegen."
+      },
+      {
+        "tag": "Immobilien",
+        "heading": "Immobilienlistungs-Websites",
+        "before": {
+          "label": "Vorher",
+          "text": "Eingeschränkte Bearbeitungsoptionen"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Bilder in professioneller Qualität"
+        },
+        "value": "95%",
+        "key": "Ersparte Zeit",
+        "description": "Wir können jetzt Bilder direkt mit perfekten Korrekturen hochladen, was uns Stunden in der Nachbearbeitung spart."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Vergleich der KI-Korrekturmodelle",
+    "description": "Wählen Sie das richtige Korrekturmodell für Ihre Bedürfnisse",
+    "items": [
+      "Standardkorrektur: Grundlegende Anpassungen für den täglichen Gebrauch",
+      "Erweiterte Korrektur: Speziell für die professionelle Fotografie",
+      "Batchverarbeitung: Korrigieren Sie mehrere Bilder auf einmal",
+      "Intelligente Voreinstellungen: Wenden Sie gängige Einstellungen automatisch an",
+      "Schnelle Vorschau: Änderungen sofort sehen, bevor Sie speichern",
+      "Nutzungsrechte für kommerzielle Zwecke enthalten"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ähnliche KI-Tools",
+    "description": "Entdecken Sie leistungsstärkere Werkzeuge zur Bildverbesserung"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welche Arten von Objektivverzerrungen können korrigiert werden?",
+        "answer": "Unser KI-Linsenkorrektur-Tool kann Fässchenverzerrung, Kissenverzerrung und Vignettierungsprobleme effizient korrigieren, sodass Ihre Bilder genau und professionell aussehen."
+      },
+      {
+        "question": "Wie schnell kann ich Korrekturen auf meine Bilder anwenden?",
+        "answer": "Bildkorrekturen werden in Sekunden bearbeitet. Die KI analysiert das Bild automatisch und wendet Anpassungen nahezu sofort an, was schnelle Arbeitsabläufe ermöglicht."
+      },
+      {
+        "question": "Brauche ich Erfahrung in der Fotobearbeitung, um diese Funktion zu nutzen?",
+        "answer": "Nein, unsere Plattform ist benutzerfreundlich gestaltet. Selbst wenn Sie keine Bearbeitungserfahrung haben, können Sie Ihre Bilder ganz einfach hochladen und mit nur wenigen Klicks Korrekturen anwenden."
+      },
+      {
+        "question": "Kann ich mehrere Bilder gleichzeitig batchverarbeiten?",
+        "answer": "Absolut! Sie können mehrere Bilder gleichzeitig hochladen und korrigieren, was Zeit spart und Konsistenz in Ihren visuellen Inhalten gewährleistet."
+      },
+      {
+        "question": "Gibt es eine Vorschaufunktion, bevor ich herunterlade?",
+        "answer": "Ja, Sie können Ihre korrigierten Bilder in der Vorschau anzeigen, um sicherzustellen, dass sie Ihren Erwartungen entsprechen, bevor Sie sie herunterladen."
+      },
+      {
+        "question": "Welche Bildformate werden zum Hochladen unterstützt?",
+        "answer": "Wir unterstützen die Formate JPG, PNG und TIFF, um Flexibilität für Ihre Fotografie-Bedürfnisse zu gewährleisten."
+      },
+      {
+        "question": "Besitze ich die kommerziellen Rechte an korrigierten Bildern?",
+        "answer": "Ja, jedes Bild, das über unseren Service verarbeitet wird, gewährt Ihnen volle kommerzielle Rechte, sodass Sie sie auf jeder Medienplattform ohne zusätzliche Gebühren verwenden können."
+      },
+      {
+        "question": "Welche Unterstützung steht zur Verfügung, wenn ich auf Probleme stoße?",
+        "answer": "Unser Support-Team ist jederzeit per E-Mail und Live-Chat verfügbar, und wir bieten umfangreiche Dokumentationen und Tutorials zur Fehlerbehebung und für bewährte Verfahren an."
+      },
+      {
+        "question": "Wie sind die Preise für die Korrekturdienste strukturiert?",
+        "answer": "Wir arbeiten mit einem Pay-as-you-go-Modell ohne Abonnements. Sie bezahlen nur für die Korrekturen, die Sie anwenden, was kostengünstige Lösungen ermöglicht."
+      },
+      {
+        "question": "Kann diese Funktion bei E-Commerce-Produktlistings helfen?",
+        "answer": "Ja, die Perfektionierung von Bildern für den E-Commerce ist eine unserer Hauptanwendungen. Klare, korrigierte Bilder steigern die Produktattraktivität erheblich und erhöhen den Umsatz."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Ihre Bilder zu perfektionieren?",
+    "description": "Beginnen Sie mit kostenlosen Credits, Ihre Fotos zu verbessern - Erleben Sie heute die Magie der KI!",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Jetzt ausprobieren →"
+  },
+  "footer": {
+    "heading": "Bereit, Ihre Fotografie zu verbessern?",
+    "description": "Probieren Sie WaveSpeed AI jetzt aus und erleben Sie die Transformation. Keine Anmeldung erforderlich.",
+    "ctaText": "Transformieren Sie jetzt Ihre Bilder",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Legendas de Vídeo com IA",
+  "meta": {
+    "description": "Eleve seus vídeos com legendas automáticas geradas por IA. Aumente o engajamento dos espectadores e a acessibilidade sem esforço. Ideal para criadores de conteúdo e profissionais de marketing online. Descubra como o WaveSpeed torna as legendas simples!",
+    "keywords": "legendas de vídeo com IA, legendas automáticas, acessibilidade de vídeo, engajamento de conteúdo, WaveSpeed AI, ferramentas de marketing de vídeo, geração de legendas, criador de legendas, legendas de vídeo para redes sociais, legendagem para YouTube, legendas para TikTok, legendas para vídeo ao vivo"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de IA",
+        "items": [
+          [
+            "Ferramentas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Demonstração",
+        "items": [
+          [
+            "Demonstração",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Legendas de Vídeo com IA",
+    "subHeading": "Adicione Legendas aos seus Vídeos de Forma Fluida",
+    "description": "Melhore a experiência do espectador com a geração automática de legendas que aumenta o engajamento e a acessibilidade. Basta fazer o upload do seu vídeo e deixar nossa IA fazer o resto!",
+    "tryText": "Comece Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução de Legendas de Vídeo com IA WaveSpeed AI",
+    "left": {
+      "heading": "Desafios Tradicionais de Legenda",
+      "items": [
+        "Criação manual de legendas é demorada",
+        "Requer habilidades de escrita e precisão",
+        "Edição de legendas é trabalhosa",
+        "Suporte limitado para múltiplas línguas",
+        "Barreiras de acessibilidade para espectadores com deficiência auditiva"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeed AI",
+      "items": [
+        "Geração instantânea de legendas em minutos",
+        "Suporte automático para múltiplas línguas",
+        "Nenhuma habilidade de escrita necessária - apenas faça upload do vídeo",
+        "Legendas editáveis para precisão e clareza",
+        "Soluções acessíveis com preços pay-as-you-go"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "Adicione legendas aos seus vídeos em 4 passos simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Upload de Vídeo",
+        "text": "Faça o upload do seu arquivo de vídeo para nossa plataforma",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Selecionar Idioma",
+        "text": "Escolha o idioma para suas legendas",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Gerar Legendas",
+        "text": "Deixe nossa IA criar legendas precisas automaticamente",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Editar e Baixar",
+        "text": "Revise e edite as legendas, em seguida baixe seu vídeo",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Gere suas Legendas →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilidades Ilimitadas",
+    "description": "Perfeito para qualquer conteúdo em vídeo",
+    "items": [
+      "Vídeos do YouTube e vlogs",
+      "Clipe de redes sociais para Instagram, TikTok",
+      "Webinars e cursos online",
+      "Vídeos de marketing e promocionais",
+      "Gravações de eventos e transmissões ao vivo",
+      "Vídeos de treinamento corporativo",
+      "Vídeos podcasts",
+      "Entrevistas e discussões"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Veja como os criadores aprimoram seu conteúdo com IA",
+    "items": [
+      {
+        "tag": "Conteúdo Educacional",
+        "heading": "Provedor de Cursos Online",
+        "before": {
+          "label": "Antes",
+          "text": "Legendas Manuais"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Legendas Automatizadas"
+        },
+        "value": "95%",
+        "key": "Tempo Economizado",
+        "description": "Diminuímos o tempo de legendagem de horas para minutos, permitindo que nos concentremos na criação de conteúdo."
+      },
+      {
+        "tag": "Mídia Social",
+        "heading": "Influenciador do TikTok",
+        "before": {
+          "label": "Antes",
+          "text": "Legendas inconsistentes"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Legendas de alta qualidade de forma consistente"
+        },
+        "value": "92%",
+        "key": "Aumento de Engajamento",
+        "description": "Nosso engajamento disparou com legendas corretamente formatadas; os seguidores apreciam a acessibilidade."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Modelos de IA",
+    "description": "Escolha o modelo de legendagem certo para suas necessidades",
+    "items": [
+      "Modelo Básico: Precisão e velocidade padrão",
+      "Modelo Premium: Precisão aprimorada, suporta mais idiomas",
+      "Legendas em tempo real para transmissões ao vivo",
+      "Pontuação inteligente e correção gramatical",
+      "Interface de edição amigável para ajustes rápidos",
+      "Direitos de uso comercial incluídos"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Explore mais ferramentas poderosas de IA para aprimoramento de vídeo"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo o que você precisa saber",
+    "items": [
+      {
+        "question": "Quais tipos de vídeos posso adicionar legendas?",
+        "answer": "Você pode adicionar legendas a qualquer formato de vídeo, incluindo arquivos MP4, MOV e AVI. Nossa plataforma suporta uma ampla gama de formatos, garantindo compatibilidade para todo o seu conteúdo em vídeo."
+      },
+      {
+        "question": "Qual a precisão das legendas geradas automaticamente?",
+        "answer": "Nossos modelos de IA alcançam alta precisão com legendas baseadas em contexto e língua. Você pode revisar e editar facilmente as legendas para garantir que atendam aos seus padrões antes da finalização."
+      },
+      {
+        "question": "Posso personalizar o estilo das legendas?",
+        "answer": "Absolutamente! Você pode escolher entre vários estilos de fonte, tamanhos, cores e posições para combinar com a estética do seu vídeo e melhorar a experiência do espectador."
+      },
+      {
+        "question": "Vocês suportam múltiplos idiomas para legendas?",
+        "answer": "Sim, nossa solução suporta a geração automática de legendas em múltiplas línguas, facilitando o alcance de um público global."
+      },
+      {
+        "question": "Quanto tempo leva para gerar legendas?",
+        "answer": "A geração de legendas é geralmente rápida, levando apenas alguns minutos, dependendo da duração do seu vídeo. O processo é projetado para eficiência sem sacrificar a qualidade."
+      },
+      {
+        "question": "Há taxas adicionais para uso comercial?",
+        "answer": "Não! Todas as legendas geradas vêm com direitos comerciais sem custo adicional, permitindo que você as use livremente em várias plataformas."
+      },
+      {
+        "question": "Posso editar legendas depois de geradas?",
+        "answer": "Sim, nossa plataforma permite que você edite e refine as legendas conforme necessário. Você pode ajustar os tempos e o texto para garantir sincronização e clareza perfeitas."
+      },
+      {
+        "question": "E se eu encontrar problemas com o processo de legendagem?",
+        "answer": "Nossa equipe de suporte está aqui para ajudar! Fornecemos recursos, tutoriais e assistência direta para resolver quaisquer problemas rapidamente."
+      },
+      {
+        "question": "Posso usar legendas para streaming ao vivo?",
+        "answer": "Sim! Nossa IA inclui recursos de legendagem em tempo real para transmissões de vídeo ao vivo, melhorando a acessibilidade para todos os espectadores."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Adicionar Legendas aos Seus Vídeos?",
+    "description": "Comece a aprimorar seu conteúdo hoje com créditos gratuitos.",
+    "contactUsText": "Fale Conosco",
+    "tryText": "Experimente Agora →"
+  },
+  "footer": {
+    "heading": "Transforme Seus Vídeos Hoje!",
+    "description": "Experimente o WaveSpeed AI agora e experimente legendagem profissional. Sem necessidade de cadastro.",
+    "ctaText": "Comece as Legendas Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

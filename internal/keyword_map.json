@@ -1,0 +1,4202 @@
+{
+  "ai-image-generator": {
+    "keyword": "ai-image-generator",
+    "language": "en"
+  },
+  "background-remover": {
+    "keyword": "background-remover",
+    "language": "en"
+  },
+  "meme-generator": {
+    "keyword": "meme-generator",
+    "language": "en"
+  },
+  "ai-video-generator": {
+    "keyword": "ai-video-generator",
+    "language": "en"
+  },
+  "gif-maker": {
+    "keyword": "gif-maker",
+    "language": "en"
+  },
+  "ai-face-swap": {
+    "keyword": "ai-face-swap",
+    "language": "en"
+  },
+  "ai-logo-generator": {
+    "keyword": "ai-logo-generator",
+    "language": "en"
+  },
+  "ai-art-generator": {
+    "keyword": "ai-art-generator",
+    "language": "en"
+  },
+  "watermark-remover": {
+    "keyword": "watermark-remover",
+    "language": "en"
+  },
+  "video-compressor": {
+    "keyword": "video-compressor",
+    "language": "en"
+  },
+  "générateur-d'images-d'ia": {
+    "keyword": "ai-image-generator",
+    "language": "fr"
+  },
+  "générateur-d'art-ia": {
+    "keyword": "ai-art-generator",
+    "language": "fr"
+  },
+  "générateur-de-vidéos-ia": {
+    "keyword": "ai-video-generator",
+    "language": "fr"
+  },
+  "échange-de-visage-par-ia": {
+    "keyword": "ai-face-swap",
+    "language": "fr"
+  },
+  "créateur-de-gif": {
+    "keyword": "gif-maker",
+    "language": "fr"
+  },
+  "retireur-d'arrière-plan": {
+    "keyword": "background-remover",
+    "language": "fr"
+  },
+  "générateur-de-mèmes": {
+    "keyword": "meme-generator",
+    "language": "fr"
+  },
+  "générateur-de-logo-ia": {
+    "keyword": "ai-logo-generator",
+    "language": "fr"
+  },
+  "compresseur-vidéo": {
+    "keyword": "video-compressor",
+    "language": "fr"
+  },
+  "supprimeur-de-filigrane": {
+    "keyword": "watermark-remover",
+    "language": "fr"
+  },
+  "generador-de-logotipos-con-ia": {
+    "keyword": "ai-logo-generator",
+    "language": "es"
+  },
+  "generador-de-imágenes-ai": {
+    "keyword": "ai-image-generator",
+    "language": "es"
+  },
+  "eliminador-de-fondo": {
+    "keyword": "background-remover",
+    "language": "es"
+  },
+  "intercambio-de-caras-con-ia": {
+    "keyword": "ai-face-swap",
+    "language": "es"
+  },
+  "compresor-de-video": {
+    "keyword": "video-compressor",
+    "language": "es"
+  },
+  "eliminador-de-marcas-de-agua": {
+    "keyword": "watermark-remover",
+    "language": "es"
+  },
+  "generador-de-memes": {
+    "keyword": "meme-generator",
+    "language": "es"
+  },
+  "generador-de-video-con-inteligencia-artificial": {
+    "keyword": "ai-video-generator",
+    "language": "es"
+  },
+  "generador-de-arte-con-inteligencia-artificial": {
+    "keyword": "ai-art-generator",
+    "language": "es"
+  },
+  "creador-de-gif": {
+    "keyword": "gif-maker",
+    "language": "es"
+  },
+  "gerador-de-memes": {
+    "keyword": "meme-generator",
+    "language": "pt"
+  },
+  "criador-de-gif": {
+    "keyword": "gif-maker",
+    "language": "pt"
+  },
+  "gerador-de-vídeo-com-ia": {
+    "keyword": "ai-video-generator",
+    "language": "pt"
+  },
+  "removedor-de-fundo": {
+    "keyword": "background-remover",
+    "language": "pt"
+  },
+  "troca-de-rosto-com-ia": {
+    "keyword": "ai-face-swap",
+    "language": "pt"
+  },
+  "removedor-de-marca-d'água": {
+    "keyword": "watermark-remover",
+    "language": "pt"
+  },
+  "gerador-de-arte-com-ia": {
+    "keyword": "ai-art-generator",
+    "language": "pt"
+  },
+  "compressor-de-vídeo": {
+    "keyword": "video-compressor",
+    "language": "pt"
+  },
+  "gerador-de-logotipo-de-ia": {
+    "keyword": "ai-logo-generator",
+    "language": "pt"
+  },
+  "gerador-de-imagens-com-ia": {
+    "keyword": "ai-image-generator",
+    "language": "pt"
+  },
+  "表情包生成器": {
+    "keyword": "meme-generator",
+    "language": "zh"
+  },
+  "ai艺术生成器": {
+    "keyword": "ai-art-generator",
+    "language": "zh"
+  },
+  "背景去除器": {
+    "keyword": "background-remover",
+    "language": "zh"
+  },
+  "gif-制作器": {
+    "keyword": "gif-maker",
+    "language": "zh"
+  },
+  "人工智能视频生成器": {
+    "keyword": "ai-video-generator",
+    "language": "zh"
+  },
+  "人工智能换脸": {
+    "keyword": "ai-face-swap",
+    "language": "zh"
+  },
+  "去水印工具": {
+    "keyword": "watermark-remover",
+    "language": "zh"
+  },
+  "ai-徽标生成器": {
+    "keyword": "ai-logo-generator",
+    "language": "zh"
+  },
+  "ai图像生成器": {
+    "keyword": "ai-image-generator",
+    "language": "zh"
+  },
+  "视频压缩器": {
+    "keyword": "video-compressor",
+    "language": "zh"
+  },
+  "генератор-мемов": {
+    "keyword": "meme-generator",
+    "language": "ru"
+  },
+  "meme-generator de": {
+    "keyword": "meme-generator",
+    "language": "de"
+  },
+  "удалитель-фона": {
+    "keyword": "background-remover",
+    "language": "ru"
+  },
+  "генератор-искусственного-интеллекта-для-художества": {
+    "keyword": "ai-art-generator",
+    "language": "ru"
+  },
+  "замена-лиц-с-помощью-ии": {
+    "keyword": "ai-face-swap",
+    "language": "ru"
+  },
+  "создатель-гифок": {
+    "keyword": "gif-maker",
+    "language": "ru"
+  },
+  "видеокомпрессор": {
+    "keyword": "video-compressor",
+    "language": "ru"
+  },
+  "удалитель-водяных-знаков": {
+    "keyword": "watermark-remover",
+    "language": "ru"
+  },
+  "генератор-видео-на-основе-ии": {
+    "keyword": "ai-video-generator",
+    "language": "ru"
+  },
+  "генератор-логотипов-на-основе-ии": {
+    "keyword": "ai-logo-generator",
+    "language": "ru"
+  },
+  "generator-meme": {
+    "keyword": "meme-generator",
+    "language": "id"
+  },
+  "gif-generator": {
+    "keyword": "gif-maker",
+    "language": "de"
+  },
+  "hintergrundentferner": {
+    "keyword": "background-remover",
+    "language": "de"
+  },
+  "ki-video-generator": {
+    "keyword": "ai-video-generator",
+    "language": "de"
+  },
+  "wasserzeichenentferner": {
+    "keyword": "watermark-remover",
+    "language": "de"
+  },
+  "ki-gesichtstausch": {
+    "keyword": "ai-face-swap",
+    "language": "de"
+  },
+  "videokompressor": {
+    "keyword": "video-compressor",
+    "language": "de"
+  },
+  "ki-logo-generator": {
+    "keyword": "ai-logo-generator",
+    "language": "de"
+  },
+  "ki-kunstgenerator": {
+    "keyword": "ai-art-generator",
+    "language": "de"
+  },
+  "밈-생성기": {
+    "keyword": "meme-generator",
+    "language": "ko"
+  },
+  "генератор-изображений-на-основе-ии": {
+    "keyword": "ai-image-generator",
+    "language": "ru"
+  },
+  "penghapus-watermark": {
+    "keyword": "watermark-remover",
+    "language": "id"
+  },
+  "generator-logo-ai": {
+    "keyword": "ai-logo-generator",
+    "language": "id"
+  },
+  "pembuat-gif": {
+    "keyword": "gif-maker",
+    "language": "id"
+  },
+  "generator-video-ai": {
+    "keyword": "ai-video-generator",
+    "language": "id"
+  },
+  "penghapus-latar-belakang": {
+    "keyword": "background-remover",
+    "language": "id"
+  },
+  "pertukaran-wajah-ai": {
+    "keyword": "ai-face-swap",
+    "language": "id"
+  },
+  "ミームジェネレーター": {
+    "keyword": "meme-generator",
+    "language": "jp"
+  },
+  "image-to-text": {
+    "keyword": "image-to-text",
+    "language": "en"
+  },
+  "kompresor-video": {
+    "keyword": "video-compressor",
+    "language": "id"
+  },
+  "ki-bildgenerator": {
+    "keyword": "ai-image-generator",
+    "language": "de"
+  },
+  "generator-seni-ai": {
+    "keyword": "ai-art-generator",
+    "language": "id"
+  },
+  "image-en-texte": {
+    "keyword": "image-to-text",
+    "language": "fr"
+  },
+  "배경-제거기": {
+    "keyword": "background-remover",
+    "language": "ko"
+  },
+  "ai-얼굴-교환": {
+    "keyword": "ai-face-swap",
+    "language": "ko"
+  },
+  "generator-gambar-ai": {
+    "keyword": "ai-image-generator",
+    "language": "id"
+  },
+  "ai-아트-생성기": {
+    "keyword": "ai-art-generator",
+    "language": "ko"
+  },
+  "워터마크-제거기": {
+    "keyword": "watermark-remover",
+    "language": "ko"
+  },
+  "비디오-압축기": {
+    "keyword": "video-compressor",
+    "language": "ko"
+  },
+  "ai-비디오-생성기": {
+    "keyword": "ai-video-generator",
+    "language": "ko"
+  },
+  "gif-제작기": {
+    "keyword": "gif-maker",
+    "language": "ko"
+  },
+  "ai-로고-생성기": {
+    "keyword": "ai-logo-generator",
+    "language": "ko"
+  },
+  "背景除去ツール": {
+    "keyword": "background-remover",
+    "language": "jp"
+  },
+  "screen-recorder": {
+    "keyword": "screen-recorder",
+    "language": "en"
+  },
+  "aiフェイススワップ": {
+    "keyword": "ai-face-swap",
+    "language": "jp"
+  },
+  "aiビデオジェネレーター": {
+    "keyword": "ai-video-generator",
+    "language": "jp"
+  },
+  "ai-이미지-생성기": {
+    "keyword": "ai-image-generator",
+    "language": "ko"
+  },
+  "透かし除去器": {
+    "keyword": "watermark-remover",
+    "language": "jp"
+  },
+  "aiロゴジェネレーター": {
+    "keyword": "ai-logo-generator",
+    "language": "jp"
+  },
+  "collage-maker": {
+    "keyword": "collage-maker",
+    "language": "en"
+  },
+  "ai-headshot-generator": {
+    "keyword": "ai-headshot-generator",
+    "language": "en"
+  },
+  "rotoscoping": {
+    "keyword": "rotoscoping",
+    "language": "en"
+  },
+  "ai-image-enhancer": {
+    "keyword": "ai-image-enhancer",
+    "language": "en"
+  },
+  "gifメーカー": {
+    "keyword": "gif-maker",
+    "language": "jp"
+  },
+  "ai-image-upscaling": {
+    "keyword": "ai-image-upscaling",
+    "language": "en"
+  },
+  "aiアートジェネレーター": {
+    "keyword": "ai-art-generator",
+    "language": "jp"
+  },
+  "ビデオ圧縮器": {
+    "keyword": "video-compressor",
+    "language": "jp"
+  },
+  "video-converter": {
+    "keyword": "video-converter",
+    "language": "en"
+  },
+  "ai-background-remover": {
+    "keyword": "ai-background-remover",
+    "language": "en"
+  },
+  "imagen-a-texto": {
+    "keyword": "image-to-text",
+    "language": "es"
+  },
+  "créateur-de-collages": {
+    "keyword": "collage-maker",
+    "language": "fr"
+  },
+  "outil-de-suppression-d'arrière-plan-par-ia": {
+    "keyword": "ai-background-remover",
+    "language": "fr"
+  },
+  "améliorateur-d'images-ia": {
+    "keyword": "ai-image-enhancer",
+    "language": "fr"
+  },
+  "imagem-para-texto": {
+    "keyword": "image-to-text",
+    "language": "pt"
+  },
+  "ai画像生成器": {
+    "keyword": "ai-image-generator",
+    "language": "jp"
+  },
+  "convertisseur-vidéo": {
+    "keyword": "video-converter",
+    "language": "fr"
+  },
+  "video-trimmer": {
+    "keyword": "video-trimmer",
+    "language": "en"
+  },
+  "enregistreur-d'écran": {
+    "keyword": "screen-recorder",
+    "language": "fr"
+  },
+  "générateur-de-photo-de-profil-ia": {
+    "keyword": "ai-headshot-generator",
+    "language": "fr"
+  },
+  "r-incrustation": {
+    "keyword": "rotoscoping",
+    "language": "fr"
+  },
+  "amélioration-d'image-par-l'ia": {
+    "keyword": "ai-image-upscaling",
+    "language": "fr"
+  },
+  "图像转文本": {
+    "keyword": "image-to-text",
+    "language": "zh"
+  },
+  "eliminador-de-fondo-con-ia": {
+    "keyword": "ai-background-remover",
+    "language": "es"
+  },
+  "convertidor-de-video": {
+    "keyword": "video-converter",
+    "language": "es"
+  },
+  "mejorador-de-imágenes-con-ia": {
+    "keyword": "ai-image-enhancer",
+    "language": "es"
+  },
+  "grabador-de-pantalla": {
+    "keyword": "screen-recorder",
+    "language": "es"
+  },
+  "tailleur-de-vidéo": {
+    "keyword": "video-trimmer",
+    "language": "fr"
+  },
+  "rotoscopia": {
+    "keyword": "rotoscoping",
+    "language": "es"
+  },
+  "mejoramiento-de-imágenes-por-ia": {
+    "keyword": "ai-image-upscaling",
+    "language": "es"
+  },
+  "creador-de-collage": {
+    "keyword": "collage-maker",
+    "language": "es"
+  },
+  "generador-de-avatares-de-ia": {
+    "keyword": "ai-headshot-generator",
+    "language": "es"
+  },
+  "remover-fundo-com-inteligência-artificial": {
+    "keyword": "ai-background-remover",
+    "language": "pt"
+  },
+  "rotoscopia pt": {
+    "keyword": "rotoscoping",
+    "language": "pt"
+  },
+  "recortador-de-video": {
+    "keyword": "video-trimmer",
+    "language": "es"
+  },
+  "gravador-de-tela": {
+    "keyword": "screen-recorder",
+    "language": "pt"
+  },
+  "melhorador-de-imagem-de-ia": {
+    "keyword": "ai-image-enhancer",
+    "language": "pt"
+  },
+  "ferramenta-de-colagem": {
+    "keyword": "collage-maker",
+    "language": "pt"
+  },
+  "gerador-de-retratos-de-ai": {
+    "keyword": "ai-headshot-generator",
+    "language": "pt"
+  },
+  "aumento-de-imagem-por-ia": {
+    "keyword": "ai-image-upscaling",
+    "language": "pt"
+  },
+  "conversor-de-vídeo": {
+    "keyword": "video-converter",
+    "language": "pt"
+  },
+  "动态跟踪": {
+    "keyword": "rotoscoping",
+    "language": "zh"
+  },
+  "拼贴制作器": {
+    "keyword": "collage-maker",
+    "language": "zh"
+  },
+  "изображение-в-текст": {
+    "keyword": "image-to-text",
+    "language": "ru"
+  },
+  "ai图像增强器": {
+    "keyword": "ai-image-enhancer",
+    "language": "zh"
+  },
+  "人工智能图像放大": {
+    "keyword": "ai-image-upscaling",
+    "language": "zh"
+  },
+  "视频转换器": {
+    "keyword": "video-converter",
+    "language": "zh"
+  },
+  "ai-背景去除器": {
+    "keyword": "ai-background-remover",
+    "language": "zh"
+  },
+  "人工智能头像生成器": {
+    "keyword": "ai-headshot-generator",
+    "language": "zh"
+  },
+  "cortador-de-vídeo": {
+    "keyword": "video-trimmer",
+    "language": "pt"
+  },
+  "屏幕录制工具": {
+    "keyword": "screen-recorder",
+    "language": "zh"
+  },
+  "bild-zu-text": {
+    "keyword": "image-to-text",
+    "language": "de"
+  },
+  "видеоконвертер": {
+    "keyword": "video-converter",
+    "language": "ru"
+  },
+  "ротоскопирование": {
+    "keyword": "rotoscoping",
+    "language": "ru"
+  },
+  "создатель-коллажей": {
+    "keyword": "collage-maker",
+    "language": "ru"
+  },
+  "генератор-ai-портретов": {
+    "keyword": "ai-headshot-generator",
+    "language": "ru"
+  },
+  "улучшение-изображений-с-помощью-ии": {
+    "keyword": "ai-image-enhancer",
+    "language": "ru"
+  },
+  "записывающее-устройство-экрана": {
+    "keyword": "screen-recorder",
+    "language": "ru"
+  },
+  "улучшение-изображений-с-помощью-ии ru": {
+    "keyword": "ai-image-upscaling",
+    "language": "ru"
+  },
+  "视频修剪工具": {
+    "keyword": "video-trimmer",
+    "language": "zh"
+  },
+  "video-converter de": {
+    "keyword": "video-converter",
+    "language": "de"
+  },
+  "bildschirmaufnahme": {
+    "keyword": "screen-recorder",
+    "language": "de"
+  },
+  "rotoscoping de": {
+    "keyword": "rotoscoping",
+    "language": "de"
+  },
+  "collage-ersteller": {
+    "keyword": "collage-maker",
+    "language": "de"
+  },
+  "ki-bildverbesserer": {
+    "keyword": "ai-image-enhancer",
+    "language": "de"
+  },
+  "ki-bildvergrößerung": {
+    "keyword": "ai-image-upscaling",
+    "language": "de"
+  },
+  "ki-porträtgenerator": {
+    "keyword": "ai-headshot-generator",
+    "language": "de"
+  },
+  "убиралка-фона-на-основе-ии": {
+    "keyword": "ai-background-remover",
+    "language": "ru"
+  },
+  "видеотриммер": {
+    "keyword": "video-trimmer",
+    "language": "ru"
+  },
+  "gambar-menjadi-teks": {
+    "keyword": "image-to-text",
+    "language": "id"
+  },
+  "generator-foto-wajah-ai": {
+    "keyword": "ai-headshot-generator",
+    "language": "id"
+  },
+  "rotoscoping id": {
+    "keyword": "rotoscoping",
+    "language": "id"
+  },
+  "peningkatan-gambar-ai": {
+    "keyword": "ai-image-upscaling",
+    "language": "id"
+  },
+  "peningkat-gambar-ai": {
+    "keyword": "ai-image-enhancer",
+    "language": "id"
+  },
+  "pembuat-kolase": {
+    "keyword": "collage-maker",
+    "language": "id"
+  },
+  "videotrimmer": {
+    "keyword": "video-trimmer",
+    "language": "de"
+  },
+  "이미지에서-텍스트로": {
+    "keyword": "image-to-text",
+    "language": "ko"
+  },
+  "ki-hintergrundentferner": {
+    "keyword": "ai-background-remover",
+    "language": "de"
+  },
+  "konverter-video": {
+    "keyword": "video-converter",
+    "language": "id"
+  },
+  "perekam-layar": {
+    "keyword": "screen-recorder",
+    "language": "id"
+  },
+  "画像からテキスト": {
+    "keyword": "image-to-text",
+    "language": "jp"
+  },
+  "ai-이미지-향상기": {
+    "keyword": "ai-image-enhancer",
+    "language": "ko"
+  },
+  "ai-image-to-video": {
+    "keyword": "ai-image-to-video",
+    "language": "en"
+  },
+  "비디오-변환기": {
+    "keyword": "video-converter",
+    "language": "ko"
+  },
+  "콜라주-제작기": {
+    "keyword": "collage-maker",
+    "language": "ko"
+  },
+  "ai-이미지-업스케일링": {
+    "keyword": "ai-image-upscaling",
+    "language": "ko"
+  },
+  "ai-헤드샷-생성기": {
+    "keyword": "ai-headshot-generator",
+    "language": "ko"
+  },
+  "penghapus-latar-belakang-ai": {
+    "keyword": "ai-background-remover",
+    "language": "id"
+  },
+  "pemangkas-video": {
+    "keyword": "video-trimmer",
+    "language": "id"
+  },
+  "로토스코핑": {
+    "keyword": "rotoscoping",
+    "language": "ko"
+  },
+  "ai画像強化ツール": {
+    "keyword": "ai-image-enhancer",
+    "language": "jp"
+  },
+  "ai-video-face-swap": {
+    "keyword": "ai-video-face-swap",
+    "language": "en"
+  },
+  "비디오-자르기": {
+    "keyword": "video-trimmer",
+    "language": "ko"
+  },
+  "コラージュメーカー": {
+    "keyword": "collage-maker",
+    "language": "jp"
+  },
+  "image-ai-en-vidéo": {
+    "keyword": "ai-image-to-video",
+    "language": "fr"
+  },
+  "ai-anime-generator": {
+    "keyword": "ai-anime-generator",
+    "language": "en"
+  },
+  "ロトスコーピング": {
+    "keyword": "rotoscoping",
+    "language": "jp"
+  },
+  "aiヘッドショットジェネレーター": {
+    "keyword": "ai-headshot-generator",
+    "language": "jp"
+  },
+  "ai-background-generator": {
+    "keyword": "ai-background-generator",
+    "language": "en"
+  },
+  "ai-video-enhancer": {
+    "keyword": "ai-video-enhancer",
+    "language": "en"
+  },
+  "화면-녹화기": {
+    "keyword": "screen-recorder",
+    "language": "ko"
+  },
+  "인공지능-배경-제거기": {
+    "keyword": "ai-background-remover",
+    "language": "ko"
+  },
+  "ビデオ変換器": {
+    "keyword": "video-converter",
+    "language": "jp"
+  },
+  "green-screen-remover": {
+    "keyword": "green-screen-remover",
+    "language": "en"
+  },
+  "ビデオトリマー": {
+    "keyword": "video-trimmer",
+    "language": "jp"
+  },
+  "ai-cartoonizer": {
+    "keyword": "ai-cartoonizer",
+    "language": "en"
+  },
+  "imagen-de-ia-a-video": {
+    "keyword": "ai-image-to-video",
+    "language": "es"
+  },
+  "ai画像アップスケーリング": {
+    "keyword": "ai-image-upscaling",
+    "language": "jp"
+  },
+  "ai-portrait-generator": {
+    "keyword": "ai-portrait-generator",
+    "language": "en"
+  },
+  "échange-de-visage-vidéo-ia": {
+    "keyword": "ai-video-face-swap",
+    "language": "fr"
+  },
+  "画面録画器": {
+    "keyword": "screen-recorder",
+    "language": "jp"
+  },
+  "améliorateur-de-vidéo-par-ia": {
+    "keyword": "ai-video-enhancer",
+    "language": "fr"
+  },
+  "ai-eraser": {
+    "keyword": "ai-eraser",
+    "language": "en"
+  },
+  "ai-背景除去ツール": {
+    "keyword": "ai-background-remover",
+    "language": "jp"
+  },
+  "ai-object-removal": {
+    "keyword": "ai-object-removal",
+    "language": "en"
+  },
+  "générateur-d'anime-par-ia": {
+    "keyword": "ai-anime-generator",
+    "language": "fr"
+  },
+  "supprimateur-d'écran-vert": {
+    "keyword": "green-screen-remover",
+    "language": "fr"
+  },
+  "générateur-de-fond-ia": {
+    "keyword": "ai-background-generator",
+    "language": "fr"
+  },
+  "cartoniseur-ia": {
+    "keyword": "ai-cartoonizer",
+    "language": "fr"
+  },
+  "imagem-de-ia-para-vídeo": {
+    "keyword": "ai-image-to-video",
+    "language": "pt"
+  },
+  "effaceur-d'ia": {
+    "keyword": "ai-eraser",
+    "language": "fr"
+  },
+  "générateur-de-portraits-ia": {
+    "keyword": "ai-portrait-generator",
+    "language": "fr"
+  },
+  "eliminador-de-pantalla-verde": {
+    "keyword": "green-screen-remover",
+    "language": "es"
+  },
+  "suppression-d'objet-par-l'ia": {
+    "keyword": "ai-object-removal",
+    "language": "fr"
+  },
+  "intercambio-de-caras-en-video-con-inteligencia-artificial": {
+    "keyword": "ai-video-face-swap",
+    "language": "es"
+  },
+  "mejorador-de-video-con-inteligencia-artificial": {
+    "keyword": "ai-video-enhancer",
+    "language": "es"
+  },
+  "caricaturizador-de-ia": {
+    "keyword": "ai-cartoonizer",
+    "language": "es"
+  },
+  "generador-de-fondo-de-ia": {
+    "keyword": "ai-background-generator",
+    "language": "es"
+  },
+  "人工智能图像转视频": {
+    "keyword": "ai-image-to-video",
+    "language": "zh"
+  },
+  "generador-de-anime-con-ia": {
+    "keyword": "ai-anime-generator",
+    "language": "es"
+  },
+  "cartonizador-de-ia": {
+    "keyword": "ai-cartoonizer",
+    "language": "pt"
+  },
+  "removedor-de-fundo-verde": {
+    "keyword": "green-screen-remover",
+    "language": "pt"
+  },
+  "borrador-de-ia": {
+    "keyword": "ai-eraser",
+    "language": "es"
+  },
+  "eliminación-de-objetos-con-ia": {
+    "keyword": "ai-object-removal",
+    "language": "es"
+  },
+  "melhorador-de-vídeo-com-ia": {
+    "keyword": "ai-video-enhancer",
+    "language": "pt"
+  },
+  "gerador-de-anime-com-ia": {
+    "keyword": "ai-anime-generator",
+    "language": "pt"
+  },
+  "troca-de-rosto-em-vídeo-com-ia": {
+    "keyword": "ai-video-face-swap",
+    "language": "pt"
+  },
+  "gerador-de-fundo-de-ia": {
+    "keyword": "ai-background-generator",
+    "language": "pt"
+  },
+  "generador-de-retratos-de-ia": {
+    "keyword": "ai-portrait-generator",
+    "language": "es"
+  },
+  "ai-изображение-в-видео": {
+    "keyword": "ai-image-to-video",
+    "language": "ru"
+  },
+  "绿色屏幕去除器": {
+    "keyword": "green-screen-remover",
+    "language": "zh"
+  },
+  "gerador-de-retratos-com-ia": {
+    "keyword": "ai-portrait-generator",
+    "language": "pt"
+  },
+  "人工智能卡通化器": {
+    "keyword": "ai-cartoonizer",
+    "language": "zh"
+  },
+  "borrador-de-ia pt": {
+    "keyword": "ai-eraser",
+    "language": "pt"
+  },
+  "ai视频增强器": {
+    "keyword": "ai-video-enhancer",
+    "language": "zh"
+  },
+  "ai-动漫生成器": {
+    "keyword": "ai-anime-generator",
+    "language": "zh"
+  },
+  "人工智能背景生成器": {
+    "keyword": "ai-background-generator",
+    "language": "zh"
+  },
+  "ki-bild-zu-video": {
+    "keyword": "ai-image-to-video",
+    "language": "de"
+  },
+  "remoção-de-objeto-com-ia": {
+    "keyword": "ai-object-removal",
+    "language": "pt"
+  },
+  "人工智能视频换脸": {
+    "keyword": "ai-video-face-swap",
+    "language": "zh"
+  },
+  "人工智能橡皮擦": {
+    "keyword": "ai-eraser",
+    "language": "zh"
+  },
+  "удалитель-зеленого-экрана": {
+    "keyword": "green-screen-remover",
+    "language": "ru"
+  },
+  "gambar-ai-menjadi-video": {
+    "keyword": "ai-image-to-video",
+    "language": "id"
+  },
+  "замена-лиц-на-видео-с-помощью-ии": {
+    "keyword": "ai-video-face-swap",
+    "language": "ru"
+  },
+  "генератор-фона-с-искусственным-интеллектом": {
+    "keyword": "ai-background-generator",
+    "language": "ru"
+  },
+  "人工智能物体移除": {
+    "keyword": "ai-object-removal",
+    "language": "zh"
+  },
+  "ai肖像生成器": {
+    "keyword": "ai-portrait-generator",
+    "language": "zh"
+  },
+  "увеличитель-видео-на-основе-ии": {
+    "keyword": "ai-video-enhancer",
+    "language": "ru"
+  },
+  "аи-карикатуризатор": {
+    "keyword": "ai-cartoonizer",
+    "language": "ru"
+  },
+  "генератор-аниме-с-искусственным-интеллектом": {
+    "keyword": "ai-anime-generator",
+    "language": "ru"
+  },
+  "ki-video-verbesserer": {
+    "keyword": "ai-video-enhancer",
+    "language": "de"
+  },
+  "ай-стиратель": {
+    "keyword": "ai-eraser",
+    "language": "ru"
+  },
+  "ai-이미지에서-비디오로": {
+    "keyword": "ai-image-to-video",
+    "language": "ko"
+  },
+  "grüner-bildschirm-entferner": {
+    "keyword": "green-screen-remover",
+    "language": "de"
+  },
+  "ki-anime-generator": {
+    "keyword": "ai-anime-generator",
+    "language": "de"
+  },
+  "ki-cartoonizer": {
+    "keyword": "ai-cartoonizer",
+    "language": "de"
+  },
+  "ki-hintergrundgenerator": {
+    "keyword": "ai-background-generator",
+    "language": "de"
+  },
+  "генератор-портретов-с-использованием-ии": {
+    "keyword": "ai-portrait-generator",
+    "language": "ru"
+  },
+  "удаление-объектов-с-помощью-ии": {
+    "keyword": "ai-object-removal",
+    "language": "ru"
+  },
+  "ki-video-gesichtstausch": {
+    "keyword": "ai-video-face-swap",
+    "language": "de"
+  },
+  "ai-kartunis": {
+    "keyword": "ai-cartoonizer",
+    "language": "id"
+  },
+  "ki-porträtgenerator de": {
+    "keyword": "ai-portrait-generator",
+    "language": "de"
+  },
+  "peningkat-video-ai": {
+    "keyword": "ai-video-enhancer",
+    "language": "id"
+  },
+  "pertukaran-wajah-video-ai": {
+    "keyword": "ai-video-face-swap",
+    "language": "id"
+  },
+  "ki-radiergummi": {
+    "keyword": "ai-eraser",
+    "language": "de"
+  },
+  "ai画像から動画へ": {
+    "keyword": "ai-image-to-video",
+    "language": "jp"
+  },
+  "ai-image-sharpening": {
+    "keyword": "ai-image-sharpening",
+    "language": "en"
+  },
+  "penghapus-latar-belakang-hijau": {
+    "keyword": "green-screen-remover",
+    "language": "id"
+  },
+  "ki-objektentfernung": {
+    "keyword": "ai-object-removal",
+    "language": "de"
+  },
+  "generator-latar-belakang-ai": {
+    "keyword": "ai-background-generator",
+    "language": "id"
+  },
+  "generator-anime-ai": {
+    "keyword": "ai-anime-generator",
+    "language": "id"
+  },
+  "generator-potret-ai": {
+    "keyword": "ai-portrait-generator",
+    "language": "id"
+  },
+  "인공지능-만화화기": {
+    "keyword": "ai-cartoonizer",
+    "language": "ko"
+  },
+  "ai-배경-생성기": {
+    "keyword": "ai-background-generator",
+    "language": "ko"
+  },
+  "penghapus-ai": {
+    "keyword": "ai-eraser",
+    "language": "id"
+  },
+  "ai-비디오-향상기": {
+    "keyword": "ai-video-enhancer",
+    "language": "ko"
+  },
+  "그린-스크린-제거기": {
+    "keyword": "green-screen-remover",
+    "language": "ko"
+  },
+  "인공지능-애니메이션-생성기": {
+    "keyword": "ai-anime-generator",
+    "language": "ko"
+  },
+  "ai-비디오-얼굴-교환": {
+    "keyword": "ai-video-face-swap",
+    "language": "ko"
+  },
+  "penghapusan-objek-ai": {
+    "keyword": "ai-object-removal",
+    "language": "id"
+  },
+  "ai-초상화-생성기": {
+    "keyword": "ai-portrait-generator",
+    "language": "ko"
+  },
+  "aiguisement-d'image-par-ia": {
+    "keyword": "ai-image-sharpening",
+    "language": "fr"
+  },
+  "aiカートゥーナイザー": {
+    "keyword": "ai-cartoonizer",
+    "language": "jp"
+  },
+  "ai-lip-sync": {
+    "keyword": "ai-lip-sync",
+    "language": "en"
+  },
+  "ai背景生成器": {
+    "keyword": "ai-background-generator",
+    "language": "jp"
+  },
+  "ai-color-palette-generator": {
+    "keyword": "ai-color-palette-generator",
+    "language": "en"
+  },
+  "afilar-imágenes-con-ia": {
+    "keyword": "ai-image-sharpening",
+    "language": "es"
+  },
+  "aiポートレート生成器": {
+    "keyword": "ai-portrait-generator",
+    "language": "jp"
+  },
+  "aiビデオ顔交換": {
+    "keyword": "ai-video-face-swap",
+    "language": "jp"
+  },
+  "background-noise-remover": {
+    "keyword": "background-noise-remover",
+    "language": "en"
+  },
+  "audio-muting": {
+    "keyword": "audio-muting",
+    "language": "en"
+  },
+  "ai-지우개": {
+    "keyword": "ai-eraser",
+    "language": "ko"
+  },
+  "aiアニメ生成器": {
+    "keyword": "ai-anime-generator",
+    "language": "jp"
+  },
+  "video-splitter": {
+    "keyword": "video-splitter",
+    "language": "en"
+  },
+  "ai動画エンハンサー": {
+    "keyword": "ai-video-enhancer",
+    "language": "jp"
+  },
+  "ai-video-upscaling": {
+    "keyword": "ai-video-upscaling",
+    "language": "en"
+  },
+  "ai-물체-제거": {
+    "keyword": "ai-object-removal",
+    "language": "ko"
+  },
+  "synchronisation-labiale-par-ia": {
+    "keyword": "ai-lip-sync",
+    "language": "fr"
+  },
+  "グリーンスクリーン除去ツール": {
+    "keyword": "green-screen-remover",
+    "language": "jp"
+  },
+  "audio-ducking": {
+    "keyword": "audio-ducking",
+    "language": "en"
+  },
+  "silence-audio": {
+    "keyword": "audio-muting",
+    "language": "fr"
+  },
+  "générateur-de-palette-de-couleurs-ia": {
+    "keyword": "ai-color-palette-generator",
+    "language": "fr"
+  },
+  "ai消しゴム": {
+    "keyword": "ai-eraser",
+    "language": "jp"
+  },
+  "removeur-de-bruit-en-arrière-plan": {
+    "keyword": "background-noise-remover",
+    "language": "fr"
+  },
+  "motion-tracking": {
+    "keyword": "motion-tracking",
+    "language": "en"
+  },
+  "aiオブジェクト除去": {
+    "keyword": "ai-object-removal",
+    "language": "jp"
+  },
+  "amélioration-de-la-vidéo-par-l'ia": {
+    "keyword": "ai-video-upscaling",
+    "language": "fr"
+  },
+  "ai-interior-design-generator": {
+    "keyword": "ai-interior-design-generator",
+    "language": "en"
+  },
+  "réduction-audio": {
+    "keyword": "audio-ducking",
+    "language": "fr"
+  },
+  "sincronización-labial-con-ia": {
+    "keyword": "ai-lip-sync",
+    "language": "es"
+  },
+  "aperfeiçoamento-de-imagem-com-ia": {
+    "keyword": "ai-image-sharpening",
+    "language": "pt"
+  },
+  "diviseur-vidéo": {
+    "keyword": "video-splitter",
+    "language": "fr"
+  },
+  "silenciado-de-audio": {
+    "keyword": "audio-muting",
+    "language": "es"
+  },
+  "ai图像锐化": {
+    "keyword": "ai-image-sharpening",
+    "language": "zh"
+  },
+  "atenuación-de-audio": {
+    "keyword": "audio-ducking",
+    "language": "es"
+  },
+  "suivi-de-mouvement": {
+    "keyword": "motion-tracking",
+    "language": "fr"
+  },
+  "escalar-video-con-ia": {
+    "keyword": "ai-video-upscaling",
+    "language": "es"
+  },
+  "generador-de-paletas-de-color-ai": {
+    "keyword": "ai-color-palette-generator",
+    "language": "es"
+  },
+  "divisor-de-video": {
+    "keyword": "video-splitter",
+    "language": "es"
+  },
+  "générateur-de-design-d'intérieur-ia": {
+    "keyword": "ai-interior-design-generator",
+    "language": "fr"
+  },
+  "eliminador-de-ruido-de-fondo": {
+    "keyword": "background-noise-remover",
+    "language": "es"
+  },
+  "sincronização-labial-com-ia": {
+    "keyword": "ai-lip-sync",
+    "language": "pt"
+  },
+  "silenciamento-de-áudio": {
+    "keyword": "audio-muting",
+    "language": "pt"
+  },
+  "seguimiento-de-movimiento": {
+    "keyword": "motion-tracking",
+    "language": "es"
+  },
+  "divisor-de-vídeo": {
+    "keyword": "video-splitter",
+    "language": "pt"
+  },
+  "removedor-de-ruído-de-fundo": {
+    "keyword": "background-noise-remover",
+    "language": "pt"
+  },
+  "ampliação-de-vídeo-com-inteligência-artificial": {
+    "keyword": "ai-video-upscaling",
+    "language": "pt"
+  },
+  "generador-de-diseño-de-interiores-por-ia": {
+    "keyword": "ai-interior-design-generator",
+    "language": "es"
+  },
+  "улучшение-изображения-с-помощью-ии": {
+    "keyword": "ai-image-sharpening",
+    "language": "ru"
+  },
+  "音频静音": {
+    "keyword": "audio-muting",
+    "language": "zh"
+  },
+  "人工智能口型同步": {
+    "keyword": "ai-lip-sync",
+    "language": "zh"
+  },
+  "gerador-de-paleta-de-cores-de-ia": {
+    "keyword": "ai-color-palette-generator",
+    "language": "pt"
+  },
+  "人工智能视频升级": {
+    "keyword": "ai-video-upscaling",
+    "language": "zh"
+  },
+  "视频分割器": {
+    "keyword": "video-splitter",
+    "language": "zh"
+  },
+  "хамирование-аудио": {
+    "keyword": "audio-muting",
+    "language": "ru"
+  },
+  "ki-bildschärfung": {
+    "keyword": "ai-image-sharpening",
+    "language": "de"
+  },
+  "背景噪音消除器": {
+    "keyword": "background-noise-remover",
+    "language": "zh"
+  },
+  "ай-синхронизация-губ": {
+    "keyword": "ai-lip-sync",
+    "language": "ru"
+  },
+  "gerador-de-design-interior-de-ia": {
+    "keyword": "ai-interior-design-generator",
+    "language": "pt"
+  },
+  "atenuação-de-áudio": {
+    "keyword": "audio-ducking",
+    "language": "pt"
+  },
+  "rastreamento-de-movimento": {
+    "keyword": "motion-tracking",
+    "language": "pt"
+  },
+  "ai色彩调色板生成器": {
+    "keyword": "ai-color-palette-generator",
+    "language": "zh"
+  },
+  "видео-раз-splitter": {
+    "keyword": "video-splitter",
+    "language": "ru"
+  },
+  "运动追踪": {
+    "keyword": "motion-tracking",
+    "language": "zh"
+  },
+  "апскейлинг-видео-с-помощью-ии": {
+    "keyword": "ai-video-upscaling",
+    "language": "ru"
+  },
+  "penajaman-gambar-ai": {
+    "keyword": "ai-image-sharpening",
+    "language": "id"
+  },
+  "ki-lippensynchronisation": {
+    "keyword": "ai-lip-sync",
+    "language": "de"
+  },
+  "удаление-фонового-шума": {
+    "keyword": "background-noise-remover",
+    "language": "ru"
+  },
+  "人工智能室内设计生成器": {
+    "keyword": "ai-interior-design-generator",
+    "language": "zh"
+  },
+  "音频压低": {
+    "keyword": "audio-ducking",
+    "language": "zh"
+  },
+  "генератор-палитры-цветов-с-использованием-ии": {
+    "keyword": "ai-color-palette-generator",
+    "language": "ru"
+  },
+  "video-splitter de": {
+    "keyword": "video-splitter",
+    "language": "de"
+  },
+  "отслеживание-движения": {
+    "keyword": "motion-tracking",
+    "language": "ru"
+  },
+  "audio-stummschaltung": {
+    "keyword": "audio-muting",
+    "language": "de"
+  },
+  "synchronize-bibir-ai": {
+    "keyword": "ai-lip-sync",
+    "language": "id"
+  },
+  "ki-video-hochskalierung": {
+    "keyword": "ai-video-upscaling",
+    "language": "de"
+  },
+  "ai-이미지-선명화": {
+    "keyword": "ai-image-sharpening",
+    "language": "ko"
+  },
+  "hintergrundgeräuschentferner": {
+    "keyword": "background-noise-remover",
+    "language": "de"
+  },
+  "bewegungsverfolgung": {
+    "keyword": "motion-tracking",
+    "language": "de"
+  },
+  "генератор-дизайна-интерьеров-с-ии": {
+    "keyword": "ai-interior-design-generator",
+    "language": "ru"
+  },
+  "pembagi-video": {
+    "keyword": "video-splitter",
+    "language": "id"
+  },
+  "ki-farbpalettengenerator": {
+    "keyword": "ai-color-palette-generator",
+    "language": "de"
+  },
+  "pembisuan-audio": {
+    "keyword": "audio-muting",
+    "language": "id"
+  },
+  "аудио-приглушение": {
+    "keyword": "audio-ducking",
+    "language": "ru"
+  },
+  "ai画像シャープニング": {
+    "keyword": "ai-image-sharpening",
+    "language": "jp"
+  },
+  "ai-video-summary": {
+    "keyword": "ai-video-summary",
+    "language": "en"
+  },
+  "ki-innenarchitektur-generator": {
+    "keyword": "ai-interior-design-generator",
+    "language": "de"
+  },
+  "인공지능-립-싱크": {
+    "keyword": "ai-lip-sync",
+    "language": "ko"
+  },
+  "generator-palet-warna-ai": {
+    "keyword": "ai-color-palette-generator",
+    "language": "id"
+  },
+  "pelacakan-gerak": {
+    "keyword": "motion-tracking",
+    "language": "id"
+  },
+  "peningkatan-video-ai": {
+    "keyword": "ai-video-upscaling",
+    "language": "id"
+  },
+  "오디오-음소거": {
+    "keyword": "audio-muting",
+    "language": "ko"
+  },
+  "비디오-분할기": {
+    "keyword": "video-splitter",
+    "language": "ko"
+  },
+  "audio-ducking de": {
+    "keyword": "audio-ducking",
+    "language": "de"
+  },
+  "penghapus-suara-latar": {
+    "keyword": "background-noise-remover",
+    "language": "id"
+  },
+  "모션-트래킹": {
+    "keyword": "motion-tracking",
+    "language": "ko"
+  },
+  "aiリップシンク": {
+    "keyword": "ai-lip-sync",
+    "language": "jp"
+  },
+  "video-joiner": {
+    "keyword": "video-joiner",
+    "language": "en"
+  },
+  "ai-색상-팔레트-생성기": {
+    "keyword": "ai-color-palette-generator",
+    "language": "ko"
+  },
+  "オーディオミュート": {
+    "keyword": "audio-muting",
+    "language": "jp"
+  },
+  "auto-subtitle-generator": {
+    "keyword": "auto-subtitle-generator",
+    "language": "en"
+  },
+  "penurunan-audio": {
+    "keyword": "audio-ducking",
+    "language": "id"
+  },
+  "generator-desain-interior-ai": {
+    "keyword": "ai-interior-design-generator",
+    "language": "id"
+  },
+  "인공지능-비디오-업스케일링": {
+    "keyword": "ai-video-upscaling",
+    "language": "ko"
+  },
+  "résumé-vidéo-par-ia": {
+    "keyword": "ai-video-summary",
+    "language": "fr"
+  },
+  "モーショントラッキング": {
+    "keyword": "motion-tracking",
+    "language": "jp"
+  },
+  "ai-style-transfer": {
+    "keyword": "ai-style-transfer",
+    "language": "en"
+  },
+  "éditeur-de-vidéo": {
+    "keyword": "video-joiner",
+    "language": "fr"
+  },
+  "배경-소음-제거기": {
+    "keyword": "background-noise-remover",
+    "language": "ko"
+  },
+  "ビデオスプリッター": {
+    "keyword": "video-splitter",
+    "language": "jp"
+  },
+  "ai-avatar-video": {
+    "keyword": "ai-avatar-video",
+    "language": "en"
+  },
+  "aiカラーパレットジェネレーター": {
+    "keyword": "ai-color-palette-generator",
+    "language": "jp"
+  },
+  "ai-outpainting": {
+    "keyword": "ai-outpainting",
+    "language": "en"
+  },
+  "resumen-de-video-con-ia": {
+    "keyword": "ai-video-summary",
+    "language": "es"
+  },
+  "unidor-de-videos": {
+    "keyword": "video-joiner",
+    "language": "es"
+  },
+  "générateur-de-sous-titres-automatique": {
+    "keyword": "auto-subtitle-generator",
+    "language": "fr"
+  },
+  "ai動画アップスケーリング": {
+    "keyword": "ai-video-upscaling",
+    "language": "jp"
+  },
+  "ai-inpainting": {
+    "keyword": "ai-inpainting",
+    "language": "en"
+  },
+  "transfert-de-style-par-ia": {
+    "keyword": "ai-style-transfer",
+    "language": "fr"
+  },
+  "ai-인테리어-디자인-생성기": {
+    "keyword": "ai-interior-design-generator",
+    "language": "ko"
+  },
+  "오디오-덮어쓰기": {
+    "keyword": "audio-ducking",
+    "language": "ko"
+  },
+  "peinture-par-intelligence-artificielle": {
+    "keyword": "ai-outpainting",
+    "language": "fr"
+  },
+  "vidéo-d'avatar-ia": {
+    "keyword": "ai-avatar-video",
+    "language": "fr"
+  },
+  "resumo-de-vídeo-com-inteligência-artificial": {
+    "keyword": "ai-video-summary",
+    "language": "pt"
+  },
+  "バックグラウンドノイズ除去器": {
+    "keyword": "background-noise-remover",
+    "language": "jp"
+  },
+  "ai-pattern-generator": {
+    "keyword": "ai-pattern-generator",
+    "language": "en"
+  },
+  "peinture-inpainting-par-ia": {
+    "keyword": "ai-inpainting",
+    "language": "fr"
+  },
+  "generador-de-subtítulos-automáticos": {
+    "keyword": "auto-subtitle-generator",
+    "language": "es"
+  },
+  "ai视频摘要": {
+    "keyword": "ai-video-summary",
+    "language": "zh"
+  },
+  "aiインテリアデザインジェネレーター": {
+    "keyword": "ai-interior-design-generator",
+    "language": "jp"
+  },
+  "ai-old-photo-restoration": {
+    "keyword": "ai-old-photo-restoration",
+    "language": "en"
+  },
+  "video-de-avatar-de-ia": {
+    "keyword": "ai-avatar-video",
+    "language": "es"
+  },
+  "pintura-asistida-por-inteligencia-artificial": {
+    "keyword": "ai-outpainting",
+    "language": "es"
+  },
+  "inpainting-con-ia": {
+    "keyword": "ai-inpainting",
+    "language": "es"
+  },
+  "unidor-de-vídeos": {
+    "keyword": "video-joiner",
+    "language": "pt"
+  },
+  "générateur-de-motifs-d'ia": {
+    "keyword": "ai-pattern-generator",
+    "language": "fr"
+  },
+  "オーディオダッキング": {
+    "keyword": "audio-ducking",
+    "language": "jp"
+  },
+  "gerador-de-legendas-automáticas": {
+    "keyword": "auto-subtitle-generator",
+    "language": "pt"
+  },
+  "ай-видео-резюме": {
+    "keyword": "ai-video-summary",
+    "language": "ru"
+  },
+  "ai-script-to-video": {
+    "keyword": "ai-script-to-video",
+    "language": "en"
+  },
+  "transferencia-de-estilo-de-ia": {
+    "keyword": "ai-style-transfer",
+    "language": "es"
+  },
+  "ki-videozusammenfassung": {
+    "keyword": "ai-video-summary",
+    "language": "de"
+  },
+  "generador-de-patrones-de-ia": {
+    "keyword": "ai-pattern-generator",
+    "language": "es"
+  },
+  "transferência-de-estilo-de-ia": {
+    "keyword": "ai-style-transfer",
+    "language": "pt"
+  },
+  "script-ia-vers-vidéo": {
+    "keyword": "ai-script-to-video",
+    "language": "fr"
+  },
+  "自动字幕生成器": {
+    "keyword": "auto-subtitle-generator",
+    "language": "zh"
+  },
+  "vídeo-de-avatar-de-ia": {
+    "keyword": "ai-avatar-video",
+    "language": "pt"
+  },
+  "pintura-expandida-por-ia": {
+    "keyword": "ai-outpainting",
+    "language": "pt"
+  },
+  "reconstrução-com-ia": {
+    "keyword": "ai-inpainting",
+    "language": "pt"
+  },
+  "视频合并器": {
+    "keyword": "video-joiner",
+    "language": "zh"
+  },
+  "restauration-de-vieilles-photos-par-ia": {
+    "keyword": "ai-old-photo-restoration",
+    "language": "fr"
+  },
+  "ai-外画": {
+    "keyword": "ai-outpainting",
+    "language": "zh"
+  },
+  "ringkasan-video-ai": {
+    "keyword": "ai-video-summary",
+    "language": "id"
+  },
+  "ai头像视频": {
+    "keyword": "ai-avatar-video",
+    "language": "zh"
+  },
+  "人工智能修复": {
+    "keyword": "ai-inpainting",
+    "language": "zh"
+  },
+  "ai风格迁移": {
+    "keyword": "ai-style-transfer",
+    "language": "zh"
+  },
+  "gerador-de-padrão-de-ia": {
+    "keyword": "ai-pattern-generator",
+    "language": "pt"
+  },
+  "guion-de-ia-a-video": {
+    "keyword": "ai-script-to-video",
+    "language": "es"
+  },
+  "автогенератор-субтитров": {
+    "keyword": "auto-subtitle-generator",
+    "language": "ru"
+  },
+  "видеосоединитель": {
+    "keyword": "video-joiner",
+    "language": "ru"
+  },
+  "人工智能模式生成器": {
+    "keyword": "ai-pattern-generator",
+    "language": "zh"
+  },
+  "videoverbinder": {
+    "keyword": "video-joiner",
+    "language": "de"
+  },
+  "ai-비디오-요약": {
+    "keyword": "ai-video-summary",
+    "language": "ko"
+  },
+  "roteiro-de-ia-para-vídeo": {
+    "keyword": "ai-script-to-video",
+    "language": "pt"
+  },
+  "automatischer-untertitelgenerator": {
+    "keyword": "auto-subtitle-generator",
+    "language": "de"
+  },
+  "видео-с-аватаром-на-основе-ии": {
+    "keyword": "ai-avatar-video",
+    "language": "ru"
+  },
+  "restauración-de-fotos-antiguas-con-inteligencia-artificial": {
+    "keyword": "ai-old-photo-restoration",
+    "language": "es"
+  },
+  "перенос-стиля-с-помощью-ии": {
+    "keyword": "ai-style-transfer",
+    "language": "ru"
+  },
+  "аи-инпейнтинг": {
+    "keyword": "ai-inpainting",
+    "language": "ru"
+  },
+  "penggabung-video": {
+    "keyword": "video-joiner",
+    "language": "id"
+  },
+  "ki-avatar-video": {
+    "keyword": "ai-avatar-video",
+    "language": "de"
+  },
+  "ai動画要約": {
+    "keyword": "ai-video-summary",
+    "language": "jp"
+  },
+  "ai-video-stabilization": {
+    "keyword": "ai-video-stabilization",
+    "language": "en"
+  },
+  "ki-nachbearbeitung": {
+    "keyword": "ai-inpainting",
+    "language": "de"
+  },
+  "искусственный-интеллект-в-расширении-изображений": {
+    "keyword": "ai-outpainting",
+    "language": "ru"
+  },
+  "ai脚本转视频": {
+    "keyword": "ai-script-to-video",
+    "language": "zh"
+  },
+  "restauração-de-fotos-antigas-com-ia": {
+    "keyword": "ai-old-photo-restoration",
+    "language": "pt"
+  },
+  "ki-stilübertragung": {
+    "keyword": "ai-style-transfer",
+    "language": "de"
+  },
+  "generator-subtitle-otomatis": {
+    "keyword": "auto-subtitle-generator",
+    "language": "id"
+  },
+  "генератор-шаблонов-ии": {
+    "keyword": "ai-pattern-generator",
+    "language": "ru"
+  },
+  "video-avatar-ai": {
+    "keyword": "ai-avatar-video",
+    "language": "id"
+  },
+  "ki-übermalung": {
+    "keyword": "ai-outpainting",
+    "language": "de"
+  },
+  "비디오-합치기": {
+    "keyword": "video-joiner",
+    "language": "ko"
+  },
+  "ai老照片修复": {
+    "keyword": "ai-old-photo-restoration",
+    "language": "zh"
+  },
+  "penyelamatan-ai": {
+    "keyword": "ai-inpainting",
+    "language": "id"
+  },
+  "скрипт-ии-в-видео": {
+    "keyword": "ai-script-to-video",
+    "language": "ru"
+  },
+  "stabilisation-vidéo-par-ia": {
+    "keyword": "ai-video-stabilization",
+    "language": "fr"
+  },
+  "transfer-gaya-ai": {
+    "keyword": "ai-style-transfer",
+    "language": "id"
+  },
+  "ki-muster-generator": {
+    "keyword": "ai-pattern-generator",
+    "language": "de"
+  },
+  "자동-자막-생성기": {
+    "keyword": "auto-subtitle-generator",
+    "language": "ko"
+  },
+  "ki-skript-zu-video": {
+    "keyword": "ai-script-to-video",
+    "language": "de"
+  },
+  "ai-melukis-keluar": {
+    "keyword": "ai-outpainting",
+    "language": "id"
+  },
+  "ai-스타일-전이": {
+    "keyword": "ai-style-transfer",
+    "language": "ko"
+  },
+  "ai-인페인팅": {
+    "keyword": "ai-inpainting",
+    "language": "ko"
+  },
+  "восстановление-старых-фотографий-с-помощью-ии": {
+    "keyword": "ai-old-photo-restoration",
+    "language": "ru"
+  },
+  "인공지능-아바타-동영상": {
+    "keyword": "ai-avatar-video",
+    "language": "ko"
+  },
+  "generator-pola-ai": {
+    "keyword": "ai-pattern-generator",
+    "language": "id"
+  },
+  "自動字幕生成器": {
+    "keyword": "auto-subtitle-generator",
+    "language": "jp"
+  },
+  "ai-sketch-to-image": {
+    "keyword": "ai-sketch-to-image",
+    "language": "en"
+  },
+  "ビデオジョイナー": {
+    "keyword": "video-joiner",
+    "language": "jp"
+  },
+  "ai-talking-head": {
+    "keyword": "ai-talking-head",
+    "language": "en"
+  },
+  "skrip-ai-ke-video": {
+    "keyword": "ai-script-to-video",
+    "language": "id"
+  },
+  "aiスタイル転送": {
+    "keyword": "ai-style-transfer",
+    "language": "jp"
+  },
+  "ai-インペインティング": {
+    "keyword": "ai-inpainting",
+    "language": "jp"
+  },
+  "ai-content-moderation": {
+    "keyword": "ai-content-moderation",
+    "language": "en"
+  },
+  "transition-effects": {
+    "keyword": "transition-effects",
+    "language": "en"
+  },
+  "aiアバタービデオ": {
+    "keyword": "ai-avatar-video",
+    "language": "jp"
+  },
+  "tête-parlante-d'ia": {
+    "keyword": "ai-talking-head",
+    "language": "fr"
+  },
+  "인공지능-패턴-생성기": {
+    "keyword": "ai-pattern-generator",
+    "language": "ko"
+  },
+  "ki-restauration-alter-fotos": {
+    "keyword": "ai-old-photo-restoration",
+    "language": "de"
+  },
+  "estabilización-de-video-por-inteligencia-artificial": {
+    "keyword": "ai-video-stabilization",
+    "language": "es"
+  },
+  "ai-video-analytics": {
+    "keyword": "ai-video-analytics",
+    "language": "en"
+  },
+  "croquis-d'ia-en-image": {
+    "keyword": "ai-sketch-to-image",
+    "language": "fr"
+  },
+  "ai-확장화가": {
+    "keyword": "ai-outpainting",
+    "language": "ko"
+  },
+  "effets-de-transition": {
+    "keyword": "transition-effects",
+    "language": "fr"
+  },
+  "restorasi-foto-tua-dengan-ai": {
+    "keyword": "ai-old-photo-restoration",
+    "language": "id"
+  },
+  "analyse-vidéo-par-ia": {
+    "keyword": "ai-video-analytics",
+    "language": "fr"
+  },
+  "ai-アウトペインティング": {
+    "keyword": "ai-outpainting",
+    "language": "jp"
+  },
+  "boceto-de-ia-a-imagen": {
+    "keyword": "ai-sketch-to-image",
+    "language": "es"
+  },
+  "ai-스크립트를-비디오로": {
+    "keyword": "ai-script-to-video",
+    "language": "ko"
+  },
+  "ai-image-deblurring": {
+    "keyword": "ai-image-deblurring",
+    "language": "en"
+  },
+  "cabeza-hablante-de-ia": {
+    "keyword": "ai-talking-head",
+    "language": "es"
+  },
+  "aiパターンジェネレーター": {
+    "keyword": "ai-pattern-generator",
+    "language": "jp"
+  },
+  "ai-image-captioning": {
+    "keyword": "ai-image-captioning",
+    "language": "en"
+  },
+  "modération-de-contenu-par-ia": {
+    "keyword": "ai-content-moderation",
+    "language": "fr"
+  },
+  "estabilização-de-vídeo-com-ia": {
+    "keyword": "ai-video-stabilization",
+    "language": "pt"
+  },
+  "efectos-de-transición": {
+    "keyword": "transition-effects",
+    "language": "es"
+  },
+  "analítica-de-video-con-ia": {
+    "keyword": "ai-video-analytics",
+    "language": "es"
+  },
+  "légende-d'image-par-ia": {
+    "keyword": "ai-image-captioning",
+    "language": "fr"
+  },
+  "cabeça-falante-de-ia": {
+    "keyword": "ai-talking-head",
+    "language": "pt"
+  },
+  "défloutage-d'image-ai": {
+    "keyword": "ai-image-deblurring",
+    "language": "fr"
+  },
+  "人工智能视频稳定": {
+    "keyword": "ai-video-stabilization",
+    "language": "zh"
+  },
+  "ai-오래된-사진-복원": {
+    "keyword": "ai-old-photo-restoration",
+    "language": "ko"
+  },
+  "esboço-de-ia-para-imagem": {
+    "keyword": "ai-sketch-to-image",
+    "language": "pt"
+  },
+  "efeitos-de-transição": {
+    "keyword": "transition-effects",
+    "language": "pt"
+  },
+  "moderación-de-contenido-de-ia": {
+    "keyword": "ai-content-moderation",
+    "language": "es"
+  },
+  "aiスクリプトからビデオへ": {
+    "keyword": "ai-script-to-video",
+    "language": "jp"
+  },
+  "ai-image-to-video en": {
+    "keyword": "ai-image-to-video",
+    "language": "en"
+  },
+  "人工智能虚拟主持人": {
+    "keyword": "ai-talking-head",
+    "language": "zh"
+  },
+  "ai古写真修復": {
+    "keyword": "ai-old-photo-restoration",
+    "language": "jp"
+  },
+  "ai-video-captioning": {
+    "keyword": "ai-video-captioning",
+    "language": "en"
+  },
+  "captionado-de-imágenes-por-ia": {
+    "keyword": "ai-image-captioning",
+    "language": "es"
+  },
+  "el-desenfoque-de-imágenes-con-ia": {
+    "keyword": "ai-image-deblurring",
+    "language": "es"
+  },
+  "过渡效果": {
+    "keyword": "transition-effects",
+    "language": "zh"
+  },
+  "система-стабилизации-видео-на-основе-ии": {
+    "keyword": "ai-video-stabilization",
+    "language": "ru"
+  },
+  "análise-de-vídeo-com-ia": {
+    "keyword": "ai-video-analytics",
+    "language": "pt"
+  },
+  "moderação-de-conteúdo-com-ia": {
+    "keyword": "ai-content-moderation",
+    "language": "pt"
+  },
+  "ai素描到图像": {
+    "keyword": "ai-sketch-to-image",
+    "language": "zh"
+  },
+  "image-ai-en-vidéo fr": {
+    "keyword": "ai-image-to-video",
+    "language": "fr"
+  },
+  "legenda-de-imagem-com-ia": {
+    "keyword": "ai-image-captioning",
+    "language": "pt"
+  },
+  "sous-titrage-vidéo-par-ia": {
+    "keyword": "ai-video-captioning",
+    "language": "fr"
+  },
+  "人工智能视频分析": {
+    "keyword": "ai-video-analytics",
+    "language": "zh"
+  },
+  "эффекты-перехода": {
+    "keyword": "transition-effects",
+    "language": "ru"
+  },
+  "人工智能内容审核": {
+    "keyword": "ai-content-moderation",
+    "language": "zh"
+  },
+  "ki-videostabilisierung": {
+    "keyword": "ai-video-stabilization",
+    "language": "de"
+  },
+  "искусственный-интеллект-говорящая-голова": {
+    "keyword": "ai-talking-head",
+    "language": "ru"
+  },
+  "ай-эскиз-в-изображение": {
+    "keyword": "ai-sketch-to-image",
+    "language": "ru"
+  },
+  "desfoque-de-imagem-com-ia": {
+    "keyword": "ai-image-deblurring",
+    "language": "pt"
+  },
+  "智能图像字幕生成": {
+    "keyword": "ai-image-captioning",
+    "language": "zh"
+  },
+  "ki-sprechender-kopf": {
+    "keyword": "ai-talking-head",
+    "language": "de"
+  },
+  "übergangseffekte": {
+    "keyword": "transition-effects",
+    "language": "de"
+  },
+  "imagen-de-ia-a-video es": {
+    "keyword": "ai-image-to-video",
+    "language": "es"
+  },
+  "subtitulación-de-video-con-ia": {
+    "keyword": "ai-video-captioning",
+    "language": "es"
+  },
+  "ki-skizze-zu-bild": {
+    "keyword": "ai-sketch-to-image",
+    "language": "de"
+  },
+  "ai图像去模糊": {
+    "keyword": "ai-image-deblurring",
+    "language": "zh"
+  },
+  "аналитика-видео-с-использованием-ии": {
+    "keyword": "ai-video-analytics",
+    "language": "ru"
+  },
+  "генерация-подписей-для-изображений-с-помощью-ии": {
+    "keyword": "ai-image-captioning",
+    "language": "ru"
+  },
+  "stabilisasi-video-ai": {
+    "keyword": "ai-video-stabilization",
+    "language": "id"
+  },
+  "модерация-контента-с-использованием-ии": {
+    "keyword": "ai-content-moderation",
+    "language": "ru"
+  },
+  "ki-videoanalyse": {
+    "keyword": "ai-video-analytics",
+    "language": "de"
+  },
+  "sketsa-ai-ke-gambar": {
+    "keyword": "ai-sketch-to-image",
+    "language": "id"
+  },
+  "ki-bildunterschriftenerstellung": {
+    "keyword": "ai-image-captioning",
+    "language": "de"
+  },
+  "efek-transisi": {
+    "keyword": "transition-effects",
+    "language": "id"
+  },
+  "kepala-bicara-ai": {
+    "keyword": "ai-talking-head",
+    "language": "id"
+  },
+  "искусственный-интеллект-восстановление-изображений": {
+    "keyword": "ai-image-deblurring",
+    "language": "ru"
+  },
+  "ki-inhaltsmoderation": {
+    "keyword": "ai-content-moderation",
+    "language": "de"
+  },
+  "ai-비디오-안정화": {
+    "keyword": "ai-video-stabilization",
+    "language": "ko"
+  },
+  "legendagem-de-vídeo-com-ia": {
+    "keyword": "ai-video-captioning",
+    "language": "pt"
+  },
+  "imagem-de-ia-para-vídeo pt": {
+    "keyword": "ai-image-to-video",
+    "language": "pt"
+  },
+  "moderasi-konten-ai": {
+    "keyword": "ai-content-moderation",
+    "language": "id"
+  },
+  "전환-효과": {
+    "keyword": "transition-effects",
+    "language": "ko"
+  },
+  "人工智能图像转视频 zh": {
+    "keyword": "ai-image-to-video",
+    "language": "zh"
+  },
+  "aiビデオ安定化": {
+    "keyword": "ai-video-stabilization",
+    "language": "jp"
+  },
+  "ai-말하는-머리": {
+    "keyword": "ai-talking-head",
+    "language": "ko"
+  },
+  "人工智能视频字幕生成": {
+    "keyword": "ai-video-captioning",
+    "language": "zh"
+  },
+  "ai-product-photo-generator": {
+    "keyword": "ai-product-photo-generator",
+    "language": "en"
+  },
+  "ai-스케치에서-이미지로": {
+    "keyword": "ai-sketch-to-image",
+    "language": "ko"
+  },
+  "ki-bildentunschärfung": {
+    "keyword": "ai-image-deblurring",
+    "language": "de"
+  },
+  "penjelasan-gambar-ai": {
+    "keyword": "ai-image-captioning",
+    "language": "id"
+  },
+  "analisis-video-ai": {
+    "keyword": "ai-video-analytics",
+    "language": "id"
+  },
+  "ai-콘텐츠-조정": {
+    "keyword": "ai-content-moderation",
+    "language": "ko"
+  },
+  "penghilangan-blur-gambar-ai": {
+    "keyword": "ai-image-deblurring",
+    "language": "id"
+  },
+  "遷移効果": {
+    "keyword": "transition-effects",
+    "language": "jp"
+  },
+  "voiceover-recording": {
+    "keyword": "voiceover-recording",
+    "language": "en"
+  },
+  "aiスケッチから画像へ": {
+    "keyword": "ai-sketch-to-image",
+    "language": "jp"
+  },
+  "인공지능-비디오-분석": {
+    "keyword": "ai-video-analytics",
+    "language": "ko"
+  },
+  "ai-3d-video-generator": {
+    "keyword": "ai-3d-video-generator",
+    "language": "en"
+  },
+  "générateur-de-photos-de-produit-ia": {
+    "keyword": "ai-product-photo-generator",
+    "language": "fr"
+  },
+  "ai-이미지-캡셔닝": {
+    "keyword": "ai-image-captioning",
+    "language": "ko"
+  },
+  "искусственный-интеллект-изображение-в-видео": {
+    "keyword": "ai-image-to-video",
+    "language": "ru"
+  },
+  "генерация-субтитров-для-видео-с-помощью-ии": {
+    "keyword": "ai-video-captioning",
+    "language": "ru"
+  },
+  "ki-bild-zu-video de": {
+    "keyword": "ai-image-to-video",
+    "language": "de"
+  },
+  "ai画像キャプショニング": {
+    "keyword": "ai-image-captioning",
+    "language": "jp"
+  },
+  "enregistrement-de-voix-off": {
+    "keyword": "voiceover-recording",
+    "language": "fr"
+  },
+  "ai-skin-retouching": {
+    "keyword": "ai-skin-retouching",
+    "language": "en"
+  },
+  "générateur-de-vidéo-3d-ia": {
+    "keyword": "ai-3d-video-generator",
+    "language": "fr"
+  },
+  "aiトーキングヘッド": {
+    "keyword": "ai-talking-head",
+    "language": "jp"
+  },
+  "ai-text-extraction": {
+    "keyword": "ai-text-extraction",
+    "language": "en"
+  },
+  "aiビデオ分析": {
+    "keyword": "ai-video-analytics",
+    "language": "jp"
+  },
+  "ai-animated-avatar": {
+    "keyword": "ai-animated-avatar",
+    "language": "en"
+  },
+  "generador-de-fotos-de-productos-con-ia": {
+    "keyword": "ai-product-photo-generator",
+    "language": "es"
+  },
+  "ki-video-untertitelung": {
+    "keyword": "ai-video-captioning",
+    "language": "de"
+  },
+  "ai-이미지-블러-제거": {
+    "keyword": "ai-image-deblurring",
+    "language": "ko"
+  },
+  "aiコンテンツモデレーション": {
+    "keyword": "ai-content-moderation",
+    "language": "jp"
+  },
+  "ai-shadow-generator": {
+    "keyword": "ai-shadow-generator",
+    "language": "en"
+  },
+  "generador-de-video-3d-con-ia": {
+    "keyword": "ai-3d-video-generator",
+    "language": "es"
+  },
+  "gambar-ai-ke-video": {
+    "keyword": "ai-image-to-video",
+    "language": "id"
+  },
+  "avatar-animé-par-l'ia": {
+    "keyword": "ai-animated-avatar",
+    "language": "fr"
+  },
+  "retrait-de-peau-par-ia": {
+    "keyword": "ai-skin-retouching",
+    "language": "fr"
+  },
+  "extraction-de-texte-par-ia": {
+    "keyword": "ai-text-extraction",
+    "language": "fr"
+  },
+  "penggautan-video-ai": {
+    "keyword": "ai-video-captioning",
+    "language": "id"
+  },
+  "gerador-de-fotos-de-produtos-com-ia": {
+    "keyword": "ai-product-photo-generator",
+    "language": "pt"
+  },
+  "ai画像のぼかし除去": {
+    "keyword": "ai-image-deblurring",
+    "language": "jp"
+  },
+  "ai-noise-generator": {
+    "keyword": "ai-noise-generator",
+    "language": "en"
+  },
+  "générateur-d'ombre-ia": {
+    "keyword": "ai-shadow-generator",
+    "language": "fr"
+  },
+  "gerador-de-vídeo-3d-com-ia": {
+    "keyword": "ai-3d-video-generator",
+    "language": "pt"
+  },
+  "ai-이미지에서-비디오로 ko": {
+    "keyword": "ai-image-to-video",
+    "language": "ko"
+  },
+  "extracción-de-texto-por-inteligencia-artificial": {
+    "keyword": "ai-text-extraction",
+    "language": "es"
+  },
+  "avatar-animado-por-ia": {
+    "keyword": "ai-animated-avatar",
+    "language": "es"
+  },
+  "générateur-de-bruit-ia": {
+    "keyword": "ai-noise-generator",
+    "language": "fr"
+  },
+  "retoque-de-piel-con-inteligencia-artificial": {
+    "keyword": "ai-skin-retouching",
+    "language": "es"
+  },
+  "generador-de-sombras-de-ia": {
+    "keyword": "ai-shadow-generator",
+    "language": "es"
+  },
+  "grabación-de-voz-en-off": {
+    "keyword": "voiceover-recording",
+    "language": "es"
+  },
+  "人工智能产品照片生成器": {
+    "keyword": "ai-product-photo-generator",
+    "language": "zh"
+  },
+  "ai-비디오-자막-생성": {
+    "keyword": "ai-video-captioning",
+    "language": "ko"
+  },
+  "avatar-animado-de-ia": {
+    "keyword": "ai-animated-avatar",
+    "language": "pt"
+  },
+  "ai画像から動画へ jp": {
+    "keyword": "ai-image-to-video",
+    "language": "jp"
+  },
+  "generador-de-ruido-de-ia": {
+    "keyword": "ai-noise-generator",
+    "language": "es"
+  },
+  "extração-de-texto-por-ia": {
+    "keyword": "ai-text-extraction",
+    "language": "pt"
+  },
+  "gravação-de-narração": {
+    "keyword": "voiceover-recording",
+    "language": "pt"
+  },
+  "gerador-de-sombra-de-ia": {
+    "keyword": "ai-shadow-generator",
+    "language": "pt"
+  },
+  "batch-image-processing": {
+    "keyword": "batch-image-processing",
+    "language": "en"
+  },
+  "ai動画キャプション": {
+    "keyword": "ai-video-captioning",
+    "language": "jp"
+  },
+  "ai-human-video": {
+    "keyword": "ai-human-video",
+    "language": "en"
+  },
+  "retouching-de-pele-com-ia": {
+    "keyword": "ai-skin-retouching",
+    "language": "pt"
+  },
+  "人工智能-3d-视频生成器": {
+    "keyword": "ai-3d-video-generator",
+    "language": "zh"
+  },
+  "генератор-фото-продукта-на-основе-ии": {
+    "keyword": "ai-product-photo-generator",
+    "language": "ru"
+  },
+  "ki-produktfoto-generator": {
+    "keyword": "ai-product-photo-generator",
+    "language": "de"
+  },
+  "ai-动画头像": {
+    "keyword": "ai-animated-avatar",
+    "language": "zh"
+  },
+  "配音录音": {
+    "keyword": "voiceover-recording",
+    "language": "zh"
+  },
+  "人工智能阴影生成器": {
+    "keyword": "ai-shadow-generator",
+    "language": "zh"
+  },
+  "vidéo-humaine-ia": {
+    "keyword": "ai-human-video",
+    "language": "fr"
+  },
+  "генератор-3d-видео-на-основе-искусственного-интеллекта": {
+    "keyword": "ai-3d-video-generator",
+    "language": "ru"
+  },
+  "人工智能文本提取": {
+    "keyword": "ai-text-extraction",
+    "language": "zh"
+  },
+  "traitement-d'images-par-lots": {
+    "keyword": "batch-image-processing",
+    "language": "fr"
+  },
+  "ai皮肤修饰": {
+    "keyword": "ai-skin-retouching",
+    "language": "zh"
+  },
+  "gerador-de-ruído-de-ia": {
+    "keyword": "ai-noise-generator",
+    "language": "pt"
+  },
+  "pemroduksi-foto-produk-ai": {
+    "keyword": "ai-product-photo-generator",
+    "language": "id"
+  },
+  "генератор-теней-ии": {
+    "keyword": "ai-shadow-generator",
+    "language": "ru"
+  },
+  "ai-анимированный-аватар": {
+    "keyword": "ai-animated-avatar",
+    "language": "ru"
+  },
+  "ki-3d-video-generator": {
+    "keyword": "ai-3d-video-generator",
+    "language": "de"
+  },
+  "извлечение-текста-с-помощью-ии": {
+    "keyword": "ai-text-extraction",
+    "language": "ru"
+  },
+  "запись-озвучивания": {
+    "keyword": "voiceover-recording",
+    "language": "ru"
+  },
+  "интеллектуальная-ретушь-кожи": {
+    "keyword": "ai-skin-retouching",
+    "language": "ru"
+  },
+  "procesamiento-de-imágenes-por-lotes": {
+    "keyword": "batch-image-processing",
+    "language": "es"
+  },
+  "video-humano-de-ia": {
+    "keyword": "ai-human-video",
+    "language": "es"
+  },
+  "ki-textaus-extraction": {
+    "keyword": "ai-text-extraction",
+    "language": "de"
+  },
+  "ki-animierter-avatar": {
+    "keyword": "ai-animated-avatar",
+    "language": "de"
+  },
+  "voiceover-aufnahme": {
+    "keyword": "voiceover-recording",
+    "language": "de"
+  },
+  "人工智能噪声生成器": {
+    "keyword": "ai-noise-generator",
+    "language": "zh"
+  },
+  "processamento-de-imagens-em-lote": {
+    "keyword": "batch-image-processing",
+    "language": "pt"
+  },
+  "ai-제품-사진-생성기": {
+    "keyword": "ai-product-photo-generator",
+    "language": "ko"
+  },
+  "ki-hautretusche": {
+    "keyword": "ai-skin-retouching",
+    "language": "de"
+  },
+  "vídeo-humano-de-ia": {
+    "keyword": "ai-human-video",
+    "language": "pt"
+  },
+  "pembuat-video-3d-ai": {
+    "keyword": "ai-3d-video-generator",
+    "language": "id"
+  },
+  "avatar-animasi-ai": {
+    "keyword": "ai-animated-avatar",
+    "language": "id"
+  },
+  "retouching-kulit-ai": {
+    "keyword": "ai-skin-retouching",
+    "language": "id"
+  },
+  "批量图像处理": {
+    "keyword": "batch-image-processing",
+    "language": "zh"
+  },
+  "генератор-шума-на-основе-ии": {
+    "keyword": "ai-noise-generator",
+    "language": "ru"
+  },
+  "ekstraksi-teks-ai": {
+    "keyword": "ai-text-extraction",
+    "language": "id"
+  },
+  "人工智能人类视频": {
+    "keyword": "ai-human-video",
+    "language": "zh"
+  },
+  "ki-schattengenerator": {
+    "keyword": "ai-shadow-generator",
+    "language": "de"
+  },
+  "ki-rauschgenerator": {
+    "keyword": "ai-noise-generator",
+    "language": "de"
+  },
+  "rekaman-suara": {
+    "keyword": "voiceover-recording",
+    "language": "id"
+  },
+  "인공지능-텍스트-추출": {
+    "keyword": "ai-text-extraction",
+    "language": "ko"
+  },
+  "видео-с-искусственным-интеллектом-и-человеком": {
+    "keyword": "ai-human-video",
+    "language": "ru"
+  },
+  "generator-bayangan-ai": {
+    "keyword": "ai-shadow-generator",
+    "language": "id"
+  },
+  "ai-피부-보정": {
+    "keyword": "ai-skin-retouching",
+    "language": "ko"
+  },
+  "인공지능-3d-비디오-생성기": {
+    "keyword": "ai-3d-video-generator",
+    "language": "ko"
+  },
+  "ai-애니메이션-아바타": {
+    "keyword": "ai-animated-avatar",
+    "language": "ko"
+  },
+  "ai-그림자-생성기": {
+    "keyword": "ai-shadow-generator",
+    "language": "ko"
+  },
+  "aiテキスト抽出": {
+    "keyword": "ai-text-extraction",
+    "language": "jp"
+  },
+  "ki-menschliches-video": {
+    "keyword": "ai-human-video",
+    "language": "de"
+  },
+  "ai-face-restoration": {
+    "keyword": "ai-face-restoration",
+    "language": "en"
+  },
+  "음성해설-녹음": {
+    "keyword": "voiceover-recording",
+    "language": "ko"
+  },
+  "ai肌修整": {
+    "keyword": "ai-skin-retouching",
+    "language": "jp"
+  },
+  "ai-face-enhancement": {
+    "keyword": "ai-face-enhancement",
+    "language": "en"
+  },
+  "aiアニメーションアバター": {
+    "keyword": "ai-animated-avatar",
+    "language": "jp"
+  },
+  "ai-fractal-generator": {
+    "keyword": "ai-fractal-generator",
+    "language": "en"
+  },
+  "alat-pembuat-kebisingan-ai": {
+    "keyword": "ai-noise-generator",
+    "language": "id"
+  },
+  "video-manusia-ai": {
+    "keyword": "ai-human-video",
+    "language": "id"
+  },
+  "ボイスオーバー録音": {
+    "keyword": "voiceover-recording",
+    "language": "jp"
+  },
+  "ai-car-model-generator": {
+    "keyword": "ai-car-model-generator",
+    "language": "en"
+  },
+  "amélioration-de-visage-par-ia": {
+    "keyword": "ai-face-enhancement",
+    "language": "fr"
+  },
+  "aiシャドウジェネレーター": {
+    "keyword": "ai-shadow-generator",
+    "language": "jp"
+  },
+  "burning-subtitles": {
+    "keyword": "burning-subtitles",
+    "language": "en"
+  },
+  "인공지능-소음-생성기": {
+    "keyword": "ai-noise-generator",
+    "language": "ko"
+  },
+  "générateur-de-fractales-ia": {
+    "keyword": "ai-fractal-generator",
+    "language": "fr"
+  },
+  "restauration-de-visage-par-ia": {
+    "keyword": "ai-face-restoration",
+    "language": "fr"
+  },
+  "인간-ai-비디오": {
+    "keyword": "ai-human-video",
+    "language": "ko"
+  },
+  "ai人間動画": {
+    "keyword": "ai-human-video",
+    "language": "jp"
+  },
+  "ai-fashion-video-generator": {
+    "keyword": "ai-fashion-video-generator",
+    "language": "en"
+  },
+  "générateur-de-modèle-de-voiture-ai": {
+    "keyword": "ai-car-model-generator",
+    "language": "fr"
+  },
+  "generador-de-fractales-de-ia": {
+    "keyword": "ai-fractal-generator",
+    "language": "es"
+  },
+  "restauración-de-rostros-con-inteligencia-artificial": {
+    "keyword": "ai-face-restoration",
+    "language": "es"
+  },
+  "mejora-de-rostro-con-inteligencia-artificial": {
+    "keyword": "ai-face-enhancement",
+    "language": "es"
+  },
+  "sous-titres-incrustés": {
+    "keyword": "burning-subtitles",
+    "language": "fr"
+  },
+  "aiノイズジェネレーター": {
+    "keyword": "ai-noise-generator",
+    "language": "jp"
+  },
+  "пакетная-обработка-изображений": {
+    "keyword": "batch-image-processing",
+    "language": "ru"
+  },
+  "ai-pose-transfer": {
+    "keyword": "ai-pose-transfer",
+    "language": "en"
+  },
+  "ai-3d動画生成器": {
+    "keyword": "ai-3d-video-generator",
+    "language": "jp"
+  },
+  "ai-parallax-effect": {
+    "keyword": "ai-parallax-effect",
+    "language": "en"
+  },
+  "ai製品写真ジェネレーター": {
+    "keyword": "ai-product-photo-generator",
+    "language": "jp"
+  },
+  "ai-reflection-generator": {
+    "keyword": "ai-reflection-generator",
+    "language": "en"
+  },
+  "gerador-de-fractais-de-ia": {
+    "keyword": "ai-fractal-generator",
+    "language": "pt"
+  },
+  "restauração-facial-com-ia": {
+    "keyword": "ai-face-restoration",
+    "language": "pt"
+  },
+  "générateur-de-vidéos-de-mode-par-ia": {
+    "keyword": "ai-fashion-video-generator",
+    "language": "fr"
+  },
+  "subtítulos-quemados": {
+    "keyword": "burning-subtitles",
+    "language": "es"
+  },
+  "générateur-de-réflexion-ia": {
+    "keyword": "ai-reflection-generator",
+    "language": "fr"
+  },
+  "stapelbildverarbeitung": {
+    "keyword": "batch-image-processing",
+    "language": "de"
+  },
+  "aperfeiçoamento-facial-com-ia": {
+    "keyword": "ai-face-enhancement",
+    "language": "pt"
+  },
+  "effet-de-parallaxe-ia": {
+    "keyword": "ai-parallax-effect",
+    "language": "fr"
+  },
+  "generador-de-modelos-de-automóviles-de-ia": {
+    "keyword": "ai-car-model-generator",
+    "language": "es"
+  },
+  "transfert-de-pose-par-ia": {
+    "keyword": "ai-pose-transfer",
+    "language": "fr"
+  },
+  "ai人脸修复": {
+    "keyword": "ai-face-restoration",
+    "language": "zh"
+  },
+  "legendas-queimadas": {
+    "keyword": "burning-subtitles",
+    "language": "pt"
+  },
+  "ai人脸增强": {
+    "keyword": "ai-face-enhancement",
+    "language": "zh"
+  },
+  "pemrosesan-gambar-secara-batch": {
+    "keyword": "batch-image-processing",
+    "language": "id"
+  },
+  "generador-de-videos-de-moda-con-ia": {
+    "keyword": "ai-fashion-video-generator",
+    "language": "es"
+  },
+  "efecto-parallax-de-ia": {
+    "keyword": "ai-parallax-effect",
+    "language": "es"
+  },
+  "generador-de-reflexión-de-ia": {
+    "keyword": "ai-reflection-generator",
+    "language": "es"
+  },
+  "ai-分形生成器": {
+    "keyword": "ai-fractal-generator",
+    "language": "zh"
+  },
+  "transferencia-de-pose-de-inteligencia-artificial": {
+    "keyword": "ai-pose-transfer",
+    "language": "es"
+  },
+  "восстановление-лиц-с-помощью-ии": {
+    "keyword": "ai-face-restoration",
+    "language": "ru"
+  },
+  "gerador-de-modelo-de-carro-com-inteligência-artificial": {
+    "keyword": "ai-car-model-generator",
+    "language": "pt"
+  },
+  "ki-gesichtsrestaurierung": {
+    "keyword": "ai-face-restoration",
+    "language": "de"
+  },
+  "烧录字幕": {
+    "keyword": "burning-subtitles",
+    "language": "zh"
+  },
+  "gerador-de-vídeo-de-moda-com-inteligência-artificial": {
+    "keyword": "ai-fashion-video-generator",
+    "language": "pt"
+  },
+  "일괄-이미지-처리": {
+    "keyword": "batch-image-processing",
+    "language": "ko"
+  },
+  "人工智能汽车模型生成器": {
+    "keyword": "ai-car-model-generator",
+    "language": "zh"
+  },
+  "transferência-de-pose-de-ia": {
+    "keyword": "ai-pose-transfer",
+    "language": "pt"
+  },
+  "gerador-de-reflexão-em-ia": {
+    "keyword": "ai-reflection-generator",
+    "language": "pt"
+  },
+  "усовершенствование-лица-с-помощью-ии": {
+    "keyword": "ai-face-enhancement",
+    "language": "ru"
+  },
+  "генератор-фракталов-на-основе-ии": {
+    "keyword": "ai-fractal-generator",
+    "language": "ru"
+  },
+  "バッチ画像処理": {
+    "keyword": "batch-image-processing",
+    "language": "jp"
+  },
+  "ai-auto-tagging": {
+    "keyword": "ai-auto-tagging",
+    "language": "en"
+  },
+  "efeito-parallax-de-ia": {
+    "keyword": "ai-parallax-effect",
+    "language": "pt"
+  },
+  "ai姿态迁移": {
+    "keyword": "ai-pose-transfer",
+    "language": "zh"
+  },
+  "горящие-субтитры": {
+    "keyword": "burning-subtitles",
+    "language": "ru"
+  },
+  "ai反思生成器": {
+    "keyword": "ai-reflection-generator",
+    "language": "zh"
+  },
+  "ki-gesichtsverbesserung": {
+    "keyword": "ai-face-enhancement",
+    "language": "de"
+  },
+  "ai时尚视频生成器": {
+    "keyword": "ai-fashion-video-generator",
+    "language": "zh"
+  },
+  "ki-fraktal-generator": {
+    "keyword": "ai-fractal-generator",
+    "language": "de"
+  },
+  "генератор-модели-автомобиля-на-основе-ии": {
+    "keyword": "ai-car-model-generator",
+    "language": "ru"
+  },
+  "ki-auto-modellgenerator": {
+    "keyword": "ai-car-model-generator",
+    "language": "de"
+  },
+  "restorasi-wajah-ai": {
+    "keyword": "ai-face-restoration",
+    "language": "id"
+  },
+  "generator-fraktal-ai": {
+    "keyword": "ai-fractal-generator",
+    "language": "id"
+  },
+  "人工智能视差效果": {
+    "keyword": "ai-parallax-effect",
+    "language": "zh"
+  },
+  "передача-позы-с-помощью-ии": {
+    "keyword": "ai-pose-transfer",
+    "language": "ru"
+  },
+  "peningkatan-wajah-ai": {
+    "keyword": "ai-face-enhancement",
+    "language": "id"
+  },
+  "генератор-видео-моды-на-основе-ии": {
+    "keyword": "ai-fashion-video-generator",
+    "language": "ru"
+  },
+  "генератор-отражения-ии": {
+    "keyword": "ai-reflection-generator",
+    "language": "ru"
+  },
+  "brennende-untertitel": {
+    "keyword": "burning-subtitles",
+    "language": "de"
+  },
+  "étiquetage-automatique-par-ia": {
+    "keyword": "ai-auto-tagging",
+    "language": "fr"
+  },
+  "subtitle-terbakar": {
+    "keyword": "burning-subtitles",
+    "language": "id"
+  },
+  "generator-model-mobil-ai": {
+    "keyword": "ai-car-model-generator",
+    "language": "id"
+  },
+  "ki-spiegelgenerator": {
+    "keyword": "ai-reflection-generator",
+    "language": "de"
+  },
+  "ki-pose-übertragung": {
+    "keyword": "ai-pose-transfer",
+    "language": "de"
+  },
+  "인공지능-얼굴-개선": {
+    "keyword": "ai-face-enhancement",
+    "language": "ko"
+  },
+  "ki-mode-video-generator": {
+    "keyword": "ai-fashion-video-generator",
+    "language": "de"
+  },
+  "etiquetado-automático-por-ia": {
+    "keyword": "ai-auto-tagging",
+    "language": "es"
+  },
+  "эффект-параллакса-ии": {
+    "keyword": "ai-parallax-effect",
+    "language": "ru"
+  },
+  "인공지능-프랙탈-생성기": {
+    "keyword": "ai-fractal-generator",
+    "language": "ko"
+  },
+  "ai-얼굴-복원": {
+    "keyword": "ai-face-restoration",
+    "language": "ko"
+  },
+  "ai顔修復": {
+    "keyword": "ai-face-restoration",
+    "language": "jp"
+  },
+  "ai-dance-generation": {
+    "keyword": "ai-dance-generation",
+    "language": "en"
+  },
+  "marcação-automática-de-ia": {
+    "keyword": "ai-auto-tagging",
+    "language": "pt"
+  },
+  "generator-video-fashion-ai": {
+    "keyword": "ai-fashion-video-generator",
+    "language": "id"
+  },
+  "ai顔補正": {
+    "keyword": "ai-face-enhancement",
+    "language": "jp"
+  },
+  "generator-refleksi-ai": {
+    "keyword": "ai-reflection-generator",
+    "language": "id"
+  },
+  "ki-parallax-effekt": {
+    "keyword": "ai-parallax-effect",
+    "language": "de"
+  },
+  "번역-자막": {
+    "keyword": "burning-subtitles",
+    "language": "ko"
+  },
+  "transfer-pose-ai": {
+    "keyword": "ai-pose-transfer",
+    "language": "id"
+  },
+  "ai-deep-dream-generator": {
+    "keyword": "ai-deep-dream-generator",
+    "language": "en"
+  },
+  "ai-フラクタルジェネレーター": {
+    "keyword": "ai-fractal-generator",
+    "language": "jp"
+  },
+  "ai-reverse-video": {
+    "keyword": "ai-reverse-video",
+    "language": "en"
+  },
+  "ai-자동차-모델-생성기": {
+    "keyword": "ai-car-model-generator",
+    "language": "ko"
+  },
+  "ia-vidéo-inversée": {
+    "keyword": "ai-reverse-video",
+    "language": "fr"
+  },
+  "ai-반영-생성기": {
+    "keyword": "ai-reflection-generator",
+    "language": "ko"
+  },
+  "バーニング字幕": {
+    "keyword": "burning-subtitles",
+    "language": "jp"
+  },
+  "génération-de-danse-par-ia": {
+    "keyword": "ai-dance-generation",
+    "language": "fr"
+  },
+  "ai-車モデルジェネレーター": {
+    "keyword": "ai-car-model-generator",
+    "language": "jp"
+  },
+  "ai-포즈-전이": {
+    "keyword": "ai-pose-transfer",
+    "language": "ko"
+  },
+  "ai-background-changer-for-video": {
+    "keyword": "ai-background-changer-for-video",
+    "language": "en"
+  },
+  "ai-object-removal-from-video": {
+    "keyword": "ai-object-removal-from-video",
+    "language": "en"
+  },
+  "ai-自动标记": {
+    "keyword": "ai-auto-tagging",
+    "language": "zh"
+  },
+  "efek-parallax-ai": {
+    "keyword": "ai-parallax-effect",
+    "language": "id"
+  },
+  "인공지능-패션-비디오-생성기": {
+    "keyword": "ai-fashion-video-generator",
+    "language": "ko"
+  },
+  "générateur-de-rêves-profonds-en-ia": {
+    "keyword": "ai-deep-dream-generator",
+    "language": "fr"
+  },
+  "generación-de-danza-con-ia": {
+    "keyword": "ai-dance-generation",
+    "language": "es"
+  },
+  "changeur-de-fond-ai-pour-vidéo": {
+    "keyword": "ai-background-changer-for-video",
+    "language": "fr"
+  },
+  "ai反映生成器": {
+    "keyword": "ai-reflection-generator",
+    "language": "jp"
+  },
+  "ai-bokeh-generator": {
+    "keyword": "ai-bokeh-generator",
+    "language": "en"
+  },
+  "ai-패럴랙스-효과": {
+    "keyword": "ai-parallax-effect",
+    "language": "ko"
+  },
+  "aiポーズ転送": {
+    "keyword": "ai-pose-transfer",
+    "language": "jp"
+  },
+  "ai-автоматическая-маркировка": {
+    "keyword": "ai-auto-tagging",
+    "language": "ru"
+  },
+  "suppression-d'objet-par-ia-dans-une-vidéo": {
+    "keyword": "ai-object-removal-from-video",
+    "language": "fr"
+  },
+  "ai-lens-correction": {
+    "keyword": "ai-lens-correction",
+    "language": "en"
+  },
+  "video-inverso-de-ia": {
+    "keyword": "ai-reverse-video",
+    "language": "es"
+  },
+  "aiファッションビデオジェネレーター": {
+    "keyword": "ai-fashion-video-generator",
+    "language": "jp"
+  },
+  "generador-de-sueños-profundos-de-ia": {
+    "keyword": "ai-deep-dream-generator",
+    "language": "es"
+  },
+  "ai-perspective-correction": {
+    "keyword": "ai-perspective-correction",
+    "language": "en"
+  },
+  "ki-automatische-taggerstellung": {
+    "keyword": "ai-auto-tagging",
+    "language": "de"
+  },
+  "gerador-de-sonho-profundo-de-ia": {
+    "keyword": "ai-deep-dream-generator",
+    "language": "pt"
+  },
+  "correction-de-lentille-par-ia": {
+    "keyword": "ai-lens-correction",
+    "language": "fr"
+  },
+  "geração-de-dança-de-ia": {
+    "keyword": "ai-dance-generation",
+    "language": "pt"
+  },
+  "correction-de-perspective-par-l'ia": {
+    "keyword": "ai-perspective-correction",
+    "language": "fr"
+  },
+  "eliminación-de-objetos-con-inteligencia-artificial-de-video": {
+    "keyword": "ai-object-removal-from-video",
+    "language": "es"
+  },
+  "aiパララックス効果": {
+    "keyword": "ai-parallax-effect",
+    "language": "jp"
+  },
+  "générateur-de-bokeh-ia": {
+    "keyword": "ai-bokeh-generator",
+    "language": "fr"
+  },
+  "ai-silence-remover": {
+    "keyword": "ai-silence-remover",
+    "language": "en"
+  },
+  "cambiador-de-fondo-de-ia-para-videos": {
+    "keyword": "ai-background-changer-for-video",
+    "language": "es"
+  },
+  "tagging-otomatis-ai": {
+    "keyword": "ai-auto-tagging",
+    "language": "id"
+  },
+  "vídeo-reverso-de-ia": {
+    "keyword": "ai-reverse-video",
+    "language": "pt"
+  },
+  "ai-자동-태그-지정": {
+    "keyword": "ai-auto-tagging",
+    "language": "ko"
+  },
+  "generador-de-bokeh-de-ia": {
+    "keyword": "ai-bokeh-generator",
+    "language": "es"
+  },
+  "corrección-de-lente-con-inteligencia-artificial": {
+    "keyword": "ai-lens-correction",
+    "language": "es"
+  },
+  "rappel-de-silence-par-ia": {
+    "keyword": "ai-silence-remover",
+    "language": "fr"
+  },
+  "corrección-de-perspectiva-con-inteligencia-artificial": {
+    "keyword": "ai-perspective-correction",
+    "language": "es"
+  },
+  "ai反向视频": {
+    "keyword": "ai-reverse-video",
+    "language": "zh"
+  },
+  "人工智能深度梦境生成器": {
+    "keyword": "ai-deep-dream-generator",
+    "language": "zh"
+  },
+  "ai舞蹈生成": {
+    "keyword": "ai-dance-generation",
+    "language": "zh"
+  },
+  "ai自動タグ付け": {
+    "keyword": "ai-auto-tagging",
+    "language": "jp"
+  },
+  "mudador-de-fundo-de-ia-para-vídeo": {
+    "keyword": "ai-background-changer-for-video",
+    "language": "pt"
+  },
+  "remoção-de-objeto-com-ia-de-vídeo": {
+    "keyword": "ai-object-removal-from-video",
+    "language": "pt"
+  },
+  "ai-gesture-generation": {
+    "keyword": "ai-gesture-generation",
+    "language": "en"
+  },
+  "correção-de-perspectiva-com-ia": {
+    "keyword": "ai-perspective-correction",
+    "language": "pt"
+  },
+  "remover-de-silencio-de-ia": {
+    "keyword": "ai-silence-remover",
+    "language": "es"
+  },
+  "correção-de-lente-por-ia": {
+    "keyword": "ai-lens-correction",
+    "language": "pt"
+  },
+  "gerador-de-bokeh-de-ia": {
+    "keyword": "ai-bokeh-generator",
+    "language": "pt"
+  },
+  "remover-silêncio-de-ia": {
+    "keyword": "ai-silence-remover",
+    "language": "pt"
+  },
+  "人工智能透视校正": {
+    "keyword": "ai-perspective-correction",
+    "language": "zh"
+  },
+  "генератор-глубоких-снов-на-основе-ии": {
+    "keyword": "ai-deep-dream-generator",
+    "language": "ru"
+  },
+  "генерация-танцев-с-помощью-ии": {
+    "keyword": "ai-dance-generation",
+    "language": "ru"
+  },
+  "视频中的人工智能物体移除": {
+    "keyword": "ai-object-removal-from-video",
+    "language": "zh"
+  },
+  "génération-de-gestes-par-l'ia": {
+    "keyword": "ai-gesture-generation",
+    "language": "fr"
+  },
+  "ai-镜头校正": {
+    "keyword": "ai-lens-correction",
+    "language": "zh"
+  },
+  "ai-реверсивное-видео": {
+    "keyword": "ai-reverse-video",
+    "language": "ru"
+  },
+  "视频背景更换ai": {
+    "keyword": "ai-background-changer-for-video",
+    "language": "zh"
+  },
+  "ai-景深生成器": {
+    "keyword": "ai-bokeh-generator",
+    "language": "zh"
+  },
+  "ki-rückwärtsvideo": {
+    "keyword": "ai-reverse-video",
+    "language": "de"
+  },
+  "исправление-линз-ии": {
+    "keyword": "ai-lens-correction",
+    "language": "ru"
+  },
+  "коррекция-перспективы-с-помощью-ии": {
+    "keyword": "ai-perspective-correction",
+    "language": "ru"
+  },
+  "ki-tanzgenerierung": {
+    "keyword": "ai-dance-generation",
+    "language": "de"
+  },
+  "ai-消音器": {
+    "keyword": "ai-silence-remover",
+    "language": "zh"
+  },
+  "изменитель-фона-ии-для-видео": {
+    "keyword": "ai-background-changer-for-video",
+    "language": "ru"
+  },
+  "удаление-объектов-с-видео-с-помощью-ии": {
+    "keyword": "ai-object-removal-from-video",
+    "language": "ru"
+  },
+  "ai-tiefe-traumgenerator": {
+    "keyword": "ai-deep-dream-generator",
+    "language": "de"
+  },
+  "generación-de-gestos-de-ia": {
+    "keyword": "ai-gesture-generation",
+    "language": "es"
+  },
+  "генератор-ai-боке": {
+    "keyword": "ai-bokeh-generator",
+    "language": "ru"
+  },
+  "video-balik-ai": {
+    "keyword": "ai-reverse-video",
+    "language": "id"
+  },
+  "ki-hintergrundwechsel-für-video": {
+    "keyword": "ai-background-changer-for-video",
+    "language": "de"
+  },
+  "geração-de-gestos-de-ia": {
+    "keyword": "ai-gesture-generation",
+    "language": "pt"
+  },
+  "ki-bokeh-generator": {
+    "keyword": "ai-bokeh-generator",
+    "language": "de"
+  },
+  "ki-objektivkorrektur": {
+    "keyword": "ai-lens-correction",
+    "language": "de"
+  },
+  "generasi-tari-ai": {
+    "keyword": "ai-dance-generation",
+    "language": "id"
+  },
+  "generator-mimpi-dalam-yang-dalam-ai": {
+    "keyword": "ai-deep-dream-generator",
+    "language": "id"
+  },
+  "ki-perspektivkorrektur": {
+    "keyword": "ai-perspective-correction",
+    "language": "de"
+  },
+  "ki-objektentfernung-aus-video": {
+    "keyword": "ai-object-removal-from-video",
+    "language": "de"
+  },
+  "удаление-шума-с-помощью-ии": {
+    "keyword": "ai-silence-remover",
+    "language": "ru"
+  },
+  "ai-역재생-비디오": {
+    "keyword": "ai-reverse-video",
+    "language": "ko"
+  },
+  "ai-댄스-생성": {
+    "keyword": "ai-dance-generation",
+    "language": "ko"
+  },
+  "人工智能手势生成": {
+    "keyword": "ai-gesture-generation",
+    "language": "zh"
+  },
+  "인공지능-딥-드림-생성기": {
+    "keyword": "ai-deep-dream-generator",
+    "language": "ko"
+  },
+  "generator-bokeh-ai": {
+    "keyword": "ai-bokeh-generator",
+    "language": "id"
+  },
+  "ki-stille-entferner": {
+    "keyword": "ai-silence-remover",
+    "language": "de"
+  },
+  "aiリバースビデオ": {
+    "keyword": "ai-reverse-video",
+    "language": "jp"
+  },
+  "koreksi-lensa-ai": {
+    "keyword": "ai-lens-correction",
+    "language": "id"
+  },
+  "koreksi-perspektif-ai": {
+    "keyword": "ai-perspective-correction",
+    "language": "id"
+  },
+  "ai-eye-enhancement": {
+    "keyword": "ai-eye-enhancement",
+    "language": "en"
+  },
+  "pengubah-latar-belakang-ai-untuk-video": {
+    "keyword": "ai-background-changer-for-video",
+    "language": "id"
+  },
+  "penghapusan-objek-ai-dari-video": {
+    "keyword": "ai-object-removal-from-video",
+    "language": "id"
+  },
+  "aiダンス生成": {
+    "keyword": "ai-dance-generation",
+    "language": "jp"
+  },
+  "ai-expression-transfer": {
+    "keyword": "ai-expression-transfer",
+    "language": "en"
+  },
+  "генерация-жестов-с-помощью-ии": {
+    "keyword": "ai-gesture-generation",
+    "language": "ru"
+  },
+  "ai-시점-보정": {
+    "keyword": "ai-perspective-correction",
+    "language": "ko"
+  },
+  "비디오에서-ai-객체-제거": {
+    "keyword": "ai-object-removal-from-video",
+    "language": "ko"
+  },
+  "ai-렌즈-보정": {
+    "keyword": "ai-lens-correction",
+    "language": "ko"
+  },
+  "ai-보케-생성기": {
+    "keyword": "ai-bokeh-generator",
+    "language": "ko"
+  },
+  "aiディープドリームジェネレーター": {
+    "keyword": "ai-deep-dream-generator",
+    "language": "jp"
+  },
+  "amélioration-de-l'œil-par-l'ia": {
+    "keyword": "ai-eye-enhancement",
+    "language": "fr"
+  },
+  "alat-penghilang-diam-ai": {
+    "keyword": "ai-silence-remover",
+    "language": "id"
+  },
+  "ai-body-reshaping": {
+    "keyword": "ai-body-reshaping",
+    "language": "en"
+  },
+  "비디오용-ai-배경-변경기": {
+    "keyword": "ai-background-changer-for-video",
+    "language": "ko"
+  },
+  "remodelage-corporel-par-ia": {
+    "keyword": "ai-body-reshaping",
+    "language": "fr"
+  },
+  "transfert-d'expression-ia": {
+    "keyword": "ai-expression-transfer",
+    "language": "fr"
+  },
+  "ki-gestenerzeugung": {
+    "keyword": "ai-gesture-generation",
+    "language": "de"
+  },
+  "ai視点補正": {
+    "keyword": "ai-perspective-correction",
+    "language": "jp"
+  },
+  "aiレンズ補正": {
+    "keyword": "ai-lens-correction",
+    "language": "jp"
+  },
+  "ai-침묵-제거기": {
+    "keyword": "ai-silence-remover",
+    "language": "ko"
+  },
+  "ai-hdr-effect": {
+    "keyword": "ai-hdr-effect",
+    "language": "en"
+  },
+  "ai-night-mode-enhancement": {
+    "keyword": "ai-night-mode-enhancement",
+    "language": "en"
+  },
+  "mejora-de-ojos-con-ia": {
+    "keyword": "ai-eye-enhancement",
+    "language": "es"
+  },
+  "動画からのaiオブジェクト削除": {
+    "keyword": "ai-object-removal-from-video",
+    "language": "jp"
+  },
+  "ビデオ用ai背景チェンジャー": {
+    "keyword": "ai-background-changer-for-video",
+    "language": "jp"
+  },
+  "ai-frame-rate-conversion": {
+    "keyword": "ai-frame-rate-conversion",
+    "language": "en"
+  },
+  "ai-slow-zoom-effect": {
+    "keyword": "ai-slow-zoom-effect",
+    "language": "en"
+  },
+  "aiボケ生成器": {
+    "keyword": "ai-bokeh-generator",
+    "language": "jp"
+  },
+  "ai-ken-burns-effect": {
+    "keyword": "ai-ken-burns-effect",
+    "language": "en"
+  },
+  "generasi-gerakan-ai": {
+    "keyword": "ai-gesture-generation",
+    "language": "id"
+  },
+  "aiサイレンスリムーバー": {
+    "keyword": "ai-silence-remover",
+    "language": "jp"
+  },
+  "transferencia-de-expresión-de-ia": {
+    "keyword": "ai-expression-transfer",
+    "language": "es"
+  },
+  "aprimoramento-ocular-por-ia": {
+    "keyword": "ai-eye-enhancement",
+    "language": "pt"
+  },
+  "ai-boomerang-effect": {
+    "keyword": "ai-boomerang-effect",
+    "language": "en"
+  },
+  "amélioration-du-mode-nuit-ai": {
+    "keyword": "ai-night-mode-enhancement",
+    "language": "fr"
+  },
+  "reconstrucción-corporal-con-ia": {
+    "keyword": "ai-body-reshaping",
+    "language": "es"
+  },
+  "conversion-de-la-fréquence-d'images-par-ia": {
+    "keyword": "ai-frame-rate-conversion",
+    "language": "fr"
+  },
+  "effet-de-zoom-lent-d'ia": {
+    "keyword": "ai-slow-zoom-effect",
+    "language": "fr"
+  },
+  "effet-hdr-ia": {
+    "keyword": "ai-hdr-effect",
+    "language": "fr"
+  },
+  "effet-ken-burns-ia": {
+    "keyword": "ai-ken-burns-effect",
+    "language": "fr"
+  },
+  "transferência-de-expressão-de-ia": {
+    "keyword": "ai-expression-transfer",
+    "language": "pt"
+  },
+  "ai-제스처-생성": {
+    "keyword": "ai-gesture-generation",
+    "language": "ko"
+  },
+  "reformulação-de-corpo-com-ia": {
+    "keyword": "ai-body-reshaping",
+    "language": "pt"
+  },
+  "efecto-ken-burns-de-ia": {
+    "keyword": "ai-ken-burns-effect",
+    "language": "es"
+  },
+  "人工智能眼部增强": {
+    "keyword": "ai-eye-enhancement",
+    "language": "zh"
+  },
+  "efecto-de-zoom-lento-de-ia": {
+    "keyword": "ai-slow-zoom-effect",
+    "language": "es"
+  },
+  "efecto-hdr-de-ia": {
+    "keyword": "ai-hdr-effect",
+    "language": "es"
+  },
+  "conversión-de-la-tasa-de-fotogramas-por-inteligencia-artificial": {
+    "keyword": "ai-frame-rate-conversion",
+    "language": "es"
+  },
+  "effet-boomerang-de-l'ia": {
+    "keyword": "ai-boomerang-effect",
+    "language": "fr"
+  },
+  "mejora-del-modo-nocturno-de-ia": {
+    "keyword": "ai-night-mode-enhancement",
+    "language": "es"
+  },
+  "ai表达转移": {
+    "keyword": "ai-expression-transfer",
+    "language": "zh"
+  },
+  "улучшение-зрения-с-помощью-ии": {
+    "keyword": "ai-eye-enhancement",
+    "language": "ru"
+  },
+  "人工智能身体重塑": {
+    "keyword": "ai-body-reshaping",
+    "language": "zh"
+  },
+  "efeito-ken-burns-com-ia": {
+    "keyword": "ai-ken-burns-effect",
+    "language": "pt"
+  },
+  "aiジェスチャー生成": {
+    "keyword": "ai-gesture-generation",
+    "language": "jp"
+  },
+  "ai-visual-question-answering": {
+    "keyword": "ai-visual-question-answering",
+    "language": "en"
+  },
+  "aperfeiçoamento-do-modo-noturno-de-ia": {
+    "keyword": "ai-night-mode-enhancement",
+    "language": "pt"
+  },
+  "efeito-de-zoom-lento-de-ia": {
+    "keyword": "ai-slow-zoom-effect",
+    "language": "pt"
+  },
+  "conversão-de-taxa-de-quadros-com-ia": {
+    "keyword": "ai-frame-rate-conversion",
+    "language": "pt"
+  },
+  "передача-выражений-искусственного-интеллекта": {
+    "keyword": "ai-expression-transfer",
+    "language": "ru"
+  },
+  "efecto-boomerang-de-ia": {
+    "keyword": "ai-boomerang-effect",
+    "language": "es"
+  },
+  "réponse-visuelle-à-des-questions-par-ia": {
+    "keyword": "ai-visual-question-answering",
+    "language": "fr"
+  },
+  "ki-ausdrucksübertragung": {
+    "keyword": "ai-expression-transfer",
+    "language": "de"
+  },
+  "искусственный-интеллект-для-изменения-формы-тела": {
+    "keyword": "ai-body-reshaping",
+    "language": "ru"
+  },
+  "ai-慢速缩放效果": {
+    "keyword": "ai-slow-zoom-effect",
+    "language": "zh"
+  },
+  "efeito-bumerangue-de-ia": {
+    "keyword": "ai-boomerang-effect",
+    "language": "pt"
+  },
+  "ai夜间模式增强": {
+    "keyword": "ai-night-mode-enhancement",
+    "language": "zh"
+  },
+  "人工智能肯伯恩斯效果": {
+    "keyword": "ai-ken-burns-effect",
+    "language": "zh"
+  },
+  "人工智能帧率转换": {
+    "keyword": "ai-frame-rate-conversion",
+    "language": "zh"
+  },
+  "efeito-hdr-de-ia": {
+    "keyword": "ai-hdr-effect",
+    "language": "pt"
+  },
+  "ki-augenverbesserung": {
+    "keyword": "ai-eye-enhancement",
+    "language": "de"
+  },
+  "transfer-ekspresi-ai": {
+    "keyword": "ai-expression-transfer",
+    "language": "id"
+  },
+  "ki-körperformung": {
+    "keyword": "ai-body-reshaping",
+    "language": "de"
+  },
+  "respuesta-a-preguntas-visuales-con-ia": {
+    "keyword": "ai-visual-question-answering",
+    "language": "es"
+  },
+  "人工智能hdr效果": {
+    "keyword": "ai-hdr-effect",
+    "language": "zh"
+  },
+  "эффект-медленного-зума-ии": {
+    "keyword": "ai-slow-zoom-effect",
+    "language": "ru"
+  },
+  "peningkatan-penglihatan-kecerdasan-buatan": {
+    "keyword": "ai-eye-enhancement",
+    "language": "id"
+  },
+  "улучшение-ночного-режима-ии": {
+    "keyword": "ai-night-mode-enhancement",
+    "language": "ru"
+  },
+  "эффект-кена-бернса-с-использованием-ии": {
+    "keyword": "ai-ken-burns-effect",
+    "language": "ru"
+  },
+  "ai-표현-전이": {
+    "keyword": "ai-expression-transfer",
+    "language": "ko"
+  },
+  "конвертация-частоты-кадров-на-основе-ии": {
+    "keyword": "ai-frame-rate-conversion",
+    "language": "ru"
+  },
+  "ai-시각-개선": {
+    "keyword": "ai-eye-enhancement",
+    "language": "ko"
+  },
+  "эффект-ии-hdr": {
+    "keyword": "ai-hdr-effect",
+    "language": "ru"
+  },
+  "penataan-tubuh-ai": {
+    "keyword": "ai-body-reshaping",
+    "language": "id"
+  },
+  "ki-nachmodus-verstärkung": {
+    "keyword": "ai-night-mode-enhancement",
+    "language": "de"
+  },
+  "ai表現転送": {
+    "keyword": "ai-expression-transfer",
+    "language": "jp"
+  },
+  "ai-video-anomaly-detection": {
+    "keyword": "ai-video-anomaly-detection",
+    "language": "en"
+  },
+  "ki-bildwiederholfrequenzumwandlung": {
+    "keyword": "ai-frame-rate-conversion",
+    "language": "de"
+  },
+  "perguntas-visuais-com-inteligência-artificial": {
+    "keyword": "ai-visual-question-answering",
+    "language": "pt"
+  },
+  "aiアイ強化": {
+    "keyword": "ai-eye-enhancement",
+    "language": "jp"
+  },
+  "ai-video-chapter-generator": {
+    "keyword": "ai-video-chapter-generator",
+    "language": "en"
+  },
+  "ki-hdr-effekt": {
+    "keyword": "ai-hdr-effect",
+    "language": "de"
+  },
+  "人工智能视觉问答": {
+    "keyword": "ai-visual-question-answering",
+    "language": "zh"
+  },
+  "détection-d'anomalies-vidéo-par-ia": {
+    "keyword": "ai-video-anomaly-detection",
+    "language": "fr"
+  },
+  "konversi-laju-bingkai-ai": {
+    "keyword": "ai-frame-rate-conversion",
+    "language": "id"
+  },
+  "ai-바디-리쉐이핑": {
+    "keyword": "ai-body-reshaping",
+    "language": "ko"
+  },
+  "ki-ken-burns-effekt": {
+    "keyword": "ai-ken-burns-effect",
+    "language": "de"
+  },
+  "enhancement-mode-malam-ai": {
+    "keyword": "ai-night-mode-enhancement",
+    "language": "id"
+  },
+  "ki-langsamer-zoom-effekt": {
+    "keyword": "ai-slow-zoom-effect",
+    "language": "de"
+  },
+  "générateur-de-chapitres-vidéo-ia": {
+    "keyword": "ai-video-chapter-generator",
+    "language": "fr"
+  },
+  "efek-hdr-ai": {
+    "keyword": "ai-hdr-effect",
+    "language": "id"
+  },
+  "аи-визуальный-вопросный-ответ": {
+    "keyword": "ai-visual-question-answering",
+    "language": "ru"
+  },
+  "detección-de-anomalías-en-video-con-inteligencia-artificial": {
+    "keyword": "ai-video-anomaly-detection",
+    "language": "es"
+  },
+  "efek-ken-burns-ai": {
+    "keyword": "ai-ken-burns-effect",
+    "language": "id"
+  },
+  "aiボディリシェイピング": {
+    "keyword": "ai-body-reshaping",
+    "language": "jp"
+  },
+  "ai-highlight-detector": {
+    "keyword": "ai-highlight-detector",
+    "language": "en"
+  },
+  "ai-야간-모드-향상": {
+    "keyword": "ai-night-mode-enhancement",
+    "language": "ko"
+  },
+  "ai-프레임-레이트-변환": {
+    "keyword": "ai-frame-rate-conversion",
+    "language": "ko"
+  },
+  "efek-zoom-lambat-ai": {
+    "keyword": "ai-slow-zoom-effect",
+    "language": "id"
+  },
+  "ai-켄-번스-효과": {
+    "keyword": "ai-ken-burns-effect",
+    "language": "ko"
+  },
+  "ki-gestützte-visuelle-fragenbeantwortung": {
+    "keyword": "ai-visual-question-answering",
+    "language": "de"
+  },
+  "generador-de-capítulos-de-video-con-ia": {
+    "keyword": "ai-video-chapter-generator",
+    "language": "es"
+  },
+  "detecção-de-anomalias-em-vídeo-com-ia": {
+    "keyword": "ai-video-anomaly-detection",
+    "language": "pt"
+  },
+  "ai-hdr-효과": {
+    "keyword": "ai-hdr-effect",
+    "language": "ko"
+  },
+  "aiナイトモード強化": {
+    "keyword": "ai-night-mode-enhancement",
+    "language": "jp"
+  },
+  "ai-filler-word-remover": {
+    "keyword": "ai-filler-word-remover",
+    "language": "en"
+  },
+  "détecteur-de-surlignement-d'ia": {
+    "keyword": "ai-highlight-detector",
+    "language": "fr"
+  },
+  "ai-느린-줌-효과": {
+    "keyword": "ai-slow-zoom-effect",
+    "language": "ko"
+  },
+  "ai视频异常检测": {
+    "keyword": "ai-video-anomaly-detection",
+    "language": "zh"
+  },
+  "gerador-de-capítulos-de-vídeo-com-ia": {
+    "keyword": "ai-video-chapter-generator",
+    "language": "pt"
+  },
+  "supprimer-les-mots-vides-de-l'ia": {
+    "keyword": "ai-filler-word-remover",
+    "language": "fr"
+  },
+  "aiフレームレート変換": {
+    "keyword": "ai-frame-rate-conversion",
+    "language": "jp"
+  },
+  "ai-voice-cloning-for-video": {
+    "keyword": "ai-voice-cloning-for-video",
+    "language": "en"
+  },
+  "ai-hdr効果": {
+    "keyword": "ai-hdr-effect",
+    "language": "jp"
+  },
+  "ai-ケンバーンズ効果": {
+    "keyword": "ai-ken-burns-effect",
+    "language": "jp"
+  },
+  "detector-de-resaltado-de-ia": {
+    "keyword": "ai-highlight-detector",
+    "language": "es"
+  },
+  "pemahaman-pertanyaan-visual-ai": {
+    "keyword": "ai-visual-question-answering",
+    "language": "id"
+  },
+  "人工智能回旋镖效应": {
+    "keyword": "ai-boomerang-effect",
+    "language": "zh"
+  },
+  "detector-de-destaque-de-ia": {
+    "keyword": "ai-highlight-detector",
+    "language": "pt"
+  },
+  "ai-スローズーム効果": {
+    "keyword": "ai-slow-zoom-effect",
+    "language": "jp"
+  },
+  "ai-시각-질문-응답": {
+    "keyword": "ai-visual-question-answering",
+    "language": "ko"
+  },
+  "ai视频章节生成器": {
+    "keyword": "ai-video-chapter-generator",
+    "language": "zh"
+  },
+  "clonage-vocal-ia-pour-vidéo": {
+    "keyword": "ai-voice-cloning-for-video",
+    "language": "fr"
+  },
+  "обнаружение-аномалий-в-видео-с-использованием-ии": {
+    "keyword": "ai-video-anomaly-detection",
+    "language": "ru"
+  },
+  "эффект-бумеранга-ии": {
+    "keyword": "ai-boomerang-effect",
+    "language": "ru"
+  },
+  "eliminador-de-palabras-de-relleno-de-ia": {
+    "keyword": "ai-filler-word-remover",
+    "language": "es"
+  },
+  "ai高亮检测器": {
+    "keyword": "ai-highlight-detector",
+    "language": "zh"
+  },
+  "clonación-de-voz-de-ia-para-video": {
+    "keyword": "ai-voice-cloning-for-video",
+    "language": "es"
+  },
+  "ki-videoanomalieerkennung": {
+    "keyword": "ai-video-anomaly-detection",
+    "language": "de"
+  },
+  "aiビジュアル質問応答": {
+    "keyword": "ai-visual-question-answering",
+    "language": "jp"
+  },
+  "генератор-глав-видео-на-основе-ии": {
+    "keyword": "ai-video-chapter-generator",
+    "language": "ru"
+  },
+  "remover-de-palavras-filler-de-ia": {
+    "keyword": "ai-filler-word-remover",
+    "language": "pt"
+  },
+  "ki-boomerang-effekt": {
+    "keyword": "ai-boomerang-effect",
+    "language": "de"
+  },
+  "детектор-акцентов-ии": {
+    "keyword": "ai-highlight-detector",
+    "language": "ru"
+  },
+  "ki-hervorhebungsdetektor": {
+    "keyword": "ai-highlight-detector",
+    "language": "de"
+  },
+  "ki-video-kapitelgenerator": {
+    "keyword": "ai-video-chapter-generator",
+    "language": "de"
+  },
+  "deteksi-anomali-video-ai": {
+    "keyword": "ai-video-anomaly-detection",
+    "language": "id"
+  },
+  "人工智能填充词去除器": {
+    "keyword": "ai-filler-word-remover",
+    "language": "zh"
+  },
+  "clonagem-de-voz-por-ia-para-vídeo": {
+    "keyword": "ai-voice-cloning-for-video",
+    "language": "pt"
+  },
+  "efek-boomerang-ai": {
+    "keyword": "ai-boomerang-effect",
+    "language": "id"
+  },
+  "视频的ai语音克隆": {
+    "keyword": "ai-voice-cloning-for-video",
+    "language": "zh"
+  },
+  "ai-영상-이상-탐지": {
+    "keyword": "ai-video-anomaly-detection",
+    "language": "ko"
+  },
+  "detector-sorotan-kecerdasan-buatan": {
+    "keyword": "ai-highlight-detector",
+    "language": "id"
+  },
+  "удалитель-слов-заполнителей-ии": {
+    "keyword": "ai-filler-word-remover",
+    "language": "ru"
+  },
+  "ai-부메랑-효과": {
+    "keyword": "ai-boomerang-effect",
+    "language": "ko"
+  },
+  "ki-füllwortentferner": {
+    "keyword": "ai-filler-word-remover",
+    "language": "de"
+  },
+  "ai-하이라이트-감지기": {
+    "keyword": "ai-highlight-detector",
+    "language": "ko"
+  },
+  "клонирование-голоса-с-помощью-ии-для-видео": {
+    "keyword": "ai-voice-cloning-for-video",
+    "language": "ru"
+  },
+  "aiビデオ異常検出": {
+    "keyword": "ai-video-anomaly-detection",
+    "language": "jp"
+  },
+  "ai-ブーメラン効果": {
+    "keyword": "ai-boomerang-effect",
+    "language": "jp"
+  },
+  "penghilang-kata-pengisi-ai": {
+    "keyword": "ai-filler-word-remover",
+    "language": "id"
+  },
+  "ai-ハイライト検出器": {
+    "keyword": "ai-highlight-detector",
+    "language": "jp"
+  },
+  "ki-spracherkennung-für-video": {
+    "keyword": "ai-voice-cloning-for-video",
+    "language": "de"
+  },
+  "kloning-suara-ai-untuk-video": {
+    "keyword": "ai-voice-cloning-for-video",
+    "language": "id"
+  },
+  "ai-필러-단어-제거기": {
+    "keyword": "ai-filler-word-remover",
+    "language": "ko"
+  },
+  "비디오를-위한-ai-음성-복제": {
+    "keyword": "ai-voice-cloning-for-video",
+    "language": "ko"
+  },
+  "aiフィラー単語削除ツール": {
+    "keyword": "ai-filler-word-remover",
+    "language": "jp"
+  },
+  "動画用のai音声クローン": {
+    "keyword": "ai-voice-cloning-for-video",
+    "language": "jp"
+  },
+  "generator-bab-video-ai": {
+    "keyword": "ai-video-chapter-generator",
+    "language": "id"
+  },
+  "ai-영상-챕터-생성기": {
+    "keyword": "ai-video-chapter-generator",
+    "language": "ko"
+  },
+  "ai動画章生成器": {
+    "keyword": "ai-video-chapter-generator",
+    "language": "jp"
+  }
+}

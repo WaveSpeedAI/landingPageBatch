@@ -1,0 +1,230 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Aprimoramento de Imagens com IA",
+  "meta": {
+    "description": "Melhore suas imagens com aprimoramento impulsionado por IA para clareza e detalhes impressionantes. Ideal para e-commerce, redes sociais e qualquer conteúdo visual. Experimente a qualidade de imagem de próximo nível instantaneamente!",
+    "keywords": "aprimoramento de imagem com IA, melhoria de fotos, clareza de imagem, imagens de e-commerce, ferramentas de foto com IA, imagens de alta resolução, conteúdo visual para redes sociais, otimização de fotos, WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de IA",
+        "items": [
+          [
+            "Ferramentas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Mostruário",
+        "items": [
+          [
+            "Mostruário",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Aprimoramento de Imagens",
+    "subHeading": "Dê Vida às Suas Imagens",
+    "description": "Transforme imagens borradas e de baixa qualidade em visuais deslumbrantes com o avançado aprimoramento de IA. Experimente clareza e detalhes aprimorados sem esforço. Perfeito para e-commerce, marketing e projetos pessoais.",
+    "tryText": "Aprimore Sua Imagem Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução de Aprimoramento de Imagens com IA da WaveSpeed AI",
+    "left": {
+      "heading": "Desafios Tradicionais de Edição de Imagens",
+      "items": [
+        "Ferramentas de aprimoramento manuais são complexas e consomem muito tempo",
+        "Perda de qualidade durante a ampliação e ajustes",
+        "Requer conhecimento de softwares de edição de fotos",
+        "Não é adequado para processamento em massa de imagens",
+        "Resultados limitados sem habilidades profissionais"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeed AI",
+      "items": [
+        "Aprimore instantaneamente várias imagens com um clique",
+        "Aprimoramento conduzido por IA que preserva detalhes",
+        "Interface amigável sem necessidade de habilidades anteriores",
+        "Processamento em lote para um fluxo de trabalho contínuo",
+        "Serviço de aprimoramento econômico, pague por imagem"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "Obtenha imagens cristalinas em 4 passos simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Faça Upload da Imagem",
+        "text": "Selecione a imagem que deseja aprimorar",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Ajuste as Configurações",
+        "text": "Ajuste o nível de aprimoramento de acordo com sua preferência",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Visualize as Alterações",
+        "text": "Veja as alterações em tempo real na clareza da sua imagem",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Baixe a Imagem Aprimorada",
+        "text": "Obtenha sua imagem lindamente aprimorada instantaneamente",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Aprimore Sua Primeira Imagem →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilidades Sem Fim",
+    "description": "Aprimore imagens para qualquer aplicação",
+    "items": [
+      "Imagens de produtos para Shopify e Amazon",
+      "Postagens em redes sociais para Instagram e Facebook",
+      "Materiais de marketing e anúncios",
+      "Listagens de imóveis",
+      "Fotografia de alimentos para cardápios",
+      "Projetos pessoais de fotografia",
+      "Fotos de eventos e casamentos",
+      "Impressões artísticas e portfólios online"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias Reais de Sucesso",
+    "description": "Descubra como os usuários estão elevando suas imagens com IA",
+    "items": [
+      {
+        "tag": "Fotografia de E-commerce",
+        "heading": "Listagem de Produtos da Amazon",
+        "before": {
+          "label": "Antes",
+          "text": "Imagens Borradas"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Cristalinas"
+        },
+        "value": "98.7%",
+        "key": "Melhoria na Qualidade da Imagem",
+        "description": "A qualidade da imagem aprimorada aumentou nossa taxa de conversão em 35% em uma semana."
+      },
+      {
+        "tag": "Marketing em Redes Sociais",
+        "heading": "Criador de Conteúdo do Instagram",
+        "before": {
+          "label": "Antes",
+          "text": "Fotos Não Claras"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Visuais Impressionantes"
+        },
+        "value": "97.5%",
+        "key": "Aumento na Taxa de Engajamento",
+        "description": "Imagens de alta qualidade aumentaram dramaticamente nossos seguidores e curtidas."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Modelos de Aprimoramento com IA",
+    "description": "Selecione o modelo de aprimoramento certo para suas necessidades",
+    "items": [
+      "Aprimoramento Padrão: Melhora detalhes enquanto mantém a aparência natural",
+      "Aprimoramento Avançado: Maximiza clareza e contraste para imagens impressionantes",
+      "Processamento em Lote: Aprimora várias imagens simultaneamente",
+      "Controle de Qualidade Adaptativo: Ajusta aprimoramento com base no conteúdo da imagem",
+      "Visualização em Tempo Real: Veja instantaneamente as alterações antes de salvar",
+      "Suporte a PNG e JPG para toda saída"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Descubra mais ferramentas de IA poderosas para aprimoramento de imagens"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo o que você precisa saber",
+    "items": [
+      {
+        "question": "Quais tipos de imagens podem ser aprimoradas?",
+        "answer": "Você pode aprimorar formatos JPG, PNG e WebP. As imagens devem ser claras e de boa qualidade para os melhores resultados."
+      },
+      {
+        "question": "Posso ajustar o nível de aprimoramento?",
+        "answer": "Sim! Você pode personalizar a intensidade do aprimoramento para corresponder ao resultado desejado e ao tipo de imagem."
+      },
+      {
+        "question": "Quanto tempo leva para aprimorar uma imagem?",
+        "answer": "A maioria das imagens é aprimorada em segundos, tornando rápido e eficiente para qualquer projeto."
+      },
+      {
+        "question": "Há um limite para quantas imagens posso aprimorar de uma vez?",
+        "answer": "Não há limites! Você pode aprimorar quantas imagens quiser ao mesmo tempo com nossa função de processamento em lote."
+      },
+      {
+        "question": "Preciso de algum software especial para usar esta ferramenta?",
+        "answer": "Nenhum software especial é necessário. Basta enviar suas imagens em nossa plataforma e começar a aprimorar."
+      },
+      {
+        "question": "Há taxas adicionais para aprimorar imagens?",
+        "answer": "Operamos em um modelo de pagamento por imagem, sem taxas ocultas, tornando flexível para o seu orçamento."
+      },
+      {
+        "question": "Posso cancelar minha assinatura a qualquer momento?",
+        "answer": "Sim! Não há assinaturas. Você paga apenas pelas imagens que escolher aprimorar."
+      },
+      {
+        "question": "E se eu não gostar dos resultados?",
+        "answer": "Se você não estiver satisfeito, pode ajustar as configurações e aprimorar novamente sem custo adicional."
+      },
+      {
+        "question": "Há suporte se eu encontrar problemas?",
+        "answer": "Sim! Nossa equipe de suporte ao cliente está disponível por e-mail e chat ao vivo para qualquer dúvida ou resolução de problemas."
+      },
+      {
+        "question": "Posso usar imagens aprimoradas comercialmente?",
+        "answer": "Absolutamente! Você detém os direitos de todas as imagens aprimoradas com nossa ferramenta."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Aprimorar Suas Imagens?",
+    "description": "Comece a melhorar seus visuais hoje!",
+    "contactUsText": "Fale Conosco",
+    "tryText": "Aprimore Sua Imagem Agora →"
+  },
+  "footer": {
+    "heading": "Pronto para Melhorar Suas Imagens?",
+    "description": "Experimente o WaveSpeed AI agora e experimente a transformação. Não é necessário cadastro.",
+    "ctaText": "Comece a Aprimorar Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

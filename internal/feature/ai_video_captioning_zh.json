@@ -1,0 +1,226 @@
+{
+  "language": "zh",
+  "title": "WaveSpeed AI - AI视频字幕生成",
+  "meta": {
+    "description": "通过自动生成的AI字幕提升您的视频。轻松提高观众参与度和可达性。非常适合在线内容创作者和营销人员。探索WaveSpeed如何简化字幕生成！",
+    "keywords": "AI视频字幕生成, 自动字幕, 视频可达性, 内容参与, WaveSpeed AI, 视频营销工具, 字幕生成, 字幕创作者, 社交媒体视频字幕, YouTube字幕, TikTok字幕, 直播视频字幕"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "首页",
+        "items": [
+          [
+            "首页",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "AI工具",
+        "items": [
+          [
+            "AI工具",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "展示",
+        "items": [
+          [
+            "展示",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "立即试用"
+  },
+  "hero": {
+    "heading": "AI视频字幕生成",
+    "subHeading": "无缝为您的视频添加字幕",
+    "description": "通过自动生成的字幕提升观众体验，增加参与度和可达性。只需上传您的视频，让我们的AI来处理其余工作！",
+    "tryText": "立即开始",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI视频字幕生成方案",
+    "left": {
+      "heading": "传统字幕生成挑战",
+      "items": [
+        "手动制作字幕耗时",
+        "需要写作技巧和精确度",
+        "编辑字幕劳动强度大",
+        "对多种语言的支持有限",
+        "给听障观众带来可达性障碍"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI解决方案",
+      "items": [
+        "几分钟内即时生成字幕",
+        "自动支持多种语言",
+        "无需写作技能 - 只需上传视频",
+        "可编辑的字幕确保准确性和清晰度",
+        "按需定价的实惠解决方案"
+      ],
+      "tryText": "试用"
+    }
+  },
+  "howItWorks": {
+    "heading": "工作原理",
+    "description": "在4个简单步骤中为您的视频添加字幕",
+    "steps": [
+      {
+        "number": "1",
+        "title": "上传视频",
+        "text": "将您的视频文件上传到我们的平台",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "选择语言",
+        "text": "选择您字幕的语言",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "生成字幕",
+        "text": "让我们的AI自动创建准确的字幕",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "编辑并下载",
+        "text": "审查并编辑字幕，然后下载您的视频",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "生成您的字幕 →"
+  },
+  "endlessPossibilities": {
+    "heading": "无尽的可能性",
+    "description": "适合任何视频内容",
+    "items": [
+      "YouTube视频和博客",
+      "Instagram、TikTok社交媒体短片",
+      "网络研讨会和在线课程",
+      "营销和促销视频",
+      "活动录制和直播",
+      "企业培训视频",
+      "视频播客",
+      "访谈和讨论"
+    ]
+  },
+  "successStories": {
+    "heading": "真实成功案例",
+    "description": "看看创作者如何利用AI提升他们的内容",
+    "items": [
+      {
+        "tag": "教育内容",
+        "heading": "在线课程提供商",
+        "before": {
+          "label": "之前",
+          "text": "手动字幕"
+        },
+        "after": {
+          "label": "之后",
+          "text": "自动生成的字幕"
+        },
+        "value": "95%",
+        "key": "节省的时间",
+        "description": "我们将字幕制作时间从几个小时缩短到几分钟，让我们可以专注于内容创作。"
+      },
+      {
+        "tag": "社交媒体",
+        "heading": "TikTok影响者",
+        "before": {
+          "label": "之前",
+          "text": "字幕不一致"
+        },
+        "after": {
+          "label": "之后",
+          "text": "始终如一的高质量字幕"
+        },
+        "value": "92%",
+        "key": "参与度增加",
+        "description": "我们的参与度随着字幕的正确格式化而激增；粉丝们赞赏可达性。"
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "AI模型比较",
+    "description": "选择适合您需求的字幕生成模型",
+    "items": [
+      "基础模型：标准准确性和速度",
+      "高级模型：增强的准确性，支持更多语言",
+      "实时字幕生成以适应直播",
+      "智能标点和语法校正",
+      "用户友好的编辑界面，方便快速调整",
+      "包括商业使用权"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "相关AI工具",
+    "description": "探索更多强大的AI工具以增强视频效果"
+  },
+  "faq": {
+    "heading": "常见问题",
+    "description": "您需要了解的一切",
+    "items": [
+      {
+        "question": "我可以为哪种视频添加字幕？",
+        "answer": "您可以为任何视频格式添加字幕，包括MP4、MOV和AVI文件。我们的平台支持多种格式，确保兼容您的所有视频内容。"
+      },
+      {
+        "question": "自动生成的字幕准确吗？",
+        "answer": "我们的AI模型在基于上下文和语言的字幕生成方面具有高准确性。您可以轻松审查和编辑字幕，以确保它们符合您的标准。"
+      },
+      {
+        "question": "我可以自定义字幕的样式吗？",
+        "answer": "当然可以！您可以选择各种字体样式、大小、颜色和位置，以匹配视频的美学并改善观众体验。"
+      },
+      {
+        "question": "您支持多种语言的字幕吗？",
+        "answer": "是的，我们的解决方案支持多种语言的自动生成字幕，使得轻松接触全球观众。"
+      },
+      {
+        "question": "生成字幕需要多长时间？",
+        "answer": "字幕生成通常很快，根据您视频的长度只需几分钟。这个过程旨在保持效率，而不是牺牲质量。"
+      },
+      {
+        "question": "商业使用是否需要额外费用？",
+        "answer": "没有！所有生成的字幕都附带商业使用权，没有额外费用，允许您在多个平台自由使用。"
+      },
+      {
+        "question": "生成后我可以编辑字幕吗？",
+        "answer": "可以，我们的平台允许您根据需要编辑和完善字幕。您可以调整时机和文本，以确保完美的同步和清晰度。"
+      },
+      {
+        "question": "如果我在字幕生成过程中遇到问题怎么办？",
+        "answer": "我们的支持团队在这里提供帮助！我们提供资源、教程和直接协助，以快速解决任何问题。"
+      },
+      {
+        "question": "我可以在直播中使用字幕吗？",
+        "answer": "可以！我们的AI包括实时字幕生成功能，改善所有观众的可达性。"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "准备好为您的视频添加字幕了吗？",
+    "description": "立即开始使用免费积分提升您的内容。",
+    "contactUsText": "联系我们",
+    "tryText": "立即试用 →"
+  },
+  "footer": {
+    "heading": "今天就来改变您的视频！",
+    "description": "立即试用WaveSpeed AI，体验专业字幕生成。无需注册。",
+    "ctaText": "立即开始字幕生成",
+    "text": "© 2025 WaveSpeed AI版权所有。"
+  }
+}

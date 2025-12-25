@@ -1,0 +1,225 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Restorasi Foto Lama dengan AI",
+  "meta": {
+    "description": "Hidupkan kembali kenangan berharga Anda dengan restorasi foto lama yang didukung AI. Tingkatkan, beri warna, dan perbaiki gambar tanpa usaha. Sempurna untuk arsip pribadi dan restorasi profesional. Rasakan transformasinya hari ini!",
+    "keywords": "restorasi foto lama dengan AI, peningkatan foto AI, teknologi perbaikan gambar, pewarnaan foto vintage, pelestarian kenangan, restorasi foto digital, peningkatan foto sejarah, restorasi gambar retro, alat fotografi, arsip pribadi"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Restorasi Foto Lama",
+    "subHeading": "Hidupkan Kembali Kenangan Anda",
+    "description": "Transformasikan foto yang pudar dan rusak menjadi gambar yang menakjubkan dan cerah dengan teknologi AI. Tingkatkan detail, pulihkan warna asli, dan lestarikan kenangan Anda tanpa usaha. Mulai restorasi foto lama Anda hari ini!",
+    "tryText": "Mulai Restorasi Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Restorasi Foto Lama WaveSpeed AI",
+    "left": {
+      "heading": "Tantangan Restorasi Tradisional",
+      "items": [
+        "Restorasi manual memakan waktu dan melelahkan",
+        "Biaya tinggi untuk layanan profesional ($300-1000 per foto)",
+        "Keterampilan terbatas untuk restorator amatir",
+        "Kesulitan dalam memberi warna atau meningkatkan gambar yang rusak parah",
+        "Hasil yang tidak memuaskan menggunakan alat perangkat lunak dasar"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeed AI",
+      "items": [
+        "Restorasi foto lama instan dalam hitungan menit",
+        "Model bayar sesuai pemakaian yang terjangkau",
+        "Antarmuka yang ramah pengguna tidak memerlukan keahlian",
+        "Pewarnaan yang canggih dan peningkatan detail",
+        "Hasil berkualitas tinggi cocok untuk dicetak"
+      ],
+      "tryText": "Pulihkan Sekarang"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Revitalisasi foto lama Anda dalam 4 langkah sederhana",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Foto",
+        "text": "Pilih foto lama yang ingin Anda pulihkan",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Pilih Opsi Restorasi",
+        "text": "Pilih fitur peningkatan seperti pewarnaan dan ketajaman detail",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Prabayar Perubahan",
+        "text": "Lihat pratayang instan dari gambar yang dipulihkan",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Unduh Foto yang Dipulihkan",
+        "text": "Dapatkan gambar yang dipulihkan dengan resolusi tinggi siap untuk dibagikan atau dicetak",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Pulihkan Foto Pertama Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Restorasi yang Tak Terbatas",
+    "description": "Sempurna untuk setiap kenangan atau proyek berharga",
+    "items": [
+      "Warisan keluarga dan arsip",
+      "Foto sejarah untuk museum",
+      "Kenangan pernikahan dan acara",
+      "Restorasi untuk album dan scrapbook",
+      "Proyek artistik yang memerlukan estetika vintage",
+      "Potret yang ditingkatkan untuk tampilan pribadi",
+      "Ide hadiah dengan foto keluarga yang dipulihkan",
+      "Pelestarian digital gambar yang menua"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Lihat bagaimana orang menghidupkan kembali kenangan lama mereka dengan AI",
+    "items": [
+      {
+        "tag": "Kenangan Keluarga",
+        "heading": "Foto Pernikahan Kakek Nenek",
+        "before": {
+          "label": "Sebelum",
+          "text": "Pudar dan Rusak"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Restorasi yang Cerah"
+        },
+        "value": "95%",
+        "key": "Tingkat Kepuasan",
+        "description": "Mengubah foto pernikahan berharga yang hampir tidak dapat dikenali menjadi kenang-kenangan yang indah."
+      },
+      {
+        "tag": "Rekaman Sejarah",
+        "heading": "Restorasi Arsip Museum",
+        "before": {
+          "label": "Sebelum",
+          "text": "Usang dan Tidak Terbaca"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Dipulihkan dan Jelas"
+        },
+        "value": "98%",
+        "key": "Peningkatan Kualitas",
+        "description": "Berhasil memulihkan dokumen penting memastikan catatan sejarah tetap dapat diakses untuk generasi mendatang."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Metode Restorasi",
+    "description": "Pilih metode restorasi terbaik untuk kebutuhan Anda",
+    "items": [
+      "Pewarnaan AI: Aplikasi warna vintage otomatis untuk tampilan realistis",
+      "Restorasi Detail: Algoritma canggih memulihkan detail rumit",
+      "Peningkatan Standar: Perbaikan cepat untuk perbaikan dasar",
+      "Output Beresolusi Tinggi: Kualitas cocok untuk cetakan besar",
+      "Kontrol Ramah Pengguna: Mudah untuk semua tingkat keterampilan"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Jelajahi lebih banyak alat AI yang kuat untuk peningkatan foto"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Semua yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Kualitas apa yang bisa saya harapkan dari foto yang dipulihkan?",
+        "answer": "Harapkan kualitas yang sangat baik dengan peningkatan yang memperbaiki akurasi warna dan pelestarian detail. Solusi AI kami unggul dalam memperbaiki dan menghidupkan kembali gambar lama, memberikan hasil profesional yang menangkap esensi kenangan Anda."
+      },
+      {
+        "question": "Bisakah saya memulihkan foto yang rusak parah?",
+        "answer": "Ya! Teknologi AI kami dirancang untuk menangani berbagai kerusakan, dari keausan minor hingga kerusakan signifikan. Ia secara cerdas memprediksi warna dan memulihkan detail, memastikan hasil terbaik."
+      },
+      {
+        "question": "Format apa yang bisa saya gunakan untuk restorasi foto?",
+        "answer": "Kami mendukung berbagai format gambar termasuk JPG, PNG, dan TIFF. Pastikan gambar Anda memiliki resolusi yang memadai untuk hasil restorasi yang optimal."
+      },
+      {
+        "question": "Apakah proses restorasi dapat dibalik?",
+        "answer": "Setelah Anda mengunduh gambar yang dipulihkan, itu adalah output final. Kami merekomendasikan untuk menjaga file asli Anda dengan aman untuk memastikan Anda selalu dapat kembali ke mereka jika diperlukan."
+      },
+      {
+        "question": "Berapa lama proses restorasi?",
+        "answer": "Sebagian besar restorasi diselesaikan hanya dalam beberapa menit, tergantung pada kompleksitas gambar dan opsi yang dipilih."
+      },
+      {
+        "question": "Apa opsi harga untuk restorasi foto?",
+        "answer": "Harga kami fleksibel dengan model bayar sesuai pemakaian. Anda hanya membayar untuk gambar yang Anda pulihkan, dan biayanya dapat bervariasi berdasarkan fitur restorasi yang dipilih."
+      },
+      {
+        "question": "Bisakah saya memulihkan beberapa foto sekaligus?",
+        "answer": "Ya! Anda dapat mengunggah dan memulihkan banyak gambar secara bersamaan untuk pemrosesan yang efisien."
+      },
+      {
+        "question": "Apakah saya mempertahankan hak atas gambar yang dipulihkan?",
+        "answer": "Tentu saja! Semua gambar yang dipulihkan dilengkapi dengan hak penggunaan komersial penuh, memungkinkan Anda menggunakannya untuk keperluan pribadi atau profesional tanpa biaya tambahan."
+      },
+      {
+        "question": "Dukungan apa yang tersedia jika saya mengalami masalah?",
+        "answer": "Kami menawarkan dukungan komprehensif, termasuk FAQ yang rinci, tutorial video, dan layanan pelanggan untuk membantu dengan pertanyaan atau masalah teknis."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Memulihkan Foto Lama Anda?",
+    "description": "Mulai sekarang dengan kredit gratis dan lihat keajaibannya secara langsung!",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Pulihkan Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap untuk Mengubah Foto Anda?",
+    "description": "Coba WaveSpeed AI sekarang dan lihat bedanya sendiri. Tidak perlu mendaftar.",
+    "ctaText": "Pulihkan Foto-foto Saya",
+    "text": "© 2025 WaveSpeed AI. Hak cipta dilindungi."
+  }
+}

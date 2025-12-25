@@ -1,0 +1,222 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Generator Bayangan AI",
+  "meta": {
+    "description": "Tingkatkan gambar produk Anda dengan bayangan realistis menggunakan teknologi AI. Sempurna untuk e-commerce dan pemasaran digital, menciptakan visual berkualitas profesional dengan mudah.",
+    "keywords": "generator bayangan AI, peningkatan gambar produk, bayangan realistis, grafik e-commerce, alat gambar pemasaran, AI pengeditan foto, gambar Shopify, foto produk Amazon, visual pemasaran digital, pembuatan konten visual"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Transformasikan Gambar Anda dengan Bayangan",
+    "subHeading": "Tambahkan Bayangan Realistis ke Setiap Foto",
+    "description": "Segera berikan sentuhan profesional pada gambar produk Anda dengan Generator Bayangan AI kami. Tingkatkan visual untuk daftar e-commerce atau kampanye pemasaran dengan mudah. Coba sekarang dan tingkatkan presentasi merek Anda!",
+    "tryText": "Coba Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Generator Bayangan AI WaveSpeed AI",
+    "left": {
+      "heading": "Tantangan Tradisional",
+      "items": [
+        "Menciptakan bayangan realistis membutuhkan keterampilan yang tinggi",
+        "Pengeditan manual memakan banyak waktu dan tenaga",
+        "Perangkat lunak yang kompleks bisa sangat membingungkan",
+        "Biaya tinggi untuk desain grafis profesional",
+        "Fleksibilitas terbatas dalam penyesuaian"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeedAI",
+      "items": [
+        "Menghasilkan bayangan realistis dalam hitungan detik dengan AI",
+        "Tidak perlu keterampilan desain - Cukup unggah gambar Anda",
+        "Peningkatan instan hanya dengan satu klik",
+        "Opsi penyesuaian tak terbatas tersedia",
+        "Model pembayaran terjangkau tanpa langganan"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Tambahkan bayangan menakjubkan ke gambar Anda dalam 4 langkah sederhana",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Gambar",
+        "text": "Unggah foto produk Anda atau gambar yang memerlukan peningkatan bayangan",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Pilih Jenis Bayangan",
+        "text": "Pilih dari berbagai gaya bayangan untuk mencocokkan nuansa produk Anda",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Sesuaikan Pengaturan",
+        "text": "Atur ukuran, opasitas, dan sudut bayangan",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Unduh Gambar",
+        "text": "Terima gambar Anda yang ditingkatkan dengan bayangan realistis dalam hitungan menit",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Hasilkan Gambar Bayangan Pertama Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Tak Terbatas",
+    "description": "Ideal untuk berbagai aplikasi",
+    "items": [
+      "Gambar produk untuk pengecer online",
+      "Posting media sosial untuk visual yang menarik",
+      "Grafik promosi dan iklan",
+      "Portofolio yang diperbaiki untuk fotografer",
+      "Gambar blog yang menonjol",
+      "Daftar real estate dengan kedalaman",
+      "Lookbook mode dengan suasana",
+      "Fotografi makanan yang terlihat menggugah selera"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Temukan bagaimana bisnis meningkatkan gambar mereka dengan AI",
+    "items": [
+      {
+        "tag": "E-commerce Mode",
+        "heading": "Boutique Online",
+        "before": {
+          "label": "Sebelum",
+          "text": "Gambar datar"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Bayangan seumur hidup"
+        },
+        "value": "85%",
+        "key": "Peningkatan Konversi",
+        "description": "Dengan gambar yang ditingkatkan yang menampilkan bayangan, daya tarik produk kami meningkat pesat, menghasilkan peningkatan penjualan yang mengesankan sebesar 30 %."
+      },
+      {
+        "tag": "Rumah & Hidup",
+        "heading": "Toko Perabotan Rumah",
+        "before": {
+          "label": "Sebelum",
+          "text": "Foto dasar"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Visual menakjubkan"
+        },
+        "value": "90%",
+        "key": "Peningkatan Persepsi",
+        "description": "Pelanggan kami sekarang melihat kualitas dalam gambar kami, secara signifikan meningkatkan persepsi merek dan kepercayaan."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Model Bayangan AI",
+    "description": "Pilih efek bayangan yang tepat untuk kebutuhan Anda",
+    "items": [
+      "Bayangan Realistis: Opasitas dan sudut yang dapat disesuaikan, meningkatkan kedalaman",
+      "Bayangan Lembut: Sentuhan lembut untuk menciptakan efek subtil",
+      "Bayangan Berdampak Tinggi: Berani dan dramatis untuk visual yang menonjol",
+      "Preset yang Dapat Disesuaikan untuk berbagai gaya",
+      "Generasi sekali klik untuk kecepatan dan efisiensi",
+      "Hak penggunaan komersial termasuk"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Jelajahi lebih banyak alat AI inovatif untuk peningkatan gambar"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Semua yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Jenis gambar apa yang paling cocok dengan generator bayangan?",
+        "answer": "Generator bayangan bekerja terbaik dengan gambar produk yang jelas dan pemandangan yang memerlukan kedalaman. Gambar beresolusi tinggi memberikan hasil yang paling realistis, terutama yang memiliki latar belakang yang bersih."
+      },
+      {
+        "question": "Bisakah saya menyesuaikan fitur bayangan seperti sudut dan opasitas?",
+        "answer": "Ya! Anda memiliki kontrol penuh untuk menyesuaikan sudut, ukuran, dan opasitas bayangan, memungkinkan Anda untuk menyesuaikan efek agar sesuai dengan presentasi produk Anda."
+      },
+      {
+        "question": "Apakah ada batasan berapa banyak gambar yang bisa saya proses sekaligus?",
+        "answer": "Tidak, tidak ada batasan! Anda dapat mengunggah beberapa gambar secara bersamaan, membuatnya mudah untuk meningkatkan seluruh koleksi dalam satu kali penggandaan."
+      },
+      {
+        "question": "Apa bedanya ini dengan pengeditan bayangan manual?",
+        "answer": "Generator Bayangan AI kami menyederhanakan proses, memungkinkan produksi cepat tanpa memerlukan keterampilan desain grafis yang luas atau keahlian perangkat lunak. Pengeditan manual bisa melelahkan dan memakan waktu, sementara alat kami memberikan hasil instan."
+      },
+      {
+        "question": "Model harga apa yang digunakan untuk Generator Bayangan AI?",
+        "answer": "WaveSpeed beroperasi dengan model pembayaran fleksibel tanpa langganan bulanan. Anda hanya membayar untuk bayangan yang Anda hasilkan, memastikan Anda mendapatkan nilai untuk investasi Anda."
+      },
+      {
+        "question": "Apa waktu yang diharapkan untuk menghasilkan bayangan?",
+        "answer": "Generasi bayangan cepat, biasanya hanya memerlukan beberapa momen per gambar terlepas dari jumlah yang diproses. Nikmati peningkatan cepat tanpa menunggu."
+      },
+      {
+        "question": "Apakah saya mendapatkan hak komersial untuk gambar yang ditingkatkan?",
+        "answer": "Tentu saja! Semua gambar yang diproses melalui Generator Bayangan kami datang dengan hak penggunaan komersial penuh, memungkinkan Anda menggunakannya untuk tujuan bisnis apa pun."
+      },
+      {
+        "question": "Apa dukungan yang tersedia jika saya mengalami masalah?",
+        "answer": "WaveSpeed menyediakan dukungan komprehensif, termasuk dokumentasi dan obrolan langsung untuk masalah teknis. Kami memastikan pengguna menerima bantuan segera dengan pertanyaan apa pun selama pengalaman mereka."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap Meningkatkan Gambar Anda?",
+    "description": "Mulai dengan kredit gratis - Rasakan transformasi sekarang",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Coba Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap Mengubah Foto Anda?",
+    "description": "Coba WaveSpeed AI sekarang dan lihat perbedaannya sendiri. Tidak perlu mendaftar.",
+    "ctaText": "Tambahkan Bayangan Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi."
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Pemangkas Video AI",
+  "meta": {
+    "description": "Potong, edit, dan tingkatkan video Anda dengan mudah menggunakan Pemangkas Video bertenaga AI kami. Sempurna untuk kreator, pemasar, dan bisnis yang ingin memperlancar produksi video. Rasakan kemudahan mengedit video hari ini!",
+    "keywords": "pemangkas video, pengeditan video AI, pemotong video, alat peningkatan video, WaveSpeed AI, solusi video, pengeditan video e-commerce, pemangkasan video media sosial, pengedit video online, pengeditan video cepat"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Potong Video Anda",
+    "subHeading": "Edit dan Tingkatkan dengan Presisi AI",
+    "description": "Potong video Anda untuk media sosial, pemasaran, atau proyek pribadi dengan instan. Rasakan pengeditan yang lancar dan tingkatkan storytelling Anda dengan kekuatan WaveSpeed AI. Mulai hari ini!",
+    "tryText": "Coba Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Pemangkas Video WaveSpeed AI",
+    "left": {
+      "heading": "Tantangan Tradisional",
+      "items": [
+        "Pengeditan manual memakan waktu dan kompleks",
+        "Memerlukan perangkat lunak pengeditan yang mahal",
+        "Terbatas pada fitur pemangkasan dasar",
+        "Kurva pembelajaran yang tinggi bagi pemula",
+        "Kualitas output yang tidak konsisten"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeed AI",
+      "items": [
+        "Potong dan pangkas video dalam hitungan detik dengan bantuan AI",
+        "Tidak diperlukan keterampilan teknis atau perangkat lunak mahal",
+        "Antarmuka yang ramah pengguna untuk semua tingkat keterampilan",
+        "Output yang konsisten dan profesional setiap saat",
+        "Harga terjangkau tanpa biaya tersembunyi"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Pangkas video dengan mudah dalam 3 langkah sederhana",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Video",
+        "text": "Pilih video yang ingin Anda pangkas atau edit",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Pilih Titik Pemangkasan",
+        "text": "Tandai titik awal dan akhir untuk pengeditan Anda",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Pratampilan dan Simpan",
+        "text": "Pratampil video yang telah dipangkas dan unduh dalam hitungan detik",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "Pangkas Video Pertama Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Tak Terbatas",
+    "description": "Ideal untuk berbagai proyek video",
+    "items": [
+      "Cuplikan media sosial untuk Instagram dan TikTok",
+      "Video promosi untuk toko online",
+      "Sorotan video untuk ringkasan acara",
+      "Pesan dan ucapan video yang dipersonalisasi",
+      "Pengeditan konten YouTube",
+      "Peningkatan video edukasi dan tutorial",
+      "Penyesuaian kampanye pemasaran",
+      "Segment storytelling kreatif"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Lihat bagaimana pengguna mentransformasi pengeditan video mereka dengan AI",
+    "items": [
+      {
+        "tag": "Pembuatan Konten",
+        "heading": "Influencer Media Sosial",
+        "before": {
+          "label": "Sebelum",
+          "text": "Jam pengeditan"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Menit penyempurnaan"
+        },
+        "value": "95%",
+        "key": "Waktu yang Disimpan",
+        "description": "Saya memangkas konten selama seminggu dalam waktu kurang dari satu jam, menjaga audiens saya terlibat secara konsisten."
+      },
+      {
+        "tag": "E-commerce",
+        "heading": "Promosi Produk",
+        "before": {
+          "label": "Sebelum",
+          "text": "Pengeditan mahal"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Solusi terjangkau"
+        },
+        "value": "98%",
+        "key": "Pengurangan Biaya",
+        "description": "Menggunakan Pemangkas Video, kami memproduksi cuplikan produk yang tajam dan menarik yang menggandakan tingkat keterlibatan kami."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Pemangkasan AI",
+    "description": "Pilih pengaturan optimal untuk kebutuhan video Anda",
+    "items": [
+      "Saran pemangkasan otomatis berdasarkan konten",
+      "Pengeditan presisi dengan opsi pemilih halus",
+      "Opsi ekspor cepat tersedia untuk berbagai platform",
+      "Umpan balik waktu nyata untuk penyesuaian",
+      "Pemrosesan cloud untuk produksi cepat",
+      "Hak penggunaan komersial termasuk"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Temukan lebih banyak alat AI inovatif untuk kebutuhan video Anda"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Segala yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Format video apa saja yang didukung untuk pemangkasan?",
+        "answer": "Kami mendukung sebagian besar format video populer termasuk MP4, MOV, dan AVI. Unggah video Anda dengan mudah dan mulai memangkas segera."
+      },
+      {
+        "question": "Bisakah saya menggabungkan beberapa klip setelah pemangkasan?",
+        "answer": "Ya! Platform kami memungkinkan Anda untuk memangkas dan kemudian menggabungkan beberapa klip tanpa batas menjadi satu video, sempurna untuk membuat sorotan."
+      },
+      {
+        "question": "Apa yang harus dilakukan jika saya melakukan kesalahan saat memangkas?",
+        "answer": "Tidak perlu khawatir! Anda dapat dengan mudah membatalkan perubahan dan kembali ke versi sebelumnya sebelum menyimpan pengeditan Anda."
+      },
+      {
+        "question": "Apakah ada batasan panjang video untuk pemangkasan?",
+        "answer": "Pemangkas Video kami dapat menangani video hingga 60 menit panjangnya, memberikan Anda fleksibilitas untuk mengedit konten yang lebih panjang."
+      },
+      {
+        "question": "Bisakah saya menerapkan efek setelah pemangkasan?",
+        "answer": "Tentu saja! Setelah video Anda dipangkas, Anda dapat menambahkan efek, overlay teks, dan musik untuk meningkatkan pengeditan akhir Anda."
+      },
+      {
+        "question": "Berapa biaya menggunakan Pemangkas Video?",
+        "answer": "Kami beroperasi dengan model bayar sesuai penggunaan. Anda hanya membayar untuk pemangkasan yang Anda lakukan, memastikan nilai yang baik tanpa langganan yang tidak diinginkan."
+      },
+      {
+        "question": "Seberapa cepat saya bisa mengharapkan video yang telah dipangkas?",
+        "answer": "Anda bisa mengharapkan waktu pemrosesan yang hampir instan. Sebagian besar pemangkasan selesai dalam hitungan menit, sehingga efisien untuk pengeditan cepat."
+      },
+      {
+        "question": "Apakah saya perlu perangkat lunak khusus untuk menggunakan Pemangkas Video?",
+        "answer": "Tidak perlu perangkat lunak khusus! Semua yang Anda butuhkan adalah browser untuk mengakses alat Pemangkas Video online kami."
+      },
+      {
+        "question": "Apakah ada tutorial yang tersedia untuk membantu saya memulai?",
+        "answer": "Ya! Kami menyediakan perpustakaan tutorial dan panduan yang luas untuk membantu Anda memaksimalkan potensi Pemangkas Video."
+      },
+      {
+        "question": "Bisakah saya membagikan video yang telah dipangkas langsung dari platform?",
+        "answer": "Ya, setelah video Anda dipangkas, Anda dapat membagikannya langsung ke berbagai platform media sosial atau mengunduhnya ke perangkat Anda."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Mengedit Video Pertama Anda?",
+    "description": "Mulai dengan kredit gratis - Temukan kemudahan pemangkasan AI",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Coba Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap untuk Memangkas Video Anda?",
+    "description": "Coba WaveSpeed AI sekarang dan rasakan pengeditan yang lancar. Tidak diperlukan pendaftaran.",
+    "ctaText": "Pangkas Video Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi."
+  }
+}

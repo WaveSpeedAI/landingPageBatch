@@ -1,0 +1,226 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Generator Gambar dari Sketsa AI",
+  "meta": {
+    "description": "Ubah sketsa Anda menjadi gambar yang menakjubkan dalam beberapa saat. Sempurna untuk seniman, desainer, dan kreatif. Lepaskan imajinasi Anda dengan generasi berbasis AI. Jelajahi kemungkinan seni yang tak terbatas!",
+    "keywords": "sketsa ke gambar AI, generator karya seni, pembuat gambar AI, alat desain kreatif, transformasi seni, seni digital, cerita visual, gambar e-commerce, desain produk, visual media sosial"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Sketsa ke Gambar",
+    "subHeading": "Ubah Ide Anda menjadi Maha Karya Visual",
+    "description": "Ubah sketsa tangan Anda menjadi gambar digital yang menakjubkan dalam beberapa menit. Tidak perlu keterampilan artistik. Didukung oleh teknologi AI terdepan, buka potensi kreatif Anda.",
+    "tryText": "Mulai Ciptakan Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Sketsa ke Gambar WaveSpeed AI",
+    "left": {
+      "heading": "Tantangan Tradisional",
+      "items": [
+        "Pembuatan karya seni sering memerlukan keterampilan tingkat lanjut",
+        "Alat dan perangkat lunak yang mahal diperlukan",
+        "Proses yang memakan waktu (hari hingga minggu)",
+        "Kustomisasi dan penyesuaian yang terbatas",
+        "Hambatan masuk yang tinggi untuk seniman pemula"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeedAI",
+      "items": [
+        "Hasilkan gambar yang menakjubkan dari sketsa dalam hitungan detik",
+        "Tidak perlu pengalaman artistik - Cukup unggah sketsa",
+        "Hasil instan dengan kreasi berbasis AI",
+        "Variasi tak terbatas dari karya seni Anda",
+        "Harga yang terjangkau dan sesuai kebutuhan untuk semua pengguna"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Buat gambar indah dari sketsa dalam 4 langkah sederhana",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Sketsa",
+        "text": "Unggah karya seni yang digambar tangan atau sketsa digital Anda",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Tambahkan Judul",
+        "text": "Opsional: Berikan judul atau deskripsi untuk karya Anda",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Pilih Gaya",
+        "text": "Pilih gaya seni yang ingin Anda terapkan",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Unduh Gambar",
+        "text": "Terima gambar resolusi tinggi Anda dalam beberapa saat",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Hasilkan Gambar Pertama Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Seni yang Tak Terbatas",
+    "description": "Ideal untuk berbagai proyek kreatif",
+    "items": [
+      "Ilustrasi untuk buku anak-anak",
+      "Seni konsep untuk game dan film",
+      "Grafis dan pos media sosial",
+      "Karya seni digital untuk merchandise",
+      "Desain kustom untuk branding",
+      "Cetakan artistik untuk dekorasi rumah",
+      "Konten visual untuk presentasi",
+      "Desain produk unik untuk e-commerce"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Temukan bagaimana kreator meningkatkan seni mereka dengan AI",
+    "items": [
+      {
+        "tag": "Mode & Desain",
+        "heading": "Garis Pakaian Kustom",
+        "before": {
+          "label": "Sebelum",
+          "text": "Memakan Waktu"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Kreasi Instan"
+        },
+        "value": "95%",
+        "key": "Waktu yang Dihemat",
+        "description": "Kami mengubah proses desain kami, memungkinkan prototyping cepat dari sketsa mode menjadi visual selesai, meningkatkan output kami."
+      },
+      {
+        "tag": "Gaming",
+        "heading": "Pengembangan Seni Game Indie",
+        "before": {
+          "label": "Sebelum",
+          "text": "Minggu Iterasi"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Menit Kreasi"
+        },
+        "value": "90%",
+        "key": "Peningkatan Efisiensi",
+        "description": "Kemampuan untuk memvisualisasikan konsep dengan cepat telah merevolusi pengembangan artistik permainan kami, menghemat waktu yang berharga."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Model AI",
+    "description": "Pilih model yang sempurna untuk kebutuhan artistik Anda",
+    "items": [
+      "Vivid Creator: Resolusi tinggi, output artistik yang detail, ideal untuk cetakan",
+      "Speed Artist: Kualitas standar, generasi lebih cepat, sempurna untuk draf",
+      "Style Selector: Pilih gaya untuk berbagai estetika artistik",
+      "Efek gerakan seni yang terintegrasi untuk gambar dinamis",
+      "Waktu generasi 1-2 menit untuk hasil cepat",
+      "Hak penggunaan penuh untuk aplikasi komersial"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Temukan lebih banyak alat AI yang kuat untuk kreatif"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Segala yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Kualitas gambar apa yang dapat saya harapkan dari konversi sketsa?",
+        "answer": "AI kami menghasilkan gambar berkualitas tinggi berdasarkan sketsa Anda, memungkinkan hasil tingkat profesional yang dapat digunakan untuk berbagai aplikasi, dari media sosial hingga cetakan."
+      },
+      {
+        "question": "Bisakah saya memodifikasi gambar yang dihasilkan?",
+        "answer": "Tentu saja! Setelah gambar Anda dihasilkan, Anda akan memiliki opsi untuk membuat modifikasi atau peningkatan lebih lanjut menggunakan alat edit kami yang intuitif."
+      },
+      {
+        "question": "Jenis sketsa apa yang paling cocok untuk konversi?",
+        "answer": "Sketsa yang digambar tangan atau gambar digital yang bersih paling cocok. Pastikan sketsa Anda jelas dan detail untuk hasil optimal."
+      },
+      {
+        "question": "Apa perbedaannya dengan pembuatan seni digital tradisional?",
+        "answer": "Teknologi ini mengotomatiskan dan menyederhanakan proses artistik, memungkinkan Anda untuk dengan cepat menghasilkan gambar dari sketsa sederhana tanpa pelatihan artistik yang ekstensif."
+      },
+      {
+        "question": "Apakah ada batasan pada jenis gambar yang dapat saya buat?",
+        "answer": "Tidak, Anda dapat membuat berbagai jenis gambar dengan berbagai gaya, tema, dan subjek; satu-satunya batasan adalah imajinasi Anda."
+      },
+      {
+        "question": "Model harga apa yang Anda gunakan untuk generasi sketsa ke gambar?",
+        "answer": "Kami beroperasi dengan model bayar sesuai pemakaian, memungkinkan Anda membayar hanya untuk gambar yang Anda hasilkan tanpa biaya tersembunyi atau langganan."
+      },
+      {
+        "question": "Seberapa cepat saya dapat menghasilkan gambar menggunakan alat ini?",
+        "answer": "Sebagian besar gambar dihasilkan dalam waktu 1-2 menit, memastikan Anda dapat dengan cepat bergerak dari ide ke eksekusi."
+      },
+      {
+        "question": "Apakah saya memiliki hak atas gambar yang saya hasilkan?",
+        "answer": "Ya! Semua gambar yang dibuat melalui platform kami dilengkapi dengan hak penggunaan komersial penuh, memberi Anda kebebasan untuk menggunakan karya seni Anda sesuka hati."
+      },
+      {
+        "question": "Sumber daya apa yang tersedia untuk dukungan?",
+        "answer": "Kami menawarkan dukungan komprehensif, termasuk tutorial, dokumentasi yang luas, dan layanan pelanggan untuk membantu dengan masalah yang Anda hadapi."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Mengubah Sketsa Anda Menjadi Gambar yang Menakjubkan?",
+    "description": "Mulai dengan kredit gratis - Rasakan kreativitas sendiri",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Mulai Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap untuk Mengubah Ide Anda?",
+    "description": "Coba WaveSpeed AI sekarang dan lihat keajaiban sendiri. Tidak perlu mendaftar.",
+    "ctaText": "Buat Gambar Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi."
+  }
+}

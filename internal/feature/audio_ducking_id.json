@@ -1,0 +1,229 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Fitur Audio Ducking",
+  "meta": {
+    "description": "Optimalkan audio Anda tanpa usaha dengan fitur Audio Ducking dari WaveSpeed AI. Capai kualitas suara profesional dengan menyeimbangkan musik latar dan suara secara dinamis. Sempurna untuk pembuat konten, podcaster, dan produser video. Rasakan perbedaannya sekarang!",
+    "keywords": "audio ducking, optimalisasi suara, alat audio AI, peningkatan suara, pengeditan audio podcast, penyeimbangan audio dinamis, kualitas suara profesional, audio produksi video, kontrol musik latar, alat pembuat konten"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Audio Ducking",
+    "subHeading": "Tingkatkan Audio Anda dengan Kontrol Presisi",
+    "description": "Seimbangkan musik latar dan suara Anda dengan mudah menggunakan fitur Audio Ducking kami. Ideal untuk podcaster dan pembuat video yang mencari kualitas audio profesional. Bawa suara Anda ke level berikutnya!",
+    "tryText": "Coba Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Audio Ducking WaveSpeed AI",
+    "left": {
+      "heading": "Tantangan Audio Tradisional",
+      "items": [
+        "Pencampuran manual memakan waktu berjam-jam",
+        "Kesulitan menyeimbangkan musik dan suara",
+        "Tingkat audio yang tidak konsisten di berbagai trek",
+        "Membutuhkan perangkat lunak audio profesional",
+        "Proses yang rumit untuk pemula"
+      ]
+    },
+    "right": {
+      "heading": "Solusi Audio Ducking WaveSpeedAI",
+      "items": [
+        "Penyesuaian musik latar otomatis secara real-time",
+        "Keseimbangan sempurna antara suara dan efek suara",
+        "Integrasi tanpa batas dengan alur kerja audio Anda",
+        "Hasil instan dengan teknologi berbasis AI",
+        "Aksesibilitas untuk semua orang, terlepas dari pengalaman"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Capai keseimbangan audio sempurna dalam 4 langkah sederhana",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Audio",
+        "text": "Unggah trek audio Anda termasuk suara dan musik",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Pilih Parameter",
+        "text": "Pilih tingkat ducking dan penyesuaian yang diperlukan",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Prabaca Penyesuaian",
+        "text": "Dengarkan perubahan dan perbaiki pengaturan jika perlu",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Ekspor Audio Final",
+        "text": "Unduh trek audio Anda yang telah dipoles siap digunakan",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Optimalkan Audio Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Audio Tanpa Batas",
+    "description": "Sempurna untuk proyek audio apa pun",
+    "items": [
+      "Produksi dan pengeditan podcast",
+      "Soundtrack video untuk YouTube",
+      "Audio komersial untuk iklan",
+      "Pengelolaan audio acara langsung",
+      "Penyeimbangan suara game",
+      "Musik latar untuk presentasi",
+      "Buku audio dan konten yang diceritakan",
+      "Produksi musik dan remix"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Temukan bagaimana pengguna meningkatkan audio mereka dengan AI",
+    "items": [
+      {
+        "tag": "Podcasting",
+        "heading": "Dapatkan Lebih Banyak Pendengar",
+        "before": {
+          "label": "Sebelum",
+          "text": "Audio tidak seimbang"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Suara profesional"
+        },
+        "value": "50%",
+        "key": "Pertumbuhan Pendengar",
+        "description": "Meningkatkan audio podcast kami dengan Ducking mengakibatkan penurunan keluhan pendengar mengenai kualitas audio yang signifikan."
+      },
+      {
+        "tag": "Produksi Video",
+        "heading": "Pertumbuhan Saluran YouTube",
+        "before": {
+          "label": "Sebelum",
+          "text": "Umpan balik mengenai masalah audio"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Suara berkualitas tinggi"
+        },
+        "value": "70%",
+        "key": "Peningkatan Keterlibatan",
+        "description": "Dengan audio yang seimbang, retensi pemirsa kami meningkat drastis, memungkinkan lebih banyak pemirsa menikmati konten kami."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Pengolahan Audio",
+    "description": "Pilih pengaturan yang tepat untuk kebutuhan Anda",
+    "items": [
+      "Ducking Standar: Penyesuaian musik latar dasar untuk pemula",
+      "Ducking Lanjutan: Fokus suara yang tepat dengan pengaturan yang dapat disesuaikan",
+      "Fitur Auto-mixing untuk pengeditan tanpa usaha",
+      "Umpan balik instan dengan prabaca audio",
+      "Ekspor langsung ke berbagai format"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Jelajahi lebih banyak solusi audio yang kuat untuk pembuat"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Segala yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Apa itu audio ducking?",
+        "answer": "Audio ducking adalah teknik yang secara otomatis menurunkan volume musik latar atau efek suara ketika suara terdeteksi, memastikan kejelasan dalam konten yang diucapkan."
+      },
+      {
+        "question": "Bagaimana AI menentukan kapan harus menurunkan audio?",
+        "answer": "AI menganalisis tingkat audio secara real-time, mendeteksi frekuensi suara untuk menyesuaikan volume suara latar secara tepat ketika suara terdengar."
+      },
+      {
+        "question": "Bisakah saya menyesuaikan tingkat ducking?",
+        "answer": "Ya! Anda dapat menetapkan tingkat penyesuaian khusus untuk musik dan suara sesuai dengan kebutuhan proyek Anda."
+      },
+      {
+        "question": "Apakah alat ini cocok untuk pemula?",
+        "answer": "Tentu saja! Antarmuka yang ramah pengguna kami memudahkan siapa saja untuk mencapai kualitas suara profesional tanpa pengalaman pengeditan audio sebelumnya."
+      },
+      {
+        "question": "Format audio apa yang didukung?",
+        "answer": "Kami mendukung berbagai format audio termasuk MP3, WAV, dan AAC, memastikan kompatibilitas dengan sebagian besar proyek audio."
+      },
+      {
+        "question": "Bisakah saya menggunakan fitur ini untuk acara langsung?",
+        "answer": "Ya! Fitur audio ducking bekerja dengan baik untuk penyesuaian waktu nyata selama acara langsung, memberikan keseimbangan audio optimal secara instan."
+      },
+      {
+        "question": "Jenis proyek apa yang dapat diuntungkan dari audio ducking?",
+        "answer": "Proyek yang berkisar dari podcast, video, iklan, dan presentasi langsung semuanya dapat mengambil manfaat dari kejelasan suara yang ditingkatkan yang diberikan oleh ducking."
+      },
+      {
+        "question": "Apakah ada pemrosesan pasca-proses yang tersedia?",
+        "answer": "Ya! Anda dapat menerapkan peningkatan tambahan dan efek setelah menurunkan audio Anda untuk output akhir yang halus."
+      },
+      {
+        "question": "Berapa biaya untuk menggunakan fitur audio ducking?",
+        "answer": "Harga kami fleksibel, memungkinkan Anda untuk membayar hanya untuk pemrosesan audio yang Anda lakukan tanpa biaya tersembunyi atau langganan."
+      },
+      {
+        "question": "Bagaimana saya bisa menghubungi dukungan jika saya membutuhkan bantuan?",
+        "answer": "Tim dukungan kami tersedia melalui email dan obrolan langsung untuk bantuan teknis, biasanya merespons dalam waktu 24 jam."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Meningkatkan Audio Anda?",
+    "description": "Mulai dengan kredit gratis dan rasakan kualitas suara profesional hari ini",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Coba Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap untuk Mengubah Audio Anda?",
+    "description": "Coba WaveSpeed AI sekarang dan rasakan perbedaannya sendiri. Tidak ada pendaftaran yang diperlukan.",
+    "ctaText": "Optimalkan Audio Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi."
+  }
+}

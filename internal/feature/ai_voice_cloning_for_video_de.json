@@ -1,0 +1,222 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - KI-Stimmenklonierung für Video",
+  "meta": {
+    "description": "Revolutioniere Videoinhalte mit KI-Stimmenklonierung. Verbessere das Geschichtenerzählen, schaffe Engagement und vereinfache die Produktion. Perfekt für Kreative und Marketer. Erlebe die Zukunft des Videos noch heute!",
+    "keywords": "KI-Stimmenklonierung, Video-Voiceover, synthetische Sprachtechnologie, Audio für Video, Videoproduktionswerkzeuge, Marketing-Video-Lösungen, Sprachverbesserung, Inhaltserstellung, Tools für Geschichten, WaveSpeed AI"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI-Tools",
+        "items": [
+          [
+            "KI-Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Showcase",
+        "items": [
+          [
+            "Showcase",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "Stimmenklonierung für Video",
+    "subHeading": "Gib deinen visuellen Inhalten mit atemberaubendem Realismus eine Stimme",
+    "description": "Erhebe deine Videoinhalte mit fortschrittlicher KI-Stimmenklonierungstechnologie. Verwandele Skripte in lebensechtes Audio, das das Engagement des Publikums und das Geschichtenerzählen verbessert. Starte noch heute mit unvergleichlichen Sprachoptionen!",
+    "tryText": "Jetzt ausprobieren",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI KI-Stimmenklonierung für Video-Lösung",
+    "left": {
+      "heading": "Traditionelle Herausforderungen",
+      "items": [
+        "Voiceover-Produktion kann teuer sein (100-1000 $ pro Projekt)",
+        "Benötigt professionelles Aufnahme-Studio und -Ausrüstung",
+        "Zeitaufwändige Audiobearbeitung (1-3 Tage)",
+        "Begrenzte Sprachwahl und Anpassung",
+        "Hohe Investitionen für kleine Kreative"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeedAI-Lösung",
+      "items": [
+        "Erstelle sofort Voiceovers in Minuten aus Text-Skripten",
+        "Kein Studio oder Geräte erforderlich - einfach dein Skript eingeben",
+        "Hochwertige, realistische Stimmen mit emotionalem Bereich",
+        "Unbegrenzte Sprachanpassung und Variationen",
+        "Flexibles Preismodell - Für alle zugänglich"
+      ],
+      "tryText": "Versuchen"
+    }
+  },
+  "howItWorks": {
+    "heading": "So funktioniert es",
+    "description": "Vom Skript zum Audio in 4 einfachen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Text eingeben",
+        "text": "Gib dein Videoskript oder Erzähltext ein",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Stimme auswählen",
+        "text": "Wähle eine Stimme, die zum Ton deines Videos passt",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Einstellungen anpassen",
+        "text": "Optional: Geschwindigkeit, Tonhöhe und Emotion für die Stimme anpassen",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Audio herunterladen",
+        "text": "Erhalte hochwertiges Audio, bereit zum Synchronisieren mit deinem Video",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Generiere dein erstes Audio →"
+  },
+  "endlessPossibilities": {
+    "heading": "Unendliche Möglichkeiten",
+    "description": "Ideal für verschiedene kreative Projekte",
+    "items": [
+      "Erzählungen für YouTube-Videos",
+      "Voiceovers für Online-Kurse",
+      "Podcasting und Audioinhalte",
+      "Unternehmensschulungs-Videos",
+      "Marketing- und Werbeinhalte",
+      "Geschichten für soziale Medien",
+      "Hörbuchproduktion",
+      "Charakterdialoge in Videospielen"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Entdecke, wie Kreative ihre Projekte mit KI-Stimmenklonierung verbessern",
+    "items": [
+      {
+        "tag": "E-Learning Plattform",
+        "heading": "Online-Kurs-Erzählung",
+        "before": {
+          "label": "Vorher",
+          "text": "500 Stunden"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "30 Minuten"
+        },
+        "value": "99,4%",
+        "key": "Zeit eingespart",
+        "description": "Wir haben unseren Kursentwicklungsprozess transformiert und die Zeit erheblich reduziert, während wir eine hohe Produktionsqualität beibehalten haben."
+      },
+      {
+        "tag": "Marketing-Agentur",
+        "heading": "Produktwerbevideos",
+        "before": {
+          "label": "Vorher",
+          "text": "$800 pro Video"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "$50 pro Video"
+        },
+        "value": "93,8%",
+        "key": "Kostenreduzierung",
+        "description": "Unsere Werbevideos bieten jetzt maßgeschneiderte Voiceovers, ohne das Budget zu sprengen, was zu höherem Engagement führt."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Vergleich der KI-Stimmenklonierungsmodelle",
+    "description": "Wähle die richtige Sprachsynthese für deine Projekte",
+    "items": [
+      "Standardstimme: Klarer und natürlicher Klang für die meisten Anwendungen",
+      "Emotionale Stimme: Ausdrucksstarke Töne für Geschichtenerzählen und Engagement",
+      "Mehrsprachige Unterstützung für globale Reichweite",
+      "Einstellbare Geschwindigkeit und Tonhöhe für persönliche Lieferung",
+      "Echtzeit-Vorlagenerstellung",
+      "Nutzungsrechte für kommerzielle Zwecke inbegriffen"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Verwandte KI-Tools",
+    "description": "Entdecke weitere innovative KI-Tools für deine Projekte"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was du wissen musst",
+    "items": [
+      {
+        "question": "Welche Qualitäten und Arten von Stimmen sind verfügbar?",
+        "answer": "Wir bieten eine Vielzahl von hochwertigen synthetischen Stimmen an, die natürlich und ansprechend klingen. Nutzer können aus verschiedenen Akzenten, Geschlechtern und Tönen wählen, um ihren Inhalten am besten gerecht zu werden."
+      },
+      {
+        "question": "Kann ich die Stimme an meinen Video-Stil anpassen?",
+        "answer": "Absolut! Du kannst die Tonhöhe, Geschwindigkeit und sogar den emotionalen Ton anpassen, um das perfekte Voiceover zu erstellen, das mit der Botschaft deines Videos übereinstimmt."
+      },
+      {
+        "question": "In welchen Formaten kann ich die Voiceovers exportieren?",
+        "answer": "Generiertes Audio kann in mehreren Formaten exportiert werden, darunter MP3 und WAV, um deinen Bearbeitungsbedürfnissen gerecht zu werden."
+      },
+      {
+        "question": "Wie synchronisiere ich das generierte Audio mit meinem Video?",
+        "answer": "Du kannst die Audiodatei einfach in deine Video-Bearbeitungssoftware importieren und sie nach Bedarf mit deinen visuellen Inhalten ausrichten, was den Prozess nahtlos macht."
+      },
+      {
+        "question": "Gibt es Beschränkungen für die Audioerstellung?",
+        "answer": "Es gibt keine strengen Beschränkungen; du kannst so viele Audiodateien erstellen, wie du benötigst. Hochvolumige Nutzer können jedoch von unseren Abonnementplänen profitieren."
+      },
+      {
+        "question": "Was passiert, wenn ich Änderungen am Audio benötige?",
+        "answer": "Du kannst das Audio mit modifizierten Eingaben ohne zusätzliche Kosten neu generieren, was einfache Anpassungen ermöglicht, um das gewünschte Ergebnis zu erzielen."
+      },
+      {
+        "question": "Gibt es eine kostenlose Testversion?",
+        "answer": "Ja! Neue Nutzer können eine kostenlose Testversion nutzen, die Credits bietet, um die Möglichkeiten der Stimmenklonierung zu testen, bevor sie sich zu Käufen verpflichten."
+      },
+      {
+        "question": "Was, wenn ich während der Audioerstellung auf Probleme stoße?",
+        "answer": "Unser Support-Team ist per E-Mail und Live-Chat verfügbar, um bei Fragen oder technischen Schwierigkeiten zu helfen, die du haben könntest."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, dein erstes KI-Voiceover zu erstellen?",
+    "description": "Starte mit kostenlosen Credits - Erlebe den Unterschied jetzt",
+    "contactUsText": "Kontaktiere uns",
+    "tryText": "Jetzt ausprobieren →"
+  },
+  "footer": {
+    "heading": "Bereit, deine Videos zu verbessern?",
+    "description": "Probiere WaveSpeed AI jetzt aus und entdecke die Kraft der Stimmenklonierung. Keine Anmeldung erforderlich.",
+    "ctaText": "Beginne jetzt mit der Stimmenklonierung",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}

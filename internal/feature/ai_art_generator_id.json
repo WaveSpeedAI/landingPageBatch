@@ -1,0 +1,230 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Pembuat Seni AI",
+  "meta": {
+    "description": "Buat karya seni menakjubkan dari ide Anda dalam beberapa detik dengan AI. Sempurna untuk seniman, pemasar, dan pencipta konten. Lepaskan kreativitas dengan mudah!",
+    "keywords": "pembuat seni AI, pembuatan karya seni, alat seni digital, penciptaan konten, karya seni instan, alat kreatif AI, rendering artistik, seni generatif, desain grafis AI, generator karya seni"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Generasi Seni AI",
+    "subHeading": "Ubah Ide Menjadi Karya Seni Menakjubkan",
+    "description": "Ubah konsep Anda menjadi seni digital yang indah dalam sekejap. Tidak diperlukan keterampilan desain. Didukung oleh teknologi AI canggih, ciptakan karya seni yang menginspirasi dan menarik.",
+    "tryText": "Mulai Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Pembuat Seni AI WaveSpeed AI",
+    "left": {
+      "heading": "Tantangan Pembuatan Seni Tradisional",
+      "items": [
+        "Pembuatan seni bisa memakan waktu dan kompleks",
+        "Memerlukan keterampilan dan alat khusus",
+        "Iterasi bisa memakan waktu berhari-hari atau berminggu-minggu",
+        "Akses terbatas untuk non-seniman",
+        "Biaya tinggi untuk karya seni yang dipesan"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeedAI",
+      "items": [
+        "Hasilkan karya seni unik dalam hitungan menit dari permintaan Anda",
+        "Tidak diperlukan latar belakang artistik - Cukup deskripsikan visi Anda",
+        "Hasil instan dengan generasi bertenaga AI",
+        "Variasi kreatif yang tidak terbatas",
+        "Harga terjangkau berdasarkan penggunaan untuk semua"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Dari ide ke karya seni dalam 4 langkah sederhana",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Masukkan Ide Anda",
+        "text": "Berikan deskripsi tentang karya seni yang Anda bayangkan",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Pilih Gaya",
+        "text": "Pilih gaya seni yang Anda sukai (misalnya, surealis, abstrak)",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Sesuaikan Parameter",
+        "text": "Sesuaikan atribut seperti skema warna dan suasana",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Unduh Karya Seni Anda",
+        "text": "Dapatkan seni resolusi tinggi dalam hitungan menit",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Buat Seni Pertama Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Kreatif Tanpa Batas",
+    "description": "Sempurna untuk setiap usaha seni",
+    "items": [
+      "Ilustrasi unik untuk blog dan artikel",
+      "Seni digital kustom untuk kampanye pemasaran",
+      "Visual menarik untuk media sosial",
+      "Hadiah dan cetakan yang dipersonalisasi",
+      "Karya seni untuk situs web dan konten digital",
+      "Desain kreatif untuk merchandise",
+      "Inspirasi untuk seniman tradisional",
+      "Seni konsep untuk permainan atau film"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Lihat bagaimana pencipta mengubah proyek mereka dengan AI",
+    "items": [
+      {
+        "tag": "Desain Grafis",
+        "heading": "Desainer Lepas",
+        "before": {
+          "label": "Sebelum",
+          "text": "Membutuhkan waktu"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Generasi instan"
+        },
+        "value": "95%",
+        "key": "Penghematan Waktu",
+        "description": "Dengan menggunakan karya seni AI, saya mengurangi waktu penyelesaian proyek saya secara dramatis, memungkinkan saya untuk mengambil lebih banyak klien."
+      },
+      {
+        "tag": "Pembuatan Konten",
+        "heading": "Influencer Media Sosial",
+        "before": {
+          "label": "Sebelum",
+          "text": "Karya seni yang dialihdayakan"
+        },
+        "after": {
+          "label": "Setelah",
+          "text": "Dibuat di dalam rumah"
+        },
+        "value": "90%",
+        "key": "Pengurangan Biaya",
+        "description": "Menghasilkan visual kustom yang sempurna untuk merek saya, menghemat uang dan meningkatkan gaya unik saya."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Model AI",
+    "description": "Pilih gaya seni yang tepat untuk visi Anda",
+    "items": [
+      "Model Artistik A: Gaya cerah dan berani, sempurna untuk desain modern",
+      "Model Artistik B: Tampilan lembut dan klasik untuk daya tarik abadi",
+      "Opsi gaya kustom dengan atribut yang ditentukan pengguna",
+      "Kemampuan untuk melapisi gaya untuk kreasi unik",
+      "Waktu generasi cepat yang disesuaikan untuk seniman",
+      "Hak termasuk untuk penggunaan pribadi dan komersial"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Jelajahi lebih banyak alat AI inovatif untuk kreator"
+  },
+  "faq": {
+    "heading": "Pertanyaan yang Sering Diajukan",
+    "description": "Semua yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Gaya karya seni apa yang dapat saya buat?",
+        "answer": "Anda dapat memilih dari berbagai gaya seni termasuk abstrak, realistis, kartun, dan banyak lagi. AI juga dapat mencampur gaya untuk menciptakan sesuatu yang benar-benar unik."
+      },
+      {
+        "question": "Dapatkah saya menyesuaikan seni yang dihasilkan?",
+        "answer": "Tentu saja! Anda dapat menyesuaikan warna, tema, dan bahkan menentukan elemen yang harus dimasukkan atau dikeluarkan dalam karya seni Anda, memungkinkan penyesuaian yang lebih besar."
+      },
+      {
+        "question": "Format apa yang dapat saya unduh untuk karya seni saya?",
+        "answer": "Karya seni yang dihasilkan tersedia dalam format resolusi tinggi seperti PNG dan JPEG, sempurna untuk penggunaan digital dan pencetakan."
+      },
+      {
+        "question": "Apa bedanya dengan alat seni digital tradisional?",
+        "answer": "Berbeda dengan alat tradisional yang memerlukan keterampilan dan pengalaman, pembuat seni AI kami menyederhanakan prosesnya. Anda menggambarkan ide Anda, dan AI membuatnya, menjadikan seni dapat diakses oleh semua orang."
+      },
+      {
+        "question": "Apakah ada batasan seberapa banyak karya seni yang dapat saya hasilkan?",
+        "answer": "Tidak ada batasan! Anda dapat membuat sebanyak mungkin karya seni yang Anda inginkan, memudahkan untuk mengeksplorasi berbagai konsep kreatif tanpa batasan."
+      },
+      {
+        "question": "Dapatkah saya menggunakan karya seni yang dihasilkan untuk tujuan komersial?",
+        "answer": "Ya! Semua karya seni yang dihasilkan dilengkapi dengan hak komersial penuh, memungkinkan Anda untuk menggunakannya dalam proyek, pada produk, atau sebagai bagian dari bisnis Anda."
+      },
+      {
+        "question": "Bagaimana jika saya tidak suka hasilnya?",
+        "answer": "Anda dapat memperbaiki masukan Anda dan mencoba lagi sampai Anda mencapai karya seni yang memenuhi harapan Anda. AI belajar dari preferensi Anda dengan setiap upaya."
+      },
+      {
+        "question": "Apakah saya perlu pengalaman desain untuk menggunakan alat ini?",
+        "answer": "Tidak diperlukan pengalaman desain! Cukup deskripsikan ide Anda dan biarkan AI melakukan sisanya, memudahkan siapa saja untuk membuat seni yang indah."
+      },
+      {
+        "question": "Bagaimana cara memberikan umpan balik tentang karya seni yang saya buat?",
+        "answer": "Anda dapat memberikan umpan balik langsung melalui platform yang dapat membantu kami meningkatkan kinerja AI dan pengalaman keseluruhan Anda."
+      },
+      {
+        "question": "Apakah ada dukungan pelanggan yang tersedia?",
+        "answer": "Ya! Kami menawarkan dukungan menyeluruh melalui obrolan dan email, bersama dengan tutorial dan sumber daya untuk membantu Anda memaksimalkan pengalaman Anda."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Membuat Karya Seni AI Pertama Anda?",
+    "description": "Mulai dengan kredit gratis - Rasakan kreativitas",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Buat Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap untuk Mengubah Ide Anda Menjadi Seni?",
+    "description": "Coba WaveSpeed AI sekarang dan rasakan kreativitas dari AI. Tanpa pendaftaran yang diperlukan.",
+    "ctaText": "Buat Seni Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi."
+  }
+}

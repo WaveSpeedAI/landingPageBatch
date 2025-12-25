@@ -1,0 +1,230 @@
+{
+  "language": "fr",
+  "title": "WaveSpeed AI - Fonctionnalité de Rotoscopie IA",
+  "meta": {
+    "description": "Révolutionnez votre montage vidéo avec la rotoscopie alimentée par l'IA. Créez des animations et des effets visuels époustouflants en quelques minutes. Idéal pour les cinéastes et les créateurs de contenu. Explorez l'avenir du montage vidéo avec WaveSpeed !",
+    "keywords": "rotoscopie IA, montage vidéo IA, création d'animations, générateur d'effets visuels, rotoscopie WaveSpeed, outils vidéo créatifs, automatisation de la production cinématographique, logiciel de création de contenu, animation sans couture, efficacité de la production vidéo"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Accueil",
+        "items": [
+          [
+            "Accueil",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Outils IA",
+        "items": [
+          [
+            "Outils IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Essayez-le maintenant"
+  },
+  "hero": {
+    "heading": "Rotoscopie Avancée",
+    "subHeading": "Création d'Animation Sans Couture au Bout de Vos Doigts",
+    "description": "Transformez vos vidéos avec précision en isolant des éléments grâce à notre rotoscopie pilotée par l'IA. Créez des animations captivantes et des effets visuels sans effort. Découvrez la puissance de la rotoscopie automatisée dès aujourd'hui !",
+    "tryText": "Commencez Maintenant",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solution de Rotoscopie WaveSpeed IA",
+    "left": {
+      "heading": "Défis Traditionnels",
+      "items": [
+        "Masquage manuel chronophage",
+        "Nécessite des compétences avancées et des logiciels",
+        "Équipements coûteux et licences logicielles",
+        "Difficultés avec des arrière-plans complexes",
+        "Flexibilité créative limitée"
+      ]
+    },
+    "right": {
+      "heading": "Solution WaveSpeedAI",
+      "items": [
+        "Masquage instantané et isolation d'objets",
+        "Interface conviviale pour tous les niveaux de compétence",
+        "Modèle de paiement à l'utilisation abordable",
+        "Gestion des arrière-plans complexes sans effort",
+        "Stimule la créativité avec des possibilités infinies"
+      ],
+      "tryText": "Essayez"
+    }
+  },
+  "howItWorks": {
+    "heading": "Comment Cela Fonctionne",
+    "description": "Des scènes statiques aux animations dynamiques en 4 étapes faciles",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Télécharger la Vidéo",
+        "text": "Téléchargez vos séquences nécessitant de la rotoscopie",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Sélectionner des Éléments",
+        "text": "Choisissez les sujets ou objets à isoler",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Affiner les Bords",
+        "text": "Ajustez les bords de masquage pour des transitions fluides",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Télécharger l'Animation",
+        "text": "Obtenez votre clip animé prêt à être utilisé en quelques minutes",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Créez Votre Première Vidéo Rotoscopée →"
+  },
+  "endlessPossibilities": {
+    "heading": "Possibilités Infinies",
+    "description": "Parfait pour les cinéastes, artistes et créateurs de contenu",
+    "items": [
+      "Animation de personnages pour des courts métrages",
+      "Intégration d'effets visuels dans des séquences en direct",
+      "Publicités créatives et spots",
+      "Animations éducatives",
+      "Effets de vidéoclips",
+      "Cinématiques de jeux vidéo",
+      "Contenu pour les réseaux sociaux avec style",
+      "Expériences de réalité virtuelle"
+    ]
+  },
+  "successStories": {
+    "heading": "Véritables Histoires de Réussite",
+    "description": "Voyez comment les créateurs transforment leurs projets avec l'IA",
+    "items": [
+      {
+        "tag": "Production Cinématographique",
+        "heading": "Court Métrage Indépendant",
+        "before": {
+          "label": "Avant",
+          "text": "3 semaines"
+        },
+        "after": {
+          "label": "Après",
+          "text": "2 heures"
+        },
+        "value": "99.9%",
+        "key": "Temps Économisé",
+        "description": "Nous avons complété toute la séquence d'animation pour notre court métrage en une fraction du temps. Les visuels sont époustouflants !"
+      },
+      {
+        "tag": "Agences de Marketing",
+        "heading": "Publicité de Produit",
+        "before": {
+          "label": "Avant",
+          "text": "8100"
+        },
+        "after": {
+          "label": "Après",
+          "text": "800"
+        },
+        "value": "90%",
+        "key": "Réduction de Coût",
+        "description": "La rotoscopie nous a permis de réduire considérablement les coûts tout en maintenant des animations de haute qualité qui ont captivé notre public."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparaison des Outils de Rotoscopie",
+    "description": "Choisissez la meilleure approche pour vos projets",
+    "items": [
+      "Rotoscopie Standard : Processus manuels, intensifs en main-d'œuvre, exigences de compétences élevées",
+      "Rotoscopie IA : Isolation d'objets instantanée, ajustements faciles, retour rapide",
+      "Masques personnalisables avec mouvements naturels",
+      "Intégration sans couture avec les logiciels de montage vidéo",
+      "Créativité améliorée avec des itérations rapides",
+      "Prend en charge divers formats vidéo pour des applications variées"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Outils IA Connexes",
+    "description": "Découvrez d'autres solutions IA innovantes pour les créateurs"
+  },
+  "faq": {
+    "heading": "Questions Fréquemment Posées",
+    "description": "Tout ce que vous devez savoir",
+    "items": [
+      {
+        "question": "Quels formats vidéo sont compatibles pour la rotoscopie ?",
+        "answer": "Nous supportons tous les formats vidéo majeurs, y compris MP4, AVI et MOV. Assurez-vous que vos vidéos sont claires et bien éclairées pour des résultats optimaux."
+      },
+      {
+        "question": "Quelle est la précision de l'IA dans le masquage des objets ?",
+        "answer": "Notre IA offre des capacités de masquage précises, atteignant souvent une isolation parfaite par image. Des ajustements peuvent être effectués manuellement pour des résultats parfaits."
+      },
+      {
+        "question": "Puis-je utiliser les animations à des fins commerciales ?",
+        "answer": "Oui ! Toutes les animations créées via WaveSpeed Studio disposent de droits commerciaux complets. Utilisez-les pour le marketing, les films et plus encore."
+      },
+      {
+        "question": "Que faire si je n'ai jamais fait de rotoscopie auparavant ?",
+        "answer": "Pas de problème ! Notre interface conviviale facilite la tâche pour les débutants, avec des tutoriels et des lignes directrices disponibles pour vous aider."
+      },
+      {
+        "question": "Combien de temps faut-il pour que mes clips animés soient prêts ?",
+        "answer": "En général, le traitement prend seulement quelques minutes, selon la longueur et la complexité de la vidéo."
+      },
+      {
+        "question": "Y a-t-il un support client disponible ?",
+        "answer": "Absolument ! Nous fournissons une documentation détaillée, des tutoriels vidéo et un support client via chat et e-mail pour vous assister."
+      },
+      {
+        "question": "Puis-je éditer mes clips après la rotoscopie ?",
+        "answer": "Oui, après avoir exporté vos animations, vous pouvez les éditer davantage dans n'importe quel logiciel de montage vidéo majeur."
+      },
+      {
+        "question": "Quelles options de tarification sont disponibles pour la rotoscopie ?",
+        "answer": "Nous proposons un modèle de tarification flexible à l'utilisation, ne facturant que les vidéos que vous générez, sans frais cachés."
+      },
+      {
+        "question": "Y a-t-il des limitations sur le nombre de vidéos que je peux créer ?",
+        "answer": "Il n'y a pas de limites ! Vous pouvez créer autant de vidéos rotoscopées que vous le souhaitez à tout moment."
+      },
+      {
+        "question": "Quelles industries peuvent bénéficier de la rotoscopie IA ?",
+        "answer": "La rotoscopie IA est utile dans le cinéma, la publicité, l'éducation, les jeux vidéo et les réseaux sociaux, révolutionnant la création des visuels."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Prêt à Transformer Vos Vidéos avec la Rotoscopie ?",
+    "description": "Commencez gratuitement et donnez vie à vos visions créatives !",
+    "contactUsText": "Contactez-nous",
+    "tryText": "Essayez-le Maintenant →"
+  },
+  "footer": {
+    "heading": "Prêt à Améliorer Vos Vidéos ?",
+    "description": "Découvrez la puissance de la rotoscopie IA avec WaveSpeed. Aucune inscription nécessaire.",
+    "ctaText": "Commencez la Rotoscopie Maintenant",
+    "text": "© 2025 WaveSpeed AI. Tous droits réservés."
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "language": "id",
+  "title": "WaveSpeed AI - Pemisah Video",
+  "meta": {
+    "description": "Dengan mudah membagi video panjang menjadi klip yang dapat dibagikan menggunakan teknologi AI canggih. Sempurna untuk media sosial, pemasaran, dan pembuatan konten. Mulai tingkatkan strategi video Anda hari ini!",
+    "keywords": "pemisah video, pengeditan video AI, otomatisasi video, klip media sosial, pembuatan konten, pemasaran video, alat pengeditan video, WaveSpeed AI, manajemen video, alat video e-commerce, berbagi video, strategi konten video"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Beranda",
+        "items": [
+          [
+            "Beranda",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Alat AI",
+        "items": [
+          [
+            "Alat AI",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Pameran",
+        "items": [
+          [
+            "Pameran",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Coba sekarang"
+  },
+  "hero": {
+    "heading": "Pemisah Video",
+    "subHeading": "Ubah Video Panjang Menjadi Klip Menarik",
+    "description": "Dengan mudah membagi video panjang menjadi segmen kecil yang sempurna untuk media sosial dan pemasaran. Maksimalkan keterlibatan dan jangkauan dengan presisi berbasis AI. Mulai bagi video Anda hari ini!",
+    "tryText": "Coba Sekarang",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solusi Pemisah Video WaveSpeed AI",
+    "left": {
+      "heading": "Tantangan Pengeditan Video Tradisional",
+      "items": [
+        "Proses pengeditan yang memakan waktu",
+        "Memerlukan perangkat lunak dan keterampilan mahal",
+        "Pemotongan dan pemangkasan manual itu membosankan",
+        "Opsi output terbatas untuk klip yang disesuaikan",
+        "Peluang kehilangan kualitas video selama pengeditan"
+      ]
+    },
+    "right": {
+      "heading": "Solusi WaveSpeed AI",
+      "items": [
+        "Otomatiskan pemisahan video dalam hitungan detik",
+        "Tidak diperlukan keterampilan pengeditan - Cukup unggah video Anda",
+        "Hasil instan yang disesuaikan untuk berbagi sosial",
+        "Sesuaikan klip dengan durasi yang telah ditentukan",
+        "Langganan hemat biaya dengan kredit untuk penggunaan"
+      ],
+      "tryText": "Coba"
+    }
+  },
+  "howItWorks": {
+    "heading": "Cara Kerjanya",
+    "description": "Pemisahan video Anda dengan efisien dalam tiga langkah mudah",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Unggah Video",
+        "text": "Tambahkan file video Anda ke platform",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Tentukan Titik Pemisahan",
+        "text": "Pilih timestamp tertentu untuk klip yang ingin Anda buat",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Unduh Klip",
+        "text": "Dapatkan segmen video berkualitas tinggi siap untuk dibagikan",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      }
+    ],
+    "generateText": "Hasilkan Klip Pertama Anda →"
+  },
+  "endlessPossibilities": {
+    "heading": "Kemungkinan Tak Terbatas",
+    "description": "Ideal untuk berbagai strategi konten",
+    "items": [
+      "Buat potongan video promosi",
+      "Klip media sosial yang dapat dibagikan",
+      "Reel sorotan untuk presentasi",
+      "Segmen tutorial dan demo",
+      "Video rekap acara",
+      "Potongan testimoni pelanggan",
+      "Segmen kolaborasi influencer",
+      "Sorotan streaming langsung"
+    ]
+  },
+  "successStories": {
+    "heading": "Kisah Sukses Nyata",
+    "description": "Temukan bagaimana merek mengoptimalkan konten video mereka dengan AI",
+    "items": [
+      {
+        "tag": "Ritel Mode",
+        "heading": "Klip Iklan Cepat",
+        "before": {
+          "label": "Sebelum",
+          "text": "5 jam untuk pengeditan"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "5 menit per klip"
+        },
+        "value": "83%",
+        "key": "Pengurangan Waktu",
+        "description": "Kami mengubah strategi iklan kami dan meningkatkan keterlibatan media sosial sebesar 60%."
+      },
+      {
+        "tag": "Startup Teknologi",
+        "heading": "Video Peluncuran Produk",
+        "before": {
+          "label": "Sebelum",
+          "text": "Layanan mahal"
+        },
+        "after": {
+          "label": "Sesudah",
+          "text": "Produksi internal yang terjangkau"
+        },
+        "value": "90%",
+        "key": "Hemat Biaya",
+        "description": "Dengan fitur pemisahan, kami dapat dengan cepat membuat banyak klip untuk peluncuran kami, meningkatkan jangkauan kami tanpa usaha."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Perbandingan Model AI",
+    "description": "Pilih fitur yang tepat untuk kebutuhan pemisahan Anda",
+    "items": [
+      "Pemotongan otomatis: Bagi video panjang secara mulus di timestamp yang tepat",
+      "Generasi klip dinamis untuk berbagai platform sosial",
+      "Antarmuka yang ramah pengguna untuk pengeditan intuitif",
+      "Pemrosesan batch untuk beberapa video sekaligus",
+      "Opsi ekspor yang disesuaikan untuk setiap platform media sosial"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Alat AI Terkait",
+    "description": "Jelajahi lebih banyak alat AI yang kuat untuk peningkatan video"
+  },
+  "faq": {
+    "heading": "Pertanyaan Yang Sering Diajukan",
+    "description": "Segala sesuatu yang perlu Anda ketahui",
+    "items": [
+      {
+        "question": "Format video apa saja yang didukung untuk pemisahan?",
+        "answer": "Kami mendukung format video yang paling umum termasuk MP4, AVI, dan MOV, memastikan file Anda dapat dengan mudah diunggah dan diproses tanpa kesulitan."
+      },
+      {
+        "question": "Bisakah saya membagi video menjadi panjang kustom?",
+        "answer": "Tentu saja! Anda dapat menentukan timestamp yang tepat untuk klip Anda, memungkinkan segmen yang disesuaikan sesuai kebutuhan pemasaran Anda."
+      },
+      {
+        "question": "Apakah ada batasan panjang video yang dapat saya unggah?",
+        "answer": "Platform kami dapat menangani video hingga 60 menit untuk pemisahan, memberikan fleksibilitas untuk berbagai jenis konten."
+      },
+      {
+        "question": "Berapa lama waktu yang dibutuhkan untuk membagi video saya?",
+        "answer": "Pemisahan video instan! Tergantung pada panjang dan kompleksitasnya, Anda dapat mengharapkan klip Anda siap dalam hitungan detik."
+      },
+      {
+        "question": "Bisakah saya mengedit ulang klip setelah dibuat?",
+        "answer": "Ya, Anda dapat mengunjungi video yang telah Anda bagi kapan saja dan membuat versi baru atau menyesuaikan segmen yang sudah ada sesuai kebutuhan."
+      },
+      {
+        "question": "Apakah ada biaya untuk setiap klip yang dihasilkan?",
+        "answer": "Harga kami berdasarkan model bayar sesuai penggunaan, artinya Anda hanya membayar untuk klip yang Anda proses, sehingga ramah anggaran."
+      },
+      {
+        "question": "Apakah ada versi seluler yang tersedia?",
+        "answer": "Saat ini, platform kami dioptimalkan untuk penggunaan desktop, tetapi kami sedang mempertimbangkan kemampuan seluler untuk pembaruan di masa depan."
+      },
+      {
+        "question": "Jenis dukungan apa yang diberikan WaveSpeed?",
+        "answer": "WaveSpeed menawarkan dukungan pelanggan yang komprehensif termasuk dokumentasi, tutorial, dan bantuan langsung melalui obrolan dan email untuk semua pertanyaan Anda."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Siap untuk Membagi Video Pertama Anda?",
+    "description": "Manfaatkan kredit gratis - Rasakan kemudahan sekarang",
+    "contactUsText": "Hubungi Kami",
+    "tryText": "Coba Sekarang →"
+  },
+  "footer": {
+    "heading": "Siap untuk Mengubah Video Anda?",
+    "description": "Rasakan WaveSpeed AI sekarang dan tingkatkan strategi konten Anda. Tidak diperlukan pendaftaran.",
+    "ctaText": "Bagi Video Sekarang",
+    "text": "© 2025 WaveSpeed AI. Semua hak dilindungi."
+  }
+}

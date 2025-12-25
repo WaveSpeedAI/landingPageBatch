@@ -1,0 +1,221 @@
+{
+  "language": "pt",
+  "title": "WaveSpeed AI - Efeito Ken Burns com IA",
+  "meta": {
+    "description": "Eleve sua narrativa transformando imagens estáticas em vídeos cativantes com o Efeito Ken Burns com IA. Perfeito para apresentações envolventes, anúncios em redes sociais e campanhas de marketing. Experimente um movimento fluido e visuais dinâmicos que cativam seu público.",
+    "keywords": "Efeito Ken Burns com IA, transição de imagem para vídeo, animação de imagem dinâmica, ferramenta de vídeo para marketing, gráficos em movimento, aprimoramento de vídeo para e-commerce, criador de vídeo para redes sociais, narrativa visual, vitrine de produtos, vídeos de apresentação envolventes, gerador de vídeo promocional"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Início",
+        "items": [
+          [
+            "Início",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "Ferramentas de IA",
+        "items": [
+          [
+            "Ferramentas de IA",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Experimente agora"
+  },
+  "hero": {
+    "heading": "Transforme Suas Imagens",
+    "subHeading": "Dê Vida às Suas Fotos com Movimento Dinâmico",
+    "description": "Crie vídeos deslumbrantes a partir de imagens estáticas usando o Efeito Ken Burns com IA. Envolva seu público com movimento fluido e histórias cativantes. Nenhuma habilidade de filmagem ou edição necessária—basta fazer o upload de suas imagens e começar a criar!",
+    "tryText": "Experimente Agora",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "Solução WaveSpeed AI Efeito Ken Burns com IA",
+    "left": {
+      "heading": "Desafios Tradicionais",
+      "items": [
+        "Imagens estáticas não conseguem engajar os espectadores",
+        "Animação manual é demorada e complexa",
+        "Ferramentas profissionais são caras e requerem treinamento",
+        "Necessidade de conteúdo visual cativante para campanhas",
+        "Criatividade limitada em apresentações tradicionais"
+      ]
+    },
+    "right": {
+      "heading": "Solução WaveSpeed AI",
+      "items": [
+        "Transforme imagens paradas em histórias de vídeo envolventes em segundos",
+        "Uploads sem esforço, sem habilidades de animação necessárias",
+        "Crie narrativas visuais dinâmicas instantaneamente",
+        "Explore adaptações criativas ilimitadas",
+        "Opções de precificação acessíveis para todos os negócios"
+      ],
+      "tryText": "Experimente"
+    }
+  },
+  "howItWorks": {
+    "heading": "Como Funciona",
+    "description": "Anime facilmente imagens em 4 passos simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Faça o Upload da Sua Imagem",
+        "text": "Escolha uma foto que conte uma história ou evoca emoção",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Aplique o Efeito Ken Burns",
+        "text": "Selecione os efeitos de zoom e pan que você deseja para sua imagem",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Personalize o Movimento",
+        "text": "Ajuste a velocidade e a direção do movimento para se adequar à sua visão",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Renderize Seu Vídeo",
+        "text": "Receba seu vídeo animado em HD em menos de 2 minutos",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Gere Seu Primeiro Vídeo →"
+  },
+  "endlessPossibilities": {
+    "heading": "Usos Criativos Infinitos",
+    "description": "Transforme seus visuais para qualquer setor",
+    "items": [
+      "Vídeos de marketing para produtos e serviços",
+      "Anúncios e conteúdo para redes sociais",
+      "Apresentações educacionais envolventes",
+      "Recapitulações de eventos e destaques",
+      "Histórias da empresa e destaques da marca",
+      "Exibições de propriedades imobiliárias",
+      "Portfólios e galerias artísticas",
+      "Vídeos memoráveis de casamentos e eventos"
+    ]
+  },
+  "successStories": {
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Descubra como os usuários melhoram seus vídeos com IA",
+    "items": [
+      {
+        "tag": "Fotografia",
+        "heading": "Exibições de Fotos de Eventos",
+        "before": {
+          "label": "Antes",
+          "text": "Slides Estáticos"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Vídeo Dinâmico"
+        },
+        "value": "150%",
+        "key": "Aumento de Engajamento",
+        "description": "Usar o efeito Ken Burns em nossos vídeos em destaque resultou em um aumento de 150% no engajamento dos espectadores."
+      },
+      {
+        "tag": "Imóveis",
+        "heading": "Exibição de Propriedades",
+        "before": {
+          "label": "Antes",
+          "text": "Imagens Básicas"
+        },
+        "after": {
+          "label": "Depois",
+          "text": "Tours Animados"
+        },
+        "value": "200%",
+        "key": "Aumento de Conversão",
+        "description": "Ao adicionar movimento às nossas listagens de propriedades, vimos um aumento de 200% nas consultas e mostramos as propriedades de forma mais eficaz."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "Comparação de Modelos de IA",
+    "description": "Escolha a ferramenta certa para o seu projeto",
+    "items": [
+      "Animação Padrão: Efeitos de movimento básicos, transições suaves, ideal para histórias simples",
+      "Animação Avançada: Capacidades complexas de zoom e pan, perfeita para apresentações de mídia mista",
+      "Opções de personalização flexíveis para usuários de todos os níveis de habilidade",
+      "Saída em alta definição para resultados profissionais",
+      "Geração instantânea de vídeo, independentemente do volume de imagens"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Explore mais ferramentas inovadoras para visuais deslumbrantes"
+  },
+  "faq": {
+    "heading": "Perguntas Frequentes",
+    "description": "Tudo o que você precisa saber",
+    "items": [
+      {
+        "question": "Que tipo de imagens funcionam melhor para o efeito Ken Burns?",
+        "answer": "Imagens de alta qualidade com assuntos e fundos interessantes geram os melhores resultados. Certifique-se de que elas sejam nítidas e bem compostas para aproveitar ao máximo os efeitos de movimento."
+      },
+      {
+        "question": "Posso personalizar os efeitos de movimento?",
+        "answer": "Absolutamente! Você pode controlar o nível de zoom, a direção do pan e a velocidade do efeito Ken Burns para criar uma experiência de visualização personalizada."
+      },
+      {
+        "question": "Quanto tempo leva a renderização do vídeo?",
+        "answer": "A renderização normalmente leva de 1 a 2 minutos por vídeo, permitindo que você crie várias animações de maneira eficiente."
+      },
+      {
+        "question": "Há um limite para o número de vídeos que posso criar?",
+        "answer": "Sem limites! Você pode criar quantos vídeos desejar, facilitando a produção de conteúdo envolvente para vários usos."
+      },
+      {
+        "question": "Há custos envolvidos?",
+        "answer": "Oferecemos um modelo de preços pay-as-you-go, cobrando apenas pelos vídeos que você gera, garantindo flexibilidade e acessibilidade."
+      },
+      {
+        "question": "Preciso de software especial para usar o efeito Ken Burns?",
+        "answer": "Nenhum software adicional é necessário! Tudo está integrado na plataforma WaveSpeed para sua conveniência."
+      },
+      {
+        "question": "Vou manter os direitos sobre os vídeos que crio?",
+        "answer": "Sim! Você possui direitos comerciais totais sobre todos os vídeos produzidos, permitindo que os utilize em qualquer plataforma ou meio."
+      },
+      {
+        "question": "Que suporte está disponível se eu encontrar problemas?",
+        "answer": "Suporte abrangente é fornecido através de nossa documentação, vídeos e uma equipe de suporte responsiva disponível por e-mail ou chat ao vivo."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para Criar Vídeos Dinâmicos?",
+    "description": "Comece a usar o Efeito Ken Burns com IA hoje e anime suas imagens sem esforço.",
+    "contactUsText": "Entre em Contato",
+    "tryText": "Experimente Agora →"
+  },
+  "footer": {
+    "heading": "Pronto para Animar Suas Fotos?",
+    "description": "Explore o Efeito Ken Burns com IA agora e eleve seus visuais! Nenhum cadastro necessário.",
+    "ctaText": "Transformar Minhas Imagens Agora",
+    "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
+  }
+}

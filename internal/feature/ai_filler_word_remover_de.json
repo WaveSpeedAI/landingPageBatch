@@ -1,0 +1,229 @@
+{
+  "language": "de",
+  "title": "WaveSpeed AI - KI Füllwort Entferner",
+  "meta": {
+    "description": "Eliminieren Sie mühelos unnötige Füllwörter aus Ihrem Text mit WaveSpeed AI. Verbessern Sie Klarheit und Professionalität in Ihrem Schreiben, ideal für geschäftliche Kommunikation, Content-Erstellung und mehr. Erleben Sie nahtloses Bearbeiten und heben Sie Ihren Inhalt sofort hervor!",
+    "keywords": "Füllwort Entferner, KI Texteditor, Schreibklarheit verbessern, Content-Optimierungswerkzeug, professionelle Schreibhilfe, Verbesserung der Geschäftskommunikation, Textklarheitswerkzeug, KI Schreibhelfer, Klarheit in der Kommunikation, Content-Erstellungstool"
+  },
+  "header": {
+    "nav": [
+      {
+        "label": "Startseite",
+        "items": [
+          [
+            "Startseite",
+            "https://wavespeed.ai/"
+          ]
+        ]
+      },
+      {
+        "label": "KI-Tools",
+        "items": [
+          [
+            "KI-Tools",
+            "#ai_tools"
+          ]
+        ]
+      },
+      {
+        "label": "Vitrine",
+        "items": [
+          [
+            "Vitrine",
+            "https://wavespeed.ai/studio/ecommerce/showcase"
+          ]
+        ]
+      }
+    ],
+    "tryText": "Jetzt ausprobieren"
+  },
+  "hero": {
+    "heading": "Füllwort Entferner",
+    "subHeading": "Verbessern Sie Ihre Texte, indem Sie Füllwörter entfernen",
+    "description": "Verabschieden Sie sich von unnötigen Füllwörtern, die Ihr Schreiben überladen. Unsere KI-Technologie analysiert und verfeinert Ihren Text, sodass jedes Wort zählt. Optimieren Sie Ihre Kommunikation und verstärken Sie die Wirkung Ihrer Botschaft. Beginnen Sie jetzt mit der Transformation Ihres Schreibens!",
+    "tryText": "Füllwörter jetzt entfernen",
+    "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
+  },
+  "compare": {
+    "heading": "WaveSpeed AI Füllwort Entferner Lösung",
+    "left": {
+      "heading": "Häufige Schreibprobleme",
+      "items": [
+        "Text voller unnötiger Wörter",
+        "Mangel an Klarheit und Direktheit",
+        "Geringere Leserbindung",
+        "Zeitaufwendiger Bearbeitungsprozess",
+        "Inkonsistente Schreibqualität"
+      ]
+    },
+    "right": {
+      "heading": "WaveSpeed AI Lösung",
+      "items": [
+        "Füllwörter sofort identifizieren und entfernen",
+        "Klarheit und Lesbarkeit in Sekunden verbessern",
+        "Bindung und Kommunikation fördern",
+        "Müheloses Bearbeitungserlebnis",
+        "Erschwinglich und für alle Schriftsteller zugänglich"
+      ],
+      "tryText": "Versuchen"
+    }
+  },
+  "howItWorks": {
+    "heading": "Wie es funktioniert",
+    "description": "Verfeinern Sie Ihr Schreiben in drei mühelosen Schritten",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Text einfügen",
+        "text": "Kopieren Sie einfach Ihren Text und fügen Sie ihn in das Tool ein",
+        "color": "#3b82f6",
+        "icon": "BlueStar"
+      },
+      {
+        "number": "2",
+        "title": "Inhalt analysieren",
+        "text": "Die KI analysiert Ihr Schreiben, um Füllwörter zu finden",
+        "color": "#a855f7",
+        "icon": "PurpleCircle"
+      },
+      {
+        "number": "3",
+        "title": "Vorschläge überprüfen",
+        "text": "Überprüfen Sie vorgeschlagene Änderungen zur Verbesserung der Lesbarkeit",
+        "color": "#14b8a6",
+        "icon": "GreenSquares"
+      },
+      {
+        "number": "4",
+        "title": "Polierten Text kopieren",
+        "text": "Holen Sie sich Ihren überarbeiteten Text bereit zur Verwendung in jedem Kontext",
+        "color": "#fb923c",
+        "icon": "OrangeHex"
+      }
+    ],
+    "generateText": "Verfeinern Sie Ihr Schreiben jetzt →"
+  },
+  "endlessPossibilities": {
+    "heading": "Endlose Möglichkeiten",
+    "description": "Perfekt für alle Arten von Schreiben",
+    "items": [
+      "Geschäftliche E-Mails und Berichte",
+      "Blogbeiträge und Artikel",
+      "Schulaufsätze und Aufgaben",
+      "Inhalte für soziale Medien",
+      "Marketingmaterialien und Anzeigen",
+      "Professionelle Präsentationen",
+      "Kreatives Schreiben",
+      "Drehbücher und Dialoge"
+    ]
+  },
+  "successStories": {
+    "heading": "Echte Erfolgsgeschichten",
+    "description": "Sehen Sie, wie unser Tool die Schreibqualität verbessert",
+    "items": [
+      {
+        "tag": "Content-Erstellung",
+        "heading": "Verbesserte Blogbindung",
+        "before": {
+          "label": "Vorher",
+          "text": "Überladene Schrift"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Klar und prägnant"
+        },
+        "value": "50%",
+        "key": "Bindungssteigerung",
+        "description": "Durch klarere Beiträge stiegen die Blogkommentare erheblich und erhöhten den Traffic."
+      },
+      {
+        "tag": "Unternehmenskommunikation",
+        "heading": "Optimierte E-Mail-Kommunikation",
+        "before": {
+          "label": "Vorher",
+          "text": "Wortreiche E-Mails"
+        },
+        "after": {
+          "label": "Nachher",
+          "text": "Direkt und wirkungsvoll"
+        },
+        "value": "40%",
+        "key": "Zeit gespart",
+        "description": "Teams erlebten schnellere Antworten, dank prägnanter E-Mail-Strukturen."
+      }
+    ]
+  },
+  "modelComparison": {
+    "heading": "KI-Tool Vergleich",
+    "description": "Verstehen Sie unsere einzigartigen Fähigkeiten",
+    "items": [
+      "Echtzeitanalyse für sofortige Bearbeitungen",
+      "Anpassbare Filter für verschiedene Schreibstile",
+      "KI-Einblicke zu Engagement-Metriken",
+      "Benutzerfreundliche Oberfläche für mühelose Navigation",
+      "Unterstützung für mehrere Sprachen mit kontextbezogenen Anpassungen"
+    ]
+  },
+  "relatedAITools": {
+    "heading": "Ähnliche KI-Tools",
+    "description": "Entdecken Sie leistungsstärkere Schreibwerkzeuge für besseren Content"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "description": "Alles, was Sie wissen müssen",
+    "items": [
+      {
+        "question": "Welche Arten von Füllwörtern können Sie entfernen?",
+        "answer": "Das Tool kann häufige Füllwörter wie 'gerade', 'sehr', 'wirklich' und andere, die wenig Bedeutung hinzufügen, identifizieren und deren Entfernung vorschlagen."
+      },
+      {
+        "question": "Kann dieses Tool meinen Schreibstil verbessern?",
+        "answer": "Ja! Indem unnötige Wörter entfernt werden, wird Ihr Schreibstil klarer und direkter, was die Lesbarkeit erheblich verbessert."
+      },
+      {
+        "question": "Ist es für professionelle Dokumente geeignet?",
+        "answer": "Absolut! Es ist darauf ausgelegt, die Klarheit in allen Arten von professionellem Schreiben zu verbessern und Ihnen zu helfen, Ihre Botschaft effektiver zu vermitteln."
+      },
+      {
+        "question": "Funktioniert das Tool mit verschiedenen Sprachen?",
+        "answer": "Ja! Die KI wurde optimiert, um mit mehreren Sprachen zu arbeiten, und kann sich an verschiedene Schreibstile und Kontexte anpassen."
+      },
+      {
+        "question": "Muss ich mich anmelden, um es zu benutzen?",
+        "answer": "Für den Einstieg ist keine Anmeldung erforderlich. Sie können Ihren Text einfügen und sofort mit der Verbesserung beginnen."
+      },
+      {
+        "question": "Wie lange dauert es, meinen Text zu analysieren?",
+        "answer": "Die Textanalyse erfolgt in Sekunden, sodass Sie Ihr Schreiben schnell ohne Mühe verfeinern können."
+      },
+      {
+        "question": "Kann ich es für kreatives Schreiben verwenden?",
+        "answer": "Ja! Es ist perfekt für jede Form des Schreibens, einschließlich kreativer Werke, und sorgt dafür, dass Ihre Stimme klar und wirkungsvoll bleibt."
+      },
+      {
+        "question": "Wird dieses Tool meine Stimme oder meinen Ton ändern?",
+        "answer": "Nein, das Tool konzentriert sich darauf, unnötige Wörter zu entfernen, während Ihre einzigartige Stimme und Ihr Ton im Inhalt erhalten bleiben."
+      },
+      {
+        "question": "Ist der Service kostenlos zu nutzen?",
+        "answer": "Wir bieten kostenlose Credits für neue Benutzer an, um den Service auszuprobieren, mit erschwinglichen Optionen für die Fortsetzung der Nutzung."
+      },
+      {
+        "question": "Was, wenn ich viel Text bearbeiten muss?",
+        "answer": "Sie können größere Texte problemlos in Chargen verarbeiten, um Ihren Bearbeitungsworkflow zu optimieren."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Ihr Schreiben zu verbessern?",
+    "description": "Beginnen Sie mit kostenlosen Credits - Erleben Sie jetzt reibungsloses Bearbeiten",
+    "contactUsText": "Kontaktieren Sie uns",
+    "tryText": "Füllwörter jetzt entfernen →"
+  },
+  "footer": {
+    "heading": "Bereit, Ihr Schreiben zu transformieren?",
+    "description": "Probieren Sie WaveSpeed AI jetzt aus und sehen Sie den Unterschied selbst. Keine Anmeldung erforderlich.",
+    "ctaText": "Füllwörter jetzt entfernen",
+    "text": "© 2025 WaveSpeed AI. Alle Rechte vorbehalten."
+  }
+}
